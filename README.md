@@ -4,7 +4,7 @@ README
 CaveXML is a data interchange format for the purpose of facilitating scientific research on caves. This repository provides: CaveXML element and data type definitions, an example database, and a few tools to work with CaveXML-formatted data.  
 
 ## For Data Creators:  
-   `cavexml.html`		  (explains the CaveXML standard)  
+   [`cavexml.md`](./cavexml.md)	  (explains the CaveXML standard)  
    `cavexml.xsd`		  (XML Schema Definition of CaveXML)  
    `cavexml-validate2.py`   (Python program that validates requirements not implemented in cavexml.xsd)
 

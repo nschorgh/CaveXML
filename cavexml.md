@@ -32,42 +32,42 @@ Similar to UISIC field [SY285](http://www.uisic.uis-speleo.org/exchange/atendefn
 For extraterrestrial caves, this element specifies the planetary body where the cave is located. Allowed terms are "Moon", which refers to Earth's moon, and "Mars". All other names or an empty entry imply the cave is located on planet Earth. In fact, "Earth" is not an allowed term, because it is implicit.
 
 **\<state-or-province\>** *string*  
-State or province where the cave entrance is located. This can also be a county or district. [state-or-province] is intended for politically or organizationally defined areas below country level. For physically/geologically defined units, use [phys-area-name] instead.
+State or province where the cave entrance is located. This can also be a county or district. [state-or-province] is intended for politically or organizationally defined areas below country level. For physically/geologically defined units, use [phys-area-name] instead.  
 Generalization of UISIC field [SY287](http://www.uisic.uis-speleo.org/exchange/atendefn.html#287)
 
 **\<principal-cave-name\>** *string, maxOccurs=1*    
-The current formal agreed name for a cave or karst feature, expressed in the local language. Where a new name is awaiting ratification, enclose it in round brackets. The character set is UTF-8, so characters from many languages can be used.
+The current formal agreed name for a cave or karst feature, expressed in the local language. Where a new name is awaiting ratification, enclose it in round brackets. The character set is UTF-8, so characters from many languages can be used.  
 UISIC field [CA70](http://www.uisic.uis-speleo.org/exchange/atendefn.html#70)
 
 **\<other-cave-name\>**  *string*  
-Further names which a cave or karst feature has or has had beyond its current name as given in [principal-cave-name]. Alphanumeric entries, such as cave ids, also belong in this field.
+Further names which a cave or karst feature has or has had beyond its current name as given in [principal-cave-name]. Alphanumeric entries, such as cave ids, also belong in this field.  
 Similar to UISIC field [CA69](http://www.uisic.uis-speleo.org/exchange/atendefn.html#69)
 
 **\<phys-area-name\>**  *string*  
 Name of mountain, volcano, mountain range, island, geologic unit, or another physically-defined unit. Example: Pyrenees. For politically-defined areas use [state-or-province] instead.
 
 **\<latitude\>**  *-90 ≤ decimal ≤ +90, maxOccurs=1*  
-The N-S latitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if north of the equator, negative if south of the equator. Expressed as a real number, rather than as degrees, minutes, and seconds. If both [latitude] and [longitude] have only one significant digit after the decimal point, they have been rounded in order not to reveal the exact location.
+The N-S latitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if north of the equator, negative if south of the equator. Expressed as a real number, rather than as degrees, minutes, and seconds. If both [latitude] and [longitude] have only one significant digit after the decimal point, they have been rounded in order not to reveal the exact location.  
 UISIC fields [CA245](http://www.uisic.uis-speleo.org/exchange/atendefn.html#245) (exact) or [CA21](http://www.uisic.uis-speleo.org/exchange/atendefn.html#21) (coarse)
 
 **\<longitude\>**  *-180 ≤ decimal ≤ +180, maxOccurs=1*  
-The E-W longitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if east of Greenwich, or negative if west of Greenwich. Expressed as a real number, rather than as degrees, minutes, and seconds. If both [latitude] and [longitude] have only one significant digit after the decimal point, they have been rounded in order not to reveal the exact location. (It is statistically improbable that latitude and longitude would each end in several trailing zeros, and it is therefore apparent from the numbers whether the coordinates have been intentionally rounded. The rounding precision is 0.1 degree.)
+The E-W longitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if east of Greenwich, or negative if west of Greenwich. Expressed as a real number, rather than as degrees, minutes, and seconds. If both [latitude] and [longitude] have only one significant digit after the decimal point, they have been rounded in order not to reveal the exact location. (It is statistically improbable that latitude and longitude would each end in several trailing zeros, and it is therefore apparent from the numbers whether the coordinates have been intentionally rounded. The rounding precision is 0.1 degree.)  
 UISIC fields [CA246](http://www.uisic.uis-speleo.org/exchange/atendefn.html#246) (exact) or [CA22](http://www.uisic.uis-speleo.org/exchange/atendefn.html#22) (coarse)
 
 **\<altitude\>** *(special string)*  
-Altitude or range of altitudes of cave entrance(s) in meters above sea level, followed by an optional comment that can be used to clarify the nature of the entry. Multiple [altitude] entries are allowed in a single record. Examples: \~2500 main entrance, 2227 lower entrance, 2227-2500. If a range of altitudes is provided, it should represent the altitudes of the lowest and highest entrance of a cave, and not an uncertainty in altitude. The latter should be indicated with a "\~" sign in front of the number of by adding "coarse" after the altitude value.
+Altitude or range of altitudes of cave entrance(s) in meters above sea level, followed by an optional comment that can be used to clarify the nature of the entry. Multiple [altitude] entries are allowed in a single record. Examples: \~2500 main entrance, 2227 lower entrance, 2227-2500. If a range of altitudes is provided, it should represent the altitudes of the lowest and highest entrance of a cave, and not an uncertainty in altitude. The latter should be indicated with a "\~" sign in front of the number of by adding "coarse" after the altitude value.  
 Similar to UISIC fields [CA442](http://www.uisic.uis-speleo.org/exchange/atendefn.html#442) (altitude) and [CA670](http://www.uisic.uis-speleo.org/exchange/atendefn.html#670) (altitude-comment) combined.
 
 **\<length\>**  *ExtendedUnsignedInteger, maxOccurs=1*  
-The aggregate length of the cave passages in meters, usually obtained by summing the lengths of all surveyed distances. Length differs from horizontal extent. The length should be rounded to the nearest integer.
+The aggregate length of the cave passages in meters, usually obtained by summing the lengths of all surveyed distances. Length differs from horizontal extent. The length should be rounded to the nearest integer.  
 UISIC field [CA56](http://www.uisic.uis-speleo.org/exchange/atendefn.html#56)
 
 **\<vertical-extent\>**  *ExtendedUnsignedInteger, maxOccurs=1*  
-The overall vertical distance in meters between the highest and lowest known points of the cave or karst feature, expressed as an unsigned value. (Sometimes vertical extent is defined as the vertical distance between the highest and lowest survey station.)
+The overall vertical distance in meters between the highest and lowest known points of the cave or karst feature, expressed as an unsigned value. (Sometimes vertical extent is defined as the vertical distance between the highest and lowest survey station.)  
 UISIC field [CA511](http://www.uisic.uis-speleo.org/exchange/atendefn.html#511)
 
 **\<number-of-entrances\>**  *ExtendedUnsignedInteger, maxOccurs=1*  
-The total number of entrances to the cave, whether they are numbered or not. Normally provided only if there is more than one entrance. This is usually a positive integer, but expressions such as \>5 are allowed.
+The total number of entrances to the cave, whether they are numbered or not. Normally provided only if there is more than one entrance. This is usually a positive integer, but expressions such as \>5 are allowed.  
 UISIC field [CA9](http://www.uisic.uis-speleo.org/exchange/atendefn.html#9)
 
 **\<rock-type\>**  *controlled vocabulary*  
@@ -76,7 +76,7 @@ Similar to UISIC field [CA7](http://www.uisic.uis-speleo.org/exchange/atendefn.h
 [List of options:](http://www.uisic.uis-speleo.org/exchange/atencode.html#7) limestone, dune limestone, dolomite, marble, basalt, dolerite, granite, gypsum, ice, lava, magnesite, mudstone, quartzite, sandstone, soil, tuff. The UISIC list has been extended to allow terms that include the geologic period such as "Cambrian limestone".
 
 **\<cave-type\>**  *controlled vocabulary*  
-The cave type(s) according to a pre-defined list of terms.
+The cave type(s) according to a pre-defined list of terms.  
 UISIC field [CA8](http://www.uisic.uis-speleo.org/exchange/atendefn.html#8).  
  [List of options:](http://www.uisic.uis-speleo.org/exchange/atencode.html#8) limestone cave, artificial cave, blowhole, boulder cave, fault-movement cave, glacier cave, lava tunnel, lava vent, mine, rock shelter, sea cave, piping cave, weathering cave, misc. type. The term "lava tunnel" is equivalent to "lava tube".
 
@@ -101,7 +101,7 @@ A [branch-name] is the [principal-cave-name] of named cave branches or cave sege
 Bibliographical reference, often abbreviated as "Author et al. (year) doi". There should only be one reference within one pair of tags. For multiple references use multiple [reference] entries. All references that served as source of the data in the record ought to be entered here. Additional references about the cave can also be entered. A URL can also be a reference.
 
 **\<cave-use\>**  *controlled vocabulary*  
-The present use (if any) being made of the cave. Similar to UISIC field [CA41](http://www.uisic.uis-speleo.org/exchange/atendefn.html#41).
+The present use (if any) being made of the cave. Similar to UISIC field [CA41](http://www.uisic.uis-speleo.org/exchange/atendefn.html#41).  
 CA41 allows [32 predefined terms](http://www.uisic.uis-speleo.org/exchange/atencode.html#41). This list has been shortened to nine terms: guided tourist cave, self-guided tourist cave, waste disposal, habitation, livestock shelter, water source, mine, shrine, temple.
 
 Comments
@@ -118,7 +118,7 @@ Syntax rules (in support of parsing and querying)
 
 -   All text is in UTF-8, so characters from many languages can be used.
 -   All of the controlled vocabulary, except a few country names, happen to use only ASCII characters (which is a subset of UTF-8). Hence, there is no need to ever enter non-ASCII characters for those.
--   XML has five **special characters**: ampersand &, single quote ', double quote ", smaller than \<, and larger than \>. That doesn't mean these characters can't be used; it depends on how they are used. For example, \> can be used in front of a number without problem. The special characters can be expressed by their HTML code, e.g., `'``;` for an apostrophe.
+-   XML has five **special characters**: ampersand &, single quote ', double quote ", smaller than \<, and larger than \>. That doesn't mean these characters can't be used; it depends on how they are used. For example, \> can be used in front of a number without problem. The special characters can be expressed by their HTML code, e.g., `&apos;` for an apostrophe.
 -   **Almost-numerical entries:** Length entries are usually numbers, but they can also be of the form "\>42000", "\~100", or "2000+". A data type "ExtendedUnsignedInteger" has been created for this purpose. ExtendedUnsignedIntegers are positive integers that can contain a few additional symbols. The symbols "\>" and "\~" are allowed in front of the number. The number should contain no comma or decimal point, and digits after the decimal point are prohibited to avoid ambiguities. The elements [length], [vertical-extent], and [number-of-entrances] are ExtendedUnsignedIntegers and therefore obey the same syntax rules. Length and altitude must be rounded to the nearest integer meter. The unit must be meters, not km or feet. After the number, a "+" symbol is allowed, which has the meaning "or more" (≥). Only one symbol is allowed in front of the number, but note that "\>\~100" is equivalent to "\~100+". However, "10+" (for the number of cave entrances) is not equivalent to "\>10" but to "\>9".
 -   **Altitude** is usually a positive decimal number, but it can also have the following forms: "2227 lower entrance", "2500 coarse", "\~700", "500-700", "\>3500", or "4000 upper entrance, coarse". The term "coarse" refers to an approximate value, and is commonly used because the altitude is either not known more accurately or should not be known more accurately. An [altitude] entry starts either with an ExtendedUnsignedInteger, followed by an optional comment, or it is a range of the form "lownumber-highnumber". There can by more than one altitude in a record, e.g., for different cave entrances. Multiple altitudes must be entered in seperate pairs of altitude tags, so each pair of tags contains only one altitute entry.
 -   A Digital Object Identifier **(doi)** in [reference] can be automatically converted to a hyperlink by replacing "doi:" with "https://doi.org:" followed by the doi number. The character sequence the parser will look for is "doi:", in lower or upper case.
@@ -136,11 +136,11 @@ Entries for altitude (elevation) can be even more varied, e.g., "1220-1570" to i
 
 This concludes the description of all the data types that have, so far, been defined in the CaveXML Schema. Table 1 shows the data types associated with each CaveXML element. None of the elements is required to appear in a record, and some elements can occur no more than once.
 
-| Element | XML_data_type | Restrictions | Example |  
-|:--------|:-------------:|:------------:|--------:|  
+| Element               | XML_data_type | Restrictions | Example |  
+|:--------              |:-------------:|:------------:|:--------|  
 |\<country-name\> | token with restriction | pre-defined list of strings | Austria |  
 |\<state-or-province\> | string | - | Salzburg |  
-|\<principal-cave-name\> | string | maxOccurs=1 | Kolowrathöhle |  
+|\<principal-cave-name\>| string | maxOccurs=1 | Kolowrathöhle |  
 |\<other-cave-name\> | string | required if no principal-cave-name given | M-340 |
 |\<phys-area-name\> | string | - | Pyrenees |
 |\<latitude\> | decimal with restriction | range -90...+90, maxOccurs=1 | 47.72792 |
@@ -148,7 +148,7 @@ This concludes the description of all the data types that have, so far, been def
 |\<altitude\> | token with restriction | RegEx pattern | \~1500 main entrance |
 |\<length\> | ExtendedUnsignedInteger | maxOccurs=1 | \>5000 |
 |\<vertical-extent\> | ExtendedUnsignedInteger | maxOccurs=1 | 240 |
-|\<number-of-entrances\> | ExtendedUnsignedInteger | maxOccurs=1 | 7+ |
+|\<number-of-entrances\>| ExtendedUnsignedInteger | maxOccurs=1 | 7+ |
 |\<rock-type\> | token with restriction | pre-defined list of strings | limestone |
 |\<cave-type\> | token with restriction | pre-defined list of strings | glacier cave |
 |\<contents\> | token with restriction | pre-defined list of strings | waterfall(s) |

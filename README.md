@@ -1,7 +1,7 @@
 README
 ======
 
-CaveXML is a data interchange format for the purpose of facilitating scientific research on caves. This repository provides: CaveXML element and data type definitions, an example database, and a few tools to work with CaveXML-formatted data. It is a pilot project to demonstrate the end-to-end capabilities of CaveXML.
+CaveXML is a data interchange format for the purpose of facilitating scientific research on caves. This repository provides: CaveXML element and data type definitions, an example database, and a few tools to work with CaveXML-formatted data.  
 
 ## For Data Creators:  
    `cavexml.html`		  (explains the CaveXML standard)  
@@ -17,10 +17,12 @@ CaveXML is a data interchange format for the purpose of facilitating scientific 
    `-`                      (link to GoogleDocs Sheet with simple query functionality)  
        
 
-Notes
-=====
+This is a pilot project to explore the capabilities of CaveXML end-to-end. The database is for demonstration, and mainly contains ice caves and lava tubes.
 
-cavexml.html describes the meaning of the XML elements used to organize the data, and restrictions for the entries.
+
+## Technical Notes
+
+`cavexml.html` describes the meaning of the XML elements used to organize the data, and restrictions for the entries.
 
 The master copy of the database is in XML format (`allcaves-database.xml`). With the help of `cavexml-db-table.css` the database content can be viewed in a web browser, but this provides a rather poor viewing experience.
 An easy way to view and query the database is through GoogleSheets, where a version of the database has been uploaded. The query abilities are still limited, but include numerical searches on quasi-numerical entries.
@@ -31,5 +33,5 @@ The Python programs serve as examples for how a CaveXML database can be loaded a
 
     xmllint --schema cavexml.xsd allcaves-database.xml --noout  
 
-  Alternatively, https://freeformatter.com or http://www.utilities-online.info/xsdvalidation/ can also validate the XML database against an XSD document. The few requirements that are not validated through cavexml.xsd are checked by `cavexml-validate2.py`.
+  Alternatively, https://freeformatter.com or http://www.utilities-online.info/xsdvalidation/ can also validate the XML database against an XSD document. The few requirements that are not validated through `cavexml.xsd` are checked by `cavexml-validate2.py`.
 

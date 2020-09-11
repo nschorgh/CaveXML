@@ -1,0 +1,54 @@
+/*
+A poor man's style sheet, so a CaveXML can be displayed in a web browser. 
+*/
+
+CaveDataBase { 
+    display: table;
+    font-size: 14px; 
+    margin :8px; 
+    font-family: Verdana; 
+    width: 100%;
+}
+
+record{ 
+    display: table-row; 
+    text-align: center; 
+    padding: 10px; 
+} 
+
+country-name, state-or-province, phys-area-name { 
+    display: table-cell;
+    border-bottom: 0.5px solid;
+}
+
+principal-cave-name {
+    display: table-cell;
+    background-color: lightblue;
+    border-bottom: 0.5px solid;
+}
+
+other-cave-name {
+    display: table-cell;
+    border-bottom: 0.5px solid;
+} 
+
+latitude, longitude, altitude {
+    display: table-cell;
+    color: green;
+    padding: 3px
+}
+
+length, vertical-extent, number-of-entrances {
+    color: olive;
+    padding: 3px
+}
+
+reference {
+    color: peru;
+}
+
+comments {
+    color: gray;
+}
+
+

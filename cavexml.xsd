@@ -1,0 +1,456 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<xs:schema xmlns:xs = "http://www.w3.org/2001/XMLSchema">
+  <!-- CaveXML Schema 
+       Aug 2020 - Norbert Schorghofer
+  -->
+  
+  <xs:complexType name="CaveDataBaseType">
+    <xs:sequence>
+      <xs:element type="recordType" name="record" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name = "CaveDataBase" type="CaveDataBaseType"/>
+
+  
+  <xs:simpleType name="ExtendedUnsignedInteger">
+    <xs:restriction base='xs:token'>
+      <xs:pattern value="[~&#62;]?[0-9]+[+]?"/>
+      <!-- Examples of matching patterns: 1234, ~1500, >27, 3500+
+	   Examples of non-matching patterns: 123.4, >~2000, 100-200
+      -->
+    </xs:restriction>
+  </xs:simpleType>
+
+      
+  <xs:complexType name="recordType">
+    <xs:choice maxOccurs="unbounded">  <!-- ignores min/maxOccurs below -->
+      
+      <xs:element name="country-name">
+	<xs:simpleType>
+	  <xs:restriction base="xs:token">
+	    <xs:enumeration value=""/>  <!-- allow empty -->
+	    <!-- ISO 3166 country names; if not ISO 3166 then noted in comment -->
+	    <xs:enumeration value="Afghanistan"/>
+	    <xs:enumeration value="Åland Islands"/>
+	    <xs:enumeration value="Albania"/>
+	    <xs:enumeration value="Algeria"/>
+	    <xs:enumeration value="American Samoa"/>
+	    <xs:enumeration value="Andora"/>
+	    <xs:enumeration value="Angola"/>
+	    <xs:enumeration value="Anguila"/>
+	    <xs:enumeration value="Antarctica"/>
+	    <xs:enumeration value="Antigua and Barbuda"/>
+	    <xs:enumeration value="Argentina"/>
+	    <xs:enumeration value="Armenia"/>
+	    <xs:enumeration value="Aruba"/>
+	    <xs:enumeration value="Australia"/>
+	    <xs:enumeration value="Austria"/>
+	    <xs:enumeration value="Azerbaijan"/>
+	    <xs:enumeration value="Bahamas"/>
+	    <xs:enumeration value="Bahrain"/>
+	    <xs:enumeration value="Bangladesh"/>
+	    <xs:enumeration value="Barbados"/>
+	    <xs:enumeration value="Belarus"/>
+	    <xs:enumeration value="Belgium"/>
+	    <xs:enumeration value="Belize"/>
+	    <xs:enumeration value="Benin"/>
+	    <xs:enumeration value="Bermuda"/>
+	    <xs:enumeration value="Bhutan"/>
+	    <xs:enumeration value="Bolivia"/>  <!-- ISO would be "Bolivia, Plurinational State of" -->  
+	    <xs:enumeration value="Bonaire, Sint Eustatius and Saba"/>
+	    <xs:enumeration value="Bosnia and Herzegovina"/>
+	    <xs:enumeration value="Botswana"/>
+	    <xs:enumeration value="Bouvet Island"/>
+	    <xs:enumeration value="Brazil"/>
+	    <xs:enumeration value="British Indian Ocean Territory"/>
+	    <xs:enumeration value="Brunei Darusalam"/>
+	    <xs:enumeration value="Bulgaria"/>
+	    <xs:enumeration value="Burkina Faso"/>
+	    <xs:enumeration value="Burundi"/>
+	    <xs:enumeration value="Cambodia"/>
+	    <xs:enumeration value="Cameroon"/>
+	    <xs:enumeration value="Canada"/>
+	    <xs:enumeration value="Cape Verde"/>
+	    <xs:enumeration value="Cayman Islands"/>
+	    <xs:enumeration value="Central African Republic"/>
+	    <xs:enumeration value="Chad"/>
+	    <xs:enumeration value="Chile"/>
+	    <xs:enumeration value="China"/>
+	    <xs:enumeration value="Christmas Island"/>
+	    <xs:enumeration value="Cocos (Keeling) Islands"/>
+	    <xs:enumeration value="Colombia"/>
+	    <xs:enumeration value="Comoros"/>
+	    <xs:enumeration value="Congo"/>
+	    <xs:enumeration value="Congo, Democratic Republic of the"/>
+	    <xs:enumeration value="Cook Islands"/>
+	    <xs:enumeration value="Costa Rica"/>
+	    <xs:enumeration value="Côte d'Ivoire"/>
+	    <xs:enumeration value="Croatia"/>
+	    <xs:enumeration value="Cuba"/>
+	    <xs:enumeration value="Curaçao"/>
+	    <xs:enumeration value="Cyprus"/>
+	    <xs:enumeration value="Czech Republic"/>
+	    <xs:enumeration value="Denmark"/>
+	    <xs:enumeration value="Djibouti"/>
+	    <xs:enumeration value="Dominica"/>
+	    <xs:enumeration value="Dominican Republic"/>
+	    <xs:enumeration value="Ecuador"/>
+	    <xs:enumeration value="Egypt"/>
+	    <xs:enumeration value="El Salvador"/>
+	    <xs:enumeration value="Equatorial Guinea"/>
+	    <xs:enumeration value="Eritrea"/>
+	    <xs:enumeration value="Estonia"/>
+	    <xs:enumeration value="Ethiopia"/>
+	    <xs:enumeration value="Falkland Islands (Malvinas)"/>
+	    <xs:enumeration value="Faroe Islands"/>
+	    <xs:enumeration value="Fiji"/>
+	    <xs:enumeration value="Finland"/>
+	    <xs:enumeration value="France"/>
+	    <xs:enumeration value="French Guiana"/>
+	    <xs:enumeration value="French Polynesia"/>
+	    <xs:enumeration value="French Southern Territories"/>
+	    <xs:enumeration value="Gabon"/>
+	    <xs:enumeration value="Gambia"/>
+	    <xs:enumeration value="Georgia"/>
+	    <xs:enumeration value="Germany"/>
+	    <xs:enumeration value="Ghana"/>
+	    <xs:enumeration value="Gibraltar"/>
+	    <xs:enumeration value="Greece"/>
+	    <xs:enumeration value="Greenland"/>
+	    <xs:enumeration value="Grenada"/>
+	    <xs:enumeration value="Guadeloupe"/>
+	    <xs:enumeration value="Guam"/>
+	    <xs:enumeration value="Guatemala"/>
+	    <xs:enumeration value="Guernsey"/>
+	    <xs:enumeration value="Guinea"/>
+	    <xs:enumeration value="Guinea-Bisau"/>
+	    <xs:enumeration value="Guyana"/>
+	    <xs:enumeration value="Haiti"/>
+	    <xs:enumeration value="Heard Island and McDonald Islands"/>
+	    <xs:enumeration value="Holy See"/>
+	    <xs:enumeration value="Honduras"/>
+	    <xs:enumeration value="Hong Kong"/>
+	    <xs:enumeration value="Hungary"/>
+	    <xs:enumeration value="Iceland"/>
+	    <xs:enumeration value="India"/>
+	    <xs:enumeration value="Indonesia"/>
+	    <xs:enumeration value="Iran"/>  <!-- ISO would be "Iran, Islamic Republic of" -->
+	    <xs:enumeration value="Iraq"/>
+	    <xs:enumeration value="Ireland"/>
+	    <xs:enumeration value="Isle of Man"/>
+	    <xs:enumeration value="Israel"/>
+	    <xs:enumeration value="Italy"/>
+	    <xs:enumeration value="Jamaica"/>
+	    <xs:enumeration value="Japan"/>
+	    <xs:enumeration value="Jersey"/>
+	    <xs:enumeration value="Jordan"/>
+	    <xs:enumeration value="Kazakhstan"/>
+	    <xs:enumeration value="Kenya"/>
+	    <xs:enumeration value="Kiribati"/>
+	    <xs:enumeration value="Korea, Democratic People's Republic of"/>  <!-- "North Korea" -->
+	    <xs:enumeration value="Korea, Republic of"/>                      <!-- "South Korea" -->
+	    <xs:enumeration value="Kuwait"/>
+	    <xs:enumeration value="Kyrgyzstan"/>
+	    <xs:enumeration value="Laos"/>   <!-- ISO would be "Lao People's Democratic Republic" -->
+	    <xs:enumeration value="Latvia"/>
+	    <xs:enumeration value="Lebanon"/>
+	    <xs:enumeration value="Lesotho"/>
+	    <xs:enumeration value="Liberia"/>
+	    <xs:enumeration value="Libya"/>
+	    <xs:enumeration value="Liechtenstein"/>
+	    <xs:enumeration value="Lithuania"/>
+	    <xs:enumeration value="Luxembourg"/>
+	    <xs:enumeration value="Macao"/>
+	    <xs:enumeration value="North Macedonia"/>
+	    <xs:enumeration value="Madagascar"/>
+	    <xs:enumeration value="Malawi"/>
+	    <xs:enumeration value="Malaysia"/>
+	    <xs:enumeration value="Maldives"/>
+	    <xs:enumeration value="Mali"/>
+	    <xs:enumeration value="Malta"/>
+	    <xs:enumeration value="Marshall Islands"/>
+	    <xs:enumeration value="Martinique"/>
+	    <xs:enumeration value="Mauritania"/>
+	    <xs:enumeration value="Mauritius"/>
+	    <xs:enumeration value="Mayote"/>
+	    <xs:enumeration value="Mexico"/>
+	    <xs:enumeration value="Micronesia"/>  <!-- ISO would be "Micronesia, Federated States of" -->
+	    <xs:enumeration value="Moldova, Republic of"/>
+	    <xs:enumeration value="Monaco"/>
+	    <xs:enumeration value="Mongolia"/>
+	    <xs:enumeration value="Montenegro"/>
+	    <xs:enumeration value="Montserat"/>
+	    <xs:enumeration value="Morocco"/>
+	    <xs:enumeration value="Mozambique"/>
+	    <xs:enumeration value="Myanmar"/>
+	    <xs:enumeration value="Namibia"/>
+	    <xs:enumeration value="Nauru"/>
+	    <xs:enumeration value="Nepal"/>
+	    <xs:enumeration value="Netherlands"/>
+	    <xs:enumeration value="New Caledonia"/>
+	    <xs:enumeration value="New Zealand"/>
+	    <xs:enumeration value="Nicaragua"/>
+	    <xs:enumeration value="Niger"/>
+	    <xs:enumeration value="Nigeria"/>
+	    <xs:enumeration value="Niue"/>
+	    <xs:enumeration value="Norfolk Island"/>
+	    <xs:enumeration value="Northern Mariana Islands"/>
+	    <xs:enumeration value="Norway"/>
+	    <xs:enumeration value="Oman"/>
+	    <xs:enumeration value="Pakistan"/>
+	    <xs:enumeration value="Palau"/>
+	    <xs:enumeration value="Palestine, State of"/>
+	    <xs:enumeration value="Panama"/>
+	    <xs:enumeration value="Papua New Guinea"/>
+	    <xs:enumeration value="Paraguay"/>
+	    <xs:enumeration value="Peru"/>
+	    <xs:enumeration value="Philippines"/>
+	    <xs:enumeration value="Pitcairn"/>
+	    <xs:enumeration value="Poland"/>
+	    <xs:enumeration value="Portugal"/>
+	    <xs:enumeration value="Puerto Rico"/>
+	    <xs:enumeration value="Qatar"/>
+	    <xs:enumeration value="Réunion"/>
+	    <xs:enumeration value="Romania"/>
+	    <xs:enumeration value="Russia"/>  <!-- ISO would be "Russian Federation" -->
+	    <xs:enumeration value="Rwanda"/>
+	    <xs:enumeration value="Saint Barthélemy"/>
+	    <xs:enumeration value="Saint Helena, Ascension and Tristan da Cunha"/>
+	    <xs:enumeration value="Saint Kits and Nevis"/>
+	    <xs:enumeration value="Saint Lucia"/>
+	    <xs:enumeration value="Saint Martin (French part)"/>
+	    <xs:enumeration value="Saint Pierre and Miquelon"/>
+	    <xs:enumeration value="Saint Vincent and the Grenadines"/>
+	    <xs:enumeration value="Samoa"/>
+	    <xs:enumeration value="San Marino"/>
+	    <xs:enumeration value="Sao Tome and Principe"/>
+	    <xs:enumeration value="Saudi Arabia"/>
+	    <xs:enumeration value="Senegal"/>
+	    <xs:enumeration value="Serbia"/>
+	    <xs:enumeration value="Seychelles"/>
+	    <xs:enumeration value="Sierra Leone"/>
+	    <xs:enumeration value="Singapore"/>
+	    <xs:enumeration value="Sint Maarten (dutch part)"/>
+	    <xs:enumeration value="Slovakia"/>
+	    <xs:enumeration value="Slovenia"/>
+	    <xs:enumeration value="Solomon Islands"/>
+	    <xs:enumeration value="Somalia"/>
+	    <xs:enumeration value="South Africa"/>
+	    <xs:enumeration value="South Georgia and the South Sandwich Islands"/>
+	    <xs:enumeration value="South Sudan"/>
+	    <xs:enumeration value="Spain"/>
+	    <xs:enumeration value="Sri Lanka"/>
+	    <xs:enumeration value="Sudan"/>
+	    <xs:enumeration value="Suriname"/>
+	    <xs:enumeration value="Svalbard and Jan Mayen"/>
+	    <xs:enumeration value="Swaziland"/>
+	    <xs:enumeration value="Sweden"/>
+	    <xs:enumeration value="Switzerland"/>
+	    <xs:enumeration value="Syria"/>     <!-- ISO would be "Syrian Arab Republic" -->
+	    <xs:enumeration value="Taiwan"/>    <!-- ISO would be "Taiwan, Province of China" -->
+	    <xs:enumeration value="Tajikistan"/>
+	    <xs:enumeration value="Tanzania"/>  <!-- ISO would be "Tanzania, United Republic of" -->
+	    <xs:enumeration value="Thailand"/>
+	    <xs:enumeration value="Timor-Leste"/>
+	    <xs:enumeration value="Togo"/>
+	    <xs:enumeration value="Tokelau"/>
+	    <xs:enumeration value="Tonga"/>
+	    <xs:enumeration value="Trinidad and Tobago"/>
+	    <xs:enumeration value="Tunisia"/>
+	    <xs:enumeration value="Turkey"/>
+	    <xs:enumeration value="Turkmenistan"/>
+	    <xs:enumeration value="Turks and Caicos Islands"/>
+	    <xs:enumeration value="Tuvalu"/>
+	    <xs:enumeration value="Uganda"/>
+	    <xs:enumeration value="Ukraine"/>
+	    <xs:enumeration value="United Arab Emirates"/>
+	    <xs:enumeration value="United Kingdom"/>
+	    <xs:enumeration value="United States of America"/> 
+	    <xs:enumeration value="United States Minor Outlying Islands"/>
+	    <xs:enumeration value="Uruguay"/>
+	    <xs:enumeration value="Uzbekistan"/>
+	    <xs:enumeration value="Vanuatu"/>
+	    <xs:enumeration value="Venezuela"/>  <!-- ISO would be "Venezuela, Bolivarian Republic of" -->
+	    <xs:enumeration value="Viet Nam"/> 
+	    <xs:enumeration value="Virgin Islands, British"/>
+	    <xs:enumeration value="Virgin Islands, U.S."/>
+	    <xs:enumeration value="Wallis and Futuna"/>
+	    <xs:enumeration value="Western Sahara"/>
+	    <xs:enumeration value="Yemen"/>
+	    <xs:enumeration value="Zambia"/>
+	    <xs:enumeration value="Zimbabwe"/>
+	    <!-- Planetary Bodies -->
+	    <xs:enumeration value="Mars"/>
+	    <xs:enumeration value="Moon"/>
+	</xs:restriction>
+	</xs:simpleType>
+      </xs:element>
+    
+    
+      <xs:element name = "state-or-province"   type = "xs:string" />
+      <xs:element name = "principal-cave-name" type = "xs:string" />
+      <xs:element name = "other-cave-name"     type = "xs:string" />
+      <xs:element name = "phys-area-name"      type = "xs:string" />
+
+      <xs:sequence>  <!-- coordinates (both or none) -->
+	<xs:element name = "latitude" default="0">
+	  <!-- default value makes empty entries valid -->
+	  <xs:simpleType>
+  	    <xs:restriction base="xs:decimal">
+	      <xs:minInclusive value="-90"/>
+	      <xs:maxInclusive value="+90"/>
+	    </xs:restriction>
+	  </xs:simpleType>
+	</xs:element>
+      
+	<xs:element name = "longitude" default="0">
+	  <!-- default value makes empty entries valid -->
+	  <xs:simpleType>
+  	    <xs:restriction base="xs:decimal">
+	      <xs:minInclusive value="-180"/>
+	      <xs:maxInclusive value="+180"/>
+	    </xs:restriction>
+	  </xs:simpleType>
+	</xs:element>
+      </xs:sequence>
+
+      <xs:element name = "altitude" default="~0">  
+	<xs:simpleType>
+	  <xs:restriction base='xs:token'>
+	    <xs:pattern value="([~&#62;]?[0-9]{1,5}[+]?[ ,()\w^-^;]*)|([0-9]{1,5}[-–][0-9]{1,5})"/>
+	    <!-- matches ExtendedUnsignedInteger plus optional comment OR integer range 
+		 Examples of matching patterns: 4258, ~300 main entrance, 100-200
+	    -->
+	  </xs:restriction>
+	</xs:simpleType>
+      </xs:element>
+	
+      <xs:element name = "length"              type = "ExtendedUnsignedInteger" default="~0"/>
+      <xs:element name = "vertical-extent"     type = "ExtendedUnsignedInteger" default="~0"/>
+      <xs:element name = "number-of-entrances" type = "ExtendedUnsignedInteger" />
+
+      <xs:element name = "rock-type">
+	<xs:simpleType>
+	  <xs:restriction base="xs:token">
+	    <xs:enumeration value=""/>  <!-- allow empty -->
+	    <!-- list from UIS entity CA7 www.uisic.uis-speleo.org/exchange/atencode.html#7 -->
+	    <xs:enumeration value="limestone"/>
+	    <xs:enumeration value="dune limestone"/>
+	    <xs:enumeration value="dolomite"/>
+	    <xs:enumeration value="marble"/>
+	    <xs:enumeration value="basalt"/>
+	    <xs:enumeration value="dolerite"/>
+	    <xs:enumeration value="granite"/>
+	    <xs:enumeration value="gypsum"/>
+	    <xs:enumeration value="ice"/>
+	    <xs:enumeration value="lava"/>
+	    <xs:enumeration value="magnesite"/>
+	    <xs:enumeration value="mudstone"/>
+	    <xs:enumeration value="quartzite"/>
+	    <xs:enumeration value="sandstone"/>
+	    <xs:enumeration value="soil"/>
+	    <xs:enumeration value="tuff"/>
+	    <!-- some refined options, not on UIS list -->
+	    <xs:enumeration value="Quaternary limestone"/>
+	    <xs:enumeration value="Tertiary limestone"/>
+	    <xs:enumeration value="Cretaceous limestone"/>
+	    <xs:enumeration value="Jurassic limestone"/>
+	    <xs:enumeration value="Triassic limestone"/>
+	    <xs:enumeration value="Permian limestone"/>
+	    <xs:enumeration value="Carboniferous limestone"/>
+	    <xs:enumeration value="Devonian limestone"/>
+	    <xs:enumeration value="Silurian limestone"/>
+	    <xs:enumeration value="Ordovician limestone"/>
+	    <xs:enumeration value="Cambrian limestone"/>
+	    <xs:enumeration value="Precambrian limestone"/>
+	    <xs:enumeration value="Permian gypsum"/>
+	    <xs:enumeration value="Carboniferous gypsum"/>
+	    <xs:enumeration value="Devonian gypsum"/>
+	    <xs:enumeration value="Silurian gypsum"/>
+	    <xs:enumeration value="Ordovician gypsum"/>
+	    <xs:enumeration value="Cambrian gypsum"/>
+	    <xs:enumeration value="Precambrian gypsum"/>
+	  </xs:restriction>
+	</xs:simpleType>
+      </xs:element> 
+      
+      <!-- list from UIS entity CA8 http://www.uisic.uis-speleo.org/exchange/atencode.html#8 -->
+      <xs:element name="cave-type">
+	<xs:simpleType>
+	  <xs:restriction base="xs:token">
+	    <xs:enumeration value=""/>
+	    <xs:enumeration value="limestone cave"/>
+	    <xs:enumeration value="artificial cave"/>
+	    <xs:enumeration value="blowhole"/>
+	    <xs:enumeration value="boulder cave"/>
+	    <xs:enumeration value="fault-movement cave"/>
+	    <xs:enumeration value="glacier cave"/>
+	    <xs:enumeration value="lava tunnel"/>
+	    <xs:enumeration value="lava vent"/>
+	    <xs:enumeration value="mine"/>
+	    <xs:enumeration value="rock shelter"/>
+	    <xs:enumeration value="sea cave"/>
+	    <xs:enumeration value="piping cave"/>
+	    <xs:enumeration value="weathering cave"/>
+	    <xs:enumeration value="misc. type"/>
+	  </xs:restriction>
+	</xs:simpleType>
+      </xs:element> 
+
+      <!-- list shortened from UIS entity CA72 http://www.uisic.uis-speleo.org/exchange/atencode.html#72 -->
+      <xs:element name="contents">
+	<xs:simpleType>
+	  <xs:restriction base="xs:token">
+	    <xs:enumeration value=""/>
+	    <xs:enumeration value="extensive guano" />
+	    <xs:enumeration value="many bats" />
+	    <xs:enumeration value="occasional bats" />
+	    <xs:enumeration value="fish" />
+	    <xs:enumeration value="snakes" />
+	    <xs:enumeration value="trogloxenes" />
+	    <xs:enumeration value="accidental trogloxenes" />
+	    <xs:enumeration value="troglophiles" />
+	    <xs:enumeration value="troglobites" />
+	    <xs:enumeration value="lake(s)" />
+	    <xs:enumeration value="waterfall(s)" />
+	    <xs:enumeration value="permanent ice" />
+	    <xs:enumeration value="periodic ice" />
+	    <xs:enumeration value="tree roots" />
+	  </xs:restriction>
+	</xs:simpleType>
+      </xs:element> 
+      
+      <xs:element name = "ice-deposit-type" type = "xs:string" />
+      <xs:element name = "comments"         type = "xs:string" />
+      <xs:element name = "cave-system"      type = "xs:string" />
+      <xs:element name = "branch-name"      type = "xs:string" />
+      
+      <xs:element name = "reference">  
+	<xs:simpleType>
+	  <xs:restriction base='xs:string'>
+	    <xs:pattern value="[^;]+"/>    <!-- semi-colon not allowed -->
+	  </xs:restriction>
+	</xs:simpleType>
+      </xs:element>
+      
+      <!-- list shortened from UIS entity CA41 http://www.uisic.uis-speleo.org/exchange/atencode.html#41 -->
+      <xs:element name="cave-use">
+	<xs:simpleType>
+	  <xs:restriction base="xs:token">
+	    <xs:enumeration value="guided tourist cave"/>
+	    <xs:enumeration value="self-guided tourist cave"/>
+	    <xs:enumeration value="waste disposal"/>
+	    <xs:enumeration value="habitation"/>
+	    <xs:enumeration value="livestock shelter"/>
+	    <xs:enumeration value="water source"/>
+	    <xs:enumeration value="mine"/>
+	    <xs:enumeration value="shrine"/>
+	    <xs:enumeration value="temple"/>
+	  </xs:restriction>
+	</xs:simpleType>
+      </xs:element> 
+      
+    </xs:choice>
+  </xs:complexType>
+
+</xs:schema>

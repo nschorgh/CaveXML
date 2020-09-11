@@ -6,6 +6,8 @@ CaveXML facilitates exchange of data about caves through the definition and impl
 > "The systematic documentation, mapping and publication of data about caves (excepting entrance locations) is a responsibility of all users of the cave environment, and should be encouraged by management authorities."  
 > *Guidelines for Cave and Karst Protection*, Working Group on Cave and Karst Protection (1997)
 
+The Informatics Commission of the Internationl Union of Speleology (UISIC) has drafted guidelines for a data exchange standards with over 700 fields. CaveXML builds on these recommendations for the much smaller number of elements used in CaveXML.  
+
 A CaveXML database has the following structure, where each record corresponds to a cave or cave system:
 
         <CaveDataBase> 
@@ -20,9 +22,6 @@ A CaveXML database has the following structure, where each record corresponds to
             .
             .
         </CaveDataBase>
-      
-
-The Informatics Commission of the Internationl Union of Speleology (UISIC) has drafted guidelines for a data exchange standards with over 700 fields. CaveXML builds on these recommendations for the much smaller number of elements used in CaveXML.
 
 Elements within a record are defined as follows:
 
@@ -59,7 +58,7 @@ Altitude or range of altitudes of cave entrance(s) in meters above sea level, fo
 Similar to UISIC fields [CA442](http://www.uisic.uis-speleo.org/exchange/atendefn.html#442) (altitude) and [CA670](http://www.uisic.uis-speleo.org/exchange/atendefn.html#670) (altitude-comment) combined.
 
 **\<length\>**  *ExtendedUnsignedInteger, maxOccurs=1*  
-The aggregate length of the cave passages in meters, usually obtained by summing the lengths of all surveyed distances. Length differs from horizontal extent. The length should be rounded to the nearest integer.  
+The aggregate length of the cave passages in meters, usually obtained by summing the lengths of all surveyed distances. Length differs from horizontal extent. The length should be rounded to the nearest integer. The unit must be meters, not km or feet.    
 UISIC field [CA56](http://www.uisic.uis-speleo.org/exchange/atendefn.html#56)
 
 **\<vertical-extent\>**  *ExtendedUnsignedInteger, maxOccurs=1*  
@@ -119,7 +118,7 @@ Syntax rules (in support of parsing and querying)
 -   All text is in UTF-8, so characters from many languages can be used.
 -   All of the controlled vocabulary, except a few country names, happen to use only ASCII characters (which is a subset of UTF-8). Hence, there is no need to ever enter non-ASCII characters for those.
 -   XML has five **special characters**: ampersand &, single quote ', double quote ", smaller than \<, and larger than \>. That doesn't mean these characters can't be used; it depends on how they are used. For example, \> can be used in front of a number without problem. The special characters can be expressed by their HTML code, e.g., `&apos;` for an apostrophe.
--   **Almost-numerical entries:** Length entries are usually numbers, but they can also be of the form "\>42000", "\~100", or "2000+". A data type "ExtendedUnsignedInteger" has been created for this purpose. ExtendedUnsignedIntegers are positive integers that can contain a few additional symbols. The symbols "\>" and "\~" are allowed in front of the number. The number should contain no comma or decimal point, and digits after the decimal point are prohibited to avoid ambiguities. The elements [length], [vertical-extent], and [number-of-entrances] are ExtendedUnsignedIntegers and therefore obey the same syntax rules. Length and altitude must be rounded to the nearest integer meter. The unit must be meters, not km or feet. After the number, a "+" symbol is allowed, which has the meaning "or more" (≥). Only one symbol is allowed in front of the number, but note that "\>\~100" is equivalent to "\~100+". However, "10+" (for the number of cave entrances) is not equivalent to "\>10" but to "\>9".
+-   **Almost-numerical entries:** Length entries are usually numbers, but they can also be of the form "\>42000", "\~100", or "2000+". A data type "ExtendedUnsignedInteger" has been created in CaveXML for this purpose. ExtendedUnsignedIntegers are positive integers that can contain a few additional symbols. The symbols "\>" and "\~" are allowed in front of the number. The number should contain no comma or decimal point, and digits after the decimal point are prohibited to avoid ambiguity. The elements [length], [vertical-extent], and [number-of-entrances] are ExtendedUnsignedIntegers and therefore obey the same syntax rules. Length and altitude must be rounded to the nearest whole meter. After the number, a "+" symbol is allowed, which has the meaning "or more" (≥). Only one symbol is allowed in front of the number, but note that "\>\~100" is equivalent to "\~100+". However, "10+" (for the number of cave entrances) is not equivalent to "\>10" but to "\>9".
 -   **Altitude** is usually a positive decimal number, but it can also have the following forms: "2227 lower entrance", "2500 coarse", "\~700", "500-700", "\>3500", or "4000 upper entrance, coarse". The term "coarse" refers to an approximate value, and is commonly used because the altitude is either not known more accurately or should not be known more accurately. An [altitude] entry starts either with an ExtendedUnsignedInteger, followed by an optional comment, or it is a range of the form "lownumber-highnumber". There can by more than one altitude in a record, e.g., for different cave entrances. Multiple altitudes must be entered in seperate pairs of altitude tags, so each pair of tags contains only one altitute entry.
 -   A Digital Object Identifier **(doi)** in [reference] can be automatically converted to a hyperlink by replacing "doi:" with "https://doi.org:" followed by the doi number. The character sequence the parser will look for is "doi:", in lower or upper case.
 

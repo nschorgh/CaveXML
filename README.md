@@ -33,5 +33,5 @@ The Python programs serve as examples for how a CaveXML database can be loaded a
 
     xmllint --schema cavexml.xsd allcaves-database.xml --noout  
 
-  Alternatively, https://freeformatter.com or http://www.utilities-online.info/xsdvalidation/ can also validate the XML database against an XSD document. The few requirements that are not validated through `cavexml.xsd` are checked by `cavexml-validate2.py`.
+Alternatively, sites like https://freeformatter.com or http://www.utilities-online.info/xsdvalidation/ can also validate the XML database against an XSD document. The few requirements that are not validated through `cavexml.xsd` are checked by `cavexml-validate2.py`.
 

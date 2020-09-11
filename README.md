@@ -22,7 +22,7 @@ This is a pilot project to explore the capabilities of CaveXML end-to-end. The d
 
 ## Technical Notes
 
-`cavexml.html` describes the meaning of the XML elements used to organize the data, and restrictions for the entries.
+`cavexml.md` describes the meaning of the XML elements used to organize the data, and restrictions for the entries.
 
 The master copy of the database is in XML format (`allcaves-database.xml`). With the help of `cavexml-db-table.css` the database content can be viewed in a web browser, but this provides a rather poor viewing experience.
 An easy way to view and query the database is through GoogleSheets, where a version of the database has been uploaded. The query abilities are still limited, but include numerical searches on quasi-numerical entries.

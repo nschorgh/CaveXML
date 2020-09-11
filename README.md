@@ -3,12 +3,11 @@ README
 
 CaveXML is a data interchange format for the purpose of facilitating scientific research on caves. This repository provides: CaveXML element and data type definitions, an example database, and a few tools to work with CaveXML-formatted data.  
 
-## For Data Creators:  
+
    [`cavexml.md`](./cavexml.md)	  (explains the CaveXML standard)  
    `cavexml.xsd`		  (XML Schema Definition of CaveXML)  
    `cavexml-validate2.py`   (Python program that validates requirements not implemented in cavexml.xsd)
 
-## For Data Users:  
    `allcaves-database.xml`  (Master version of the database in native format)  
    `allcaves-database.json` (JSON version of the database generated from the XML version)  
    `allcaves-database.csv`  (csv version of the database generated from the XML version)  
@@ -33,5 +32,5 @@ The Python programs serve as examples for how a CaveXML database can be loaded a
 
     xmllint --schema cavexml.xsd allcaves-database.xml --noout  
 
-Alternatively, sites like https://freeformatter.com or http://www.utilities-online.info/xsdvalidation/ can also validate the XML database against an XSD document. The few requirements that are not validated through `cavexml.xsd` are checked by `cavexml-validate2.py`.
+Alternatively, various online tools can also be used to validate the XML database against an XSD document. The few requirements that are not validated through `cavexml.xsd` are checked by `cavexml-validate2.py`.
 

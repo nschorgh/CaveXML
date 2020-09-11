@@ -3,7 +3,7 @@ CaveXML Definitions
 
 CaveXML facilitates exchange of data about caves through the definition and implementation of a data interchange format. The CaveXML standard defines a set of XML elements and their meaning, as described below. Its syntax is implemented in an XML Schema Definition (`cavexml.xsd`). As a pilot project, basic data for a few thousand caves has been organized in CaveXML format.
 
-> "The systematic documentation, mapping and publication of data about caves (excepting entrance locations) is a responsibility of all users of the cave environment, and should be encouraged by management authorities."
+> "The systematic documentation, mapping and publication of data about caves (excepting entrance locations) is a responsibility of all users of the cave environment, and should be encouraged by management authorities."  
 > *Guidelines for Cave and Karst Protection*, Working Group on Cave and Karst Protection (1997)
 
 A CaveXML database has the following structure, where each record corresponds to a cave or cave system:
@@ -27,8 +27,8 @@ The Informatics Commission of the Internationl Union of Speleology (UISIC) has d
 Elements within a record are defined as follows:
 
 **\<country-name\>**  *controlled vocabulary*  
-Country name where the cave entrance is located. This should be the name of the country spelled out and according to the ISO 3166 standard, although a few country names have been simplified. (The precise list is found in the CaveXML Schema Definition `cavexml.xsd`.)
-Similar to UISIC field [SY285](http://www.uisic.uis-speleo.org/exchange/atendefn.html#285)
+Country name where the cave entrance is located. This should be the name of the country spelled out and according to the ISO 3166 standard, although a few country names have been simplified. (The precise list is found in the CaveXML Schema Definition `cavexml.xsd`.)  
+Similar to UISIC field [SY285](http://www.uisic.uis-speleo.org/exchange/atendefn.html#285)  
 For extraterrestrial caves, this element specifies the planetary body where the cave is located. Allowed terms are "Moon", which refers to Earth's moon, and "Mars". All other names or an empty entry imply the cave is located on planet Earth. In fact, "Earth" is not an allowed term, because it is implicit.
 
 **\<state-or-province\>** *string*  
@@ -76,7 +76,7 @@ Similar to UISIC field [CA7](http://www.uisic.uis-speleo.org/exchange/atendefn.h
 [List of options:](http://www.uisic.uis-speleo.org/exchange/atencode.html#7) limestone, dune limestone, dolomite, marble, basalt, dolerite, granite, gypsum, ice, lava, magnesite, mudstone, quartzite, sandstone, soil, tuff. The UISIC list has been extended to allow terms that include the geologic period such as "Cambrian limestone".
 
 **\<cave-type\>**  *controlled vocabulary*  
-The cave type(s) according to a pre-defined list of terms.  
+The cave type(s) according to a pre-defined list of terms.
 UISIC field [CA8](http://www.uisic.uis-speleo.org/exchange/atendefn.html#8).  
  [List of options:](http://www.uisic.uis-speleo.org/exchange/atencode.html#8) limestone cave, artificial cave, blowhole, boulder cave, fault-movement cave, glacier cave, lava tunnel, lava vent, mine, rock shelter, sea cave, piping cave, weathering cave, misc. type. The term "lava tunnel" is equivalent to "lava tube".
 
@@ -107,7 +107,7 @@ CA41 allows [32 predefined terms](http://www.uisic.uis-speleo.org/exchange/atenc
 Comments
 --------
 
--   All fields are optional (*minOccurs=0*), but at least one cave name (principal or other) must be provided.
+-   All fields are optional *(minOccurs=0)*, but at least one cave name (principal or other) must be provided.
 -   Elements without *maxOccurs=1* can be used more than once within a record. (The UISIC refers to this as multi-valued, as opposed to single-valued.)
 -   The order of elements is arbitrary, except that [longitude] has to appear immediately after [latitude]. However, it is recommended that the elements are sorted in the order listed above.
 -   So far, CaveXML defines only these 20 elements.

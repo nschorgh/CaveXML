@@ -1,11 +1,11 @@
 /*
-A poor man's style sheet, so a CaveXML can be displayed in a web browser. 
+  A minimalist style sheet, so a CaveXML can be displayed in a web browser. 
 */
 
 CaveDataBase { 
     display: table;
     font-size: 14px; 
-    margin :8px; 
+    margin: 8px; 
     font-family: Verdana; 
     width: 100%;
 }
@@ -29,15 +29,18 @@ principal-cave-name {
 
 other-cave-name {
     display: table-cell;
+    background-color: aliceblue;
     border-bottom: 0.5px solid;
 } 
 
+/* locatio info */
 latitude, longitude, altitude {
     display: table-cell;
     color: green;
     padding: 3px
 }
 
+/* quasi-numerical entries */
 length, vertical-extent, number-of-entrances {
     color: olive;
     padding: 3px
@@ -52,3 +55,7 @@ comments {
 }
 
 
+/* some entries from list of pre-defined terms */ 
+rock-type, cave-type, contents, cave-sue {
+    color: crimson;
+}

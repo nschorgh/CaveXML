@@ -11,6 +11,7 @@ import xml.etree.ElementTree
 #tree = xml.etree.ElementTree.parse('../icecave-database.xml')
 #tree = xml.etree.ElementTree.parse('../lavatube-database.xml')
 #tree = xml.etree.ElementTree.parse('../planetary-caves.xml')
+#tree = xml.etree.ElementTree.parse('../worldcavedatabase.xml')
 tree = xml.etree.ElementTree.parse('allcaves-database.xml')
 
 root = tree.getroot()
@@ -50,7 +51,7 @@ for item in root.findall('record'):
         if h is not None:
             if len(h)>1:
                 print('ERROR: More than one element for',
-                      maxOccurslist[i],len(h))
+                      pcn,maxOccurslist[i],len(h))
                 valid = False
 
         

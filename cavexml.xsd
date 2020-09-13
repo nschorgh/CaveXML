@@ -81,7 +81,7 @@
 	    <xs:enumeration value="Colombia"/>
 	    <xs:enumeration value="Comoros"/>
 	    <xs:enumeration value="Congo"/>
-	    <xs:enumeration value="Congo, Democratic Republic of the"/>
+	    <xs:enumeration value="Congo, Democratic Republic of the"/> <!-- formerly known as Zaire -->
 	    <xs:enumeration value="Cook Islands"/>
 	    <xs:enumeration value="Costa Rica"/>
 	    <xs:enumeration value="Côte d'Ivoire"/>
@@ -288,9 +288,9 @@
     
     
       <xs:element name = "state-or-province"   type = "xs:string" />
+      <xs:element name = "phys-area-name"      type = "xs:string" />
       <xs:element name = "principal-cave-name" type = "xs:string" />
       <xs:element name = "other-cave-name"     type = "xs:string" />
-      <xs:element name = "phys-area-name"      type = "xs:string" />
 
       <xs:sequence>  <!-- coordinates (both or none) -->
 	<xs:element name = "latitude" default="0">
@@ -424,14 +424,7 @@
       <xs:element name = "comments"         type = "xs:string" />
       <xs:element name = "cave-system"      type = "xs:string" />
       <xs:element name = "branch-name"      type = "xs:string" />
-      
-      <xs:element name = "reference">  
-	<xs:simpleType>
-	  <xs:restriction base='xs:string'>
-	    <xs:pattern value="[^;]+"/>    <!-- semi-colon not allowed -->
-	  </xs:restriction>
-	</xs:simpleType>
-      </xs:element>
+      <xs:element name = "reference"        type = "xs:string" />  
       
       <!-- list shortened from UIS entity CA41 http://www.uisic.uis-speleo.org/exchange/atencode.html#41 -->
       <xs:element name="cave-use">

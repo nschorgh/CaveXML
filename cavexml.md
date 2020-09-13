@@ -6,13 +6,13 @@ CaveXML facilitates exchange of data about caves through the definition and impl
 > "The systematic documentation, mapping and publication of data about caves (excepting entrance locations) is a responsibility of all users of the cave environment, and should be encouraged by management authorities."  
 > *Guidelines for Cave and Karst Protection*, Working Group on Cave and Karst Protection (1997)
 
-The Informatics Commission of the Internationl Union of Speleology (UISIC) has drafted guidelines for a data exchange standards with over 700 fields. CaveXML builds on these recommendations for the much smaller number of elements used in CaveXML.  
+The Informatics Commission of the Internationl Union of Speleology (UISIC) has drafted guidelines for a data exchange standard with over 700 fields. CaveXML builds on these recommendations for the much smaller number of elements it uses.  
 
 A CaveXML database has the following structure, where each record corresponds to a cave or cave system:
 
         <CaveDataBase> 
           <record>
-        ...
+            ...
           </record>
         
           <record>
@@ -34,6 +34,9 @@ For extraterrestrial caves, this element specifies the planetary body where the 
 State or province where the cave entrance is located. This can also be a county or district. [state-or-province] is intended for politically or organizationally defined areas below country level. For physically/geologically defined units, use [phys-area-name] instead.  
 Generalization of UISIC field [SY287](http://www.uisic.uis-speleo.org/exchange/atendefn.html#287)
 
+**\<phys-area-name\>**  *string*  
+Name of mountain, volcano, mountain range, island, geologic unit, or another physically-defined unit. Example: Pyrenees. For politically-defined areas use [state-or-province] instead.
+
 **\<principal-cave-name\>** *string, maxOccurs=1*    
 The current formal agreed name for a cave or karst feature, expressed in the local language. Where a new name is awaiting ratification, enclose it in round brackets. The character set is UTF-8, so characters from many languages can be used.  
 UISIC field [CA70](http://www.uisic.uis-speleo.org/exchange/atendefn.html#70)
@@ -41,9 +44,6 @@ UISIC field [CA70](http://www.uisic.uis-speleo.org/exchange/atendefn.html#70)
 **\<other-cave-name\>**  *string*  
 Further names which a cave or karst feature has or has had beyond its current name as given in [principal-cave-name]. Alphanumeric entries, such as cave ids, also belong in this field.  
 Similar to UISIC field [CA69](http://www.uisic.uis-speleo.org/exchange/atendefn.html#69)
-
-**\<phys-area-name\>**  *string*  
-Name of mountain, volcano, mountain range, island, geologic unit, or another physically-defined unit. Example: Pyrenees. For politically-defined areas use [state-or-province] instead.
 
 **\<latitude\>**  *-90 ≤ decimal ≤ +90, maxOccurs=1*  
 The N-S latitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if north of the equator, negative if south of the equator. Expressed as a real number, rather than as degrees, minutes, and seconds. If both [latitude] and [longitude] have only one significant digit after the decimal point, they have been rounded in order not to reveal the exact location.  
@@ -97,7 +97,7 @@ On occasion, it is discovered that two named caves are connected with one anothe
 A [branch-name] is the [principal-cave-name] of named cave branches or cave segements with their own entrances. This field allows a record to be a cave system consisting of named caves that already have their own record in the database. Multiple [branch-name]s should be listed, even if the target records do not exist in the database. The presence of one or more [branch-name] entries identifies a record as a cave system.
 
 **\<reference\>**  *string*  
-Bibliographical reference, often abbreviated as "Author et al. (year) doi". There should only be one reference within one pair of tags. For multiple references use multiple [reference] entries. All references that served as source of the data in the record ought to be entered here. Additional references about the cave can also be entered. A URL can also be a reference.
+Bibliographical reference, often abbreviated as "Author et al. (year) doi". Multiple references should be separated by a semicolon or placed in multiple [reference] entries. All references that served as source of the data in the record ought to be entered here. Additional references about the cave can also be entered. A URL can also be a reference.
 
 **\<cave-use\>**  *controlled vocabulary*  
 The present use (if any) being made of the cave. Similar to UISIC field [CA41](http://www.uisic.uis-speleo.org/exchange/atendefn.html#41).  
@@ -139,9 +139,9 @@ This concludes the description of all the data types that have, so far, been def
 |:----------------------|:-------------:|:------------:|:--------|  
 |\<country-name\> | token with restriction | pre-defined list of strings | Austria |  
 |\<state-or-province\> | string | - | Salzburg |  
+|\<phys-area-name\> | string | - | Pyrenees |
 |\<principal-cave-name\>| string | maxOccurs=1 | Kolowrathöhle |  
 |\<other-cave-name\> | string | required if no principal-cave-name given | M-340 |
-|\<phys-area-name\> | string | - | Pyrenees |
 |\<latitude\> | decimal with restriction | range -90...+90, maxOccurs=1 | 47.72792 |
 |\<longitude\> | decimal with restriction | range -180...+180, maxOccurs=1 | 13.00858 |
 |\<altitude\> | token with restriction | RegEx pattern | \~1500 main entrance |

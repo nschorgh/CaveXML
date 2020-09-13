@@ -106,8 +106,8 @@ csvwriter = csv.writer(thedata)
 csvwriter_nr = csv.writer(thenumbers)
 
 record_head = []
-elementList = ['country-name','state-or-province','principal-cave-name',
-               'other-cave-name','phys-area-name','latitude','longitude',
+elementList = ['country-name','state-or-province','phys-area-name',
+               'principal-cave-name','other-cave-name','latitude','longitude',
                'altitude','length','vertical-extent','number-of-entrances',
                'rock-type','cave-type','contents','ice-deposit-type','comments',
                'cave-system','branch-name','reference','cave-use']
@@ -142,6 +142,10 @@ for item in root.findall('record'):
     sop = item.findall('state-or-province')
     str = merge_elements(sop)
     record.append(str)
+
+    pan = item.findall('phys-area-name')
+    str = merge_elements(pan)
+    record.append(str)
     
     pcn = item.find('principal-cave-name') # maxOccurs=1
     if pcn is not None:
@@ -153,10 +157,6 @@ for item in root.findall('record'):
     
     ocn = item.findall('other-cave-name')
     str = merge_elements(ocn)
-    record.append(str)
-
-    pan = item.findall('phys-area-name')
-    str = merge_elements(pan)
     record.append(str)
 
     lat = item.find('latitude') # maxOccurs=1, decimal

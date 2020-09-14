@@ -122,7 +122,7 @@
    </record>
    <record>
       <country-name>Austria</country-name>
-      <state-or-province>Steirmark</state-or-province>
+      <state-or-province>Steiermark</state-or-province>
       <phys-area-name>Schneealpe</phys-area-name>
       <principal-cave-name>Schneeloch</principal-cave-name>
       <other-cave-name>1851/7</other-cave-name>
@@ -547,6 +547,7 @@
       <contents>permanent ice</contents>
       <comments>cold trap</comments>
       <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+      <reference>Canadian Caver 9/2, 16/1 1984, 16/2, 28/1, 29/2, 61/9</reference>
    </record>
    <record>
       <country-name>Canada</country-name>
@@ -566,7 +567,7 @@
    <record>
       <country-name>Canada</country-name>
       <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Columbia Icefield, JNP</phys-area-name>
+      <phys-area-name>Columbia Icefield, Jasper National Park</phys-area-name>
       <principal-cave-name>Castleguard Cave</principal-cave-name>
       <other-cave-name/>
       <latitude>52.1</latitude>
@@ -578,7 +579,7 @@
       <contents>permanent ice</contents>
       <comments>Active/relict cold zone</comments>
       <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-      <reference>Canadian Caver V23N2P31, Canadian Caver #12 1980</reference>
+      <reference>Canadian Caver 2:26, 5/1:21, 11/1:28, 12/1:3, 15/2:7, 19/2:22, 59:7, 63:4, 66:4, 71:4, 73:20, 80:28</reference>
    </record>
    <record>
       <country-name>Canada</country-name>
@@ -729,7 +730,7 @@
    <record>
       <country-name>Canada</country-name>
       <state-or-province>British Columbia</state-or-province>
-      <phys-area-name>Top of the World Prov. Park</phys-area-name>
+      <phys-area-name>Top of the World Provincial Park</phys-area-name>
       <principal-cave-name>Wedge Cave</principal-cave-name>
       <other-cave-name/>
       <latitude>49.8</latitude>
@@ -4626,21 +4627,6 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Washington</state-or-province>
-      <principal-cave-name>Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <cave-type>lava tunnel</cave-type>
-      <contents>permanent ice</contents>
-      <comments>lava tube, cold air trap</comments>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
       <principal-cave-name>Mauna Loa Ice Cave</principal-cave-name>
@@ -7350,16 +7336,9 @@
       <state-or-province>Deschutes County</state-or-province>
       <principal-cave-name>Barbed Wire Cave</principal-cave-name>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1259</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Oregon</state-or-province>
-      <state-or-province>Deschutes County</state-or-province>
-      <principal-cave-name>Barbed Wire Cave</principal-cave-name>
-      <length>16</length>
-      <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1341</reference>
    </record>
    <record>
@@ -7386,16 +7365,9 @@
       <state-or-province>Deschutes County</state-or-province>
       <principal-cave-name>Barlow Cave</principal-cave-name>
       <length>243</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1251</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Oregon</state-or-province>
-      <state-or-province>Deschutes County</state-or-province>
-      <principal-cave-name>Barlow Cave</principal-cave-name>
-      <length>469</length>
-      <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1339</reference>
    </record>
    <record>
@@ -10605,11 +10577,17 @@
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
-      <phys-area-name>Sicily</phys-area-name>
-      <principal-cave-name>Cutrona Cave</principal-cave-name>
+      <phys-area-name>Sicily; Etna</phys-area-name>
+      <principal-cave-name>Cutrona Cave (Grotta Cutrona)</principal-cave-name>
+      <other-cave-name>SICT 1216</other-cave-name>
+      <other-cave-name>Grotta MC1 Grotta</other-cave-name>
+      <altitude>1860</altitude>
       <length>870</length>
+      <vertical-extent>97</vertical-extent>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1546</reference>
+      <reference>http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -12307,7 +12285,7 @@
    </record>
    <record>
       <country-name>Italy</country-name>
-      <state-or-province>Catania</state-or-province>
+      <state-or-province>Catania; Etna</state-or-province>
       <phys-area-name>Sicily</phys-area-name>
       <principal-cave-name>Grotta dei Lamponi</principal-cave-name>
       <length>784</length>
@@ -12317,16 +12295,21 @@
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
-      <phys-area-name>Sicily</phys-area-name>
+      <phys-area-name>Sicily; Etna</phys-area-name>
       <principal-cave-name>Grotta dei Tre Livelli</principal-cave-name>
-      <length/>
+      <other-cave-name>SICT 1004</other-cave-name>
+      <other-cave-name>Galleriadei Pipistrelli</other-cave-name>
+      <altitude>1625-1675</altitude>
+      <length>1150</length>
+      <vertical-extent>304</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1540</reference>
+      <reference>http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
    </record>
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
-      <phys-area-name>Sicily</phys-area-name>
+      <phys-area-name>Sicily; Etna</phys-area-name>
       <principal-cave-name>Grotta del Labirinto</principal-cave-name>
       <length>1500</length>
       <cave-type>lava tunnel</cave-type>
@@ -12335,7 +12318,7 @@
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
-      <phys-area-name>Sicily</phys-area-name>
+      <phys-area-name>Sicily; Etna</phys-area-name>
       <principal-cave-name>Grotta dell Intraleo</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -12344,11 +12327,15 @@
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
-      <phys-area-name>Sicily</phys-area-name>
-      <principal-cave-name>Grotta di SerracozzoI</principal-cave-name>
+      <phys-area-name>Sicily; Etna</phys-area-name>
+      <principal-cave-name>Grotta di Serracozzo I</principal-cave-name>
+      <other-cave-name>SICT 1065</other-cave-name>
+      <altitude>1840</altitude>
       <length>350</length>
+      <vertical-extent>60</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1543</reference>
+      <reference>http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
    </record>
    <record>
       <country-name>Cameroon</country-name>
@@ -12362,7 +12349,7 @@
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
-      <phys-area-name>Sicily</phys-area-name>
+      <phys-area-name>Sicily; Etna</phys-area-name>
       <principal-cave-name>Grotte de la Cantoniera</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -12371,11 +12358,20 @@
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
-      <phys-area-name>Sicily</phys-area-name>
+      <phys-area-name>Sicily; Etna</phys-area-name>
       <principal-cave-name>Grotte del Gelo</principal-cave-name>
-      <length/>
+      <altitude>2030</altitude>
+      <length>~120</length>
+      <number-of-entrances>1</number-of-entrances>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
+      <comments>UNESCO world heritage site</comments>
+      <reference>Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1545</reference>
+      <reference>Caffo and Marino http://vulcanospeleology.org/sym09/ISV9Eaj.pdf</reference>
+      <reference>Marino http://www.vulcanospeleology.org/sym09/ISV9Eaj1.pdf</reference>
+      <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>Cameroon</country-name>
@@ -13336,7 +13332,10 @@
       <length>198</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
+      <comments>lava tube, cold air trap</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1734</reference>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -14309,8 +14308,10 @@
       <phys-area-name>Hawaii Island</phys-area-name>
       <principal-cave-name>Keala Cave</principal-cave-name>
       <length>8707</length>
+      <vertical-extent>186</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=807</reference>
+      <reference>Kempe and Henschel (2009) Proc. 15th Int. Congress Speleology</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>

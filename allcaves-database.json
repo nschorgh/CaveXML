@@ -127,7 +127,7 @@
 
     {
       "country-name": "Austria",
-      "state-or-province": "Steirmark",
+      "state-or-province": "Steiermark",
       "phys-area-name": "Schneealpe",
       "principal-cave-name": "Schneeloch",
       "other-cave-name": "1851/7",
@@ -578,7 +578,8 @@
       "vertical-extent": [],
       "contents": "permanent ice",
       "comments": "cold trap",
-      "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
+      "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2",
+      "reference": "Canadian Caver 9/2, 16/1 1984, 16/2, 28/1, 29/2, 61/9"
     },
 
     {
@@ -600,7 +601,7 @@
     {
       "country-name": "Canada",
       "state-or-province": "Alberta",
-      "phys-area-name": "Columbia Icefield, JNP",
+      "phys-area-name": "Columbia Icefield, Jasper National Park",
       "principal-cave-name": "Castleguard Cave",
       "other-cave-name": [],
       "latitude": 52.1,
@@ -612,7 +613,7 @@
       "contents": "permanent ice",
       "comments": "Active/relict cold zone",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2",
-      "reference": "Canadian Caver V23N2P31, Canadian Caver #12 1980"
+      "reference": "Canadian Caver 2:26, 5/1:21, 11/1:28, 12/1:3, 15/2:7, 19/2:22, 59:7, 63:4, 66:4, 71:4, 73:20, 80:28"
     },
 
     {
@@ -773,7 +774,7 @@
     {
       "country-name": "Canada",
       "state-or-province": "British Columbia",
-      "phys-area-name": "Top of the World Prov. Park",
+      "phys-area-name": "Top of the World Provincial Park",
       "principal-cave-name": "Wedge Cave",
       "other-cave-name": [],
       "latitude": 49.8,
@@ -4945,22 +4946,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Washington",
-      "principal-cave-name": "Ice Cave",
-      "other-cave-name": [],
-      "latitude": [],
-      "longitude": [],
-      "altitude": [],
-      "length": [],
-      "vertical-extent": [],
-      "cave-type": "lava tunnel",
-      "contents": "permanent ice",
-      "comments": "lava tube, cold air trap",
-      "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "Mauna Loa Ice Cave",
@@ -7886,17 +7871,9 @@
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Barbed Wire Cave",
       "length": 30,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1259"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Oregon",
-      "state-or-province": "Deschutes County",
-      "principal-cave-name": "Barbed Wire Cave",
-      "length": 16,
-      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1259",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1341"
     },
 
@@ -7926,17 +7903,9 @@
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Barlow Cave",
       "length": 243,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1251"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Oregon",
-      "state-or-province": "Deschutes County",
-      "principal-cave-name": "Barlow Cave",
-      "length": 469,
-      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1251",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1339"
     },
 
@@ -11494,11 +11463,17 @@
     {
       "country-name": "Italy",
       "state-or-province": "Sicilia",
-      "phys-area-name": "Sicily",
-      "principal-cave-name": "Cutrona Cave",
+      "phys-area-name": "Sicily; Etna",
+      "principal-cave-name": "Cutrona Cave (Grotta Cutrona)",
+      "other-cave-name": "SICT 1216",
+      "other-cave-name": "Grotta MC1 Grotta",
+      "altitude": 1860,
       "length": 870,
+      "vertical-extent": 97,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1546"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1546",
+      "reference": "http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
     },
 
     {
@@ -13381,7 +13356,7 @@
 
     {
       "country-name": "Italy",
-      "state-or-province": "Catania",
+      "state-or-province": "Catania; Etna",
       "phys-area-name": "Sicily",
       "principal-cave-name": "Grotta dei Lamponi",
       "length": 784,
@@ -13392,17 +13367,22 @@
     {
       "country-name": "Italy",
       "state-or-province": "Sicilia",
-      "phys-area-name": "Sicily",
+      "phys-area-name": "Sicily; Etna",
       "principal-cave-name": "Grotta dei Tre Livelli",
-      "length": [],
+      "other-cave-name": "SICT 1004",
+      "other-cave-name": "Galleriadei Pipistrelli",
+      "altitude": "1625-1675",
+      "length": 1150,
+      "vertical-extent": 304,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1540"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1540",
+      "reference": "http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
     },
 
     {
       "country-name": "Italy",
       "state-or-province": "Sicilia",
-      "phys-area-name": "Sicily",
+      "phys-area-name": "Sicily; Etna",
       "principal-cave-name": "Grotta del Labirinto",
       "length": 1500,
       "cave-type": "lava tunnel",
@@ -13412,7 +13392,7 @@
     {
       "country-name": "Italy",
       "state-or-province": "Sicilia",
-      "phys-area-name": "Sicily",
+      "phys-area-name": "Sicily; Etna",
       "principal-cave-name": "Grotta dell Intraleo",
       "length": [],
       "cave-type": "lava tunnel",
@@ -13422,11 +13402,15 @@
     {
       "country-name": "Italy",
       "state-or-province": "Sicilia",
-      "phys-area-name": "Sicily",
-      "principal-cave-name": "Grotta di SerracozzoI",
+      "phys-area-name": "Sicily; Etna",
+      "principal-cave-name": "Grotta di Serracozzo I",
+      "other-cave-name": "SICT 1065",
+      "altitude": 1840,
       "length": 350,
+      "vertical-extent": 60,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1543"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1543",
+      "reference": "http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
     },
 
     {
@@ -13442,7 +13426,7 @@
     {
       "country-name": "Italy",
       "state-or-province": "Sicilia",
-      "phys-area-name": "Sicily",
+      "phys-area-name": "Sicily; Etna",
       "principal-cave-name": "Grotte de la Cantoniera",
       "length": [],
       "cave-type": "lava tunnel",
@@ -13452,11 +13436,20 @@
     {
       "country-name": "Italy",
       "state-or-province": "Sicilia",
-      "phys-area-name": "Sicily",
+      "phys-area-name": "Sicily; Etna",
       "principal-cave-name": "Grotte del Gelo",
-      "length": [],
+      "altitude": 2030,
+      "length": "~120",
+      "number-of-entrances": 1,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1545"
+      "contents": "permanent ice",
+      "comments": "UNESCO world heritage site",
+      "reference": "Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1545",
+      "reference": "Caffo and Marino http://vulcanospeleology.org/sym09/ISV9Eaj.pdf",
+      "reference": "Marino http://www.vulcanospeleology.org/sym09/ISV9Eaj1.pdf",
+      "cave-use": "guided tourist cave"
     },
 
     {
@@ -14520,7 +14513,10 @@
       "length": 198,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1734"
+      "contents": "permanent ice",
+      "comments": "lava tube, cold air trap",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1734",
+      "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0"
     },
 
     {
@@ -15599,8 +15595,10 @@
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Keala Cave",
       "length": 8707,
+      "vertical-extent": 186,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=807"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=807",
+      "reference": "Kempe and Henschel (2009) Proc. 15th Int. Congress Speleology"
     },
 
     {

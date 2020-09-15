@@ -1,8 +1,8 @@
 #! /usr/bin/env python3
 
-# This Python script converts near-numerical entries into fully numerical
-# entries and outputs them in a file which can be used to support search
-# functionality.
+# This Python script converts the near-numerical entries of a CaveXML database
+# into fully numerical entries and outputs them in a file which can be used to
+# support search functionality.
 
 import xml.etree.ElementTree as ET
 import csv

@@ -6,8 +6,6 @@
 import xml.etree.ElementTree as ET
 import csv
 
-#tree = ET.parse('../icecave-database.xml')
-#tree = ET.parse('../lavatube-database.xml')
 tree = ET.parse('CaveXML/allcaves-database.xml')
 root = tree.getroot()
 

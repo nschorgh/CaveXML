@@ -8,11 +8,7 @@ print()
 import xml.etree.ElementTree
 
 # Enter name of XML database here
-#tree = xml.etree.ElementTree.parse('../icecave-database.xml')
-#tree = xml.etree.ElementTree.parse('../lavatube-database.xml')
-#tree = xml.etree.ElementTree.parse('../planetary-caves.xml')
-#tree = xml.etree.ElementTree.parse('../worldcavedatabase.xml')
-tree = xml.etree.ElementTree.parse('allcaves-database.xml')
+tree = xml.etree.ElementTree.parse('../allcaves-database.xml')
 
 root = tree.getroot()
 

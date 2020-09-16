@@ -13,7 +13,8 @@ CaveXML is a data interchange format for the purpose of facilitating scientific 
    [`https://tinyurl.com/cavedatabase`](https://tinyurl.com/cavedatabase)   (link to GoogleDocs Sheet with simple query functionality)     
    `cavexml-db-table.css`	  (minimalist Style Sheet so the XML database can be viewed in a webbrowser)  
    `Utilities/cavexml2csv.py`         (converts database to comma-separated-values using Python)  
-   `Utilities/cavexml-numeric.py`	    (parses quasi-numerical entries; auxiliary utility)   
+   `Utilities/cavexml-numeric.py`	    (parses quasi-numerical entries; auxiliary utility)  
+   `Utilities/reorder.xslt`    		 (sorts elements within each record; ausiliary utility)   
        
 
 This is a pilot project to explore the capabilities of CaveXML end-to-end. The actual database is for demonstration, and mainly contains ice caves and lava tubes.

@@ -58,6 +58,14 @@ for item in root.findall('record'):
                       pcn,maxOccurslist[i],len(h))
                 valid = False
 
+
+    # Find records without reference
+    try:
+        ref = item.find('reference').text
+        if ref is None:
+            print("WARNING: no reference for ",pcn)
+    except:
+        pass
         
                 
 print('')

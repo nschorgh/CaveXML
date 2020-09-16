@@ -13,7 +13,7 @@
       <longitude>13.193</longitude>
       <altitude>1657</altitude>
       <length> >42000</length>
-      <vertical-extent/>
+      <vertical-extent>407</vertical-extent>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <comments>surface area covered by ice 28,000 m^2</comments>
@@ -25,14 +25,14 @@
    </record>
    <record>
       <country-name>Austria</country-name>
-      <state-or-province/>
+      <state-or-province>Steiermark; Oberösterreich</state-or-province>
       <phys-area-name>Totes Gebirge</phys-area-name>
       <principal-cave-name>Schönberg-Höhlensystem</principal-cave-name>
       <other-cave-name>1626/300</other-cave-name>
       <latitude>47.718</latitude>
       <longitude>13.787</longitude>
       <altitude>1459-1933</altitude>
-      <length>146702</length>
+      <length>149123</length>
       <vertical-extent>1061</vertical-extent>
       <number-of-entrances>34</number-of-entrances>
       <contents>permanent ice</contents>
@@ -41,6 +41,7 @@
       <branch-name>Raucherkarhöhle</branch-name>
       <branch-name>Altarkögerlhöhle</branch-name>
       <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
+      <reference>https://hoehle.org/laengste-tiefste</reference>
    </record>
    <record>
       <country-name>Austria</country-name>
@@ -114,11 +115,11 @@
       <latitude/>
       <longitude/>
       <altitude>1450 main entrance</altitude>
-      <length>4200</length>
+      <length>10319</length>
       <vertical-extent>1101</vertical-extent>
       <contents>permanent ice</contents>
       <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
-      <reference>Atlantis #1 1996; Die Höhle #55 7-2004</reference>
+      <reference>https://hoehle.org/laengste-tiefste</reference>
    </record>
    <record>
       <country-name>Austria</country-name>
@@ -210,7 +211,7 @@
       <length>38000</length>
       <vertical-extent/>
       <contents>permanent ice</contents>
-      <comments>part of Gamslöcher-Kolowrat-Salzburgerschacht-System</comments>
+      <cave-system>Gamslöcher-Kolowrat-Salzburgerschacht-System</cave-system>
       <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
    </record>
    <record>
@@ -22358,6 +22359,175 @@
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=137</reference>
+   </record>
+
+
+   <record>
+      <country-name>Austria</country-name>
+      <state-or-province>Salzburg</state-or-province>
+      <phys-area-name>Untersberg</phys-area-name>
+      <principal-cave-name>Gamslöcher-Kolowrat-Höhlensystem</principal-cave-name>
+      <other-cave-name>1339/1</other-cave-name>
+      <length>44003</length>
+      <vertical-extent>1130</vertical-extent>
+      <branch-name>Kolowrathöhle</branch-name>
+      <branch-name>Gamslöcher</branch-name>
+      <branch-name>Salzburgerschacht</branch-name>
+      <reference>Die Höhle 61 (2010); Die Höhle 63 (2012)</reference>
+      <reference>Neubauer (2010) DOI:10.5038/1827-806X.40.2.4</reference>
+      <reference>https://hoehle.org/laengste-tiefste</reference>
+   </record>
+   <record>
+      <country-name>Austria</country-name>
+      <state-or-province>Oberösterreich</state-or-province>
+      <phys-area-name>Dachstein</phys-area-name>
+      <principal-cave-name>Hirlatzhöhle</principal-cave-name>
+      <other-cave-name>1546/7</other-cave-name>
+      <length>112929</length>
+      <vertical-extent>1560</vertical-extent>
+      <reference>https://hoehle.org/laengste-tiefste</reference>
+   </record>
+   <record>
+      <country-name>Austria</country-name>
+      <state-or-province>Salzburg</state-or-province>
+      <phys-area-name>Leoganger Steinberge</phys-area-name>
+      <principal-cave-name>Lamprechtsofen</principal-cave-name>
+      <other-cave-name>1324/1</other-cave-name>
+      <length>61000</length>
+      <vertical-extent>1735</vertical-extent>
+      <reference>https://hoehle.org/laengste-tiefste</reference>
+   </record>
+   <record>
+      <country-name>Austria</country-name>
+      <state-or-province>Steiermark</state-or-province>
+      <phys-area-name>Totes Gebirge</phys-area-name>
+      <principal-cave-name>Schwarzmooskogelsystem</principal-cave-name>
+      <other-cave-name>1623/40</other-cave-name>
+      <length>135159</length>
+      <vertical-extent>1125</vertical-extent>
+      <branch-name>Schnellzughöhle 1623/41</branch-name>
+      <branch-name>Stellerweghöhle 1623/115</branch-name>
+      <branch-name>Larchenschacht 1623/88</branch-name>
+      <branch-name>Schwabenschacht 1623/78</branch-name>
+      <branch-name>Schwarzmooskogeleishöhle 1623/40</branch-name>
+      <branch-name>1623/142</branch-name>
+      <branch-name>1623/144</branch-name>
+      <branch-name>Kaninchenhöhle</branch-name>
+      <reference>https://hoehle.org/laengste-tiefste</reference>
+   </record>
+   <record>
+      <country-name>Austria</country-name>
+      <state-or-province>Salzburg</state-or-province>
+      <phys-area-name>Hoher Göll</phys-area-name>
+      <principal-cave-name>Hochscharten-Höhlensystem</principal-cave-name>
+      <other-cave-name>1336/15</other-cave-name>
+      <length>14668</length>
+      <vertical-extent>1394</vertical-extent>
+      <reference>https://hoehle.org/laengste-tiefste</reference>
+   </record>
+   <record>
+      <country-name>Austria</country-name>
+      <state-or-province>Salzburg</state-or-province>
+      <phys-area-name>Tennengebirge</phys-area-name>
+      <principal-cave-name>Berger-Platteneck-Höhlesystem</principal-cave-name>
+      <other-cave-name>1511/162</other-cave-name>
+      <length>30396</length>
+      <vertical-extent>1291</vertical-extent>
+      <reference>https://hoehle.org/laengste-tiefste</reference>
+   </record>
+   <record>
+      <country-name>Austria</country-name>
+      <state-or-province>Salzburg</state-or-province>
+      <phys-area-name>Steineres Meer</phys-area-name>
+      <principal-cave-name>Kolkbläser-Monsterhöhle</principal-cave-name>
+      <other-cave-name>1331/25</other-cave-name>
+      <other-cave-name>Kolkbläser-Monsterhöhle-System</other-cave-name>
+      <length>44487</length>
+      <vertical-extent>711</vertical-extent>
+      <reference>https://hoehle.org/laengste-tiefste</reference>
+   </record>
+
+
+   <record>
+      <country-name>Mexico</country-name>
+      <state-or-province>Quintana Roo</state-or-province>
+      <phys-area-name>Yucatan Peninsula</phys-area-name>
+      <principal-cave-name>Sistema Sac Actun</principal-cave-name>
+      <other-cave-name/>
+      <latitude>20.24656</latitude>
+      <longitude>-87.46411</longitude>
+      <length>368637</length>
+      <vertical-extent>119</vertical-extent>
+      <number-of-entrances>187</number-of-entrances>
+      <comments>longest surveyed underwater cave system in the world</comments>
+      <branch-name>Sistema Dos Ojos</branch-name>
+      <branch-name>Nohoch Nah Chich</branch-name>
+      <branch-name>Aktun Hu</branch-name>
+      <reference>https://en.wikipedia.org/wiki/Sistema_Sac_Actun</reference>
+      <reference>Kambesis and Coke (2016). Boletín Geológico y Minero 127(1), 177-192. http://www.igme.es/boletin/2016/127_1/BG_127-1_Art-12.pdf</reference>
+      <reference>https://caves.org/project/qrss/qrss.htm</reference>
+   </record>
+   <record>
+      <country-name>Mexico</country-name>
+      <state-or-province>Quintana Roo</state-or-province>
+      <phys-area-name>Yucatan Peninsula</phys-area-name>
+      <principal-cave-name>Sistema Nohoch Nah Chich</principal-cave-name>
+      <other-cave-name/>
+      <latitude>20.29861</latitude>
+      <longitude>-87.40361</longitude>
+      <length>61143</length>
+      <vertical-extent>73</vertical-extent>
+      <number-of-entrances>36</number-of-entrances>
+      <rock-type>limestone</rock-type>
+      <comments>underwater</comments>
+      <comments>entrances: Dinner hole, Ferndock, Tankah, Balankanche</comments>
+      <cave-system>Sistema Sac Actun</cave-system>
+      <reference>https://en.wikipedia.org/wiki/Sistema_Nohoch_Nah_Chich</reference>
+   </record>
+   <record>
+      <country-name>Mexico</country-name>
+      <state-or-province>Quintana Roo</state-or-province>
+      <phys-area-name>Yucatan Peninsula</phys-area-name>
+      <principal-cave-name>Sistema Dos Ojos</principal-cave-name>
+      <other-cave-name/>
+      <latitude>20.32472</latitude>
+      <longitude>-87.39194</longitude>
+      <length>82472</length>
+      <vertical-extent/>
+      <number-of-entrances>28</number-of-entrances>
+      <rock-type>limestone</rock-type>
+      <comments>underwater</comments>
+      <cave-system>Sistema Sac Actun</cave-system>
+      <reference>https://en.wikipedia.org/wiki/Sistema_Dos_Ojos</reference>
+   </record>
+   
+   <record>
+      <country-name>Georgia</country-name>
+      <state-or-province>Abkhazia</state-or-province>
+      <phys-area-name>West Caucasus</phys-area-name>
+      <principal-cave-name>Voronja Cave</principal-cave-name>
+      <other-cave-name>Krubera Cave</other-cave-name>
+      <latitude>43.409722</latitude>
+      <longitude>40.362222</longitude>
+      <altitude>2256</altitude>
+      <length>13431</length>
+      <vertical-extent>2197</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <reference>https://en.wikipedia.org/wiki/Krubera_Cave</reference>
+   </record>
+   <record>
+      <country-name>Georgia</country-name>
+      <state-or-province>Abkhazia</state-or-province>
+      <phys-area-name>West Caucasus; Arabika Massif</phys-area-name>
+      <principal-cave-name>Veryovkina Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude>43.41556</latitude>
+      <longitude>40.35639</longitude>
+      <altitude>2285</altitude>
+      <length>17500</length>
+      <vertical-extent>2212</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <reference>https://en.wikipedia.org/wiki/Veryovkina_Cave</reference>
    </record>
 
    

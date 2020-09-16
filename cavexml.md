@@ -38,7 +38,7 @@ Generalization of UISIC field [SY287](http://www.uisic.uis-speleo.org/exchange/a
 Name of mountain, volcano, mountain range, island, geologic unit, or another physically-defined unit. Example: Pyrenees. For politically-defined areas use [state-or-province] instead.
 
 **\<principal-cave-name\>** *string, maxOccurs=1*    
-The current formal agreed name for a cave or karst feature, expressed in the local language. Where a new name is awaiting ratification, enclose it in round brackets. The character set is UTF-8, so characters from many languages can be used. If the cave is unnamed, a cave id or cave registery number can be entered here.
+The current formal agreed name for a cave or karst feature, expressed in the local language. Where a new name is awaiting ratification, enclose it in round brackets. The character set is UTF-8, so characters from many languages can be used. If the cave is unnamed, a cave id or cave registery number can be entered here.  
 UISIC field [CA70](http://www.uisic.uis-speleo.org/exchange/atendefn.html#70)
 
 **\<other-cave-name\>**  *string*  

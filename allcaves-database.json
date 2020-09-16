@@ -11,7 +11,7 @@
       "longitude": 13.193,
       "altitude": 1657,
       "length": " >42000",
-      "vertical-extent": [],
+      "vertical-extent": 407,
       "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "surface area covered by ice 28,000 m^2",
@@ -24,14 +24,14 @@
 
     {
       "country-name": "Austria",
-      "state-or-province": [],
+      "state-or-province": "Steiermark; Oberösterreich",
       "phys-area-name": "Totes Gebirge",
       "principal-cave-name": "Schönberg-Höhlensystem",
       "other-cave-name": "1626/300",
       "latitude": 47.718,
       "longitude": 13.787,
       "altitude": "1459-1933",
-      "length": 146702,
+      "length": 149123,
       "vertical-extent": 1061,
       "number-of-entrances": 34,
       "contents": "permanent ice",
@@ -39,7 +39,8 @@
       "branch-name": "Feuertal-Eishöhle",
       "branch-name": "Raucherkarhöhle",
       "branch-name": "Altarkögerlhöhle",
-      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9"
+      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9",
+      "reference": "https://hoehle.org/laengste-tiefste"
     },
 
     {
@@ -118,11 +119,11 @@
       "latitude": [],
       "longitude": [],
       "altitude": "1450 main entrance",
-      "length": 4200,
+      "length": 10319,
       "vertical-extent": 1101,
       "contents": "permanent ice",
       "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9",
-      "reference": "Atlantis #1 1996; Die Höhle #55 7-2004"
+      "reference": "https://hoehle.org/laengste-tiefste"
     },
 
     {
@@ -220,7 +221,7 @@
       "length": 38000,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "comments": "part of Gamslöcher-Kolowrat-Salzburgerschacht-System",
+      "cave-system": "Gamslöcher-Kolowrat-Salzburgerschacht-System",
       "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9"
     },
 
@@ -24514,6 +24515,182 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=137"
+    },
+
+    {
+      "country-name": "Austria",
+      "state-or-province": "Salzburg",
+      "phys-area-name": "Untersberg",
+      "principal-cave-name": "Gamslöcher-Kolowrat-Höhlensystem",
+      "other-cave-name": "1339/1",
+      "length": 44003,
+      "vertical-extent": 1130,
+      "branch-name": "Kolowrathöhle",
+      "branch-name": "Gamslöcher",
+      "branch-name": "Salzburgerschacht",
+      "reference": "Die Höhle 61 (2010); Die Höhle 63 (2012)",
+      "reference": "Neubauer (2010) DOI:10.5038/1827-806X.40.2.4",
+      "reference": "https://hoehle.org/laengste-tiefste"
+    },
+
+    {
+      "country-name": "Austria",
+      "state-or-province": "Oberösterreich",
+      "phys-area-name": "Dachstein",
+      "principal-cave-name": "Hirlatzhöhle",
+      "other-cave-name": "1546/7",
+      "length": 112929,
+      "vertical-extent": 1560,
+      "reference": "https://hoehle.org/laengste-tiefste"
+    },
+
+    {
+      "country-name": "Austria",
+      "state-or-province": "Salzburg",
+      "phys-area-name": "Leoganger Steinberge",
+      "principal-cave-name": "Lamprechtsofen",
+      "other-cave-name": "1324/1",
+      "length": 61000,
+      "vertical-extent": 1735,
+      "reference": "https://hoehle.org/laengste-tiefste"
+    },
+
+    {
+      "country-name": "Austria",
+      "state-or-province": "Steiermark",
+      "phys-area-name": "Totes Gebirge",
+      "principal-cave-name": "Schwarzmooskogelsystem",
+      "other-cave-name": "1623/40",
+      "length": 135159,
+      "vertical-extent": 1125,
+      "branch-name": "Schnellzughöhle 1623/41",
+      "branch-name": "Stellerweghöhle 1623/115",
+      "branch-name": "Larchenschacht 1623/88",
+      "branch-name": "Schwabenschacht 1623/78",
+      "branch-name": "Schwarzmooskogeleishöhle 1623/40",
+      "branch-name": "1623/142",
+      "branch-name": "1623/144",
+      "branch-name": "Kaninchenhöhle",
+      "reference": "https://hoehle.org/laengste-tiefste"
+    },
+
+    {
+      "country-name": "Austria",
+      "state-or-province": "Salzburg",
+      "phys-area-name": "Hoher Göll",
+      "principal-cave-name": "Hochscharten-Höhlensystem",
+      "other-cave-name": "1336/15",
+      "length": 14668,
+      "vertical-extent": 1394,
+      "reference": "https://hoehle.org/laengste-tiefste"
+    },
+
+    {
+      "country-name": "Austria",
+      "state-or-province": "Salzburg",
+      "phys-area-name": "Tennengebirge",
+      "principal-cave-name": "Berger-Platteneck-Höhlesystem",
+      "other-cave-name": "1511/162",
+      "length": 30396,
+      "vertical-extent": 1291,
+      "reference": "https://hoehle.org/laengste-tiefste"
+    },
+
+    {
+      "country-name": "Austria",
+      "state-or-province": "Salzburg",
+      "phys-area-name": "Steineres Meer",
+      "principal-cave-name": "Kolkbläser-Monsterhöhle",
+      "other-cave-name": "1331/25",
+      "other-cave-name": "Kolkbläser-Monsterhöhle-System",
+      "length": 44487,
+      "vertical-extent": 711,
+      "reference": "https://hoehle.org/laengste-tiefste"
+    },
+
+    {
+      "country-name": "Mexico",
+      "state-or-province": "Quintana Roo",
+      "phys-area-name": "Yucatan Peninsula",
+      "principal-cave-name": "Sistema Sac Actun",
+      "other-cave-name": [],
+      "latitude": 20.24656,
+      "longitude": -87.46411,
+      "length": 368637,
+      "vertical-extent": 119,
+      "number-of-entrances": 187,
+      "comments": "longest surveyed underwater cave system in the world",
+      "branch-name": "Sistema Dos Ojos",
+      "branch-name": "Nohoch Nah Chich",
+      "branch-name": "Aktun Hu",
+      "reference": "https://en.wikipedia.org/wiki/Sistema_Sac_Actun",
+      "reference": "Kambesis and Coke (2016). Boletín Geológico y Minero 127(1), 177-192. http://www.igme.es/boletin/2016/127_1/BG_127-1_Art-12.pdf",
+      "reference": "https://caves.org/project/qrss/qrss.htm"
+    },
+
+    {
+      "country-name": "Mexico",
+      "state-or-province": "Quintana Roo",
+      "phys-area-name": "Yucatan Peninsula",
+      "principal-cave-name": "Sistema Nohoch Nah Chich",
+      "other-cave-name": [],
+      "latitude": 20.29861,
+      "longitude": -87.40361,
+      "length": 61143,
+      "vertical-extent": 73,
+      "number-of-entrances": 36,
+      "rock-type": "limestone",
+      "comments": "underwater",
+      "comments": "entrances: Dinner hole, Ferndock, Tankah, Balankanche",
+      "cave-system": "Sistema Sac Actun",
+      "reference": "https://en.wikipedia.org/wiki/Sistema_Nohoch_Nah_Chich"
+    },
+
+    {
+      "country-name": "Mexico",
+      "state-or-province": "Quintana Roo",
+      "phys-area-name": "Yucatan Peninsula",
+      "principal-cave-name": "Sistema Dos Ojos",
+      "other-cave-name": [],
+      "latitude": 20.32472,
+      "longitude": -87.39194,
+      "length": 82472,
+      "vertical-extent": [],
+      "number-of-entrances": 28,
+      "rock-type": "limestone",
+      "comments": "underwater",
+      "cave-system": "Sistema Sac Actun",
+      "reference": "https://en.wikipedia.org/wiki/Sistema_Dos_Ojos"
+    },
+
+    {
+      "country-name": "Georgia",
+      "state-or-province": "Abkhazia",
+      "phys-area-name": "West Caucasus",
+      "principal-cave-name": "Voronja Cave",
+      "other-cave-name": "Krubera Cave",
+      "latitude": 43.409722,
+      "longitude": 40.362222,
+      "altitude": 2256,
+      "length": 13431,
+      "vertical-extent": 2197,
+      "rock-type": "limestone",
+      "reference": "https://en.wikipedia.org/wiki/Krubera_Cave"
+    },
+
+    {
+      "country-name": "Georgia",
+      "state-or-province": "Abkhazia",
+      "phys-area-name": "West Caucasus; Arabika Massif",
+      "principal-cave-name": "Veryovkina Cave",
+      "other-cave-name": [],
+      "latitude": 43.41556,
+      "longitude": 40.35639,
+      "altitude": 2285,
+      "length": 17500,
+      "vertical-extent": 2212,
+      "rock-type": "limestone",
+      "reference": "https://en.wikipedia.org/wiki/Veryovkina_Cave"
     },
 
     {

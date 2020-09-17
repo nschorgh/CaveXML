@@ -10,7 +10,7 @@
 
     <xsl:template match="CaveDataBase">
         <xsl:copy>
-            <!-- now copy any children -->
+            <!-- copy any children -->
             <xsl:apply-templates select="*"/>
         </xsl:copy>
     </xsl:template>

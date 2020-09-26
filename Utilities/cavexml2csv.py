@@ -1,7 +1,9 @@
 #! /usr/bin/env python3
 
 # This Python script converts a CaveXML database into csv format. Repeat entries
-# for the same element are merged so they fit into a single column.
+# for the same element are merged so they fit into a single column. It also
+# converts DOIs into hyperlinks.
+
 
 import xml.etree.ElementTree as ET
 import csv
@@ -23,7 +25,7 @@ def merge_elements(stuff):
 
 
 
-# open files for writing
+# open file for writing
 thedata = open('tmp.csv', 'w')
 
 # create the csv writer object

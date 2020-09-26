@@ -40,9 +40,12 @@
 	    <xsl:apply-templates select="reference" />
 	    <xsl:apply-templates select="cave-use" />
             <xsl:apply-templates select="*[not(self::country-name or 
-					 self::state-or-province or self::phys-area-name or
-					 self::principal-cave-name or self::other-cave-name or 
-					 self::latitude or self::longitude or self::altitude or
+					 self::state-or-province or 
+					 self::phys-area-name or
+					 self::principal-cave-name or 
+					 self::other-cave-name or 
+					 self::latitude or self::longitude or 
+					 self::altitude or
 					 self::length or self::vertical-extent or
 					 self::number-of-entrances or
 					 self::rock-type or self::cave-type or
@@ -55,7 +58,8 @@
         </xsl:copy>
     </xsl:template>
 
-    <!-- this is the identity transform: it copies everything that isn't matched by a more specific template -->
+    <!-- this is the identity transform: 
+	 it copies everything that isn't matched by a more specific template -->
     <xsl:template match="@*|node()"> 
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/> 

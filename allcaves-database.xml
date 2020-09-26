@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="cavexml-db-table.css"?>
 <CaveDataBase xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
-	      xs:schemaLocation="https://github.com/nschorgh/CaveXML/blob/master      
-				 https://github.com/nschorgh/CaveXML/blob/master/cavexml.xsd">
+	      xs:schemaLocation="https://github.com/nschorgh/CaveXML/blob/master https://github.com/nschorgh/CaveXML/blob/master/cavexml.xsd">
    <record>
       <country-name>Austria</country-name>
       <state-or-province>Salzburg</state-or-province>

@@ -4722,12 +4722,14 @@
       "other-cave-name": [],
       "latitude": [],
       "longitude": [],
-      "altitude": [],
-      "length": [],
-      "vertical-extent": [],
+      "altitude": 3140,
+      "length": 245,
+      "vertical-extent": 33,
+      "rock-type": "Carboniferous limestone",
       "contents": "permanent ice",
       "comments": "strong air flow, abundant thick persisent ice deposits",
-      "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0"
+      "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
+      "reference": "Munroe (2020) doi:10.5194/tc-2020-152"
     },
 
     {
@@ -6290,19 +6292,21 @@
 
     {
       "country-name": "Iceland",
-      "state-or-province": [],
+      "state-or-province": "Myrasysla County",
       "phys-area-name": "Hallmundahraun lava flow",
       "principal-cave-name": "Víðgelmir",
       "other-cave-name": [],
-      "latitude": [],
-      "longitude": [],
-      "altitude": [],
-      "length": [],
+      "latitude": 43.63872,
+      "longitude": -116.24135,
+      "altitude": 250,
+      "length": 1585,
       "vertical-extent": [],
       "cave-type": "lava tunnel",
       "contents": "permanent ice",
       "comments": [],
-      "reference": "Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1"
+      "reference": "Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=22",
+      "reference": "Mills and Wood (1972) https://www.shepton.org.uk/files/jnr/jnr_series_05_04.pdf"
     },
 
     {
@@ -6747,7 +6751,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "W.R.",
+      "state-or-province": "California",
       "state-or-province": "Shasta County",
       "principal-cave-name": "No. 4",
       "length": 28,
@@ -9136,7 +9140,7 @@
     {
       "country-name": "France",
       "state-or-province": "Reunion",
-      "phys-area-name": [],
+      "phys-area-name": "Reunion Island",
       "principal-cave-name": "Cape Blanc Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -9432,8 +9436,8 @@
 
     {
       "country-name": "France",
-      "state-or-province": "Reunion Island",
-      "phys-area-name": [],
+      "state-or-province": "Reunion",
+      "phys-area-name": "Reunion Island",
       "principal-cave-name": "Caverne Bateau",
       "length": 1910,
       "cave-type": "lava tunnel",
@@ -9442,8 +9446,8 @@
 
     {
       "country-name": "France",
-      "state-or-province": "Reunion Island",
-      "phys-area-name": [],
+      "state-or-province": "Reunion",
+      "phys-area-name": "Reunion Island",
       "principal-cave-name": "Caverne de la Riviere des Remparts",
       "length": 1000,
       "cave-type": "lava tunnel",
@@ -11762,7 +11766,7 @@
     {
       "country-name": "France",
       "state-or-province": "Reunion",
-      "phys-area-name": [],
+      "phys-area-name": "Reunion Island",
       "principal-cave-name": "Delcy Hole",
       "length": [],
       "cave-type": "lava tunnel",
@@ -13337,7 +13341,7 @@
 
     {
       "country-name": "Iceland",
-      "state-or-province": "Gullbringusysla",
+      "state-or-province": "Gullbringusysla County",
       "phys-area-name": [],
       "principal-cave-name": "Grindavikshellir",
       "length": 231,
@@ -14071,7 +14075,7 @@
     {
       "country-name": "France",
       "state-or-province": "Reunion",
-      "phys-area-name": [],
+      "phys-area-name": "Reunion Island",
       "principal-cave-name": "Hermitage Hole",
       "length": [],
       "cave-type": "lava tunnel",
@@ -17969,8 +17973,10 @@
     {
       "country-name": "France",
       "state-or-province": "Reunion",
-      "phys-area-name": [],
+      "phys-area-name": "Reunion Island",
       "principal-cave-name": "Mussard Cavern",
+      "other-cave-name": "Mussard Cave",
+      "altitude": "2150 coarse",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1434"
@@ -20725,7 +20731,7 @@
     {
       "country-name": "France",
       "state-or-province": "Reunion",
-      "phys-area-name": [],
+      "phys-area-name": "Reunion Island",
       "principal-cave-name": "Saint Benoit Cavern",
       "length": [],
       "cave-type": "lava tunnel",
@@ -23655,16 +23661,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=420"
-    },
-
-    {
-      "country-name": "Iceland",
-      "state-or-province": "Myrasysla County",
-      "phys-area-name": "Hallmundarhraun",
-      "principal-cave-name": "Vidgelmir",
-      "length": 1585,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=22"
     },
 
     {

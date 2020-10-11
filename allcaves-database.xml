@@ -4417,12 +4417,14 @@
       <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
+      <altitude>3140</altitude>
+      <length>245</length>
+      <vertical-extent>33</vertical-extent>
+      <rock-type>Carboniferous limestone</rock-type>
       <contents>permanent ice</contents>
       <comments>strong air flow, abundant thick persisent ice deposits</comments>
       <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+      <reference>Munroe (2020) doi:10.5194/tc-2020-152</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -5888,19 +5890,21 @@
    </record>
    <record>
       <country-name>Iceland</country-name>
-      <state-or-province/>
+      <state-or-province>Myrasysla County</state-or-province>
       <phys-area-name>Hallmundahraun lava flow</phys-area-name>
       <principal-cave-name>Víðgelmir</principal-cave-name>
       <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
+      <latitude>43.63872</latitude>
+      <longitude>-116.24135</longitude>
+      <altitude>250</altitude>
+      <length>1585</length>
       <vertical-extent/>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
       <comments/>
       <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=22</reference>
+      <reference>Mills and Wood (1972) https://www.shepton.org.uk/files/jnr/jnr_series_05_04.pdf</reference>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -6319,7 +6323,7 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>W.R.</state-or-province>
+      <state-or-province>California</state-or-province>
       <state-or-province>Shasta County</state-or-province>
       <principal-cave-name>No. 4</principal-cave-name>
       <length>28</length>
@@ -8478,7 +8482,7 @@
    <record>
       <country-name>France</country-name>
       <state-or-province>Reunion</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Reunion Island</phys-area-name>
       <principal-cave-name>Cape Blanc Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -8745,8 +8749,8 @@
    </record>
    <record>
       <country-name>France</country-name>
-      <state-or-province>Reunion Island</state-or-province>
-      <phys-area-name/>
+      <state-or-province>Reunion</state-or-province>
+      <phys-area-name>Reunion Island</phys-area-name>
       <principal-cave-name>Caverne Bateau</principal-cave-name>
       <length>1910</length>
       <cave-type>lava tunnel</cave-type>
@@ -8754,8 +8758,8 @@
    </record>
    <record>
       <country-name>France</country-name>
-      <state-or-province>Reunion Island</state-or-province>
-      <phys-area-name/>
+      <state-or-province>Reunion</state-or-province>
+      <phys-area-name>Reunion Island</phys-area-name>
       <principal-cave-name>Caverne de la Riviere des Remparts</principal-cave-name>
       <length>1000</length>
       <cave-type>lava tunnel</cave-type>
@@ -10846,7 +10850,7 @@
    <record>
       <country-name>France</country-name>
       <state-or-province>Reunion</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Reunion Island</phys-area-name>
       <principal-cave-name>Delcy Hole</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -12267,7 +12271,7 @@
    </record>
    <record>
       <country-name>Iceland</country-name>
-      <state-or-province>Gullbringusysla</state-or-province>
+      <state-or-province>Gullbringusysla County</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Grindavikshellir</principal-cave-name>
       <length>231</length>
@@ -12931,7 +12935,7 @@
    <record>
       <country-name>France</country-name>
       <state-or-province>Reunion</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Reunion Island</phys-area-name>
       <principal-cave-name>Hermitage Hole</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -16449,8 +16453,10 @@
    <record>
       <country-name>France</country-name>
       <state-or-province>Reunion</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Reunion Island</phys-area-name>
       <principal-cave-name>Mussard Cavern</principal-cave-name>
+      <other-cave-name>Mussard Cave</other-cave-name>
+      <altitude>2150 coarse</altitude>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1434</reference>
@@ -18938,7 +18944,7 @@
    <record>
       <country-name>France</country-name>
       <state-or-province>Reunion</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Reunion Island</phys-area-name>
       <principal-cave-name>Saint Benoit Cavern</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -21582,15 +21588,6 @@
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=420</reference>
-   </record>
-   <record>
-      <country-name>Iceland</country-name>
-      <state-or-province>Myrasysla County</state-or-province>
-      <phys-area-name>Hallmundarhraun</phys-area-name>
-      <principal-cave-name>Vidgelmir</principal-cave-name>
-      <length>1585</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=22</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>

@@ -24,7 +24,7 @@ This is a pilot project to explore the capabilities of a CaveXML implementation 
 `cavexml.md` describes the meaning of the XML elements used to organize the data, and restrictions for the entries.
 
 The master copy of the database is in XML format (`allcaves-database.xml`). With the help of `cavexml-db-table.css` the database content can be viewed in a web browser, but this provides a rather poor viewing experience.
-Notably absent are query cabilities, i.e. a search interface, but users can upload the database into a spreadsheet. `cavexml-numeric.py` generates an auxiliary file that contains, among other columns minimum and maximum altitude, and it can be uploaded into the same spreadhseet to support numerical searches on quasi-numerical entries.  
+Notably absent are query capabilities, i.e. a search interface, but users can upload the database into a spreadsheet. `cavexml-numeric.py` generates an auxiliary file that contains, among other columns minimum and maximum altitude, and it can be uploaded into the same spreadsheet to support numerical searches on quasi-numerical entries.  
 
 The Python programs serve as examples for how a CaveXML database can be loaded and analyzed within Python. Parsing functions for quasi-numerical entries are included in `cavexml-numeric.py`.
 

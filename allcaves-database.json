@@ -778,8 +778,8 @@
       "phys-area-name": "Top of the World Provincial Park",
       "principal-cave-name": "Wedge Cave",
       "other-cave-name": [],
-      "latitude": 49.8,
-      "longitude": -155.4,
+      "latitude": [],
+      "longitude": [],
       "altitude": 2200,
       "length": 60,
       "vertical-extent": [],
@@ -5924,8 +5924,8 @@
       "phys-area-name": "Far East of Russia",
       "principal-cave-name": "Ledyanaya Malyutka Cave",
       "other-cave-name": [],
-      "latitude": 44.617,
-      "longitude": 136.67,
+      "latitude": [],
+      "longitude": [],
       "altitude": 340,
       "length": 98,
       "vertical-extent": 20,
@@ -7888,6 +7888,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Barkers Cave",
       "length": 900,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1417"
     },
@@ -8075,7 +8076,9 @@
       "state-or-province": "North Queensland",
       "phys-area-name": [],
       "principal-cave-name": "Bayliss Cave",
+      "other-cave-name": "U30",
       "length": 1350,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1210"
     },
@@ -9696,6 +9699,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Chin Fue",
       "length": 450,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=996"
     },
@@ -10347,6 +10351,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Cueva de Don Marcelo",
       "length": 1268,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1154"
     },
@@ -10357,6 +10362,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Cueva de Dona Macaria",
       "length": 500,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1153"
     },
@@ -10367,6 +10373,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Cueva de Eduardo",
       "length": 400,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1155"
     },
@@ -10757,7 +10764,6 @@
       "phys-area-name": [],
       "principal-cave-name": "Cueva de los Secondarios",
       "length": [],
-      "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1557"
     },
 
@@ -15058,6 +15064,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Jebel Hil Cave",
       "length": 3000,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1766"
     },
@@ -15295,7 +15302,9 @@
       "state-or-province": "Western",
       "phys-area-name": [],
       "principal-cave-name": "Kahf al Mut'eb",
+      "altitude": 1175,
       "length": 123,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1762"
     },
@@ -15305,7 +15314,10 @@
       "state-or-province": "Western",
       "phys-area-name": [],
       "principal-cave-name": "Kahf Al Ashbaah",
+      "other-cave-name": "Ghostly Cave",
+      "altitude": 1175,
       "length": 300,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1763"
     },
@@ -15720,9 +15732,11 @@
     {
       "country-name": "Kenya",
       "state-or-province": "Eastern Province; Machakos District",
-      "phys-area-name": [],
+      "phys-area-name": "Chyulu Hills",
       "principal-cave-name": "Kimakia Cave",
+      "other-cave-name": "Ithundu Mine",
       "length": 1400,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=693"
     },
@@ -15743,6 +15757,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Kimnyong Cave",
       "length": 500,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=681"
     },
@@ -16541,7 +16556,6 @@
       "phys-area-name": "Kauai",
       "principal-cave-name": "Limestone Quarry Cave",
       "length": 150,
-      "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=982"
     },
 
@@ -16685,6 +16699,7 @@
       "phys-area-name": "Lopevi",
       "principal-cave-name": "Lopevi I",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1368"
     },
@@ -16695,6 +16710,7 @@
       "phys-area-name": "Lopevi",
       "principal-cave-name": "Lopevi II",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1369"
     },
@@ -16785,6 +16801,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Lost World",
       "length": 74,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1388"
     },
@@ -16926,7 +16943,9 @@
       "state-or-province": [],
       "phys-area-name": [],
       "principal-cave-name": "Lykkjuhellir",
+      "other-cave-name": "Link Cave",
       "length": 340,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=202"
     },
@@ -17077,7 +17096,10 @@
       "state-or-province": "Cheju-do",
       "phys-area-name": [],
       "principal-cave-name": "Man Jang Cave",
+      "other-cave-name": "Mangjang Gul",
+      "other-cave-name": "Red Dragon Cave",
       "length": 8928,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=682"
     },
@@ -18027,9 +18049,10 @@
     {
       "country-name": "Australia",
       "state-or-province": "Heard Island",
-      "phys-area-name": [],
+      "phys-area-name": "Mawson Peak",
       "principal-cave-name": "NAD-02 Cave",
       "length": 58,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=995"
     },
@@ -18129,7 +18152,9 @@
       "state-or-province": "Queensland",
       "phys-area-name": [],
       "principal-cave-name": "Nasty",
+      "other-cave-name": "U46",
       "length": 127,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1394"
     },
@@ -18606,8 +18631,10 @@
       "country-name": "Samoa",
       "state-or-province": "Vaisigano",
       "phys-area-name": "Savaii Island",
+      "phys-area-name": "Salani",
       "principal-cave-name": "Oloimoa",
       "length": 70,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1568"
     },
@@ -18866,9 +18893,12 @@
     {
       "country-name": "Kenya",
       "state-or-province": "Eastern Province; Machakos District",
-      "phys-area-name": [],
+      "phys-area-name": "Chyulu Hills",
       "principal-cave-name": "Pango Ya Moshi",
+      "other-cave-name": "Smoke Cave",
+      "other-cave-name": "Cloud Cave",
       "length": 3000,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=702"
     },
@@ -18939,8 +18969,9 @@
       "country-name": "Samoa",
       "state-or-province": "Tuamasaga",
       "phys-area-name": "Upolu Island",
-      "principal-cave-name": "Papa Cave",
+      "principal-cave-name": "Papa Cave",
       "length": 1110,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1559"
     },
@@ -19087,6 +19118,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Picnic 1",
       "length": 420,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1396"
     },
@@ -19097,6 +19129,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Picnic II",
       "length": 45,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1397"
     },
@@ -19167,6 +19200,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Pinwill",
       "length": 560,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1425"
     },
@@ -19219,6 +19253,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Poacher's Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=696"
     },
@@ -19542,6 +19577,7 @@
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii (Big Island)",
       "principal-cave-name": "Puu Waa waa Ranch Cave #1",
+      "altitude": 1250,
       "length": 100,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=869"
@@ -19552,6 +19588,7 @@
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii (Big Island)",
       "principal-cave-name": "Puu Waa waa Ranch Cave #2",
+      "altitude": 1250,
       "length": 30,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=870"
@@ -19872,6 +19909,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Raleigh I",
       "length": 23,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1398"
     },
@@ -19882,6 +19920,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Raleigh II",
       "length": 30,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1399"
     },
@@ -19982,6 +20021,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Raufarholshellir",
       "length": 1360,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=8"
     },
@@ -20368,7 +20408,9 @@
       "state-or-province": "Queensland",
       "phys-area-name": [],
       "principal-cave-name": "Road Cave",
+      "other-cave-name": "U28-U29c",
       "length": 220,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1426"
     },
@@ -20794,7 +20836,10 @@
       "state-or-province": [],
       "phys-area-name": [],
       "principal-cave-name": "Samrunahellir",
+      "other-cave-name": "Samruni",
+      "other-cave-name": "Confluence Cave",
       "length": 220,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=194"
     },
@@ -21153,7 +21198,7 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Shoiko Fuketsu No. 1 Cave",
       "length": 230,
       "cave-type": "lava tunnel",
@@ -21163,7 +21208,7 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Shoiko Fuketsu No. 2 Cave",
       "length": 55,
       "cave-type": "lava tunnel",
@@ -21173,7 +21218,7 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Shoiko Fuketsu No. 3 Cave",
       "length": 35,
       "cave-type": "lava tunnel",
@@ -21183,7 +21228,7 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Shoiko Fuketsu No. 4 Cave",
       "length": 32,
       "cave-type": "lava tunnel",
@@ -21193,7 +21238,7 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Shoiko Fuketsu No. 5 Cave",
       "length": 30,
       "cave-type": "lava tunnel",
@@ -21588,6 +21633,8 @@
       "state-or-province": "Cheju",
       "phys-area-name": [],
       "principal-cave-name": "So Chon Gul",
+      "other-cave-name": "Stream Cave",
+      "other-cave-name": "Creek Cave",
       "length": 2890,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=671"
@@ -22497,7 +22544,9 @@
       "state-or-province": "Queensland",
       "phys-area-name": [],
       "principal-cave-name": "Temple of Doom",
+      "other-cave-name": "U48",
       "length": 50,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1406"
     },
@@ -22692,6 +22741,7 @@
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Three Pines Cave",
       "length": 30,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1325"
     },
@@ -22807,6 +22857,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Tindima Pot",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=698"
     },
@@ -23174,7 +23225,9 @@
       "state-or-province": "Queensland",
       "phys-area-name": [],
       "principal-cave-name": "Traves",
+      "other-cave-name": "U18",
       "length": 67,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1407"
     },
@@ -23247,6 +23300,7 @@
       "principal-cave-name": "Tunnel No. 2",
       "altitude": 118,
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "age of flow 3-4kyr",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=223"
@@ -23259,6 +23313,7 @@
       "principal-cave-name": "Tunnel No. 3",
       "altitude": 108,
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "age of flow 3-4kyr",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=224"
@@ -23269,7 +23324,9 @@
       "state-or-province": "Aconcagua",
       "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui)",
       "principal-cave-name": "Tunnel No. 4",
+      "altitude": 100,
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=225"
     },
@@ -23290,6 +23347,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Tween",
       "length": 24,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1408"
     },
@@ -23388,9 +23446,10 @@
     {
       "country-name": "Rwanda",
       "state-or-province": "Ruhengueri",
-      "phys-area-name": [],
+      "phys-area-name": "Kanisimbi",
       "principal-cave-name": "Ubuvumo bwa Musanze",
       "length": 4560,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1455"
     },
@@ -23567,6 +23626,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Upper Secret",
       "length": 150,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1409"
     },
@@ -23647,7 +23707,9 @@
       "state-or-province": [],
       "phys-area-name": [],
       "principal-cave-name": "Veltingur",
+      "other-cave-name": "Seesaw Cave",
       "length": 155,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=191"
     },
@@ -23742,6 +23804,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Waful Kul",
       "length": 1316,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=684"
     },
@@ -23891,6 +23954,7 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
+      "phys-area-name": "Rangitote",
       "principal-cave-name": "Wallaby Cave",
       "length": [],
       "rock-type": "basalt",
@@ -24238,6 +24302,7 @@
       "state-or-province": "Queensland",
       "phys-area-name": [],
       "principal-cave-name": "Wishing Well",
+      "other-cave-name": "U52",
       "length": 104,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1431"

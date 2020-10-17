@@ -221,7 +221,7 @@
 	    <xs:enumeration value="Saint Martin (French part)"/>
 	    <xs:enumeration value="Saint Pierre and Miquelon"/>
 	    <xs:enumeration value="Saint Vincent and the Grenadines"/>
-	    <xs:enumeration value="Samoa"/>
+	    <xs:enumeration value="Samoa"/>  <!-- formerly known as "Western Samoa" -->
 	    <xs:enumeration value="San Marino"/>
 	    <xs:enumeration value="Sao Tome and Principe"/>
 	    <xs:enumeration value="Saudi Arabia"/>

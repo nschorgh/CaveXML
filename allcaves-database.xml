@@ -733,8 +733,8 @@
       <phys-area-name>Top of the World Provincial Park</phys-area-name>
       <principal-cave-name>Wedge Cave</principal-cave-name>
       <other-cave-name/>
-      <latitude>49.8</latitude>
-      <longitude>-155.4</longitude>
+      <latitude></latitude>
+      <longitude></longitude>
       <altitude>2200</altitude>
       <length>60</length>
       <vertical-extent/>
@@ -5546,8 +5546,8 @@
       <phys-area-name>Far East of Russia</phys-area-name>
       <principal-cave-name>Ledyanaya Malyutka Cave</principal-cave-name>
       <other-cave-name/>
-      <latitude>44.617</latitude>
-      <longitude>136.67</longitude>
+      <latitude></latitude>
+      <longitude></longitude>
       <altitude>340</altitude>
       <length>98</length>
       <vertical-extent>20</vertical-extent>
@@ -6309,7 +6309,6 @@
       <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
       <reference>Barton et al. (2020) Cave and Karst Sci. 47, 93-99</reference>
    </record>
-
 
    <record>
       <country-name>United States of America</country-name>
@@ -7351,6 +7350,7 @@
       <phys-area-name/>
       <principal-cave-name>Barkers Cave</principal-cave-name>
       <length>900</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1417</reference>
    </record>
@@ -7520,7 +7520,9 @@
       <state-or-province>North Queensland</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Bayliss Cave</principal-cave-name>
+      <other-cave-name>U30</other-cave-name>
       <length>1350</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1210</reference>
    </record>
@@ -8984,6 +8986,7 @@
       <phys-area-name/>
       <principal-cave-name>Chin Fue</principal-cave-name>
       <length>450</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=996</reference>
    </record>
@@ -9572,6 +9575,7 @@
       <phys-area-name/>
       <principal-cave-name>Cueva de Don Marcelo</principal-cave-name>
       <length>1268</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1154</reference>
    </record>
@@ -9581,6 +9585,7 @@
       <phys-area-name/>
       <principal-cave-name>Cueva de Dona Macaria</principal-cave-name>
       <length>500</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1153</reference>
    </record>
@@ -9590,6 +9595,7 @@
       <phys-area-name/>
       <principal-cave-name>Cueva de Eduardo</principal-cave-name>
       <length>400</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1155</reference>
    </record>
@@ -9941,7 +9947,6 @@
       <phys-area-name/>
       <principal-cave-name>Cueva de los Secondarios</principal-cave-name>
       <length/>
-      <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1557</reference>
    </record>
    <record>
@@ -13823,6 +13828,7 @@
       <phys-area-name/>
       <principal-cave-name>Jebel Hil Cave</principal-cave-name>
       <length>3000</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1766</reference>
    </record>
@@ -14037,7 +14043,9 @@
       <state-or-province>Western</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Kahf al Mut'eb</principal-cave-name>
+      <altitude>1175</altitude>
       <length>123</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1762</reference>
    </record>
@@ -14046,7 +14054,10 @@
       <state-or-province>Western</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Kahf Al Ashbaah</principal-cave-name>
+      <other-cave-name>Ghostly Cave</other-cave-name>
+      <altitude>1175</altitude>
       <length>300</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1763</reference>
    </record>
@@ -14420,9 +14431,11 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Kimakia Cave</principal-cave-name>
+      <other-cave-name>Ithundu Mine</other-cave-name>
       <length>1400</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=693</reference>
    </record>
@@ -14441,6 +14454,7 @@
       <phys-area-name/>
       <principal-cave-name>Kimnyong Cave</principal-cave-name>
       <length>500</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=681</reference>
    </record>
@@ -15161,7 +15175,6 @@
       <phys-area-name>Kauai</phys-area-name>
       <principal-cave-name>Limestone Quarry Cave</principal-cave-name>
       <length>150</length>
-      <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=982</reference>
    </record>
    <record>
@@ -15291,6 +15304,7 @@
       <phys-area-name>Lopevi</phys-area-name>
       <principal-cave-name>Lopevi I</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1368</reference>
    </record>
@@ -15300,6 +15314,7 @@
       <phys-area-name>Lopevi</phys-area-name>
       <principal-cave-name>Lopevi II</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1369</reference>
    </record>
@@ -15381,6 +15396,7 @@
       <phys-area-name/>
       <principal-cave-name>Lost World</principal-cave-name>
       <length>74</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1388</reference>
    </record>
@@ -15508,7 +15524,9 @@
       <state-or-province/>
       <phys-area-name/>
       <principal-cave-name>Lykkjuhellir</principal-cave-name>
+      <other-cave-name>Link Cave</other-cave-name>
       <length>340</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=202</reference>
    </record>
@@ -15644,7 +15662,10 @@
       <state-or-province>Cheju-do</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Man Jang Cave</principal-cave-name>
+      <other-cave-name>Mangjang Gul</other-cave-name>
+      <other-cave-name>Red Dragon Cave</other-cave-name>
       <length>8928</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=682</reference>
    </record>
@@ -16502,9 +16523,10 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Heard Island</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mawson Peak</phys-area-name>
       <principal-cave-name>NAD-02 Cave</principal-cave-name>
       <length>58</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=995</reference>
    </record>
@@ -16594,7 +16616,9 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Nasty</principal-cave-name>
+      <other-cave-name>U46</other-cave-name>
       <length>127</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1394</reference>
    </record>
@@ -17024,8 +17048,10 @@
       <country-name>Samoa</country-name>
       <state-or-province>Vaisigano</state-or-province>
       <phys-area-name>Savaii Island</phys-area-name>
+      <phys-area-name>Salani</phys-area-name>
       <principal-cave-name>Oloimoa</principal-cave-name>
       <length>70</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1568</reference>
    </record>
@@ -17259,9 +17285,12 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Pango Ya Moshi</principal-cave-name>
+      <other-cave-name>Smoke Cave</other-cave-name>
+      <other-cave-name>Cloud Cave</other-cave-name>
       <length>3000</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=702</reference>
    </record>
@@ -17325,8 +17354,9 @@
       <country-name>Samoa</country-name>
       <state-or-province>Tuamasaga</state-or-province>
       <phys-area-name>Upolu Island</phys-area-name>
-      <principal-cave-name>Papa Cave</principal-cave-name>
+      <principal-cave-name>Papa Cave</principal-cave-name>
       <length>1110</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1559</reference>
    </record>
@@ -17459,6 +17489,7 @@
       <phys-area-name/>
       <principal-cave-name>Picnic 1</principal-cave-name>
       <length>420</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1396</reference>
    </record>
@@ -17468,6 +17499,7 @@
       <phys-area-name/>
       <principal-cave-name>Picnic II</principal-cave-name>
       <length>45</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1397</reference>
    </record>
@@ -17531,6 +17563,7 @@
       <phys-area-name/>
       <principal-cave-name>Pinwill</principal-cave-name>
       <length>560</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1425</reference>
    </record>
@@ -17578,6 +17611,7 @@
       <phys-area-name/>
       <principal-cave-name>Poacher's Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=696</reference>
    </record>
@@ -17869,6 +17903,7 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii (Big Island)</phys-area-name>
       <principal-cave-name>Puu Waa waa Ranch Cave #1</principal-cave-name>
+      <altitude>1250</altitude>
       <length>100</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=869</reference>
@@ -17878,6 +17913,7 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii (Big Island)</phys-area-name>
       <principal-cave-name>Puu Waa waa Ranch Cave #2</principal-cave-name>
+      <altitude>1250</altitude>
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=870</reference>
@@ -18168,6 +18204,7 @@
       <phys-area-name/>
       <principal-cave-name>Raleigh I</principal-cave-name>
       <length>23</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1398</reference>
    </record>
@@ -18177,6 +18214,7 @@
       <phys-area-name/>
       <principal-cave-name>Raleigh II</principal-cave-name>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1399</reference>
    </record>
@@ -18268,6 +18306,7 @@
       <phys-area-name/>
       <principal-cave-name>Raufarholshellir</principal-cave-name>
       <length>1360</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=8</reference>
    </record>
@@ -18617,7 +18656,9 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Road Cave</principal-cave-name>
+      <other-cave-name>U28-U29c</other-cave-name>
       <length>220</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1426</reference>
    </record>
@@ -19001,7 +19042,10 @@
       <state-or-province/>
       <phys-area-name/>
       <principal-cave-name>Samrunahellir</principal-cave-name>
+      <other-cave-name>Samruni</other-cave-name>
+      <other-cave-name>Confluence Cave</other-cave-name>
       <length>220</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=194</reference>
    </record>
@@ -19324,7 +19368,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoiko Fuketsu No. 1 Cave</principal-cave-name>
       <length>230</length>
       <cave-type>lava tunnel</cave-type>
@@ -19333,7 +19377,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoiko Fuketsu No. 2 Cave</principal-cave-name>
       <length>55</length>
       <cave-type>lava tunnel</cave-type>
@@ -19342,7 +19386,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoiko Fuketsu No. 3 Cave</principal-cave-name>
       <length>35</length>
       <cave-type>lava tunnel</cave-type>
@@ -19351,7 +19395,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoiko Fuketsu No. 4 Cave</principal-cave-name>
       <length>32</length>
       <cave-type>lava tunnel</cave-type>
@@ -19360,7 +19404,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoiko Fuketsu No. 5 Cave</principal-cave-name>
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
@@ -19716,6 +19760,8 @@
       <state-or-province>Cheju</state-or-province>
       <phys-area-name/>
       <principal-cave-name>So Chon Gul</principal-cave-name>
+      <other-cave-name>Stream Cave</other-cave-name>
+      <other-cave-name>Creek Cave</other-cave-name>
       <length>2890</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=671</reference>
@@ -20537,7 +20583,9 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Temple of Doom</principal-cave-name>
+      <other-cave-name>U48</other-cave-name>
       <length>50</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1406</reference>
    </record>
@@ -20713,6 +20761,7 @@
       <state-or-province>Deschutes County</state-or-province>
       <principal-cave-name>Three Pines Cave</principal-cave-name>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1325</reference>
    </record>
@@ -20817,6 +20866,7 @@
       <phys-area-name/>
       <principal-cave-name>Tindima Pot</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=698</reference>
    </record>
@@ -21148,7 +21198,9 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Traves</principal-cave-name>
+      <other-cave-name>U18</other-cave-name>
       <length>67</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1407</reference>
    </record>
@@ -21214,6 +21266,7 @@
       <principal-cave-name>Tunnel No. 2</principal-cave-name>
       <altitude>118</altitude>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>age of flow 3-4kyr</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=223</reference>
@@ -21225,6 +21278,7 @@
       <principal-cave-name>Tunnel No. 3</principal-cave-name>
       <altitude>108</altitude>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>age of flow 3-4kyr</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=224</reference>
@@ -21234,7 +21288,9 @@
       <state-or-province>Aconcagua</state-or-province>
       <phys-area-name>Isla de Pascua (Easter Island or Rapa Nui)</phys-area-name>
       <principal-cave-name>Tunnel No. 4</principal-cave-name>
+      <altitude>100</altitude>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=225</reference>
    </record>
@@ -21253,6 +21309,7 @@
       <phys-area-name/>
       <principal-cave-name>Tween</principal-cave-name>
       <length>24</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1408</reference>
    </record>
@@ -21341,9 +21398,10 @@
    <record>
       <country-name>Rwanda</country-name>
       <state-or-province>Ruhengueri</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Kanisimbi</phys-area-name>
       <principal-cave-name>Ubuvumo bwa Musanze</principal-cave-name>
       <length>4560</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1455</reference>
    </record>
@@ -21503,6 +21561,7 @@
       <phys-area-name/>
       <principal-cave-name>Upper Secret</principal-cave-name>
       <length>150</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1409</reference>
    </record>
@@ -21575,7 +21634,9 @@
       <state-or-province/>
       <phys-area-name/>
       <principal-cave-name>Veltingur</principal-cave-name>
+      <other-cave-name>Seesaw Cave</other-cave-name>
       <length>155</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=191</reference>
    </record>
@@ -21661,6 +21722,7 @@
       <phys-area-name/>
       <principal-cave-name>Waful Kul</principal-cave-name>
       <length>1316</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=684</reference>
    </record>
@@ -21795,6 +21857,7 @@
    <record>
       <country-name>New Zealand</country-name>
       <state-or-province>Auckland City</state-or-province>
+      <phys-area-name>Rangitote</phys-area-name>
       <principal-cave-name>Wallaby Cave</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
@@ -22108,6 +22171,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Wishing Well</principal-cave-name>
+      <other-cave-name>U52</other-cave-name>
       <length>104</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1431</reference>
@@ -22357,7 +22421,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=137</reference>
    </record>
 
-
    <record>
       <country-name>Austria</country-name>
       <state-or-province>Salzburg</state-or-province>
@@ -22526,7 +22589,6 @@
       <reference>https://en.wikipedia.org/wiki/Veryovkina_Cave</reference>
    </record>
 
-   
    <record>
      <country-name>Moon</country-name>
      <phys-area-name>Marius Hills; Oceanus Procellarum</phys-area-name>

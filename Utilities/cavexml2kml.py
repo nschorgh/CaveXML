@@ -22,11 +22,10 @@ for item in root.findall('record'):
     cavename = []
     
     # Find a cave name
-    pcn = item.findall('principal-cave-name')
-    if len(pcn)>0: # tag present
-        pcn = pcn[0].text
-        if pcn is not None: # not empty
-            cavename = pcn.strip() # strips leading and trailing whitespace
+    pcn = item.find('principal-cave-name')
+    if pcn is not None:
+        if pcn.text is not None: # not empty
+            cavename = pcn.text.strip() # strips leading and trailing whitespace
 
     if len(cavename)==0:
         ocn = item.findall('other-cave-name')
@@ -40,7 +39,7 @@ for item in root.findall('record'):
     # Skip extraterrestrial bodies
     coname = item.find('country-name')
     if coname is not None:
-        coname = item.find('country-name').text
+        coname = coname.text
         if coname in excludelist:
             break
 

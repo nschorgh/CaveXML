@@ -317,6 +317,7 @@
       "length": 2002,
       "vertical-extent": [],
       "contents": "permanent ice",
+      "ice-deposit-type": "hoar frost",
       "comments": "permafrost / cold zone",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
@@ -605,7 +606,7 @@
     {
       "country-name": "Canada",
       "state-or-province": "Alberta",
-      "phys-area-name": "Columbia Icefield, Jasper National Park",
+      "phys-area-name": "Columbia Icefield; Jasper National Park",
       "principal-cave-name": "Castleguard Cave",
       "other-cave-name": [],
       "latitude": 52.1,
@@ -4764,7 +4765,7 @@
       "vertical-extent": 33,
       "rock-type": "Carboniferous limestone",
       "contents": "permanent ice",
-      "comments": "strong air flow, abundant thick persisent ice deposits",
+      "comments": "strong air flow, abundant thick persistent ice deposits",
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
       "reference": "Munroe (2020) doi:10.5194/tc-2020-152"
     },
@@ -4819,14 +4820,19 @@
     {
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
+      "state-or-province": "Cibola County",
       "phys-area-name": "Malpais region",
       "principal-cave-name": "Candelaria Ice Cave",
-      "other-cave-name": [],
+      "other-cave-name": "Cerro Candelaria",
       "latitude": [],
       "longitude": [],
       "altitude": "2400 coarse",
+      "length": 12300,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
       "contents": "permanent ice",
       "comments": "ice deposit estimated to be 3kyr old",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1193",
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
       "reference": "Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156"
     },
@@ -6798,10 +6804,24 @@
       "phys-area-name": [],
       "principal-cave-name": "Coudersport Ice Mine",
       "other-cave-name": [],
-      "length": [],
+      "length": 12,
       "vertical-extent": [],
       "contents": "periodic ice",
-      "comments": "large icicles grow in summer"
+      "comments": "large icicles grow in summer",
+      "reference": "https://en.wikipedia.org/wiki/Coudersport_Ice_Mine"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "New Mexico; El Mapais National Monument",
+      "phys-area-name": [],
+      "principal-cave-name": "Cave 29",
+      "other-cave-name": [],
+      "altitude": 2268,
+      "length": 171,
+      "vertical-extent": "~14",
+      "contents": "permanent ice",
+      "reference": "Onac et al. (2020) doi:10.1038/s41598-020-76988-1"
     },
 
     {
@@ -6891,7 +6911,6 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino County",
       "phys-area-name": "Pisgah",
-      "phys-area-name": [],
       "principal-cave-name": 11,
       "length": [],
       "cave-type": "lava tunnel",
@@ -6913,7 +6932,6 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino County",
       "phys-area-name": "Pisgah",
-      "phys-area-name": [],
       "principal-cave-name": 12,
       "length": [],
       "cave-type": "lava tunnel",
@@ -6925,7 +6943,6 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino County",
       "phys-area-name": "Pisgah",
-      "phys-area-name": [],
       "principal-cave-name": 13,
       "length": [],
       "cave-type": "lava tunnel",
@@ -6937,7 +6954,6 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino County",
       "phys-area-name": "Pisgah",
-      "phys-area-name": [],
       "principal-cave-name": 14,
       "length": [],
       "cave-type": "lava tunnel",
@@ -6947,7 +6963,6 @@
     {
       "country-name": "Kenya",
       "state-or-province": "Rift Valley Province; Kajiado District",
-      "phys-area-name": [],
       "phys-area-name": [],
       "principal-cave-name": "14-18 Series",
       "length": 3500,
@@ -6960,7 +6975,6 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino County",
       "phys-area-name": "Pisgah",
-      "phys-area-name": [],
       "principal-cave-name": 15,
       "length": [],
       "cave-type": "lava tunnel",
@@ -6972,7 +6986,6 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino County",
       "phys-area-name": "Pisgah",
-      "phys-area-name": [],
       "principal-cave-name": 17,
       "length": [],
       "cave-type": "lava tunnel",
@@ -6984,7 +6997,6 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino County",
       "phys-area-name": "Pisgah",
-      "phys-area-name": [],
       "principal-cave-name": 19,
       "length": [],
       "cave-type": "lava tunnel",
@@ -7006,7 +7018,6 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
-      "phys-area-name": [],
       "principal-cave-name": 2,
       "length": [],
       "cave-type": "lava tunnel",
@@ -7039,7 +7050,6 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
-      "phys-area-name": [],
       "principal-cave-name": 3,
       "length": [],
       "cave-type": "lava tunnel",
@@ -7072,7 +7082,6 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
-      "phys-area-name": [],
       "principal-cave-name": 4,
       "length": [],
       "cave-type": "lava tunnel",
@@ -7167,7 +7176,7 @@
       "country-name": "Kenya",
       "state-or-province": "Eastern Province; Machakos District",
       "phys-area-name": [],
-      "principal-cave-name": "ABC Cave",
+      "other-cave-name": "ABC Cave",
       "length": 1000,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=699"
@@ -7238,8 +7247,10 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Alarming Extension",
       "length": 508,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=434"
     },
@@ -7299,6 +7310,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Amazing Pits Cave",
       "length": 132,
       "cave-type": "lava tunnel",
@@ -7328,6 +7340,7 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
+      "phys-area-name": "Mt. Mangere",
       "principal-cave-name": "Ambury Rd. Cave",
       "other-cave-name": [],
       "length": [],
@@ -7402,6 +7415,7 @@
       "principal-cave-name": "Ana Kakena",
       "altitude": 30,
       "length": 55,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=219"
     },
@@ -7421,6 +7435,8 @@
       "state-or-province": "Aconcagua",
       "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui)",
       "principal-cave-name": "Ana o Keke",
+      "other-cave-name": "Cave of the White Virgins",
+      "other-cave-name": "Cave of the Sun's Inclination",
       "length": 400,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=220"
@@ -7463,6 +7479,7 @@
       "principal-cave-name": "Ana Roa",
       "altitude": 35,
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=221"
     },
@@ -7472,7 +7489,9 @@
       "state-or-province": "Aconcagua",
       "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui)",
       "principal-cave-name": "Ana Te Pahu",
+      "altitude": 108,
       "length": 540,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=222"
     },
@@ -7482,7 +7501,9 @@
       "state-or-province": "Aconcagua",
       "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui)",
       "principal-cave-name": "Ana Te Pora",
+      "altitude": 35,
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=218"
     },
@@ -7500,7 +7521,7 @@
     {
       "country-name": "Madagascar",
       "state-or-province": "Antsiranana",
-      "phys-area-name": [],
+      "phys-area-name": "Ambre (Renard Crater)",
       "principal-cave-name": "Andanakaomby",
       "length": 400,
       "cave-type": "lava tunnel",
@@ -7510,7 +7531,7 @@
     {
       "country-name": "Madagascar",
       "state-or-province": "Antsiranana",
-      "phys-area-name": [],
+      "phys-area-name": "Ambre (Renard Crater)",
       "principal-cave-name": "Andavakoera",
       "length": 400,
       "cave-type": "lava tunnel",
@@ -7592,7 +7613,7 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
-      "principal-cave-name": "AP",
+      "other-cave-name": "AP",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=284"
@@ -7811,11 +7832,14 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Auwahi Cave",
+      "altitude": 1463,
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=894"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=894",
+      "reference": "Olson and James (1991) DOI:10.2307/40166794"
     },
 
     {
@@ -8188,8 +8212,10 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Porcupine Butte",
       "principal-cave-name": "Bear Tooth Cave",
       "length": 276,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=436"
     },
@@ -8325,6 +8351,7 @@
       "state-or-province": "Shasta County",
       "principal-cave-name": "Big Cave",
       "length": 1030,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=426"
     },
@@ -8654,8 +8681,11 @@
       "country-name": "United States of America",
       "state-or-province": "Arizona",
       "state-or-province": "Coconino County",
+      "phys-area-name": "San Franciscan (Sunset Crater)",
       "principal-cave-name": "Bonito Flow Ice Cave",
+      "other-cave-name": "Sunset Crater Ice Cave",
       "length": 69,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=247"
     },
@@ -9332,7 +9362,9 @@
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "principal-cave-name": "Catwalk Cave",
+      "other-cave-name": "Gaping Holes",
       "length": 2427,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=429"
     },
@@ -9610,16 +9642,6 @@
       "length": 55,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=473"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "New Mexico",
-      "state-or-province": "Cibola County",
-      "principal-cave-name": "Cerro Candelara",
-      "length": 12300,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1193"
     },
 
     {
@@ -10219,9 +10241,11 @@
       "state-or-province": "Hawaii",
       "phys-area-name": "Maui",
       "principal-cave-name": "Crystal Cave",
+      "altitude": 183,
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=891"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=891",
+      "reference": "Olson and James (1991) DOI:10.2307/40166794"
     },
 
     {
@@ -10270,7 +10294,7 @@
       "country-name": "Ecuador",
       "state-or-province": "Galapagos",
       "phys-area-name": "Floreana Island",
-      "principal-cave-name": "Cueva  de la Bahia d C/I",
+      "principal-cave-name": "Cueva de la Bahia d C/I",
       "length": 202,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=704"
@@ -10412,9 +10436,13 @@
       "state-or-province": "Santa Cruz de Tenerife",
       "phys-area-name": "Canary Islands; El Hierro Island",
       "principal-cave-name": "Cueva de Don Justo",
+      "latitude": 27.65017,
+      "longitude": -17.98885,
       "length": 6315,
+      "vertical-extent": 140,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1529"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1529",
+      "reference": "https://en.wikipedia.org/wiki/Cueva_de_Don_Justo"
     },
 
     {
@@ -11273,10 +11301,14 @@
       "state-or-province": "Santa Cruz de Tenerife",
       "phys-area-name": "Tenerife",
       "principal-cave-name": "Cueva del Viento",
+      "latitude": 28.35209,
+      "longitude": -16.70405,
+      "altitude": 625,
       "length": 17032,
       "vertical-extent": 478,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517",
+      "cave-use": "guided tourist cave"
     },
 
     {
@@ -12648,9 +12680,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
-      "phys-area-name": [],
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Four Pit Balcony Cave",
       "length": 465,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=430"
     },
@@ -12996,9 +13029,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
-      "phys-area-name": [],
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Gelsie's Grotto",
       "length": 777,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=431"
     },
@@ -13318,8 +13352,12 @@
       "country-name": "United States of America",
       "state-or-province": "Arizona",
       "state-or-province": "Coconino County",
+      "phys-area-name": "San Franciscan",
       "principal-cave-name": "Government Cave",
+      "other-cave-name": "Lava River Cave",
+      "other-cave-name": "Bellemont Cave",
       "length": 1250,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=243"
     },
@@ -13644,6 +13682,7 @@
       "phys-area-name": "Ilha do Pico",
       "principal-cave-name": "Gruta das Torres",
       "length": 5439,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=259"
     },
@@ -14010,9 +14049,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Arizona; Apache County",
-      "phys-area-name": [],
+      "phys-area-name": "Springerville Volcanic",
       "principal-cave-name": "Harris Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=254"
     },
@@ -14042,6 +14082,7 @@
       "state-or-province": "Arizona; Graham County",
       "phys-area-name": [],
       "principal-cave-name": "Harttine Bat Cave",
+      "other-cave-name": "Twin Peaks Cave",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=256"
@@ -14559,7 +14600,9 @@
       "phys-area-name": "Blue Ridge Mountain",
       "principal-cave-name": "Ice Cave",
       "other-cave-name": "Blue Ridge Cave",
+      "altitude": 6960,
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "simply a whole in the ground",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=253"
@@ -14654,9 +14697,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
-      "phys-area-name": [],
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Ice River Cave",
       "length": 317,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=432"
     },
@@ -14674,7 +14718,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
-      "phys-area-name": [],
+      "phys-area-name": "Medicine Lake Highlands; Modoc Crater",
       "principal-cave-name": "Iceberg Cave #1",
       "length": [],
       "cave-type": "lava tunnel",
@@ -15374,9 +15418,11 @@
       "state-or-province": "Hawaii",
       "phys-area-name": "Maui",
       "principal-cave-name": "Kahawaihapapa Cave",
+      "altitude": 15,
       "length": 1000,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=890"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=890",
+      "reference": "Olson and James (1991) DOI:10.2307/40166794"
     },
 
     {
@@ -15489,8 +15535,10 @@
       "country-name": "United States of America",
       "state-or-province": "Arizona",
       "state-or-province": "Coconino County",
+      "phys-area-name": "San Franciscan; Sunset Crater",
       "principal-cave-name": "Kana-a Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=249"
     },
@@ -15498,11 +15546,14 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Oahu",
-      "principal-cave-name": "Kaneaoa Cave",
+      "phys-area-name": "Oahu; Waianae",
+      "principal-cave-name": "Kaneana Cave",
+      "other-cave-name": "Makua Cave",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=985"
+      "cave-type": "sea cave",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=985",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=956"
     },
 
     {
@@ -17000,11 +17051,12 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Lua Lepo",
       "length": 55,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=893"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=893",
+      "reference": "Olson and James (1991) DOI:10.2307/40166794"
     },
 
     {
@@ -17098,16 +17150,6 @@
       "length": 35,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=853"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Oahu",
-      "principal-cave-name": "Makua Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=956"
     },
 
     {
@@ -17639,6 +17681,7 @@
       "state-or-province": "Siskiyou County",
       "principal-cave-name": "Mike's Sink",
       "length": 43,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=435"
     },
@@ -17659,6 +17702,7 @@
       "state-or-province": "Shasta County",
       "principal-cave-name": "Millipede Cave",
       "length": 48,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=428"
     },
@@ -19438,6 +19482,7 @@
       "country-name": "United States of America",
       "state-or-province": "Arizona",
       "state-or-province": "Coconino County",
+      "phys-area-name": "San Franciscan",
       "principal-cave-name": "Porkey Cave",
       "length": 146,
       "cave-type": "lava tunnel",
@@ -19661,22 +19706,27 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Maui; Haleakala",
-      "principal-cave-name": "Puu Makua",
+      "principal-cave-name": "Puu Makua Cave",
       "altitude": 1463,
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=897"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=897",
+      "reference": "Fleischer et al. (2000) doi:10.1093/auk/117.4.1051",
+      "reference": "Olson and James (1991) DOI:10.2307/40166794"
     },
 
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Puu Naio Cave",
       "length": 453,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "important bird fossils",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=892"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=892",
+      "reference": "James et al. (1987) doi:10.1073/pnas.84.8.2350",
+      "reference": "Olson and James (1991) DOI:10.2307/40166794"
     },
 
     {
@@ -21466,8 +21516,11 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Shovel Cave",
+      "other-cave-name": "Arch Sink",
       "length": 393,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=433"
     },
@@ -21669,8 +21722,11 @@
       "country-name": "United States of America",
       "state-or-province": "Arizona",
       "state-or-province": "Coconino County",
+      "phys-area-name": "San Franciscan",
       "principal-cave-name": "Slate Lakes Cave",
+      "other-cave-name": "Compass Cave",
       "length": 274,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=242"
     },
@@ -22148,9 +22204,13 @@
       "country-name": "United States of America",
       "state-or-province": "Arizona",
       "state-or-province": "Coconino County",
+      "phys-area-name": "San Franciscan; Mormon Butte",
       "principal-cave-name": "Stoneman Lake T.I.",
+      "other-cave-name": "Sheblos Cave",
       "length": 850,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
+      "comments": "Pliocene",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=250"
     },
 
@@ -22634,10 +22694,11 @@
     {
       "country-name": "Syria",
       "state-or-province": "Assuwayda",
-      "phys-area-name": [],
+      "phys-area-name": "Tell Shihan",
       "principal-cave-name": "Tell Shihan Tubes",
       "length": "2000+",
       "cave-type": "lava tunnel",
+      "comments": "Holocene",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=258"
     },
 
@@ -22977,9 +23038,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Inyo County",
-      "phys-area-name": [],
+      "phys-area-name": "Crater Mountain",
       "principal-cave-name": "Tinemaha Cave",
       "length": 53,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=439"
     },
@@ -23705,10 +23767,22 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Maui",
-      "principal-cave-name": "Upper Kipahullu Valley",
+      "principal-cave-name": "Upper Kipahulu Valley",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=953"
+      "comments": "two caves: Lua Manu and Puka Moa",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=953",
+      "reference": "Olson and James (1991) DOI:10.2307/40166794"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Maui",
+      "principal-cave-name": "Lower Kipahulu Valley",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "Olson and James (1991) DOI:10.2307/40166794"
     },
 
     {
@@ -24238,6 +24312,7 @@
       "country-name": "United States of America",
       "state-or-province": "Arizona",
       "state-or-province": "Coconino County",
+      "phys-area-name": "San Franciscan",
       "principal-cave-name": "Whiskey Cave",
       "length": 40,
       "cave-type": "lava tunnel",
@@ -24258,7 +24333,9 @@
       "country-name": "United States of America",
       "state-or-province": "Arizona",
       "state-or-province": "Coconino County",
+      "phys-area-name": "San Franciscan",
       "principal-cave-name": "White Horse Cave",
+      "other-cave-name": "Peg Leg Cave",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=252"
@@ -24516,6 +24593,7 @@
       "phys-area-name": "Pisgah",
       "principal-cave-name": "Y Cave",
       "length": 300,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1690"
     },
@@ -24973,6 +25051,18 @@
       "vertical-extent": 1415,
       "rock-type": "Jurassic limestone",
       "reference": "https://en.wikipedia.org/wiki/Boybuloq_Cave"
+    },
+
+    {
+      "country-name": "Brazil",
+      "state-or-province": "Campo Formoso",
+      "principal-cave-name": "Toca da Boa Vista",
+      "other-cave-name": [],
+      "latitude": -10.16043,
+      "longitude": -40.86117,
+      "length": 102000,
+      "vertical-extent": [],
+      "reference": "https://en.wikipedia.org/wiki/Toca_da_Boa_Vista"
     },
 
     {

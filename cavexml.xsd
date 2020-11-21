@@ -2,15 +2,16 @@
 <xs:schema xmlns:xs = "http://www.w3.org/2001/XMLSchema">
   <!-- CaveXML Schema 
        Aug 2020 - Norbert Schorghofer
+       Nov 2020 - changed from xs:choice to xs:sequence 
   -->
   
   <xs:complexType name="CaveDataBaseType">
     <xs:sequence>
-      <xs:element type="recordType" name="record" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="recordType" name="record" minOccurs="1" maxOccurs="unbounded"/>
     </xs:sequence>
   </xs:complexType>
+  
   <xs:element name = "CaveDataBase" type="CaveDataBaseType"/>
-
   
   <xs:simpleType name="ExtendedUnsignedInteger">
     <xs:restriction base='xs:token'>
@@ -23,9 +24,9 @@
 
       
   <xs:complexType name="recordType">
-    <xs:choice maxOccurs="unbounded">  <!-- ignores min/maxOccurs below -->
+    <xs:sequence>
       
-      <xs:element name="country-name">
+      <xs:element name="country-name"  minOccurs="0" maxOccurs="unbounded">
 	<xs:simpleType>
 	  <xs:restriction base="xs:token">
 	    <xs:enumeration value=""/>  <!-- allow empty -->
@@ -287,12 +288,12 @@
       </xs:element>
     
     
-      <xs:element name = "state-or-province"   type = "xs:string" />
-      <xs:element name = "phys-area-name"      type = "xs:string" />
-      <xs:element name = "principal-cave-name" type = "xs:string" />
-      <xs:element name = "other-cave-name"     type = "xs:string" />
+      <xs:element name = "state-or-province"   type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name = "phys-area-name"      type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name = "principal-cave-name" type = "xs:string" minOccurs="0" maxOccurs="1"/>
+      <xs:element name = "other-cave-name"     type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
 
-      <xs:sequence>  <!-- coordinates (both or none) -->
+      <xs:sequence minOccurs="0" maxOccurs="1">  <!-- coordinates (both or none) -->
 	<xs:element name = "latitude" default="0">
 	  <!-- default value makes empty entries valid -->
 	  <xs:simpleType>
@@ -314,7 +315,7 @@
 	</xs:element>
       </xs:sequence>
 
-      <xs:element name = "altitude" default="~0">  
+      <xs:element name = "altitude" minOccurs="0" maxOccurs="unbounded" default="~0">  
 	<xs:simpleType>
 	  <xs:restriction base='xs:token'>
 	    <xs:pattern value="([~&#62;]?[0-9]{1,5}[+]?[ ,()\w^-^;]*)|([0-9]{1,5}[-–][0-9]{1,5})"/>
@@ -325,11 +326,14 @@
 	</xs:simpleType>
       </xs:element>
 	
-      <xs:element name = "length"              type = "ExtendedUnsignedInteger" default="~0"/>
-      <xs:element name = "vertical-extent"     type = "ExtendedUnsignedInteger" default="~0"/>
-      <xs:element name = "number-of-entrances" type = "ExtendedUnsignedInteger" />
+      <xs:element name = "length"              type = "ExtendedUnsignedInteger"
+		  minOccurs="0" maxOccurs="1" default="~0"/>
+      <xs:element name = "vertical-extent"     type = "ExtendedUnsignedInteger"
+		  minOccurs="0" maxOccurs="1" default="~0"/>
+      <xs:element name = "number-of-entrances" type = "ExtendedUnsignedInteger"
+		  minOccurs="0" maxOccurs="1"/>
 
-      <xs:element name = "rock-type">
+      <xs:element name = "rock-type" minOccurs="0" maxOccurs="unbounded">
 	<xs:simpleType>
 	  <xs:restriction base="xs:token">
 	    <xs:enumeration value=""/>  <!-- allow empty -->
@@ -375,7 +379,7 @@
       </xs:element> 
       
       <!-- list from UIS entity CA8 http://www.uisic.uis-speleo.org/exchange/atencode.html#8 -->
-      <xs:element name="cave-type">
+      <xs:element name="cave-type" minOccurs="0" maxOccurs="unbounded">
 	<xs:simpleType>
 	  <xs:restriction base="xs:token">
 	    <xs:enumeration value=""/>
@@ -398,7 +402,7 @@
       </xs:element> 
 
       <!-- list shortened from UIS entity CA72 http://www.uisic.uis-speleo.org/exchange/atencode.html#72 -->
-      <xs:element name="contents">
+      <xs:element name="contents" minOccurs="0" maxOccurs="unbounded">
 	<xs:simpleType>
 	  <xs:restriction base="xs:token">
 	    <xs:enumeration value=""/>
@@ -420,14 +424,14 @@
 	</xs:simpleType>
       </xs:element> 
       
-      <xs:element name = "ice-deposit-type" type = "xs:string" />
-      <xs:element name = "comments"         type = "xs:string" />
-      <xs:element name = "cave-system"      type = "xs:string" />
-      <xs:element name = "branch-name"      type = "xs:string" />
-      <xs:element name = "reference"        type = "xs:string" />  
+      <xs:element name = "ice-deposit-type" type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name = "comments"         type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name = "cave-system"      type = "xs:string" minOccurs="0" maxOccurs="1"/>
+      <xs:element name = "branch-name"      type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name = "reference"        type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>  
       
       <!-- list shortened from UIS entity CA41 http://www.uisic.uis-speleo.org/exchange/atencode.html#41 -->
-      <xs:element name="cave-use">
+      <xs:element name="cave-use" minOccurs="0" maxOccurs="unbounded">
 	<xs:simpleType>
 	  <xs:restriction base="xs:token">
 	    <xs:enumeration value="guided tourist cave"/>
@@ -443,7 +447,7 @@
 	</xs:simpleType>
       </xs:element> 
       
-    </xs:choice>
+    </xs:sequence>
   </xs:complexType>
 
 </xs:schema>

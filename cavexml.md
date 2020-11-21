@@ -108,7 +108,7 @@ Comments
 
 -   All fields are optional *(minOccurs=0)*, but at least one cave name (principal or other) must be provided.
 -   Elements without *maxOccurs=1* can be used more than once within a record. (The UISIC refers to this as multi-valued, as opposed to single-valued.)
--   The order of elements is arbitrary, except that [longitude] has to appear immediately after [latitude]. However, it is recommended that the elements are sorted in the order listed above.
+-   The elements must appear in the order listed above.
 -   So far, CaveXML defines only these 20 elements.
 -   At this point, the hierarchy is flat. All the elements are at the same level within a record, but this will change in future.
 

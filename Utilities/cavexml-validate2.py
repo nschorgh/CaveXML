@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
-print('This script validates aspects of the CaveXML standard that are ')
-print('   not already validated by cavexml.xsd.')
+print('This script validates aspects of the CaveXML standard that are not')
+print('   already validated by cavexml.xsd. It also issues some warnings.')
 print()
 
 import xml.etree.ElementTree
@@ -11,12 +11,6 @@ import xml.etree.ElementTree
 tree = xml.etree.ElementTree.parse('../allcaves-database.xml')
 
 root = tree.getroot()
-
-# These elements can occur at most once
-maxOccurslist = ['principal-cave-name','latitude','longitude','length',
-                 'vertical-extent','number-of-entrances','cave-system']
-
-
 
 count = 0
 valid = True
@@ -36,6 +30,9 @@ for item in root.findall('record'):
             if len(str)>0:
                 acavename = True
 
+    if acavename is False:
+        print('WARNING: record without principal-cave-name')
+
     ocn = item.findall('other-cave-name')
     for i in range(0,len(ocn)):
         str = ocn[i].text
@@ -49,21 +46,11 @@ for item in root.findall('record'):
         valid = False
 
 
-    # Test maxOccurs=1
-    for i in range(0,len(maxOccurslist)):
-        h = item.findall(maxOccurslist[i])
-        if h is not None:
-            if len(h)>1:
-                print('ERROR: More than one element for',
-                      pcn,maxOccurslist[i],len(h))
-                valid = False
-
-
     # Find records without reference
     try:
         ref = item.find('reference').text
         if ref is None:
-            print("WARNING: no reference for ",pcn)
+            print('WARNING: no reference for ',pcn)
     except:
         pass
         

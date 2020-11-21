@@ -31,7 +31,7 @@ The Python programs serve as examples for how a CaveXML database can be loaded a
 
 `cavexml.xsd` incorporates nearly all CaveXML syntax requirements. The following validates a database against the Schema:  
 
-    xmllint --schema cavexml.xsd allcaves-database.xml --noout  
+    xmllint --schema cavexml.xsd allcaves-database.xml -noout  
 
-Alternatively, various online tools can be used to validate an XML database against an XSD document. The few requirements that are not validated through `cavexml.xsd` are verified by `cavexml-validate2.py`.
+Alternatively, various online tools can be used to validate an XML database against an XSD document. Requirements that are not validated through `cavexml.xsd` are verified by `cavexml-validate2.py`.
 

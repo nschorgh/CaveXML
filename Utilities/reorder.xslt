@@ -33,12 +33,12 @@
 	    <xsl:apply-templates select="rock-type" />
 	    <xsl:apply-templates select="cave-type" />
 	    <xsl:apply-templates select="contents" />
-	    <xsl:apply-templates select="ice-deposit-type" />
 	    <xsl:apply-templates select="comments" />
 	    <xsl:apply-templates select="cave-system" />
 	    <xsl:apply-templates select="branch-name" />
 	    <xsl:apply-templates select="reference" />
 	    <xsl:apply-templates select="cave-use" />
+	    <xsl:apply-templates select="curation" />
             <xsl:apply-templates select="*[not(self::country-name or 
 					 self::state-or-province or 
 					 self::phys-area-name or
@@ -49,11 +49,10 @@
 					 self::length or self::vertical-extent or
 					 self::number-of-entrances or
 					 self::rock-type or self::cave-type or
-					 self::contents or self::ice-deposity-type or
-					 self::comments or
+					 self::contents or self::comments or
 					 self::cave-system or self::branch-name or
 					 self::reference or
-					 self::cave-use
+					 self::cave-use or self::curation 
 					 )]"/>
         </xsl:copy>
     </xsl:template>

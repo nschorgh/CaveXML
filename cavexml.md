@@ -83,9 +83,6 @@ UISIC field [CA8](http://www.uisic.uis-speleo.org/exchange/atendefn.html#8).
 What the cave contains. UISIC field [CA72](http://www.uisic.uis-speleo.org/exchange/atendefn.html#72).  
 CA72 has [36 allowed options](http://www.uisic.uis-speleo.org/exchange/atencode.html#72), which have been shortened to 14: permanent ice, periodic ice, extensive guano, many bats, occasional bats, fish, snakes, trogloxenes, accidental trogloxenes, troglophiles, troglobites, lake(s), waterfall(s), tree roots. If the desired entry is not available among the list of terms, enter it in [comments] instead.
 
-**\<ice-deposit-type\>**  *string*  
-Type of ice deposit, e.g., ponded ice, hoarfrost, congelation ice, extrusion ice, recrystallized snow, ... This element is intended for use with ice caves.
-
 **\<comments\>**  *string*  
 Comments about a cave or karst feature. This field should be used only when a suitable more specific field is not available. Use semicolons (;) between separate comments, or place them in separate [comments] entries.  
 UISIC field [CA53](http://www.uisic.uis-speleo.org/exchange/atendefn.html#53).
@@ -102,6 +99,9 @@ Bibliographical reference, often abbreviated as "Author et al. (year) doi". Mult
 **\<cave-use\>**  *controlled vocabulary*  
 The present use (if any) being made of the cave. Similar to UISIC field [CA41](http://www.uisic.uis-speleo.org/exchange/atendefn.html#41).  
 CA41 allows [32 predefined terms](http://www.uisic.uis-speleo.org/exchange/atencode.html#41). This list has been shortened to nine terms: guided tourist cave, self-guided tourist cave, waste disposal, habitation, livestock shelter, water source, mine, shrine, temple.
+
+**\<curation\>**  *string*  
+Comments about the curation of database entries. This is a free-form entry, but data curators can choose to use their own standardized terminology or codes.  
 
 Comments
 --------
@@ -156,12 +156,12 @@ This concludes the description of all the data types that have, so far, been def
 |\<rock-type\> | token with restriction | pre-defined list of strings | limestone |
 |\<cave-type\> | token with restriction | pre-defined list of strings | glacier cave |
 |\<contents\> | token with restriction | pre-defined list of strings | waterfall(s) |
-|\<ice-deposit-type\> | string | - | hoarfrost |
 |\<comments\> | string | - | Mauna Loa flow of 1855 |
 |\<cave-system\> | string | maxOccurs=1 | Labyrinth Cave System | 
 |\<branch-name\> | string | -| Arnold Ice Cave |
 |\<reference\> | string | - | Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2 |
 |\<cave-use\> | token with restriction | pre-defined list of strings | guided tourist cave |
+|\<curation\> | string | - | updated length |
 
 
 Table 1: Data types for each CaveXML element. Default attributes are minOccurs=0 and maxOccurs=unbounded. The third column shows restrictions on the element or on its value. The last column shows examples of valid entries.

@@ -35,8 +35,8 @@ record_head = []
 elementList = ['country-name','state-or-province','phys-area-name',
                'principal-cave-name','other-cave-name','latitude','longitude',
                'altitude','length','vertical-extent','number-of-entrances',
-               'rock-type','cave-type','contents','ice-deposit-type','comments',
-               'cave-system','branch-name','reference','cave-use']
+               'rock-type','cave-type','contents','comments',
+               'cave-system','branch-name','reference','cave-use','curation']
 
 for i in range(0,len(elementList)):
     record_head.append(elementList[i])
@@ -117,10 +117,6 @@ for item in root.findall('record'):
     str = merge_elements(cont)
     record.append(str)
     
-    idt = item.findall('ice-deposit-type')
-    str = merge_elements(idt)
-    record.append(str)
-    
     comm = item.findall('comments')
     str = merge_elements(comm)
     record.append(str)
@@ -143,6 +139,11 @@ for item in root.findall('record'):
     caveuse = item.findall('cave-use')
     str = merge_elements(caveuse)
     record.append(str)
+
+    cur = item.findall('curation')
+    str = merge_elements(cur)
+    record.append(str)
+
         
     csvwriter.writerow(record)
 

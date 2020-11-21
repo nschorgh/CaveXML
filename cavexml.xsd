@@ -424,7 +424,6 @@
 	</xs:simpleType>
       </xs:element> 
       
-      <xs:element name = "ice-deposit-type" type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
       <xs:element name = "comments"         type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
       <xs:element name = "cave-system"      type = "xs:string" minOccurs="0" maxOccurs="1"/>
       <xs:element name = "branch-name"      type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
@@ -445,7 +444,9 @@
 	    <xs:enumeration value="temple"/>
 	  </xs:restriction>
 	</xs:simpleType>
-      </xs:element> 
+      </xs:element>
+
+      <xs:element name = "curation" type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
       
     </xs:sequence>
   </xs:complexType>

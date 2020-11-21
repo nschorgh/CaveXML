@@ -6,7 +6,6 @@ CaveXML is a data interchange format for the purpose of facilitating scientific 
 
    [`cavexml.md`](./cavexml.md)	  (explains the CaveXML standard)  
    `cavexml.xsd`		  (XML Schema Definition of CaveXML)  
-   `Utilities/cavexml-validate2.py`   (Python program that validates requirements not implemented in cavexml.xsd)   
    `allcaves-database.xml`  (Master version of the database in native format)  
    `allcaves-database.json` (JSON version of the database generated from the XML version)  
    `allcaves-database.csv`  (csv version of the database generated from the XML version)  
@@ -14,6 +13,7 @@ CaveXML is a data interchange format for the purpose of facilitating scientific 
    `Utilities/cavexml2csv.py`         (converts database to comma-separated-values using Python)  
    `Utilities/cavexml2kml.py`	  (converts coordinates in CaveXML entries into KML format)   
    `Utilities/cavexml-numeric.py`	    (parses quasi-numerical entries)  
+   `Utilities/cavexml-validate2.py`   (Python program that validates requirements not implemented in cavexml.xsd)   
    `Utilities/reorder.xslt`    		 (sorts elements within each record)  
        
 

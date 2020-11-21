@@ -317,7 +317,7 @@
       "length": 2002,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "hoar frost",
+      "comments": "hoarfrost",
       "comments": "permafrost / cold zone",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
@@ -466,7 +466,7 @@
       "length": 286,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "Hoarfrost",
+      "comments": "Hoarfrost",
       "comments": "permafrost",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
@@ -499,7 +499,7 @@
       "length": 381,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "Extrusion ice",
+      "comments": "Extrusion ice",
       "comments": "permafrost",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
@@ -516,7 +516,7 @@
       "length": 473,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "Extrusion ice",
+      "comments": "Extrusion ice",
       "comments": "permafrost",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
@@ -533,7 +533,7 @@
       "length": 200,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "Flood ice",
+      "comments": "Flood ice",
       "comments": "cold trap",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
@@ -702,7 +702,7 @@
       "vertical-extent": [],
       "rock-type": "limestone",
       "contents": "permanent ice",
-      "ice-deposit-type": "Hoarfrost and ponded ice",
+      "comments": "Hoarfrost and ponded ice",
       "comments": "cold trap / cold zone ?",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
@@ -720,7 +720,7 @@
       "vertical-extent": [],
       "rock-type": "limestone",
       "contents": "permanent ice",
-      "ice-deposit-type": "Hoarfrost and ponded ice",
+      "comments": "Hoarfrost and ponded ice",
       "comments": "cold trap / cold zone ?",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
@@ -790,7 +790,7 @@
       "vertical-extent": [],
       "rock-type": "Cambrian limestone",
       "contents": "permanent ice",
-      "ice-deposit-type": "Massive ice",
+      "comments": "Massive ice",
       "comments": "permafrost / cold trap",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
@@ -1379,7 +1379,7 @@
       "length": 130,
       "vertical-extent": 18,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1395,7 +1395,7 @@
       "length": 80,
       "vertical-extent": 35,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1411,7 +1411,7 @@
       "length": 20,
       "vertical-extent": 4,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1427,7 +1427,7 @@
       "length": 8,
       "vertical-extent": 4,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1443,7 +1443,7 @@
       "length": 24,
       "vertical-extent": 8,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1459,7 +1459,7 @@
       "length": 98,
       "vertical-extent": 25,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1475,7 +1475,7 @@
       "length": 70,
       "vertical-extent": 18,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1491,7 +1491,7 @@
       "length": 9550,
       "vertical-extent": 562,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1506,7 +1506,7 @@
       "altitude": 1613,
       "length": 6,
       "vertical-extent": 0,
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1522,7 +1522,7 @@
       "length": 6,
       "vertical-extent": 2,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1538,7 +1538,7 @@
       "length": 30,
       "vertical-extent": 6,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1554,7 +1554,7 @@
       "length": 390,
       "vertical-extent": 42,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1570,7 +1570,7 @@
       "length": 8,
       "vertical-extent": 3,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1585,7 +1585,7 @@
       "altitude": 1777,
       "length": 20,
       "vertical-extent": 5,
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1601,7 +1601,7 @@
       "length": 30,
       "vertical-extent": 30,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1616,7 +1616,7 @@
       "altitude": 1650,
       "length": 4,
       "vertical-extent": 1,
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1632,7 +1632,7 @@
       "length": 152,
       "vertical-extent": 40,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1648,7 +1648,7 @@
       "length": 122,
       "vertical-extent": 43,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1664,7 +1664,7 @@
       "length": 27,
       "vertical-extent": 19,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1680,7 +1680,7 @@
       "length": 830,
       "vertical-extent": 235,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1696,7 +1696,7 @@
       "length": 85,
       "vertical-extent": 25,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1712,7 +1712,7 @@
       "length": 400,
       "vertical-extent": 69,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1728,7 +1728,7 @@
       "length": 10,
       "vertical-extent": 7,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1744,7 +1744,7 @@
       "length": 8,
       "vertical-extent": 5,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1760,7 +1760,7 @@
       "length": 460,
       "vertical-extent": 150,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "cave-system": "Ptasia Studnia",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
@@ -1777,7 +1777,7 @@
       "length": 179,
       "vertical-extent": 28,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1793,7 +1793,7 @@
       "length": 11,
       "vertical-extent": 3,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1809,7 +1809,7 @@
       "length": 125,
       "vertical-extent": 50,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1825,7 +1825,7 @@
       "length": 12,
       "vertical-extent": 10,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1841,7 +1841,7 @@
       "length": 83,
       "vertical-extent": 18,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1857,7 +1857,7 @@
       "length": 32,
       "vertical-extent": 8,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1873,7 +1873,7 @@
       "length": 30,
       "vertical-extent": 16,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1889,7 +1889,7 @@
       "length": 12700,
       "vertical-extent": 763,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow, congelation ice",
+      "comments": "recrystallized snow, congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1905,7 +1905,7 @@
       "length": 28,
       "vertical-extent": 16,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1921,7 +1921,7 @@
       "length": 6,
       "vertical-extent": 6,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1937,7 +1937,7 @@
       "length": 80,
       "vertical-extent": 45,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -1954,7 +1954,7 @@
       "vertical-extent": 622,
       "rock-type": "limestone",
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow, congelation ice",
+      "comments": "recrystallized snow, congelation ice",
       "cave-system": "Jaskinia Wielka Śnieżna",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
@@ -1991,7 +1991,7 @@
       "length": 10,
       "vertical-extent": 5,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -2007,7 +2007,7 @@
       "length": 6,
       "vertical-extent": 4,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -2023,7 +2023,7 @@
       "length": 360,
       "vertical-extent": 53,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -2039,7 +2039,7 @@
       "length": 50,
       "vertical-extent": 22,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -2055,7 +2055,7 @@
       "length": 35,
       "vertical-extent": 18,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -2071,7 +2071,7 @@
       "length": 90,
       "vertical-extent": 47,
       "contents": "permanent ice",
-      "ice-deposit-type": "recrystallized snow",
+      "comments": "recrystallized snow",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -2648,7 +2648,7 @@
       "vertical-extent": 80,
       "rock-type": "limestone",
       "contents": "permanent ice",
-      "ice-deposit-type": "ponded",
+      "comments": "ponded",
       "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0",
       "reference": "https://en.wikipedia.org/wiki/Grotto_of_Casteret"
     },
@@ -3885,7 +3885,7 @@
       "length": [],
       "vertical-extent": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "Hoarfrost",
+      "comments": "Hoarfrost",
       "comments": "permafrost zone",
       "reference": "Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3"
     },
@@ -3903,7 +3903,7 @@
       "vertical-extent": 650,
       "number-of-entrances": 2,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "reference": "Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3"
     },
 
@@ -3919,7 +3919,7 @@
       "length": [],
       "vertical-extent": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice",
+      "comments": "congelation ice",
       "comments": "est. 6000m^3 ice",
       "reference": "Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3",
       "reference": "Luetscher et al. (2007) doi:10.3189/002214307783258503"
@@ -3937,7 +3937,7 @@
       "length": [],
       "vertical-extent": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "firn deposits",
+      "comments": "firn deposits",
       "comments": "cold air trap",
       "reference": "Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3"
     },
@@ -4032,7 +4032,7 @@
       "vertical-extent": 25,
       "rock-type": "Permian gypsum",
       "contents": "permanent ice",
-      "ice-deposit-type": "layered ice",
+      "comments": "layered ice",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
     },
 
@@ -4066,7 +4066,7 @@
       "number-of-entrances": " >20",
       "rock-type": "limestone",
       "contents": "permanent ice",
-      "ice-deposit-type": "sublimation crystals",
+      "comments": "sublimation crystals",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
     },
 
@@ -4114,7 +4114,7 @@
       "length": 1761,
       "vertical-extent": 204,
       "contents": "permanent ice",
-      "ice-deposit-type": "sublimation crystals, ice stalactites and stalagmites, meander at bottom covered by thick ice layer",
+      "comments": "sublimation crystals, ice stalactites and stalagmites, meander at bottom covered by thick ice layer",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
     },
 
@@ -4149,7 +4149,7 @@
       "vertical-extent": 240,
       "rock-type": "Jurassic limestone",
       "contents": "permanent ice",
-      "ice-deposit-type": "icings and sublimation crystals",
+      "comments": "icings and sublimation crystals",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
     },
 
@@ -5322,7 +5322,7 @@
       "vertical-extent": 25,
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "frozen pools; icings",
+      "comments": "frozen pools; icings",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -5339,7 +5339,7 @@
       "vertical-extent": [],
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice, sublimation ice (hoarfrost)",
+      "comments": "congelation ice, sublimation ice (hoarfrost)",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -5373,7 +5373,7 @@
       "vertical-extent": [],
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "icings and seasonal sublimation cyrstals",
+      "comments": "icings and seasonal sublimation cyrstals",
       "comments": [],
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
@@ -5408,7 +5408,7 @@
       "vertical-extent": 17,
       "rock-type": "gypsum",
       "contents": "permanent ice",
-      "ice-deposit-type": "icings and prennial sublimation crystals",
+      "comments": "icings and prennial sublimation crystals",
       "comments": [],
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
@@ -5545,7 +5545,7 @@
       "vertical-extent": [],
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice in the form of icings, lake ice, sublimation crystals",
+      "comments": "congelation ice in the form of icings, lake ice, sublimation crystals",
       "comments": [],
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
@@ -5631,7 +5631,7 @@
       "vertical-extent": [],
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "ice stalagmites, perennial sublimation crystals, ice curtain-flags",
+      "comments": "ice stalagmites, perennial sublimation crystals, ice curtain-flags",
       "comments": [],
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7",
       "reference": "https://en.wikipedia.org/wiki/Kungur_Ice_Cave"
@@ -5906,7 +5906,7 @@
       "vertical-extent": [],
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation icings and sublimation ice",
+      "comments": "congelation icings and sublimation ice",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -5924,7 +5924,7 @@
       "vertical-extent": 69,
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "icings; sublimation crystals",
+      "comments": "icings; sublimation crystals",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -5941,7 +5941,7 @@
       "vertical-extent": [],
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "icings; sublimation crystals",
+      "comments": "icings; sublimation crystals",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -5958,7 +5958,7 @@
       "vertical-extent": 26,
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "icings; sublimation crystals",
+      "comments": "icings; sublimation crystals",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -5975,7 +5975,7 @@
       "vertical-extent": 20,
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "icings; sublimation crystals",
+      "comments": "icings; sublimation crystals",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -6010,7 +6010,7 @@
       "vertical-extent": 35,
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "icings; snow; sublimation crystals",
+      "comments": "icings; snow; sublimation crystals",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -6027,7 +6027,7 @@
       "vertical-extent": [],
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "icings; sublimation crystals",
+      "comments": "icings; sublimation crystals",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -6040,7 +6040,7 @@
       "latitude": [],
       "longitude": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "sublimated ice",
+      "comments": "sublimated ice",
       "reference": "Trofimova (2019) doi:10.1007/s12665-019-8116-4"
     },
 
@@ -6053,7 +6053,7 @@
       "length": 45,
       "vertical-extent": 11,
       "contents": "permanent ice",
-      "ice-deposit-type": "congelation ice, sublimated ice",
+      "comments": "congelation ice, sublimated ice",
       "reference": "Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves",
       "reference": "Trofimova (2019) doi:10.1007/s12665-019-8116-4"
     },
@@ -6296,7 +6296,7 @@
       "length": 373,
       "vertical-extent": 38,
       "contents": "permanent ice",
-      "ice-deposit-type": "ice fiber crystals",
+      "comments": "ice fiber crystals",
       "reference": "Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1"
     },
 
@@ -6727,7 +6727,7 @@
       "length": 48,
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "ice stalagmites, hoar frost",
+      "comments": "ice stalagmites, hoar frost",
       "comments": "rear of cave blocked by wall of ice",
       "reference": "Moseley et al. (2020) Cave and Karst Sci. 47, 74-87"
     },
@@ -6744,7 +6744,7 @@
       "length": 54,
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "ice wall, hoar frost/ice floor",
+      "comments": "ice wall, hoar frost/ice floor",
       "reference": "Moseley et al. (2020) Cave and Karst Sci. 47, 74-87"
     },
 
@@ -6759,7 +6759,7 @@
       "length": 87,
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "impressive hoar frost",
+      "comments": "impressive hoar frost",
       "comments": "large hoar frost crystals",
       "reference": "Moseley et al. (2020) Cave and Karst Sci. 47, 74-87",
       "reference": "Barton et al. (2020) Cave and Karst Sci. 47, 93-99"
@@ -6777,7 +6777,7 @@
       "length": 103,
       "rock-type": [],
       "contents": "permanent ice",
-      "ice-deposit-type": "impressive hoar frost, ice stalagmites",
+      "comments": "impressive hoar frost, ice stalagmites",
       "comments": [],
       "reference": "Moseley et al. (2020) Cave and Karst Sci. 47, 74-87",
       "reference": "Barton et al. (2020) Cave and Karst Sci. 47, 93-99"
@@ -7176,7 +7176,7 @@
       "country-name": "Kenya",
       "state-or-province": "Eastern Province; Machakos District",
       "phys-area-name": [],
-      "other-cave-name": "ABC Cave",
+      "principal-cave-name": "ABC Cave",
       "length": 1000,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=699"
@@ -7613,7 +7613,7 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
-      "other-cave-name": "AP",
+      "principal-cave-name": "AP",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=284"
@@ -25025,7 +25025,9 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Kauai",
+      "phys-area-name": [],
       "principal-cave-name": "Makauwahi Cave",
+      "other-cave-name": [],
       "length": [],
       "vertical-extent": [],
       "rock-type": "limestone",

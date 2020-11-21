@@ -30,7 +30,7 @@ Country name where the cave entrance is located. This should be the name of the 
 Similar to UISIC field [SY285](http://www.uisic.uis-speleo.org/exchange/atendefn.html#285)  
 For extraterrestrial caves, this element specifies the planetary body where the cave is located. Allowed terms are "Moon", which refers to Earth's moon, and "Mars". An empty or missing entry implies the cave is located on planet Earth. In fact, "Earth" is not an allowed term, because it is implicit.
 
-**\<state-or-province\>** *string*  
+**\<state-or-province\>**  *string*  
 State or province where the cave entrance is located. This can also be a county or district. [state-or-province] is intended for politically or organizationally defined areas below country level. For physically/geologically defined units, use [phys-area-name] instead.  
 Generalization of UISIC field [SY287](http://www.uisic.uis-speleo.org/exchange/atendefn.html#287)
 
@@ -38,12 +38,17 @@ Generalization of UISIC field [SY287](http://www.uisic.uis-speleo.org/exchange/a
 Name of mountain, volcano, mountain range, island, geologic unit, or another physically-defined unit. Example: Pyrenees. For politically-defined regions use [state-or-province] instead.
 
 **\<principal-cave-name\>** *string, maxOccurs=1*    
-The current formal agreed name for a cave or karst feature, expressed in the local language. Where a new name is awaiting ratification, enclose it in round brackets. The character set is UTF-8, so characters from many languages can be used. If the cave is unnamed, a cave id or cave registery number can be entered here.  
+The current formal agreed name for a cave or karst feature, expressed in the local language. Where a new name is awaiting ratification, enclose it in round brackets. The character set is UTF-8, so characters from many languages can be used.    
 UISIC field [CA70](http://www.uisic.uis-speleo.org/exchange/atendefn.html#70)
 
 **\<other-cave-name\>**  *string*  
-Further names which a cave or karst feature has or has had beyond its current name as given in [principal-cave-name]. Alphanumeric entries, such as cave ids, also belong in this field.  
+Further names which a cave or karst feature has or has had beyond its current name as given in [principal-cave-name].    
 Similar to UISIC field [CA69](http://www.uisic.uis-speleo.org/exchange/atendefn.html#69)
+
+**\<cave-id\>** *(special string)*  
+International cave identification number: 2-letter ISO country code + optional 3-letter organization code + cave registry number, separated by dashes, e.g. US-HSS-234/7. For small countries, this might just be the 2-letter ISO country code + national cave number, e.g. AT-1234/5.  
+Similar to UISIC field [CA227](http://www.uisic.uis-speleo.org/exchange/atendefn.html#227). 
+Very similar to the "international cave number". A record is allowed to have more than one [cave-id], but different caves must have different [cave-id]s.  
 
 **\<latitude\>**  *-90 ≤ decimal ≤ +90, maxOccurs=1*  
 The N-S latitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if north of the equator, negative if south of the equator. Expressed as a real number, rather than as degrees, minutes, and seconds. If both [latitude] and [longitude] have only one significant digit after the decimal point, they have been rounded in order not to reveal the exact location.  
@@ -91,7 +96,7 @@ UISIC field [CA53](http://www.uisic.uis-speleo.org/exchange/atendefn.html#53).
 On occasion, it is discovered that two named caves are connected with one another, and hence form a single cave. The caves keep their individual names and the whole is referred to as a cave system. Another type of cave system is a lava tube with collapsed portions that divide the conduit into segments. A record in the database can be a cave (with one or more branches or segments) or a cave system (of two or more named caves). Entries can link to the system they are part of using the field [cave-system], which should match the [primary-cave-name] of the cave system. Caves can have a [cave-system] element even if a dedicated record for the cave system does not exist in the database. Vice versa, the entry [branch-name] links the cave system to branches or segments that have their own record (and their own entrances). (Note: A group of caves that are not connected and never were connected do not form a cave system and must be represented by individual entries.)
 
 **\<branch-name\>** *string*    
-A [branch-name] is the [principal-cave-name] of named cave branches or cave segements with their own entrances. This field allows a record to be a cave system consisting of named caves that already have their own record in the database. Multiple [branch-name]s should be listed, even if the target records do not exist in the database. The presence of one or more [branch-name] entries identifies a record as a cave system.
+A [branch-name] is the [principal-cave-name] of named cave branches or cave segments with their own entrances. This field allows a record to be a cave system consisting of named caves that already have their own record in the database. Multiple [branch-name]s should be listed, even if the target records do not exist in the database. The presence of one or more [branch-name] entries identifies a record as a cave system.
 
 **\<reference\>**  *string*  
 Bibliographical reference, often abbreviated as "Author et al. (year) doi". Multiple references should be separated by a semicolon or placed in multiple [reference] entries. All references that served as source of the data in the record ought to be entered here. Additional references about the cave can also be entered. A URL can also be a reference.
@@ -106,10 +111,10 @@ Comments about the curation of database entries. This is a free-form entry, but 
 Comments
 --------
 
--   All fields are optional *(minOccurs=0)*, but at least one cave name (principal or other) must be provided.
+-   All fields are optional *(minOccurs=0)*.
 -   Elements without *maxOccurs=1* can be used more than once within a record. (The UISIC refers to this as multi-valued, as opposed to single-valued.)
 -   The elements must appear in the order listed above.
--   So far, CaveXML defines only these 20 elements.
+-   So far, CaveXML defines only these 21 elements.
 -   At this point, the hierarchy is flat. All the elements are at the same level within a record, but this will change in future.
 
 Syntax rules (in support of parsing and querying)
@@ -123,7 +128,7 @@ Syntax rules (in support of parsing and querying)
 
 -   **Almost-numerical entries:** Length entries are usually numbers, but they can also be of the form "\>42000", "\~100", or "2000+". A data type "ExtendedUnsignedInteger" has been created in CaveXML for this purpose. ExtendedUnsignedIntegers are positive integers that can contain a few additional symbols. The symbols "\>" and "\~" are allowed in front of the number. The number should contain no comma or decimal point, and digits after the decimal point are prohibited to avoid ambiguity. The elements [length], [vertical-extent], and [number-of-entrances] are ExtendedUnsignedIntegers and therefore obey the same syntax rules. Length and altitude must be rounded to the nearest whole meter. After the number, a "+" symbol is allowed, which has the meaning "or more" (≥). Only one symbol is allowed in front of the number, but note that "\>\~100" is equivalent to "\~100+". However, "10+" (for the number of cave entrances) is equivalent "\>9".
 
--   **Altitude** is usually a positive decimal number, but it can also have the following forms: "2227 lower entrance", "2500 coarse", "\~700", "500-700", "\>3500", or "4000 upper entrance, coarse". The term "coarse" refers to an approximate value, and is commonly used because the altitude is either not known more accurately or should not be known more accurately. An [altitude] entry starts either with an ExtendedUnsignedInteger, followed by an optional comment, or it is a range of the form "lownumber-highnumber". There can by more than one altitude in a record, e.g., for different cave entrances. Multiple altitudes must be entered in seperate pairs of altitude tags, so each pair of tags contains only one altitute entry.
+-   **Altitude** is usually a positive decimal number, but it can also have the following forms: "2227 lower entrance", "2500 coarse", "\~700", "500-700", "\>3500", or "4000 upper entrance, coarse". The term "coarse" refers to an approximate value, and is commonly used because the altitude is either not known more accurately or should not be known more accurately. An [altitude] entry starts either with an ExtendedUnsignedInteger, followed by an optional comment, or it is a range of the form "lownumber-highnumber". There can by more than one altitude in a record, e.g., for different cave entrances. Multiple altitudes must be entered in separate pairs of altitude tags, so each pair of tags contains only one altitude entry.
 
 -   A Digital Object Identifier **(doi)** in [reference] can be automatically converted to a hyperlink by replacing "doi:" with "https://doi.org:" followed by the doi number. The character sequence the parser will look for is "doi:", in lower or upper case.
 
@@ -147,6 +152,7 @@ This concludes the description of all the data types that have, so far, been def
 |\<phys-area-name\> | string | - | Pyrenees |
 |\<principal-cave-name\>| string | maxOccurs=1 | Kolowrathöhle |  
 |\<other-cave-name\> | string | required if no principal-cave-name given | M-340 |
+|\<cave-id\> | token with restriction | RegEx pattern | AT-1547/9 |
 |\<latitude\> | decimal with restriction | range -90...+90, maxOccurs=1 | 47.72792 |
 |\<longitude\> | decimal with restriction | range -180...+180, maxOccurs=1 | 13.00858 |
 |\<altitude\> | token with restriction | RegEx pattern | \~1500 main entrance |

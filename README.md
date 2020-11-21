@@ -13,7 +13,7 @@ CaveXML is a data interchange format for the purpose of facilitating scientific 
    `Utilities/cavexml2csv.py`         (converts database to comma-separated-values using Python)  
    `Utilities/cavexml2kml.py`	  (converts coordinates in CaveXML entries into KML format)   
    `Utilities/cavexml-numeric.py`	    (parses quasi-numerical entries)  
-   `Utilities/cavexml-validate2.py`   (Python program that validates requirements not implemented in cavexml.xsd)   
+   `Utilities/cavexml-warnings.py`   (Python program that issues informative warnings)   
    `Utilities/reorder.xslt`    		 (sorts elements within each record)  
        
 
@@ -29,9 +29,10 @@ Notably absent are query capabilities, i.e. a search interface, but users can up
 
 The Python programs serve as examples for how a CaveXML database can be loaded and analyzed within Python. Parsing functions for quasi-numerical entries are included in `cavexml-numeric.py`.
 
-`cavexml.xsd` incorporates nearly all CaveXML syntax requirements. The following validates a database against the Schema:  
+`cavexml.xsd` incorporates all CaveXML syntax requirements. The following validates a database against the Schema:  
 
     xmllint --schema cavexml.xsd allcaves-database.xml -noout  
 
-Alternatively, various online tools can be used to validate an XML database against an XSD document. Requirements that are not validated through `cavexml.xsd` are verified by `cavexml-validate2.py`.
+Alternatively, various online tools can be used to validate an XML database against an XSD document.  
+
 

@@ -33,7 +33,7 @@ csvwriter = csv.writer(thedata)
 
 record_head = []
 elementList = ['country-name','state-or-province','phys-area-name',
-               'principal-cave-name','other-cave-name','latitude','longitude',
+               'principal-cave-name','other-cave-name','cave-id','latitude','longitude',
                'altitude','length','vertical-extent','number-of-entrances',
                'rock-type','cave-type','contents','comments',
                'cave-system','branch-name','reference','cave-use','curation']
@@ -69,6 +69,10 @@ for item in root.findall('record'):
     
     ocn = item.findall('other-cave-name')
     str = merge_elements(ocn)
+    record.append(str)
+
+    cid = item.findall('cave-id')
+    str = merge_elements(cid)
     record.append(str)
 
     lat = item.find('latitude') # maxOccurs=1, decimal

@@ -27,7 +27,7 @@
       <state-or-province>Steiermark; Oberösterreich</state-or-province>
       <phys-area-name>Totes Gebirge</phys-area-name>
       <principal-cave-name>Schönberg-Höhlensystem</principal-cave-name>
-      <other-cave-name>1626/300</other-cave-name>
+      <cave-id>AT-1626/300</cave-id>
       <latitude>47.718</latitude>
       <longitude>13.787</longitude>
       <altitude>1459-1933</altitude>
@@ -62,7 +62,7 @@
       <state-or-province>Oberösterreich</state-or-province>
       <phys-area-name>Dachstein</phys-area-name>
       <principal-cave-name>Dachstein-Mammuthöhle</principal-cave-name>
-      <other-cave-name>1547/9</other-cave-name>
+      <cave-id>AT-1547/9</cave-id>
       <latitude>47.534</latitude>
       <longitude>13.708</longitude>
       <altitude>927-1828</altitude>
@@ -110,7 +110,7 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Tennengebirge</phys-area-name>
       <principal-cave-name>Schneeloch</principal-cave-name>
-      <other-cave-name>1511/7</other-cave-name>
+      <cave-id>AT-1511/7</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1450 main entrance</altitude>
@@ -125,7 +125,7 @@
       <state-or-province>Steiermark</state-or-province>
       <phys-area-name>Schneealpe</phys-area-name>
       <principal-cave-name>Schneeloch</principal-cave-name>
-      <other-cave-name>1851/7</other-cave-name>
+      <cave-id>AT-1851/7</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1440</altitude>
@@ -169,8 +169,8 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Tennengebirge</phys-area-name>
       <principal-cave-name>Eiskogelhöhle</principal-cave-name>
-      <other-cave-name>1511/101</other-cave-name>
       <other-cave-name>Eiskogel-Tropfsteinhöhle</other-cave-name>
+      <cave-id>AT-1511/101</cave-id>
       <latitude>47.49500</latitude>
       <longitude>13.28922</longitude>
       <altitude>2110</altitude>
@@ -22653,7 +22653,7 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Untersberg</phys-area-name>
       <principal-cave-name>Gamslöcher-Kolowrat-Höhlensystem</principal-cave-name>
-      <other-cave-name>1339/1</other-cave-name>
+      <cave-id>AT-1339/1</cave-id>
       <length>44003</length>
       <vertical-extent>1130</vertical-extent>
       <branch-name>Kolowrathöhle</branch-name>
@@ -22668,7 +22668,7 @@
       <state-or-province>Oberösterreich</state-or-province>
       <phys-area-name>Dachstein</phys-area-name>
       <principal-cave-name>Hirlatzhöhle</principal-cave-name>
-      <other-cave-name>1546/7</other-cave-name>
+      <cave-id>AT-1546/7</cave-id>
       <length>112929</length>
       <vertical-extent>1560</vertical-extent>
       <reference>https://hoehle.org/laengste-tiefste</reference>
@@ -22678,7 +22678,7 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Leoganger Steinberge</phys-area-name>
       <principal-cave-name>Lamprechtsofen</principal-cave-name>
-      <other-cave-name>1324/1</other-cave-name>
+      <cave-id>AT-1324/1</cave-id>
       <length>61000</length>
       <vertical-extent>1735</vertical-extent>
       <reference>https://hoehle.org/laengste-tiefste</reference>
@@ -22688,7 +22688,7 @@
       <state-or-province>Steiermark</state-or-province>
       <phys-area-name>Totes Gebirge</phys-area-name>
       <principal-cave-name>Schwarzmooskogelsystem</principal-cave-name>
-      <other-cave-name>1623/40</other-cave-name>
+      <cave-id>AT-1623/40</cave-id>
       <length>135159</length>
       <vertical-extent>1125</vertical-extent>
       <branch-name>Schnellzughöhle 1623/41</branch-name>
@@ -22706,7 +22706,7 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Hoher Göll</phys-area-name>
       <principal-cave-name>Hochscharten-Höhlensystem</principal-cave-name>
-      <other-cave-name>1336/15</other-cave-name>
+      <cave-id>AT-1336/15</cave-id>
       <length>14668</length>
       <vertical-extent>1394</vertical-extent>
       <reference>https://hoehle.org/laengste-tiefste</reference>
@@ -22716,7 +22716,7 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Tennengebirge</phys-area-name>
       <principal-cave-name>Berger-Platteneck-Höhlesystem</principal-cave-name>
-      <other-cave-name>1511/162</other-cave-name>
+      <cave-id>AT-1511/162</cave-id>
       <length>30396</length>
       <vertical-extent>1291</vertical-extent>
       <reference>https://hoehle.org/laengste-tiefste</reference>
@@ -22726,8 +22726,8 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Steineres Meer</phys-area-name>
       <principal-cave-name>Kolkbläser-Monsterhöhle</principal-cave-name>
-      <other-cave-name>1331/25</other-cave-name>
       <other-cave-name>Kolkbläser-Monsterhöhle-System</other-cave-name>
+      <cave-id>AT-1331/25</cave-id>
       <length>44487</length>
       <vertical-extent>711</vertical-extent>
       <reference>https://hoehle.org/laengste-tiefste</reference>

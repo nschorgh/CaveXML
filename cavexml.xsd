@@ -293,6 +293,15 @@
       <xs:element name = "principal-cave-name" type = "xs:string" minOccurs="0" maxOccurs="1"/>
       <xs:element name = "other-cave-name"     type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
 
+      <xs:element name = "cave-id" minOccurs="0" maxOccurs="unbounded" default="XX-XXX-1234/5">  
+	<xs:simpleType>
+	  <xs:restriction base='xs:token'>
+	    <xs:pattern value="[A-Z]{2}-([A-Z]{3}-.*|.*)"/>
+	    <!-- Examples of matching patterns: US-HSS-9876, AT-1234/5 -->
+	  </xs:restriction>
+	</xs:simpleType>
+      </xs:element>
+      
       <xs:sequence minOccurs="0" maxOccurs="1">  <!-- coordinates (both or none) -->
 	<xs:element name = "latitude" default="0">
 	  <!-- default value makes empty entries valid -->

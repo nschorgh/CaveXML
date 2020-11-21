@@ -1,7 +1,6 @@
 #! /usr/bin/env python3
 
-print('This script validates aspects of the CaveXML standard that are not')
-print('   already validated by cavexml.xsd. It also issues some warnings.')
+print('This script issues warnings about CaveXML database entries.')
 print()
 
 import xml.etree.ElementTree
@@ -13,12 +12,10 @@ tree = xml.etree.ElementTree.parse('../allcaves-database.xml')
 root = tree.getroot()
 
 count = 0
-valid = True
 
 for item in root.findall('record'):
         
     count = count + 1  # count number of records
-
     
     # Find records that have neither a principal-cave-name nor any other-cave-name
     acavename = False
@@ -42,8 +39,7 @@ for item in root.findall('record'):
                 acavename = True
                 
     if acavename is False:
-        print('ERROR: Neither principal nor other cave name',count)
-        valid = False
+        print('WARNING: Neither principal nor other cave name',count)
 
 
     # Find records without reference
@@ -56,9 +52,5 @@ for item in root.findall('record'):
         
                 
 print('')
-if valid:
-    print('Additional validations passed')
-else:
-    print('This database violates CaveXML standards')
 
 print('Number of records:', count)

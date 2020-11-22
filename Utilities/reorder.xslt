@@ -24,6 +24,7 @@
 	    <xsl:apply-templates select="phys-area-name" />
             <xsl:apply-templates select="principal-cave-name" />
             <xsl:apply-templates select="other-cave-name" />
+	    <xsl:apply-templates select="cave-id" />
 	    <xsl:apply-templates select="latitude" />
 	    <xsl:apply-templates select="longitude" />
 	    <xsl:apply-templates select="altitude" />
@@ -43,7 +44,7 @@
 					 self::state-or-province or 
 					 self::phys-area-name or
 					 self::principal-cave-name or 
-					 self::other-cave-name or 
+					 self::other-cave-name or self::cave-id or
 					 self::latitude or self::longitude or 
 					 self::altitude or
 					 self::length or self::vertical-extent or

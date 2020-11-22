@@ -6442,7 +6442,7 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>10-9-6-36-37 Series</principal-cave-name>
       <length>1300</length>
       <cave-type>lava tunnel</cave-type>
@@ -6518,7 +6518,7 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>14-18 Series</principal-cave-name>
       <length>3500</length>
       <cave-type>lava tunnel</cave-type>
@@ -6586,7 +6586,7 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>23-24 Series</principal-cave-name>
       <length>1600</length>
       <cave-type>lava tunnel</cave-type>
@@ -6615,7 +6615,7 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>34-35 Series</principal-cave-name>
       <length>800</length>
       <cave-type>lava tunnel</cave-type>
@@ -6682,8 +6682,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>A.M. Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1756</reference>
    </record>
@@ -6710,10 +6712,12 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>ABC Cave</principal-cave-name>
       <length>1000</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <comments>Holocene</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=699</reference>
    </record>
    <record>
@@ -7286,11 +7290,24 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Atkinson</principal-cave-name>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>Atkinson Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-20</cave-id>
       <length>101</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1371</reference>
+   </record>
+   <record>
+      <country-name>Australia</country-name>
+      <state-or-province>Queensland</state-or-province>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>(Unknown Name)</principal-cave-name>
+      <cave-id>AU-ASF-4U-21</cave-id>
+      <length>160</length>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>ASF cave database</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -7363,8 +7380,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Backbone Cave</principal-cave-name>
       <length>518</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1729</reference>
    </record>
@@ -7436,12 +7455,14 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Barkers Cave</principal-cave-name>
-      <length>900</length>
+      <cave-id>AU-ASF-4U-34</cave-id>
+      <length>905</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1417</reference>
+      <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
@@ -7607,13 +7628,14 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>North Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Bayliss Cave</principal-cave-name>
-      <other-cave-name>U30</other-cave-name>
+      <cave-id>AU-ASF-4U-30</cave-id>
       <length>1350</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1210</reference>
+      <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -7686,6 +7708,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Beaver Cave</principal-cave-name>
       <altitude>475</altitude>
       <length>575</length>
@@ -7836,8 +7859,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Big Trench Cave System</principal-cave-name>
       <length>1219</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1730</reference>
    </record>
@@ -7998,6 +8023,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Blue Ribbon Cave</principal-cave-name>
       <altitude>597</altitude>
       <length>152</length>
@@ -8210,8 +8236,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Breakdown Cave</principal-cave-name>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1696</reference>
    </record>
@@ -8697,7 +8725,7 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>Cave 12</principal-cave-name>
       <length>650</length>
       <cave-type>lava tunnel</cave-type>
@@ -9113,6 +9141,7 @@
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Church Cave</principal-cave-name>
+      <other-cave-name>H15, H16, H17</other-cave-name>
       <length>400</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1578</reference>
@@ -9288,8 +9317,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Column Cave</principal-cave-name>
       <length>46</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1697</reference>
    </record>
@@ -10687,8 +10718,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Cut Nose Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1757</reference>
    </record>
@@ -10774,11 +10807,14 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Darcy</principal-cave-name>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>Darcy Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-31</cave-id>
       <length>99</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1418</reference>
+      <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
    </record>
    <record>
       <country-name>United Kingdom</country-name>
@@ -10793,8 +10829,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Datus Perry's Cave</principal-cave-name>
       <length>583</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1731</reference>
    </record>
@@ -10802,8 +10840,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Datus Perry's New Cave</principal-cave-name>
       <length>416</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1732</reference>
    </record>
@@ -10882,9 +10922,10 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Dead Man's Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=690</reference>
    </record>
@@ -11110,8 +11151,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Dollar-and-a-Dime Cave</principal-cave-name>
       <length>366</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1698</reference>
    </record>
@@ -11222,6 +11265,8 @@
       <phys-area-name/>
       <principal-cave-name>Duck Creek Lava Tube</principal-cave-name>
       <length>3674</length>
+      <rock-type>basalt</rock-type>
+      <rock-type>limestone</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1567</reference>
    </record>
@@ -11614,6 +11659,7 @@
       <length>66</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=651</reference>
+      <reference>http://www.vulcanospeleology.org/newsletters/Vulcano13-17.pdf</reference>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -11628,8 +11674,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Flow Cave</principal-cave-name>
       <length>102</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1699</reference>
    </record>
@@ -11875,8 +11923,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>G Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1758</reference>
    </record>
@@ -12347,11 +12397,15 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Greeley Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-11</cave-id>
       <length>103</length>
+      <number-of-entrances>2</number-of-entrances>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1419</reference>
+      <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -12366,9 +12420,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Gremlin Cave</principal-cave-name>
       <altitude>914</altitude>
       <length>677</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1700</reference>
    </record>
@@ -12893,20 +12949,27 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Hanson</principal-cave-name>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>Hanson Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-1</cave-id>
       <length>40</length>
+      <vertical-extent>8</vertical-extent>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1420</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Harbour Bridge</principal-cave-name>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>Harbour Bridge Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-9</cave-id>
       <length>35</length>
+      <number-of-entrances>2</number-of-entrances>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1421</reference>
+      <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
@@ -13004,9 +13067,10 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Hell's Teeth Cave</principal-cave-name>
       <length>367</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=691</reference>
    </record>
@@ -13237,10 +13301,10 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Hornito III Vent</principal-cave-name>
       <length>35</length>
-      <cave-type>lava tunnel</cave-type>
+      <cave-type>lava vent</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=701</reference>
    </record>
    <record>
@@ -13599,8 +13663,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Indecision Cave</principal-cave-name>
       <length>75</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1701</reference>
    </record>
@@ -13947,7 +14013,7 @@
    <record>
       <country-name>Saudi Arabia</country-name>
       <state-or-province>Western</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Harrat Kishb</phys-area-name>
       <principal-cave-name>Jebel Hil Cave</principal-cave-name>
       <length>3000</length>
       <rock-type>basalt</rock-type>
@@ -14004,9 +14070,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Joan's Cave</principal-cave-name>
       <altitude>990</altitude>
       <length>18</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1702</reference>
    </record>
@@ -14177,7 +14245,7 @@
    <record>
       <country-name>Saudi Arabia</country-name>
       <state-or-province>Western</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Harrat Kishb</phys-area-name>
       <principal-cave-name>Kahf Al Ashbaah</principal-cave-name>
       <other-cave-name>Ghostly Cave</other-cave-name>
       <altitude>1175</altitude>
@@ -14559,9 +14627,10 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Kimabui Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=692</reference>
    </record>
@@ -14573,7 +14642,7 @@
       <other-cave-name>Ithundu Mine</other-cave-name>
       <length>1400</length>
       <rock-type>basalt</rock-type>
-      <cave-type>lava tunnel</cave-type>
+      <comments>Holocene</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=693</reference>
    </record>
    <record>
@@ -14980,8 +15049,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Lake Cave</principal-cave-name>
       <length>1401</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1703</reference>
    </record>
@@ -15133,9 +15204,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Lava Spring Cave</principal-cave-name>
       <altitude>988</altitude>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1704</reference>
    </record>
@@ -15257,6 +15330,7 @@
       <principal-cave-name>Leviathan Cave</principal-cave-name>
       <other-cave-name>Grotte de Leviathan</other-cave-name>
       <length>12500</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>age of flow Holocene</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=694</reference>
@@ -15351,6 +15425,7 @@
       <principal-cave-name>Little People Cave</principal-cave-name>
       <altitude>876</altitude>
       <length>410</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1705</reference>
    </record>
@@ -15358,8 +15433,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Little Red River Cave</principal-cave-name>
       <length>1032</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1706</reference>
    </record>
@@ -15385,8 +15462,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Log Crawl Cave</principal-cave-name>
       <length>23</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1707</reference>
    </record>
@@ -15523,8 +15602,10 @@
       <state-or-province>Utah</state-or-province>
       <state-or-province>Garfield County</state-or-province>
       <principal-cave-name>Lost Snag Cave</principal-cave-name>
+      <other-cave-name>Henrie Knolls Cave</other-cave-name>
       <length>582</length>
       <cave-type>lava tunnel</cave-type>
+      <comments>Quaternary</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1563</reference>
    </record>
    <record>
@@ -15561,8 +15642,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Low Cave</principal-cave-name>
       <length>45</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1708</reference>
    </record>
@@ -15802,8 +15885,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Manhole Cave</principal-cave-name>
       <length>21</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1709</reference>
    </record>
@@ -15862,8 +15947,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Marty's Cave</principal-cave-name>
       <length>75</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1710</reference>
    </record>
@@ -15888,9 +15975,10 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Kiboko; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Mathioni Cave</principal-cave-name>
       <length>1900</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1134</reference>
    </record>
@@ -15906,9 +15994,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Matthew</principal-cave-name>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>Matthew Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-32</cave-id>
       <length>40</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1390</reference>
    </record>
@@ -16359,8 +16449,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Mosquito Cave No. 2</principal-cave-name>
       <length>18</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1711</reference>
    </record>
@@ -16395,8 +16487,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Moss Cave</principal-cave-name>
       <length>8</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1712</reference>
    </record>
@@ -16760,7 +16854,7 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Nasty</principal-cave-name>
       <other-cave-name>U46</other-cave-name>
       <length>127</length>
@@ -17178,25 +17272,29 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Ole's Cave</principal-cave-name>
       <length>1768</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1713</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Ollier Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-8</cave-id>
       <length>50</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1422</reference>
+      <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
    </record>
    <record>
       <country-name>Samoa</country-name>
       <state-or-province>Vaisigano</state-or-province>
       <phys-area-name>Savaii Island</phys-area-name>
-      <phys-area-name>Salani</phys-area-name>
+      <phys-area-name>Salani (Mulifauna Formation)</phys-area-name>
       <principal-cave-name>Oloimoa</principal-cave-name>
       <length>70</length>
       <rock-type>basalt</rock-type>
@@ -17440,6 +17538,7 @@
       <length>3000</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <comments>Holocene</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=702</reference>
    </record>
    <record>
@@ -17483,9 +17582,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Pat's Cave</principal-cave-name>
       <altitude>988</altitude>
       <length>18</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1714</reference>
    </record>
@@ -17580,9 +17681,11 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Peterson</principal-cave-name>
+      <other-cave-name>4U-15</other-cave-name>
       <length>102</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1424</reference>
+      <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -17708,12 +17811,15 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Pinwill</principal-cave-name>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>Pinwill Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-17</cave-id>
       <length>560</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1425</reference>
+      <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
+      <curation>ASF database says length is 150m</curation>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -17738,9 +17844,10 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Plains Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=695</reference>
    </record>
@@ -17756,7 +17863,7 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Poacher's Cave</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
@@ -17878,8 +17985,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Powerline Cave</principal-cave-name>
       <length>60</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1715</reference>
    </record>
@@ -17914,8 +18023,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Prince Albert Cave</principal-cave-name>
       <length>760</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1716</reference>
    </record>
@@ -18338,9 +18449,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Railroad Track Cave</principal-cave-name>
       <altitude>991</altitude>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1717</reference>
    </record>
@@ -18809,10 +18922,22 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Road Cave</principal-cave-name>
-      <other-cave-name>U28-U29c</other-cave-name>
+      <cave-id>AU-ASF-4U-U28</cave-id>
       <length>220</length>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1426</reference>
+      <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
+   </record>
+      <record>
+      <country-name>Australia</country-name>
+      <state-or-province>Queensland</state-or-province>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>Road Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-U29</cave-id>
+      <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1426</reference>
@@ -18885,8 +19010,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Rockpile Cave</principal-cave-name>
       <length>37</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1718</reference>
    </record>
@@ -19159,8 +19286,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Salal Cave</principal-cave-name>
       <length>180</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1719</reference>
    </record>
@@ -19219,6 +19348,7 @@
       <state-or-province>Siskiyou County</state-or-province>
       <principal-cave-name>Sand Cave</principal-cave-name>
       <length>302</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=509</reference>
    </record>
@@ -19226,8 +19356,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Sand Cave</principal-cave-name>
+      <other-cave-name>Knight's Cave</other-cave-name>
       <length>20</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1720</reference>
    </record>
@@ -19298,9 +19431,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Scott's Cave</principal-cave-name>
       <length>158</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1721</reference>
    </record>
@@ -19308,8 +19442,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Seashell Fungus Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1759</reference>
    </record>
@@ -19679,8 +19815,10 @@
    <record>
       <country-name>Saudi Arabia</country-name>
       <state-or-province>Western</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Harrat Ithnayn</phys-area-name>
       <principal-cave-name>Shuwaymis Cave</principal-cave-name>
+      <other-cave-name>Kahf al Shuwaymis</other-cave-name>
+      <altitude>1275</altitude>
       <length>510</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1765</reference>
@@ -19817,9 +19955,10 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Skull Cave</principal-cave-name>
       <length>350</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=697</reference>
    </record>
@@ -20007,9 +20146,10 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Speaking Tube</principal-cave-name>
       <length>25</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1402</reference>
    </record>
@@ -20035,8 +20175,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Spider Cave</principal-cave-name>
       <length>271</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1722</reference>
    </record>
@@ -20099,9 +20241,12 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>St. Paul's</principal-cave-name>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>St. Pauls Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-5</cave-id>
       <length>30</length>
+      <vertical-extent>20</vertical-extent>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1403</reference>
    </record>
@@ -20252,11 +20397,14 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Stevens</principal-cave-name>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>Stevens Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-16</cave-id>
       <length>70</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1428</reference>
+      <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -20444,9 +20592,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Surprise Cave</principal-cave-name>
       <altitude>988</altitude>
       <length>90</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1723</reference>
    </record>
@@ -20573,8 +20723,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Tadpole Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1760</reference>
    </record>
@@ -20590,11 +20742,15 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Taylor</principal-cave-name>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>Taylor Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-4</cave-id>
       <length>108</length>
+      <vertical-extent>14</vertical-extent>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1429</reference>
+      <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -20752,7 +20908,7 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Temple of Doom</principal-cave-name>
       <other-cave-name>U48</other-cave-name>
       <length>50</length>
@@ -20829,8 +20985,8 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>New Mexico; Socorro County</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>The Hookworm (filled/inflated)</principal-cave-name>
+      <phys-area-name>Jornada del Muerto</phys-area-name>
+      <principal-cave-name>The Hookworm</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1197</reference>
@@ -20901,9 +21057,10 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>McBride Province</phys-area-name>
       <principal-cave-name>The Wall</principal-cave-name>
       <length>35000</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1430</reference>
    </record>
@@ -20911,9 +21068,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Thermal Cave</principal-cave-name>
       <altitude>396</altitude>
       <length>45</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1724</reference>
    </record>
@@ -21034,7 +21193,7 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Tindima Pot</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
@@ -21265,10 +21424,12 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Tonsilectomy Pot</principal-cave-name>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <comments>Holocene</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=700</reference>
    </record>
    <record>
@@ -21332,8 +21493,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Trail Cave</principal-cave-name>
       <length>23</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1725</reference>
    </record>
@@ -21368,13 +21531,24 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Traves</principal-cave-name>
-      <other-cave-name>U18</other-cave-name>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>Traves Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-18</cave-id>
       <length>67</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1407</reference>
+   </record>
+   <record>
+      <country-name>Australia</country-name>
+      <state-or-province>Queensland</state-or-province>
+      <phys-area-name>Undara</phys-area-name>
+      <principal-cave-name>Johnson Cave</principal-cave-name>
+      <cave-id>AU-ASF-4U-19</cave-id>
+      <length>125</length>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>ASF cave database</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -21527,8 +21701,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Two Column Cave</principal-cave-name>
       <length>21</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1726</reference>
    </record>
@@ -21556,6 +21732,7 @@
       <state-or-province/>
       <phys-area-name/>
       <principal-cave-name>Ubuvomo bwa Nyrabadago</principal-cave-name>
+      <other-cave-name>Ubuwumo bwa Nxirabadogo</other-cave-name>
       <length>1500</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=160</reference>
@@ -21610,9 +21787,14 @@
       <country-name>United States of America</country-name>
       <state-or-province>Utah</state-or-province>
       <state-or-province>Garfield County</state-or-province>
+      <phys-area-name>Markagnunt Plateau</phys-area-name>
       <principal-cave-name>(Unnamed Cave)</principal-cave-name>
+      <other-cave-name>Mathesons Cave</other-cave-name>
+      <other-cave-name>Alvas Cave</other-cave-name>
       <length>876</length>
       <cave-type>lava tunnel</cave-type>
+      <comments>Quaternary</comments>
+      <cave-system>Mammoth Cave</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1566</reference>
    </record>
    <record>
@@ -21743,7 +21925,7 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Upper Secret</principal-cave-name>
       <length>150</length>
       <rock-type>basalt</rock-type>
@@ -21830,7 +22012,7 @@
       <state-or-province>California</state-or-province>
       <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
-      <principal-cave-name>Vent</principal-cave-name>
+      <principal-cave-name>(Vent)</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=420</reference>
@@ -22066,8 +22248,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Warm Spring Cave</principal-cave-name>
       <length>191</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1727</reference>
    </record>
@@ -22333,10 +22517,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Wind Tunnel</principal-cave-name>
       <other-cave-name>U42</other-cave-name>
       <length>293</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>age of flow 190kyr</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1411</reference>
@@ -22362,7 +22547,7 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Wishing Well</principal-cave-name>
       <other-cave-name>U52</other-cave-name>
       <length>104</length>
@@ -22646,6 +22831,16 @@
       <cave-type>lava tunnel</cave-type>
       <comments>submerged; entrance is lake Lua o Palahemo</comments>
       <reference>Kensley et al. (1986) doi:10.1163/193724086X00271</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Hawaii</state-or-province>
+      <state-or-province>Pu'u Wa'awa'a Forest Bird Sanctuary</state-or-province>
+      <phys-area-name>Hawaii Island</phys-area-name>
+      <principal-cave-name>Delissea Cave System</principal-cave-name>
+      <length> >64700</length>
+      <vertical-extent> >1500</vertical-extent>
+      <reference>http://www.vulcanospeleology.org/newsletters/Vulcano76%20July%202020%20Hi%20ResV2.pdf</reference>
    </record>
    
    <record>

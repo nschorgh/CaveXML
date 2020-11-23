@@ -363,26 +363,6 @@
 	    <xs:enumeration value="sandstone"/>
 	    <xs:enumeration value="soil"/>
 	    <xs:enumeration value="tuff"/>
-	    <!-- some refined options, not on UIS list -->
-	    <xs:enumeration value="Quaternary limestone"/>
-	    <xs:enumeration value="Tertiary limestone"/>
-	    <xs:enumeration value="Cretaceous limestone"/>
-	    <xs:enumeration value="Jurassic limestone"/>
-	    <xs:enumeration value="Triassic limestone"/>
-	    <xs:enumeration value="Permian limestone"/>
-	    <xs:enumeration value="Carboniferous limestone"/>
-	    <xs:enumeration value="Devonian limestone"/>
-	    <xs:enumeration value="Silurian limestone"/>
-	    <xs:enumeration value="Ordovician limestone"/>
-	    <xs:enumeration value="Cambrian limestone"/>
-	    <xs:enumeration value="Precambrian limestone"/>
-	    <xs:enumeration value="Permian gypsum"/>
-	    <xs:enumeration value="Carboniferous gypsum"/>
-	    <xs:enumeration value="Devonian gypsum"/>
-	    <xs:enumeration value="Silurian gypsum"/>
-	    <xs:enumeration value="Ordovician gypsum"/>
-	    <xs:enumeration value="Cambrian gypsum"/>
-	    <xs:enumeration value="Precambrian gypsum"/>
 	  </xs:restriction>
 	</xs:simpleType>
       </xs:element> 
@@ -429,6 +409,8 @@
 	    <xs:enumeration value="permanent ice" />
 	    <xs:enumeration value="periodic ice" />
 	    <xs:enumeration value="tree roots" />
+	    <xs:enumeration value="perennially submerged" />
+	    <xs:enumeration value="intermittently submerged" />
 	  </xs:restriction>
 	</xs:simpleType>
       </xs:element> 

@@ -31,7 +31,7 @@ Similar to UISIC field [SY285](http://www.uisic.uis-speleo.org/exchange/atendefn
 For extraterrestrial caves, this element specifies the planetary body where the cave is located. Allowed terms are "Moon", which refers to Earth's moon, and "Mars". An empty or missing entry implies the cave is located on planet Earth. In fact, "Earth" is not an allowed term, because it is implicit.
 
 **\<state-or-province\>**  *string*  
-State or province where the cave entrance is located. This can also be a county or district. [state-or-province] is intended for politically or organizationally defined areas below country level. For physically/geologically defined units, use [phys-area-name] instead.  
+State or province where the cave entrance is located. This can also be a county or district. [state-or-province] is intended for politically or organizationally defined areas below country level. For physically/geologically defined units, use [phys-area-name] instead.      
 Generalization of UISIC field [SY287](http://www.uisic.uis-speleo.org/exchange/atendefn.html#287)
 
 **\<phys-area-name\>**  *string*  
@@ -77,7 +77,7 @@ UISIC field [CA9](http://www.uisic.uis-speleo.org/exchange/atendefn.html#9)
 **\<rock-type\>**  *controlled vocabulary*  
 Type(s) of rock in which the cave or karst feature is formed from, selected from a pre-defined list of options.
 Similar to UISIC field [CA7](http://www.uisic.uis-speleo.org/exchange/atendefn.html#7).  
-[List of options:](http://www.uisic.uis-speleo.org/exchange/atencode.html#7) limestone, dune limestone, dolomite, marble, basalt, dolerite, granite, gypsum, ice, lava, magnesite, mudstone, quartzite, sandstone, soil, tuff. The UISIC list has been extended to allow terms that include the geologic period such as "Cambrian limestone".
+[List of options:](http://www.uisic.uis-speleo.org/exchange/atencode.html#7) limestone, dune limestone, dolomite, marble, basalt, dolerite, granite, gypsum, ice, lava, magnesite, mudstone, quartzite, sandstone, soil, tuff.  
 
 **\<cave-type\>**  *controlled vocabulary*  
 The cave type(s) according to a pre-defined list of terms.
@@ -85,8 +85,8 @@ UISIC field [CA8](http://www.uisic.uis-speleo.org/exchange/atendefn.html#8).
  [List of options:](http://www.uisic.uis-speleo.org/exchange/atencode.html#8) limestone cave, artificial cave, blowhole, boulder cave, fault-movement cave, glacier cave, lava tunnel, lava vent, mine, rock shelter, sea cave, piping cave, weathering cave, misc. type. The term "lava tunnel" is equivalent to "lava tube".
 
 **\<contents\>**  *controlled vocabulary*  
-What the cave contains. UISIC field [CA72](http://www.uisic.uis-speleo.org/exchange/atendefn.html#72).  
-CA72 has [36 allowed options](http://www.uisic.uis-speleo.org/exchange/atencode.html#72), which have been shortened to 14: permanent ice, periodic ice, extensive guano, many bats, occasional bats, fish, snakes, trogloxenes, accidental trogloxenes, troglophiles, troglobites, lake(s), waterfall(s), tree roots. If the desired entry is not available among the list of terms, enter it in [comments] instead.
+What the cave contains. Similar to UISIC field [CA72](http://www.uisic.uis-speleo.org/exchange/atendefn.html#72).  
+List of options: permanent ice, periodic ice, perennially submerged, intermittently submerged, extensive guano, many bats, occasional bats, fish, snakes, trogloxenes, accidental trogloxenes, troglophiles, troglobites, lake(s), waterfall(s), tree roots. CA72 has [36 allowed options](http://www.uisic.uis-speleo.org/exchange/atencode.html#72), which have been shortened to 14, and the two terms about submersion are borrowed from [CA2](http://www.uisic.uis-speleo.org/exchange/atendefn.html#2). If the desired entry is not available among the list of terms, enter it in [comments] instead.
 
 **\<comments\>**  *string*  
 Comments about a cave or karst feature. This field should be used only when a suitable more specific field is not available. Use semicolons (;) between separate comments, or place them in separate [comments] entries.  
@@ -151,7 +151,7 @@ This concludes the description of all the data types that have, so far, been def
 |\<state-or-province\> | string | - | Salzburg |  
 |\<phys-area-name\> | string | - | Pyrenees |
 |\<principal-cave-name\>| string | maxOccurs=1 | Kolowrathöhle |  
-|\<other-cave-name\> | string | required if no principal-cave-name given | M-340 |
+|\<other-cave-name\> | string | - | M-340 |
 |\<cave-id\> | token with restriction | RegEx pattern | AT-1547/9 |
 |\<latitude\> | decimal with restriction | range -90...+90, maxOccurs=1 | 47.72792 |
 |\<longitude\> | decimal with restriction | range -180...+180, maxOccurs=1 | 13.00858 |
@@ -167,7 +167,7 @@ This concludes the description of all the data types that have, so far, been def
 |\<branch-name\> | string | -| Arnold Ice Cave |
 |\<reference\> | string | - | Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2 |
 |\<cave-use\> | token with restriction | pre-defined list of strings | guided tourist cave |
-|\<curation\> | string | - | updated length |
+|\<curation\> | string | - | updated length Nov 20, 2020 -NS |
 
 
 Table 1: Data types for each CaveXML element. Default attributes are minOccurs=0 and maxOccurs=unbounded. The third column shows restrictions on the element or on its value. The last column shows examples of valid entries.

@@ -7,7 +7,7 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Tennengebirge</phys-area-name>
       <principal-cave-name>Eisriesenwelt</principal-cave-name>
-      <other-cave-name/>
+      <cave-id>AT-1511/24</cave-id>
       <latitude>47.511</latitude>
       <longitude>13.193</longitude>
       <altitude>1657</altitude>
@@ -540,7 +540,8 @@
    <record>
       <country-name>Canada</country-name>
       <state-or-province>British Columbia</state-or-province>
-      <phys-area-name>White Ridges Provincial Park; Vancouver Island</phys-area-name>
+      <phys-area-name>White Ridges Provincial Park</phys-area-name>
+      <phys-area-name>Vancouver Island</phys-area-name>
       <principal-cave-name/>
       <other-cave-name>Q5</other-cave-name>
       <latitude>49.8</latitude>
@@ -556,7 +557,8 @@
    <record>
       <country-name>Canada</country-name>
       <state-or-province>British Columbia</state-or-province>
-      <phys-area-name>White Ridges Provincial Park; Vancouver Island</phys-area-name>
+      <phys-area-name>White Ridges Provincial Park</phys-area-name>
+      <phys-area-name>Vancouver Island</phys-area-name>
       <principal-cave-name>Projects Cave</principal-cave-name>
       <other-cave-name/>
       <latitude>49.8</latitude>
@@ -571,7 +573,8 @@
    <record>
       <country-name>Canada</country-name>
       <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Columbia Icefield; Jasper National Park</phys-area-name>
+      <phys-area-name>Jasper National Park</phys-area-name>
+      <phys-area-name>Columbia Icefield</phys-area-name>
       <principal-cave-name>Castleguard Cave</principal-cave-name>
       <other-cave-name/>
       <latitude>52.1</latitude>
@@ -579,9 +582,9 @@
       <altitude>2016</altitude>
       <length>21068</length>
       <vertical-extent>387</vertical-extent>
-      <rock-type>Cambrian limestone</rock-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments>Active/relict cold zone</comments>
+      <comments>Active/relict cold zone; Cambrian</comments>
       <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
       <reference>Canadian Caver 2:26, 5/1:21, 11/1:28, 12/1:3, 15/2:7, 19/2:22, 59:7, 63:4, 66:4, 71:4, 73:20, 80:28</reference>
       <reference>https://en.wikipedia.org/wiki/Castleguard_Cave</reference>
@@ -629,8 +632,9 @@
       <altitude>3350</altitude>
       <length> ~150+</length>
       <vertical-extent/>
-      <rock-type>Cambrian limestone</rock-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
+      <comments>Cambrian</comments>
       <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
    </record>
    <record>
@@ -644,9 +648,9 @@
       <altitude>1499</altitude>
       <length>200</length>
       <vertical-extent/>
-      <rock-type>Triassic limestone</rock-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments>cold trap</comments>
+      <comments>Triassic; cold trap</comments>
       <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
    </record>
    <record>
@@ -727,9 +731,9 @@
       <altitude>252</altitude>
       <length>1624</length>
       <vertical-extent/>
-      <rock-type>Devonian gypsum</rock-type>
+      <rock-type>gypsum</rock-type>
       <contents>permanent ice</contents>
-      <comments>Relict Cold Trap</comments>
+      <comments>Devonian; Relict Cold Trap</comments>
       <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
    </record>
    <record>
@@ -743,10 +747,10 @@
       <altitude>2200</altitude>
       <length>60</length>
       <vertical-extent/>
-      <rock-type>Cambrian limestone</rock-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <comments>Massive ice</comments>
-      <comments>permafrost / cold trap</comments>
+      <comments>Cambrian; permafrost / cold trap</comments>
       <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
    </record>
    <record>
@@ -3759,8 +3763,9 @@
       <altitude>3895</altitude>
       <length>~200</length>
       <vertical-extent/>
-      <rock-type>Cretaceous limestone</rock-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
+      <comments>Cretaceous</comments>
       <reference>Soleymani et al. (2018) doi:10.1016/B978-0-12-811739-2.00020-6</reference>
    </record>
    <record>
@@ -3774,9 +3779,9 @@
       <altitude/>
       <length>210</length>
       <vertical-extent>25</vertical-extent>
-      <rock-type>Permian gypsum</rock-type>
+      <rock-type>gypsum</rock-type>
       <contents>permanent ice</contents>
-      <comments>layered ice</comments>
+      <comments>Permian; layered ice</comments>
       <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
    </record>
    <record>
@@ -3868,8 +3873,9 @@
       <length>40</length>
       <vertical-extent/>
       <number-of-entrances>2</number-of-entrances>
-      <rock-type>Silurian limestone</rock-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
+      <comments>Silurian</comments>
       <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
    </record>
    <record>
@@ -3884,9 +3890,9 @@
       <altitude>~4600</altitude>
       <length/>
       <vertical-extent>240</vertical-extent>
-      <rock-type>Jurassic limestone</rock-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments>icings and sublimation crystals</comments>
+      <comments>Jurassic; icings and sublimation crystals</comments>
       <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
    </record>
    <record>
@@ -4373,9 +4379,9 @@
       <other-cave-name/>
       <latitude/>
       <longitude/>
-      <rock-type>Carboniferous limestone</rock-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments>layered ice</comments>
+      <comments>Carobniferous age; layered ice</comments>
       <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
    </record>
    <record>
@@ -4393,7 +4399,8 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
-      <phys-area-name>Northern Rocky Mountains; Craters of the Moon National Monument</phys-area-name>
+      <phys-area-name>Northern Rocky Mountains</phys-area-name>
+      <phys-area-name>Craters of the Moon National Monument</phys-area-name>
       <principal-cave-name>Snow Cone</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -4457,9 +4464,9 @@
       <altitude>3140</altitude>
       <length>245</length>
       <vertical-extent>33</vertical-extent>
-      <rock-type>Carboniferous limestone</rock-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments>strong air flow, abundant thick persistent ice deposits</comments>
+      <comments>Carboniferous age; strong air flow, abundant thick persistent ice deposits</comments>
       <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
       <reference>Munroe (2020) doi:10.5194/tc-2020-152</reference>
    </record>
@@ -4531,7 +4538,7 @@
       <state-or-province>California</state-or-province>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Skull Ice Cave</principal-cave-name>
-      <other-cave-name/>
+      <other-cave-name>Skull Cave</other-cave-name>
       <latitude/>
       <longitude/>
       <altitude>1388</altitude>
@@ -4539,16 +4546,18 @@
       <vertical-extent>37</vertical-extent>
       <number-of-entrances>1</number-of-entrances>
       <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>      
       <contents>permanent ice</contents>
       <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
       <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=614</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name/>
-      <other-cave-name>C-270</other-cave-name>
+      <principal-cave-name>C-270</principal-cave-name>
       <altitude>1396</altitude>
       <length>627</length>
       <vertical-extent>23</vertical-extent>
@@ -4560,23 +4569,26 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
+      <state-or-province>Siskiyou County</state-or-province>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Heppe Ice Cave</principal-cave-name>
-      <other-cave-name/>
+      <other-cave-name>Heppe Cave</other-cave-name>
       <altitude>1609</altitude>
       <length>52</length>
       <vertical-extent>29</vertical-extent>
       <number-of-entrances>2</number-of-entrances>
       <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
       <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=570</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name/>
-      <other-cave-name>L-215</other-cave-name>
+      <principal-cave-name>L-215</principal-cave-name>
       <altitude>1548</altitude>
       <length>91</length>
       <vertical-extent>22</vertical-extent>
@@ -4589,8 +4601,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name/>
-      <other-cave-name>L-800</other-cave-name>
+      <principal-cave-name>L-800</principal-cave-name>
       <altitude>1390</altitude>
       <length>45</length>
       <vertical-extent>23</vertical-extent>
@@ -4603,8 +4614,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name/>
-      <other-cave-name>M-310</other-cave-name>
+      <principal-cave-name>M-310</principal-cave-name>
       <altitude>1412</altitude>
       <length>81</length>
       <vertical-extent>20</vertical-extent>
@@ -4617,8 +4627,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name/>
-      <other-cave-name>M-340</other-cave-name>
+      <principal-cave-name>M-340</principal-cave-name>
       <altitude>1400</altitude>
       <length>197</length>
       <vertical-extent>22</vertical-extent>
@@ -4631,8 +4640,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name/>
-      <other-cave-name>M-470</other-cave-name>
+      <principal-cave-name>M-470</principal-cave-name>
       <altitude>1349</altitude>
       <length>122</length>
       <vertical-extent>25</vertical-extent>
@@ -4645,8 +4653,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name/>
-      <other-cave-name>M-475</other-cave-name>
+      <principal-cave-name>475</principal-cave-name>
       <altitude>1342</altitude>
       <length>45</length>
       <vertical-extent>22</vertical-extent>
@@ -4659,8 +4666,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name/>
-      <other-cave-name>U-200</other-cave-name>
+      <principal-cave-name>U-200</principal-cave-name>
       <altitude>1554</altitude>
       <length>50</length>
       <vertical-extent>9</vertical-extent>
@@ -4899,9 +4905,9 @@
       <altitude>2167 coarse</altitude>
       <length/>
       <vertical-extent/>
-      <rock-type>Jurassic limestone</rock-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments/>
+      <comments>Jurassic</comments>
       <reference>Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7</reference>
    </record>
    <record>
@@ -5352,9 +5358,9 @@
       <altitude/>
       <length>53</length>
       <vertical-extent>25</vertical-extent>
-      <rock-type>Cambrian limestone</rock-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments/>
+      <comments>Cambrian</comments>
       <reference>Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7</reference>
    </record>
    <record>
@@ -5513,9 +5519,9 @@
       <altitude/>
       <length/>
       <vertical-extent/>
-      <rock-type>Cambrian limestone</rock-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments/>
+      <comments>Cambrian</comments>
       <reference>Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7</reference>
    </record>
    <record>
@@ -5970,8 +5976,8 @@
       <country-name>Montenegro</country-name>
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>Ice Cave (03110)</principal-cave-name>
-      <other-cave-name/>
+      <principal-cave-name>Ice Cave</principal-cave-name>
+      <cave-id>ME-03110</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1945</altitude>
@@ -5987,7 +5993,7 @@
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
       <principal-cave-name>03061</principal-cave-name>
-      <other-cave-name/>
+      <cave-id>ME-03061</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2034</altitude>
@@ -5996,7 +6002,7 @@
       <rock-type/>
       <contents>permanent ice</contents>
       <comments>the other branch is T5</comments>
-      <cave-system>03061-T5 Cave system (03067)</cave-system>
+      <cave-system>03061-T5 Cave system</cave-system>
       <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
    </record>
    <record>
@@ -6013,15 +6019,29 @@
       <rock-type/>
       <contents>permanent ice</contents>
       <comments>the other branch is 03061</comments>
-      <cave-system>03061-T5 Cave system (03067)</cave-system>
+      <cave-system>03061-T5 Cave system</cave-system>
       <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
    </record>
    <record>
       <country-name>Montenegro</country-name>
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>Mining Cave (03313)</principal-cave-name>
-      <other-cave-name/>
+      <principal-cave-name>03061-T5 Cave system</principal-cave-name>
+      <cave-id>ME-03067</cave-id>
+      <latitude/>
+      <longitude/>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <branch-name>ME-03061</branch-name>
+      <branch-name>T5</branch-name>
+      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+   </record>
+   <record>
+      <country-name>Montenegro</country-name>
+      <state-or-province/>
+      <phys-area-name>Prokletije Mountains</phys-area-name>
+      <principal-cave-name>Mining Cave</principal-cave-name>
+      <cave-id>ME-03313</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2019</altitude>
@@ -6036,8 +6056,8 @@
       <country-name>Montenegro</country-name>
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>Ice Giang Cave (03114)</principal-cave-name>
-      <other-cave-name/>
+      <principal-cave-name>Ice Giant Cave</principal-cave-name>
+      <cave-id>ME-03114</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2099</altitude>
@@ -6052,8 +6072,8 @@
       <country-name>Montenegro</country-name>
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>Alladin's Cave (03149)</principal-cave-name>
-      <other-cave-name/>
+      <principal-cave-name>Alladin's Cave</principal-cave-name>
+      <cave-id>ME-03149</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1960</altitude>
@@ -6067,8 +6087,8 @@
       <country-name>Montenegro</country-name>
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>Bolt from the Blue Cave (03146)</principal-cave-name>
-      <other-cave-name/>
+      <principal-cave-name>Bolt from the Blue Cave</principal-cave-name>
+      <cave-id>ME-03146</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1930</altitude>
@@ -6083,8 +6103,8 @@
       <country-name>Montenegro</country-name>
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>Ice Dragon Cave (03003)</principal-cave-name>
-      <other-cave-name/>
+      <principal-cave-name>Ice Dragon Cave</principal-cave-name>
+      <cave-id>ME-03003</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1881</altitude>
@@ -6354,42 +6374,42 @@
       <reference>Barton et al. (2020) Cave and Karst Sci. 47, 93-99</reference>
    </record>
    <record>
-     <country-name>United States of America</country-name>
-     <state-or-province>Alaska</state-or-province>
-     <phys-area-name/>
-     <principal-cave-name>CRREL Permafrost Tunnel</principal-cave-name>
-     <other-cave-name>Permafrost Tunnel Research Facility</other-cave-name>
-     <length>110</length>
-     <cave-type>artificial cave</cave-type>
-     <comments>excavated 1963-1969</comments>
-     <reference>www.erdc.usace.army.mil/CRREL/Permafrost-Tunnel-Research-Facility</reference>
-     <reference>Sellmann (1967) https://erdc-library.erdc.dren.mil/jspui/bitstream/11681/5591/1/CRREL-Technical-Report-199.pdf</reference>
-     <reference>Johansen et al. (1988) doi.org/10.1016/0886-7798(88)90030-2</reference>
-     <reference>Douglas et al. (2011) doi:10.1002/ppp.709</reference>
+      <country-name>United States of America</country-name>
+      <state-or-province>Alaska</state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>CRREL Permafrost Tunnel</principal-cave-name>
+      <other-cave-name>Permafrost Tunnel Research Facility</other-cave-name>
+      <length>110</length>
+      <cave-type>artificial cave</cave-type>
+      <comments>excavated 1963-1969</comments>
+      <reference>www.erdc.usace.army.mil/CRREL/Permafrost-Tunnel-Research-Facility</reference>
+      <reference>Sellmann (1967) https://erdc-library.erdc.dren.mil/jspui/bitstream/11681/5591/1/CRREL-Technical-Report-199.pdf</reference>
+      <reference>Johansen et al. (1988) doi.org/10.1016/0886-7798(88)90030-2</reference>
+      <reference>Douglas et al. (2011) doi:10.1002/ppp.709</reference>
    </record>
    <record>
-     <country-name>United States of America</country-name>
-     <state-or-province>Pennsylvania</state-or-province>
-     <phys-area-name/>
-     <principal-cave-name>Coudersport Ice Mine</principal-cave-name>
-     <other-cave-name/>
-     <length>12</length>
-     <vertical-extent/>
-     <contents>periodic ice</contents>
-     <comments>large icicles grow in summer</comments>
-     <reference>https://en.wikipedia.org/wiki/Coudersport_Ice_Mine</reference>
+      <country-name>United States of America</country-name>
+      <state-or-province>Pennsylvania</state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Coudersport Ice Mine</principal-cave-name>
+      <other-cave-name/>
+      <length>12</length>
+      <vertical-extent/>
+      <contents>periodic ice</contents>
+      <comments>large icicles grow in summer</comments>
+      <reference>https://en.wikipedia.org/wiki/Coudersport_Ice_Mine</reference>
    </record>
    <record>
-     <country-name>United States of America</country-name>
-     <state-or-province>New Mexico; El Mapais National Monument</state-or-province>
-     <phys-area-name/>
-     <principal-cave-name>Cave 29</principal-cave-name>
-     <other-cave-name/>
-     <altitude>2268</altitude>
-     <length>171</length>
-     <vertical-extent>~14</vertical-extent>
-     <contents>permanent ice</contents>
-     <reference>Onac et al. (2020) doi:10.1038/s41598-020-76988-1</reference>
+      <country-name>United States of America</country-name>
+      <state-or-province>New Mexico</state-or-province>
+      <phys-area-name>El Mapais National Monument</phys-area-name>
+      <principal-cave-name>Cave 29</principal-cave-name>
+      <other-cave-name/>
+      <altitude>2268</altitude>
+      <length>171</length>
+      <vertical-extent>~14</vertical-extent>
+      <contents>permanent ice</contents>
+      <reference>Onac et al. (2020) doi:10.1038/s41598-020-76988-1</reference>
    </record>
    
    <record>
@@ -7400,10 +7420,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Balcony Cave</principal-cave-name>
-      <length>213</length>
+      <length>885</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=521</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -7823,10 +7845,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Big Painted Cave</principal-cave-name>
-      <length/>
+      <length>81</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=612</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -8004,8 +8028,8 @@
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Blood Cave</principal-cave-name>
-      <other-cave-name>H32</other-cave-name>
-      <length/>
+      <cave-id>AU-ASF-3H-H32</cave-id>
+      <length>3</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1576</reference>
    </record>
@@ -8013,11 +8037,13 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Blue Grotto</principal-cave-name>
-      <length/>
+      <length>470</length>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Labyrinth Cave System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=559</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -8128,10 +8154,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Boulevard Cave</principal-cave-name>
-      <length>150</length>
+      <length>231</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=522</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -8277,8 +8305,10 @@
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Bridge Cave</principal-cave-name>
-      <other-cave-name>(H13-H14)</other-cave-name>
+      <cave-id>AU-ASF-3H-13</cave-id>
       <length>200</length>
+      <vertical-extent>20</vertical-extent>
+      <number-of-entrances>2</number-of-entrances>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1577</reference>
    </record>
@@ -8697,10 +8727,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Catacombs Cave</principal-cave-name>
-      <length>4881</length>
+      <length>2104</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=560</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -9494,7 +9526,8 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands; Lava Beds National Monument</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Crystal Cave</principal-cave-name>
       <other-cave-name>Crystal Ice Cave</other-cave-name>
       <other-cave-name>Blue Crystal Ice Cave</other-cave-name>
@@ -11686,8 +11719,9 @@
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Flower Pot</principal-cave-name>
-      <other-cave-name>H19</other-cave-name>
-      <length/>
+      <cave-id>AU-ASF-3H-19</cave-id>
+      <length>65</length>
+      <vertical-extent>12</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1580</reference>
    </record>
@@ -12291,12 +12325,14 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <phys-area-name/>
       <principal-cave-name>Golden Dome Cave</principal-cave-name>
-      <length>600</length>
+      <length>679</length>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Labyrinth Cave System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=569</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -12762,17 +12798,22 @@
       <country-name>Australia</country-name>
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
-      <principal-cave-name>H-X1</principal-cave-name>
-      <length/>
+      <other-cave-name>H-X1</other-cave-name>
+      <other-cave-name>3H-X1</other-cave-name>
+      <cave-id>AU-ASF-3H-62</cave-id>
+      <length>15</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1581</reference>
+      <reference>ASF database</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
-      <principal-cave-name>H-X2</principal-cave-name>
-      <length/>
+      <principal-cave-name>Guano Grotto</principal-cave-name>
+      <other-cave-name>H-X2</other-cave-name>
+      <cave-id>AU-ASF-3H-63</cave-id>
+      <length>9</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1582</reference>
    </record>
@@ -12780,7 +12821,7 @@
       <country-name>Australia</country-name>
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
-      <principal-cave-name>H-X3B</principal-cave-name>
+      <other-cave-name>H-X3B</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1583</reference>
@@ -12789,28 +12830,27 @@
       <country-name>Australia</country-name>
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
-      <principal-cave-name>H-X4</principal-cave-name>
+      <principal-cave-name>Tree Root Cave</principal-cave-name>
+      <other-cave-name>H-X5; H-X4</other-cave-name>
+      <cave-id>AU-ASF-3H-65</cave-id>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1584</reference>
-   </record>
-   <record>
-      <country-name>Australia</country-name>
-      <state-or-province>Victoria</state-or-province>
-      <phys-area-name>Mt. Napier</phys-area-name>
-      <principal-cave-name>H-X5</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1585</reference>
+      <reference>ASF database</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
-      <principal-cave-name>H-X6</principal-cave-name>
-      <length/>
+      <principal-cave-name>The Forge</principal-cave-name>
+      <other-cave-name>H-X6</other-cave-name>
+      <cave-id>AU-ASF-3H-67</cave-id>
+      <length>10</length>
+      <vertical-extent>3</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1586</reference>
+      <reference>ASF database</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -13095,16 +13135,6 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>Heppe Caves</principal-cave-name>
-      <other-cave-name>Heppe's Ice Cave</other-cave-name>
-      <length>170</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=570</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California; Siskiyou County</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Heppe Chimney</principal-cave-name>
       <length/>
@@ -13114,11 +13144,13 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <phys-area-name/>
       <principal-cave-name>Hercules Leg Cave</principal-cave-name>
-      <length>1314</length>
+      <length>594</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=571</reference>
+       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>France</country-name>
@@ -13291,12 +13323,14 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <phys-area-name/>
       <principal-cave-name>Hopkins Chocolate Cave</principal-cave-name>
-      <length/>
+      <length>428</length>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Labyrinth Cave System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=562</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>Kenya</country-name>
@@ -13700,11 +13734,13 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <phys-area-name/>
       <principal-cave-name>Indian Well</principal-cave-name>
-      <length/>
+      <length>91</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=572</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>Australia</country-name>
@@ -14179,10 +14215,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Juniper Cave</principal-cave-name>
-      <length>370</length>
+      <length>720</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=658</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -15005,7 +15043,8 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake; Lava Beds National Monument</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <phys-area-name>Medicine Lake</phys-area-name>
       <principal-cave-name>Labyrinth Cave System</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -15021,11 +15060,13 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Labyrinth Cave</principal-cave-name>
-      <length>1158</length>
+      <length>378</length>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Labyrinth Cave System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=573</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>New Zealand</country-name>
@@ -15123,10 +15164,13 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <principal-cave-name>Lava  Brook Cave (cf. Labyrinth Cave)</principal-cave-name>
-      <length>1042</length>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <principal-cave-name>Lava  Brook Cave</principal-cave-name>
+      <length>262</length>
       <cave-type>lava tunnel</cave-type>
+      <cave-system>Labyrinth Cave System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=585</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -16200,8 +16244,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands; Lava Beds National Monument</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Merrill Ice Cave</principal-cave-name>
+      <other-cave-name>Merrill Cave</other-cave-name>
       <altitude>1487</altitude>
       <length>198</length>
       <vertical-extent>18</vertical-extent>
@@ -16212,6 +16258,7 @@
       <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
       <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=610</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -16683,10 +16730,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Mushpot Cave</principal-cave-name>
-      <length/>
+      <length>235</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=589</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -17416,10 +17465,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Ovis Cave</principal-cave-name>
-      <length>60</length>
+      <length>66</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=590</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -17554,10 +17605,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Paradise Alleys Cave</principal-cave-name>
-      <length>300</length>
+      <length>315</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=657</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -17679,10 +17732,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Peterson</principal-cave-name>
-      <other-cave-name>4U-15</other-cave-name>
+      <cave-id>AU-ASF-4U-15</cave-id>
       <length>102</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1424</reference>
       <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
@@ -19453,10 +19507,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Sentinel Cave</principal-cave-name>
       <length>1228</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=593</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
@@ -19472,6 +19528,7 @@
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Shallow Cave</principal-cave-name>
+      <cave-id>AU-ASF-3H-31</cave-id>
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1588</reference>
@@ -19942,15 +19999,6 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1596</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <state-or-province>Siskiyou County</state-or-province>
-      <principal-cave-name>Skull Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=614</reference>
    </record>
    <record>
       <country-name>Kenya</country-name>
@@ -20574,10 +20622,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Sunshine Cave</principal-cave-name>
-      <length>156</length>
+      <length>142</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=597</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -20686,10 +20736,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Symbol Bridge</principal-cave-name>
-      <length/>
+      <length>45</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=615</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>Hungary</country-name>
@@ -21126,10 +21178,13 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <principal-cave-name>Thunderbolt Cave (cf. Labyrinth Cave)</principal-cave-name>
-      <length/>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <principal-cave-name>Thunderbolt Cave</principal-cave-name>
+      <length>781</length>
       <cave-type>lava tunnel</cave-type>
+      <cave-system>Labyrinth Cave System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=598</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -21603,7 +21658,8 @@
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Tunnel Cave</principal-cave-name>
-      <length/>
+      <cave-id>AU-ASF-3H-66</cave-id>
+      <length>20</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1592</reference>
    </record>
@@ -21963,10 +22019,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Valentine Cave</principal-cave-name>
-      <length>600</length>
+      <length>498</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=640</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -22829,7 +22887,8 @@
       <principal-cave-name>Palahemo Lava Tube</principal-cave-name>
       <length>305</length>
       <cave-type>lava tunnel</cave-type>
-      <comments>submerged; entrance is lake Lua o Palahemo</comments>
+      <contents>perennially submerged</contents>
+      <comments>entrance is lake Lua o Palahemo</comments>
       <reference>Kensley et al. (1986) doi:10.1163/193724086X00271</reference>
    </record>
    <record>
@@ -22940,6 +22999,7 @@
       <length>368637</length>
       <vertical-extent>119</vertical-extent>
       <number-of-entrances>187</number-of-entrances>
+      <contents>perennially submerged</contents>
       <comments>longest surveyed underwater cave system in the world</comments>
       <branch-name>Sistema Dos Ojos</branch-name>
       <branch-name>Nohoch Nah Chich</branch-name>
@@ -22960,7 +23020,7 @@
       <vertical-extent>73</vertical-extent>
       <number-of-entrances>36</number-of-entrances>
       <rock-type>limestone</rock-type>
-      <comments>underwater</comments>
+      <contents>perennially submerged</contents>
       <comments>entrances: Dinner hole, Ferndock, Tankah, Balankanche</comments>
       <cave-system>Sistema Sac Actun</cave-system>
       <reference>https://en.wikipedia.org/wiki/Sistema_Nohoch_Nah_Chich</reference>
@@ -22977,7 +23037,7 @@
       <vertical-extent/>
       <number-of-entrances>28</number-of-entrances>
       <rock-type>limestone</rock-type>
-      <comments>underwater</comments>
+      <contents>perennially submerged</contents>
       <cave-system>Sistema Sac Actun</cave-system>
       <reference>https://en.wikipedia.org/wiki/Sistema_Dos_Ojos</reference>
    </record>
@@ -23071,7 +23131,8 @@
       <altitude>2650</altitude>
       <length>14800</length>
       <vertical-extent>1415</vertical-extent>
-      <rock-type>Jurassic limestone</rock-type>
+      <rock-type>limestone</rock-type>
+      <comments>Jurassic</comments>
       <reference>https://en.wikipedia.org/wiki/Boybuloq_Cave</reference>
    </record>
    <record>

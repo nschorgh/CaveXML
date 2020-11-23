@@ -6,7 +6,7 @@
       "state-or-province": "Salzburg",
       "phys-area-name": "Tennengebirge",
       "principal-cave-name": "Eisriesenwelt",
-      "other-cave-name": [],
+      "cave-id": "AT-1511/24",
       "latitude": 47.511,
       "longitude": 13.193,
       "altitude": 1657,
@@ -573,7 +573,8 @@
     {
       "country-name": "Canada",
       "state-or-province": "British Columbia",
-      "phys-area-name": "White Ridges Provincial Park; Vancouver Island",
+      "phys-area-name": "White Ridges Provincial Park",
+      "phys-area-name": "Vancouver Island",
       "principal-cave-name": [],
       "other-cave-name": "Q5",
       "latitude": 49.8,
@@ -590,7 +591,8 @@
     {
       "country-name": "Canada",
       "state-or-province": "British Columbia",
-      "phys-area-name": "White Ridges Provincial Park; Vancouver Island",
+      "phys-area-name": "White Ridges Provincial Park",
+      "phys-area-name": "Vancouver Island",
       "principal-cave-name": "Projects Cave",
       "other-cave-name": [],
       "latitude": 49.8,
@@ -606,7 +608,8 @@
     {
       "country-name": "Canada",
       "state-or-province": "Alberta",
-      "phys-area-name": "Columbia Icefield; Jasper National Park",
+      "phys-area-name": "Jasper National Park",
+      "phys-area-name": "Columbia Icefield",
       "principal-cave-name": "Castleguard Cave",
       "other-cave-name": [],
       "latitude": 52.1,
@@ -614,9 +617,9 @@
       "altitude": 2016,
       "length": 21068,
       "vertical-extent": 387,
-      "rock-type": "Cambrian limestone",
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "Active/relict cold zone",
+      "comments": "Active/relict cold zone; Cambrian",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2",
       "reference": "Canadian Caver 2:26, 5/1:21, 11/1:28, 12/1:3, 15/2:7, 19/2:22, 59:7, 63:4, 66:4, 71:4, 73:20, 80:28",
       "reference": "https://en.wikipedia.org/wiki/Castleguard_Cave"
@@ -667,8 +670,9 @@
       "altitude": 3350,
       "length": " ~150+",
       "vertical-extent": [],
-      "rock-type": "Cambrian limestone",
+      "rock-type": "limestone",
       "contents": "permanent ice",
+      "comments": "Cambrian",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
 
@@ -683,9 +687,9 @@
       "altitude": 1499,
       "length": 200,
       "vertical-extent": [],
-      "rock-type": "Triassic limestone",
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "cold trap",
+      "comments": "Triassic; cold trap",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
 
@@ -771,9 +775,9 @@
       "altitude": 252,
       "length": 1624,
       "vertical-extent": [],
-      "rock-type": "Devonian gypsum",
+      "rock-type": "gypsum",
       "contents": "permanent ice",
-      "comments": "Relict Cold Trap",
+      "comments": "Devonian; Relict Cold Trap",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
 
@@ -788,10 +792,10 @@
       "altitude": 2200,
       "length": 60,
       "vertical-extent": [],
-      "rock-type": "Cambrian limestone",
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "Massive ice",
-      "comments": "permafrost / cold trap",
+      "comments": "Cambrian; permafrost / cold trap",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
 
@@ -4014,8 +4018,9 @@
       "altitude": 3895,
       "length": "~200",
       "vertical-extent": [],
-      "rock-type": "Cretaceous limestone",
+      "rock-type": "limestone",
       "contents": "permanent ice",
+      "comments": "Cretaceous",
       "reference": "Soleymani et al. (2018) doi:10.1016/B978-0-12-811739-2.00020-6"
     },
 
@@ -4030,9 +4035,9 @@
       "altitude": [],
       "length": 210,
       "vertical-extent": 25,
-      "rock-type": "Permian gypsum",
+      "rock-type": "gypsum",
       "contents": "permanent ice",
-      "comments": "layered ice",
+      "comments": "Permian; layered ice",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
     },
 
@@ -4130,8 +4135,9 @@
       "length": 40,
       "vertical-extent": [],
       "number-of-entrances": 2,
-      "rock-type": "Silurian limestone",
+      "rock-type": "limestone",
       "contents": "permanent ice",
+      "comments": "Silurian",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
     },
 
@@ -4147,9 +4153,9 @@
       "altitude": "~4600",
       "length": [],
       "vertical-extent": 240,
-      "rock-type": "Jurassic limestone",
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "icings and sublimation crystals",
+      "comments": "Jurassic; icings and sublimation crystals",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
     },
 
@@ -4673,9 +4679,9 @@
       "other-cave-name": [],
       "latitude": [],
       "longitude": [],
-      "rock-type": "Carboniferous limestone",
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "layered ice",
+      "comments": "Carobniferous age; layered ice",
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0"
     },
 
@@ -4695,7 +4701,8 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Idaho",
-      "phys-area-name": "Northern Rocky Mountains; Craters of the Moon National Monument",
+      "phys-area-name": "Northern Rocky Mountains",
+      "phys-area-name": "Craters of the Moon National Monument",
       "principal-cave-name": "Snow Cone",
       "other-cave-name": [],
       "latitude": [],
@@ -4763,9 +4770,9 @@
       "altitude": 3140,
       "length": 245,
       "vertical-extent": 33,
-      "rock-type": "Carboniferous limestone",
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "strong air flow, abundant thick persistent ice deposits",
+      "comments": "Carboniferous age; strong air flow, abundant thick persistent ice deposits",
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
       "reference": "Munroe (2020) doi:10.5194/tc-2020-152"
     },
@@ -4842,7 +4849,7 @@
       "state-or-province": "California",
       "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Skull Ice Cave",
-      "other-cave-name": [],
+      "other-cave-name": "Skull Cave",
       "latitude": [],
       "longitude": [],
       "altitude": 1388,
@@ -4850,17 +4857,19 @@
       "vertical-extent": 37,
       "number-of-entrances": 1,
       "rock-type": "basalt",
+      "cave-type": "lava tunnel",
       "contents": "permanent ice",
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
-      "reference": "Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14"
+      "reference": "Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=614",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
       "country-name": "United States of America",
       "state-or-province": "California",
       "phys-area-name": "Lava Beds National Monument",
-      "principal-cave-name": [],
-      "other-cave-name": "C-270",
+      "principal-cave-name": "C-270",
       "altitude": 1396,
       "length": 627,
       "vertical-extent": 23,
@@ -4873,24 +4882,27 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California",
+      "state-or-province": "Siskiyou County",
       "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Heppe Ice Cave",
-      "other-cave-name": [],
+      "other-cave-name": "Heppe Cave",
       "altitude": 1609,
       "length": 52,
       "vertical-extent": 29,
       "number-of-entrances": 2,
       "rock-type": "basalt",
+      "cave-type": "lava tunnel",
       "contents": "permanent ice",
-      "reference": "Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14"
+      "reference": "Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=570",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
       "country-name": "United States of America",
       "state-or-province": "California",
       "phys-area-name": "Lava Beds National Monument",
-      "principal-cave-name": [],
-      "other-cave-name": "L-215",
+      "principal-cave-name": "L-215",
       "altitude": 1548,
       "length": 91,
       "vertical-extent": 22,
@@ -4904,8 +4916,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "phys-area-name": "Lava Beds National Monument",
-      "principal-cave-name": [],
-      "other-cave-name": "L-800",
+      "principal-cave-name": "L-800",
       "altitude": 1390,
       "length": 45,
       "vertical-extent": 23,
@@ -4919,8 +4930,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "phys-area-name": "Lava Beds National Monument",
-      "principal-cave-name": [],
-      "other-cave-name": "M-310",
+      "principal-cave-name": "M-310",
       "altitude": 1412,
       "length": 81,
       "vertical-extent": 20,
@@ -4934,8 +4944,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "phys-area-name": "Lava Beds National Monument",
-      "principal-cave-name": [],
-      "other-cave-name": "M-340",
+      "principal-cave-name": "M-340",
       "altitude": 1400,
       "length": 197,
       "vertical-extent": 22,
@@ -4949,8 +4958,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "phys-area-name": "Lava Beds National Monument",
-      "principal-cave-name": [],
-      "other-cave-name": "M-470",
+      "principal-cave-name": "M-470",
       "altitude": 1349,
       "length": 122,
       "vertical-extent": 25,
@@ -4964,8 +4972,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "phys-area-name": "Lava Beds National Monument",
-      "principal-cave-name": [],
-      "other-cave-name": "M-475",
+      "principal-cave-name": 475,
       "altitude": 1342,
       "length": 45,
       "vertical-extent": 22,
@@ -4979,8 +4986,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "phys-area-name": "Lava Beds National Monument",
-      "principal-cave-name": [],
-      "other-cave-name": "U-200",
+      "principal-cave-name": "U-200",
       "altitude": 1554,
       "length": 50,
       "vertical-extent": 9,
@@ -5235,9 +5241,9 @@
       "altitude": "2167 coarse",
       "length": [],
       "vertical-extent": [],
-      "rock-type": "Jurassic limestone",
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": [],
+      "comments": "Jurassic",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -5716,9 +5722,9 @@
       "altitude": [],
       "length": 53,
       "vertical-extent": 25,
-      "rock-type": "Cambrian limestone",
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": [],
+      "comments": "Cambrian",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -5887,9 +5893,9 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
-      "rock-type": "Cambrian limestone",
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": [],
+      "comments": "Cambrian",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -6375,8 +6381,8 @@
       "country-name": "Montenegro",
       "state-or-province": [],
       "phys-area-name": "Prokletije Mountains",
-      "principal-cave-name": "Ice Cave (03110)",
-      "other-cave-name": [],
+      "principal-cave-name": "Ice Cave",
+      "cave-id": "ME-03110",
       "latitude": [],
       "longitude": [],
       "altitude": 1945,
@@ -6393,7 +6399,7 @@
       "state-or-province": [],
       "phys-area-name": "Prokletije Mountains",
       "principal-cave-name": "03061",
-      "other-cave-name": [],
+      "cave-id": "ME-03061",
       "latitude": [],
       "longitude": [],
       "altitude": 2034,
@@ -6402,7 +6408,7 @@
       "rock-type": [],
       "contents": "permanent ice",
       "comments": "the other branch is T5",
-      "cave-system": "03061-T5 Cave system (03067)",
+      "cave-system": "03061-T5 Cave system",
       "reference": "Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0"
     },
 
@@ -6420,7 +6426,7 @@
       "rock-type": [],
       "contents": "permanent ice",
       "comments": "the other branch is 03061",
-      "cave-system": "03061-T5 Cave system (03067)",
+      "cave-system": "03061-T5 Cave system",
       "reference": "Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0"
     },
 
@@ -6428,8 +6434,23 @@
       "country-name": "Montenegro",
       "state-or-province": [],
       "phys-area-name": "Prokletije Mountains",
-      "principal-cave-name": "Mining Cave (03313)",
-      "other-cave-name": [],
+      "principal-cave-name": "03061-T5 Cave system",
+      "cave-id": "ME-03067",
+      "latitude": [],
+      "longitude": [],
+      "rock-type": [],
+      "contents": "permanent ice",
+      "branch-name": "ME-03061",
+      "branch-name": "T5",
+      "reference": "Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0"
+    },
+
+    {
+      "country-name": "Montenegro",
+      "state-or-province": [],
+      "phys-area-name": "Prokletije Mountains",
+      "principal-cave-name": "Mining Cave",
+      "cave-id": "ME-03313",
       "latitude": [],
       "longitude": [],
       "altitude": 2019,
@@ -6445,8 +6466,8 @@
       "country-name": "Montenegro",
       "state-or-province": [],
       "phys-area-name": "Prokletije Mountains",
-      "principal-cave-name": "Ice Giang Cave (03114)",
-      "other-cave-name": [],
+      "principal-cave-name": "Ice Giant Cave",
+      "cave-id": "ME-03114",
       "latitude": [],
       "longitude": [],
       "altitude": 2099,
@@ -6462,8 +6483,8 @@
       "country-name": "Montenegro",
       "state-or-province": [],
       "phys-area-name": "Prokletije Mountains",
-      "principal-cave-name": "Alladin's Cave (03149)",
-      "other-cave-name": [],
+      "principal-cave-name": "Alladin's Cave",
+      "cave-id": "ME-03149",
       "latitude": [],
       "longitude": [],
       "altitude": 1960,
@@ -6478,8 +6499,8 @@
       "country-name": "Montenegro",
       "state-or-province": [],
       "phys-area-name": "Prokletije Mountains",
-      "principal-cave-name": "Bolt from the Blue Cave (03146)",
-      "other-cave-name": [],
+      "principal-cave-name": "Bolt from the Blue Cave",
+      "cave-id": "ME-03146",
       "latitude": [],
       "longitude": [],
       "altitude": 1930,
@@ -6495,8 +6516,8 @@
       "country-name": "Montenegro",
       "state-or-province": [],
       "phys-area-name": "Prokletije Mountains",
-      "principal-cave-name": "Ice Dragon Cave (03003)",
-      "other-cave-name": [],
+      "principal-cave-name": "Ice Dragon Cave",
+      "cave-id": "ME-03003",
       "latitude": [],
       "longitude": [],
       "altitude": 1881,
@@ -6813,8 +6834,8 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "New Mexico; El Mapais National Monument",
-      "phys-area-name": [],
+      "state-or-province": "New Mexico",
+      "phys-area-name": "El Mapais National Monument",
       "principal-cave-name": "Cave 29",
       "other-cave-name": [],
       "altitude": 2268,
@@ -7937,10 +7958,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Balcony Cave",
-      "length": 213,
+      "length": 885,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=521"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=521",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -8404,10 +8427,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Big Painted Cave",
-      "length": [],
+      "length": 81,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=612"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=612",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -8604,8 +8629,8 @@
       "state-or-province": "Victoria",
       "phys-area-name": "Mt. Napier",
       "principal-cave-name": "Blood Cave",
-      "other-cave-name": "H32",
-      "length": [],
+      "cave-id": "AU-ASF-3H-H32",
+      "length": 3,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1576"
     },
@@ -8614,11 +8639,13 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Blue Grotto",
-      "length": [],
+      "length": 470,
       "cave-type": "lava tunnel",
       "cave-system": "Labyrinth Cave System",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=559"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=559",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -8741,10 +8768,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Boulevard Cave",
-      "length": 150,
+      "length": 231,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=522"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=522",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -8906,8 +8935,10 @@
       "state-or-province": "Victoria",
       "phys-area-name": "Mt. Napier",
       "principal-cave-name": "Bridge Cave",
-      "other-cave-name": "(H13-H14)",
+      "cave-id": "AU-ASF-3H-13",
       "length": 200,
+      "vertical-extent": 20,
+      "number-of-entrances": 2,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1577"
     },
@@ -9370,10 +9401,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Catacombs Cave",
-      "length": 4881,
+      "length": 2104,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=560"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=560",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -10253,7 +10286,8 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Medicine Lake Highlands; Lava Beds National Monument",
+      "phys-area-name": "Lava Beds National Monument",
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Crystal Cave",
       "other-cave-name": "Crystal Ice Cave",
       "other-cave-name": "Blue Crystal Ice Cave",
@@ -12680,8 +12714,9 @@
       "state-or-province": "Victoria",
       "phys-area-name": "Mt. Napier",
       "principal-cave-name": "Flower Pot",
-      "other-cave-name": "H19",
-      "length": [],
+      "cave-id": "AU-ASF-3H-19",
+      "length": 65,
+      "vertical-extent": 12,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1580"
     },
@@ -13350,12 +13385,14 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "phys-area-name": [],
       "principal-cave-name": "Golden Dome Cave",
-      "length": 600,
+      "length": 679,
       "cave-type": "lava tunnel",
       "cave-system": "Labyrinth Cave System",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=569"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=569",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -13869,18 +13906,23 @@
       "country-name": "Australia",
       "state-or-province": "Victoria",
       "phys-area-name": "Mt. Napier",
-      "principal-cave-name": "H-X1",
-      "length": [],
+      "other-cave-name": "H-X1",
+      "other-cave-name": "3H-X1",
+      "cave-id": "AU-ASF-3H-62",
+      "length": 15,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1581"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1581",
+      "reference": "ASF database"
     },
 
     {
       "country-name": "Australia",
       "state-or-province": "Victoria",
       "phys-area-name": "Mt. Napier",
-      "principal-cave-name": "H-X2",
-      "length": [],
+      "principal-cave-name": "Guano Grotto",
+      "other-cave-name": "H-X2",
+      "cave-id": "AU-ASF-3H-63",
+      "length": 9,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1582"
     },
@@ -13889,7 +13931,7 @@
       "country-name": "Australia",
       "state-or-province": "Victoria",
       "phys-area-name": "Mt. Napier",
-      "principal-cave-name": "H-X3B",
+      "other-cave-name": "H-X3B",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1583"
@@ -13899,30 +13941,28 @@
       "country-name": "Australia",
       "state-or-province": "Victoria",
       "phys-area-name": "Mt. Napier",
-      "principal-cave-name": "H-X4",
+      "principal-cave-name": "Tree Root Cave",
+      "other-cave-name": "H-X5; H-X4",
+      "cave-id": "AU-ASF-3H-65",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1584"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1584",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1585",
+      "reference": "ASF database"
     },
 
     {
       "country-name": "Australia",
       "state-or-province": "Victoria",
       "phys-area-name": "Mt. Napier",
-      "principal-cave-name": "H-X5",
-      "length": [],
+      "principal-cave-name": "The Forge",
+      "other-cave-name": "H-X6",
+      "cave-id": "AU-ASF-3H-67",
+      "length": 10,
+      "vertical-extent": 3,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1585"
-    },
-
-    {
-      "country-name": "Australia",
-      "state-or-province": "Victoria",
-      "phys-area-name": "Mt. Napier",
-      "principal-cave-name": "H-X6",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1586"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1586",
+      "reference": "ASF database"
     },
 
     {
@@ -14237,17 +14277,6 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
-      "phys-area-name": "Lava Beds National Monument",
-      "principal-cave-name": "Heppe Caves",
-      "other-cave-name": "Heppe's Ice Cave",
-      "length": 170,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=570"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California; Siskiyou County",
       "phys-area-name": [],
       "principal-cave-name": "Heppe Chimney",
       "length": [],
@@ -14258,11 +14287,13 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "phys-area-name": [],
       "principal-cave-name": "Hercules Leg Cave",
-      "length": 1314,
+      "length": 594,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=571"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=571",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -14454,12 +14485,14 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "phys-area-name": [],
       "principal-cave-name": "Hopkins Chocolate Cave",
-      "length": [],
+      "length": 428,
       "cave-type": "lava tunnel",
       "cave-system": "Labyrinth Cave System",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=562"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=562",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -14906,11 +14939,13 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "phys-area-name": [],
       "principal-cave-name": "Indian Well",
-      "length": [],
+      "length": 91,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=572"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=572",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -15436,10 +15471,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Juniper Cave",
-      "length": 370,
+      "length": 720,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=658"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=658",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -16350,7 +16387,8 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Medicine Lake; Lava Beds National Monument",
+      "phys-area-name": "Lava Beds National Monument",
+      "phys-area-name": "Medicine Lake",
       "principal-cave-name": "Labyrinth Cave System",
       "length": [],
       "cave-type": "lava tunnel",
@@ -16367,11 +16405,13 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Labyrinth Cave",
-      "length": 1158,
+      "length": 378,
       "cave-type": "lava tunnel",
       "cave-system": "Labyrinth Cave System",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=573"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=573",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -16480,10 +16520,13 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "principal-cave-name": "Lava  Brook Cave (cf. Labyrinth Cave)",
-      "length": 1042,
+      "phys-area-name": "Lava Beds National Monument",
+      "principal-cave-name": "Lava  Brook Cave",
+      "length": 262,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=585"
+      "cave-system": "Labyrinth Cave System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=585",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -17670,8 +17713,10 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Medicine Lake Highlands; Lava Beds National Monument",
+      "phys-area-name": "Lava Beds National Monument",
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Merrill Ice Cave",
+      "other-cave-name": "Merrill Cave",
       "altitude": 1487,
       "length": 198,
       "vertical-extent": 18,
@@ -17681,7 +17726,8 @@
       "contents": "permanent ice",
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
       "reference": "Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=610"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=610",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -18204,10 +18250,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Mushpot Cave",
-      "length": [],
+      "length": 235,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=589"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=589",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -19015,10 +19063,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Ovis Cave",
-      "length": 60,
+      "length": 66,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=590"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=590",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -19167,10 +19217,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Paradise Alleys Cave",
-      "length": 300,
+      "length": 315,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=657"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=657",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -19305,10 +19357,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Peterson",
-      "other-cave-name": "4U-15",
+      "cave-id": "AU-ASF-4U-15",
       "length": 102,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1424",
       "reference": "Atkinson et al. (1975) doi:10.1007/BF02597832"
@@ -21264,10 +21317,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Sentinel Cave",
       "length": 1228,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=593"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=593",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -21285,6 +21340,7 @@
       "state-or-province": "Victoria",
       "phys-area-name": "Mt. Napier",
       "principal-cave-name": "Shallow Cave",
+      "cave-id": "AU-ASF-3H-31",
       "length": 30,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1588"
@@ -21806,16 +21862,6 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1596"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "Siskiyou County",
-      "principal-cave-name": "Skull Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=614"
     },
 
     {
@@ -22504,10 +22550,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Sunshine Cave",
-      "length": 156,
+      "length": 142,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=597"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=597",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -22628,10 +22676,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Symbol Bridge",
-      "length": [],
+      "length": 45,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=615"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=615",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -23114,10 +23164,13 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "principal-cave-name": "Thunderbolt Cave (cf. Labyrinth Cave)",
-      "length": [],
+      "phys-area-name": "Lava Beds National Monument",
+      "principal-cave-name": "Thunderbolt Cave",
+      "length": 781,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=598"
+      "cave-system": "Labyrinth Cave System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=598",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -23641,7 +23694,8 @@
       "state-or-province": "Victoria",
       "phys-area-name": "Mt. Napier",
       "principal-cave-name": "Tunnel Cave",
-      "length": [],
+      "cave-id": "AU-ASF-3H-66",
+      "length": 20,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1592"
     },
@@ -24038,10 +24092,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Valentine Cave",
-      "length": 600,
+      "length": 498,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=640"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=640",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -24995,7 +25051,8 @@
       "principal-cave-name": "Palahemo Lava Tube",
       "length": 305,
       "cave-type": "lava tunnel",
-      "comments": "submerged; entrance is lake Lua o Palahemo",
+      "contents": "perennially submerged",
+      "comments": "entrance is lake Lua o Palahemo",
       "reference": "Kensley et al. (1986) doi:10.1163/193724086X00271"
     },
 
@@ -25112,6 +25169,7 @@
       "length": 368637,
       "vertical-extent": 119,
       "number-of-entrances": 187,
+      "contents": "perennially submerged",
       "comments": "longest surveyed underwater cave system in the world",
       "branch-name": "Sistema Dos Ojos",
       "branch-name": "Nohoch Nah Chich",
@@ -25133,7 +25191,7 @@
       "vertical-extent": 73,
       "number-of-entrances": 36,
       "rock-type": "limestone",
-      "comments": "underwater",
+      "contents": "perennially submerged",
       "comments": "entrances: Dinner hole, Ferndock, Tankah, Balankanche",
       "cave-system": "Sistema Sac Actun",
       "reference": "https://en.wikipedia.org/wiki/Sistema_Nohoch_Nah_Chich"
@@ -25151,7 +25209,7 @@
       "vertical-extent": [],
       "number-of-entrances": 28,
       "rock-type": "limestone",
-      "comments": "underwater",
+      "contents": "perennially submerged",
       "cave-system": "Sistema Sac Actun",
       "reference": "https://en.wikipedia.org/wiki/Sistema_Dos_Ojos"
     },
@@ -25250,7 +25308,8 @@
       "altitude": 2650,
       "length": 14800,
       "vertical-extent": 1415,
-      "rock-type": "Jurassic limestone",
+      "rock-type": "limestone",
+      "comments": "Jurassic",
       "reference": "https://en.wikipedia.org/wiki/Boybuloq_Cave"
     },
 

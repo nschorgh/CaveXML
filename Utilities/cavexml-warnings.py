@@ -4,6 +4,7 @@ print('This script issues warnings about CaveXML database entries.')
 print()
 
 import xml.etree.ElementTree
+from cavexml import get_one_cave_name
 
 # Enter name of XML database here
 #tree = xml.etree.ElementTree.parse('test.xml')
@@ -11,46 +12,37 @@ tree = xml.etree.ElementTree.parse('../allcaves-database.xml')
 
 root = tree.getroot()
 
+
+
 count = 0
 
 for item in root.findall('record'):
         
     count = count + 1  # count number of records
-    
-    # Find records that have neither a principal-cave-name nor any other-cave-name
+
     acavename = False
-    pcn = item.findall('principal-cave-name')
-    if len(pcn)>0: # tag present
-        pcn = pcn[0].text
-        if pcn is not None: # not empty
-            str = pcn.strip() # strips leading and trailing whitespace
-            if len(str)>0:
+    pcn = item.find('principal-cave-name')
+    if pcn is not None: # tag present
+        if pcn.text is not None: # not empty
+            if len(pcn.text.strip())>0:
                 acavename = True
-
     if acavename is False:
-        print('WARNING: record without principal-cave-name')
+        print('WARNING: record without principal-cave-name', count)
 
-    ocn = item.findall('other-cave-name')
-    for i in range(0,len(ocn)):
-        str = ocn[i].text
-        if str is not None: # not empty
-            str = str.strip()
-            if len(str)>0:
-                acavename = True
-                
-    if acavename is False:
-        print('WARNING: Neither principal nor other cave name',count)
+        
+    acavename = get_one_cave_name(item)
+    if len(acavename)==0:
+        print('WARNING: Neither principal nor other cave name nor cavd id',count)
 
 
     # Find records without reference
     try:
         ref = item.find('reference').text
         if ref is None:
-            print('WARNING: no reference for ',pcn)
+            print('WARNING: no reference for ',acavename)
     except:
         pass
         
                 
 print('')
-
 print('Number of records:', count)

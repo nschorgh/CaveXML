@@ -89,8 +89,32 @@ def parse_AltitudeEntry(alt):
 
 
 
+def parse_cave_id(caveid):
+
+    iso = ''
+    org = ''
+    id = ''
+    
+    if caveid is None:
+        return
+    
+    str = caveid.text
+    if str is not None:
+        iso = str.split('-')[0]  # 2-letter country ISO code
+        try:
+            org = str.split('-')[1]  # 3-letter organization code
+            re.compile("[A-Z]{3}", org)  # fails if it doesn't match
+            id  = str.split('-')[2]
+        except:  # no organization given
+            org = ''
+            id  = str.split('-')[1]
+
+    return iso, org, id
+
+
+
 def is_coord_approximate(latlon):
-    # Latitude or longitude are approximate if they both have no more than one digit
+    # Latitude or longitude are approximate if they have no more than one digit
     # after the decimal point. Returns Boolean.
     approx = False
     if latlon is not None: # Tag present (but could be empty)
@@ -103,3 +127,38 @@ def is_coord_approximate(latlon):
                 pass
 
     return approx
+
+
+
+def get_one_cave_name(item):
+    # Get a cave name for a record by searching, in the following order
+    # 1. principal-cave-name
+    # 2. cave-id(s)
+    # 3. other-cave-name(s)
+
+    pcn = item.findall('principal-cave-name')
+    if len(pcn)>0: # tag present
+        pcn = pcn[0].text
+        if pcn is not None: # not empty
+            str = pcn.strip() # strips leading and trailing whitespace
+            if len(str)>0:
+                return str
+
+    cid = item.findall('cave-id')
+    for i in range(0,len(cid)):
+        str = cid[i].text
+        if str is not None: 
+            str = str.strip()
+            if len(str)>0:
+                return str
+                
+    ocn = item.findall('other-cave-name')
+    for i in range(0,len(ocn)):
+        str = ocn[i].text
+        if str is not None:
+            str = str.strip()
+            if len(str)>0:
+                return str
+
+    return ''  # if no name found, return empty string
+

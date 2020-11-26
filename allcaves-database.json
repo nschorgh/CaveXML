@@ -4319,8 +4319,8 @@
       "country-name": "Japan",
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
-      "principal-cave-name": "Fuji Ice Cave (Fuji Fuketsu)",
-      "other-cave-name": [],
+      "principal-cave-name": "Fuji Ice Cave",
+      "other-cave-name": "Fuji Fuketsu",
       "latitude": [],
       "longitude": [],
       "altitude": "1120 coarse",
@@ -4329,7 +4329,10 @@
       "cave-type": "lava tunnel",
       "contents": "permanent ice",
       "comments": "generated during eruption in 864AD, 1100m2 of perennial floor ice, up to 4m thick",
-      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
+      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
+      "reference": "Ohata et al. (1994) doi:10.1080/00040851.1994.12003062",
+      "reference": "Ohata et al. (1994) doi:10.1080/00040851.1994.12003063",
+      "curation": "presumably one of the seven Fuji Fuketsu caves"
     },
 
     {
@@ -8013,11 +8016,13 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji; Futagoyama lave flow",
       "principal-cave-name": "Banba Ana Cave",
+      "altitude": 675,
       "length": 621,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=39"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=39",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -12915,83 +12920,98 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Fugaku Fuketsu Cave",
+      "other-cave-name": "Fugaku Wind Cave",
       "length": 259,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=43"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=43",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Fuji Fuketsu No. 1",
-      "altitude": 750,
-      "length": 511,
+      "altitude": 1110,
+      "length": 582,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=44"
+      "comments": "2800 BP",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=44",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Fuji Fuketsu No. 2",
-      "altitude": 750,
+      "altitude": 1110,
       "length": 57,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=45"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=45",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Fuji Fuketsu No. 3",
+      "altitude": 1110,
       "length": 52,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=46"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=46",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Fuji Fuketsu No. 4",
-      "length": 1180,
+      "altitude": 1110,
+      "length": 118,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=47"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=47",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Fuji Fuketsu No. 5",
+      "altitude": 1110,
       "length": 143,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=48"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=48",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Fuji Fuketsu No. 6",
+      "altitude": 1110,
       "length": 60,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=49"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=49",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Fuji Fuketsu No. 7",
+      "altitude": 1105,
       "length": 130,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=50"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=50",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -13437,9 +13457,11 @@
       "state-or-province": "Shizuoka",
       "phys-area-name": "Hachijo Island",
       "principal-cave-name": "Gokuraku Ana Cave",
+      "altitude": 10,
       "length": 200,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1532"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1532",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -14048,9 +14070,11 @@
       "state-or-province": "Shizuoka",
       "phys-area-name": "Hachijo Island",
       "principal-cave-name": "Hachijo Fuketsu No. 1",
+      "altitude": 136,
       "length": 1404,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1534"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1534",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -14058,9 +14082,11 @@
       "state-or-province": "Shizuoka",
       "phys-area-name": "Hachijo Island",
       "principal-cave-name": "Hachijo Fuketsu No. 2",
+      "altitude": 136,
       "length": 100,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1533"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1533",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -17769,11 +17795,13 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Megane Ana Cave",
+      "altitude": 1210,
       "length": 155,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=82"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=82",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -17964,11 +17992,13 @@
     {
       "country-name": "Japan",
       "state-or-province": "Shizuoka",
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Mitsuike Ana",
+      "altitude": 815,
       "length": 2202,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1538"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1538",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -18145,51 +18175,62 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Motosu Fuketsu No. 1 Cave",
+      "altitude": 1140,
       "length": 494,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=89"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=89",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Motosu Fuketsu No. 2 Cave",
+      "altitude": 1155,
       "length": 236,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=85"
+      "contents": "permanent ice",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=85",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Motosu Fuketsu No. 3 Cave",
+      "altitude": 1135,
       "length": 61,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=86"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=86",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Motosu Fuketsu No. 4 Cave",
+      "altitude": 1125,
       "length": 32,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=87"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=87",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Motosu Fuketsu No. 5 Cave",
+      "altitude": 1140,
       "length": 49,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=88"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=88",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -18458,51 +18499,57 @@
       "other-cave-name": "Narusawa Ice Cave",
       "latitude": 35.474722,
       "longitude": 138.666389,
+      "altitude": 1025,
       "length": 156,
       "cave-type": "lava tunnel",
-      "comments": "was used as natural refrigerator, but is not below freezing",
+      "contents": "permanent ice",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=92",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf",
       "cave-use": "guided tourist cave"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Narusawa Komori Ana No. 1",
       "length": 69,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=94"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=94",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Narusawa Komori Ana No. 2",
       "length": 70,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=95"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=95",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Narusawa Komori Ana No. 3",
       "length": 40,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=96"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=96",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Narusawa Komori Ana No. 4",
       "length": 48,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=93"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=93",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -18662,12 +18709,14 @@
 
     {
       "country-name": "Japan",
-      "state-or-province": "Nagasaki",
+      "state-or-province": "Nagasaki; Fukue Island",
       "phys-area-name": [],
       "principal-cave-name": "No-ana",
+      "altitude": 23,
       "length": 413,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1166"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1166",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -18685,20 +18734,24 @@
       "country-name": "Japan",
       "state-or-province": "Shizuoka",
       "phys-area-name": "Hachijo Island",
-      "principal-cave-name": "No. 20 Boku Fuketsu Cave",
+      "principal-cave-name": "No. 20 Bokku Fuketsu Cave",
+      "altitude": 513,
       "length": 35,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1535"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1535",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": "Shizuoka",
       "phys-area-name": "Hachijo Island",
-      "principal-cave-name": "No. 21 Boku Fuketsu Cave",
+      "principal-cave-name": "No. 21 Bokku Fuketsu Cave",
+      "altitude": 528,
       "length": 45,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1536"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1536",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -21033,7 +21086,8 @@
       "altitude": 15,
       "length": 80,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1530"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1530",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -21159,11 +21213,13 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Saiko Kamari Cave",
+      "altitude": 925,
       "length": 386,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=109"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=109",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -21189,11 +21245,13 @@
     {
       "country-name": "Japan",
       "state-or-province": "Nagasaki",
-      "phys-area-name": [],
+      "phys-area-name": "Fukue Island",
       "principal-cave-name": "Sakishirazu-no-i-ana",
+      "altitude": 17,
       "length": 397,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1168"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1168",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -21598,9 +21656,11 @@
       "state-or-province": "Shizuoka",
       "phys-area-name": "Hachijo Island",
       "principal-cave-name": "Shin Gokuraku Ana Cave",
+      "altitude": 20,
       "length": 676,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1537"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1537",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -22523,11 +22583,13 @@
       "country-name": "Japan",
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
-      "principal-cave-name": "Subashini Tainai Cave",
-      "length": 20,
+      "principal-cave-name": "Subashiri Tainai Cave",
+      "altitude": 2630,
+      "length": "~20",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=123",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=174",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf",
       "cave-use": "shrine"
     },
 
@@ -22681,32 +22743,27 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
-      "principal-cave-name": "Susona Fuketsu No. 2 Cave",
+      "phys-area-name": "Mt. Fuji",
+      "principal-cave-name": "Susono Fuketsu No. 2 Cave",
+      "altitude": 125,
       "length": 121,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=124",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=178"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=178",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Susono Fuketsu Cave No. 1",
+      "altitude": 116,
       "length": 116,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=177"
-    },
-
-    {
-      "country-name": "Japan",
-      "state-or-province": [],
-      "phys-area-name": [],
-      "principal-cave-name": "Susuno Fuketsu No. 1 Cave",
-      "length": 116,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=125"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=177",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=125",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -23086,7 +23143,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
-      "principal-cave-name": "The One Dave  Missed",
+      "principal-cave-name": "The One Dave Missed",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1080"
@@ -24967,13 +25024,14 @@
       "country-name": "Japan",
       "state-or-province": "Shimane",
       "phys-area-name": "Daikon Island",
-      "principal-cave-name": "Yuki Do Cave",
-      "other-cave-name": "Yuki-do Cave",
+      "principal-cave-name": "Yuuki Do Cave",
+      "other-cave-name": "Yuki Do Cave",
       "other-cave-name": "Kaza-ana Cave",
       "altitude": 5,
       "length": 200,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1531"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1531",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -25011,27 +25069,31 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Zinza Fuketsu No. 1 Cave",
+      "altitude": 1245,
       "length": 443,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=129"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=129",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Zinza Fuketsu No. 2 Cave",
+      "altitude": 1240,
       "length": 51,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=130"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=130",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Zinza Fuketsu No. 3 Cave",
       "length": 170,
       "cave-type": "lava tunnel",
@@ -25041,61 +25103,73 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Zinza Fuketsu No. 4 Cave",
-      "length": 100,
+      "altitude": 1165,
+      "length": "~100",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=132"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=132",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Zinza Fuketsu No. 5 Cave",
+      "altitude": 1160,
       "length": 105,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=133"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=133",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Zinza Fuketsu No. 6 Cave",
+      "altitude": 1160,
       "length": 42,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=134"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=134",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Zinza Fuketsu No. 7 Cave",
-      "length": 80,
+      "altitude": 1150,
+      "length": "~80",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=135"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=135",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Zinza Fuketsu No. 8 Cave",
-      "length": 100,
+      "altitude": 1150,
+      "length": "~100",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=136"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=136",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Zinza Fuketsu No. 9 Cave",
+      "altitude": 1145,
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=137"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=137",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {

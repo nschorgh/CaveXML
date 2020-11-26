@@ -1054,7 +1054,7 @@
       "altitude": 2240,
       "length": 60,
       "vertical-extent": 60,
-      "contents": "permanent ice",
+      "contents": [],
       "comments": "pit ending with ice and snow plug",
       "reference": "Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X"
     },
@@ -1070,7 +1070,7 @@
       "altitude": 2153,
       "length": 27,
       "vertical-extent": 27,
-      "contents": "permanent ice",
+      "contents": [],
       "comments": "pit ending with ice and snow plug",
       "reference": "Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X"
     },
@@ -1086,7 +1086,7 @@
       "altitude": 2160,
       "length": 50,
       "vertical-extent": 50,
-      "contents": "permanent ice",
+      "contents": [],
       "comments": "pit ending with ice and snow plug",
       "reference": "Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X"
     },
@@ -1102,7 +1102,7 @@
       "altitude": 2107,
       "length": 59,
       "vertical-extent": 51,
-      "contents": "permanent ice",
+      "contents": [],
       "comments": "pit ending with snow plug",
       "reference": "Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X"
     },
@@ -1118,7 +1118,7 @@
       "altitude": 2107,
       "length": 48,
       "vertical-extent": 47,
-      "contents": "permanent ice",
+      "contents": [],
       "comments": "pit ending with snow plug",
       "reference": "Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X"
     },
@@ -1134,7 +1134,7 @@
       "altitude": 2071,
       "length": 64,
       "vertical-extent": 53,
-      "contents": "permanent ice",
+      "contents": [],
       "comments": "pit ending with snow plug",
       "reference": "Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X"
     },
@@ -1150,7 +1150,7 @@
       "altitude": 2164,
       "length": 194,
       "vertical-extent": 58,
-      "contents": "permanent ice",
+      "contents": [],
       "comments": "small cave with passage covered by small snow and ice deposit",
       "reference": "Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X"
     },
@@ -1166,7 +1166,7 @@
       "altitude": 2293,
       "length": 47,
       "vertical-extent": 41,
-      "contents": "permanent ice",
+      "contents": [],
       "comments": "small cave with passage covered by small snow deposit",
       "reference": "Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X"
     },
@@ -1182,7 +1182,7 @@
       "altitude": 2325,
       "length": 45,
       "vertical-extent": 15,
-      "contents": "permanent ice",
+      "contents": [],
       "comments": "small cave with passage covered by small snow deposit",
       "reference": "Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X"
     },
@@ -1198,7 +1198,7 @@
       "altitude": 2189,
       "length": 18,
       "vertical-extent": 14,
-      "contents": "permanent ice",
+      "contents": [],
       "comments": "small cave with passage covered by small snow deposit",
       "reference": "Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X"
     },
@@ -1243,7 +1243,7 @@
       "other-cave-name": [],
       "latitude": 41.6,
       "longitude": 20.6,
-      "altitude": "1900–2100",
+      "altitude": "1900-2100",
       "length": 89,
       "vertical-extent": 59,
       "comments": "small cave with passage covered by small snow deposit",
@@ -2104,7 +2104,8 @@
       "altitude": 1236,
       "length": [],
       "contents": "permanent ice",
-      "reference": "Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5"
+      "reference": "Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5",
+      "reference": "Kern et al. (2009) doi:10.1177/0959683609105296"
     },
 
     {
@@ -2138,6 +2139,7 @@
       "reference": "Holmlund et al. (2005) doi:j.0435-3676.2005.00252.x",
       "reference": "Perşoiu et al. (2011) doi:10.1029/2010JD014477",
       "reference": "Feurdean et al. (2011) doi:10.1016/j.revpalbo.2011.01.007",
+      "reference": "Itcus et al. (2018) doi:10.1038/s41598-018-34106-2",
       "cave-use": "guided tourist cave"
     },
 
@@ -2772,8 +2774,8 @@
     {
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "CS-8",
       "other-cave-name": [],
+      "cave-id": "ES-CS-8",
       "latitude": [],
       "longitude": [],
       "altitude": [],
@@ -2801,8 +2803,8 @@
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
       "phys-area-name": "Escuain",
-      "principal-cave-name": "C33",
       "other-cave-name": [],
+      "cave-id": "ES-C33",
       "latitude": [],
       "longitude": [],
       "altitude": 2360,
@@ -2816,7 +2818,7 @@
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "Avenc Sala Gelada",
-      "other-cave-name": "C40",
+      "cave-id": "ES-C40",
       "latitude": [],
       "longitude": [],
       "altitude": 2440,
@@ -2830,7 +2832,7 @@
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "Cova Fresca",
-      "other-cave-name": "B13",
+      "cave-id": "ES-B13",
       "latitude": [],
       "longitude": [],
       "altitude": 2320,
@@ -2843,8 +2845,8 @@
     {
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "B17",
       "other-cave-name": [],
+      "cave-id": "ES-B17",
       "latitude": [],
       "longitude": [],
       "altitude": 2140,
@@ -2871,8 +2873,9 @@
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
       "phys-area-name": "Añelarre",
-      "principal-cave-name": "AN 62 Sima del Hielo",
+      "principal-cave-name": "Sima del Hielo",
       "other-cave-name": [],
+      "cave-id": "ES-AN62",
       "latitude": [],
       "longitude": [],
       "altitude": 1988,
@@ -2927,8 +2930,9 @@
     {
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "LO7-17",
+      "principal-cave-name": [],
       "other-cave-name": [],
+      "cave-id": "ES-LO7-17",
       "latitude": [],
       "longitude": [],
       "altitude": 2076,
@@ -2941,8 +2945,9 @@
     {
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "LO7-3",
+      "principal-cave-name": [],
       "other-cave-name": [],
+      "cave-id": "ES-LO7-3",
       "latitude": [],
       "longitude": [],
       "altitude": 2071,
@@ -2955,8 +2960,9 @@
     {
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "AN118",
+      "principal-cave-name": [],
       "other-cave-name": [],
+      "cave-id": "ES-AN118",
       "latitude": [],
       "longitude": [],
       "altitude": 2077,
@@ -2969,8 +2975,9 @@
     {
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "AN230",
+      "principal-cave-name": [],
       "other-cave-name": [],
+      "cave-id": "ES-AN230",
       "latitude": [],
       "longitude": [],
       "altitude": 2087,
@@ -2983,8 +2990,9 @@
     {
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "C213",
+      "principal-cave-name": [],
       "other-cave-name": [],
+      "cave-id": "ES-C213",
       "latitude": [],
       "longitude": [],
       "altitude": [],
@@ -3027,8 +3035,9 @@
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
       "phys-area-name": "Tendeñera",
-      "principal-cave-name": "ST2 Cueva del Hielo",
+      "principal-cave-name": "Cueva del Hielo",
       "other-cave-name": [],
+      "cave-id": "ES-ST2",
       "latitude": [],
       "longitude": [],
       "altitude": 2200,
@@ -3056,8 +3065,9 @@
     {
       "country-name": "Spain",
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "T3 Fenez Ice Cave",
+      "principal-cave-name": "Fenez Ice Cave",
       "other-cave-name": [],
+      "cave-id": "ES-T3",
       "latitude": [],
       "longitude": [],
       "altitude": 2390,
@@ -3071,7 +3081,8 @@
       "country-name": "Spain",
       "state-or-province": [],
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "S-10",
+      "principal-cave-name": [],
+      "cave-id": "ES-S-10",
       "latitude": [],
       "longitude": [],
       "altitude": [],
@@ -3085,8 +3096,9 @@
       "country-name": "Spain",
       "state-or-province": [],
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "T1 Grajera de Turbón",
+      "principal-cave-name": "Grajera de Turbón",
       "other-cave-name": [],
+      "cave-id": "ES-T1",
       "latitude": [],
       "longitude": [],
       "altitude": 2208,
@@ -3100,7 +3112,8 @@
       "country-name": "Spain",
       "state-or-province": [],
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "A31",
+      "principal-cave-name": [],
+      "cave-id": "ES-A31",
       "latitude": [],
       "longitude": [],
       "altitude": 2473,
@@ -3116,21 +3129,25 @@
       "phys-area-name": "Pyrenees",
       "phys-area-name": "Cotiella",
       "principal-cave-name": "A294",
+      "cave-id": "ES-A294",
       "latitude": [],
       "longitude": [],
-      "altitude": 2260,
+      "altitude": 2238,
       "length": [],
       "vertical-extent": [],
       "contents": "permanent ice",
-      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+      "comments": "ice volume of 250 m^3, mainly composed of firn ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0",
+      "reference": "Belmonte et al. (2014) DOI:10.4461/GFDQ.2014.37.12"
     },
 
     {
       "country-name": "Spain",
       "state-or-province": [],
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "A69",
+      "principal-cave-name": [],
       "other-cave-name": [],
+      "cave-id": "ES-A69",
       "latitude": [],
       "longitude": [],
       "altitude": 2170,
@@ -3144,7 +3161,8 @@
       "country-name": "Spain",
       "state-or-province": [],
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "A152",
+      "principal-cave-name": [],
+      "cave-id": "ES-A152",
       "latitude": [],
       "longitude": [],
       "altitude": 2191,
@@ -3158,8 +3176,9 @@
       "country-name": "Spain",
       "state-or-province": [],
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "A405",
+      "principal-cave-name": [],
       "other-cave-name": [],
+      "cave-id": "ES-A405",
       "latitude": [],
       "longitude": [],
       "altitude": 2338,
@@ -3173,8 +3192,9 @@
       "country-name": "Spain",
       "state-or-province": [],
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "C27",
+      "principal-cave-name": [],
       "other-cave-name": [],
+      "cave-id": "ES-C27",
       "latitude": [],
       "longitude": [],
       "altitude": 2456,
@@ -3188,8 +3208,9 @@
       "country-name": "Spain",
       "state-or-province": [],
       "phys-area-name": "Pyrenees",
-      "principal-cave-name": "B94",
+      "principal-cave-name": [],
       "other-cave-name": [],
+      "cave-id": "ES-B94",
       "latitude": [],
       "longitude": [],
       "altitude": 2440,
@@ -3530,6 +3551,7 @@
       "comments": "UNESCO world heritage site",
       "reference": "Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2",
       "reference": "www.ssj.sk/en/jaskyna/6-dobsinska-ice-cave",
+      "reference": "Gradzinski et al. doi:10.14241/asgp.2016.016",
       "cave-use": "guided tourist cave"
     },
 
@@ -4306,7 +4328,7 @@
       "vertical-extent": "~30",
       "cave-type": "lava tunnel",
       "contents": "permanent ice",
-      "comments": "generated during eruption in 864AD, lava tube, 1100m2 of perennial floor ice, up to 4m thick",
+      "comments": "generated during eruption in 864AD, 1100m2 of perennial floor ice, up to 4m thick",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
     },
 
@@ -4762,7 +4784,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Utah",
-      "phys-area-name": "Central Rocky Mountains",
+      "phys-area-name": "Central Rocky Mountains; Uinta Mountains",
       "principal-cave-name": "Winter Wonderland Cave",
       "other-cave-name": [],
       "latitude": [],
@@ -5258,9 +5280,9 @@
       "altitude": 1900,
       "length": " >31000",
       "vertical-extent": 1780,
+      "number-of-entrances": 4,
       "rock-type": [],
       "contents": "permanent ice",
-      "comments": "4 entrances",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -7294,10 +7316,12 @@
       "country-name": "Portugal",
       "state-or-province": "Azores",
       "phys-area-name": "Ilha do Terceira",
-      "principal-cave-name": "Algar do Corvo",
-      "length": [],
+      "principal-cave-name": "Algar do Carvao",
+      "altitude": 585,
+      "length": 90,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=260"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=260",
+      "reference": "Riquelme et al. (2015) doi:10.1093/femsec/fiv141"
     },
 
     {
@@ -8861,9 +8885,22 @@
       "state-or-province": "Azores",
       "phys-area-name": "Ilha de Terceira",
       "principal-cave-name": "Branco Opala",
-      "length": [],
+      "altitude": 280,
+      "length": 99,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=233"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=233",
+      "reference": "Riquelme et al. (2015) doi:10.1093/femsec/fiv141"
+    },
+
+    {
+      "country-name": "Portugal",
+      "state-or-province": "Azores",
+      "phys-area-name": "Ilha de Terceira",
+      "principal-cave-name": "Gruta do Natal",
+      "altitude": 551,
+      "length": 697,
+      "cave-type": "lava tunnel",
+      "reference": "Riquelme et al. (2015) doi:10.1093/femsec/fiv141"
     },
 
     {
@@ -9565,10 +9602,11 @@
       "country-name": "Ecuador",
       "state-or-province": "Galapagos",
       "phys-area-name": "Isla Santiago",
-      "principal-cave-name": "Caverna de Bucanerol",
+      "principal-cave-name": "Caverna de Bucanero I",
       "length": 567,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=719"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=719",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -9578,7 +9616,8 @@
       "principal-cave-name": "Caverna de Bueanero II",
       "length": 141,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=729"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=729",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -9588,7 +9627,8 @@
       "principal-cave-name": "Caverna de Gallardo",
       "length": 2250,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=709"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=709",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -10403,7 +10443,8 @@
       "principal-cave-name": "Cueva de Andres",
       "length": 205,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=720"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=720",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -10551,7 +10592,8 @@
       "principal-cave-name": "Cueva de Elena",
       "length": 677,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=721"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=721",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -10621,7 +10663,8 @@
       "principal-cave-name": "Cueva de Huesos",
       "length": 750,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=722"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=722",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -10631,7 +10674,8 @@
       "principal-cave-name": "Cueva de Kubler",
       "length": 852,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=715"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=715",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -10661,7 +10705,8 @@
       "principal-cave-name": "Cueva de la Cadena",
       "length": 114,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=716"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=716",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -10707,11 +10752,13 @@
     {
       "country-name": "Ecuador",
       "state-or-province": "Galapagos",
-      "phys-area-name": "Galapagos Islands",
+      "phys-area-name": "Santa Cruz Island",
       "principal-cave-name": "Cueva de la Finca Kastdalen",
+      "other-cave-name": "Cueva de Tres Pisos",
       "length": 2000,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=730"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=730",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -10739,9 +10786,12 @@
       "state-or-province": "Galapagos",
       "phys-area-name": "Floreana Island",
       "principal-cave-name": "Cueva de la Lechuza",
+      "other-cave-name": "Barn Owl Cave",
       "length": 60,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=706"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=706",
+      "reference": "Steadman, D. W. (1986) \"Holocene vertebrate fossils from Isla Floreana, Galápagos.\" Smithsonian contributions to zoology Nr 413",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -10751,7 +10801,8 @@
       "principal-cave-name": "Cueva de la Miconia",
       "length": 276,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=725"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=725",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -10968,7 +11019,8 @@
       "principal-cave-name": "Cueva de Macas",
       "length": 92,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=717"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=717",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -11095,10 +11147,11 @@
       "country-name": "Ecuador",
       "state-or-province": "Galapagos",
       "phys-area-name": "Isla Isabela",
-      "principal-cave-name": "Cueva de Suere",
+      "principal-cave-name": "Cueva de Sucre",
       "length": 355,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=718"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=718",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -11178,7 +11231,8 @@
       "principal-cave-name": "Cueva del Cascajo",
       "length": 3010,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1106"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1106",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -11204,11 +11258,12 @@
     {
       "country-name": "Ecuador",
       "state-or-province": "Galapagos",
-      "phys-area-name": "Floreana Island",
+      "phys-area-name": "Santiago Island",
       "principal-cave-name": "Cueva del Crater de Sal",
-      "length": 350,
+      "length": "~350",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=707"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=707",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -11283,7 +11338,7 @@
 
     {
       "country-name": "Mexico",
-      "state-or-province": "San Luis Potos",
+      "state-or-province": "San Luis Potos",
       "phys-area-name": [],
       "principal-cave-name": "Cueva del Novillo",
       "length": 136,
@@ -11296,9 +11351,12 @@
       "state-or-province": "Galapagos",
       "phys-area-name": "Floreana Island",
       "principal-cave-name": "Cueva del Pinzon",
+      "other-cave-name": "Finch Cave",
       "length": 110,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=708"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=708",
+      "reference": "Steadman, D. W. (1986) \"Holocene vertebrate fossils from Isla Floreana, Galápagos.\" Smithsonian contributions to zoology Nr 413",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -11367,6 +11425,7 @@
       "state-or-province": "Santa Cruz de Tenerife",
       "phys-area-name": "Tenerife",
       "principal-cave-name": "Cueva del Viento",
+      "other-cave-name": "El Viento cave",
       "latitude": 28.35209,
       "longitude": -16.70405,
       "altitude": 625,
@@ -11374,6 +11433,7 @@
       "vertical-extent": 478,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517",
+      "reference": "Pinza-Molina et al. (1999) doi:10.1093/oxfordjournals.rpd.a032628",
       "cave-use": "guided tourist cave"
     },
 
@@ -13555,7 +13615,8 @@
       "principal-cave-name": "Grieta de Lentenech",
       "length": 28,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=714"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=714",
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
     },
 
     {
@@ -13775,10 +13836,12 @@
       "state-or-province": "Azores",
       "phys-area-name": "Ilha do Pico",
       "principal-cave-name": "Gruta das Torres",
+      "altitude": 300,
       "length": 5439,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=259"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=259",
+      "reference": "Riquelme et al. (2015) doi:10.1093/femsec/fiv141"
     },
 
     {
@@ -13795,10 +13858,12 @@
       "country-name": "Portugal",
       "state-or-province": "Azores",
       "phys-area-name": [],
-      "principal-cave-name": "Gruta dos Balcones",
-      "length": 2713,
+      "principal-cave-name": "Gruta dos Balcoes",
+      "altitude": 422,
+      "length": 4421,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=261"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=261",
+      "reference": "Riquelme et al. (2015) doi:10.1093/femsec/fiv141"
     },
 
     {
@@ -13816,9 +13881,11 @@
       "state-or-province": "Azores",
       "phys-area-name": "Ilha de Pico (Pico Island)",
       "principal-cave-name": "Gruta dos Montanheiros",
-      "length": [],
+      "altitude": 785,
+      "length": 1805,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=229"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=229",
+      "reference": "Riquelme et al. (2015) doi:10.1093/femsec/fiv141"
     },
 
     {
@@ -14698,7 +14765,7 @@
       "phys-area-name": "Blue Ridge Mountain",
       "principal-cave-name": "Ice Cave",
       "other-cave-name": "Blue Ridge Cave",
-      "altitude": 6960,
+      "altitude": [],
       "length": [],
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -14747,7 +14814,7 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "contents": "permanent ice",
-      "comments": "lava tube, cold air trap",
+      "comments": "cold air trap",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1734",
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0"
     },
@@ -24006,10 +24073,22 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Maui",
-      "principal-cave-name": "Upper Kipahulu Valley",
+      "phys-area-name": "Upper Kipahulu Valley",
+      "principal-cave-name": "Lua Mano",
       "length": [],
       "cave-type": "lava tunnel",
-      "comments": "two caves: Lua Manu and Puka Moa",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=953",
+      "reference": "Olson and James (1991) DOI:10.2307/40166794"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Maui",
+      "phys-area-name": "Upper Kipahulu Valley",
+      "principal-cave-name": "Puka Moa",
+      "length": [],
+      "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=953",
       "reference": "Olson and James (1991) DOI:10.2307/40166794"
     },
@@ -25068,6 +25147,196 @@
     },
 
     {
+      "country-name": "Viet Nam",
+      "state-or-province": "Dak Sor",
+      "principal-cave-name": "C0",
+      "length": 476,
+      "vertical-extent": 15,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Dak Sor",
+      "principal-cave-name": "C1, C2",
+      "length": 402,
+      "vertical-extent": 4,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Dak Sor",
+      "principal-cave-name": "C3",
+      "length": 716,
+      "vertical-extent": 7,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Dak Sor",
+      "principal-cave-name": "C4",
+      "length": 252,
+      "vertical-extent": 9,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Dak Sor",
+      "principal-cave-name": "C6",
+      "length": 180,
+      "vertical-extent": 4,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Nam Da",
+      "principal-cave-name": "C6.1",
+      "length": 294,
+      "vertical-extent": 5,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Nam Da",
+      "principal-cave-name": "C7",
+      "length": 1067,
+      "vertical-extent": "~15",
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Buon Choa'h",
+      "principal-cave-name": "C8",
+      "length": 791,
+      "vertical-extent": 24,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Buon Choa'h",
+      "principal-cave-name": "C9",
+      "length": 217,
+      "vertical-extent": 23,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Buon Choa'h",
+      "principal-cave-name": "P1, P2",
+      "length": 531,
+      "vertical-extent": "~15",
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Nam Da",
+      "principal-cave-name": "P8",
+      "length": 344,
+      "vertical-extent": 26,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Buon Choa'h",
+      "principal-cave-name": "P11",
+      "length": 498,
+      "vertical-extent": "~8",
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Nam Da",
+      "principal-cave-name": "P20",
+      "length": 568,
+      "vertical-extent": 25,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Buon Choa'h",
+      "principal-cave-name": "A1",
+      "length": 439,
+      "vertical-extent": 10,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Buon Choa'h",
+      "principal-cave-name": "P3",
+      "length": 81,
+      "vertical-extent": 5,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Buon Choa'h",
+      "principal-cave-name": "P5 (PT07)",
+      "length": 204,
+      "vertical-extent": 4,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Nam Da",
+      "principal-cave-name": "P10E, P10W",
+      "length": 160,
+      "vertical-extent": 5,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Dak Dro",
+      "principal-cave-name": "PT06",
+      "length": 200,
+      "vertical-extent": 5,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
+      "country-name": "Viet Nam",
+      "state-or-province": "Buon Choa'h",
+      "principal-cave-name": "T1W",
+      "length": 303,
+      "vertical-extent": 16,
+      "cave-type": "lava tunnel",
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+    },
+
+    {
       "country-name": "Austria",
       "state-or-province": "Salzburg",
       "phys-area-name": "Untersberg",
@@ -25323,6 +25592,18 @@
       "length": 102000,
       "vertical-extent": [],
       "reference": "https://en.wikipedia.org/wiki/Toca_da_Boa_Vista"
+    },
+
+    {
+      "country-name": "Belize",
+      "phys-area-name": "Caye Caulker Island",
+      "principal-cave-name": "Caye Chapel Marine Cave",
+      "other-cave-name": "Winter Wonderland Cave",
+      "length": [],
+      "vertical-extent": [],
+      "contents": "perennially submerged",
+      "cave-system": "Caye Caulker Cave system",
+      "reference": []
     },
 
     {

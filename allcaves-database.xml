@@ -992,7 +992,7 @@
       <altitude>2240</altitude>
       <length>60</length>
       <vertical-extent>60</vertical-extent>
-      <contents>permanent ice</contents>
+      <contents></contents>
       <comments>pit ending with ice and snow plug</comments>
       <reference>Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X</reference>
    </record>
@@ -1007,7 +1007,7 @@
       <altitude>2153</altitude>
       <length>27</length>
       <vertical-extent>27</vertical-extent>
-      <contents>permanent ice</contents>
+      <contents></contents>
       <comments>pit ending with ice and snow plug</comments>
       <reference>Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X</reference>
    </record>
@@ -1022,7 +1022,7 @@
       <altitude>2160</altitude>
       <length>50</length>
       <vertical-extent>50</vertical-extent>
-      <contents>permanent ice</contents>
+      <contents></contents>
       <comments>pit ending with ice and snow plug</comments>
       <reference>Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X</reference>
    </record>
@@ -1037,7 +1037,7 @@
       <altitude>2107</altitude>
       <length>59</length>
       <vertical-extent>51</vertical-extent>
-      <contents>permanent ice</contents>
+      <contents></contents>
       <comments>pit ending with snow plug</comments>
       <reference>Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X</reference>
    </record>
@@ -1052,7 +1052,7 @@
       <altitude>2107</altitude>
       <length>48</length>
       <vertical-extent>47</vertical-extent>
-      <contents>permanent ice</contents>
+      <contents></contents>
       <comments>pit ending with snow plug</comments>
       <reference>Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X</reference>
    </record>
@@ -1067,7 +1067,7 @@
       <altitude>2071</altitude>
       <length>64</length>
       <vertical-extent>53</vertical-extent>
-      <contents>permanent ice</contents>
+      <contents></contents>
       <comments>pit ending with snow plug</comments>
       <reference>Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X</reference>
    </record>
@@ -1082,7 +1082,7 @@
       <altitude>2164</altitude>
       <length>194</length>
       <vertical-extent>58</vertical-extent>
-      <contents>permanent ice</contents>
+      <contents></contents>
       <comments>small cave with passage covered by small snow and ice deposit</comments>
       <reference>Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X</reference>
    </record>
@@ -1097,7 +1097,7 @@
       <altitude>2293</altitude>
       <length>47</length>
       <vertical-extent>41</vertical-extent>
-      <contents>permanent ice</contents>
+      <contents></contents>
       <comments>small cave with passage covered by small snow deposit</comments>
       <reference>Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X</reference>
    </record>
@@ -1112,7 +1112,7 @@
       <altitude>2325</altitude>
       <length>45</length>
       <vertical-extent>15</vertical-extent>
-      <contents>permanent ice</contents>
+      <contents></contents>
       <comments>small cave with passage covered by small snow deposit</comments>
       <reference>Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X</reference>
    </record>
@@ -1127,7 +1127,7 @@
       <altitude>2189</altitude>
       <length>18</length>
       <vertical-extent>14</vertical-extent>
-      <contents>permanent ice</contents>
+      <contents></contents>
       <comments>small cave with passage covered by small snow deposit</comments>
       <reference>Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X</reference>
    </record>
@@ -1169,7 +1169,7 @@
       <other-cave-name/>
       <latitude>41.6</latitude>
       <longitude>20.6</longitude>
-      <altitude>1900–2100</altitude>
+      <altitude>1900-2100</altitude>
       <length>89</length>
       <vertical-extent>59</vertical-extent>
       <comments>small cave with passage covered by small snow deposit</comments>
@@ -1977,6 +1977,7 @@
       <length/>
       <contents>permanent ice</contents>
       <reference>Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5</reference>
+      <reference>Kern et al. (2009) doi:10.1177/0959683609105296</reference>
    </record>
    <record>
       <country-name>Romania</country-name>
@@ -2008,6 +2009,7 @@
       <reference>Holmlund et al. (2005) doi:j.0435-3676.2005.00252.x</reference>
       <reference>Perşoiu et al. (2011) doi:10.1029/2010JD014477</reference>
       <reference>Feurdean et al. (2011) doi:10.1016/j.revpalbo.2011.01.007</reference>
+      <reference>Itcus et al. (2018) doi:10.1038/s41598-018-34106-2</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -2600,8 +2602,8 @@
    <record>
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>CS-8</principal-cave-name>
       <other-cave-name/>
+      <cave-id>ES-CS-8</cave-id>
       <latitude/>
       <longitude/>
       <altitude/>
@@ -2627,8 +2629,8 @@
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
       <phys-area-name>Escuain</phys-area-name>
-      <principal-cave-name>C33</principal-cave-name>
       <other-cave-name/>
+      <cave-id>ES-C33</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2360</altitude>
@@ -2641,7 +2643,7 @@
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name>Avenc Sala Gelada</principal-cave-name>
-      <other-cave-name>C40</other-cave-name>
+      <cave-id>ES-C40</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2440</altitude>
@@ -2654,7 +2656,7 @@
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name>Cova Fresca</principal-cave-name>
-      <other-cave-name>B13</other-cave-name>
+      <cave-id>ES-B13</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2320</altitude>
@@ -2666,8 +2668,8 @@
    <record>
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>B17</principal-cave-name>
       <other-cave-name/>
+      <cave-id>ES-B17</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2140</altitude>
@@ -2692,8 +2694,9 @@
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
       <phys-area-name>Añelarre</phys-area-name>
-      <principal-cave-name>AN 62 Sima del Hielo</principal-cave-name>
+      <principal-cave-name>Sima del Hielo</principal-cave-name>
       <other-cave-name/>
+      <cave-id>ES-AN62</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1988</altitude>
@@ -2744,8 +2747,9 @@
    <record>
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>LO7-17</principal-cave-name>
+      <principal-cave-name/>
       <other-cave-name/>
+      <cave-id>ES-LO7-17</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2076</altitude>
@@ -2757,8 +2761,9 @@
    <record>
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>LO7-3</principal-cave-name>
+      <principal-cave-name/>
       <other-cave-name/>
+      <cave-id>ES-LO7-3</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2071</altitude>
@@ -2770,8 +2775,9 @@
    <record>
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>AN118</principal-cave-name>
+      <principal-cave-name/>
       <other-cave-name/>
+      <cave-id>ES-AN118</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2077</altitude>
@@ -2783,8 +2789,9 @@
    <record>
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>AN230</principal-cave-name>
+      <principal-cave-name/>
       <other-cave-name/>
+      <cave-id>ES-AN230</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2087</altitude>
@@ -2796,8 +2803,9 @@
    <record>
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>C213</principal-cave-name>
+      <principal-cave-name/>
       <other-cave-name/>
+      <cave-id>ES-C213</cave-id>
       <latitude/>
       <longitude/>
       <altitude/>
@@ -2837,8 +2845,9 @@
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
       <phys-area-name>Tendeñera</phys-area-name>
-      <principal-cave-name>ST2 Cueva del Hielo</principal-cave-name>
+      <principal-cave-name>Cueva del Hielo</principal-cave-name>
       <other-cave-name/>
+      <cave-id>ES-ST2</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2200</altitude>
@@ -2864,8 +2873,9 @@
    <record>
       <country-name>Spain</country-name>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>T3 Fenez Ice Cave</principal-cave-name>
+      <principal-cave-name>Fenez Ice Cave</principal-cave-name>
       <other-cave-name/>
+      <cave-id>ES-T3</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2390</altitude>
@@ -2878,7 +2888,8 @@
       <country-name>Spain</country-name>
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>S-10</principal-cave-name>
+      <principal-cave-name/>
+      <cave-id>ES-S-10</cave-id>
       <latitude/>
       <longitude/>
       <altitude/>
@@ -2891,8 +2902,9 @@
       <country-name>Spain</country-name>
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>T1 Grajera de Turbón</principal-cave-name>
+      <principal-cave-name>Grajera de Turbón</principal-cave-name>
       <other-cave-name/>
+      <cave-id>ES-T1</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2208</altitude>
@@ -2905,7 +2917,8 @@
       <country-name>Spain</country-name>
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>A31</principal-cave-name>
+      <principal-cave-name/>
+      <cave-id>ES-A31</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2473</altitude>
@@ -2920,20 +2933,24 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <phys-area-name>Cotiella</phys-area-name>
       <principal-cave-name>A294</principal-cave-name>
+      <cave-id>ES-A294</cave-id>
       <latitude/>
       <longitude/>
-      <altitude>2260</altitude>
+      <altitude>2238</altitude>
       <length/>
       <vertical-extent/>
       <contents>permanent ice</contents>
+      <comments>ice volume of 250 m^3, mainly composed of firn ice</comments>
       <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
+      <reference>Belmonte et al. (2014) DOI:10.4461/GFDQ.2014.37.12</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>A69</principal-cave-name>
+      <principal-cave-name/>
       <other-cave-name/>
+      <cave-id>ES-A69</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2170</altitude>
@@ -2946,7 +2963,8 @@
       <country-name>Spain</country-name>
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>A152</principal-cave-name>
+      <principal-cave-name/>
+      <cave-id>ES-A152</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2191</altitude>
@@ -2959,8 +2977,9 @@
       <country-name>Spain</country-name>
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>A405</principal-cave-name>
+      <principal-cave-name/>
       <other-cave-name/>
+      <cave-id>ES-A405</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2338</altitude>
@@ -2973,8 +2992,9 @@
       <country-name>Spain</country-name>
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>C27</principal-cave-name>
+      <principal-cave-name/>
       <other-cave-name/>
+      <cave-id>ES-C27</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2456</altitude>
@@ -2987,8 +3007,9 @@
       <country-name>Spain</country-name>
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>B94</principal-cave-name>
+      <principal-cave-name/>
       <other-cave-name/>
+      <cave-id>ES-B94</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2440</altitude>
@@ -3307,6 +3328,7 @@
       <comments>UNESCO world heritage site</comments>
       <reference>Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2</reference>
       <reference>www.ssj.sk/en/jaskyna/6-dobsinska-ice-cave</reference>
+      <reference>Gradzinski et al. doi:10.14241/asgp.2016.016</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -4034,7 +4056,7 @@
       <vertical-extent>~30</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
-      <comments>generated during eruption in 864AD, lava tube, 1100m2 of perennial floor ice, up to 4m thick</comments>
+      <comments>generated during eruption in 864AD, 1100m2 of perennial floor ice, up to 4m thick</comments>
       <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
    </record>
    <record>
@@ -4456,7 +4478,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Utah</state-or-province>
-      <phys-area-name>Central Rocky Mountains</phys-area-name>
+      <phys-area-name>Central Rocky Mountains; Uinta Mountains</phys-area-name>
       <principal-cave-name>Winter Wonderland Cave</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -4921,9 +4943,9 @@
       <altitude>1900</altitude>
       <length> >31000</length>
       <vertical-extent>1780</vertical-extent>
+      <number-of-entrances>4</number-of-entrances>
       <rock-type/>
       <contents>permanent ice</contents>
-      <comments>4 entrances</comments>
       <reference>Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7</reference>
    </record>
    <record>
@@ -6819,10 +6841,12 @@
       <country-name>Portugal</country-name>
       <state-or-province>Azores</state-or-province>
       <phys-area-name>Ilha do Terceira</phys-area-name>
-      <principal-cave-name>Algar do Corvo</principal-cave-name>
-      <length/>
+      <principal-cave-name>Algar do Carvao</principal-cave-name>
+      <altitude>585</altitude>
+      <length>90</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=260</reference>
+      <reference>Riquelme et al. (2015) doi:10.1093/femsec/fiv141</reference>
    </record>
    <record>
       <country-name>Portugal</country-name>
@@ -8238,9 +8262,21 @@
       <state-or-province>Azores</state-or-province>
       <phys-area-name>Ilha de Terceira</phys-area-name>
       <principal-cave-name>Branco Opala</principal-cave-name>
-      <length/>
+      <altitude>280</altitude>
+      <length>99</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=233</reference>
+      <reference>Riquelme et al. (2015) doi:10.1093/femsec/fiv141</reference>
+   </record>
+   <record>
+      <country-name>Portugal</country-name>
+      <state-or-province>Azores</state-or-province>
+      <phys-area-name>Ilha de Terceira</phys-area-name>
+      <principal-cave-name>Gruta do Natal</principal-cave-name>
+      <altitude>551</altitude>
+      <length>697</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Riquelme et al. (2015) doi:10.1093/femsec/fiv141</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -8875,10 +8911,11 @@
       <country-name>Ecuador</country-name>
       <state-or-province>Galapagos</state-or-province>
       <phys-area-name>Isla Santiago</phys-area-name>
-      <principal-cave-name>Caverna de Bucanerol</principal-cave-name>
+      <principal-cave-name>Caverna de Bucanero I</principal-cave-name>
       <length>567</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=719</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -8888,6 +8925,7 @@
       <length>141</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=729</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -8897,6 +8935,7 @@
       <length>2250</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=709</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Argentina</country-name>
@@ -9634,6 +9673,7 @@
       <length>205</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=720</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -9768,6 +9808,7 @@
       <length>677</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=721</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -9831,6 +9872,7 @@
       <length>750</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=722</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -9840,6 +9882,7 @@
       <length>852</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=715</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -9867,6 +9910,7 @@
       <length>114</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=716</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -9907,11 +9951,13 @@
    <record>
       <country-name>Ecuador</country-name>
       <state-or-province>Galapagos</state-or-province>
-      <phys-area-name>Galapagos Islands</phys-area-name>
+      <phys-area-name>Santa Cruz Island</phys-area-name>
       <principal-cave-name>Cueva de la Finca Kastdalen</principal-cave-name>
+      <other-cave-name>Cueva de Tres Pisos</other-cave-name>
       <length>2000</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=730</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -9936,9 +9982,12 @@
       <state-or-province>Galapagos</state-or-province>
       <phys-area-name>Floreana Island</phys-area-name>
       <principal-cave-name>Cueva de la Lechuza</principal-cave-name>
+      <other-cave-name>Barn Owl Cave</other-cave-name>
       <length>60</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=706</reference>
+      <reference>Steadman, D. W. (1986) "Holocene vertebrate fossils from Isla Floreana, Galápagos." Smithsonian contributions to zoology Nr 413</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -9948,6 +9997,7 @@
       <length>276</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=725</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -10144,6 +10194,7 @@
       <length>92</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=717</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -10257,10 +10308,11 @@
       <country-name>Ecuador</country-name>
       <state-or-province>Galapagos</state-or-province>
       <phys-area-name>Isla Isabela</phys-area-name>
-      <principal-cave-name>Cueva de Suere</principal-cave-name>
+      <principal-cave-name>Cueva de Sucre</principal-cave-name>
       <length>355</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=718</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -10333,6 +10385,7 @@
       <length>3010</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1106</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -10355,11 +10408,12 @@
    <record>
       <country-name>Ecuador</country-name>
       <state-or-province>Galapagos</state-or-province>
-      <phys-area-name>Floreana Island</phys-area-name>
+      <phys-area-name>Santiago Island</phys-area-name>
       <principal-cave-name>Cueva del Crater de Sal</principal-cave-name>
-      <length>350</length>
+      <length>~350</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=707</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -10426,7 +10480,7 @@
    </record>
    <record>
       <country-name>Mexico</country-name>
-      <state-or-province>San Luis Potos</state-or-province>
+      <state-or-province>San Luis Potos</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Cueva del Novillo</principal-cave-name>
       <length>136</length>
@@ -10438,9 +10492,12 @@
       <state-or-province>Galapagos</state-or-province>
       <phys-area-name>Floreana Island</phys-area-name>
       <principal-cave-name>Cueva del Pinzon</principal-cave-name>
+      <other-cave-name>Finch Cave</other-cave-name>
       <length>110</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=708</reference>
+      <reference>Steadman, D. W. (1986) "Holocene vertebrate fossils from Isla Floreana, Galápagos." Smithsonian contributions to zoology Nr 413</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -10502,6 +10559,7 @@
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva del Viento</principal-cave-name>
+      <other-cave-name>El Viento cave</other-cave-name>
       <latitude>28.35209</latitude>
       <longitude>-16.70405</longitude>
       <altitude>625</altitude>
@@ -10509,6 +10567,7 @@
       <vertical-extent>478</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517</reference>
+      <reference>Pinza-Molina et al. (1999) doi:10.1093/oxfordjournals.rpd.a032628</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -12481,6 +12540,7 @@
       <length>28</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=714</reference>
+      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -12680,10 +12740,12 @@
       <state-or-province>Azores</state-or-province>
       <phys-area-name>Ilha do Pico</phys-area-name>
       <principal-cave-name>Gruta das Torres</principal-cave-name>
+      <altitude>300</altitude>
       <length>5439</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=259</reference>
+      <reference>Riquelme et al. (2015) doi:10.1093/femsec/fiv141</reference>
    </record>
    <record>
       <country-name>Portugal</country-name>
@@ -12698,10 +12760,12 @@
       <country-name>Portugal</country-name>
       <state-or-province>Azores</state-or-province>
       <phys-area-name/>
-      <principal-cave-name>Gruta dos Balcones</principal-cave-name>
-      <length>2713</length>
+      <principal-cave-name>Gruta dos Balcoes</principal-cave-name>
+      <altitude>422</altitude>
+      <length>4421</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=261</reference>
+      <reference>Riquelme et al. (2015) doi:10.1093/femsec/fiv141</reference>
    </record>
    <record>
       <country-name>Portugal</country-name>
@@ -12717,9 +12781,11 @@
       <state-or-province>Azores</state-or-province>
       <phys-area-name>Ilha de Pico (Pico Island)</phys-area-name>
       <principal-cave-name>Gruta dos Montanheiros</principal-cave-name>
-      <length/>
+      <altitude>785</altitude>
+      <length>1805</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=229</reference>
+      <reference>Riquelme et al. (2015) doi:10.1093/femsec/fiv141</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -13516,7 +13582,7 @@
       <phys-area-name>Blue Ridge Mountain</phys-area-name>
       <principal-cave-name>Ice Cave</principal-cave-name>
       <other-cave-name>Blue Ridge Cave</other-cave-name>
-      <altitude>6960</altitude>
+      <altitude/>
       <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -13561,7 +13627,7 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
-      <comments>lava tube, cold air trap</comments>
+      <comments>cold air trap</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1734</reference>
       <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
    </record>
@@ -21941,10 +22007,21 @@
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Maui</phys-area-name>
-      <principal-cave-name>Upper Kipahulu Valley</principal-cave-name>
+      <phys-area-name>Upper Kipahulu Valley</phys-area-name>
+      <principal-cave-name>Lua Mano</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
-      <comments>two caves: Lua Manu and Puka Moa</comments>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=953</reference>
+      <reference>Olson and James (1991) DOI:10.2307/40166794</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Hawaii</state-or-province>
+      <phys-area-name>Maui</phys-area-name>
+      <phys-area-name>Upper Kipahulu Valley</phys-area-name>
+      <principal-cave-name>Puka Moa</principal-cave-name>
+      <length/>
+      <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=953</reference>
       <reference>Olson and James (1991) DOI:10.2307/40166794</reference>
    </record>
@@ -22901,6 +22978,177 @@
       <vertical-extent> >1500</vertical-extent>
       <reference>http://www.vulcanospeleology.org/newsletters/Vulcano76%20July%202020%20Hi%20ResV2.pdf</reference>
    </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Dak Sor</state-or-province>
+      <principal-cave-name>C0</principal-cave-name>
+      <length>476</length>
+      <vertical-extent>15</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Dak Sor</state-or-province>
+      <principal-cave-name>C1, C2</principal-cave-name>
+      <length>402</length>
+      <vertical-extent>4</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Dak Sor</state-or-province>
+      <principal-cave-name>C3</principal-cave-name>
+      <length>716</length>
+      <vertical-extent>7</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Dak Sor</state-or-province>
+      <principal-cave-name>C4</principal-cave-name>
+      <length>252</length>
+      <vertical-extent>9</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Dak Sor</state-or-province>
+      <principal-cave-name>C6</principal-cave-name>
+      <length>180</length>
+      <vertical-extent>4</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Nam Da</state-or-province>
+      <principal-cave-name>C6.1</principal-cave-name>
+      <length>294</length>
+      <vertical-extent>5</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Nam Da</state-or-province>
+      <principal-cave-name>C7</principal-cave-name>
+      <length>1067</length>
+      <vertical-extent>~15</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Buon Choa'h</state-or-province>
+      <principal-cave-name>C8</principal-cave-name>
+      <length>791</length>
+      <vertical-extent>24</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Buon Choa'h</state-or-province>
+      <principal-cave-name>C9</principal-cave-name>
+      <length>217</length>
+      <vertical-extent>23</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Buon Choa'h</state-or-province>
+      <principal-cave-name>P1, P2</principal-cave-name>
+      <length>531</length>
+      <vertical-extent>~15</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Nam Da</state-or-province>
+      <principal-cave-name>P8</principal-cave-name>
+      <length>344</length>
+      <vertical-extent>26</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Buon Choa'h</state-or-province>
+      <principal-cave-name>P11</principal-cave-name>
+      <length>498</length>
+      <vertical-extent>~8</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Nam Da</state-or-province>
+      <principal-cave-name>P20</principal-cave-name>
+      <length>568</length>
+      <vertical-extent>25</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Buon Choa'h</state-or-province>
+      <principal-cave-name>A1</principal-cave-name>
+      <length>439</length>
+      <vertical-extent>10</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Buon Choa'h</state-or-province>
+      <principal-cave-name>P3</principal-cave-name>
+      <length>81</length>
+      <vertical-extent>5</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Buon Choa'h</state-or-province>
+      <principal-cave-name>P5 (PT07)</principal-cave-name>
+      <length>204</length>
+      <vertical-extent>4</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Nam Da</state-or-province>
+      <principal-cave-name>P10E, P10W</principal-cave-name>
+      <length>160</length>
+      <vertical-extent>5</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Dak Dro</state-or-province>
+      <principal-cave-name>PT06</principal-cave-name>
+      <length>200</length>
+      <vertical-extent>5</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
+   <record>
+      <country-name>Viet Nam</country-name>
+      <state-or-province>Buon Choa'h</state-or-province>
+      <principal-cave-name>T1W</principal-cave-name>
+      <length>303</length>
+      <vertical-extent>16</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+   </record>
    
    <record>
       <country-name>Austria</country-name>
@@ -23146,7 +23394,18 @@
       <vertical-extent/>
       <reference>https://en.wikipedia.org/wiki/Toca_da_Boa_Vista</reference>
    </record>
-
+   <record>
+      <country-name>Belize</country-name>
+      <phys-area-name>Caye Caulker Island</phys-area-name>
+      <principal-cave-name>Caye Chapel Marine Cave</principal-cave-name>
+      <other-cave-name>Winter Wonderland Cave</other-cave-name>
+      <length/>
+      <vertical-extent/>
+      <contents>perennially submerged</contents>
+      <cave-system>Caye Caulker Cave system</cave-system>
+      <reference/>
+   </record>
+   
    <record>
      <country-name>Moon</country-name>
      <phys-area-name>Marius Hills; Oceanus Procellarum</phys-area-name>

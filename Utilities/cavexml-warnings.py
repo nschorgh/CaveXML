@@ -32,7 +32,7 @@ for item in root.findall('record'):
         
     acavename = get_one_cave_name(item)
     if len(acavename)==0:
-        print('WARNING: Neither principal nor other cave name nor cavd id',count)
+        print('WARNING: Neither principal nor other cave name nor cave id',count)
 
 
     # Find records without reference

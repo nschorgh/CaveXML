@@ -210,7 +210,7 @@
       <length>38000</length>
       <vertical-extent/>
       <contents>permanent ice</contents>
-      <cave-system>Gamslöcher-Kolowrat-Salzburgerschacht-System</cave-system>
+      <cave-system>Gamslöcher-Kolowrat-System</cave-system>
       <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
    </record>
    <record>
@@ -6434,6 +6434,7 @@
       <length>171</length>
       <vertical-extent>~14</vertical-extent>
       <contents>permanent ice</contents>
+      <contents>charcoal</contents>
       <reference>Onac et al. (2020) doi:10.1038/s41598-020-76988-1</reference>
    </record>
    
@@ -7194,9 +7195,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Arch</principal-cave-name>
+      <other-cave-name>(U22) Arch 2</other-cave-name>
       <length>11</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1370</reference>
    </record>
@@ -8256,9 +8259,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Branch</principal-cave-name>
+      <other-cave-name>(U64)</other-cave-name>
       <length>10</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1372</reference>
    </record>
@@ -10294,19 +10299,12 @@
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Canary Islands</state-or-province>
-      <phys-area-name/>
+      <state-or-province>Santa Cruz de Tenerife</state-or-province>
+      <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de San Marcos</principal-cave-name>
       <length>2130</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=665</reference>
-   </record>
-   <record>
-      <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva de San Marcs</principal-cave-name>
-      <length>2130</length>
-      <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1506</reference>
    </record>
    <record>
@@ -10500,6 +10498,7 @@
       <other-cave-name>Finch Cave</other-cave-name>
       <length>110</length>
       <cave-type>lava tunnel</cave-type>
+      <contents>fossils</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=708</reference>
       <reference>Steadman, D. W. (1986) "Holocene vertebrate fossils from Isla Floreana, Galápagos." Smithsonian contributions to zoology Nr 413</reference>
       <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
@@ -10947,18 +10946,22 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Dave I</principal-cave-name>
+      <other-cave-name>(U26)</other-cave-name>
       <length>50</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1373</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Dave II</principal-cave-name>
+      <other-cave-name>(U27)</other-cave-name>
       <length>27</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1374</reference>
    </record>
@@ -11156,9 +11159,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Ding Bat</principal-cave-name>
+      <other-cave-name>(U50)</other-cave-name>
       <length>60</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1375</reference>
    </record>
@@ -11516,10 +11521,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Eptesicus</principal-cave-name>
       <other-cave-name>(U39)</other-cave-name>
       <length>42</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1376</reference>
    </record>
@@ -11535,30 +11541,33 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Ewamin</principal-cave-name>
       <other-cave-name>(U23) Arch 3</other-cave-name>
       <length>162</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1377</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Expedition I</principal-cave-name>
       <other-cave-name>(U56)</other-cave-name>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1378</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Expedition II</principal-cave-name>
-      <other-cave-name>(U56)</other-cave-name>
+      <other-cave-name>(U57)</other-cave-name>
       <length>28</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1379</reference>
    </record>
@@ -11731,9 +11740,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Flat Ceiling</principal-cave-name>
+      <other-cave-name>(U63)</other-cave-name>
       <length>80</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1380</reference>
    </record>
@@ -11810,9 +11821,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Fortune</principal-cave-name>
+      <other-cave-name>(U47)</other-cave-name>
       <length>53</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1381</reference>
    </record>
@@ -11856,9 +11869,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Frances</principal-cave-name>
+      <other-cave-name>(U13)</other-cave-name>
       <length>14</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1382</reference>
    </record>
@@ -11999,9 +12014,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Fun Cave</principal-cave-name>
+      <other-cave-name>(U49)</other-cave-name>
       <length>33</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1383</reference>
    </record>
@@ -12487,9 +12504,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Graham</principal-cave-name>
+      <other-cave-name>(U66)</other-cave-name>
       <length>22</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1384</reference>
    </record>
@@ -13256,11 +13275,17 @@
    <record>
       <country-name>Saudi Arabia</country-name>
       <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Hibashi Cave.jpg</principal-cave-name>
-      <length/>
+      <phys-area-name>Harrat Nawasif-Buqum</phys-area-name>
+      <principal-cave-name>Ghar Al Hibashi</principal-cave-name>
+      <other-cave-name>Hibashi Cave</other-cave-name>
+      <cave-id>SA-180</cave-id>
+      <length>581</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <contents>minerals</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=207</reference>
+      <reference>Pint et al. (2005) http://www.i-pi.com/~ingham/saudicaves/hib-4-12.pdf</reference>
+      <reference>https://www.mindat.org/loc-195731.html</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -13473,9 +13498,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Hot Hole</principal-cave-name>
+      <other-cave-name>(U51)</other-cave-name>
       <length>172</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1385</reference>
    </record>
@@ -13837,9 +13864,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Inner Dome</principal-cave-name>
+      <other-cave-name>(U41)</other-cave-name>
       <length>68</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1386</reference>
    </record>
@@ -14210,7 +14239,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Puna District</state-or-province>
       <phys-area-name>Hawaii Island</phys-area-name>
-      <principal-cave-name>John Martin's Cave</principal-cave-name>
+      <principal-cave-name>John Martin Cave</principal-cave-name>
       <length>4158</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=784</reference>
@@ -14987,9 +15016,10 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Komoni</principal-cave-name>
       <length>85</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1387</reference>
    </record>
@@ -15257,7 +15287,7 @@
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>Lava  Brook Cave</principal-cave-name>
+      <principal-cave-name>Lava Brook Cave</principal-cave-name>
       <length>262</length>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Labyrinth Cave System</cave-system>
@@ -15747,8 +15777,9 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Lost World</principal-cave-name>
+      <other-cave-name>(U37)</other-cave-name>
       <length>74</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -15815,9 +15846,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Lower Secret</principal-cave-name>
+      <other-cave-name>(U68)</other-cave-name>
       <length>70</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1389</reference>
    </record>
@@ -16007,15 +16040,18 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju-do</state-or-province>
+      <state-or-province>Cheju-do; Jeju Island</state-or-province>
       <phys-area-name/>
-      <principal-cave-name>Man Jang Cave</principal-cave-name>
-      <other-cave-name>Mangjang Gul</other-cave-name>
+      <principal-cave-name>Man Jang Gul</principal-cave-name>
+      <other-cave-name>Manjanggul</other-cave-name>
       <other-cave-name>Red Dragon Cave</other-cave-name>
       <length>8928</length>
+      <number-of-entrances>3</number-of-entrances>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <contents>many bats</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=682</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -16441,9 +16477,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Mikoshi</principal-cave-name>
+      <other-cave-name>(U44)</other-cave-name>
       <length>47</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1391</reference>
    </record>
@@ -16487,9 +16525,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Misplaced Arch</principal-cave-name>
+      <other-cave-name>(U45)</other-cave-name>
       <length>22</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1392</reference>
    </record>
@@ -16662,9 +16702,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Moth</principal-cave-name>
+      <other-cave-name>(U53)</other-cave-name>
       <length>9</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1393</reference>
    </record>
@@ -17018,7 +17060,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Nasty</principal-cave-name>
-      <other-cave-name>U46</other-cave-name>
+      <other-cave-name>(U46)</other-cave-name>
       <length>127</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -17842,9 +17884,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Peter Cave</principal-cave-name>
+      <other-cave-name>(U7)</other-cave-name>
       <length>14</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1395</reference>
    </record>
@@ -17910,8 +17954,9 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Picnic 1</principal-cave-name>
+      <other-cave-name>(U24)</other-cave-name>
       <length>420</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -17920,8 +17965,9 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Picnic II</principal-cave-name>
+      <other-cave-name>(U25)</other-cave-name>
       <length>45</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -18332,6 +18378,7 @@
       <length>453</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <contents>fossils</contents>
       <comments>important bird fossils</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=892</reference>
       <reference>James et al. (1987) doi:10.1073/pnas.84.8.2350</reference>
@@ -18642,8 +18689,9 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Raleigh I</principal-cave-name>
+      <other-cave-name>(U35)</other-cave-name>
       <length>23</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -18652,8 +18700,9 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Raleigh II</principal-cave-name>
+      <other-cave-name>(U36)</other-cave-name>
       <length>30</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -19514,9 +19563,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>San</principal-cave-name>
+      <other-cave-name>(U65)</other-cave-name>
       <length>25</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1400</reference>
    </record>
@@ -19959,9 +20010,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Short Little Arch</principal-cave-name>
+      <other-cave-name>(U43)</other-cave-name>
       <length>16</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1401</reference>
    </record>
@@ -20000,7 +20053,7 @@
       <state-or-province>Western</state-or-province>
       <phys-area-name>Harrat Ithnayn</phys-area-name>
       <principal-cave-name>Shuwaymis Cave</principal-cave-name>
-      <other-cave-name>Kahf al Shuwaymis</other-cave-name>
+      <other-cave-name>Kahf Al Shuwaymis</other-cave-name>
       <altitude>1275</altitude>
       <length>510</length>
       <cave-type>lava tunnel</cave-type>
@@ -20322,6 +20375,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Speaking Tube</principal-cave-name>
+      <other-cave-name>(U62)</other-cave-name>
       <length>25</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -20729,9 +20783,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Sunset</principal-cave-name>
+      <other-cave-name>(U54)</other-cave-name>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1405</reference>
    </record>
@@ -21086,7 +21142,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Temple of Doom</principal-cave-name>
-      <other-cave-name>U48</other-cave-name>
+      <other-cave-name>(U48)</other-cave-name>
       <length>50</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -21558,9 +21614,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Tom</principal-cave-name>
+      <other-cave-name>(U59)</other-cave-name>
       <length>34</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1412</reference>
    </record>
@@ -21834,8 +21892,9 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Tween</principal-cave-name>
+      <other-cave-name>(U38)</other-cave-name>
       <length>24</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -21968,7 +22027,7 @@
       <state-or-province>Utah</state-or-province>
       <state-or-province>Garfield County</state-or-province>
       <phys-area-name>Markagnunt Plateau</phys-area-name>
-      <principal-cave-name>(Unnamed Cave)</principal-cave-name>
+      <principal-cave-name></principal-cave-name>
       <other-cave-name>Mathesons Cave</other-cave-name>
       <other-cave-name>Alvas Cave</other-cave-name>
       <length>876</length>
@@ -22118,6 +22177,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Upper Secret</principal-cave-name>
+      <other-cave-name>(U67)</other-cave-name>
       <length>150</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -22431,9 +22491,11 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Wallaby's Hideaway</principal-cave-name>
+      <other-cave-name>(U55)</other-cave-name>
       <length>39</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1410</reference>
    </record>
@@ -22712,7 +22774,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Wind Tunnel</principal-cave-name>
-      <other-cave-name>U42</other-cave-name>
+      <other-cave-name>(U42)</other-cave-name>
       <length>293</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -23224,7 +23286,28 @@
       <cave-type>lava tunnel</cave-type>
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
    </record>
-   
+   <record>
+      <country-name>Saudi Arabia</country-name>
+      <phys-area-name>Harrat Khaybar lava field</phys-area-name>
+      <principal-cave-name>Umm Jirsan Lava-Tube System</principal-cave-name>
+      <altitude/>
+      <length>1481</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Pint (2009) http://vulcanospeleology.org/articles/jirsan.pdf</reference>
+   </record>
+   <record>
+      <country-name>Iceland</country-name>
+      <state-or-province/>
+      <phys-area-name>Surtsey Island</phys-area-name>
+      <principal-cave-name>Grillid (Cave S-4)</principal-cave-name>
+      <latitude>63.30000</latitude>
+      <longitude>-20.58333</longitude>
+      <cave-type>lava tunnel</cave-type>
+      <contents>minerals</contents>
+      <reference>https://www.mindat.org/loc-204560.html</reference>
+      <reference>Forti (2005) https://caves.org/pub/journal/PDF/V67/v67n1-Forti.pdf</reference>
+   </record>
+
    <record>
       <country-name>Austria</country-name>
       <state-or-province>Salzburg</state-or-province>
@@ -23233,12 +23316,15 @@
       <cave-id>AT-1339/1</cave-id>
       <length>44003</length>
       <vertical-extent>1130</vertical-extent>
+      <rock-type>limestone</rock-type>
       <branch-name>Kolowrathöhle</branch-name>
       <branch-name>Gamslöcher</branch-name>
       <branch-name>Salzburgerschacht</branch-name>
+      <reference>Die Höhle 57 (2006)</reference>
       <reference>Die Höhle 61 (2010); Die Höhle 63 (2012)</reference>
       <reference>Neubauer (2010) DOI:10.5038/1827-806X.40.2.4</reference>
       <reference>https://hoehle.org/laengste-tiefste</reference>
+      <reference>Bieniok et al. (2011) doi:10.5038/1827-806X.40.2.4</reference>
    </record>
    <record>
       <country-name>Austria</country-name>
@@ -23248,6 +23334,7 @@
       <cave-id>AT-1546/7</cave-id>
       <length>112929</length>
       <vertical-extent>1560</vertical-extent>
+      <rock-type>limestone</rock-type>
       <reference>https://hoehle.org/laengste-tiefste</reference>
    </record>
    <record>
@@ -23258,6 +23345,7 @@
       <cave-id>AT-1324/1</cave-id>
       <length>61000</length>
       <vertical-extent>1735</vertical-extent>
+      <rock-type>limestone</rock-type>
       <reference>https://hoehle.org/laengste-tiefste</reference>
    </record>
    <record>
@@ -23268,6 +23356,7 @@
       <cave-id>AT-1623/40</cave-id>
       <length>135159</length>
       <vertical-extent>1125</vertical-extent>
+      <rock-type>limestone</rock-type>
       <branch-name>Schnellzughöhle 1623/41</branch-name>
       <branch-name>Stellerweghöhle 1623/115</branch-name>
       <branch-name>Larchenschacht 1623/88</branch-name>
@@ -23286,6 +23375,7 @@
       <cave-id>AT-1336/15</cave-id>
       <length>14668</length>
       <vertical-extent>1394</vertical-extent>
+      <rock-type>limestone</rock-type>
       <reference>https://hoehle.org/laengste-tiefste</reference>
    </record>
    <record>
@@ -23296,6 +23386,7 @@
       <cave-id>AT-1511/162</cave-id>
       <length>30396</length>
       <vertical-extent>1291</vertical-extent>
+      <rock-type>limestone</rock-type>
       <reference>https://hoehle.org/laengste-tiefste</reference>
    </record>
    <record>
@@ -23307,10 +23398,20 @@
       <cave-id>AT-1331/25</cave-id>
       <length>44487</length>
       <vertical-extent>711</vertical-extent>
+      <rock-type>limestone</rock-type>
       <reference>https://hoehle.org/laengste-tiefste</reference>
    </record>
-
-
+   <record>
+      <country-name>Austria</country-name>
+      <state-or-province>Salzburg</state-or-province>
+      <phys-area-name>Untersberg</phys-area-name>
+      <principal-cave-name>Salzburgerschacht</principal-cave-name>
+      <cave-id>AT-1339/69</cave-id>
+      <length>~6000</length>
+      <rock-type>limestone</rock-type>
+      <cave-system>Gamslöcher-Kolowrat-Höhlensystem</cave-system>
+      <reference>https://www.zobodat.at/pdf/HdN_9_0175-0183.pdf</reference>
+   </record>
    <record>
       <country-name>Mexico</country-name>
       <state-or-province>Quintana Roo</state-or-province>
@@ -23480,7 +23581,17 @@
       <cave-system>Caye Caulker Cave system</cave-system>
       <reference/>
    </record>
-   
+   <record>
+      <country-name>Italy</country-name>
+      <state-or-province>Campania; Naples</state-or-province>
+      <principal-cave-name>Grotta dello Zolfo</principal-cave-name>
+      <other-cave-name>Grotta di Allume</other-cave-name>
+      <latitude>40.79333</latitude>
+      <longitude>14.08417</longitude>
+      <contents>minerals</contents>
+      <reference>https://www.mindat.org/loc-2072.html</reference>
+   </record>
+      
    <record>
      <country-name>Moon</country-name>
      <phys-area-name>Marius Hills; Oceanus Procellarum</phys-area-name>

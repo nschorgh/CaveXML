@@ -221,7 +221,7 @@
       "length": 38000,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "cave-system": "Gamslöcher-Kolowrat-Salzburgerschacht-System",
+      "cave-system": "Gamslöcher-Kolowrat-System",
       "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9"
     },
 
@@ -6867,6 +6867,7 @@
       "length": 171,
       "vertical-extent": "~14",
       "contents": "permanent ice",
+      "contents": "charcoal",
       "reference": "Onac et al. (2020) doi:10.1038/s41598-020-76988-1"
     },
 
@@ -7706,9 +7707,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Arch",
+      "other-cave-name": "(U22) Arch 2",
       "length": 11,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1370"
     },
@@ -8878,9 +8881,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Branch",
+      "other-cave-name": "(U64)",
       "length": 10,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1372"
     },
@@ -11131,20 +11136,12 @@
     {
       "country-name": "Spain",
       "state-or-province": "Canary Islands",
-      "phys-area-name": [],
+      "state-or-province": "Santa Cruz de Tenerife",
+      "phys-area-name": "Tenerife",
       "principal-cave-name": "Cueva de San Marcos",
       "length": 2130,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=665"
-    },
-
-    {
-      "country-name": "Spain",
-      "state-or-province": "Santa Cruz de Tenerife",
-      "phys-area-name": "Tenerife",
-      "principal-cave-name": "Cueva de San Marcs",
-      "length": 2130,
-      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=665",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1506"
     },
 
@@ -11359,6 +11356,7 @@
       "other-cave-name": "Finch Cave",
       "length": 110,
       "cave-type": "lava tunnel",
+      "contents": "fossils",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=708",
       "reference": "Steadman, D. W. (1986) \"Holocene vertebrate fossils from Isla Floreana, Galápagos.\" Smithsonian contributions to zoology Nr 413",
       "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
@@ -11853,9 +11851,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Dave I",
+      "other-cave-name": "(U26)",
       "length": 50,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1373"
     },
@@ -11863,9 +11863,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Dave II",
+      "other-cave-name": "(U27)",
       "length": 27,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1374"
     },
@@ -12085,9 +12087,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Ding Bat",
+      "other-cave-name": "(U50)",
       "length": 60,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1375"
     },
@@ -12484,10 +12488,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Eptesicus",
       "other-cave-name": "(U39)",
       "length": 42,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1376"
     },
@@ -12505,10 +12510,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Ewamin",
       "other-cave-name": "(U23) Arch 3",
       "length": 162,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1377"
     },
@@ -12516,10 +12522,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Expedition I",
       "other-cave-name": "(U56)",
       "length": 30,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1378"
     },
@@ -12527,10 +12534,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Expedition II",
-      "other-cave-name": "(U56)",
+      "other-cave-name": "(U57)",
       "length": 28,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1379"
     },
@@ -12722,9 +12730,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Flat Ceiling",
+      "other-cave-name": "(U63)",
       "length": 80,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1380"
     },
@@ -12809,9 +12819,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Fortune",
+      "other-cave-name": "(U47)",
       "length": 53,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1381"
     },
@@ -12860,9 +12872,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Frances",
+      "other-cave-name": "(U13)",
       "length": 14,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1382"
     },
@@ -13017,9 +13031,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Fun Cave",
+      "other-cave-name": "(U49)",
       "length": 33,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1383"
     },
@@ -13556,9 +13572,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Graham",
+      "other-cave-name": "(U66)",
       "length": 22,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1384"
     },
@@ -14402,11 +14420,17 @@
     {
       "country-name": "Saudi Arabia",
       "state-or-province": [],
-      "phys-area-name": [],
-      "principal-cave-name": "Hibashi Cave.jpg",
-      "length": [],
+      "phys-area-name": "Harrat Nawasif-Buqum",
+      "principal-cave-name": "Ghar Al Hibashi",
+      "other-cave-name": "Hibashi Cave",
+      "cave-id": "SA-180",
+      "length": 581,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=207"
+      "contents": "minerals",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=207",
+      "reference": "Pint et al. (2005) http://www.i-pi.com/~ingham/saudicaves/hib-4-12.pdf",
+      "reference": "https://www.mindat.org/loc-195731.html"
     },
 
     {
@@ -14642,9 +14666,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Hot Hole",
+      "other-cave-name": "(U51)",
       "length": 172,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1385"
     },
@@ -15044,9 +15070,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Inner Dome",
+      "other-cave-name": "(U41)",
       "length": 68,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1386"
     },
@@ -15457,7 +15485,7 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
       "phys-area-name": "Hawaii Island",
-      "principal-cave-name": "John Martin's Cave",
+      "principal-cave-name": "John Martin Cave",
       "length": 4158,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=784"
@@ -16316,9 +16344,10 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Komoni",
       "length": 85,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1387"
     },
@@ -16614,7 +16643,7 @@
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "phys-area-name": "Lava Beds National Monument",
-      "principal-cave-name": "Lava  Brook Cave",
+      "principal-cave-name": "Lava Brook Cave",
       "length": 262,
       "cave-type": "lava tunnel",
       "cave-system": "Labyrinth Cave System",
@@ -17156,8 +17185,9 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Lost World",
+      "other-cave-name": "(U37)",
       "length": 74,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -17231,9 +17261,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Lower Secret",
+      "other-cave-name": "(U68)",
       "length": 70,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1389"
     },
@@ -17444,15 +17476,18 @@
 
     {
       "country-name": "Korea, Republic of",
-      "state-or-province": "Cheju-do",
+      "state-or-province": "Cheju-do; Jeju Island",
       "phys-area-name": [],
-      "principal-cave-name": "Man Jang Cave",
-      "other-cave-name": "Mangjang Gul",
+      "principal-cave-name": "Man Jang Gul",
+      "other-cave-name": "Manjanggul",
       "other-cave-name": "Red Dragon Cave",
       "length": 8928,
+      "number-of-entrances": 3,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=682"
+      "contents": "many bats",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=682",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -17921,9 +17956,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Mikoshi",
+      "other-cave-name": "(U44)",
       "length": 47,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1391"
     },
@@ -17972,9 +18009,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Misplaced Arch",
+      "other-cave-name": "(U45)",
       "length": 22,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1392"
     },
@@ -18165,9 +18204,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Moth",
+      "other-cave-name": "(U53)",
       "length": 9,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1393"
     },
@@ -18557,7 +18598,7 @@
       "state-or-province": "Queensland",
       "phys-area-name": "Undara",
       "principal-cave-name": "Nasty",
-      "other-cave-name": "U46",
+      "other-cave-name": "(U46)",
       "length": 127,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -19467,9 +19508,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Peter Cave",
+      "other-cave-name": "(U7)",
       "length": 14,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1395"
     },
@@ -19542,8 +19585,9 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Picnic 1",
+      "other-cave-name": "(U24)",
       "length": 420,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -19553,8 +19597,9 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Picnic II",
+      "other-cave-name": "(U25)",
       "length": 45,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -20008,6 +20053,7 @@
       "length": 453,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
+      "contents": "fossils",
       "comments": "important bird fossils",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=892",
       "reference": "James et al. (1987) doi:10.1073/pnas.84.8.2350",
@@ -20350,8 +20396,9 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Raleigh I",
+      "other-cave-name": "(U35)",
       "length": 23,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -20361,8 +20408,9 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Raleigh II",
+      "other-cave-name": "(U36)",
       "length": 30,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -21313,9 +21361,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "San",
+      "other-cave-name": "(U65)",
       "length": 25,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1400"
     },
@@ -21806,9 +21856,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Short Little Arch",
+      "other-cave-name": "(U43)",
       "length": 16,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1401"
     },
@@ -21851,7 +21903,7 @@
       "state-or-province": "Western",
       "phys-area-name": "Harrat Ithnayn",
       "principal-cave-name": "Shuwaymis Cave",
-      "other-cave-name": "Kahf al Shuwaymis",
+      "other-cave-name": "Kahf Al Shuwaymis",
       "altitude": 1275,
       "length": 510,
       "cave-type": "lava tunnel",
@@ -22207,6 +22259,7 @@
       "state-or-province": "Queensland",
       "phys-area-name": "Undara",
       "principal-cave-name": "Speaking Tube",
+      "other-cave-name": "(U62)",
       "length": 25,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -22656,9 +22709,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Sunset",
+      "other-cave-name": "(U54)",
       "length": 30,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1405"
     },
@@ -23049,7 +23104,7 @@
       "state-or-province": "Queensland",
       "phys-area-name": "Undara",
       "principal-cave-name": "Temple of Doom",
-      "other-cave-name": "U48",
+      "other-cave-name": "(U48)",
       "length": 50,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -23571,9 +23626,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Tom",
+      "other-cave-name": "(U59)",
       "length": 34,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1412"
     },
@@ -23875,8 +23932,9 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Tween",
+      "other-cave-name": "(U38)",
       "length": 24,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -24023,7 +24081,7 @@
       "state-or-province": "Utah",
       "state-or-province": "Garfield County",
       "phys-area-name": "Markagnunt Plateau",
-      "principal-cave-name": "(Unnamed Cave)",
+      "principal-cave-name": [],
       "other-cave-name": "Mathesons Cave",
       "other-cave-name": "Alvas Cave",
       "length": 876,
@@ -24188,6 +24246,7 @@
       "state-or-province": "Queensland",
       "phys-area-name": "Undara",
       "principal-cave-name": "Upper Secret",
+      "other-cave-name": "(U67)",
       "length": 150,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -24534,9 +24593,11 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Wallaby's Hideaway",
+      "other-cave-name": "(U55)",
       "length": 39,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1410"
     },
@@ -24845,7 +24906,7 @@
       "state-or-province": "Queensland",
       "phys-area-name": "Undara",
       "principal-cave-name": "Wind Tunnel",
-      "other-cave-name": "U42",
+      "other-cave-name": "(U42)",
       "length": 293,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -25411,6 +25472,29 @@
     },
 
     {
+      "country-name": "Saudi Arabia",
+      "phys-area-name": "Harrat Khaybar lava field",
+      "principal-cave-name": "Umm Jirsan Lava-Tube System",
+      "altitude": [],
+      "length": 1481,
+      "cave-type": "lava tunnel",
+      "reference": "Pint (2009) http://vulcanospeleology.org/articles/jirsan.pdf"
+    },
+
+    {
+      "country-name": "Iceland",
+      "state-or-province": [],
+      "phys-area-name": "Surtsey Island",
+      "principal-cave-name": "Grillid (Cave S-4)",
+      "latitude": 63.30000,
+      "longitude": -20.58333,
+      "cave-type": "lava tunnel",
+      "contents": "minerals",
+      "reference": "https://www.mindat.org/loc-204560.html",
+      "reference": "Forti (2005) https://caves.org/pub/journal/PDF/V67/v67n1-Forti.pdf"
+    },
+
+    {
       "country-name": "Austria",
       "state-or-province": "Salzburg",
       "phys-area-name": "Untersberg",
@@ -25418,12 +25502,15 @@
       "cave-id": "AT-1339/1",
       "length": 44003,
       "vertical-extent": 1130,
+      "rock-type": "limestone",
       "branch-name": "Kolowrathöhle",
       "branch-name": "Gamslöcher",
       "branch-name": "Salzburgerschacht",
+      "reference": "Die Höhle 57 (2006)",
       "reference": "Die Höhle 61 (2010); Die Höhle 63 (2012)",
       "reference": "Neubauer (2010) DOI:10.5038/1827-806X.40.2.4",
-      "reference": "https://hoehle.org/laengste-tiefste"
+      "reference": "https://hoehle.org/laengste-tiefste",
+      "reference": "Bieniok et al. (2011) doi:10.5038/1827-806X.40.2.4"
     },
 
     {
@@ -25434,6 +25521,7 @@
       "cave-id": "AT-1546/7",
       "length": 112929,
       "vertical-extent": 1560,
+      "rock-type": "limestone",
       "reference": "https://hoehle.org/laengste-tiefste"
     },
 
@@ -25445,6 +25533,7 @@
       "cave-id": "AT-1324/1",
       "length": 61000,
       "vertical-extent": 1735,
+      "rock-type": "limestone",
       "reference": "https://hoehle.org/laengste-tiefste"
     },
 
@@ -25456,6 +25545,7 @@
       "cave-id": "AT-1623/40",
       "length": 135159,
       "vertical-extent": 1125,
+      "rock-type": "limestone",
       "branch-name": "Schnellzughöhle 1623/41",
       "branch-name": "Stellerweghöhle 1623/115",
       "branch-name": "Larchenschacht 1623/88",
@@ -25475,6 +25565,7 @@
       "cave-id": "AT-1336/15",
       "length": 14668,
       "vertical-extent": 1394,
+      "rock-type": "limestone",
       "reference": "https://hoehle.org/laengste-tiefste"
     },
 
@@ -25486,6 +25577,7 @@
       "cave-id": "AT-1511/162",
       "length": 30396,
       "vertical-extent": 1291,
+      "rock-type": "limestone",
       "reference": "https://hoehle.org/laengste-tiefste"
     },
 
@@ -25498,7 +25590,20 @@
       "cave-id": "AT-1331/25",
       "length": 44487,
       "vertical-extent": 711,
+      "rock-type": "limestone",
       "reference": "https://hoehle.org/laengste-tiefste"
+    },
+
+    {
+      "country-name": "Austria",
+      "state-or-province": "Salzburg",
+      "phys-area-name": "Untersberg",
+      "principal-cave-name": "Salzburgerschacht",
+      "cave-id": "AT-1339/69",
+      "length": "~6000",
+      "rock-type": "limestone",
+      "cave-system": "Gamslöcher-Kolowrat-Höhlensystem",
+      "reference": "https://www.zobodat.at/pdf/HdN_9_0175-0183.pdf"
     },
 
     {
@@ -25678,6 +25783,17 @@
       "contents": "perennially submerged",
       "cave-system": "Caye Caulker Cave system",
       "reference": []
+    },
+
+    {
+      "country-name": "Italy",
+      "state-or-province": "Campania; Naples",
+      "principal-cave-name": "Grotta dello Zolfo",
+      "other-cave-name": "Grotta di Allume",
+      "latitude": 40.79333,
+      "longitude": 14.08417,
+      "contents": "minerals",
+      "reference": "https://www.mindat.org/loc-2072.html"
     },
 
     {

@@ -406,7 +406,7 @@
     {
       "country-name": "Canada",
       "state-or-province": "Alberta",
-      "phys-area-name": "Kananaskis",
+      "phys-area-name": "Kananaskis; Moose Mountain",
       "principal-cave-name": "Canyon Creek",
       "other-cave-name": "Bragg Creek Ice Cave",
       "other-cave-name": "Moose Mountain Ice Cave",
@@ -432,6 +432,7 @@
       "altitude": 2226,
       "length": 410,
       "vertical-extent": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "permafrost",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
@@ -448,8 +449,9 @@
       "altitude": 2189,
       "length": 961,
       "vertical-extent": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "cold trap",
+      "comments": "cold trap; Mississipian age",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2",
       "reference": "https://en.wikipedia.org/wiki/Booming_Ice_Chasm"
     },
@@ -475,7 +477,7 @@
       "country-name": "Canada",
       "state-or-province": "Alberta",
       "phys-area-name": "Crowsnest Pass",
-      "principal-cave-name": "Coultard",
+      "principal-cave-name": "Coultard Cave",
       "other-cave-name": [],
       "latitude": [],
       "longitude": [],
@@ -483,7 +485,7 @@
       "length": 370,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "comments": "permafrost",
+      "comments": "permafrost; ice optically clear with a visual depth of at least 6m",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
 
@@ -515,6 +517,7 @@
       "altitude": 2165,
       "length": 473,
       "vertical-extent": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "Extrusion ice",
       "comments": "permafrost",
@@ -582,6 +585,7 @@
       "altitude": 1200,
       "length": 1867,
       "vertical-extent": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "cold trap",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2",
@@ -600,8 +604,9 @@
       "altitude": 1050,
       "length": " >130",
       "vertical-extent": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "cold trap",
+      "comments": "cold trap; Triassic age",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
 
@@ -636,7 +641,10 @@
       "altitude": 1082,
       "length": 673,
       "vertical-extent": [],
+      "number-of-entrances": 2,
+      "rock-type": "limestone",
       "contents": "permanent ice",
+      "contents": "charcoal",
       "comments": "cold trap",
       "comments": "Devonian Palliser Formation",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
@@ -805,6 +813,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Voragine di Oltre M 40 Presso l'Ometto del Bregai",
       "other-cave-name": [],
+      "cave-id": "IT-LOL-1586",
       "latitude": [],
       "longitude": [],
       "altitude": 2090,
@@ -820,6 +829,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Abisso di val Laghetto",
       "other-cave-name": [],
+      "cave-id": "IT-LOL-1600",
       "latitude": [],
       "longitude": [],
       "altitude": 1823,
@@ -835,6 +845,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Aibsso Nel Bregai Medio",
       "other-cave-name": [],
+      "cave-id": "IT-LOL-1640",
       "latitude": [],
       "longitude": [],
       "altitude": 1930,
@@ -850,6 +861,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Abisso Delle Spade",
       "other-cave-name": [],
+      "cave-id": "IT-LOL-1648",
       "latitude": [],
       "longitude": [],
       "altitude": 2047,
@@ -865,6 +877,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Abusso sul Margine dell'Alto Bregai",
       "other-cave-name": [],
+      "cave-id": "IT-LOL-1650",
       "latitude": [],
       "longitude": [],
       "altitude": 2030,
@@ -880,6 +893,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Grotta delle Condotte Freatiche",
       "other-cave-name": [],
+      "cave-id": "IT-LOL-1739",
       "latitude": [],
       "longitude": [],
       "altitude": 2125,
@@ -895,6 +909,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Abisso dei Marons Glaces",
       "other-cave-name": [],
+      "cave-id": "IT-LOL-1809",
       "latitude": [],
       "longitude": [],
       "altitude": 2075,
@@ -910,6 +925,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Grotta del Pifferaio",
       "other-cave-name": [],
+      "cave-id": "IT-LOL-1842",
       "latitude": [],
       "longitude": [],
       "altitude": 2140,
@@ -925,6 +941,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Infermi nel Ghiaccio",
       "other-cave-name": [],
+      "cave-id": "IT-LOL-1887",
       "latitude": [],
       "longitude": [],
       "altitude": 2065,
@@ -940,6 +957,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Inferno di Ghiaccio",
       "other-cave-name": [],
+      "cave-id": "IT-LOL-1904",
       "latitude": [],
       "longitude": [],
       "altitude": 2120,
@@ -955,6 +973,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Holiday on Ice",
       "other-cave-name": [],
+      "cave-id": "IT-LOL-1916",
       "latitude": [],
       "longitude": [],
       "altitude": 2144,
@@ -970,6 +989,7 @@
       "phys-area-name": "Piano delle Platigliole-Monte Scorluzzo",
       "principal-cave-name": "Grotta di Cristallo",
       "other-cave-name": [],
+      "cave-id": "IT-LOS-3056",
       "latitude": [],
       "longitude": [],
       "altitude": 2780,
@@ -3925,12 +3945,15 @@
       "latitude": 45.50639,
       "longitude": 13.61,
       "altitude": "2092 upper entrance",
+      "altitude": "2007 lower entrance",
       "length": [],
       "vertical-extent": 650,
       "number-of-entrances": 2,
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "congelation ice",
-      "reference": "Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3"
+      "reference": "Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3",
+      "reference": "Morard et al. (2010) doi:10.5194/tc-4-489-2010"
     },
 
     {
@@ -4887,6 +4910,7 @@
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
       "reference": "Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=614",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -6173,6 +6197,7 @@
       "altitude": 2080,
       "length": [],
       "vertical-extent": 111,
+      "rock-type": "marble",
       "contents": "permanent ice",
       "comments": "vertical height of ice sheet is almost 30m",
       "reference": "Pennos et al. (2018) doi:10.1016/B978-0-12-811739-2.00018-8"
@@ -6188,7 +6213,7 @@
       "longitude": [],
       "altitude": 2560,
       "length": [],
-      "vertical-extent": [],
+      "vertical-extent": 26,
       "cave-type": [],
       "contents": "permanent ice",
       "comments": [],
@@ -6206,6 +6231,7 @@
       "altitude": [],
       "length": [],
       "vertical-extent": 407,
+      "rock-type": "limestone",
       "cave-type": [],
       "contents": "permanent ice",
       "comments": "vertical pit",
@@ -7720,10 +7746,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Arch Cave",
       "length": 100,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=557"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=557",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -7786,12 +7814,14 @@
       "phys-area-name": "Newberry Volcano",
       "principal-cave-name": "Arnold Ice Cave",
       "other-cave-name": "Crook County Ice Cave",
+      "altitude": 1381,
       "length": 49,
       "cave-type": "lava tunnel",
       "contents": "permanent ice",
       "cave-system": "Arnold Lava Tube System",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1285",
-      "reference": "Knutson (1976) www.vulcanospeleology.org/sym01/ISV1x08.pdf"
+      "reference": "Knutson (1976) www.vulcanospeleology.org/sym01/ISV1x08.pdf",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -7993,6 +8023,7 @@
       "length": 885,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=521",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -8081,8 +8112,10 @@
       "length": 243,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
+      "cave-system": "Horse Lava Tube System",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1251",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1339"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1339",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -8186,9 +8219,12 @@
       "state-or-province": "Oregon",
       "phys-area-name": [],
       "principal-cave-name": "Bat Cave",
-      "length": [],
+      "length": 166,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1281"
+      "cave-system": "Arnold Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1281",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -8280,10 +8316,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "principal-cave-name": "Beaconlight cave",
+      "phys-area-name": "Lava Beds National Monument",
+      "principal-cave-name": "Beaconlight Cave",
       "length": 127,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=465"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=465",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -8312,10 +8350,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Bearpaw Cave",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=603"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=603",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -8677,6 +8717,7 @@
       "cave-type": "lava tunnel",
       "cave-system": "Labyrinth Cave System",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=559",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -8805,6 +8846,7 @@
       "length": 231,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=522",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -8855,7 +8897,8 @@
       "principal-cave-name": "Boyd Cave",
       "length": 600,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1318"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1318",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -9453,6 +9496,7 @@
       "length": 2104,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=560",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -9843,20 +9887,25 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "phys-area-name": [],
-      "principal-cave-name": "Charcoal Cave #1",
-      "length": [],
+      "principal-cave-name": "Charcoal Cave #2",
+      "length": 144,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1286"
+      "cave-system": "Arnold Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1283",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "phys-area-name": [],
-      "principal-cave-name": "Charcoal Cave #2",
-      "length": [],
+      "principal-cave-name": "Charcoal Cave",
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1283"
+      "cave-system": "Arnold Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1286",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -10306,10 +10355,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Craig Cave",
       "length": 550,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=476"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=476",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -10337,7 +10388,7 @@
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "phys-area-name": "Lava Beds National Monument",
-      "phys-area-name": "Medicine Lake Highlands",
+      "phys-area-name": "Medicine Lake Highlands; Mammoth Crater",
       "principal-cave-name": "Crystal Cave",
       "other-cave-name": "Crystal Ice Cave",
       "other-cave-name": "Blue Crystal Ice Cave",
@@ -10348,8 +10399,10 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "contents": "permanent ice",
+      "comments": "ice pools; large hoarfrost crystals (e.g., near Fantasy Pasage and in Red Ice Room); icicles and ice stalagmites",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=565",
-      "reference": "Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14"
+      "reference": "Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -12019,9 +12072,12 @@
       "state-or-province": "Oregon",
       "phys-area-name": [],
       "principal-cave-name": "Deg Cave",
-      "length": [],
+      "length": 187,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1290"
+      "cave-system": "Arnold Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1290",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -12160,11 +12216,12 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
-      "phys-area-name": [],
+      "phys-area-name": "Lave Beds National Monument",
       "principal-cave-name": "Doc Yock Cave",
       "length": 20,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=566"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=566",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -12598,22 +12655,16 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California; Siskiyou County",
-      "phys-area-name": [],
+      "state-or-province": "California; Modoc County",
+      "phys-area-name": "Medicine Lake Highlands",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Fern Cave",
       "length": 380,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=486"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "Modoc County",
-      "principal-cave-name": "Fern Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=578"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=486",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=578",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -13142,7 +13193,9 @@
       "principal-cave-name": "Garbage Cave #1",
       "length": 104,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1261"
+      "cave-system": "Horse Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1261",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -13150,30 +13203,24 @@
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Garbage Cave #2",
-      "length": 61,
+      "length": 51,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1262"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Oregon",
-      "state-or-province": "Deschutes County",
-      "principal-cave-name": "Garbage Cave 2",
-      "length": 30,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1323"
+      "cave-system": "Horse Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1262",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1323",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
-      "phys-area-name": [],
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Garden Bridges Cave",
       "length": [],
       "cave-type": "lava tunnel",
       "cave-system": "Labyrinth Cave System",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=568"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=568",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -13484,12 +13531,12 @@
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
       "phys-area-name": "Lava Beds National Monument",
-      "phys-area-name": [],
       "principal-cave-name": "Golden Dome Cave",
       "length": 679,
       "cave-type": "lava tunnel",
       "cave-system": "Labyrinth Cave System",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=569",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -14399,11 +14446,11 @@
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
       "phys-area-name": "Lava Beds National Monument",
-      "phys-area-name": [],
       "principal-cave-name": "Hercules Leg Cave",
       "length": 594,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=571",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -14609,6 +14656,7 @@
       "cave-type": "lava tunnel",
       "cave-system": "Labyrinth Cave System",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=562",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -14626,20 +14674,14 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
-      "principal-cave-name": "Horse Cave #1",
+      "principal-cave-name": "Horse Cave",
       "length": 401,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1265"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Oregon",
-      "state-or-province": "Deschutes County",
-      "principal-cave-name": "Horse Cave #2",
-      "length": 152,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1266"
+      "cave-system": "Horse Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1265",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1266",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -15064,6 +15106,7 @@
       "length": 91,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=572",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -15597,6 +15640,7 @@
       "length": 720,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=658",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -16144,10 +16188,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Kirk White's Cave",
       "length": 73,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=609"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=609",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -16533,6 +16579,7 @@
       "cave-type": "lava tunnel",
       "cave-system": "Labyrinth Cave System",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=573",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -16648,6 +16695,7 @@
       "cave-type": "lava tunnel",
       "cave-system": "Labyrinth Cave System",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=585",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -16897,7 +16945,9 @@
       "principal-cave-name": "Lewis Farm 2 Cave",
       "length": 26,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1367"
+      "cave-system": "Horse Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1367",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -16907,7 +16957,9 @@
       "principal-cave-name": "Lewis Farm Caves",
       "length": 207,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1269"
+      "cave-system": "Horse Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1269",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -17033,9 +17085,10 @@
       "state-or-province": "Oregon",
       "phys-area-name": [],
       "principal-cave-name": "Log Crib Cave",
-      "length": 30,
+      "length": 40,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1316"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1316",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -18404,6 +18457,7 @@
       "length": 235,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=589",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -19229,6 +19283,7 @@
       "length": 66,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=590",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -19383,6 +19438,7 @@
       "length": 315,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=657",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -19611,9 +19667,11 @@
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Pictograph Cave",
-      "length": 536,
+      "length": 549,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1284"
+      "cave-system": "Arnold Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1284",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -19830,11 +19888,13 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Post Office Cave",
       "other-cave-name": "Postoffice Cave",
       "length": 2357,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=591"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=591",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -21497,6 +21557,7 @@
       "length": 1228,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=593",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -21525,10 +21586,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Sharks Mouth Cave",
       "length": 460,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=524"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=524",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -21975,10 +22038,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Silver Cave",
       "length": 600,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=594"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=594",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -22008,7 +22073,9 @@
       "principal-cave-name": "Skeleton Cave",
       "length": 1042,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1319"
+      "contents": "fossils",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1319",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -22241,7 +22308,8 @@
       "cave-type": "lava tunnel",
       "contents": "permanent ice",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1315",
-      "reference": "Popa et al. (2012) doi:10.1089/ast.2011.0639"
+      "reference": "Popa et al. (2012) doi:10.1089/ast.2011.0639",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -22550,9 +22618,11 @@
       "state-or-province": "Oregon",
       "phys-area-name": [],
       "principal-cave-name": "Stevens Road Cave",
-      "length": [],
+      "length": 31,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1293"
+      "cave-system": "Horse Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1293",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -22570,10 +22640,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Stinking Cave",
       "length": 39,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=596"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=596",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -22595,9 +22667,11 @@
       "state-or-province": "Oregon",
       "phys-area-name": [],
       "principal-cave-name": "Stookey Ranch Cave",
-      "length": [],
+      "length": 186,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1282"
+      "cave-system": "Arnold Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1282",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -23391,20 +23465,24 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Tickner Cave",
       "length": 442,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=639"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=639",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Tickner Chimneys",
       "length": 800,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=648"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=648",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673"
     },
 
     {
@@ -24081,7 +24159,7 @@
       "state-or-province": "Utah",
       "state-or-province": "Garfield County",
       "phys-area-name": "Markagnunt Plateau",
-      "principal-cave-name": [],
+      "principal-cave-name": "(Unnamed Cave)",
       "other-cave-name": "Mathesons Cave",
       "other-cave-name": "Alvas Cave",
       "length": 876,
@@ -24292,6 +24370,7 @@
       "length": 498,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=640",
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -24858,7 +24937,9 @@
       "principal-cave-name": "Wilson Cave",
       "length": 73,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1294"
+      "cave-system": "Horse Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1294",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {
@@ -24886,9 +24967,11 @@
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Wind Cave",
-      "length": 975,
+      "length": 1170,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1280"
+      "cave-system": "Arnold Lava Tube System",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1280",
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
     {

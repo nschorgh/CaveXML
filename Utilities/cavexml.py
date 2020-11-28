@@ -91,7 +91,6 @@ def parse_AltitudeEntry(alt):
 
 def parse_cave_id(caveid):
 
-    iso = ''
     org = ''
     id = ''
     
@@ -100,16 +99,15 @@ def parse_cave_id(caveid):
     
     str = caveid.text
     if str is not None:
-        iso = str.split('-')[0]  # 2-letter country ISO code
         try:
-            org = str.split('-')[1]  # 3-letter organization code
+            org = str.split('-')[0]  # 3-letter organization code
             re.compile("[A-Z]{3}", org)  # fails if it doesn't match
-            id  = str.split('-')[2]
+            id  = str.split('-')[1]
         except:  # no organization given
             org = ''
-            id  = str.split('-')[1]
+            id  = str.split('-')[0]
 
-    return iso, org, id
+    return org, id
 
 
 

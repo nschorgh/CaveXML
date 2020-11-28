@@ -7,7 +7,7 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Tennengebirge</phys-area-name>
       <principal-cave-name>Eisriesenwelt</principal-cave-name>
-      <cave-id>AT-1511/24</cave-id>
+      <cave-id>1511/24</cave-id>
       <latitude>47.511</latitude>
       <longitude>13.193</longitude>
       <altitude>1657</altitude>
@@ -27,7 +27,7 @@
       <state-or-province>Steiermark; Oberösterreich</state-or-province>
       <phys-area-name>Totes Gebirge</phys-area-name>
       <principal-cave-name>Schönberg-Höhlensystem</principal-cave-name>
-      <cave-id>AT-1626/300</cave-id>
+      <cave-id>1626/300</cave-id>
       <latitude>47.718</latitude>
       <longitude>13.787</longitude>
       <altitude>1459-1933</altitude>
@@ -62,7 +62,7 @@
       <state-or-province>Oberösterreich</state-or-province>
       <phys-area-name>Dachstein</phys-area-name>
       <principal-cave-name>Dachstein-Mammuthöhle</principal-cave-name>
-      <cave-id>AT-1547/9</cave-id>
+      <cave-id>1547/9</cave-id>
       <latitude>47.534</latitude>
       <longitude>13.708</longitude>
       <altitude>927-1828</altitude>
@@ -110,7 +110,7 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Tennengebirge</phys-area-name>
       <principal-cave-name>Schneeloch</principal-cave-name>
-      <cave-id>AT-1511/7</cave-id>
+      <cave-id>1511/7</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1450 main entrance</altitude>
@@ -125,7 +125,7 @@
       <state-or-province>Steiermark</state-or-province>
       <phys-area-name>Schneealpe</phys-area-name>
       <principal-cave-name>Schneeloch</principal-cave-name>
-      <cave-id>AT-1851/7</cave-id>
+      <cave-id>1851/7</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1440</altitude>
@@ -170,7 +170,7 @@
       <phys-area-name>Tennengebirge</phys-area-name>
       <principal-cave-name>Eiskogelhöhle</principal-cave-name>
       <other-cave-name>Eiskogel-Tropfsteinhöhle</other-cave-name>
-      <cave-id>AT-1511/101</cave-id>
+      <cave-id>1511/101</cave-id>
       <latitude>47.49500</latitude>
       <longitude>13.28922</longitude>
       <altitude>2110</altitude>
@@ -218,7 +218,7 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Untersberg</phys-area-name>
       <principal-cave-name>Gamslöcher-Kolowrat-Höhlensystem</principal-cave-name>
-      <cave-id>AT-1339/1</cave-id>
+      <cave-id>1339/1</cave-id>
       <length>44003</length>
       <vertical-extent>1130</vertical-extent>
       <rock-type>limestone</rock-type>
@@ -236,7 +236,7 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Untersberg</phys-area-name>
       <principal-cave-name>Salzburgerschacht</principal-cave-name>
-      <cave-id>AT-1339/69</cave-id>
+      <cave-id>1339/69</cave-id>
       <length>~6000</length>
       <rock-type>limestone</rock-type>
       <cave-system>Gamslöcher-Kolowrat-Höhlensystem</cave-system>
@@ -796,7 +796,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Voragine di Oltre M 40 Presso l'Ometto del Bregai</principal-cave-name>
       <other-cave-name/>
-      <cave-id>IT-LOL-1586</cave-id>
+      <cave-id>LOL-1586</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2090</altitude>
@@ -811,7 +811,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Abisso di val Laghetto</principal-cave-name>
       <other-cave-name/>
-      <cave-id>IT-LOL-1600</cave-id>
+      <cave-id>LOL-1600</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1823</altitude>
@@ -826,7 +826,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Aibsso Nel Bregai Medio</principal-cave-name>
       <other-cave-name/>
-      <cave-id>IT-LOL-1640</cave-id>
+      <cave-id>LOL-1640</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1930</altitude>
@@ -841,7 +841,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Abisso Delle Spade</principal-cave-name>
       <other-cave-name/>
-      <cave-id>IT-LOL-1648</cave-id>
+      <cave-id>LOL-1648</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2047</altitude>
@@ -856,7 +856,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Abusso sul Margine dell'Alto Bregai</principal-cave-name>
       <other-cave-name/>
-      <cave-id>IT-LOL-1650</cave-id>
+      <cave-id>LOL-1650</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2030</altitude>
@@ -871,7 +871,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Grotta delle Condotte Freatiche</principal-cave-name>
       <other-cave-name/>
-      <cave-id>IT-LOL-1739</cave-id>
+      <cave-id>LOL-1739</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2125</altitude>
@@ -886,7 +886,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Abisso dei Marons Glaces</principal-cave-name>
       <other-cave-name/>
-      <cave-id>IT-LOL-1809</cave-id>
+      <cave-id>LOL-1809</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2075</altitude>
@@ -901,7 +901,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Grotta del Pifferaio</principal-cave-name>
       <other-cave-name/>
-      <cave-id>IT-LOL-1842</cave-id>
+      <cave-id>LOL-1842</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2140</altitude>
@@ -916,7 +916,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Infermi nel Ghiaccio</principal-cave-name>
       <other-cave-name/>
-      <cave-id>IT-LOL-1887</cave-id>
+      <cave-id>LOL-1887</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2065</altitude>
@@ -931,7 +931,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Inferno di Ghiaccio</principal-cave-name>
       <other-cave-name/>
-      <cave-id>IT-LOL-1904</cave-id>
+      <cave-id>LOL-1904</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2120</altitude>
@@ -946,7 +946,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Holiday on Ice</principal-cave-name>
       <other-cave-name/>
-      <cave-id>IT-LOL-1916</cave-id>
+      <cave-id>LOL-1916</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2144</altitude>
@@ -961,7 +961,7 @@
       <phys-area-name>Piano delle Platigliole-Monte Scorluzzo</phys-area-name>
       <principal-cave-name>Grotta di Cristallo</principal-cave-name>
       <other-cave-name/>
-      <cave-id>IT-LOS-3056</cave-id>
+      <cave-id>LOS-3056</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2780</altitude>
@@ -2662,7 +2662,7 @@
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
       <other-cave-name/>
-      <cave-id>ES-CS-8</cave-id>
+      <cave-id>CS-8</cave-id>
       <latitude/>
       <longitude/>
       <altitude/>
@@ -2690,7 +2690,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <phys-area-name>Escuain</phys-area-name>
       <other-cave-name/>
-      <cave-id>ES-C33</cave-id>
+      <cave-id>C33</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2360</altitude>
@@ -2704,7 +2704,7 @@
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name>Avenc Sala Gelada</principal-cave-name>
-      <cave-id>ES-C40</cave-id>
+      <cave-id>C40</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2440</altitude>
@@ -2718,7 +2718,7 @@
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name>Cova Fresca</principal-cave-name>
-      <cave-id>ES-B13</cave-id>
+      <cave-id>B13</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2320</altitude>
@@ -2732,7 +2732,7 @@
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
       <other-cave-name/>
-      <cave-id>ES-B17</cave-id>
+      <cave-id>B17</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2140</altitude>
@@ -2761,7 +2761,7 @@
       <phys-area-name>Añelarre</phys-area-name>
       <principal-cave-name>Sima del Hielo</principal-cave-name>
       <other-cave-name/>
-      <cave-id>ES-AN62</cave-id>
+      <cave-id>AN62</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1988</altitude>
@@ -2817,7 +2817,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name/>
       <other-cave-name/>
-      <cave-id>ES-LO7-17</cave-id>
+      <cave-id>LO7-17</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2076</altitude>
@@ -2831,7 +2831,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name/>
       <other-cave-name/>
-      <cave-id>ES-LO7-3</cave-id>
+      <cave-id>LO7-3</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2071</altitude>
@@ -2845,7 +2845,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name/>
       <other-cave-name/>
-      <cave-id>ES-AN118</cave-id>
+      <cave-id>AN118</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2077</altitude>
@@ -2859,7 +2859,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name/>
       <other-cave-name/>
-      <cave-id>ES-AN230</cave-id>
+      <cave-id>AN230</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2087</altitude>
@@ -2873,7 +2873,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name/>
       <other-cave-name/>
-      <cave-id>ES-C213</cave-id>
+      <cave-id>C213</cave-id>
       <latitude/>
       <longitude/>
       <altitude/>
@@ -2915,7 +2915,7 @@
       <phys-area-name>Tendeñera</phys-area-name>
       <principal-cave-name>Cueva del Hielo</principal-cave-name>
       <other-cave-name/>
-      <cave-id>ES-ST2</cave-id>
+      <cave-id>ST2</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2200</altitude>
@@ -2943,7 +2943,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name>Fenez Ice Cave</principal-cave-name>
       <other-cave-name/>
-      <cave-id>ES-T3</cave-id>
+      <cave-id>T3</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2390</altitude>
@@ -2957,7 +2957,7 @@
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name/>
-      <cave-id>ES-S-10</cave-id>
+      <cave-id>S-10</cave-id>
       <latitude/>
       <longitude/>
       <altitude/>
@@ -2972,7 +2972,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name>Grajera de Turbón</principal-cave-name>
       <other-cave-name/>
-      <cave-id>ES-T1</cave-id>
+      <cave-id>T1</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2208</altitude>
@@ -2986,7 +2986,7 @@
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name/>
-      <cave-id>ES-A31</cave-id>
+      <cave-id>A31</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2473</altitude>
@@ -3001,7 +3001,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <phys-area-name>Cotiella</phys-area-name>
       <principal-cave-name>A294</principal-cave-name>
-      <cave-id>ES-A294</cave-id>
+      <cave-id>A294</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2238</altitude>
@@ -3018,7 +3018,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name/>
       <other-cave-name/>
-      <cave-id>ES-A69</cave-id>
+      <cave-id>A69</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2170</altitude>
@@ -3032,7 +3032,7 @@
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name/>
-      <cave-id>ES-A152</cave-id>
+      <cave-id>A152</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2191</altitude>
@@ -3047,7 +3047,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name/>
       <other-cave-name/>
-      <cave-id>ES-A405</cave-id>
+      <cave-id>A405</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2338</altitude>
@@ -3062,7 +3062,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name/>
       <other-cave-name/>
-      <cave-id>ES-C27</cave-id>
+      <cave-id>C27</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2456</altitude>
@@ -3077,7 +3077,7 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <principal-cave-name/>
       <other-cave-name/>
-      <cave-id>ES-B94</cave-id>
+      <cave-id>B94</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2440</altitude>
@@ -6080,7 +6080,7 @@
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
       <principal-cave-name>Ice Cave</principal-cave-name>
-      <cave-id>ME-03110</cave-id>
+      <cave-id>03110</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1945</altitude>
@@ -6096,7 +6096,7 @@
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
       <principal-cave-name>03061</principal-cave-name>
-      <cave-id>ME-03061</cave-id>
+      <cave-id>03061</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2034</altitude>
@@ -6130,12 +6130,12 @@
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
       <principal-cave-name>03061-T5 Cave system</principal-cave-name>
-      <cave-id>ME-03067</cave-id>
+      <cave-id>03067</cave-id>
       <latitude/>
       <longitude/>
       <rock-type/>
       <contents>permanent ice</contents>
-      <branch-name>ME-03061</branch-name>
+      <branch-name>03061</branch-name>
       <branch-name>T5</branch-name>
       <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
    </record>
@@ -6144,7 +6144,7 @@
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
       <principal-cave-name>Mining Cave</principal-cave-name>
-      <cave-id>ME-03313</cave-id>
+      <cave-id>03313</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2019</altitude>
@@ -6160,7 +6160,7 @@
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
       <principal-cave-name>Ice Giant Cave</principal-cave-name>
-      <cave-id>ME-03114</cave-id>
+      <cave-id>03114</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2099</altitude>
@@ -6176,7 +6176,7 @@
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
       <principal-cave-name>Alladin's Cave</principal-cave-name>
-      <cave-id>ME-03149</cave-id>
+      <cave-id>03149</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1960</altitude>
@@ -6191,7 +6191,7 @@
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
       <principal-cave-name>Bolt from the Blue Cave</principal-cave-name>
-      <cave-id>ME-03146</cave-id>
+      <cave-id>03146</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1930</altitude>
@@ -6207,7 +6207,7 @@
       <state-or-province/>
       <phys-area-name>Prokletije Mountains</phys-area-name>
       <principal-cave-name>Ice Dragon Cave</principal-cave-name>
-      <cave-id>ME-03003</cave-id>
+      <cave-id>03003</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1881</altitude>
@@ -7470,7 +7470,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Atkinson Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-20</cave-id>
+      <cave-id>ASF-4U-20</cave-id>
       <length>101</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -7481,7 +7481,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>(Unknown Name)</principal-cave-name>
-      <cave-id>AU-ASF-4U-21</cave-id>
+      <cave-id>ASF-4U-21</cave-id>
       <length>160</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -7640,7 +7640,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Barkers Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-34</cave-id>
+      <cave-id>ASF-4U-34</cave-id>
       <length>905</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -7818,7 +7818,7 @@
       <state-or-province>North Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Bayliss Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-30</cave-id>
+      <cave-id>ASF-4U-30</cave-id>
       <length>1350</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -8199,7 +8199,7 @@
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Blood Cave</principal-cave-name>
-      <cave-id>AU-ASF-3H-H32</cave-id>
+      <cave-id>ASF-3H-H32</cave-id>
       <length>3</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1576</reference>
@@ -8493,7 +8493,7 @@
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Bridge Cave</principal-cave-name>
-      <cave-id>AU-ASF-3H-13</cave-id>
+      <cave-id>ASF-3H-13</cave-id>
       <length>200</length>
       <vertical-extent>20</vertical-extent>
       <number-of-entrances>2</number-of-entrances>
@@ -11056,7 +11056,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Darcy Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-31</cave-id>
+      <cave-id>ASF-4U-31</cave-id>
       <length>99</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -11944,7 +11944,7 @@
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Flower Pot</principal-cave-name>
-      <cave-id>AU-ASF-3H-19</cave-id>
+      <cave-id>ASF-3H-19</cave-id>
       <length>65</length>
       <vertical-extent>12</vertical-extent>
       <cave-type>lava tunnel</cave-type>
@@ -12682,7 +12682,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Greeley Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-11</cave-id>
+      <cave-id>ASF-4U-11</cave-id>
       <length>103</length>
       <number-of-entrances>2</number-of-entrances>
       <rock-type>basalt</rock-type>
@@ -13054,7 +13054,7 @@
       <phys-area-name>Mt. Napier</phys-area-name>
       <other-cave-name>H-X1</other-cave-name>
       <other-cave-name>3H-X1</other-cave-name>
-      <cave-id>AU-ASF-3H-62</cave-id>
+      <cave-id>ASF-3H-62</cave-id>
       <length>15</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1581</reference>
@@ -13066,7 +13066,7 @@
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Guano Grotto</principal-cave-name>
       <other-cave-name>H-X2</other-cave-name>
-      <cave-id>AU-ASF-3H-63</cave-id>
+      <cave-id>ASF-3H-63</cave-id>
       <length>9</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1582</reference>
@@ -13086,7 +13086,7 @@
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Tree Root Cave</principal-cave-name>
       <other-cave-name>H-X5; H-X4</other-cave-name>
-      <cave-id>AU-ASF-3H-65</cave-id>
+      <cave-id>ASF-3H-65</cave-id>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1584</reference>
@@ -13099,7 +13099,7 @@
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>The Forge</principal-cave-name>
       <other-cave-name>H-X6</other-cave-name>
-      <cave-id>AU-ASF-3H-67</cave-id>
+      <cave-id>ASF-3H-67</cave-id>
       <length>10</length>
       <vertical-extent>3</vertical-extent>
       <cave-type>lava tunnel</cave-type>
@@ -13249,7 +13249,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Hanson Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-1</cave-id>
+      <cave-id>ASF-4U-1</cave-id>
       <length>40</length>
       <vertical-extent>8</vertical-extent>
       <rock-type>basalt</rock-type>
@@ -13261,7 +13261,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Harbour Bridge Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-9</cave-id>
+      <cave-id>ASF-4U-9</cave-id>
       <length>35</length>
       <number-of-entrances>2</number-of-entrances>
       <rock-type>basalt</rock-type>
@@ -13425,7 +13425,7 @@
       <phys-area-name>Harrat Nawasif-Buqum</phys-area-name>
       <principal-cave-name>Ghar Al Hibashi</principal-cave-name>
       <other-cave-name>Hibashi Cave</other-cave-name>
-      <cave-id>SA-180</cave-id>
+      <cave-id>180</cave-id>
       <length>581</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -14963,7 +14963,7 @@
       <phys-area-name>Chyulu Hills; Kimabui Hills</phys-area-name>
       <principal-cave-name>Kimakia Cave</principal-cave-name>
       <other-cave-name>Ithundu Mine</other-cave-name>
-      <cave-id>KE-NGR-415563</cave-id>
+      <cave-id>NGR-415563</cave-id>
       <altitude>1120</altitude>
       <length>1400</length>
       <rock-type>basalt</rock-type>
@@ -16338,8 +16338,8 @@
       <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Mathaioni Cave</principal-cave-name>
       <other-cave-name>Mathaioni I</other-cave-name>
-      <cave-id>KE-NGR-436547</cave-id>
-      <cave-id>KE-360/1-4</cave-id>
+      <cave-id>NGR-436547</cave-id>
+      <cave-id>360/1-4</cave-id>
       <length>1900</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -16363,7 +16363,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Matthew Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-32</cave-id>
+      <cave-id>ASF-4U-32</cave-id>
       <length>40</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -17690,7 +17690,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Ollier Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-8</cave-id>
+      <cave-id>ASF-4U-8</cave-id>
       <length>50</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1422</reference>
@@ -18096,7 +18096,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Peterson</principal-cave-name>
-      <cave-id>AU-ASF-4U-15</cave-id>
+      <cave-id>ASF-4U-15</cave-id>
       <length>102</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -18233,7 +18233,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Pinwill Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-17</cave-id>
+      <cave-id>ASF-4U-17</cave-id>
       <length>560</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -19333,8 +19333,9 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Road Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-U28</cave-id>
+      <cave-id>ASF-4U-U28</cave-id>
       <length>220</length>
+      <number-of-entrances>2</number-of-entrances>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1426</reference>
@@ -19344,8 +19345,8 @@
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
-      <principal-cave-name>Road Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-U29</cave-id>
+      <other-cave-name>Road Cave</other-cave-name>
+      <cave-id>ASF-4U-U29</cave-id>
       <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -19891,7 +19892,7 @@
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Shallow Cave</principal-cave-name>
-      <cave-id>AU-ASF-3H-31</cave-id>
+      <cave-id>ASF-3H-31</cave-id>
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1588</reference>
@@ -20378,7 +20379,7 @@
       <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Skull Cave</principal-cave-name>
       <other-cave-name>Mathaioni II</other-cave-name>
-      <cave-id>KE-327/1</cave-id>
+      <cave-id>327/1</cave-id>
       <length>350</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -20671,7 +20672,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>St. Pauls Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-5</cave-id>
+      <cave-id>ASF-4U-5</cave-id>
       <length>30</length>
       <vertical-extent>20</vertical-extent>
       <rock-type>basalt</rock-type>
@@ -20827,7 +20828,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Stevens Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-16</cave-id>
+      <cave-id>ASF-4U-16</cave-id>
       <length>70</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -21183,7 +21184,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Taylor Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-4</cave-id>
+      <cave-id>ASF-4U-4</cave-id>
       <length>108</length>
       <vertical-extent>14</vertical-extent>
       <rock-type>basalt</rock-type>
@@ -21981,7 +21982,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Traves Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-18</cave-id>
+      <cave-id>ASF-4U-18</cave-id>
       <length>67</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -21992,7 +21993,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Johnson Cave</principal-cave-name>
-      <cave-id>AU-ASF-4U-19</cave-id>
+      <cave-id>ASF-4U-19</cave-id>
       <length>125</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -22051,7 +22052,7 @@
       <state-or-province>Victoria</state-or-province>
       <phys-area-name>Mt. Napier</phys-area-name>
       <principal-cave-name>Tunnel Cave</principal-cave-name>
-      <cave-id>AU-ASF-3H-66</cave-id>
+      <cave-id>ASF-3H-66</cave-id>
       <length>20</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1592</reference>

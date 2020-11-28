@@ -404,7 +404,6 @@
 	    <xs:enumeration value="accidental trogloxenes" />
 	    <xs:enumeration value="troglophiles" />
 	    <xs:enumeration value="troglobites" />
-	    <xs:enumeration value="fossils" />
 	    <xs:enumeration value="charcoal" />
 	    <xs:enumeration value="paintings" />
 	    <xs:enumeration value="minerals" />

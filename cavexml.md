@@ -86,7 +86,7 @@ UISIC field [CA8](http://www.uisic.uis-speleo.org/exchange/atendefn.html#8).
 
 **\<contents\>**  *controlled vocabulary*  
 What the cave contains. Similar to UISIC field [CA72](http://www.uisic.uis-speleo.org/exchange/atendefn.html#72).  
-List of options: permanent ice, periodic ice, perennially submerged, intermittently submerged, extensive guano, many bats, occasional bats, fish, snakes, trogloxenes, accidental trogloxenes, troglophiles, troglobites, fossils, charcoal, paintings, minerals, lake(s), waterfall(s), tree roots. CA72 has [36 allowed options](http://www.uisic.uis-speleo.org/exchange/atencode.html#72), which have been shortened to 18, and the two terms about submersion are borrowed from [CA2](http://www.uisic.uis-speleo.org/exchange/atendefn.html#2). If the desired entry is not available among the list of terms, enter it in [comments] instead.
+List of options: permanent ice, periodic ice, perennially submerged, intermittently submerged, extensive guano, many bats, occasional bats, fish, snakes, trogloxenes, accidental trogloxenes, troglophiles, troglobites, charcoal, paintings, minerals, lake(s), waterfall(s), tree roots. CA72 has [36 allowed options](http://www.uisic.uis-speleo.org/exchange/atencode.html#72), which have been shortened to 17, and the two terms about submersion are borrowed from [CA2](http://www.uisic.uis-speleo.org/exchange/atendefn.html#2). If the desired entry is not available among the list of terms, enter it in [comments] instead.
 
 **\<comments\>**  *string*  
 Comments about a cave or karst feature. This field should be used only when a suitable more specific field is not available. Use semicolons (;) between separate comments, or place them in separate [comments] entries.  

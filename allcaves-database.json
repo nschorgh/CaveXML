@@ -221,14 +221,45 @@
       "length": 38000,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "cave-system": "Gamslöcher-Kolowrat-System",
+      "cave-system": "Gamslöcher-Kolowrat-Höhlensystem",
       "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9"
+    },
+
+    {
+      "country-name": "Austria",
+      "state-or-province": "Salzburg",
+      "phys-area-name": "Untersberg",
+      "principal-cave-name": "Gamslöcher-Kolowrat-Höhlensystem",
+      "cave-id": "AT-1339/1",
+      "length": 44003,
+      "vertical-extent": 1130,
+      "rock-type": "limestone",
+      "branch-name": "Kolowrathöhle",
+      "branch-name": "Gamslöcher",
+      "branch-name": "Salzburgerschacht",
+      "reference": "Die Höhle 57 (2006)",
+      "reference": "Die Höhle 61 (2010); Die Höhle 63 (2012)",
+      "reference": "Neubauer (2010) DOI:10.5038/1827-806X.40.2.4",
+      "reference": "https://hoehle.org/laengste-tiefste",
+      "reference": "Bieniok et al. (2011) doi:10.5038/1827-806X.40.2.4"
+    },
+
+    {
+      "country-name": "Austria",
+      "state-or-province": "Salzburg",
+      "phys-area-name": "Untersberg",
+      "principal-cave-name": "Salzburgerschacht",
+      "cave-id": "AT-1339/69",
+      "length": "~6000",
+      "rock-type": "limestone",
+      "cave-system": "Gamslöcher-Kolowrat-Höhlensystem",
+      "reference": "https://www.zobodat.at/pdf/HdN_9_0175-0183.pdf"
     },
 
     {
       "country-name": "Canada",
       "state-or-province": "Yukon",
-      "phys-area-name": "Ni’iinlii Njik / Old Crow",
+      "phys-area-name": "Ni’iinlii Njik; Old Crow",
       "principal-cave-name": "Tsi Tse Han Cave",
       "other-cave-name": [],
       "latitude": 66.3,
@@ -244,23 +275,23 @@
     {
       "country-name": "Canada",
       "state-or-province": "Yukon",
-      "phys-area-name": "Ni’iinlii Njik / Old Crow",
+      "phys-area-name": "Ni’iinlii Njik; Old Crow",
       "principal-cave-name": "Grande Caverne Glacee",
       "other-cave-name": [],
       "latitude": 66.3,
       "longitude": -139.3,
       "altitude": "750–950",
-      "length": 90,
+      "length": 110,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "comments": "permafrost",
+      "comments": "permafrost; massive ice",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
 
     {
       "country-name": "Canada",
       "state-or-province": "Yukon",
-      "phys-area-name": "Ni’iinlii Njik / Old Crow",
+      "phys-area-name": "Ni’iinlii Njik; Old Crow",
       "principal-cave-name": "Caverne des Meandres",
       "other-cave-name": [],
       "latitude": 66.7,
@@ -276,23 +307,23 @@
     {
       "country-name": "Canada",
       "state-or-province": "Yukon",
-      "phys-area-name": "Ni’iinlii Njik / Old Crow",
+      "phys-area-name": "Ni’iinlii Njik; Old Crow",
       "principal-cave-name": "Bear Cave",
-      "other-cave-name": [],
+      "other-cave-name": "Chii Ch’à’an",
       "latitude": 66,
       "longitude": -139.3,
       "altitude": "750–950",
-      "length": " >55",
+      "length": 220,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "comments": "permafrost",
+      "comments": "permafrost; clear pillars of ice and small hoar crystals",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
 
     {
       "country-name": "Canada",
       "state-or-province": "Yukon",
-      "phys-area-name": "Ni’iinlii Njik / Old Crow",
+      "phys-area-name": "Ni’iinlii Njik; Old Crow",
       "principal-cave-name": "Caverne ‘85",
       "other-cave-name": [],
       "latitude": 66.8,
@@ -301,7 +332,7 @@
       "length": 40,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "comments": "permafrost",
+      "comments": "permafrost; massive ice",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
 
@@ -326,7 +357,7 @@
       "country-name": "Canada",
       "state-or-province": "Northwest Territories",
       "phys-area-name": "Nahanni Canyon",
-      "principal-cave-name": "Mickey",
+      "principal-cave-name": "Grotte Mickey",
       "other-cave-name": [],
       "latitude": 61.3,
       "longitude": -124.1,
@@ -2154,6 +2185,7 @@
       "length": 700,
       "rock-type": "limestone",
       "contents": "permanent ice",
+      "contents": "many bats",
       "reference": "Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5",
       "reference": "Racoviţă and Onac (2000) 'Scărișoara Glacier Cave' Editura Carpatica, 138pp",
       "reference": "Holmlund et al. (2005) doi:j.0435-3676.2005.00252.x",
@@ -2681,6 +2713,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "Sarrios 1–6",
       "other-cave-name": [],
@@ -2695,6 +2728,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "Casco 1–3",
       "other-cave-name": [],
@@ -2709,6 +2743,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "Torre 1–3",
       "other-cave-name": [],
@@ -2723,6 +2758,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "Cilindro",
       "other-cave-name": [],
@@ -2737,6 +2773,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "Faja Luenga",
       "other-cave-name": [],
@@ -2751,6 +2788,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "Brecha 1–3",
       "other-cave-name": [],
@@ -2765,6 +2803,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "La Roya 1–5",
       "other-cave-name": [],
@@ -2779,6 +2818,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "Cristales",
       "other-cave-name": [],
@@ -2793,6 +2833,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "other-cave-name": [],
       "cave-id": "ES-CS-8",
@@ -2806,6 +2847,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "phys-area-name": "Las Tucas",
       "principal-cave-name": "Avenc del gel (C8) Revilla",
@@ -2836,6 +2878,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "Avenc Sala Gelada",
       "cave-id": "ES-C40",
@@ -2850,6 +2893,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "Cova Fresca",
       "cave-id": "ES-B13",
@@ -2864,6 +2908,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "other-cave-name": [],
       "cave-id": "ES-B17",
@@ -2877,6 +2922,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "(Avenc de la Neu)",
       "other-cave-name": [],
@@ -2891,6 +2937,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "phys-area-name": "Añelarre",
       "principal-cave-name": "Sima del Hielo",
@@ -2907,6 +2954,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "Sima de Linza",
       "other-cave-name": [],
@@ -2921,6 +2969,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "N1",
       "other-cave-name": [],
@@ -2935,6 +2984,7 @@
 
     {
       "country-name": "Spain",
+      "state-or-province": [],
       "phys-area-name": "Pyrenees",
       "principal-cave-name": "N2",
       "other-cave-name": [],
@@ -3568,6 +3618,7 @@
       "length": 1483,
       "vertical-extent": 112,
       "contents": "permanent ice",
+      "contents": "many bats",
       "comments": "UNESCO world heritage site",
       "reference": "Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2",
       "reference": "www.ssj.sk/en/jaskyna/6-dobsinska-ice-cave",
@@ -5054,10 +5105,12 @@
       "latitude": [],
       "longitude": [],
       "altitude": [],
-      "length": [],
+      "length": 235,
       "vertical-extent": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "contents": "permanent ice",
+      "comments": "235m long downslope, and 45m upslope",
       "reference": "Pflitsch et al. (2016) doi:10.1657/AAAR0014-095",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=753"
     },
@@ -5073,6 +5126,7 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "contents": "permanent ice",
       "comments": "two large ice ponds",
@@ -5858,7 +5912,7 @@
       "vertical-extent": 52,
       "rock-type": [],
       "contents": "permanent ice",
-      "comments": [],
+      "comments": "congelation ice, sublimation ice, snow banks",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7",
       "reference": "Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves"
     },
@@ -6898,6 +6952,50 @@
     },
 
     {
+      "country-name": "Canada",
+      "state-or-province": "Nova Scotia; Hants County",
+      "phys-area-name": [],
+      "principal-cave-name": "Frenchman's Cave",
+      "length": 50,
+      "vertical-extent": [],
+      "rock-type": "gypsum",
+      "contents": "periodic ice",
+      "comments": "snow, hoarfrost, ice stalactites and stalagmites",
+      "comments": "37 identified species",
+      "reference": "Calder and Bleakney (1967) Natl. Speleol. Soc. Bull. 29(1) 23"
+    },
+
+    {
+      "country-name": "Canada",
+      "state-or-province": "Nova Scotia; Hants County",
+      "phys-area-name": [],
+      "principal-cave-name": "Woodville Ice Cave",
+      "latitude": 50.0341,
+      "longitude": -63.9555,
+      "length": 50,
+      "vertical-extent": [],
+      "rock-type": "gypsum",
+      "contents": "periodic ice",
+      "comments": "seasonal snow and ice",
+      "comments": "gypsum-anhydrite; solution cave",
+      "reference": "Moseley (2007) doi:10.15273/pnsis.v44i1.3883"
+    },
+
+    {
+      "country-name": "Canada",
+      "state-or-province": "Nova Scotia",
+      "principal-cave-name": "Minasville Ice Cave",
+      "latitude": 45.2750,
+      "longitude": -63.8170,
+      "length": [],
+      "vertical-extent": [],
+      "rock-type": [],
+      "contents": "many bats",
+      "reference": "Moseley (2007) doi:10.15273/pnsis.v44i1.3883",
+      "reference": "Iepure (2018) doi:10.1016/B978-0-12-811739-2.00007-3"
+    },
+
+    {
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
@@ -7039,8 +7137,13 @@
       "phys-area-name": "Mt. Suswa",
       "principal-cave-name": "14-18 Series",
       "length": 3500,
+      "number-of-entrances": 8,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1445"
+      "contents": "extensive guano",
+      "comments": "guano mining",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1445",
+      "reference": "Simons (1998) doi:10.5038/1827-806X.27.1.4",
+      "cave-use": "mine"
     },
 
     {
@@ -8444,10 +8547,11 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; North Hilo District",
       "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Big Black Cave",
       "length": 500,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "Mauna Loa flow of 1855",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=924",
@@ -8645,7 +8749,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Kilauea",
       "principal-cave-name": "Blair Cave",
       "length": 1110,
       "cave-type": "lava tunnel",
@@ -11409,7 +11513,6 @@
       "other-cave-name": "Finch Cave",
       "length": 110,
       "cave-type": "lava tunnel",
-      "contents": "fossils",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=708",
       "reference": "Steadman, D. W. (1986) \"Holocene vertebrate fossils from Isla Floreana, Galápagos.\" Smithsonian contributions to zoology Nr 413",
       "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
@@ -14218,7 +14321,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Mauna Kea",
       "principal-cave-name": "Hamakua Forest Reserve Cave#1",
       "length": 20,
       "cave-type": "lava tunnel",
@@ -14228,7 +14331,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Mauna Kea",
       "principal-cave-name": "Hamakua Forest Reserve Cave#2",
       "length": 250,
       "cave-type": "lava tunnel",
@@ -14260,7 +14363,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; North Hilo District",
       "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Hanging Pack Cave",
       "length": 1000,
@@ -14578,11 +14681,28 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Sleeping Beauty; Potluck system",
       "principal-cave-name": "Hoarfrost Cave",
       "altitude": 1066,
       "length": 46,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1652"
+      "contents": "permanent ice",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1652",
+      "reference": "Halliday (1976) Cascade Caver 15(10), 133 https://cascadegrotto.org/wp-content/uploads/CascadeCaver/1970s/1976-v015-n010.pdf",
+      "curation": "It's unverified whether the ice is permanent or periodic"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Washington",
+      "state-or-province": "Skamania County",
+      "phys-area-name": "Sleeping Beauty; Potluck system",
+      "principal-cave-name": "Sour Grapes Cave",
+      "altitude": [],
+      "length": "~100",
+      "number-of-entrances": 3,
+      "cave-type": "lava tunnel",
+      "reference": "Halliday (1976) Cascade Caver 15(10), 133 https://cascadegrotto.org/wp-content/uploads/CascadeCaver/1970s/1976-v015-n010.pdf"
     },
 
     {
@@ -14608,7 +14728,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Holoinawawai Stream Cave",
       "length": 700,
       "cave-type": "lava tunnel",
@@ -14629,7 +14749,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Hongo Store Cave",
       "length": 400,
       "cave-type": "lava tunnel",
@@ -14773,8 +14893,8 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "state-or-province": "Hawaii; North Kona",
+      "phys-area-name": "Hawaii (Big Island); Hualalai",
       "principal-cave-name": "Huehue Ranch Cave",
       "length": 50,
       "cave-type": "lava tunnel",
@@ -14789,7 +14909,8 @@
       "altitude": 1220,
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=895"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=895",
+      "reference": "Olson and James (1991) DOI:10.2307/40166794"
     },
 
     {
@@ -15463,9 +15584,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Kilauea",
       "principal-cave-name": "Jen's Puka",
       "length": 402,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=917"
     },
@@ -15473,9 +15595,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Kilauea",
       "principal-cave-name": "Jen's Puka Mauka Cave",
       "length": 26,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=918"
     },
@@ -15774,7 +15897,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Kalua O Lapa Cave",
       "length": 60,
       "cave-type": "lava tunnel",
@@ -15901,7 +16024,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Kau Cave #2",
       "length": 600,
       "cave-type": "lava tunnel",
@@ -16112,7 +16235,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Kilauea Forest Reserve #2",
       "altitude": 1650,
       "length": 20,
@@ -16144,13 +16267,19 @@
     {
       "country-name": "Kenya",
       "state-or-province": "Eastern Province; Machakos District",
-      "phys-area-name": "Chyulu Hills",
+      "phys-area-name": "Chyulu Hills; Kimabui Hills",
       "principal-cave-name": "Kimakia Cave",
       "other-cave-name": "Ithundu Mine",
+      "cave-id": "KE-NGR-415563",
+      "altitude": 1120,
       "length": 1400,
       "rock-type": "basalt",
-      "comments": "Holocene",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=693"
+      "cave-type": "lava tunnel",
+      "contents": "extensive guano",
+      "comments": "guano mining; Holocene",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=693",
+      "reference": "Simons (1998) doi:10.5038/1827-806X.27.1.4",
+      "cave-use": "mine"
     },
 
     {
@@ -16172,16 +16301,6 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=681"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
-      "principal-cave-name": "Kipuka Kanohina",
-      "length": 21147,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=933"
     },
 
     {
@@ -16445,7 +16564,25 @@
       "principal-cave-name": "Kula Kai Caverns",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=949"
+      "cave-system": "Kipuka Kanohina",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=949",
+      "cave-use": "guided tourist cave"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Mauna Loa; Kipuka Kanohina Cave Preserve",
+      "principal-cave-name": "Kipuka Kanohina",
+      "length": " >32000",
+      "vertical-extent": 208,
+      "cave-type": "lava tunnel",
+      "branch-name": "Poha Cave",
+      "branch-name": "Kula Kai Caverns",
+      "branch-name": "Eli's Pit Cave",
+      "branch-name": "Maelstrom",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=933",
+      "reference": "http://www.hawaiicaves.org/kanohina.htm"
     },
 
     {
@@ -17094,8 +17231,9 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Long Cave",
+      "altitude": "~2000",
       "length": 500,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=832"
@@ -17284,7 +17422,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "Lower Bird Park Cave",
       "length": 400,
       "cave-type": "lava tunnel",
@@ -17336,7 +17474,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Lower Waihoi Valley Cave",
       "length": 100,
       "cave-type": "lava tunnel",
@@ -17346,7 +17484,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Lower Wananalua Cave",
       "length": 75,
       "cave-type": "lava tunnel",
@@ -17647,11 +17785,18 @@
       "country-name": "Kenya",
       "state-or-province": "Kiboko; Machakos District",
       "phys-area-name": "Chyulu Hills",
-      "principal-cave-name": "Mathioni Cave",
+      "principal-cave-name": "Mathaioni Cave",
+      "other-cave-name": "Mathaioni I",
+      "cave-id": "KE-NGR-436547",
+      "cave-id": "KE-360/1-4",
       "length": 1900,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1134"
+      "contents": "extensive guano",
+      "comments": "guano mining; Holocene",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1134",
+      "reference": "Simons (1998) doi:10.5038/1827-806X.27.1.4",
+      "cave-use": "mine"
     },
 
     {
@@ -18232,7 +18377,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; North Hilo District",
       "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Mossy Fern Cave",
       "length": 300,
@@ -19025,7 +19170,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Offal Cave",
       "length": 3400,
       "cave-type": "lava tunnel",
@@ -19173,11 +19318,12 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; North Hilo District",
       "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Oozing Red Puka",
       "altitude": 2630,
       "length": 1090,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "Mauna Loa flow of 1855",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=928",
@@ -19677,7 +19823,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Pigeon Cave",
       "length": 300,
       "cave-type": "lava tunnel",
@@ -19934,7 +20080,8 @@
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii (Big Island)",
       "principal-cave-name": "Powerline Trail Cave",
-      "length": 100,
+      "altitude": "~2000",
+      "length": "100+",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=866"
     },
@@ -20024,16 +20171,6 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
-      "principal-cave-name": "Puka Moa",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=899"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii (Big Island)",
       "principal-cave-name": "Pukalani Cave",
       "length": 2048,
@@ -20085,7 +20222,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Puu Mahoe Cave",
       "length": 100,
       "cave-type": "lava tunnel",
@@ -20113,7 +20250,6 @@
       "length": 453,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "contents": "fossils",
       "comments": "important bird fossils",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=892",
       "reference": "James et al. (1987) doi:10.1073/pnas.84.8.2350",
@@ -20123,7 +20259,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Hualalai",
       "principal-cave-name": "Puu Waa waa Ranch Cave #1",
       "altitude": 1250,
       "length": 100,
@@ -20134,7 +20270,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Hualalai",
       "principal-cave-name": "Puu Waa waa Ranch Cave #2",
       "altitude": 1250,
       "length": 30,
@@ -20666,7 +20802,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; North Hilo District",
       "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Red Bird Cave",
       "length": 30,
@@ -20700,7 +20836,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; North Hilo District",
       "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Redemption Cave",
       "length": 1000,
@@ -20843,16 +20979,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Hilo District",
-      "phys-area-name": "Hawaii Island",
-      "principal-cave-name": "Relay Junction Caves",
-      "length": 170,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=851"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Relay Tower cave",
@@ -20924,15 +21050,17 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
+      "state-or-province": "Hawaii; North Hilo District",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "RJ Cave",
+      "other-cave-name": "Relay Junction Cave",
       "length": 200,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "Mauna Loa flow of 1855",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=929",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=919"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=919",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=851"
     },
 
     {
@@ -22073,7 +22201,6 @@
       "principal-cave-name": "Skeleton Cave",
       "length": 1042,
       "cave-type": "lava tunnel",
-      "contents": "fossils",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1319",
       "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
@@ -22115,10 +22242,15 @@
       "state-or-province": "Eastern Province; Machakos District",
       "phys-area-name": "Chyulu Hills",
       "principal-cave-name": "Skull Cave",
+      "other-cave-name": "Mathaioni II",
+      "cave-id": "KE-327/1",
       "length": 350,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=697"
+      "contents": "extensive guano",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=697",
+      "reference": "Simons (1998) doi:10.5038/1827-806X.27.1.4",
+      "cave-use": "mine"
     },
 
     {
@@ -22134,9 +22266,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; North Hilo District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "Skylight Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=754"
     },
@@ -22794,10 +22927,11 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; North Hilo District",
       "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Sunset Cave",
       "length": 370,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "Mauna Loa flow of 1855",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=930",
@@ -23429,7 +23563,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Thurston Lava Tube",
       "other-cave-name": "Nahuku",
       "altitude": 1200,
@@ -23842,8 +23976,8 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "state-or-province": "Hawaii; Kilauea Forest Reserve",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Transect 1 Cave",
       "length": 30,
       "cave-type": "lava tunnel",
@@ -24224,7 +24358,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "Upper Bird Park Cave",
       "length": 150,
       "cave-type": "lava tunnel",
@@ -24282,6 +24416,7 @@
       "principal-cave-name": "Puka Moa",
       "length": [],
       "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=899",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=953",
       "reference": "Olson and James (1991) DOI:10.2307/40166794"
     },
@@ -24309,10 +24444,11 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; North Hilo District",
       "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Upper Oozing Red Puka",
       "length": 80,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "Mauna Loa flow of 1855",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=923",
@@ -24344,7 +24480,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Upper Wananalua Cave",
       "length": 100,
       "cave-type": "lava tunnel",
@@ -24515,7 +24651,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Wahoi Valley Trench Cave",
       "length": 30,
       "cave-type": "lava tunnel",
@@ -24636,16 +24772,6 @@
       "length": 500,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=955"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii; Ka`u District",
-      "phys-area-name": "Hawaii Island",
-      "principal-cave-name": "Waipouli Caves",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=798"
     },
 
     {
@@ -25361,12 +25487,14 @@
       "principal-cave-name": "Delissea Cave System",
       "length": " >64700",
       "vertical-extent": " >1500",
+      "cave-type": "lava tunnel",
       "reference": "http://www.vulcanospeleology.org/newsletters/Vulcano76%20July%202020%20Hi%20ResV2.pdf"
     },
 
     {
       "country-name": "Viet Nam",
       "state-or-province": "Dak Sor",
+      "phys-area-name": [],
       "principal-cave-name": "C0",
       "length": 476,
       "vertical-extent": 15,
@@ -25377,6 +25505,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Dak Sor",
+      "phys-area-name": [],
       "principal-cave-name": "C1, C2",
       "length": 402,
       "vertical-extent": 4,
@@ -25387,6 +25516,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Dak Sor",
+      "phys-area-name": [],
       "principal-cave-name": "C3",
       "length": 716,
       "vertical-extent": 7,
@@ -25397,6 +25527,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Dak Sor",
+      "phys-area-name": [],
       "principal-cave-name": "C4",
       "length": 252,
       "vertical-extent": 9,
@@ -25407,6 +25538,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Dak Sor",
+      "phys-area-name": [],
       "principal-cave-name": "C6",
       "length": 180,
       "vertical-extent": 4,
@@ -25417,6 +25549,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Nam Da",
+      "phys-area-name": [],
       "principal-cave-name": "C6.1",
       "length": 294,
       "vertical-extent": 5,
@@ -25427,6 +25560,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Nam Da",
+      "phys-area-name": [],
       "principal-cave-name": "C7",
       "length": 1067,
       "vertical-extent": "~15",
@@ -25437,6 +25571,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Buon Choa'h",
+      "phys-area-name": [],
       "principal-cave-name": "C8",
       "length": 791,
       "vertical-extent": 24,
@@ -25447,6 +25582,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Buon Choa'h",
+      "phys-area-name": [],
       "principal-cave-name": "C9",
       "length": 217,
       "vertical-extent": 23,
@@ -25457,6 +25593,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Buon Choa'h",
+      "phys-area-name": [],
       "principal-cave-name": "P1, P2",
       "length": 531,
       "vertical-extent": "~15",
@@ -25467,6 +25604,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Nam Da",
+      "phys-area-name": [],
       "principal-cave-name": "P8",
       "length": 344,
       "vertical-extent": 26,
@@ -25477,6 +25615,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Buon Choa'h",
+      "phys-area-name": [],
       "principal-cave-name": "P11",
       "length": 498,
       "vertical-extent": "~8",
@@ -25487,6 +25626,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Nam Da",
+      "phys-area-name": [],
       "principal-cave-name": "P20",
       "length": 568,
       "vertical-extent": 25,
@@ -25497,6 +25637,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Buon Choa'h",
+      "phys-area-name": [],
       "principal-cave-name": "A1",
       "length": 439,
       "vertical-extent": 10,
@@ -25507,6 +25648,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Buon Choa'h",
+      "phys-area-name": [],
       "principal-cave-name": "P3",
       "length": 81,
       "vertical-extent": 5,
@@ -25517,6 +25659,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Buon Choa'h",
+      "phys-area-name": [],
       "principal-cave-name": "P5 (PT07)",
       "length": 204,
       "vertical-extent": 4,
@@ -25527,6 +25670,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Nam Da",
+      "phys-area-name": [],
       "principal-cave-name": "P10E, P10W",
       "length": 160,
       "vertical-extent": 5,
@@ -25537,6 +25681,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Dak Dro",
+      "phys-area-name": [],
       "principal-cave-name": "PT06",
       "length": 200,
       "vertical-extent": 5,
@@ -25547,6 +25692,7 @@
     {
       "country-name": "Viet Nam",
       "state-or-province": "Buon Choa'h",
+      "phys-area-name": [],
       "principal-cave-name": "T1W",
       "length": 303,
       "vertical-extent": 16,
@@ -25556,6 +25702,7 @@
 
     {
       "country-name": "Saudi Arabia",
+      "state-or-province": [],
       "phys-area-name": "Harrat Khaybar lava field",
       "principal-cave-name": "Umm Jirsan Lava-Tube System",
       "altitude": [],
@@ -25578,239 +25725,6 @@
     },
 
     {
-      "country-name": "Austria",
-      "state-or-province": "Salzburg",
-      "phys-area-name": "Untersberg",
-      "principal-cave-name": "Gamslöcher-Kolowrat-Höhlensystem",
-      "cave-id": "AT-1339/1",
-      "length": 44003,
-      "vertical-extent": 1130,
-      "rock-type": "limestone",
-      "branch-name": "Kolowrathöhle",
-      "branch-name": "Gamslöcher",
-      "branch-name": "Salzburgerschacht",
-      "reference": "Die Höhle 57 (2006)",
-      "reference": "Die Höhle 61 (2010); Die Höhle 63 (2012)",
-      "reference": "Neubauer (2010) DOI:10.5038/1827-806X.40.2.4",
-      "reference": "https://hoehle.org/laengste-tiefste",
-      "reference": "Bieniok et al. (2011) doi:10.5038/1827-806X.40.2.4"
-    },
-
-    {
-      "country-name": "Austria",
-      "state-or-province": "Oberösterreich",
-      "phys-area-name": "Dachstein",
-      "principal-cave-name": "Hirlatzhöhle",
-      "cave-id": "AT-1546/7",
-      "length": 112929,
-      "vertical-extent": 1560,
-      "rock-type": "limestone",
-      "reference": "https://hoehle.org/laengste-tiefste"
-    },
-
-    {
-      "country-name": "Austria",
-      "state-or-province": "Salzburg",
-      "phys-area-name": "Leoganger Steinberge",
-      "principal-cave-name": "Lamprechtsofen",
-      "cave-id": "AT-1324/1",
-      "length": 61000,
-      "vertical-extent": 1735,
-      "rock-type": "limestone",
-      "reference": "https://hoehle.org/laengste-tiefste"
-    },
-
-    {
-      "country-name": "Austria",
-      "state-or-province": "Steiermark",
-      "phys-area-name": "Totes Gebirge",
-      "principal-cave-name": "Schwarzmooskogelsystem",
-      "cave-id": "AT-1623/40",
-      "length": 135159,
-      "vertical-extent": 1125,
-      "rock-type": "limestone",
-      "branch-name": "Schnellzughöhle 1623/41",
-      "branch-name": "Stellerweghöhle 1623/115",
-      "branch-name": "Larchenschacht 1623/88",
-      "branch-name": "Schwabenschacht 1623/78",
-      "branch-name": "Schwarzmooskogeleishöhle 1623/40",
-      "branch-name": "1623/142",
-      "branch-name": "1623/144",
-      "branch-name": "Kaninchenhöhle",
-      "reference": "https://hoehle.org/laengste-tiefste"
-    },
-
-    {
-      "country-name": "Austria",
-      "state-or-province": "Salzburg",
-      "phys-area-name": "Hoher Göll",
-      "principal-cave-name": "Hochscharten-Höhlensystem",
-      "cave-id": "AT-1336/15",
-      "length": 14668,
-      "vertical-extent": 1394,
-      "rock-type": "limestone",
-      "reference": "https://hoehle.org/laengste-tiefste"
-    },
-
-    {
-      "country-name": "Austria",
-      "state-or-province": "Salzburg",
-      "phys-area-name": "Tennengebirge",
-      "principal-cave-name": "Berger-Platteneck-Höhlesystem",
-      "cave-id": "AT-1511/162",
-      "length": 30396,
-      "vertical-extent": 1291,
-      "rock-type": "limestone",
-      "reference": "https://hoehle.org/laengste-tiefste"
-    },
-
-    {
-      "country-name": "Austria",
-      "state-or-province": "Salzburg",
-      "phys-area-name": "Steineres Meer",
-      "principal-cave-name": "Kolkbläser-Monsterhöhle",
-      "other-cave-name": "Kolkbläser-Monsterhöhle-System",
-      "cave-id": "AT-1331/25",
-      "length": 44487,
-      "vertical-extent": 711,
-      "rock-type": "limestone",
-      "reference": "https://hoehle.org/laengste-tiefste"
-    },
-
-    {
-      "country-name": "Austria",
-      "state-or-province": "Salzburg",
-      "phys-area-name": "Untersberg",
-      "principal-cave-name": "Salzburgerschacht",
-      "cave-id": "AT-1339/69",
-      "length": "~6000",
-      "rock-type": "limestone",
-      "cave-system": "Gamslöcher-Kolowrat-Höhlensystem",
-      "reference": "https://www.zobodat.at/pdf/HdN_9_0175-0183.pdf"
-    },
-
-    {
-      "country-name": "Mexico",
-      "state-or-province": "Quintana Roo",
-      "phys-area-name": "Yucatan Peninsula",
-      "principal-cave-name": "Sistema Sac Actun",
-      "other-cave-name": [],
-      "latitude": 20.24656,
-      "longitude": -87.46411,
-      "length": 368637,
-      "vertical-extent": 119,
-      "number-of-entrances": 187,
-      "contents": "perennially submerged",
-      "comments": "longest surveyed underwater cave system in the world",
-      "branch-name": "Sistema Dos Ojos",
-      "branch-name": "Nohoch Nah Chich",
-      "branch-name": "Aktun Hu",
-      "reference": "https://en.wikipedia.org/wiki/Sistema_Sac_Actun",
-      "reference": "Kambesis and Coke (2016). Boletín Geológico y Minero 127(1), 177-192. http://www.igme.es/boletin/2016/127_1/BG_127-1_Art-12.pdf",
-      "reference": "https://caves.org/project/qrss/qrss.htm"
-    },
-
-    {
-      "country-name": "Mexico",
-      "state-or-province": "Quintana Roo",
-      "phys-area-name": "Yucatan Peninsula",
-      "principal-cave-name": "Nohoch Nah Chich",
-      "other-cave-name": [],
-      "latitude": 20.29861,
-      "longitude": -87.40361,
-      "length": 61143,
-      "vertical-extent": 73,
-      "number-of-entrances": 36,
-      "rock-type": "limestone",
-      "contents": "perennially submerged",
-      "comments": "entrances: Dinner hole, Ferndock, Tankah, Balankanche",
-      "cave-system": "Sistema Sac Actun",
-      "reference": "https://en.wikipedia.org/wiki/Sistema_Nohoch_Nah_Chich"
-    },
-
-    {
-      "country-name": "Mexico",
-      "state-or-province": "Quintana Roo",
-      "phys-area-name": "Yucatan Peninsula",
-      "principal-cave-name": "Sistema Dos Ojos",
-      "other-cave-name": [],
-      "latitude": 20.32472,
-      "longitude": -87.39194,
-      "length": 82472,
-      "vertical-extent": [],
-      "number-of-entrances": 28,
-      "rock-type": "limestone",
-      "contents": "perennially submerged",
-      "cave-system": "Sistema Sac Actun",
-      "reference": "https://en.wikipedia.org/wiki/Sistema_Dos_Ojos"
-    },
-
-    {
-      "country-name": "Georgia",
-      "state-or-province": "Abkhazia",
-      "phys-area-name": "West Caucasus",
-      "principal-cave-name": "Voronja Cave",
-      "other-cave-name": "Krubera Cave",
-      "latitude": 43.409722,
-      "longitude": 40.362222,
-      "altitude": 2256,
-      "length": 13431,
-      "vertical-extent": 2197,
-      "rock-type": "limestone",
-      "reference": "https://en.wikipedia.org/wiki/Krubera_Cave"
-    },
-
-    {
-      "country-name": "Georgia",
-      "state-or-province": "Abkhazia",
-      "phys-area-name": "West Caucasus; Arabika Massif",
-      "principal-cave-name": "Veryovkina Cave",
-      "other-cave-name": [],
-      "latitude": 43.41556,
-      "longitude": 40.35639,
-      "altitude": 2285,
-      "length": 17500,
-      "vertical-extent": 2212,
-      "rock-type": "limestone",
-      "reference": "https://en.wikipedia.org/wiki/Veryovkina_Cave"
-    },
-
-    {
-      "country-name": "China",
-      "principal-cave-name": "Hulu Cave",
-      "latitude": 32.5,
-      "longitude": 119.2,
-      "comments": "scientifically important stalagmites (paleoclimate)",
-      "reference": "Wang et al. (2001) DOI:10.1126/science.1064618",
-      "reference": "Cheng et al. (2006) doi:10.1130/G22289.1",
-      "reference": "Southon et al. (2012) doi:10.1016/j.quascirev.2011.11.022"
-    },
-
-    {
-      "country-name": "China",
-      "state-or-province": "Gansu Province; Wudu County",
-      "principal-cave-name": "Wanxiang Cave",
-      "latitude": 33.3,
-      "longitude": 105.0,
-      "altitude": 1194,
-      "comments": "scientifically important stalagmites (paleoclimate)",
-      "reference": "Zhang et al. (2008) DOI:10.1126/science.1163965",
-      "reference": "Johnson et al. (2006) doi:10.1016/j.palaeo.2005.11.041"
-    },
-
-    {
-      "country-name": "China",
-      "state-or-province": "Guizhou Province",
-      "principal-cave-name": "Dongge Cave",
-      "latitude": 25.3,
-      "longitude": 108.1,
-      "altitude": 680,
-      "comments": "scientifically important stalagmites (paleoclimate)",
-      "reference": "Dykoski et al. (2005) doi:j.epsl.2005.01.036",
-      "reference": "Duan et al. (2014) doi:10.1038/srep05159"
-    },
-
-    {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Kauai",
       "phys-area-name": [],
@@ -25829,54 +25743,33 @@
     },
 
     {
-      "country-name": "Uzbekistan",
-      "state-or-province": [],
-      "phys-area-name": "Gissar Range",
-      "principal-cave-name": "Boybuloq Cave",
-      "other-cave-name": "Boy Bulok",
-      "latitude": 38.395833,
-      "longitude": 67.529722,
-      "altitude": 2650,
-      "length": 14800,
-      "vertical-extent": 1415,
-      "rock-type": "limestone",
-      "comments": "Jurassic",
-      "reference": "https://en.wikipedia.org/wiki/Boybuloq_Cave"
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii; Ka`u District",
+      "phys-area-name": "Hawaii Island; South Point",
+      "principal-cave-name": "Kamakalepo Cave System",
+      "length": 998,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "branch-name": "Lua Nunu o Kamakalepo Mauka",
+      "branch-name": "Lua Nunu Central Cave",
+      "branch-name": "Lua Nunu o Kamakalepo Makai",
+      "branch-name": "Waipouli Mauka",
+      "branch-name": "Waipouli Makai",
+      "reference": "Kempe et al. (2007) http://www.vulcanospeleology.org/sym12/ISV12p13.pdf",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=798"
     },
 
     {
-      "country-name": "Brazil",
-      "state-or-province": "Campo Formoso",
-      "principal-cave-name": "Toca da Boa Vista",
-      "other-cave-name": [],
-      "latitude": -10.16043,
-      "longitude": -40.86117,
-      "length": 102000,
-      "vertical-extent": [],
-      "reference": "https://en.wikipedia.org/wiki/Toca_da_Boa_Vista"
-    },
-
-    {
-      "country-name": "Belize",
-      "phys-area-name": "Caye Caulker Island",
-      "principal-cave-name": "Caye Chapel Marine Cave",
-      "other-cave-name": "Winter Wonderland Cave",
-      "length": [],
-      "vertical-extent": [],
-      "contents": "perennially submerged",
-      "cave-system": "Caye Caulker Cave system",
-      "reference": []
-    },
-
-    {
-      "country-name": "Italy",
-      "state-or-province": "Campania; Naples",
-      "principal-cave-name": "Grotta dello Zolfo",
-      "other-cave-name": "Grotta di Allume",
-      "latitude": 40.79333,
-      "longitude": 14.08417,
-      "contents": "minerals",
-      "reference": "https://www.mindat.org/loc-2072.html"
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Mauna Loa",
+      "principal-cave-name": "Keokeo Cave System",
+      "length": " ~40600",
+      "vertical-extent": " ~2200",
+      "number-of-entrances": ">500",
+      "cave-type": "lava tunnel",
+      "comments": "age of flow 1.5-3kyr BP",
+      "reference": "Bosted et al. (2016) http://www.cavepics.com/IVS17/BOSTED.pdf"
     },
 
     {

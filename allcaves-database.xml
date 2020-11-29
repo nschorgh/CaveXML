@@ -4022,7 +4022,7 @@
    <record>
       <country-name>India</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Lidder Valley</phys-area-name>
       <principal-cave-name>Amarnath Cave</principal-cave-name>
       <other-cave-name>Holy Cave</other-cave-name>
       <latitude>34.2149</latitude>
@@ -4031,7 +4031,7 @@
       <length>39</length>
       <vertical-extent/>
       <contents>permanent ice</contents>
-      <comments>cave entrance is blocked by snow most parts of the year; known for 5000 years</comments>
+      <comments>cave entrance is blocked by snow most parts of the year; known for about 5000 years; three ice stalagmites</comments>
       <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
       <cave-use>temple</cave-use>
    </record>
@@ -4046,25 +4046,49 @@
       <altitude>2121</altitude>
       <length/>
       <vertical-extent>85</vertical-extent>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
+      <reference>Yang and Shi (2019) DOI:10.5772/intechopen.89178</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>China</country-name>
       <state-or-province>Heilongjiang province</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Ice Cave Vudalyanchi</principal-cave-name>
+      <phys-area-name>Wudalianchi National Geological Park</phys-area-name>
+      <principal-cave-name>Bailong (White Dragon)</principal-cave-name>
+      <other-cave-name>Ice Cave Vudalyanchi</other-cave-name>
+      <other-cave-name>Wudalianchi Ice Cave</other-cave-name>
       <other-cave-name>Lava ice cave of Heihe</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
+      <latitude>48.647</latitude>
+      <longitude>126.25</longitude>
+      <altitude>400</altitude>
+      <length>270</length>
       <vertical-extent/>
       <rock-type>basalt</rock-type>
       <contents>permanent ice</contents>
       <comments>lava ice cave</comments>
       <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
+      <reference>Yang and Shi (2019) DOI:10.5772/intechopen.89178</reference>
+   </record>
+   <record>
+      <country-name>China</country-name>
+      <state-or-province>Heilongjiang province</state-or-province>
+      <phys-area-name>Wudalianchi National Geological Park</phys-area-name>
+      <principal-cave-name>Shuijinggong (Crystal Palace)</principal-cave-name>
+      <other-cave-name>Ice Cave Vudalyanchi</other-cave-name>
+      <other-cave-name>Wudalianchi Ice Cave</other-cave-name>
+      <other-cave-name>Lava ice cave of Heihe</other-cave-name>
+      <latitude>48.647</latitude>
+      <longitude>126.25</longitude>
+      <altitude>400</altitude>
+      <length/>
+      <vertical-extent/>
+      <rock-type>basalt</rock-type>
+      <contents>permanent ice</contents>
+      <comments>lava ice cave; smaller than neighboring Bailong ice cave</comments>
+      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
+      <reference>Yang and Shi (2019) DOI:10.5772/intechopen.89178</reference>
    </record>
    <record>
       <country-name>China</country-name>
@@ -4114,6 +4138,23 @@
       <comments/>
       <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
       <reference>Wood and Zhang (2010) Proc. 14th Int. Symp. Vulcanospeleology</reference>
+   </record>
+   <record>
+      <country-name>China</country-name>
+      <state-or-province>Shanxi Province; Liuba County</state-or-province>
+      <phys-area-name>Aibai Mountain</phys-area-name>
+      <principal-cave-name>Zibaishan Ice Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude>33.7</latitude>
+      <longitude>106.7</longitude>
+      <altitude>2450</altitude>
+      <length/>
+      <vertical-extent></vertical-extent>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>16m high ice cone; extrenal annual mean temperature is 11.5C</comments>
+      <reference>Yang and Shi (2019) DOI:10.5772/intechopen.89178</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -6551,12 +6592,47 @@
       <longitude>-63.8170</longitude>
       <length/>
       <vertical-extent/>
-      <rock-type/>
       <contents>many bats</contents>
       <reference>Moseley (2007) doi:10.15273/pnsis.v44i1.3883</reference>
       <reference>Iepure (2018) doi:10.1016/B978-0-12-811739-2.00007-3</reference>
    </record>
-   
+   <record>
+      <country-name>Svalbard and Jan Mayen</country-name>
+      <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
+      <principal-cave-name>Portalgrotta</principal-cave-name>
+      <other-cave-name>G5</other-cave-name>
+      <altitude>72</altitude>
+      <length>39</length>
+      <vertical-extent>2</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <comments>ground ice and hoarfrost</comments>
+      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
+   </record>
+   <record>
+      <country-name>Svalbard and Jan Mayen</country-name>
+      <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
+      <principal-cave-name>Fissurgrotta</principal-cave-name>
+      <other-cave-name>G17</other-cave-name>
+      <altitude>60</altitude>
+      <length>9</length>
+      <vertical-extent>1</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <comments>ends in hoarfrost and frozen sediment fill</comments>
+      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
+   </record>
+   <record>
+      <country-name>Svalbard and Jan Mayen</country-name>
+      <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
+      <principal-cave-name>Takrørgrotta</principal-cave-name>
+      <other-cave-name>G22</other-cave-name>
+      <altitude>226</altitude>
+      <length>18</length>
+      <vertical-extent>4</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <comments>hoarfrosted scallops</comments>
+      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
+   </record>
+
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
@@ -7597,7 +7673,7 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
+      <state-or-province>Hawaii; Puna District</state-or-province>
       <phys-area-name>Hawaii (Big Island)</phys-area-name>
       <principal-cave-name>Bamboo Puka</principal-cave-name>
       <length/>
@@ -9341,11 +9417,13 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island)</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
       <principal-cave-name>Christmas Cave</principal-cave-name>
-      <length>500</length>
+      <length>632</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=931</reference>
+      <reference>Halliday (1998) doi:10.5038/1827-806X.27.1.11</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -11370,11 +11448,12 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island)</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
       <principal-cave-name>Doc Bellou Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=758</reference>
+      <reference>Hoch and Howarth (1993) http://hdl.handle.net/10125/1860</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -14774,6 +14853,7 @@
       <cave-type>lava tunnel</cave-type>
       <comments>flow of 1881</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=781</reference>
+      <reference>Hoch and Howarth (1993) http://hdl.handle.net/10125/1860</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -14846,7 +14926,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Puna District</state-or-province>
-      <phys-area-name>Hawaii Island</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Keala Cave</principal-cave-name>
       <length>8707</length>
       <vertical-extent>186</vertical-extent>
@@ -19271,20 +19351,24 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Puna District</state-or-province>
-      <phys-area-name>Hawaii Island</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Ring Cave</principal-cave-name>
       <length>77</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=856</reference>
+      <reference>Halliday (1998) doi:10.5038/1827-806X.27.1.11</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Puna District</state-or-province>
-      <phys-area-name>Hawaii Island</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Ringleader Cave</principal-cave-name>
       <length>62</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=857</reference>
+      <reference>Halliday (1998) doi:10.5038/1827-806X.27.1.11</reference>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -23583,7 +23667,44 @@
       <comments>age of flow 1.5-3kyr BP</comments>
       <reference>Bosted et al. (2016) http://www.cavepics.com/IVS17/BOSTED.pdf</reference>
    </record>
-   
+   <record>
+      <country-name>Russia</country-name>
+      <phys-area-name>Kamchatka peninsula; Gorley-3 volcano</phys-area-name>
+      <principal-cave-name>Goncharov lava tube</principal-cave-name>
+      <latitude>52.53397</latitude>
+      <longitude>158.07315</longitude>
+      <altitude>1277</altitude>
+      <length>24</length>
+      <vertical-extent>3</vertical-extent>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Abdullin (2013) Cave Karst Sci. 40(3), 141</reference>
+   </record>
+   <record>
+      <country-name>Russia</country-name>
+      <phys-area-name>Kamchatka peninsula; Gorley-3 volcano</phys-area-name>
+      <principal-cave-name>Pogibshaya lava tube</principal-cave-name>
+      <latitude>52.53333</latitude>
+      <longitude>158.07290</longitude>
+      <altitude>1257</altitude>
+      <length/>
+      <vertical-extent/>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Abdullin (2013) Cave Karst Sci. 40(3), 141</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Hawaii</state-or-province>
+      <phys-area-name>Hawaii Island; Hualalai</phys-area-name>
+      <principal-cave-name>Pink Pistillaria Cave</principal-cave-name>
+      <altitude>800</altitude>
+      <length/>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Hoch and Howarth (1993) http://hdl.handle.net/10125/1860</reference>
+   </record>
+
    <record>
      <country-name>Moon</country-name>
      <phys-area-name>Marius Hills; Oceanus Procellarum</phys-area-name>
@@ -23625,6 +23746,61 @@
      <cave-type></cave-type>
      <comments>Graben-bounded tectonic pit chain</comments>
      <reference>Sauro et al. (2020) doi:10.1016/j.earscirev.2020.103288</reference>
+   </record>
+   <record>
+     <country-name>Moon</country-name>
+     <phys-area-name>Mare Ingenii</phys-area-name>
+     <principal-cave-name>Ingenii Pit</principal-cave-name>
+     <latitude>-35.950</latitude>
+     <longitude>166.057</longitude>
+     <length></length>
+     <cave-type></cave-type>
+     <comments/>
+     <reference>Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008</reference>
+   </record>
+   <record>
+     <country-name>Moon</country-name>
+     <phys-area-name>Mare Tranquillitatis</phys-area-name>
+     <principal-cave-name>Tranquillitatis Pit</principal-cave-name>
+     <latitude>8.335</latitude>
+     <longitude>33.222</longitude>
+     <length></length>
+     <cave-type></cave-type>
+     <comments/>
+     <reference>Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008</reference>
+   </record>
+   <record>
+     <country-name>Moon</country-name>
+     <phys-area-name>Marius Hills</phys-area-name>
+     <principal-cave-name>Marius Hills Pit</principal-cave-name>
+     <latitude>14.091</latitude>
+     <longitude>-56.767</longitude>
+     <length></length>
+     <cave-type></cave-type>
+     <comments/>
+     <reference>Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008</reference>
+   </record>
+   <record>
+     <country-name>Moon</country-name>
+     <phys-area-name>King Crater</phys-area-name>
+     <principal-cave-name>King Pond Bridge</principal-cave-name>
+     <latitude>6.241</latitude>
+     <longitude>119.735</longitude>
+     <length></length>
+     <cave-type></cave-type>
+     <comments/>
+     <reference>Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008</reference>
+   </record>
+   <record>
+     <country-name>Moon</country-name>
+     <phys-area-name/>
+     <principal-cave-name>Copernicus Pond Pit</principal-cave-name>
+     <latitude>10.329</latitude>
+     <longitude>-20.381</longitude>
+     <length></length>
+     <cave-type></cave-type>
+     <comments/>
+     <reference>Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008</reference>
    </record>
 
 

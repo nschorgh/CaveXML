@@ -297,7 +297,7 @@
 	<xs:simpleType>
 	  <xs:restriction base='xs:token'>
 	    <xs:pattern value="[!-~]*"/>
-	    <!-- Allows all ASCII characters from 33 to 126, which excludes whitespaces 
+	    <!-- Allows characters with ASCII codes from 33 to 126, which excludes whitespaces 
 		 Examples of matching patterns: HSS-9876, 1234/5 -->
 	  </xs:restriction>
 	</xs:simpleType>
@@ -419,7 +419,7 @@
 	  </xs:restriction>
 	</xs:simpleType>
       </xs:element> 
-      
+
       <xs:element name = "comments"         type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
       <xs:element name = "cave-system"      type = "xs:string" minOccurs="0" maxOccurs="1"/>
       <xs:element name = "branch-name"      type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>

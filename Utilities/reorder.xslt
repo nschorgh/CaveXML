@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- This xslt script arranges the elements in a specific order within each record 
+<!-- This xslt script arranges the elements within each record in the order 
+     required by the CaveXML standard.
+
      Usage:
             xsltproc reorder.xslt allcaves-database.xml 
 -->
@@ -33,6 +35,7 @@
 	    <xsl:apply-templates select="number-of-entrances" />
 	    <xsl:apply-templates select="rock-type" />
 	    <xsl:apply-templates select="cave-type" />
+	    <xsl:apply-templates select="contents" />
 	    <xsl:apply-templates select="contents" />
 	    <xsl:apply-templates select="comments" />
 	    <xsl:apply-templates select="cave-system" />

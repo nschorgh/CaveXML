@@ -41,7 +41,7 @@ for item in root.findall('record'):
     if coname is not None:
         coname = coname.text
         if coname in excludelist:
-            break
+            continue
 
 
     # Get latitude, if present

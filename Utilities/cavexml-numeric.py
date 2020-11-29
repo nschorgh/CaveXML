@@ -8,6 +8,7 @@ import xml.etree.ElementTree as ET
 import csv
 import re
 from cavexml import parse_ExtendedUnsignedInteger, parse_AltitudeEntry
+import unicodedata
 
 tree = ET.parse('../allcaves-database.xml')
 root = tree.getroot()
@@ -22,7 +23,7 @@ csvwriter_nr = csv.writer(thenumbers)
 
 
 record_head = []
-record_head.append('principal-cave-name')
+record_head.append('normalized-cave-name')
 record_head.append('min_altitude')
 record_head.append('max_altitude')
 record_head.append('length')
@@ -38,9 +39,13 @@ for item in root.findall('record'):
     count = count + 1
 
     pcn = item.find('principal-cave-name') # maxOccurs=1
-    if pcn is not None:
-        record_nr.append(pcn.text)        
-    else:
+    try:
+        #record_nr.append(pcn.text)
+        nfkd_form = unicodedata.normalize('NFKD', pcn.text)
+        only_ascii = nfkd_form.encode('ASCII', 'ignore')
+        back_to_native = str(only_ascii,'utf-8')
+        record_nr.append(back_to_native)
+    except:
         record_nr.append("")
     
     alt = item.findall('altitude') 

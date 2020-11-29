@@ -120,7 +120,7 @@ for item in root.findall('record'):
     cont = item.findall('contents')
     str = merge_elements(cont)
     record.append(str)
-    
+
     comm = item.findall('comments')
     str = merge_elements(comm)
     record.append(str)

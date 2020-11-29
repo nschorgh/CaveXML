@@ -4290,7 +4290,7 @@
     {
       "country-name": "India",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Lidder Valley",
       "principal-cave-name": "Amarnath Cave",
       "other-cave-name": "Holy Cave",
       "latitude": 34.2149,
@@ -4299,7 +4299,7 @@
       "length": 39,
       "vertical-extent": [],
       "contents": "permanent ice",
-      "comments": "cave entrance is blocked by snow most parts of the year; known for 5000 years",
+      "comments": "cave entrance is blocked by snow most parts of the year; known for about 5000 years; three ice stalagmites",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
       "cave-use": "temple"
     },
@@ -4315,26 +4315,51 @@
       "altitude": 2121,
       "length": [],
       "vertical-extent": 85,
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
+      "reference": "Yang and Shi (2019) DOI:10.5772/intechopen.89178",
       "cave-use": "self-guided tourist cave"
     },
 
     {
       "country-name": "China",
       "state-or-province": "Heilongjiang province",
-      "phys-area-name": [],
-      "principal-cave-name": "Ice Cave Vudalyanchi",
+      "phys-area-name": "Wudalianchi National Geological Park",
+      "principal-cave-name": "Bailong (White Dragon)",
+      "other-cave-name": "Ice Cave Vudalyanchi",
+      "other-cave-name": "Wudalianchi Ice Cave",
       "other-cave-name": "Lava ice cave of Heihe",
-      "latitude": [],
-      "longitude": [],
-      "altitude": [],
-      "length": [],
+      "latitude": 48.647,
+      "longitude": 126.25,
+      "altitude": 400,
+      "length": 270,
       "vertical-extent": [],
       "rock-type": "basalt",
       "contents": "permanent ice",
       "comments": "lava ice cave",
-      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
+      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
+      "reference": "Yang and Shi (2019) DOI:10.5772/intechopen.89178"
+    },
+
+    {
+      "country-name": "China",
+      "state-or-province": "Heilongjiang province",
+      "phys-area-name": "Wudalianchi National Geological Park",
+      "principal-cave-name": "Shuijinggong (Crystal Palace)",
+      "other-cave-name": "Ice Cave Vudalyanchi",
+      "other-cave-name": "Wudalianchi Ice Cave",
+      "other-cave-name": "Lava ice cave of Heihe",
+      "latitude": 48.647,
+      "longitude": 126.25,
+      "altitude": 400,
+      "length": [],
+      "vertical-extent": [],
+      "rock-type": "basalt",
+      "contents": "permanent ice",
+      "comments": "lava ice cave; smaller than neighboring Bailong ice cave",
+      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
+      "reference": "Yang and Shi (2019) DOI:10.5772/intechopen.89178"
     },
 
     {
@@ -4387,6 +4412,24 @@
       "comments": [],
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
       "reference": "Wood and Zhang (2010) Proc. 14th Int. Symp. Vulcanospeleology"
+    },
+
+    {
+      "country-name": "China",
+      "state-or-province": "Shanxi Province; Liuba County",
+      "phys-area-name": "Aibai Mountain",
+      "principal-cave-name": "Zibaishan Ice Cave",
+      "other-cave-name": [],
+      "latitude": 33.7,
+      "longitude": 106.7,
+      "altitude": 2450,
+      "length": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "comments": "16m high ice cone; extrenal annual mean temperature is 11.5C",
+      "reference": "Yang and Shi (2019) DOI:10.5772/intechopen.89178",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -6989,10 +7032,48 @@
       "longitude": -63.8170,
       "length": [],
       "vertical-extent": [],
-      "rock-type": [],
       "contents": "many bats",
       "reference": "Moseley (2007) doi:10.15273/pnsis.v44i1.3883",
       "reference": "Iepure (2018) doi:10.1016/B978-0-12-811739-2.00007-3"
+    },
+
+    {
+      "country-name": "Svalbard and Jan Mayen",
+      "phys-area-name": "Spitsbergen; Blomstrandsøya",
+      "principal-cave-name": "Portalgrotta",
+      "other-cave-name": "G5",
+      "altitude": 72,
+      "length": 39,
+      "vertical-extent": 2,
+      "rock-type": "limestone",
+      "comments": "ground ice and hoarfrost",
+      "reference": "Lauritzen (2006) doi:10.5038/1827-806X.35.1.5"
+    },
+
+    {
+      "country-name": "Svalbard and Jan Mayen",
+      "phys-area-name": "Spitsbergen; Blomstrandsøya",
+      "principal-cave-name": "Fissurgrotta",
+      "other-cave-name": "G17",
+      "altitude": 60,
+      "length": 9,
+      "vertical-extent": 1,
+      "rock-type": "limestone",
+      "comments": "ends in hoarfrost and frozen sediment fill",
+      "reference": "Lauritzen (2006) doi:10.5038/1827-806X.35.1.5"
+    },
+
+    {
+      "country-name": "Svalbard and Jan Mayen",
+      "phys-area-name": "Spitsbergen; Blomstrandsøya",
+      "principal-cave-name": "Takrørgrotta",
+      "other-cave-name": "G22",
+      "altitude": 226,
+      "length": 18,
+      "vertical-extent": 4,
+      "rock-type": "limestone",
+      "comments": "hoarfrosted scallops",
+      "reference": "Lauritzen (2006) doi:10.5038/1827-806X.35.1.5"
     },
 
     {
@@ -8142,7 +8223,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; Puna District",
       "phys-area-name": "Hawaii (Big Island)",
       "principal-cave-name": "Bamboo Puka",
       "length": [],
@@ -10066,11 +10147,13 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Kilauea",
       "principal-cave-name": "Christmas Cave",
-      "length": 500,
+      "length": 632,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=931"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=931",
+      "reference": "Halliday (1998) doi:10.5038/1827-806X.27.1.11"
     },
 
     {
@@ -12309,11 +12392,12 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Kilauea",
       "principal-cave-name": "Doc Bellou Cave",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=758"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=758",
+      "reference": "Hoch and Howarth (1993) http://hdl.handle.net/10125/1860"
     },
 
     {
@@ -16060,7 +16144,8 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "flow of 1881",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=781"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=781",
+      "reference": "Hoch and Howarth (1993) http://hdl.handle.net/10125/1860"
     },
 
     {
@@ -16141,7 +16226,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Keala Cave",
       "length": 8707,
       "vertical-extent": 186,
@@ -21020,21 +21105,25 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Ring Cave",
       "length": 77,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=856"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=856",
+      "reference": "Halliday (1998) doi:10.5038/1827-806X.27.1.11"
     },
 
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Ringleader Cave",
       "length": 62,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=857"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=857",
+      "reference": "Halliday (1998) doi:10.5038/1827-806X.27.1.11"
     },
 
     {
@@ -25774,6 +25863,46 @@
     },
 
     {
+      "country-name": "Russia",
+      "phys-area-name": "Kamchatka peninsula; Gorley-3 volcano",
+      "principal-cave-name": "Goncharov lava tube",
+      "latitude": 52.53397,
+      "longitude": 158.07315,
+      "altitude": 1277,
+      "length": 24,
+      "vertical-extent": 3,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "Abdullin (2013) Cave Karst Sci. 40(3), 141"
+    },
+
+    {
+      "country-name": "Russia",
+      "phys-area-name": "Kamchatka peninsula; Gorley-3 volcano",
+      "principal-cave-name": "Pogibshaya lava tube",
+      "latitude": 52.53333,
+      "longitude": 158.07290,
+      "altitude": 1257,
+      "length": [],
+      "vertical-extent": [],
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "Abdullin (2013) Cave Karst Sci. 40(3), 141"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Hawaii Island; Hualalai",
+      "principal-cave-name": "Pink Pistillaria Cave",
+      "altitude": 800,
+      "length": [],
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "Hoch and Howarth (1993) http://hdl.handle.net/10125/1860"
+    },
+
+    {
       "country-name": "Moon",
       "phys-area-name": "Marius Hills; Oceanus Procellarum",
       "principal-cave-name": "Marius Hill A",
@@ -25817,6 +25946,66 @@
       "cave-type": [],
       "comments": "Graben-bounded tectonic pit chain",
       "reference": "Sauro et al. (2020) doi:10.1016/j.earscirev.2020.103288"
+    },
+
+    {
+      "country-name": "Moon",
+      "phys-area-name": "Mare Ingenii",
+      "principal-cave-name": "Ingenii Pit",
+      "latitude": -35.950,
+      "longitude": 166.057,
+      "length": [],
+      "cave-type": [],
+      "comments": [],
+      "reference": "Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008"
+    },
+
+    {
+      "country-name": "Moon",
+      "phys-area-name": "Mare Tranquillitatis",
+      "principal-cave-name": "Tranquillitatis Pit",
+      "latitude": 8.335,
+      "longitude": 33.222,
+      "length": [],
+      "cave-type": [],
+      "comments": [],
+      "reference": "Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008"
+    },
+
+    {
+      "country-name": "Moon",
+      "phys-area-name": "Marius Hills",
+      "principal-cave-name": "Marius Hills Pit",
+      "latitude": 14.091,
+      "longitude": -56.767,
+      "length": [],
+      "cave-type": [],
+      "comments": [],
+      "reference": "Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008"
+    },
+
+    {
+      "country-name": "Moon",
+      "phys-area-name": "King Crater",
+      "principal-cave-name": "King Pond Bridge",
+      "latitude": 6.241,
+      "longitude": 119.735,
+      "length": [],
+      "cave-type": [],
+      "comments": [],
+      "reference": "Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008"
+    },
+
+    {
+      "country-name": "Moon",
+      "phys-area-name": [],
+      "principal-cave-name": "Copernicus Pond Pit",
+      "latitude": 10.329,
+      "longitude": -20.381,
+      "length": [],
+      "cave-type": [],
+      "comments": [],
+      "reference": "Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008"
     },
 
     {

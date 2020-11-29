@@ -6,7 +6,7 @@ CaveXML facilitates exchange of data about caves through the definition and impl
 > "The systematic documentation, mapping and publication of data about caves (excepting entrance locations) is a responsibility of all users of the cave environment, and should be encouraged by management authorities."  
 > *Guidelines for Cave and Karst Protection*, Working Group on Cave and Karst Protection (1997)
 
-The Informatics Commission of the Internationl Union of Speleology (UISIC) has drafted guidelines for a data exchange standard with over 700 fields. CaveXML builds on these recommendations for the much smaller number of elements it uses.  
+The Informatics Commission of the International Union of Speleology (UISIC) has drafted guidelines for a data exchange standard with over 700 fields. CaveXML builds on these recommendations for the much smaller number of elements it uses.
 
 A CaveXML database has the following structure, where each record corresponds to a cave or cave system:
 
@@ -113,13 +113,14 @@ Comments
 -   All fields are optional *(minOccurs=0)*.
 -   Elements without *maxOccurs=1* can be used more than once within a record. (The UISIC refers to this as multi-valued, as opposed to single-valued.)
 -   The elements must appear in the order listed above.
--   So far, CaveXML defines only these 21 elements.
--   At this point, the hierarchy is flat. All the elements are at the same level within a record, but this will change in future.
+-   CaveXML defines only these 21 elements, although additional elements may be added in future. No other elements are allowed, but there may be ways of adding a second namespace.
+-   At this point, the hierarchy is flat. All the elements are at the same level within a record.
+-   Notably, CaveXML does not include an element for a catalog number, because it is designed to work with a distributed collection of databases rather than with a single central database.
 
 Syntax rules (in support of parsing and querying)
 -------------------------------------------------
 
--   All text is in UTF-8, so characters from many languages can be used.
+-   Text uses the UTF-8 character set, so characters from many languages can be used.
 
 -   All of the controlled vocabulary, except a few country names, uses only ASCII characters (which is a subset of UTF-8). Hence, there is no need to ever enter non-ASCII characters for those.
 
@@ -128,6 +129,8 @@ Syntax rules (in support of parsing and querying)
 -   **Almost-numerical entries:** Length entries are usually numbers, but they can also be of the form "\>42000", "\~100", or "2000+". A data type "ExtendedUnsignedInteger" has been created in CaveXML for this purpose. ExtendedUnsignedIntegers are positive integers that can contain a few additional symbols. The symbols "\>" and "\~" are allowed in front of the number. The number should contain no comma or decimal point, and digits after the decimal point are prohibited to avoid ambiguity. The elements [length], [vertical-extent], and [number-of-entrances] are ExtendedUnsignedIntegers and therefore obey the same syntax rules. Length and altitude must be rounded to the nearest whole meter. After the number, a "+" symbol is allowed, which has the meaning "or more" (≥). Only one symbol is allowed in front of the number, but note that "\>\~100" is equivalent to "\~100+". However, "10+" (for the number of cave entrances) is equivalent "\>9".
 
 -   **Altitude** is usually a positive decimal number, but it can also have the following forms: "2227 lower entrance", "2500 coarse", "\~700", "500-700", "\>3500", or "4000 upper entrance, coarse". The term "coarse" refers to an approximate value, and is commonly used because the altitude is either not known more accurately or should not be known more accurately. An [altitude] entry starts either with an ExtendedUnsignedInteger, followed by an optional comment, or it is a range of the form "lownumber-highnumber". There can by more than one altitude in a record, e.g., for different cave entrances. Multiple altitudes must be entered in separate pairs of altitude tags, so each pair of tags contains only one altitude entry.
+
+-   The **cave-id** is restricted to common ASCII characters and must not contain whitespaces.
 
 -   A Digital Object Identifier **(doi)** in [reference] can be automatically converted to a hyperlink by replacing "doi:" with "https://doi.org:" followed by the doi number. The character sequence the parser will look for is "doi:", in lower or upper case.
 
@@ -142,7 +145,7 @@ For quantities such as length or vertical extent, it is desirable to allow entri
 
 Entries for altitude (elevation) can be even more varied, e.g., "1220-1570" to indicate the range of altitudes from the lowest to the highest entrance. The UISIC recommends an element [altitude-comment] so the meaning of the numerical value for the altitude could be clarified, e.g. "1220 lower entrance", or "2500 coarse" to indicate the altitude is approximate. For caves with more than one entrance, multiple altitude entries might be needed. The goal is of course that the altitude must be queryable numerically, e.g., the user would search for caves with altitudes above 4000 m a.s.l. It can be decided later whether \~4000 and \>3000 should be compatible with this condition or not. After considering various options, the implementation chosen for CaveXML was to have a single "altitude" element which can hold specific patterns of numbers and strings. An unsigned integer or an ExtendedUnsignedInteger can be followed by a comment. These comments may be be ignored during a query, so few restrictions are placed on their form. Alternatively, a range of integers can be stated, such as 100-200, and not followed by a comment. A query function can convert "100-200" into two altitude entries of the form "100 lowermost entrance" and "200 uppermost entrance". Allowing ranges to be entered is convenient for the person who compiles the data. Technically, the data type for the altitude element is implemented as a token (string) restricted by a RegEx pattern. The comments allowed as part of an altitude entry are those consistent with the RegEx pattern `"[ ,()\w]\*"`, that is, they can contain spaces, commas, parentheses, and alphanumerical characters. Other characters, such as dashes and semicolons, are not allowed in a comment following an altitude value. Dashes might be used by a parsing function to distinguish between a range and an entry with a single number. A semicolon is not allowed because it is the designated field separator for the flattened database, when repeat elements are merged into a single element.  
 
-The [cave-id] field can consistent of alphanumeric characters and other common ASCII characters, but does not allow whitespace. Technically this is implemented as a RegEx pattern that allows ASCII codes between 33 and 126. (Whitespaces are allowed at the beginning and the end, because [cave-id] is a token rather than a string.)  
+The [cave-id] field can consistent of alphanumeric characters and other common ASCII characters, but does not allow whitespace. Technically this is implemented as a RegEx pattern that allows ASCII codes from 33 to 126. (Whitespaces are allowed at the beginning and the end, because [cave-id] is a token rather than a string.)
 
 This concludes the description of all the data types that have, so far, been defined in the CaveXML Schema. Table 1 shows the data types associated with each CaveXML element. None of the elements is required to appear in a record, and some elements can occur no more than once.
 

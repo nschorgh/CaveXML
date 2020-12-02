@@ -36,7 +36,6 @@
 	    <xsl:apply-templates select="rock-type" />
 	    <xsl:apply-templates select="cave-type" />
 	    <xsl:apply-templates select="contents" />
-	    <xsl:apply-templates select="contents" />
 	    <xsl:apply-templates select="comments" />
 	    <xsl:apply-templates select="cave-system" />
 	    <xsl:apply-templates select="branch-name" />

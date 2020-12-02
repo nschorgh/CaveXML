@@ -849,7 +849,7 @@
       "longitude": [],
       "altitude": 2090,
       "length": [],
-      "vertical-extent": [],
+      "vertical-extent": 515,
       "contents": "permanent ice",
       "reference": "Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X"
     },
@@ -945,7 +945,7 @@
       "longitude": [],
       "altitude": 2075,
       "length": [],
-      "vertical-extent": [],
+      "vertical-extent": 557,
       "contents": "permanent ice",
       "reference": "Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X"
     },
@@ -1600,9 +1600,9 @@
     {
       "country-name": "Poland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Ciemniak mount",
       "principal-cave-name": "Jaskinia Lodowa w Ciemniaku",
-      "other-cave-name": [],
+      "other-cave-name": "Lodowa Cave",
       "latitude": [],
       "longitude": [],
       "altitude": 1695,
@@ -1610,7 +1610,8 @@
       "vertical-extent": 42,
       "contents": "permanent ice",
       "comments": "congelation ice",
-      "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
+      "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3",
+      "reference": "Hercman et al. (2010) doi:10.2478/v10003-010-0016-2"
     },
 
     {
@@ -3515,7 +3516,9 @@
       "length": 1100,
       "vertical-extent": 110,
       "contents": "permanent ice",
-      "reference": "Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2"
+      "comments": "floor ice, stalactites, hoarfrost",
+      "reference": "Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2",
+      "reference": "Supinsky et al. (2019) https://tc.copernicus.org/articles/13/2835/2019/"
     },
 
     {
@@ -4869,6 +4872,7 @@
       "length": [],
       "vertical-extent": [],
       "cave-type": "lava tunnel",
+      "comments": "includes long tabular ice crystals",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1047"
     },
 
@@ -4973,7 +4977,7 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
-      "phys-area-name": "Malpais region",
+      "phys-area-name": "El Malpais region",
       "principal-cave-name": "Candelaria Ice Cave",
       "other-cave-name": "Cerro Candelaria",
       "latitude": [],
@@ -7096,6 +7100,39 @@
 
     {
       "country-name": "United States of America",
+      "state-or-province": "Iowa",
+      "phys-area-name": [],
+      "principal-cave-name": "Decorah Ice Cave",
+      "length": [],
+      "contents": "periodic ice",
+      "reference": "Knudson and Hedges (1973) https://scholarworks.uni.edu/pias/vol80/iss4/8/"
+    },
+
+    {
+      "country-name": "Russia",
+      "state-or-province": "Samara",
+      "phys-area-name": [],
+      "principal-cave-name": "Brothers Greve Cave",
+      "length": "~522",
+      "vertical-extent": 25,
+      "contents": "permanent ice",
+      "comments": "atmogenic crystalline hoarfrost",
+      "reference": "Chervyatsova (2005) http://arhiv.rgo-speleo.ru/rgo/books/glacier_karst7/chervyatsova_93_97.pdf"
+    },
+
+    {
+      "country-name": "Russia",
+      "state-or-province": "Samara",
+      "phys-area-name": [],
+      "principal-cave-name": "Gnilaya Cave",
+      "length": 21,
+      "vertical-extent": 8,
+      "contents": "permanent ice",
+      "reference": "Chervyatsova (2005) http://arhiv.rgo-speleo.ru/rgo/books/glacier_karst7/chervyatsova_93_97.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
       "principal-cave-name": "Helen's Hidden Hideaway",
@@ -7566,18 +7603,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=227"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii; Kauai County",
-      "phys-area-name": "Kauai Island; Koloa",
-      "principal-cave-name": "Ali'i Cave",
-      "other-cave-name": "Weliweli Caves (site 78)",
-      "length": [],
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=819"
     },
 
     {
@@ -8378,6 +8403,7 @@
       "principal-cave-name": "Bat Cave",
       "length": [],
       "cave-type": "lava tunnel",
+      "contents": "many bats",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1190"
     },
 
@@ -8700,10 +8726,27 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais; Big Tubes area",
       "principal-cave-name": "Big Skylight Cave",
       "length": 290,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1195"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1195",
+      "reference": "Paris et al. (2020) https://arxiv.org/abs/2004.13156",
+      "cave-use": "self-guided tourist cave"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "New Mexico",
+      "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais; Big Tubes area",
+      "principal-cave-name": "Giant Ice Cave",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "contents": "permanent ice",
+      "reference": "https://www.nps.gov/elma/learn/nature/upload/Giant-Ice-Cave.pdf",
+      "reference": "Paris et al. (2020) https://arxiv.org/abs/2004.13156",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -8731,14 +8774,15 @@
     {
       "country-name": "Korea, Republic of",
       "state-or-province": "Cheju",
-      "phys-area-name": [],
+      "phys-area-name": "Cheju Island",
       "principal-cave-name": "Bilemot Gul",
       "other-cave-name": "Rock Pond Cave",
       "other-cave-name": "Billemot Gul",
       "altitude": 70,
       "length": 11749,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=668"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=668",
+      "reference": "Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf"
     },
 
     {
@@ -9184,7 +9228,7 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
-      "phys-area-name": "El Mapais (Bendera Flow)",
+      "phys-area-name": "El Malpais; Bandera Flow",
       "principal-cave-name": "Brewer's Cave",
       "altitude": 2280,
       "length": 705,
@@ -10083,6 +10127,7 @@
       "principal-cave-name": "Check Out Cave",
       "length": 104,
       "cave-type": "lava tunnel",
+      "cave-system": "Water Caves",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=642"
     },
 
@@ -10206,10 +10251,26 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais National Monument",
       "principal-cave-name": "Classic Cave",
       "length": 964,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1185"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1185",
+      "reference": "Windes et al. (2015) doi:10.1179/kiv.2008.74.1.003"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "New Mexico",
+      "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais National Monument",
+      "principal-cave-name": "Rusty Barrel Ice Cave",
+      "other-cave-name": "Apache Ice Cave",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "contents": "permanent ice",
+      "comments": "thin layer of ice",
+      "reference": "Windes et al. (2015) doi:10.1179/kiv.2008.74.1.003"
     },
 
     {
@@ -10898,10 +10959,13 @@
       "state-or-province": "Galapagos",
       "phys-area-name": "Isla de Santa Cruz",
       "principal-cave-name": "Cueva de Kubler",
-      "length": 852,
+      "other-cave-name": "Kübler Cave",
+      "length": 914,
+      "vertical-extent": 70,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=715",
-      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"
+      "reference": "http://www.vulcanospeleology.org/sym06/ISV6x33.pdf",
+      "reference": "Espinasa et al. (2015) doi:10.3897/subtbiol.15.8468"
     },
 
     {
@@ -12094,6 +12158,7 @@
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Davenport Cave",
       "length": 46,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "cave-system": "Horse Lava Tube System",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1324"
@@ -12105,6 +12170,7 @@
       "state-or-province": "Klickitat County",
       "principal-cave-name": "David's Den",
       "length": 335,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1738"
     },
@@ -13075,10 +13141,12 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais; Bit Tubes area",
       "principal-cave-name": "Four Windows Cave",
       "length": 368,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1194"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1194",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -13483,20 +13551,14 @@
     {
       "country-name": "Korea, Republic of",
       "state-or-province": "Cheju",
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Halla",
       "principal-cave-name": "Gim Nyeong",
+      "other-cave-name": "Gimyong Cave",
+      "other-cave-name": "Sakull Cave",
+      "other-cave-name": "Snake Cave",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=673"
-    },
-
-    {
-      "country-name": "Korea, Republic of",
-      "state-or-province": "Cheju-do",
-      "phys-area-name": [],
-      "principal-cave-name": "Gimyong Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=673",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=680"
     },
 
@@ -14235,6 +14297,7 @@
       "country-name": "Australia",
       "state-or-province": "Victoria",
       "phys-area-name": "Mt. Napier",
+      "principal-cave-name": [],
       "other-cave-name": "H-X1",
       "other-cave-name": "3H-X1",
       "cave-id": "ASF-3H-62",
@@ -14507,7 +14570,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "Harry Fox's Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -14698,16 +14761,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=336"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island",
-      "principal-cave-name": "Hill 9235 Cave System",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=735"
     },
 
     {
@@ -15817,6 +15870,7 @@
       "state-or-province": "Klickitat County",
       "principal-cave-name": "Jugs Caves System",
       "length": 963,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1742"
     },
@@ -15825,11 +15879,14 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais; El Calderon area",
       "principal-cave-name": "Junction Cave",
       "altitude": 2207,
       "length": 255,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1187"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1187",
+      "reference": "Paris et al. (2020) https://arxiv.org/abs/2004.13156",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -16146,7 +16203,7 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Kazuhito Ana Cave No. 1",
       "length": 254,
       "cave-type": "lava tunnel",
@@ -16156,7 +16213,7 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Kazuhito Ana Cave No. 2",
       "length": 44,
       "cave-type": "lava tunnel",
@@ -16166,7 +16223,7 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Kazuhito Ana Cave No. 3",
       "length": 30,
       "cave-type": "lava tunnel",
@@ -16176,7 +16233,7 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Kazuhito Ana Cave No. 4",
       "length": 102,
       "cave-type": "lava tunnel",
@@ -16186,7 +16243,7 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Kazuhito Ana Cave No. 5",
       "length": 60,
       "cave-type": "lava tunnel",
@@ -16571,11 +16628,12 @@
     {
       "country-name": "Japan",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Komakado Fuketsu Cave",
       "length": 625,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=76"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=76",
+      "reference": "Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf"
     },
 
     {
@@ -16914,6 +16972,7 @@
       "state-or-province": "Klickitat County",
       "principal-cave-name": "Lava Bridge East Cave",
       "length": 106,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1740"
     },
@@ -16924,6 +16983,7 @@
       "state-or-province": "Klickitat County",
       "principal-cave-name": "Lava Bridge West Cave",
       "length": 91,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1741"
     },
@@ -17678,9 +17738,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Makai Cinder Cone Cave",
       "length": 35,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=853"
     },
@@ -17749,16 +17810,18 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Man Eatin' Cave",
       "length": 261,
       "cave-type": "lava tunnel",
+      "cave-system": "Water Caves",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=643"
     },
 
     {
       "country-name": "Korea, Republic of",
       "state-or-province": "Cheju-do; Jeju Island",
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Hanra",
       "principal-cave-name": "Man Jang Gul",
       "other-cave-name": "Manjanggul",
       "other-cave-name": "Red Dragon Cave",
@@ -17925,9 +17988,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Mauka Cinder Cone Cave",
       "length": 62,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=854"
     },
@@ -18147,6 +18211,7 @@
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
       "reference": "Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=610",
+      "reference": "Fuhrmann (2007) J. Cave Karst Studie, 69(2), 256-265",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -18189,7 +18254,8 @@
       "principal-cave-name": "Michon Gul",
       "length": 1714,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=679"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=679",
+      "reference": "Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf"
     },
 
     {
@@ -18327,7 +18393,8 @@
       "length": 2202,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1538",
-      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf",
+      "reference": "Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf"
     },
 
     {
@@ -21849,136 +21916,6 @@
     },
 
     {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Cave (Kukui-Îula 57)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=951"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Caves (Koloa 74c)",
-      "length": 21,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=973"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Caves (Koloa 76a)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=952"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Caves (Koloa 76b)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=972"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Caves (Koloa 76c)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=974"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Caves (Koloa 76d)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=975"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Caves (Koloa 76e)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=976"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Caves (Koloa 76f)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=977"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Caves (Koloa 76g)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=978"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Caves (Waliweli 85 A)",
-      "length": 15,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=970"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Caves (Waliweli 85 B)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=971"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Caves (Waliweli 85 C)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=980"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Caves (Waliweli 85 D)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=981"
-    },
-
-    {
       "country-name": "Australia",
       "state-or-province": "Victoria",
       "phys-area-name": "Mt. Napier",
@@ -22446,6 +22383,7 @@
       "principal-cave-name": "Slime Cave",
       "length": 256,
       "cave-type": "lava tunnel",
+      "comments": "including Slime Cave Annex",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1675"
     },
 
@@ -22470,18 +22408,6 @@
     },
 
     {
-      "country-name": "Korea, Republic of",
-      "state-or-province": "Cheju",
-      "phys-area-name": [],
-      "principal-cave-name": "So Chon Gul",
-      "other-cave-name": "Stream Cave",
-      "other-cave-name": "Creek Cave",
-      "length": 2890,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=671"
-    },
-
-    {
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
@@ -22493,13 +22419,32 @@
 
     {
       "country-name": "Korea, Republic of",
-      "state-or-province": "Jeju province",
+      "state-or-province": "Cheju province",
       "phys-area-name": "Jeju Island",
-      "principal-cave-name": "Sochon Gul",
+      "principal-cave-name": "Sochon Kul",
+      "other-cave-name": "Sochon Gul",
+      "other-cave-name": "Stream Cave",
+      "other-cave-name": "Creek Cave",
+      "altitude": 150,
       "length": 3074,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=677"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=671",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=677",
+      "reference": "Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf"
+    },
+
+    {
+      "country-name": "Korea, Republic of",
+      "state-or-province": "Jeju province",
+      "phys-area-name": "Jeju Island",
+      "principal-cave-name": "Susan Gul",
+      "altitude": 110,
+      "length": 4675,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=676",
+      "reference": "Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf"
     },
 
     {
@@ -23112,16 +23057,6 @@
     },
 
     {
-      "country-name": "Korea, Republic of",
-      "state-or-province": "Jeju province",
-      "phys-area-name": "Jeju Island",
-      "principal-cave-name": "Susan Gul",
-      "length": 4675,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=676"
-    },
-
-    {
       "country-name": "Japan",
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
@@ -23373,28 +23308,6 @@
       "length": 1006,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1094"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Oregon",
-      "state-or-province": "Deschutes County",
-      "principal-cave-name": "TeePee",
-      "length": 5,
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "cave-system": "Horse Lava Tube System",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1322"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Oregon",
-      "state-or-province": "Deschutes County",
-      "principal-cave-name": "Teepee Spatter Cone",
-      "length": 5,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1321"
     },
 
     {
@@ -24354,18 +24267,10 @@
       "phys-area-name": [],
       "principal-cave-name": "Ubuvomo bwa Nyrabadago",
       "other-cave-name": "Ubuwumo bwa Nxirabadogo",
+      "other-cave-name": "Ubuvuma bwa Myirabadogo",
       "length": 1500,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=160"
-    },
-
-    {
-      "country-name": "Rwanda",
-      "state-or-province": [],
-      "phys-area-name": [],
-      "principal-cave-name": "Ubuvuma bwa Myirabadogo",
-      "length": 1500,
-      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=160",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=161"
     },
 
@@ -24375,6 +24280,7 @@
       "phys-area-name": "Kanisimbi",
       "principal-cave-name": "Ubuvumo bwa Musanze",
       "length": 4560,
+      "vertical-extent": 210,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1455"
@@ -24384,8 +24290,9 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": [],
-      "principal-cave-name": "Umi«i Manu System",
+      "principal-cave-name": "Umi`i Manu System",
       "length": 3887,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=936"
     },
@@ -24700,8 +24607,10 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Mt. Adams",
       "principal-cave-name": "Volunteer Cave",
       "length": 60,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1739"
     },
@@ -24756,9 +24665,12 @@
       "state-or-province": "Cheju Island",
       "phys-area-name": [],
       "principal-cave-name": "Wa Hol Gul",
+      "other-cave-name": "Wahul Kul",
+      "altitude": 200,
       "length": 2066,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=678"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=678",
+      "reference": "Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf"
     },
 
     {
@@ -24960,6 +24872,8 @@
       "principal-cave-name": "Water Caves",
       "length": 536,
       "cave-type": "lava tunnel",
+      "branch-name": "Check Out Cave",
+      "branch-name": "Man Eatin' Cave",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=644"
     },
 
@@ -25015,19 +24929,155 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island",
-      "principal-cave-name": "Weede's Burial Cave",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai",
+      "principal-cave-name": "Shelter Cave (Kukui-Îula 57)",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=797"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=951"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai; Koloa",
+      "principal-cave-name": "Shelter Caves (Koloa 74c)",
+      "length": 21,
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=973"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai; Koloa",
+      "principal-cave-name": "Shelter Caves (Koloa 76a)",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=952"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai; Koloa",
+      "principal-cave-name": "Shelter Caves (Koloa 76b)",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=972"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai; Koloa",
+      "principal-cave-name": "Shelter Caves (Koloa 76c)",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=974"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai; Koloa",
+      "principal-cave-name": "Shelter Caves (Koloa 76d)",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=975"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai; Koloa",
+      "principal-cave-name": "Shelter Caves (Koloa 76e)",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=976"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai; Koloa",
+      "principal-cave-name": "Shelter Caves (Koloa 76f)",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=977"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai; Koloa",
+      "principal-cave-name": "Shelter Caves (Koloa 76g)",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=978"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai",
+      "principal-cave-name": "Waliweli 85A",
+      "other-cave-name": "Shelter Cave 85A",
+      "length": 15,
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=970"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai; Koloa",
+      "principal-cave-name": "Waliweli 85B",
+      "other-cave-name": "Shelter Cave 85B",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=971"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai; Koloa",
+      "principal-cave-name": "Waliweli 85C",
+      "other-cave-name": "Shelter Cave 85C",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=980"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Kauai; Koloa",
+      "principal-cave-name": "Waliweli 85D",
+      "other-cave-name": "Shelter Cave 85D",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=981"
     },
 
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Kauai County",
       "phys-area-name": "Kauai Island; Koloa",
-      "principal-cave-name": "Weliweli Caves",
+      "principal-cave-name": "Ali'i Cave",
+      "other-cave-name": "Weliweli 78",
+      "length": [],
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=819"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii; Kauai County",
+      "phys-area-name": "Kauai Island; Koloa",
+      "principal-cave-name": "Weliweli Cave 85A-E",
       "length": [],
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -25037,20 +25087,12 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Weliweli Caves (80a)",
+      "phys-area-name": "Kauai; Koloa",
+      "principal-cave-name": "Weliweli Cave 80A",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=979"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Weliweli Caves 80A",
-      "length": [],
-      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=979",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=969"
     },
 
@@ -25348,10 +25390,12 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais; El Calderon area",
       "principal-cave-name": "Xenolith Cave",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1209"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1209",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -25949,6 +25993,17 @@
     },
 
     {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "principal-cave-name": "Whitney's Cave",
+      "length": 652,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "Kempe et al. (2010) http://www.vulcanospeleology.org/sym14/papers/Kempe-Whitneys.pdf"
+    },
+
+    {
       "country-name": "Kenya",
       "state-or-province": [],
       "phys-area-name": "Mt. Elgon",
@@ -25976,6 +26031,30 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "Middleton (1999) http://www.vulcanospeleology.org/1998.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "New Mexico",
+      "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais",
+      "principal-cave-name": "Lava Wall Cave",
+      "other-cave-name": "Peel Bark Cave",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "Ingham et al. (2004) http://vulcanospeleology.org/sym11/ISV11p7.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "New Mexico",
+      "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais",
+      "principal-cave-name": "Frozen Matt Cave",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "contents": "permanent ice",
+      "reference": "Ingham et al. (2004) http://vulcanospeleology.org/sym11/ISV11p7.pdf"
     },
 
     {

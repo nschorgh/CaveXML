@@ -8,7 +8,8 @@ import re  # Regular Expressions
 
 def merge_elements(stuff):
     # merges repeat XML elements, useful for flattenig database
-    if stuff is not None and len(stuff)>0:
+    #if stuff is not None and len(stuff)>0:
+    if stuff:
         str = stuff[0].text
         for i in range(1,len(stuff)):  # merge multiple entries
             if stuff[i].text is not None:
@@ -108,6 +109,32 @@ def parse_cave_id(caveid):
             id  = str.split('-')[0]
 
     return org, id
+
+
+
+def is_this_an_ice_cave(record):
+    # returns True if contents field includes 'permanent ice'
+    cont = record.findall('contents')
+    if cont:
+        for i in range(0,len(cont)):
+            if cont[i].text:
+                if 'permanent ice' in cont[i].text:
+                    return True
+
+    return False
+
+
+
+def is_this_a_lava_tube(record):
+    # returns True if cave-type field includes 'lava tunnel'
+    cavetype = record.findall('cave-type')
+    if cavetype:
+        for i in range(0,len(cavetype)):
+            if cavetype[i].text:
+                if 'lava tunnel' in cavetype[i].text:
+                    return True
+
+    return False
 
 
 

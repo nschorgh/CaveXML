@@ -7,21 +7,10 @@
 
 import xml.etree.ElementTree as ET
 import csv
+from cavexml import *
 
 tree = ET.parse('../allcaves-database.xml')
 root = tree.getroot()
-
-
-
-def merge_elements(stuff):
-    if stuff is not None and len(stuff)>0:
-        str = stuff[0].text
-        for i in range(1,len(stuff)):  # merge multiple entries
-            if stuff[i].text is not None:
-                str = str + "; " + stuff[i].text
-    else:
-        str = ""
-    return str
 
 
 
@@ -46,20 +35,25 @@ csvwriter.writerow(record_head)
 
 count = 0
 for item in root.findall('record'):
+
+    # optional filter criteria
+    #if not is_this_an_ice_cave(item):
+    #    continue
+    
     record = []
     count = count + 1
 
     country = item.findall('country-name')
-    str = merge_elements(country)
-    record.append(str)
+    outstr = merge_elements(country)
+    record.append(outstr)
         
     sop = item.findall('state-or-province')
-    str = merge_elements(sop)
-    record.append(str)
+    outstr = merge_elements(sop)
+    record.append(outstr)
 
     pan = item.findall('phys-area-name')
-    str = merge_elements(pan)
-    record.append(str)
+    outstr = merge_elements(pan)
+    record.append(outstr)
     
     pcn = item.find('principal-cave-name') # maxOccurs=1
     if pcn is not None:
@@ -68,12 +62,12 @@ for item in root.findall('record'):
         record.append("")
     
     ocn = item.findall('other-cave-name')
-    str = merge_elements(ocn)
-    record.append(str)
+    outstr = merge_elements(ocn)
+    record.append(outstr)
 
     cid = item.findall('cave-id')
-    str = merge_elements(cid)
-    record.append(str)
+    outstr = merge_elements(cid)
+    record.append(outstr)
 
     lat = item.find('latitude') # maxOccurs=1, decimal
     if lat is not None:
@@ -88,8 +82,8 @@ for item in root.findall('record'):
         record.append("")
 
     alt = item.findall('altitude') 
-    str = merge_elements(alt)
-    record.append(str)
+    outstr = merge_elements(alt)
+    record.append(outstr)
 
     length = item.find('length') # maxOccurs=1, EUI
     if length is not None:
@@ -110,20 +104,20 @@ for item in root.findall('record'):
         record.append("")
 
     rot = item.findall('rock-type')
-    str = merge_elements(rot)
-    record.append(str)
+    outstr = merge_elements(rot)
+    record.append(outstr)
         
     cat = item.findall('cave-type')
-    str = merge_elements(cat)
-    record.append(str)
+    outstr = merge_elements(cat)
+    record.append(outstr)
 
     cont = item.findall('contents')
-    str = merge_elements(cont)
-    record.append(str)
+    outstr = merge_elements(cont)
+    record.append(outstr)
 
     comm = item.findall('comments')
-    str = merge_elements(comm)
-    record.append(str)
+    outstr = merge_elements(comm)
+    record.append(outstr)
 
     sys = item.find('cave-system') # maxOccurs=1
     if sys is not None:
@@ -132,23 +126,22 @@ for item in root.findall('record'):
         record.append("")
     
     branch = item.findall('branch-name')
-    str = merge_elements(branch)
-    record.append(str)
+    outstr = merge_elements(branch)
+    record.append(outstr)
 
     ref = item.findall('reference')
-    str = merge_elements(ref)
-    if str is not None:
-        if len(str)>0:
-            str = str.replace("doi:", "https://doi.org:")
-    record.append(str)
+    outstr = merge_elements(ref)
+    if outstr:
+        outstr = outstr.replace("doi:", "https://doi.org/")
+    record.append(outstr)
     
     caveuse = item.findall('cave-use')
-    str = merge_elements(caveuse)
-    record.append(str)
+    outstr = merge_elements(caveuse)
+    record.append(outstr)
 
     cur = item.findall('curation')
-    str = merge_elements(cur)
-    record.append(str)
+    outstr = merge_elements(cur)
+    record.append(outstr)
 
         
     csvwriter.writerow(record)

@@ -242,554 +242,640 @@
       <cave-system>Gamslöcher-Kolowrat-Höhlensystem</cave-system>
       <reference>https://www.zobodat.at/pdf/HdN_9_0175-0183.pdf</reference>
    </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Yukon</state-or-province>
-      <phys-area-name>Ni’iinlii Njik; Old Crow</phys-area-name>
-      <principal-cave-name>Tsi Tse Han Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude>66.3</latitude>
-      <longitude>-139.3</longitude>
-      <altitude>750</altitude>
-      <length>50</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>permafrost</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Yukon</state-or-province>
-      <phys-area-name>Ni’iinlii Njik; Old Crow</phys-area-name>
-      <principal-cave-name>Grande Caverne Glacee</principal-cave-name>
-      <other-cave-name/>
-      <latitude>66.3</latitude>
-      <longitude>-139.3</longitude>
-      <altitude>750–950</altitude>
-      <length>110</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>permafrost; massive ice</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Yukon</state-or-province>
-      <phys-area-name>Ni’iinlii Njik; Old Crow</phys-area-name>
-      <principal-cave-name>Caverne des Meandres</principal-cave-name>
-      <other-cave-name/>
-      <latitude>66.7</latitude>
-      <longitude>-139.3</longitude>
-      <altitude>750–950</altitude>
-      <length>100</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>permafrost</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Yukon</state-or-province>
-      <phys-area-name>Ni’iinlii Njik; Old Crow</phys-area-name>
-      <principal-cave-name>Bear Cave</principal-cave-name>
-      <other-cave-name>Chii Ch’à’an</other-cave-name>
-      <latitude>66</latitude>
-      <longitude>-139.3</longitude>
-      <altitude>750–950</altitude>
-      <length>220</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>permafrost; clear pillars of ice and small hoar crystals</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Yukon</state-or-province>
-      <phys-area-name>Ni’iinlii Njik; Old Crow</phys-area-name>
-      <principal-cave-name>Caverne ‘85</principal-cave-name>
-      <other-cave-name/>
-      <latitude>66.8</latitude>
-      <longitude>-139.3</longitude>
-      <altitude>750–950</altitude>
-      <length>40</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>permafrost; massive ice</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Northwest Territories</state-or-province>
-      <phys-area-name>Nahanni Canyon</phys-area-name>
-      <principal-cave-name>Grotte Valerie Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude>61.3</latitude>
-      <longitude>-124.1</longitude>
-      <altitude/>
-      <length>2002</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>hoarfrost</comments>
-      <comments>permafrost / cold zone</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Northwest Territories</state-or-province>
-      <phys-area-name>Nahanni Canyon</phys-area-name>
-      <principal-cave-name>Grotte Mickey</principal-cave-name>
-      <other-cave-name/>
-      <latitude>61.3</latitude>
-      <longitude>-124.1</longitude>
-      <altitude/>
-      <length>2270</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>permafrost / cold trap</comments>
-      <comments>Four areas of ice now sealed</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Northwest Territories</state-or-province>
-      <phys-area-name>Nahanni Karst / Lafferty Creek</phys-area-name>
-      <principal-cave-name>Andree</principal-cave-name>
+
+      <record>
+      <country-name>Bosnia and Herzegovina</country-name>
+      <state-or-province/>
+      <phys-area-name>Treskavica mountain</phys-area-name>
+      <principal-cave-name>Ledenica</principal-cave-name>
       <other-cave-name/>
       <latitude/>
       <longitude/>
       <altitude/>
-      <length>1205</length>
+      <length/>
       <vertical-extent/>
+      <rock-type/>
       <contents>permanent ice</contents>
-      <comments>cold trap</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+      <comments/>
+      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
    </record>
    <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Northwest Territories</state-or-province>
-      <phys-area-name>Nahanni North Karst</phys-area-name>
-      <principal-cave-name>Igloo</principal-cave-name>
+      <country-name>Bosnia and Herzegovina</country-name>
+      <state-or-province/>
+      <phys-area-name>Bobija mountain</phys-area-name>
+      <principal-cave-name>Ledana Pit</principal-cave-name>
       <other-cave-name/>
-      <latitude>61.5</latitude>
-      <longitude>-124.2</longitude>
+      <latitude/>
+      <longitude/>
       <altitude/>
-      <length>~600</length>
+      <length/>
       <vertical-extent/>
+      <rock-type/>
       <contents>permanent ice</contents>
-      <comments>cold trap</comments>
-      <comments>Spectacular ice</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+      <comments/>
+      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
    </record>
    <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Northwest Territories</state-or-province>
-      <phys-area-name>Nahanni North Karst</phys-area-name>
-      <principal-cave-name>Arnica</principal-cave-name>
+      <country-name>Croatia</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Ledenica Cave</principal-cave-name>
       <other-cave-name/>
-      <latitude>61.5</latitude>
-      <longitude>-124.2</longitude>
+      <latitude/>
+      <longitude/>
       <altitude/>
-      <length>242</length>
+      <length/>
       <vertical-extent/>
+      <rock-type/>
       <contents>permanent ice</contents>
-      <comments>cold trap</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+      <comments/>
+      <reference>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</reference>
    </record>
    <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Northwest Territories</state-or-province>
-      <phys-area-name>Nahanni North Karst</phys-area-name>
-      <principal-cave-name>Black Ice Cave</principal-cave-name>
+      <country-name>Croatia</country-name>
+      <state-or-province/>
+      <phys-area-name>Velebit Mt.</phys-area-name>
+      <principal-cave-name>Puhaljka Cave</principal-cave-name>
       <other-cave-name/>
-      <latitude>61.5</latitude>
-      <longitude>-124.2</longitude>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</reference>
+   </record>
+   <record>
+      <country-name>Croatia</country-name>
+      <state-or-province/>
+      <phys-area-name>Velebit Mt.</phys-area-name>
+      <principal-cave-name>Snjeguljac Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
       <altitude/>
       <length/>
       <vertical-extent/>
       <contents>permanent ice</contents>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+      <comments/>
+      <reference>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</reference>
    </record>
    <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Kananaskis; Moose Mountain</phys-area-name>
-      <principal-cave-name>Canyon Creek</principal-cave-name>
-      <other-cave-name>Bragg Creek Ice Cave</other-cave-name>
-      <other-cave-name>Moose Mountain Ice Cave</other-cave-name>
-      <latitude>50.9</latitude>
-      <longitude>-114.8</longitude>
-      <altitude>1769</altitude>
-      <length>727</length>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>cold zone</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Kananaskis</phys-area-name>
-      <principal-cave-name>Plateau Mountain</principal-cave-name>
-      <other-cave-name/>
-      <latitude>50.3</latitude>
-      <longitude>-114.5</longitude>
-      <altitude>2226</altitude>
-      <length>410</length>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>permafrost</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Crowsnest Pass; Rocky Mountains</phys-area-name>
-      <principal-cave-name>Booming Ice Chasm</principal-cave-name>
-      <other-cave-name/>
-      <latitude>49.61667</latitude>
-      <longitude>-114.63333</longitude>
-      <altitude>2189</altitude>
-      <length>961</length>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>cold trap; Mississipian age</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-      <reference>https://en.wikipedia.org/wiki/Booming_Ice_Chasm</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Crowsnest Pass</phys-area-name>
-      <principal-cave-name>Glittering Ice Palace</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>2226</altitude>
-      <length>286</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>Hoarfrost</comments>
-      <comments>permafrost</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Crowsnest Pass</phys-area-name>
-      <principal-cave-name>Coultard Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>2440</altitude>
-      <length>370</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>permafrost; ice optically clear with a visual depth of at least 6m</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Crowsnest Pass</phys-area-name>
-      <principal-cave-name>Ice Chest</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>2250</altitude>
-      <length>381</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>Extrusion ice</comments>
-      <comments>permafrost</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Crowsnest Pass</phys-area-name>
-      <principal-cave-name>Serendipity</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>2165</altitude>
-      <length>473</length>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Extrusion ice</comments>
-      <comments>permafrost</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Crowsnest Pass</phys-area-name>
-      <principal-cave-name>Flop Pot</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>2165</altitude>
-      <length>200</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>Flood ice</comments>
-      <comments>cold trap</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Crowsnest Pass</phys-area-name>
-      <principal-cave-name>Ice Hall</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>2180</altitude>
-      <length>130</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>cold trap</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>British Columbia</state-or-province>
-      <phys-area-name>Crowsnest Pass</phys-area-name>
-      <principal-cave-name>Rats Hole</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>2455</altitude>
-      <length>130</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>permafrost / cold trap</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>British Columbia</state-or-province>
-      <phys-area-name>White Ridges Provincial Park</phys-area-name>
-      <phys-area-name>Vancouver Island</phys-area-name>
-      <principal-cave-name/>
-      <other-cave-name>Q5</other-cave-name>
-      <latitude>49.8</latitude>
-      <longitude>-126.0</longitude>
-      <altitude>1200</altitude>
-      <length>1867</length>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>cold trap</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-      <reference>Canadian Caver 9/2, 16/1 1984, 16/2, 28/1, 29/2, 61/9</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>British Columbia</state-or-province>
-      <phys-area-name>White Ridges Provincial Park</phys-area-name>
-      <phys-area-name>Vancouver Island</phys-area-name>
-      <principal-cave-name>Projects Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude>49.8</latitude>
-      <longitude>-126.0</longitude>
-      <altitude>1050</altitude>
-      <length> >130</length>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>cold trap; Triassic age</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Jasper National Park</phys-area-name>
-      <phys-area-name>Columbia Icefield</phys-area-name>
-      <principal-cave-name>Castleguard Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude>52.1</latitude>
-      <longitude>-117.2</longitude>
-      <altitude>2016</altitude>
-      <length>21068</length>
-      <vertical-extent>387</vertical-extent>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Active/relict cold zone; Cambrian</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-      <reference>Canadian Caver 2:26, 5/1:21, 11/1:28, 12/1:3, 15/2:7, 19/2:22, 59:7, 63:4, 66:4, 71:4, 73:20, 80:28</reference>
-      <reference>https://en.wikipedia.org/wiki/Castleguard_Cave</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Jasper National Park</phys-area-name>
-      <principal-cave-name>Disaster Point Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude>53.0</latitude>
-      <longitude>-118.1</longitude>
-      <altitude>1082</altitude>
-      <length>673</length>
-      <vertical-extent/>
-      <number-of-entrances>2</number-of-entrances>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <contents>charcoal</contents>
-      <comments>cold trap</comments>
-      <comments>Devonian Palliser Formation</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Jasper National Park</phys-area-name>
-      <principal-cave-name>Ice Trap</principal-cave-name>
-      <other-cave-name/>
-      <latitude>53.1</latitude>
-      <longitude>-118.3</longitude>
-      <altitude>2400</altitude>
-      <length>3002</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>permafrost / cold zone</comments>
-      <comments>Devonian Palliser Formation</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Jasper National Park</phys-area-name>
-      <principal-cave-name>Mount Alberta Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude>52.3</latitude>
-      <longitude>-117.5</longitude>
-      <altitude>3350</altitude>
-      <length> ~150+</length>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Cambrian</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>British Columbia</state-or-province>
-      <phys-area-name>Mt. Sinwa, Taku, Stikine</phys-area-name>
-      <principal-cave-name>Icy Hope</principal-cave-name>
-      <other-cave-name/>
-      <latitude>56.9</latitude>
-      <longitude>-133.3</longitude>
-      <altitude>1499</altitude>
-      <length>200</length>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Triassic; cold trap</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>British Columbia</state-or-province>
-      <phys-area-name>Inverted Ridge</phys-area-name>
-      <principal-cave-name>Inverted Fridge</principal-cave-name>
-      <other-cave-name/>
-      <latitude>49.1</latitude>
-      <longitude>-114.8</longitude>
-      <altitude>1940</altitude>
-      <length>281</length>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Hoarfrost and ponded ice</comments>
-      <comments>cold trap / cold zone ?</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>British Columbia</state-or-province>
-      <phys-area-name>Inverted Ridge</phys-area-name>
-      <principal-cave-name>Global Cooling</principal-cave-name>
-      <other-cave-name/>
-      <latitude>49.1</latitude>
-      <longitude>-114.8</longitude>
-      <altitude>1940</altitude>
-      <length>133</length>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Hoarfrost and ponded ice</comments>
-      <comments>cold trap / cold zone ?</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
+      <country-name>Croatia</country-name>
       <state-or-province/>
-      <phys-area-name>Mount Bisaro</phys-area-name>
-      <principal-cave-name>Supermans Glittering Ice Palace (SGIP)</principal-cave-name>
+      <phys-area-name/>
+      <principal-cave-name>Lukina jama-Trojama system</principal-cave-name>
       <other-cave-name/>
-      <latitude>49.6</latitude>
-      <longitude>-115.6</longitude>
-      <altitude>2250</altitude>
-      <length>21</length>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
       <vertical-extent/>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</reference>
+   </record>
+   
+
+
+   <record>
+      <country-name>Finland</country-name>
+      <state-or-province/>
+      <phys-area-name>Korkia-Maura Island</phys-area-name>
+      <principal-cave-name/>
+      <other-cave-name>Ice Cave</other-cave-name>
+      <latitude/>
+      <longitude/>
+      <altitude>~125</altitude>
+      <length/>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>ice block level with Lake Inari</comments>
+      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+   </record>
+   <record>
+      <country-name>Iceland</country-name>
+      <state-or-province>Myrasysla County</state-or-province>
+      <phys-area-name>Hallmundahraun lava flow</phys-area-name>
+      <principal-cave-name>Surtshellir</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length>3500</length>
+      <vertical-extent/>
+      <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
+      <comments>lava is about 1100 years old</comments>
+      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=23</reference>
+   </record>
+   <record>
+      <country-name>Iceland</country-name>
+      <state-or-province>Myrasysla County</state-or-province>
+      <phys-area-name>Hallmundahraun lava flow</phys-area-name>
+      <principal-cave-name>Víðgelmir</principal-cave-name>
+      <other-cave-name/>
+      <latitude>64.75028</latitude>
+      <longitude>-20.80170</longitude>
+      <altitude>250</altitude>
+      <length>1585</length>
+      <vertical-extent/>
+      <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=22</reference>
+      <reference>Mills and Wood (1972) https://www.shepton.org.uk/files/jnr/jnr_series_05_04.pdf</reference>
+      <reference>www.thecave.is/</reference>
+   </record>
+   <record>
+      <country-name>Iceland</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Loftshellir</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+   </record>
+
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Hochkalter, Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Eisl-Schlucht</principal-cave-name>
+      <other-cave-name/>
+      <altitude>~1910</altitude>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Hochkalter, Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Firnkegelhöhle</principal-cave-name>
+      <other-cave-name/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments>short static ice cave</comments>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Hochkalter, Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Hinterbergkarschlinger</principal-cave-name>
+      <other-cave-name/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments>ponor cave</comments>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Hochkalter, Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Eisfliegenschacht</principal-cave-name>
+      <other-cave-name/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments>dynamic cave</comments>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Hochkalter, Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Gipfelhöhle</principal-cave-name>
+      <other-cave-name/>
+      <altitude>2560</altitude>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Reiteralm, Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Yetischacht</principal-cave-name>
+      <other-cave-name/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments>50m high ice mountain</comments>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Reiteralm, Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Schlundeisbergschacht</principal-cave-name>
+      <other-cave-name/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments>45m high ice mountain</comments>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Reiteralm; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Eisrohrhöhle</principal-cave-name>
+      <other-cave-name/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <cave-system>Eisrohrhöhle-Bammelschacht-System</cave-system>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Reiteralm; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Zeller Eishöhle</principal-cave-name>
+      <other-cave-name/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments>discovered in 1909</comments>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Untersberg; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Schellenberger Eishöhle</principal-cave-name>
+      <other-cave-name/>
+      <latitude>47.71333</latitude>
+      <longitude>13.00444</longitude>
+      <altitude>1570</altitude>
+      <length>3621</length>
+      <vertical-extent>260</vertical-extent>
+      <contents>permanent ice</contents>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+      <cave-use>guided tourist cave</cave-use>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Untersberg; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Naturfreundehöhle</principal-cave-name>
+      <other-cave-name/>
+      <altitude>1800</altitude>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Untersberg; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Cannstatter Schacht</principal-cave-name>
+      <other-cave-name/>
+      <altitude>1870</altitude>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments>vertical ice cave, massive ice floor</comments>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Untersberg; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Eisbläser</principal-cave-name>
+      <other-cave-name/>
+      <altitude>1787</altitude>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments>vertical ice cave</comments>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Untersberg; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Rauchkopfschacht</principal-cave-name>
+      <other-cave-name/>
+      <altitude>1675</altitude>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Untersberg; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Nordstörungstopf</principal-cave-name>
+      <other-cave-name/>
+      <altitude>1630</altitude>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Steineres Meer; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Sockenschleuder</principal-cave-name>
+      <other-cave-name/>
+      <altitude>1958</altitude>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Steineres Meer; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Leiterkopfhöhle</principal-cave-name>
+      <other-cave-name/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Steineres Meer, Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Hocheggerhöhle</principal-cave-name>
+      <other-cave-name/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Hagengebirge; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Enttäuschungsloch</principal-cave-name>
+      <other-cave-name/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Hagengebirge, Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Teeologenschacht</principal-cave-name>
+      <other-cave-name/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Hagengebirge, Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Rutschbahn</principal-cave-name>
+      <other-cave-name/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Hagengebirge; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Regenhöhle</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   <record>
+      <country-name>Germany</country-name>
+      <state-or-province/>
+      <phys-area-name>Hoher Göll; Berchtesgaden Alps</phys-area-name>
+      <principal-cave-name>Tabellenführer</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent>295</vertical-extent>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
+   </record>
+   
+   <record>
+      <country-name>Greece</country-name>
+      <state-or-province/>
+      <phys-area-name>Falakro Mountain</phys-area-name>
+      <principal-cave-name>Chionotrypa cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>2080</altitude>
+      <length/>
+      <vertical-extent>111</vertical-extent>
+      <rock-type>marble</rock-type>
+      <contents>permanent ice</contents>
+      <comments>vertical height of ice sheet is almost 30m</comments>
+      <reference>Pennos et al. (2018) doi:10.1016/B978-0-12-811739-2.00018-8</reference>
+   </record>
+   <record>
+      <country-name>Greece</country-name>
+      <state-or-province/>
+      <phys-area-name>Mount Olympus</phys-area-name>
+      <principal-cave-name>Chionotrypa cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>2560</altitude>
+      <length/>
+      <vertical-extent>26</vertical-extent>
+      <cave-type/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Pennos et al. (2018) doi:10.1016/B978-0-12-811739-2.00018-8</reference>
+   </record>
+   <record>
+      <country-name>Greece</country-name>
+      <state-or-province/>
+      <phys-area-name>Tymfi Mountain</phys-area-name>
+      <principal-cave-name>Provatina cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent>407</vertical-extent>
       <rock-type>limestone</rock-type>
+      <cave-type/>
       <contents>permanent ice</contents>
-      <comments>cold trap</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+      <comments>vertical pit</comments>
+      <reference>Pennos et al. (2018) doi:10.1016/B978-0-12-811739-2.00018-8</reference>
    </record>
    <record>
-      <country-name>Canada</country-name>
-      <state-or-province>British Columbia</state-or-province>
-      <phys-area-name>Glacier National Park</phys-area-name>
-      <principal-cave-name>Nakimu Cave</principal-cave-name>
+      <country-name>Greece</country-name>
+      <state-or-province/>
+      <phys-area-name>Lefka Ori mountain range</phys-area-name>
+      <principal-cave-name>Skud cave</principal-cave-name>
       <other-cave-name/>
-      <latitude>51.3</latitude>
-      <longitude>-117.6</longitude>
-      <altitude>1576</altitude>
-      <length>6000</length>
-      <vertical-extent/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent>46</vertical-extent>
+      <cave-type/>
       <contents>permanent ice</contents>
-      <comments>Badshot marble Formation, Cambrian</comments>
-      <comments>cold trap</comments>
-      <comments>Large icefall</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+      <comments>vertical pit</comments>
+      <reference>Pennos et al. (2018) doi:10.1016/B978-0-12-811739-2.00018-8</reference>
    </record>
+
    <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Alberta</state-or-province>
-      <phys-area-name>Wood Buffalo National Park</phys-area-name>
-      <principal-cave-name>Walkin-Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude>59.8</latitude>
-      <longitude>-112.2</longitude>
-      <altitude>252</altitude>
-      <length>1624</length>
-      <vertical-extent/>
-      <rock-type>gypsum</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Devonian; Relict Cold Trap</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>British Columbia</state-or-province>
-      <phys-area-name>Top of the World Provincial Park</phys-area-name>
-      <principal-cave-name>Wedge Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude></latitude>
-      <longitude></longitude>
-      <altitude>2200</altitude>
-      <length>60</length>
-      <vertical-extent/>
+      <country-name>Greenland</country-name>
+      <phys-area-name>northeastern Greenland; Odins Fjord Formation</phys-area-name>
+      <principal-cave-name>U-Shaped-Cave</principal-cave-name>
+      <other-cave-name>U-Tut Ilusilik Qaarusussuaq</other-cave-name>
+      <latitude>+80.376</latitude>
+      <longitude>-21.736</longitude>
+      <altitude>533 north entrance</altitude>
+      <altitude>530 south entrance</altitude>
+      <length>95</length>
       <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Massive ice</comments>
-      <comments>Cambrian; permafrost / cold trap</comments>
-      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+      <comments>discovered in 1960</comments>
+      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
    </record>
+   <record>
+      <country-name>Greenland</country-name>
+      <phys-area-name>northeastern Greenland; Odins Fjord Formation</phys-area-name>
+      <principal-cave-name>Main Sampling Cave</principal-cave-name>
+      <other-cave-name>Kodak Cave</other-cave-name>
+      <latitude>+80.37767</latitude>
+      <longitude>-21.74682</longitude>
+      <altitude>520</altitude>
+      <length>11</length>
+      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
+   </record>
+   <record>
+      <country-name>Greenland</country-name>
+      <phys-area-name>northeastern Greenland</phys-area-name>
+      <principal-cave-name>Grotte des Quatre</principal-cave-name>
+      <other-cave-name>Grottenfjeldet</other-cave-name>
+      <latitude>+80.08775</latitude>
+      <longitude>-22.56333</longitude>
+      <altitude>420</altitude>
+      <length>74</length>
+      <number-of-entrances>4</number-of-entrances>
+      <rock-type>limestone</rock-type>
+      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
+   </record>
+   <record>
+      <country-name>Greenland</country-name>
+      <phys-area-name>northeastern Greenland</phys-area-name>
+      <principal-cave-name>Cairn Climb Cave</principal-cave-name>
+      <other-cave-name>Inussuk Innartooq Qaarusussuaq</other-cave-name>
+      <latitude>+80.37756</latitude>
+      <longitude>-21.71019</longitude>
+      <altitude>540</altitude>
+      <length>19</length>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments>rear of cave blocked by wall of ice</comments>
+      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
+   </record>
+   <record>
+      <country-name>Greenland</country-name>
+      <phys-area-name>northeastern Greenland</phys-area-name>
+      <principal-cave-name>Crystal Palace Cave</principal-cave-name>
+      <other-cave-name>Aligoq Illussaarsuaq Qaarusussuaq</other-cave-name>
+      <latitude>+80.37739</latitude>
+      <longitude>-21.72585</longitude>
+      <altitude>604</altitude>
+      <length>48</length>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments>ice stalagmites, hoar frost</comments>
+      <comments>rear of cave blocked by wall of ice</comments>
+      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
+   </record>
+   <record>
+      <country-name>Greenland</country-name>
+      <phys-area-name>northeastern Greenland</phys-area-name>
+      <principal-cave-name>Lemming Cave</principal-cave-name>
+      <other-cave-name>Narlumukaap Qaarusussuaq</other-cave-name>
+      <other-cave-name>Stig Strikes Again</other-cave-name>
+      <latitude>+80.38586</latitude>
+      <longitude>-21.81800</longitude>
+      <altitude>526</altitude>
+      <length>54</length>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments>ice wall, hoar frost/ice floor</comments>
+      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
+   </record>
+   <record>
+      <country-name>Greenland</country-name>
+      <phys-area-name>northeastern Greenland</phys-area-name>
+      <principal-cave-name>Crystal Kingdom Cave</principal-cave-name>
+      <other-cave-name>Aligoq Kunngeqarfik Qaarusussuaq</other-cave-name>
+      <latitude>+80.41238</latitude>
+      <longitude>-21.6819</longitude>
+      <altitude>825</altitude>
+      <length>87</length>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments>impressive hoar frost</comments>
+      <comments>large hoar frost crystals</comments>
+      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
+      <reference>Barton et al. (2020) Cave and Karst Sci. 47, 93-99</reference>
+   </record>
+   <record>
+      <country-name>Greenland</country-name>
+      <phys-area-name>northeastern Greenland</phys-area-name>
+      <principal-cave-name>Cove Cave</principal-cave-name>
+      <other-cave-name>Kate's Cove Cave</other-cave-name>
+      <other-cave-name>Eqik Qaarusussuaq</other-cave-name>
+      <latitude>+80.25346</latitude>
+      <longitude>-21.93311</longitude>
+      <altitude>660</altitude>
+      <length>103</length>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments>impressive hoar frost, ice stalagmites</comments>
+      <comments/>
+      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
+      <reference>Barton et al. (2020) Cave and Karst Sci. 47, 93-99</reference>
+   </record>
+
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Lombardy</state-or-province>
@@ -970,6 +1056,151 @@
       <contents>permanent ice</contents>
       <reference>Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X</reference>
    </record>
+
+   <record>
+      <country-name>Montenegro</country-name>
+      <state-or-province/>
+      <phys-area-name>Prokletije Mountains</phys-area-name>
+      <principal-cave-name>Ice Cave</principal-cave-name>
+      <cave-id>03110</cave-id>
+      <latitude/>
+      <longitude/>
+      <altitude>1945</altitude>
+      <length>2057</length>
+      <vertical-extent>451</vertical-extent>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+   </record>
+   <record>
+      <country-name>Montenegro</country-name>
+      <state-or-province/>
+      <phys-area-name>Prokletije Mountains</phys-area-name>
+      <principal-cave-name>03061</principal-cave-name>
+      <cave-id>03061</cave-id>
+      <latitude/>
+      <longitude/>
+      <altitude>2034</altitude>
+      <length>572</length>
+      <vertical-extent>207</vertical-extent>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments>the other branch is T5</comments>
+      <cave-system>03061-T5 Cave system</cave-system>
+      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+   </record>
+   <record>
+      <country-name>Montenegro</country-name>
+      <state-or-province/>
+      <phys-area-name>Prokletije Mountains</phys-area-name>
+      <principal-cave-name>T5</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>2069</altitude>
+      <length>560</length>
+      <vertical-extent>176</vertical-extent>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments>the other branch is 03061</comments>
+      <cave-system>03061-T5 Cave system</cave-system>
+      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+   </record>
+   <record>
+      <country-name>Montenegro</country-name>
+      <state-or-province/>
+      <phys-area-name>Prokletije Mountains</phys-area-name>
+      <principal-cave-name>03061-T5 Cave system</principal-cave-name>
+      <cave-id>03067</cave-id>
+      <latitude/>
+      <longitude/>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <branch-name>03061</branch-name>
+      <branch-name>T5</branch-name>
+      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+   </record>
+   <record>
+      <country-name>Montenegro</country-name>
+      <state-or-province/>
+      <phys-area-name>Prokletije Mountains</phys-area-name>
+      <principal-cave-name>Mining Cave</principal-cave-name>
+      <cave-id>03313</cave-id>
+      <latitude/>
+      <longitude/>
+      <altitude>2019</altitude>
+      <length>2083</length>
+      <vertical-extent>585</vertical-extent>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+   </record>
+   <record>
+      <country-name>Montenegro</country-name>
+      <state-or-province/>
+      <phys-area-name>Prokletije Mountains</phys-area-name>
+      <principal-cave-name>Ice Giant Cave</principal-cave-name>
+      <cave-id>03114</cave-id>
+      <latitude/>
+      <longitude/>
+      <altitude>2099</altitude>
+      <length>90</length>
+      <vertical-extent>23</vertical-extent>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+   </record>
+   <record>
+      <country-name>Montenegro</country-name>
+      <state-or-province/>
+      <phys-area-name>Prokletije Mountains</phys-area-name>
+      <principal-cave-name>Alladin's Cave</principal-cave-name>
+      <cave-id>03149</cave-id>
+      <latitude/>
+      <longitude/>
+      <altitude>1960</altitude>
+      <length>156</length>
+      <vertical-extent>16</vertical-extent>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+   </record>
+   <record>
+      <country-name>Montenegro</country-name>
+      <state-or-province/>
+      <phys-area-name>Prokletije Mountains</phys-area-name>
+      <principal-cave-name>Bolt from the Blue Cave</principal-cave-name>
+      <cave-id>03146</cave-id>
+      <latitude/>
+      <longitude/>
+      <altitude>1930</altitude>
+      <length>307</length>
+      <vertical-extent>45</vertical-extent>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+   </record>
+   <record>
+      <country-name>Montenegro</country-name>
+      <state-or-province/>
+      <phys-area-name>Prokletije Mountains</phys-area-name>
+      <principal-cave-name>Ice Dragon Cave</principal-cave-name>
+      <cave-id>03003</cave-id>
+      <latitude/>
+      <longitude/>
+      <altitude>1881</altitude>
+      <length>396</length>
+      <vertical-extent>183</vertical-extent>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+   </record>
+   
    <record>
       <country-name>North Macedonia</country-name>
       <state-or-province/>
@@ -1337,6 +1568,89 @@
       <comments>pit ending with snow plug</comments>
       <reference>Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X</reference>
    </record>
+
+   <record>
+      <country-name>Norway</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Svarthammarhola</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>295 upper entrance</altitude>
+      <altitude>245 lower entrance</altitude>
+      <length/>
+      <vertical-extent/>
+      <number-of-entrances>2</number-of-entrances>
+      <contents>permanent ice</contents>
+      <comments>age of ice &lt;650 years</comments>
+      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+   </record>
+   <record>
+      <country-name>Norway</country-name>
+      <state-or-province>Greftvatn, Gildeskal, Nordland</state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Greftkjelen</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>350</altitude>
+      <length>11000</length>
+      <vertical-extent>350</vertical-extent>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+   </record>
+   <record>
+      <country-name>Norway</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Salthølene</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>643</altitude>
+      <length> >2000</length>
+      <vertical-extent>186</vertical-extent>
+      <cave-type/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+   </record>
+   <record>
+      <country-name>Norway</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Råggejavre-Raige</principal-cave-name>
+      <other-cave-name>RJR</other-cave-name>
+      <other-cave-name>Pit-tarn Cave</other-cave-name>
+      <latitude/>
+      <longitude/>
+      <altitude>80 lower entrances</altitude>
+      <length> >1900</length>
+      <vertical-extent/>
+      <number-of-entrances>2</number-of-entrances>
+      <cave-type/>
+      <contents>permanent ice</contents>
+      <cave-system>Tysfjord complex</cave-system>
+      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+   </record>
+   <record>
+      <country-name>Norway</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Isgrotta</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>225</altitude>
+      <length/>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+   </record>
+
    <record>
       <country-name>Poland</country-name>
       <state-or-province/>
@@ -2055,14 +2369,16 @@
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <contents>many bats</contents>
-      <reference>Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5</reference>
       <reference>Racoviţă and Onac (2000) 'Scărișoara Glacier Cave' Editura Carpatica, 138pp</reference>
       <reference>Holmlund et al. (2005) doi:j.0435-3676.2005.00252.x</reference>
       <reference>Perşoiu et al. (2011) doi:10.1029/2010JD014477</reference>
       <reference>Feurdean et al. (2011) doi:10.1016/j.revpalbo.2011.01.007</reference>
+      <reference>Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5</reference>
       <reference>Itcus et al. (2018) doi:10.1038/s41598-018-34106-2</reference>
+      <reference>Modini et al. (2018) doi:10.1017/aog.2019.6</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
+
    <record>
       <country-name>Serbia</country-name>
       <state-or-province/>
@@ -2452,6 +2768,7 @@
       <comments>Vertical structural cavity</comments>
       <reference>Nešić and Ćalić (2018) doi:10.1016/B978-0-12-811739-2.00027-9</reference>
    </record>
+
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
@@ -3102,6 +3419,7 @@
       <contents>permanent ice</contents>
       <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
    </record>
+
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
@@ -3727,6 +4045,123 @@
       <contents>permanent ice</contents>
       <reference>Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2</reference>
    </record>
+
+   <record>
+      <country-name>Slovenia</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Paradani</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>1130</altitude>
+      <length>6534</length>
+      <vertical-extent>858</vertical-extent>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments/>
+      <reference>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</reference>
+   </record>
+   <record>
+      <country-name>Slovenia</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Smrekova draga</principal-cave-name>
+      <other-cave-name/>
+      <latitude>45.98752</latitude>
+      <longitude>13.86777</longitude>
+      <altitude/>
+      <length>~1500</length>
+      <vertical-extent> >150</vertical-extent>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments>two dolines</comments>
+      <reference>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</reference>
+   </record>
+   <record>
+      <country-name>Slovenia</country-name>
+      <state-or-province/>
+      <phys-area-name>Raduha Mountain</phys-area-name>
+      <principal-cave-name>Snežna jama cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude>46.39825</latitude>
+      <longitude>14.74209</longitude>
+      <altitude>1514</altitude>
+      <length/>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>collapse dolina</comments>
+      <reference>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</reference>
+   </record>
+
+   <record>
+      <country-name>Svalbard and Jan Mayen</country-name>
+      <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
+      <principal-cave-name></principal-cave-name>
+      <other-cave-name>G4</other-cave-name>
+      <altitude>70</altitude>
+      <length>12</length>
+      <vertical-extent>1</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
+   </record>
+   <record>
+      <country-name>Svalbard and Jan Mayen</country-name>
+      <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
+      <principal-cave-name>Portalgrotta</principal-cave-name>
+      <other-cave-name>G5</other-cave-name>
+      <altitude>72</altitude>
+      <length>39</length>
+      <vertical-extent>2</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>ground ice and hoarfrost</comments>
+      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
+   </record>
+   <record>
+      <country-name>Svalbard and Jan Mayen</country-name>
+      <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
+      <principal-cave-name>Fissurgrotta</principal-cave-name>
+      <other-cave-name>G17</other-cave-name>
+      <altitude>60</altitude>
+      <length>9</length>
+      <vertical-extent>1</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <comments>ends in hoarfrost and frozen sediment fill</comments>
+      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
+   </record>
+   <record>
+      <country-name>Svalbard and Jan Mayen</country-name>
+      <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
+      <principal-cave-name>Takrørgrotta</principal-cave-name>
+      <other-cave-name>G22</other-cave-name>
+      <altitude>226</altitude>
+      <length>18</length>
+      <vertical-extent>4</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>hoarfrosted scallops; ice, snow, and hoarfrost</comments>
+      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
+   </record>
+   
+   <record>
+      <country-name>Sweden</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Iskristallgrottan</principal-cave-name>
+      <other-cave-name>Ice Crystal Cave</other-cave-name>
+      <latitude/>
+      <longitude/>
+      <altitude>894</altitude>
+      <length>373</length>
+      <vertical-extent>38</vertical-extent>
+      <contents>permanent ice</contents>
+      <comments>ice fiber crystals</comments>
+      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+   </record>
+
    <record>
       <country-name>Switzerland</country-name>
       <state-or-province/>
@@ -3823,224 +4258,7 @@
       <contents>permanent ice</contents>
       <reference>Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3</reference>
    </record>
-   <record>
-      <country-name>Iran</country-name>
-      <state-or-province/>
-      <phys-area-name>Alborz Mountains; Lar Formation</phys-area-name>
-      <principal-cave-name>Ghar Yakh-Morad</principal-cave-name>
-      <other-cave-name/>
-      <latitude>36.11832</latitude>
-      <longitude>51.27173</longitude>
-      <altitude>2493</altitude>
-      <length/>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <reference>Soleymani et al. (2018) doi:10.1016/B978-0-12-811739-2.00020-6</reference>
-   </record>
-   <record>
-      <country-name>Iran</country-name>
-      <state-or-province/>
-      <phys-area-name>Zagros Mountains</phys-area-name>
-      <principal-cave-name>Ghar Yakh Dena</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <reference>Soleymani et al. (2018) doi:10.1016/B978-0-12-811739-2.00020-6</reference>
-   </record>
-   <record>
-      <country-name>Iran</country-name>
-      <state-or-province/>
-      <phys-area-name>northern Zagros Mountains</phys-area-name>
-      <principal-cave-name>Dena Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>3895</altitude>
-      <length>~200</length>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Cretaceous</comments>
-      <reference>Soleymani et al. (2018) doi:10.1016/B978-0-12-811739-2.00020-6</reference>
-   </record>
-   <record>
-      <country-name>Kazakhstan</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Ledyanoj Paportnik Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length>210</length>
-      <vertical-extent>25</vertical-extent>
-      <rock-type>gypsum</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Permian; layered ice</comments>
-      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
-   </record>
-   <record>
-      <country-name>Uzbekistan</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Ledopadnaya</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
-   </record>
-   <record>
-      <country-name>Uzbekistan</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Dark Star Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude>38.39639</latitude>
-      <longitude>67.28694</longitude>
-      <altitude>3500 main entrance, coarse</altitude>
-      <length>~16000</length>
-      <vertical-extent> >900</vertical-extent>
-      <number-of-entrances> >20</number-of-entrances>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>sublimation crystals</comments>
-      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
-   </record>
-   <record>
-      <country-name>Uzbekistan</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Ulug-Bek</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
-   </record>
-   <record>
-      <country-name>Uzbekistan</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Morning Star</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
-   </record>
-   <record>
-      <country-name>Uzbekistan</country-name>
-      <state-or-province/>
-      <phys-area-name>Kyzyl-Shavar Plateau</phys-area-name>
-      <principal-cave-name>Gissarskaya Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>3530</altitude>
-      <length>1761</length>
-      <vertical-extent>204</vertical-extent>
-      <contents>permanent ice</contents>
-      <comments>sublimation crystals, ice stalactites and stalagmites, meander at bottom covered by thick ice layer</comments>
-      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
-   </record>
-   <record>
-      <country-name>Tajikistan</country-name>
-      <state-or-province/>
-      <phys-area-name>Zeravshanskij Ridge</phys-area-name>
-      <principal-cave-name>Nuriddina Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>2500 coarse</altitude>
-      <length>40</length>
-      <vertical-extent/>
-      <number-of-entrances>2</number-of-entrances>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Silurian</comments>
-      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
-   </record>
-   <record>
-      <country-name>Tajikistan</country-name>
-      <state-or-province/>
-      <phys-area-name>Pamir Mountains</phys-area-name>
-      <principal-cave-name>Putnikov Cave</principal-cave-name>
-      <other-cave-name>Rangkulskaya Cave</other-cave-name>
-      <other-cave-name>Matatash</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude>~4600</altitude>
-      <length/>
-      <vertical-extent>240</vertical-extent>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Jurassic; icings and sublimation crystals</comments>
-      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
-   </record>
-   <record>
-      <country-name>Turkey</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Ice Cae in Agri</principal-cave-name>
-      <other-cave-name>Buz Magarasi</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude>~2000</altitude>
-      <length>~100</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>50m wide</comments>
-      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
-   </record>
-   <record>
-      <country-name>Turkey</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Buzluk Cave</principal-cave-name>
-      <other-cave-name>Ice Cave of Harput</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude>1653</altitude>
-      <length>~170</length>
-      <vertical-extent>~30</vertical-extent>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
-   </record>
-   <record>
-      <country-name>India</country-name>
-      <state-or-province/>
-      <phys-area-name>Lidder Valley</phys-area-name>
-      <principal-cave-name>Amarnath Cave</principal-cave-name>
-      <other-cave-name>Holy Cave</other-cave-name>
-      <latitude>34.2149</latitude>
-      <longitude>75.5008</longitude>
-      <altitude>3888</altitude>
-      <length>39</length>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>cave entrance is blocked by snow most parts of the year; known for about 5000 years; three ice stalagmites</comments>
-      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
-      <cave-use>temple</cave-use>
-   </record>
+   
    <record>
       <country-name>China</country-name>
       <state-or-province>Shanxi Province</state-or-province>
@@ -4162,6 +4380,86 @@
       <reference>Yang and Shi (2019) DOI:10.5772/intechopen.89178</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
+
+   <record>
+      <country-name>India</country-name>
+      <state-or-province/>
+      <phys-area-name>Lidder Valley</phys-area-name>
+      <principal-cave-name>Amarnath Cave</principal-cave-name>
+      <other-cave-name>Holy Cave</other-cave-name>
+      <latitude>34.2149</latitude>
+      <longitude>75.5008</longitude>
+      <altitude>3888</altitude>
+      <length>39</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>cave entrance is blocked by snow most parts of the year; known for about 5000 years; three ice stalagmites</comments>
+      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
+      <cave-use>temple</cave-use>
+   </record>
+
+   <record>
+      <country-name>Iran</country-name>
+      <state-or-province/>
+      <phys-area-name>Alborz Mountains; Lar Formation</phys-area-name>
+      <principal-cave-name>Ghar Yakh-Morad</principal-cave-name>
+      <other-cave-name/>
+      <latitude>36.11832</latitude>
+      <longitude>51.27173</longitude>
+      <altitude>2493</altitude>
+      <length/>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <reference>Soleymani et al. (2018) doi:10.1016/B978-0-12-811739-2.00020-6</reference>
+   </record>
+   <record>
+      <country-name>Iran</country-name>
+      <state-or-province/>
+      <phys-area-name>Zagros Mountains</phys-area-name>
+      <principal-cave-name>Ghar Yakh Dena</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <reference>Soleymani et al. (2018) doi:10.1016/B978-0-12-811739-2.00020-6</reference>
+   </record>
+   <record>
+      <country-name>Iran</country-name>
+      <state-or-province/>
+      <phys-area-name>Northern Zagros Mountains</phys-area-name>
+      <principal-cave-name>Dena Ice Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>3895</altitude>
+      <length>~200</length>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>Cretaceous</comments>
+      <reference>Soleymani et al. (2018) doi:10.1016/B978-0-12-811739-2.00020-6</reference>
+   </record>
+   <record>
+      <country-name>Kazakhstan</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Ledyanoj Paportnik Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length>210</length>
+      <vertical-extent>25</vertical-extent>
+      <rock-type>gypsum</rock-type>
+      <contents>permanent ice</contents>
+      <comments>Permian; layered ice</comments>
+      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
+   </record>
+
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
@@ -4170,7 +4468,7 @@
       <other-cave-name>Fuji Fuketsu</other-cave-name>
       <latitude/>
       <longitude/>
-      <altitude>1120 coarse</altitude>
+      <altitude>~1120</altitude>
       <length>150</length>
       <vertical-extent>~30</vertical-extent>
       <cave-type>lava tunnel</cave-type>
@@ -4181,6 +4479,7 @@
       <reference>Ohata et al. (1994) doi:10.1080/00040851.1994.12003063</reference>
       <curation>presumably one of the seven Fuji Fuketsu caves</curation>
    </record>
+   
    <record>
       <country-name>Mongolia</country-name>
       <state-or-province/>
@@ -4196,820 +4495,7 @@
       <comments>walls of its entrance pit covered by ice</comments>
       <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
    </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Hochkalter, Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Eisl-Schlucht</principal-cave-name>
-      <other-cave-name/>
-      <altitude>1910 coarse</altitude>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Hochkalter, Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Firnkegelhöhle</principal-cave-name>
-      <other-cave-name/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments>short static ice cave</comments>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Hochkalter, Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Hinterbergkarschlinger</principal-cave-name>
-      <other-cave-name/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments>ponor cave</comments>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Hochkalter, Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Eisfliegenschacht</principal-cave-name>
-      <other-cave-name/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments>dynamic cave</comments>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Hochkalter, Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Gipfelhöhle</principal-cave-name>
-      <other-cave-name/>
-      <altitude>2560</altitude>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Reiteralm, Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Yetischacht</principal-cave-name>
-      <other-cave-name/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments>50m high ice mountain</comments>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Reiteralm, Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Schlundeisbergschacht</principal-cave-name>
-      <other-cave-name/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments>45m high ice mountain</comments>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Reiteralm; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Eisrohrhöhle</principal-cave-name>
-      <other-cave-name/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <cave-system>Eisrohrhöhle-Bammelschacht-System</cave-system>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Reiteralm; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Zeller Eishöhle</principal-cave-name>
-      <other-cave-name/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments>discovered in 1909</comments>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Untersberg; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Schellenberger Eishöhle</principal-cave-name>
-      <other-cave-name/>
-      <latitude>47.71333</latitude>
-      <longitude>13.00444</longitude>
-      <altitude>1570</altitude>
-      <length>3621</length>
-      <vertical-extent>260</vertical-extent>
-      <contents>permanent ice</contents>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-      <cave-use>guided tourist cave</cave-use>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Untersberg; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Naturfreundehöhle</principal-cave-name>
-      <other-cave-name/>
-      <altitude>1800</altitude>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Untersberg; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Cannstatter Schacht</principal-cave-name>
-      <other-cave-name/>
-      <altitude>1870</altitude>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments>vertical ice cave, massive ice floor</comments>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Untersberg; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Eisbläser</principal-cave-name>
-      <other-cave-name/>
-      <altitude>1787</altitude>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments>vertical ice cave</comments>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Untersberg; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Rauchkopfschacht</principal-cave-name>
-      <other-cave-name/>
-      <altitude>1675</altitude>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Untersberg; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Nordstörungstopf</principal-cave-name>
-      <other-cave-name/>
-      <altitude>1630</altitude>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Steineres Meer; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Sockenschleuder</principal-cave-name>
-      <other-cave-name/>
-      <altitude>1958</altitude>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Steineres Meer; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Leiterkopfhöhle</principal-cave-name>
-      <other-cave-name/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Steineres Meer, Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Hocheggerhöhle</principal-cave-name>
-      <other-cave-name/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Hagengebirge; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Enttäuschungsloch</principal-cave-name>
-      <other-cave-name/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Hagengebirge, Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Teeologenschacht</principal-cave-name>
-      <other-cave-name/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Hagengebirge, Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Rutschbahn</principal-cave-name>
-      <other-cave-name/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Hagengebirge; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Regenhöhle</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>Germany</country-name>
-      <state-or-province/>
-      <phys-area-name>Hoher Göll; Berchtesgaden Alps</phys-area-name>
-      <principal-cave-name>Tabellenführer</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent>295</vertical-extent>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Montana</state-or-province>
-      <phys-area-name>Northern Rocky Mountains</phys-area-name>
-      <principal-cave-name>Crater Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <contents>permanent ice</contents>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Montana</state-or-province>
-      <phys-area-name>Northern Rocky Mountains; Pryor Mountains</phys-area-name>
-      <principal-cave-name>Little Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <contents>many bats</contents>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Montana</state-or-province>
-      <phys-area-name>Northern Rocky Mountains</phys-area-name>
-      <principal-cave-name>Red Pryor Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <contents>permanent ice</contents>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Wyoming</state-or-province>
-      <phys-area-name>Northern Rocky Mountains; Teton Mountains</phys-area-name>
-      <principal-cave-name>Fossil Mountain Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Carobniferous age; layered ice</comments>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho</state-or-province>
-      <phys-area-name>Northern Rocky Mountains</phys-area-name>
-      <principal-cave-name>Strickler Cavern</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <contents>permanent ice</contents>
-      <comments>single room with a large block of ice dated to several hundred years</comments>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho</state-or-province>
-      <phys-area-name>Northern Rocky Mountains</phys-area-name>
-      <phys-area-name>Craters of the Moon National Monument</phys-area-name>
-      <principal-cave-name>Snow Cone</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <contents>permanent ice</contents>
-      <comments>permanent ice pond and a frozen waterfall</comments>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho</state-or-province>
-      <phys-area-name>Northern Rocky Mountains</phys-area-name>
-      <principal-cave-name>Crystal Falls Ice Cave</principal-cave-name>
-      <other-cave-name>Crystal Falls Cave</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <cave-type>lava tunnel</cave-type>
-      <comments>includes long tabular ice crystals</comments>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1047</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Utah</state-or-province>
-      <phys-area-name>Central Rocky Mountains</phys-area-name>
-      <principal-cave-name>Bear Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>single room with small persistent ice deposit</comments>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Utah</state-or-province>
-      <phys-area-name>Central Rocky Mountains</phys-area-name>
-      <principal-cave-name>Grandview Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>strongly drafting, several small deposits of persistent ice</comments>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Utah</state-or-province>
-      <phys-area-name>Central Rocky Mountains; Uinta Mountains</phys-area-name>
-      <principal-cave-name>Winter Wonderland Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>3140</altitude>
-      <length>245</length>
-      <vertical-extent>33</vertical-extent>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>Carboniferous age; strong air flow, abundant thick persistent ice deposits</comments>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-      <reference>Munroe (2020) doi:10.5194/tc-2020-152</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Utah</state-or-province>
-      <phys-area-name>Central Rocky Mountains</phys-area-name>
-      <principal-cave-name>Jim Peck Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>cold air trap, massive block of perennial ice</comments>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Utah</state-or-province>
-      <phys-area-name>Central Rocky Mountains</phys-area-name>
-      <principal-cave-name>Big Brush Creek Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments>floodwater maze</comments>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Utah</state-or-province>
-      <phys-area-name>Central Rocky Mountains; Bear River Range</phys-area-name>
-      <principal-cave-name>Main Drain Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <comments>large cone of persistent snow</comments>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>New Mexico</state-or-province>
-      <state-or-province>Cibola County</state-or-province>
-      <phys-area-name>El Malpais region</phys-area-name>
-      <principal-cave-name>Candelaria Ice Cave</principal-cave-name>
-      <other-cave-name>Cerro Candelaria</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude>2400 coarse</altitude>
-      <length>12300</length>
-      <rock-type>basalt</rock-type>
-      <cave-type>lava tunnel</cave-type>
-      <contents>permanent ice</contents>
-      <comments>ice deposit estimated to be 3kyr old</comments>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1193</reference>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-      <reference>Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>Skull Ice Cave</principal-cave-name>
-      <other-cave-name>Skull Cave</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude>1388</altitude>
-      <length>177</length>
-      <vertical-extent>37</vertical-extent>
-      <number-of-entrances>1</number-of-entrances>
-      <rock-type>basalt</rock-type>
-      <cave-type>lava tunnel</cave-type>      
-      <contents>permanent ice</contents>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=614</reference>
-      <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
-      <cave-use>self-guided tourist cave</cave-use>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>C-270</principal-cave-name>
-      <altitude>1396</altitude>
-      <length>627</length>
-      <vertical-extent>23</vertical-extent>
-      <number-of-entrances>7</number-of-entrances>
-      <rock-type>basalt</rock-type>
-      <contents>permanent ice</contents>
-      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>Heppe Ice Cave</principal-cave-name>
-      <other-cave-name>Heppe Cave</other-cave-name>
-      <altitude>1609</altitude>
-      <length>52</length>
-      <vertical-extent>29</vertical-extent>
-      <number-of-entrances>2</number-of-entrances>
-      <rock-type>basalt</rock-type>
-      <cave-type>lava tunnel</cave-type>
-      <contents>permanent ice</contents>
-      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=570</reference>
-      <cave-use>self-guided tourist cave</cave-use>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>L-215</principal-cave-name>
-      <altitude>1548</altitude>
-      <length>91</length>
-      <vertical-extent>22</vertical-extent>
-      <number-of-entrances>1</number-of-entrances>
-      <rock-type>basalt</rock-type>
-      <contents>permanent ice</contents>
-      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>L-800</principal-cave-name>
-      <altitude>1390</altitude>
-      <length>45</length>
-      <vertical-extent>23</vertical-extent>
-      <number-of-entrances>1</number-of-entrances>
-      <rock-type>basalt</rock-type>
-      <contents>permanent ice</contents>
-      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>M-310</principal-cave-name>
-      <altitude>1412</altitude>
-      <length>81</length>
-      <vertical-extent>20</vertical-extent>
-      <number-of-entrances>1</number-of-entrances>
-      <rock-type>basalt</rock-type>
-      <contents>permanent ice</contents>
-      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>M-340</principal-cave-name>
-      <altitude>1400</altitude>
-      <length>197</length>
-      <vertical-extent>22</vertical-extent>
-      <number-of-entrances>2</number-of-entrances>
-      <rock-type>basalt</rock-type>
-      <contents>permanent ice</contents>
-      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>M-470</principal-cave-name>
-      <altitude>1349</altitude>
-      <length>122</length>
-      <vertical-extent>25</vertical-extent>
-      <number-of-entrances>1</number-of-entrances>
-      <rock-type>basalt</rock-type>
-      <contents>permanent ice</contents>
-      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>475</principal-cave-name>
-      <altitude>1342</altitude>
-      <length>45</length>
-      <vertical-extent>22</vertical-extent>
-      <number-of-entrances>1</number-of-entrances>
-      <rock-type>basalt</rock-type>
-      <contents>permanent ice</contents>
-      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>U-200</principal-cave-name>
-      <altitude>1554</altitude>
-      <length>50</length>
-      <vertical-extent>9</vertical-extent>
-      <number-of-entrances>2</number-of-entrances>
-      <rock-type>basalt</rock-type>
-      <contents>permanent ice</contents>
-      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
-      <principal-cave-name>Mauna Loa Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length>235</length>
-      <vertical-extent/>
-      <rock-type>basalt</rock-type>
-      <cave-type>lava tunnel</cave-type>
-      <contents>permanent ice</contents>
-      <comments>235m long downslope, and 45m upslope</comments>
-      <reference>Pflitsch et al. (2016) doi:10.1657/AAAR0014-095</reference>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=753</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Mauna Loa</phys-area-name>
-      <principal-cave-name>Arsia Cave</principal-cave-name>
-      <other-cave-name>Arsia Ice Cave</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <rock-type>basalt</rock-type>
-      <cave-type>lava tunnel</cave-type>
-      <contents>permanent ice</contents>
-      <comments>two large ice ponds</comments>
-      <reference>Teehera et al. (2018) doi:10.1080/01490451.2017.1362079</reference>
-   </record>
-   <record>
-      <country-name>Antarctica</country-name>
-      <state-or-province/>
-      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
-      <principal-cave-name>Warren Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <comments>fumarolic ice cave</comments>
-      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
-   </record>
-   <record>
-      <country-name>Antarctica</country-name>
-      <state-or-province/>
-      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
-      <principal-cave-name>Harrys Dream</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <comments>fumarolic ice cave</comments>
-      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
-   </record>
-   <record>
-      <country-name>Antarctica</country-name>
-      <state-or-province/>
-      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
-      <principal-cave-name>Hubert's Nightmare</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <comments>fumarolic ice cave</comments>
-      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
-   </record>
-   <record>
-      <country-name>Antarctica</country-name>
-      <state-or-province/>
-      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
-      <principal-cave-name>Kachina Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <comments>fumarolic ice cave</comments>
-      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
-   </record>
-   <record>
-      <country-name>Antarctica</country-name>
-      <state-or-province/>
-      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
-      <principal-cave-name>Worm Tongue</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <comments>fumarolic ice cave</comments>
-      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
-   </record>
-   <record>
-      <country-name>Antarctica</country-name>
-      <state-or-province/>
-      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
-      <principal-cave-name>Haggis Hole</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <comments>fumarolic ice cave</comments>
-      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
-   </record>
-   <record>
-      <country-name>Antarctica</country-name>
-      <state-or-province/>
-      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
-      <principal-cave-name>Helo Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <comments>fumarolic ice cave</comments>
-      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
-   </record>
-   <record>
-      <country-name>Antarctica</country-name>
-      <state-or-province/>
-      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
-      <principal-cave-name>Mammoth Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <comments>fumarolic ice cave</comments>
-      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
-   </record>
-   <record>
-      <country-name>Antarctica</country-name>
-      <state-or-province/>
-      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
-      <principal-cave-name>Hut Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <comments>fumarolic ice cave</comments>
-      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
-   </record>
-   <record>
-      <country-name>Antarctica</country-name>
-      <state-or-province/>
-      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
-      <principal-cave-name>Heroine Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <comments>fumarolic ice cave</comments>
-      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
-   </record>
-   <record>
-      <country-name>Antarctica</country-name>
-      <state-or-province/>
-      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
-      <principal-cave-name>Sauna Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <comments>fumarolic ice cave</comments>
-      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
-   </record>
+
    <record>
       <country-name>Russia</country-name>
       <state-or-province/>
@@ -5019,7 +4505,7 @@
       <other-cave-name>Ledyanaya Cave</other-cave-name>
       <latitude>44.85889</latitude>
       <longitude>34.53500</longitude>
-      <altitude>1045 coarse</altitude>
+      <altitude>~1045</altitude>
       <length>165</length>
       <vertical-extent>81</vertical-extent>
       <rock-type/>
@@ -5035,7 +4521,7 @@
       <other-cave-name>Ledovaya Vorontsovskaya Cave</other-cave-name>
       <latitude>44.453</latitude>
       <longitude>34.054</longitude>
-      <altitude>1200 coarse</altitude>
+      <altitude>~1200</altitude>
       <length/>
       <vertical-extent/>
       <rock-type/>
@@ -5051,7 +4537,7 @@
       <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude>2167 coarse</altitude>
+      <altitude>~2167</altitude>
       <length/>
       <vertical-extent/>
       <rock-type>limestone</rock-type>
@@ -5083,7 +4569,7 @@
       <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude>2316 coarse</altitude>
+      <altitude>~2316</altitude>
       <length>250</length>
       <vertical-extent>135</vertical-extent>
       <rock-type/>
@@ -5099,7 +4585,7 @@
       <other-cave-name/>
       <latitude>43.55028</latitude>
       <longitude>39.84417</longitude>
-      <altitude>2125 coarse</altitude>
+      <altitude>~2125</altitude>
       <length>1967</length>
       <vertical-extent>~250</vertical-extent>
       <rock-type/>
@@ -5115,7 +4601,7 @@
       <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude>1310 coarse</altitude>
+      <altitude>~1310</altitude>
       <length/>
       <vertical-extent/>
       <rock-type/>
@@ -5131,7 +4617,7 @@
       <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude>1710 coarse</altitude>
+      <altitude>~1710</altitude>
       <length/>
       <vertical-extent>25</vertical-extent>
       <rock-type/>
@@ -5698,7 +5184,7 @@
       <other-cave-name>Zolotaya</other-cave-name>
       <latitude/>
       <longitude/>
-      <altitude>530 coarse</altitude>
+      <altitude>~530</altitude>
       <length>270</length>
       <vertical-extent>69</vertical-extent>
       <rock-type/>
@@ -5730,7 +5216,7 @@
       <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude>600 coarse</altitude>
+      <altitude>~600</altitude>
       <length>60</length>
       <vertical-extent>26</vertical-extent>
       <rock-type/>
@@ -5896,634 +5382,1144 @@
       <reference>Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves</reference>
    </record>
    <record>
-      <country-name>Greece</country-name>
-      <state-or-province/>
-      <phys-area-name>Falakro Mountain</phys-area-name>
-      <principal-cave-name>Chionotrypa cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>2080</altitude>
-      <length/>
-      <vertical-extent>111</vertical-extent>
-      <rock-type>marble</rock-type>
+      <country-name>Russia</country-name>
+      <state-or-province>Samara</state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Brothers Greve Cave</principal-cave-name>
+      <length>~522</length>
+      <vertical-extent>25</vertical-extent>
       <contents>permanent ice</contents>
-      <comments>vertical height of ice sheet is almost 30m</comments>
-      <reference>Pennos et al. (2018) doi:10.1016/B978-0-12-811739-2.00018-8</reference>
+      <comments>atmogenic crystalline hoarfrost</comments>
+      <reference>Chervyatsova (2005) http://arhiv.rgo-speleo.ru/rgo/books/glacier_karst7/chervyatsova_93_97.pdf</reference>
    </record>
    <record>
-      <country-name>Greece</country-name>
-      <state-or-province/>
-      <phys-area-name>Mount Olympus</phys-area-name>
-      <principal-cave-name>Chionotrypa cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>2560</altitude>
-      <length/>
-      <vertical-extent>26</vertical-extent>
-      <cave-type/>
+      <country-name>Russia</country-name>
+      <state-or-province>Samara</state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Gnilaya Cave</principal-cave-name>
+      <length>21</length>
+      <vertical-extent>8</vertical-extent>
       <contents>permanent ice</contents>
-      <comments/>
-      <reference>Pennos et al. (2018) doi:10.1016/B978-0-12-811739-2.00018-8</reference>
+      <reference>Chervyatsova (2005) http://arhiv.rgo-speleo.ru/rgo/books/glacier_karst7/chervyatsova_93_97.pdf</reference>
    </record>
+
    <record>
-      <country-name>Greece</country-name>
+      <country-name>Tajikistan</country-name>
       <state-or-province/>
-      <phys-area-name>Tymfi Mountain</phys-area-name>
-      <principal-cave-name>Provatina cave</principal-cave-name>
+      <phys-area-name>Zeravshanskij Ridge</phys-area-name>
+      <principal-cave-name>Nuriddina Cave</principal-cave-name>
       <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent>407</vertical-extent>
+      <altitude>~2500</altitude>
+      <length>40</length>
+      <vertical-extent/>
+      <number-of-entrances>2</number-of-entrances>
       <rock-type>limestone</rock-type>
-      <cave-type/>
       <contents>permanent ice</contents>
-      <comments>vertical pit</comments>
-      <reference>Pennos et al. (2018) doi:10.1016/B978-0-12-811739-2.00018-8</reference>
+      <comments>Silurian</comments>
+      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
    </record>
    <record>
-      <country-name>Greece</country-name>
+      <country-name>Tajikistan</country-name>
       <state-or-province/>
-      <phys-area-name>Lefka Ori mountain range</phys-area-name>
-      <principal-cave-name>Skud cave</principal-cave-name>
+      <phys-area-name>Pamir Mountains</phys-area-name>
+      <principal-cave-name>Putnikov Cave</principal-cave-name>
+      <other-cave-name>Rangkulskaya Cave</other-cave-name>
+      <other-cave-name>Matatash</other-cave-name>
+      <latitude/>
+      <longitude/>
+      <altitude>~4600</altitude>
+      <length/>
+      <vertical-extent>240</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>Jurassic; icings and sublimation crystals</comments>
+      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
+   </record>
+
+   <record>
+      <country-name>Turkey</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Ice Cae in Agri</principal-cave-name>
+      <other-cave-name>Buz Magarasi</other-cave-name>
+      <latitude/>
+      <longitude/>
+      <altitude>~2000</altitude>
+      <length>~100</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>50m wide</comments>
+      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
+   </record>
+   <record>
+      <country-name>Turkey</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Buzluk Cave</principal-cave-name>
+      <other-cave-name>Ice Cave of Harput</other-cave-name>
+      <latitude/>
+      <longitude/>
+      <altitude>1653</altitude>
+      <length>~170</length>
+      <vertical-extent>~30</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
+   </record>
+   
+   <record>
+      <country-name>Uzbekistan</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Ledopadnaya</principal-cave-name>
       <other-cave-name/>
       <latitude/>
       <longitude/>
       <altitude/>
       <length/>
-      <vertical-extent>46</vertical-extent>
-      <cave-type/>
-      <contents>permanent ice</contents>
-      <comments>vertical pit</comments>
-      <reference>Pennos et al. (2018) doi:10.1016/B978-0-12-811739-2.00018-8</reference>
-   </record>
-   <record>
-      <country-name>Norway</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Svarthammarhola</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>295 upper entrance</altitude>
-      <altitude>245 lower entrance</altitude>
-      <length/>
       <vertical-extent/>
-      <number-of-entrances>2</number-of-entrances>
-      <contents>permanent ice</contents>
-      <comments>age of ice &lt;650 years</comments>
-      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
-   </record>
-   <record>
-      <country-name>Norway</country-name>
-      <state-or-province>Greftvatn, Gildeskal, Nordland</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Greftkjelen</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>350</altitude>
-      <length>11000</length>
-      <vertical-extent>350</vertical-extent>
       <contents>permanent ice</contents>
       <comments/>
-      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
    </record>
    <record>
-      <country-name>Norway</country-name>
+      <country-name>Uzbekistan</country-name>
       <state-or-province/>
       <phys-area-name/>
-      <principal-cave-name>Salthølene</principal-cave-name>
+      <principal-cave-name>Dark Star Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude>38.39639</latitude>
+      <longitude>67.28694</longitude>
+      <altitude>~3500 main entrance</altitude>
+      <length>~16000</length>
+      <vertical-extent> >900</vertical-extent>
+      <number-of-entrances> >20</number-of-entrances>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>sublimation crystals</comments>
+      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
+   </record>
+   <record>
+      <country-name>Uzbekistan</country-name>
+      <state-or-province/>
+      <phys-area-name/>
+      <principal-cave-name>Ulug-Bek</principal-cave-name>
       <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude>643</altitude>
-      <length> >2000</length>
-      <vertical-extent>186</vertical-extent>
-      <cave-type/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
-   </record>
-   <record>
-      <country-name>Norway</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Råggejavre-Raige</principal-cave-name>
-      <other-cave-name>RJR</other-cave-name>
-      <other-cave-name>Pit-tarn Cave</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude>80 lower entrances</altitude>
-      <length> >1900</length>
-      <vertical-extent/>
-      <number-of-entrances>2</number-of-entrances>
-      <cave-type/>
-      <contents>permanent ice</contents>
-      <cave-system>Tysfjord complex</cave-system>
-      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
-   </record>
-   <record>
-      <country-name>Norway</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Isgrotta</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>225</altitude>
+      <altitude/>
       <length/>
       <vertical-extent/>
       <contents>permanent ice</contents>
       <comments/>
-      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
    </record>
    <record>
-      <country-name>Sweden</country-name>
+      <country-name>Uzbekistan</country-name>
       <state-or-province/>
       <phys-area-name/>
-      <principal-cave-name>Iskristallgrottan</principal-cave-name>
-      <other-cave-name>Ice Crystal Cave</other-cave-name>
+      <principal-cave-name>Morning Star</principal-cave-name>
+      <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude>894</altitude>
-      <length>373</length>
-      <vertical-extent>38</vertical-extent>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
       <contents>permanent ice</contents>
-      <comments>ice fiber crystals</comments>
-      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+      <comments/>
+      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
+   </record>
+
+   <record>
+      <country-name>Uzbekistan</country-name>
+      <state-or-province/>
+      <phys-area-name>Kyzyl-Shavar Plateau</phys-area-name>
+      <principal-cave-name>Gissarskaya Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>3530</altitude>
+      <length>1761</length>
+      <vertical-extent>204</vertical-extent>
+      <contents>permanent ice</contents>
+      <comments>sublimation crystals, ice stalactites and stalagmites, meander at bottom covered by thick ice layer</comments>
+      <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
+   </record>
+
+
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Yukon</state-or-province>
+      <phys-area-name>Ni’iinlii Njik; Old Crow</phys-area-name>
+      <principal-cave-name>Tsi Tse Han Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude>66.3</latitude>
+      <longitude>-139.3</longitude>
+      <altitude>750</altitude>
+      <length>50</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>permafrost</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
    </record>
    <record>
-      <country-name>Finland</country-name>
-      <state-or-province/>
-      <phys-area-name>Korkia-Maura Island</phys-area-name>
+      <country-name>Canada</country-name>
+      <state-or-province>Yukon</state-or-province>
+      <phys-area-name>Ni’iinlii Njik; Old Crow</phys-area-name>
+      <principal-cave-name>Grande Caverne Glacee</principal-cave-name>
+      <other-cave-name/>
+      <latitude>66.3</latitude>
+      <longitude>-139.3</longitude>
+      <altitude>750–950</altitude>
+      <length>110</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>permafrost; massive ice</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Yukon</state-or-province>
+      <phys-area-name>Ni’iinlii Njik; Old Crow</phys-area-name>
+      <principal-cave-name>Caverne des Meandres</principal-cave-name>
+      <other-cave-name/>
+      <latitude>66.7</latitude>
+      <longitude>-139.3</longitude>
+      <altitude>750–950</altitude>
+      <length>100</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>permafrost</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Yukon</state-or-province>
+      <phys-area-name>Ni’iinlii Njik; Old Crow</phys-area-name>
+      <principal-cave-name>Bear Cave</principal-cave-name>
+      <other-cave-name>Chii Ch’à’an</other-cave-name>
+      <latitude>66</latitude>
+      <longitude>-139.3</longitude>
+      <altitude>750–950</altitude>
+      <length>220</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>permafrost; clear pillars of ice and small hoar crystals</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Yukon</state-or-province>
+      <phys-area-name>Ni’iinlii Njik; Old Crow</phys-area-name>
+      <principal-cave-name>Caverne ‘85</principal-cave-name>
+      <other-cave-name/>
+      <latitude>66.8</latitude>
+      <longitude>-139.3</longitude>
+      <altitude>750–950</altitude>
+      <length>40</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>permafrost; massive ice</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Northwest Territories</state-or-province>
+      <phys-area-name>Nahanni Canyon</phys-area-name>
+      <principal-cave-name>Grotte Valerie Ice Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude>61.3</latitude>
+      <longitude>-124.1</longitude>
+      <altitude/>
+      <length>2002</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>hoarfrost</comments>
+      <comments>permafrost / cold zone</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Northwest Territories</state-or-province>
+      <phys-area-name>Nahanni Canyon</phys-area-name>
+      <principal-cave-name>Grotte Mickey</principal-cave-name>
+      <other-cave-name/>
+      <latitude>61.3</latitude>
+      <longitude>-124.1</longitude>
+      <altitude/>
+      <length>2270</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>permafrost / cold trap</comments>
+      <comments>Four areas of ice now sealed</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Northwest Territories</state-or-province>
+      <phys-area-name>Nahanni Karst / Lafferty Creek</phys-area-name>
+      <principal-cave-name>Andree</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length>1205</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>cold trap</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Northwest Territories</state-or-province>
+      <phys-area-name>Nahanni North Karst</phys-area-name>
+      <principal-cave-name>Igloo</principal-cave-name>
+      <other-cave-name/>
+      <latitude>61.5</latitude>
+      <longitude>-124.2</longitude>
+      <altitude/>
+      <length>~600</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>cold trap</comments>
+      <comments>Spectacular ice</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Northwest Territories</state-or-province>
+      <phys-area-name>Nahanni North Karst</phys-area-name>
+      <principal-cave-name>Arnica</principal-cave-name>
+      <other-cave-name/>
+      <latitude>61.5</latitude>
+      <longitude>-124.2</longitude>
+      <altitude/>
+      <length>242</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>cold trap</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Northwest Territories</state-or-province>
+      <phys-area-name>Nahanni North Karst</phys-area-name>
+      <principal-cave-name>Black Ice Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude>61.5</latitude>
+      <longitude>-124.2</longitude>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Kananaskis; Moose Mountain</phys-area-name>
+      <principal-cave-name>Canyon Creek</principal-cave-name>
+      <other-cave-name>Bragg Creek Ice Cave</other-cave-name>
+      <other-cave-name>Moose Mountain Ice Cave</other-cave-name>
+      <latitude>50.9</latitude>
+      <longitude>-114.8</longitude>
+      <altitude>1769</altitude>
+      <length>727</length>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>cold zone</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Kananaskis</phys-area-name>
+      <principal-cave-name>Plateau Mountain</principal-cave-name>
+      <other-cave-name/>
+      <latitude>50.3</latitude>
+      <longitude>-114.5</longitude>
+      <altitude>2226</altitude>
+      <length>410</length>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>permafrost</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Crowsnest Pass; Rocky Mountains</phys-area-name>
+      <principal-cave-name>Booming Ice Chasm</principal-cave-name>
+      <other-cave-name/>
+      <latitude>49.61667</latitude>
+      <longitude>-114.63333</longitude>
+      <altitude>2189</altitude>
+      <length>961</length>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>cold trap; Mississipian age</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+      <reference>https://en.wikipedia.org/wiki/Booming_Ice_Chasm</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Crowsnest Pass</phys-area-name>
+      <principal-cave-name>Glittering Ice Palace</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>2226</altitude>
+      <length>286</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>Hoarfrost</comments>
+      <comments>permafrost</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Crowsnest Pass</phys-area-name>
+      <principal-cave-name>Coultard Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>2440</altitude>
+      <length>370</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>permafrost; ice optically clear with a visual depth of at least 6m</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Crowsnest Pass</phys-area-name>
+      <principal-cave-name>Ice Chest</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>2250</altitude>
+      <length>381</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>Extrusion ice</comments>
+      <comments>permafrost</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Crowsnest Pass</phys-area-name>
+      <principal-cave-name>Serendipity</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>2165</altitude>
+      <length>473</length>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>Extrusion ice</comments>
+      <comments>permafrost</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Crowsnest Pass</phys-area-name>
+      <principal-cave-name>Flop Pot</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>2165</altitude>
+      <length>200</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>Flood ice</comments>
+      <comments>cold trap</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Crowsnest Pass</phys-area-name>
+      <principal-cave-name>Ice Hall</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>2180</altitude>
+      <length>130</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>cold trap</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>British Columbia</state-or-province>
+      <phys-area-name>Crowsnest Pass</phys-area-name>
+      <principal-cave-name>Rats Hole</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>2455</altitude>
+      <length>130</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>permafrost / cold trap</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>British Columbia</state-or-province>
+      <phys-area-name>White Ridges Provincial Park</phys-area-name>
+      <phys-area-name>Vancouver Island</phys-area-name>
       <principal-cave-name/>
-      <other-cave-name>Ice Cave</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude>125 coarse</altitude>
-      <length/>
+      <other-cave-name>Q5</other-cave-name>
+      <latitude>49.8</latitude>
+      <longitude>-126.0</longitude>
+      <altitude>1200</altitude>
+      <length>1867</length>
       <vertical-extent/>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments>ice block level with Lake Inari</comments>
-      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+      <comments>cold trap</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+      <reference>Canadian Caver 9/2, 16/1 1984, 16/2, 28/1, 29/2, 61/9</reference>
    </record>
    <record>
-      <country-name>Iceland</country-name>
-      <state-or-province>Myrasysla County</state-or-province>
-      <phys-area-name>Hallmundahraun lava flow</phys-area-name>
-      <principal-cave-name>Surtshellir</principal-cave-name>
+      <country-name>Canada</country-name>
+      <state-or-province>British Columbia</state-or-province>
+      <phys-area-name>White Ridges Provincial Park</phys-area-name>
+      <phys-area-name>Vancouver Island</phys-area-name>
+      <principal-cave-name>Projects Cave</principal-cave-name>
       <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length>3500</length>
+      <latitude>49.8</latitude>
+      <longitude>-126.0</longitude>
+      <altitude>1050</altitude>
+      <length> >130</length>
       <vertical-extent/>
-      <cave-type>lava tunnel</cave-type>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments>lava is about 1100 years old</comments>
-      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=23</reference>
+      <comments>cold trap; Triassic age</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
    </record>
    <record>
-      <country-name>Iceland</country-name>
-      <state-or-province>Myrasysla County</state-or-province>
-      <phys-area-name>Hallmundahraun lava flow</phys-area-name>
-      <principal-cave-name>Víðgelmir</principal-cave-name>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Jasper National Park</phys-area-name>
+      <phys-area-name>Columbia Icefield</phys-area-name>
+      <principal-cave-name>Castleguard Cave</principal-cave-name>
       <other-cave-name/>
-      <latitude>64.75028</latitude>
-      <longitude>-20.80170</longitude>
-      <altitude>250</altitude>
-      <length>1585</length>
-      <vertical-extent/>
-      <cave-type>lava tunnel</cave-type>
+      <latitude>52.1</latitude>
+      <longitude>-117.2</longitude>
+      <altitude>2016</altitude>
+      <length>21068</length>
+      <vertical-extent>387</vertical-extent>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments/>
-      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=22</reference>
-      <reference>Mills and Wood (1972) https://www.shepton.org.uk/files/jnr/jnr_series_05_04.pdf</reference>
-      <reference>www.thecave.is/</reference>
+      <comments>Active/relict cold zone; Cambrian</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+      <reference>Canadian Caver 2:26, 5/1:21, 11/1:28, 12/1:3, 15/2:7, 19/2:22, 59:7, 63:4, 66:4, 71:4, 73:20, 80:28</reference>
+      <reference>https://en.wikipedia.org/wiki/Castleguard_Cave</reference>
    </record>
    <record>
-      <country-name>Iceland</country-name>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Jasper National Park</phys-area-name>
+      <principal-cave-name>Disaster Point Ice Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude>53.0</latitude>
+      <longitude>-118.1</longitude>
+      <altitude>1082</altitude>
+      <length>673</length>
+      <vertical-extent/>
+      <number-of-entrances>2</number-of-entrances>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <contents>charcoal</contents>
+      <comments>cold trap</comments>
+      <comments>Devonian Palliser Formation</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Jasper National Park</phys-area-name>
+      <principal-cave-name>Ice Trap</principal-cave-name>
+      <other-cave-name/>
+      <latitude>53.1</latitude>
+      <longitude>-118.3</longitude>
+      <altitude>2400</altitude>
+      <length>3002</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>permafrost / cold zone</comments>
+      <comments>Devonian Palliser Formation</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Jasper National Park</phys-area-name>
+      <principal-cave-name>Mount Alberta Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude>52.3</latitude>
+      <longitude>-117.5</longitude>
+      <altitude>3350</altitude>
+      <length> ~150+</length>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>Cambrian</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>British Columbia</state-or-province>
+      <phys-area-name>Mt. Sinwa, Taku, Stikine</phys-area-name>
+      <principal-cave-name>Icy Hope</principal-cave-name>
+      <other-cave-name/>
+      <latitude>56.9</latitude>
+      <longitude>-133.3</longitude>
+      <altitude>1499</altitude>
+      <length>200</length>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>Triassic; cold trap</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>British Columbia</state-or-province>
+      <phys-area-name>Inverted Ridge</phys-area-name>
+      <principal-cave-name>Inverted Fridge</principal-cave-name>
+      <other-cave-name/>
+      <latitude>49.1</latitude>
+      <longitude>-114.8</longitude>
+      <altitude>1940</altitude>
+      <length>281</length>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>Hoarfrost and ponded ice</comments>
+      <comments>cold trap / cold zone ?</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>British Columbia</state-or-province>
+      <phys-area-name>Inverted Ridge</phys-area-name>
+      <principal-cave-name>Global Cooling</principal-cave-name>
+      <other-cave-name/>
+      <latitude>49.1</latitude>
+      <longitude>-114.8</longitude>
+      <altitude>1940</altitude>
+      <length>133</length>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>Hoarfrost and ponded ice</comments>
+      <comments>cold trap / cold zone ?</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
       <state-or-province/>
+      <phys-area-name>Mount Bisaro</phys-area-name>
+      <principal-cave-name>Supermans Glittering Ice Palace (SGIP)</principal-cave-name>
+      <other-cave-name/>
+      <latitude>49.6</latitude>
+      <longitude>-115.6</longitude>
+      <altitude>2250</altitude>
+      <length>21</length>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>cold trap</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>British Columbia</state-or-province>
+      <phys-area-name>Glacier National Park</phys-area-name>
+      <principal-cave-name>Nakimu Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude>51.3</latitude>
+      <longitude>-117.6</longitude>
+      <altitude>1576</altitude>
+      <length>6000</length>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>Badshot marble Formation, Cambrian</comments>
+      <comments>cold trap</comments>
+      <comments>Large icefall</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Alberta</state-or-province>
+      <phys-area-name>Wood Buffalo National Park</phys-area-name>
+      <principal-cave-name>Walkin-Ice Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude>59.8</latitude>
+      <longitude>-112.2</longitude>
+      <altitude>252</altitude>
+      <length>1624</length>
+      <vertical-extent/>
+      <rock-type>gypsum</rock-type>
+      <contents>permanent ice</contents>
+      <comments>Devonian; Relict Cold Trap</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>British Columbia</state-or-province>
+      <phys-area-name>Top of the World Provincial Park</phys-area-name>
+      <principal-cave-name>Wedge Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude></latitude>
+      <longitude></longitude>
+      <altitude>2200</altitude>
+      <length>60</length>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>Massive ice</comments>
+      <comments>Cambrian; permafrost / cold trap</comments>
+      <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+   </record>
+      <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Nova Scotia; Hants County</state-or-province>
       <phys-area-name/>
-      <principal-cave-name>Loftshellir</principal-cave-name>
+      <principal-cave-name>Frenchman's Cave</principal-cave-name>
+      <length>50</length>
+      <vertical-extent/>
+      <rock-type>gypsum</rock-type>
+      <contents>periodic ice</contents>
+      <comments>snow, hoarfrost, ice stalactites and stalagmites</comments>
+      <comments>37 identified species</comments>
+      <reference>Calder and Bleakney (1967) Natl. Speleol. Soc. Bull. 29(1) 23</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Nova Scotia; Hants County</state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Woodville Ice Cave</principal-cave-name>
+      <latitude>50.0341</latitude>
+      <longitude>-63.9555</longitude>
+      <length>50</length>
+      <vertical-extent/>
+      <rock-type>gypsum</rock-type>
+      <contents>periodic ice</contents>
+      <comments>seasonal snow and ice</comments>
+      <comments>gypsum-anhydrite; solution cave</comments>
+      <reference>Moseley (2007) doi:10.15273/pnsis.v44i1.3883</reference>
+   </record>
+   <record>
+      <country-name>Canada</country-name>
+      <state-or-province>Nova Scotia</state-or-province>
+      <principal-cave-name>Minasville Ice Cave</principal-cave-name>
+      <latitude>45.2750</latitude>
+      <longitude>-63.8170</longitude>
+      <length/>
+      <vertical-extent/>
+      <contents>many bats</contents>
+      <reference>Moseley (2007) doi:10.15273/pnsis.v44i1.3883</reference>
+      <reference>Iepure (2018) doi:10.1016/B978-0-12-811739-2.00007-3</reference>
+   </record>
+
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Montana</state-or-province>
+      <phys-area-name>Northern Rocky Mountains</phys-area-name>
+      <principal-cave-name>Crater Ice Cave</principal-cave-name>
       <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <contents>permanent ice</contents>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Montana</state-or-province>
+      <phys-area-name>Northern Rocky Mountains; Pryor Mountains</phys-area-name>
+      <principal-cave-name>Little Ice Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <contents>many bats</contents>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Montana</state-or-province>
+      <phys-area-name>Northern Rocky Mountains</phys-area-name>
+      <principal-cave-name>Red Pryor Ice Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <contents>permanent ice</contents>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Wyoming</state-or-province>
+      <phys-area-name>Northern Rocky Mountains; Teton Mountains</phys-area-name>
+      <principal-cave-name>Fossil Mountain Ice Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>Carobniferous age; layered ice</comments>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Idaho</state-or-province>
+      <phys-area-name>Northern Rocky Mountains</phys-area-name>
+      <principal-cave-name>Strickler Cavern</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <contents>permanent ice</contents>
+      <comments>single room with a large block of ice dated to several hundred years</comments>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Idaho</state-or-province>
+      <phys-area-name>Northern Rocky Mountains</phys-area-name>
+      <phys-area-name>Craters of the Moon National Monument</phys-area-name>
+      <principal-cave-name>Snow Cone</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <contents>permanent ice</contents>
+      <comments>permanent ice pond and a frozen waterfall</comments>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Idaho</state-or-province>
+      <phys-area-name>Northern Rocky Mountains</phys-area-name>
+      <principal-cave-name>Crystal Falls Ice Cave</principal-cave-name>
+      <other-cave-name>Crystal Falls Cave</other-cave-name>
       <latitude/>
       <longitude/>
       <altitude/>
       <length/>
       <vertical-extent/>
       <cave-type>lava tunnel</cave-type>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+      <comments>includes long tabular ice crystals</comments>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1047</reference>
    </record>
    <record>
-      <country-name>Montenegro</country-name>
-      <state-or-province/>
-      <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>Ice Cave</principal-cave-name>
-      <cave-id>03110</cave-id>
-      <latitude/>
-      <longitude/>
-      <altitude>1945</altitude>
-      <length>2057</length>
-      <vertical-extent>451</vertical-extent>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
-   </record>
-   <record>
-      <country-name>Montenegro</country-name>
-      <state-or-province/>
-      <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>03061</principal-cave-name>
-      <cave-id>03061</cave-id>
-      <latitude/>
-      <longitude/>
-      <altitude>2034</altitude>
-      <length>572</length>
-      <vertical-extent>207</vertical-extent>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments>the other branch is T5</comments>
-      <cave-system>03061-T5 Cave system</cave-system>
-      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
-   </record>
-   <record>
-      <country-name>Montenegro</country-name>
-      <state-or-province/>
-      <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>T5</principal-cave-name>
+      <country-name>United States of America</country-name>
+      <state-or-province>Utah</state-or-province>
+      <phys-area-name>Central Rocky Mountains</phys-area-name>
+      <principal-cave-name>Bear Ice Cave</principal-cave-name>
       <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude>2069</altitude>
-      <length>560</length>
-      <vertical-extent>176</vertical-extent>
-      <rock-type/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
       <contents>permanent ice</contents>
-      <comments>the other branch is 03061</comments>
-      <cave-system>03061-T5 Cave system</cave-system>
-      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+      <comments>single room with small persistent ice deposit</comments>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
    </record>
    <record>
-      <country-name>Montenegro</country-name>
-      <state-or-province/>
-      <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>03061-T5 Cave system</principal-cave-name>
-      <cave-id>03067</cave-id>
+      <country-name>United States of America</country-name>
+      <state-or-province>Utah</state-or-province>
+      <phys-area-name>Central Rocky Mountains</phys-area-name>
+      <principal-cave-name>Grandview Ice Cave</principal-cave-name>
+      <other-cave-name/>
       <latitude/>
       <longitude/>
-      <rock-type/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
       <contents>permanent ice</contents>
-      <branch-name>03061</branch-name>
-      <branch-name>T5</branch-name>
-      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+      <comments>strongly drafting, several small deposits of persistent ice</comments>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
    </record>
    <record>
-      <country-name>Montenegro</country-name>
-      <state-or-province/>
-      <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>Mining Cave</principal-cave-name>
-      <cave-id>03313</cave-id>
+      <country-name>United States of America</country-name>
+      <state-or-province>Utah</state-or-province>
+      <phys-area-name>Central Rocky Mountains; Uinta Mountains</phys-area-name>
+      <principal-cave-name>Winter Wonderland Cave</principal-cave-name>
+      <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude>2019</altitude>
-      <length>2083</length>
-      <vertical-extent>585</vertical-extent>
-      <rock-type/>
+      <altitude>3140</altitude>
+      <length>245</length>
+      <vertical-extent>33</vertical-extent>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments/>
-      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+      <comments>Carboniferous age; strong air flow, abundant thick persistent ice deposits</comments>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+      <reference>Munroe (2020) doi:10.5194/tc-2020-152</reference>
    </record>
    <record>
-      <country-name>Montenegro</country-name>
-      <state-or-province/>
-      <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>Ice Giant Cave</principal-cave-name>
-      <cave-id>03114</cave-id>
+      <country-name>United States of America</country-name>
+      <state-or-province>Utah</state-or-province>
+      <phys-area-name>Central Rocky Mountains</phys-area-name>
+      <principal-cave-name>Jim Peck Ice Cave</principal-cave-name>
+      <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude>2099</altitude>
-      <length>90</length>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>cold air trap, massive block of perennial ice</comments>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Utah</state-or-province>
+      <phys-area-name>Central Rocky Mountains</phys-area-name>
+      <principal-cave-name>Big Brush Creek Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <contents>permanent ice</contents>
+      <comments>floodwater maze</comments>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Utah</state-or-province>
+      <phys-area-name>Central Rocky Mountains; Bear River Range</phys-area-name>
+      <principal-cave-name>Main Drain Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <comments>large cone of persistent snow</comments>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>New Mexico</state-or-province>
+      <state-or-province>Cibola County</state-or-province>
+      <phys-area-name>El Malpais region</phys-area-name>
+      <principal-cave-name>Candelaria Ice Cave</principal-cave-name>
+      <other-cave-name>Cerro Candelaria</other-cave-name>
+      <latitude/>
+      <longitude/>
+      <altitude>~2400</altitude>
+      <length>12300</length>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
+      <comments>ice deposit estimated to be 3kyr old</comments>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1193</reference>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+      <reference>Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>California</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <principal-cave-name>Skull Ice Cave</principal-cave-name>
+      <other-cave-name>Skull Cave</other-cave-name>
+      <latitude/>
+      <longitude/>
+      <altitude>1388</altitude>
+      <length>177</length>
+      <vertical-extent>37</vertical-extent>
+      <number-of-entrances>1</number-of-entrances>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>      
+      <contents>permanent ice</contents>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=614</reference>
+      <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
+      <cave-use>self-guided tourist cave</cave-use>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>California</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <principal-cave-name>C-270</principal-cave-name>
+      <altitude>1396</altitude>
+      <length>627</length>
       <vertical-extent>23</vertical-extent>
-      <rock-type/>
+      <number-of-entrances>7</number-of-entrances>
+      <rock-type>basalt</rock-type>
       <contents>permanent ice</contents>
-      <comments/>
-      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
    </record>
    <record>
-      <country-name>Montenegro</country-name>
-      <state-or-province/>
-      <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>Alladin's Cave</principal-cave-name>
-      <cave-id>03149</cave-id>
-      <latitude/>
-      <longitude/>
-      <altitude>1960</altitude>
-      <length>156</length>
-      <vertical-extent>16</vertical-extent>
+      <country-name>United States of America</country-name>
+      <state-or-province>California</state-or-province>
+      <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <principal-cave-name>Heppe Ice Cave</principal-cave-name>
+      <other-cave-name>Heppe Cave</other-cave-name>
+      <altitude>1609</altitude>
+      <length>52</length>
+      <vertical-extent>29</vertical-extent>
+      <number-of-entrances>2</number-of-entrances>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
-      <comments/>
-      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=570</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
-      <country-name>Montenegro</country-name>
-      <state-or-province/>
-      <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>Bolt from the Blue Cave</principal-cave-name>
-      <cave-id>03146</cave-id>
-      <latitude/>
-      <longitude/>
-      <altitude>1930</altitude>
-      <length>307</length>
-      <vertical-extent>45</vertical-extent>
-      <rock-type/>
+      <country-name>United States of America</country-name>
+      <state-or-province>California</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <principal-cave-name>L-215</principal-cave-name>
+      <altitude>1548</altitude>
+      <length>91</length>
+      <vertical-extent>22</vertical-extent>
+      <number-of-entrances>1</number-of-entrances>
+      <rock-type>basalt</rock-type>
       <contents>permanent ice</contents>
-      <comments/>
-      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
    </record>
    <record>
-      <country-name>Montenegro</country-name>
-      <state-or-province/>
-      <phys-area-name>Prokletije Mountains</phys-area-name>
-      <principal-cave-name>Ice Dragon Cave</principal-cave-name>
-      <cave-id>03003</cave-id>
-      <latitude/>
-      <longitude/>
-      <altitude>1881</altitude>
-      <length>396</length>
-      <vertical-extent>183</vertical-extent>
-      <rock-type/>
+      <country-name>United States of America</country-name>
+      <state-or-province>California</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <principal-cave-name>L-800</principal-cave-name>
+      <altitude>1390</altitude>
+      <length>45</length>
+      <vertical-extent>23</vertical-extent>
+      <number-of-entrances>1</number-of-entrances>
+      <rock-type>basalt</rock-type>
       <contents>permanent ice</contents>
-      <comments/>
-      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
    </record>
    <record>
-      <country-name>Bosnia and Herzegovina</country-name>
-      <state-or-province/>
-      <phys-area-name>Treskavica mountain</phys-area-name>
-      <principal-cave-name>Ledenica</principal-cave-name>
+      <country-name>United States of America</country-name>
+      <state-or-province>California</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <principal-cave-name>M-310</principal-cave-name>
+      <altitude>1412</altitude>
+      <length>81</length>
+      <vertical-extent>20</vertical-extent>
+      <number-of-entrances>1</number-of-entrances>
+      <rock-type>basalt</rock-type>
+      <contents>permanent ice</contents>
+      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>California</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <principal-cave-name>M-340</principal-cave-name>
+      <altitude>1400</altitude>
+      <length>197</length>
+      <vertical-extent>22</vertical-extent>
+      <number-of-entrances>2</number-of-entrances>
+      <rock-type>basalt</rock-type>
+      <contents>permanent ice</contents>
+      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>California</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <principal-cave-name>M-470</principal-cave-name>
+      <altitude>1349</altitude>
+      <length>122</length>
+      <vertical-extent>25</vertical-extent>
+      <number-of-entrances>1</number-of-entrances>
+      <rock-type>basalt</rock-type>
+      <contents>permanent ice</contents>
+      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>California</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <principal-cave-name>475</principal-cave-name>
+      <altitude>1342</altitude>
+      <length>45</length>
+      <vertical-extent>22</vertical-extent>
+      <number-of-entrances>1</number-of-entrances>
+      <rock-type>basalt</rock-type>
+      <contents>permanent ice</contents>
+      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>California</state-or-province>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
+      <principal-cave-name>U-200</principal-cave-name>
+      <altitude>1554</altitude>
+      <length>50</length>
+      <vertical-extent>9</vertical-extent>
+      <number-of-entrances>2</number-of-entrances>
+      <rock-type>basalt</rock-type>
+      <contents>permanent ice</contents>
+      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Hawaii</state-or-province>
+      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <principal-cave-name>Mauna Loa Ice Cave</principal-cave-name>
       <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length>235</length>
+      <vertical-extent/>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
+      <comments>235m long downslope, and 45m upslope</comments>
+      <reference>Pflitsch et al. (2016) doi:10.1657/AAAR0014-095</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=753</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Hawaii</state-or-province>
+      <phys-area-name>Mauna Loa</phys-area-name>
+      <principal-cave-name>Arsia Cave</principal-cave-name>
+      <other-cave-name>Arsia Ice Cave</other-cave-name>
       <latitude/>
       <longitude/>
       <altitude/>
       <length/>
       <vertical-extent/>
-      <rock-type/>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
-      <comments/>
-      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
+      <comments>two large ice ponds</comments>
+      <reference>Teehera et al. (2018) doi:10.1080/01490451.2017.1362079</reference>
    </record>
-   <record>
-      <country-name>Bosnia and Herzegovina</country-name>
-      <state-or-province/>
-      <phys-area-name>Bobija mountain</phys-area-name>
-      <principal-cave-name>Ledana Pit</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0</reference>
-   </record>
-   <record>
-      <country-name>Croatia</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Ledenica Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</reference>
-   </record>
-   <record>
-      <country-name>Croatia</country-name>
-      <state-or-province/>
-      <phys-area-name>Velebit Mt.</phys-area-name>
-      <principal-cave-name>Puhaljka Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</reference>
-   </record>
-   <record>
-      <country-name>Croatia</country-name>
-      <state-or-province/>
-      <phys-area-name>Velebit Mt.</phys-area-name>
-      <principal-cave-name>Snjeguljac Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</reference>
-   </record>
-   <record>
-      <country-name>Croatia</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Lukina jama-Trojama system</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</reference>
-   </record>
-   <record>
-      <country-name>Slovenia</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Paradani</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>1130</altitude>
-      <length>6534</length>
-      <vertical-extent>858</vertical-extent>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</reference>
-   </record>
-   <record>
-      <country-name>Slovenia</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Smrekova draga</principal-cave-name>
-      <other-cave-name/>
-      <latitude>45.98752</latitude>
-      <longitude>13.86777</longitude>
-      <altitude/>
-      <length>~1500</length>
-      <vertical-extent> >150</vertical-extent>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments>two dolines</comments>
-      <reference>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</reference>
-   </record>
-   <record>
-      <country-name>Slovenia</country-name>
-      <state-or-province/>
-      <phys-area-name>Raduha Mountain</phys-area-name>
-      <principal-cave-name>Snežna jama cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude>46.39825</latitude>
-      <longitude>14.74209</longitude>
-      <altitude>1514</altitude>
-      <length/>
-      <vertical-extent/>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>collapse dolina</comments>
-      <reference>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</reference>
-   </record>
-   <record>
-      <country-name>Greenland</country-name>
-      <phys-area-name>northeastern Greenland; Odins Fjord Formation</phys-area-name>
-      <principal-cave-name>U-Shaped-Cave</principal-cave-name>
-      <other-cave-name>U-Tut Ilusilik Qaarusussuaq</other-cave-name>
-      <latitude>+80.376</latitude>
-      <longitude>-21.736</longitude>
-      <altitude>533 north entrance</altitude>
-      <altitude>530 south entrance</altitude>
-      <length>95</length>
-      <rock-type>limestone</rock-type>
-      <comments>discovered in 1960</comments>
-      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
-   </record>
-   <record>
-      <country-name>Greenland</country-name>
-      <phys-area-name>northeastern Greenland; Odins Fjord Formation</phys-area-name>
-      <principal-cave-name>Main Sampling Cave</principal-cave-name>
-      <other-cave-name>Kodak Cave</other-cave-name>
-      <latitude>+80.37767</latitude>
-      <longitude>-21.74682</longitude>
-      <altitude>520</altitude>
-      <length>11</length>
-      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
-   </record>
-   <record>
-      <country-name>Greenland</country-name>
-      <phys-area-name>northeastern Greenland</phys-area-name>
-      <principal-cave-name>Grotte des Quatre</principal-cave-name>
-      <other-cave-name>Grottenfjeldet</other-cave-name>
-      <latitude>+80.08775</latitude>
-      <longitude>-22.56333</longitude>
-      <altitude>420</altitude>
-      <length>74</length>
-      <number-of-entrances>4</number-of-entrances>
-      <rock-type>limestone</rock-type>
-      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
-   </record>
-   <record>
-      <country-name>Greenland</country-name>
-      <phys-area-name>northeastern Greenland</phys-area-name>
-      <principal-cave-name>Cairn Climb Cave</principal-cave-name>
-      <other-cave-name>Inussuk Innartooq Qaarusussuaq</other-cave-name>
-      <latitude>+80.37756</latitude>
-      <longitude>-21.71019</longitude>
-      <altitude>540</altitude>
-      <length>19</length>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments>rear of cave blocked by wall of ice</comments>
-      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
-   </record>
-   <record>
-      <country-name>Greenland</country-name>
-      <phys-area-name>northeastern Greenland</phys-area-name>
-      <principal-cave-name>Crystal Palace Cave</principal-cave-name>
-      <other-cave-name>Aligoq Illussaarsuaq Qaarusussuaq</other-cave-name>
-      <latitude>+80.37739</latitude>
-      <longitude>-21.72585</longitude>
-      <altitude>604</altitude>
-      <length>48</length>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments>ice stalagmites, hoar frost</comments>
-      <comments>rear of cave blocked by wall of ice</comments>
-      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
-   </record>
-   <record>
-      <country-name>Greenland</country-name>
-      <phys-area-name>northeastern Greenland</phys-area-name>
-      <principal-cave-name>Lemming Cave</principal-cave-name>
-      <other-cave-name>Narlumukaap Qaarusussuaq</other-cave-name>
-      <other-cave-name>Stig Strikes Again</other-cave-name>
-      <latitude>+80.38586</latitude>
-      <longitude>-21.81800</longitude>
-      <altitude>526</altitude>
-      <length>54</length>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments>ice wall, hoar frost/ice floor</comments>
-      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
-   </record>
-   <record>
-      <country-name>Greenland</country-name>
-      <phys-area-name>northeastern Greenland</phys-area-name>
-      <principal-cave-name>Crystal Kingdom Cave</principal-cave-name>
-      <other-cave-name>Aligoq Kunngeqarfik Qaarusussuaq</other-cave-name>
-      <latitude>+80.41238</latitude>
-      <longitude>-21.6819</longitude>
-      <altitude>825</altitude>
-      <length>87</length>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments>impressive hoar frost</comments>
-      <comments>large hoar frost crystals</comments>
-      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
-      <reference>Barton et al. (2020) Cave and Karst Sci. 47, 93-99</reference>
-   </record>
-   <record>
-      <country-name>Greenland</country-name>
-      <phys-area-name>northeastern Greenland</phys-area-name>
-      <principal-cave-name>Cove Cave</principal-cave-name>
-      <other-cave-name>Kate's Cove Cave</other-cave-name>
-      <other-cave-name>Eqik Qaarusussuaq</other-cave-name>
-      <latitude>+80.25346</latitude>
-      <longitude>-21.93311</longitude>
-      <altitude>660</altitude>
-      <length>103</length>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments>impressive hoar frost, ice stalagmites</comments>
-      <comments/>
-      <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
-      <reference>Barton et al. (2020) Cave and Karst Sci. 47, 93-99</reference>
-   </record>
+
+
+
+
+
+
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Alaska</state-or-province>
@@ -6564,96 +6560,6 @@
       <reference>Onac et al. (2020) doi:10.1038/s41598-020-76988-1</reference>
    </record>
    <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Nova Scotia; Hants County</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Frenchman's Cave</principal-cave-name>
-      <length>50</length>
-      <vertical-extent/>
-      <rock-type>gypsum</rock-type>
-      <contents>periodic ice</contents>
-      <comments>snow, hoarfrost, ice stalactites and stalagmites</comments>
-      <comments>37 identified species</comments>
-      <reference>Calder and Bleakney (1967) Natl. Speleol. Soc. Bull. 29(1) 23</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Nova Scotia; Hants County</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Woodville Ice Cave</principal-cave-name>
-      <latitude>50.0341</latitude>
-      <longitude>-63.9555</longitude>
-      <length>50</length>
-      <vertical-extent/>
-      <rock-type>gypsum</rock-type>
-      <contents>periodic ice</contents>
-      <comments>seasonal snow and ice</comments>
-      <comments>gypsum-anhydrite; solution cave</comments>
-      <reference>Moseley (2007) doi:10.15273/pnsis.v44i1.3883</reference>
-   </record>
-   <record>
-      <country-name>Canada</country-name>
-      <state-or-province>Nova Scotia</state-or-province>
-      <principal-cave-name>Minasville Ice Cave</principal-cave-name>
-      <latitude>45.2750</latitude>
-      <longitude>-63.8170</longitude>
-      <length/>
-      <vertical-extent/>
-      <contents>many bats</contents>
-      <reference>Moseley (2007) doi:10.15273/pnsis.v44i1.3883</reference>
-      <reference>Iepure (2018) doi:10.1016/B978-0-12-811739-2.00007-3</reference>
-   </record>
-   <record>
-      <country-name>Svalbard and Jan Mayen</country-name>
-      <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
-      <principal-cave-name></principal-cave-name>
-      <other-cave-name>G4</other-cave-name>
-      <altitude>70</altitude>
-      <length>12</length>
-      <vertical-extent>1</vertical-extent>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
-   </record>
-   <record>
-      <country-name>Svalbard and Jan Mayen</country-name>
-      <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
-      <principal-cave-name>Portalgrotta</principal-cave-name>
-      <other-cave-name>G5</other-cave-name>
-      <altitude>72</altitude>
-      <length>39</length>
-      <vertical-extent>2</vertical-extent>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>ground ice and hoarfrost</comments>
-      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
-   </record>
-   <record>
-      <country-name>Svalbard and Jan Mayen</country-name>
-      <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
-      <principal-cave-name>Fissurgrotta</principal-cave-name>
-      <other-cave-name>G17</other-cave-name>
-      <altitude>60</altitude>
-      <length>9</length>
-      <vertical-extent>1</vertical-extent>
-      <rock-type>limestone</rock-type>
-      <comments>ends in hoarfrost and frozen sediment fill</comments>
-      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
-   </record>
-   <record>
-      <country-name>Svalbard and Jan Mayen</country-name>
-      <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
-      <principal-cave-name>Takrørgrotta</principal-cave-name>
-      <other-cave-name>G22</other-cave-name>
-      <altitude>226</altitude>
-      <length>18</length>
-      <vertical-extent>4</vertical-extent>
-      <rock-type>limestone</rock-type>
-      <contents>permanent ice</contents>
-      <comments>hoarfrosted scallops; ice, snow, and hoarfrost</comments>
-      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
-   </record>
-   <record>
       <country-name>United States of America</country-name>
       <state-or-province>Iowa</state-or-province>
       <phys-area-name/>
@@ -6662,26 +6568,184 @@
       <contents>periodic ice</contents>
       <reference>Knudson and Hedges (1973) https://scholarworks.uni.edu/pias/vol80/iss4/8/</reference>
    </record>
+
    <record>
-      <country-name>Russia</country-name>
-      <state-or-province>Samara</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Brothers Greve Cave</principal-cave-name>
-      <length>~522</length>
-      <vertical-extent>25</vertical-extent>
-      <contents>permanent ice</contents>
-      <comments>atmogenic crystalline hoarfrost</comments>
-      <reference>Chervyatsova (2005) http://arhiv.rgo-speleo.ru/rgo/books/glacier_karst7/chervyatsova_93_97.pdf</reference>
+      <country-name>Antarctica</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
+      <principal-cave-name>Warren Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <rock-type>ice</rock-type>
+      <rock-type>basalt</rock-type>
+      <comments>fumarolic ice cave</comments>
+      <reference>Curtis and Kyle (2011) doi:10.1029/2011GL048272</reference>
+      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
+      <reference>Connell and Staudigel (2013) doi:10.3390/biology2020798</reference>
    </record>
    <record>
-      <country-name>Russia</country-name>
-      <state-or-province>Samara</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Gnilaya Cave</principal-cave-name>
-      <length>21</length>
-      <vertical-extent>8</vertical-extent>
-      <contents>permanent ice</contents>
-      <reference>Chervyatsova (2005) http://arhiv.rgo-speleo.ru/rgo/books/glacier_karst7/chervyatsova_93_97.pdf</reference>
+      <country-name>Antarctica</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
+      <principal-cave-name>Harrys Dream</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <rock-type>ice</rock-type>
+      <rock-type>basalt</rock-type>
+      <comments>fumarolic ice cave</comments>
+      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
+   </record>
+   <record>
+      <country-name>Antarctica</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
+      <principal-cave-name>Hubert's Nightmare</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <rock-type>ice</rock-type>
+      <rock-type>basalt</rock-type>
+      <comments>fumarolic ice cave</comments>
+      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
+   </record>
+   <record>
+      <country-name>Antarctica</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
+      <principal-cave-name>Kachina Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <rock-type>ice</rock-type>
+      <rock-type>basalt</rock-type>
+      <comments>fumarolic ice cave</comments>
+      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
+   </record>
+   <record>
+      <country-name>Antarctica</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
+      <principal-cave-name>Worm Tongue</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <rock-type>ice</rock-type>
+      <rock-type>basalt</rock-type>
+      <comments>fumarolic ice cave</comments>
+      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
+   </record>
+   <record>
+      <country-name>Antarctica</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
+      <principal-cave-name>Haggis Hole</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <rock-type>ice</rock-type>
+      <rock-type>basalt</rock-type>
+      <comments>fumarolic ice cave</comments>
+      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
+   </record>
+   <record>
+      <country-name>Antarctica</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
+      <principal-cave-name>Helo Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <rock-type>ice</rock-type>
+      <rock-type>basalt</rock-type>
+      <comments>fumarolic ice cave</comments>
+      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
+   </record>
+   <record>
+      <country-name>Antarctica</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
+      <principal-cave-name>Mammoth Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <rock-type>ice</rock-type>
+      <rock-type>basalt</rock-type>
+      <comments>fumarolic ice cave</comments>
+      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
+   </record>
+   <record>
+      <country-name>Antarctica</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
+      <principal-cave-name>Hut Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <rock-type>ice</rock-type>
+      <rock-type>basalt</rock-type>
+      <comments>fumarolic ice cave</comments>
+      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
+   </record>
+   <record>
+      <country-name>Antarctica</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
+      <principal-cave-name>Heroine Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <rock-type>ice</rock-type>
+      <rock-type>basalt</rock-type>
+      <comments>fumarolic ice cave</comments>
+      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
+   </record>
+   <record>
+      <country-name>Antarctica</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
+      <principal-cave-name>Sauna Cave</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
+      <rock-type>ice</rock-type>
+      <rock-type>basalt</rock-type>
+      <comments>fumarolic ice cave</comments>
+      <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
    </record>
 
    <record>
@@ -7918,6 +7982,8 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1210</reference>
       <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
+      <reference>Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf</reference>
+      <reference>Stone (2010) http://www.vulcanospeleology.org/sym14/papers/Stone.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -10850,6 +10916,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517</reference>
       <reference>Pinza-Molina et al. (1999) doi:10.1093/oxfordjournals.rpd.a032628</reference>
+      <reference>Rein et al. (2016) http://www.cavepics.com/IVS17/REIN.pdf</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -17287,7 +17354,7 @@
       <phys-area-name>Reunion Island</phys-area-name>
       <principal-cave-name>Mussard Cavern</principal-cave-name>
       <other-cave-name>Mussard Cave</other-cave-name>
-      <altitude>2150 coarse</altitude>
+      <altitude>~2150</altitude>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1434</reference>
@@ -21409,6 +21476,27 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=258</reference>
    </record>
    <record>
+      <country-name>Syria</country-name>
+      <state-or-province></state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Ariqa Cave</principal-cave-name>
+      <other-cave-name>Aariqa Cave</other-cave-name>
+      <length>562</length>
+      <cave-type>lava tunnel</cave-type>
+      <comments>less than 4kyr old</comments>
+      <reference>Tawk et al. (2009) Proc. 15th Intern. Congress Speleology, p724-729</reference>
+   </record>
+   <record>
+      <country-name>Syria</country-name>
+      <state-or-province></state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Umm ar Rumman</principal-cave-name>
+      <length>1615</length>
+      <cave-type>lava tunnel</cave-type>
+      <comments/>
+      <reference>Tawk et al. (2009) Proc. 15th Intern. Congress Speleology, p724-729</reference>
+   </record>
+   <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
@@ -22278,7 +22366,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name/>
-      <principal-cave-name>Umi`i Manu System</principal-cave-name>
+      <principal-cave-name>Umi'i Manu System</principal-cave-name>
       <length>3887</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -23541,6 +23629,7 @@
       <vertical-extent>15</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+      <reference>Phuc et al. (2018) http://www.vulcanospeleology.org/sym18/Proceedings/Honda_III.pdf</reference>
    </record>
    <record>
       <country-name>Viet Nam</country-name>
@@ -23725,6 +23814,7 @@
       <vertical-extent>16</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+      <reference>Phuc et al. (2018) http://www.vulcanospeleology.org/sym18/Proceedings/Honda_III.pdf</reference>
    </record>
    <record>
       <country-name>Saudi Arabia</country-name>
@@ -23767,7 +23857,7 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii; Ka`u District</state-or-province>
+      <state-or-province>Hawaii; Kau District</state-or-province>
       <phys-area-name>Hawaii Island; South Point</phys-area-name>
       <principal-cave-name>Kamakalepo Cave System</principal-cave-name>
       <length>998</length>
@@ -23889,7 +23979,61 @@
       <contents>permanent ice</contents>
       <reference>Ingham et al. (2004) http://vulcanospeleology.org/sym11/ISV11p7.pdf</reference>
    </record>
-   
+   <record>
+     <country-name>Jordan</country-name>
+     <principal-cave-name>Al-Fahda Cave (Lioness Cave)</principal-cave-name>
+     <altitude>792</altitude>
+     <length>924</length>
+     <vertical-extent>7</vertical-extent>
+     <cave-type>lava tunnel</cave-type>
+     <reference>Al-Malabeh et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p10.pdf</reference>
+   </record>
+   <record>
+     <country-name>Jordan</country-name>
+     <principal-cave-name>Al-Badia Cave</principal-cave-name>
+     <altitude>783</altitude>
+     <length>445</length>
+     <vertical-extent>17</vertical-extent>
+     <cave-type>lava tunnel</cave-type>
+     <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
+   </record>
+   <record>
+     <country-name>Jordan</country-name>
+     <principal-cave-name>Hashemite University Cave</principal-cave-name>
+     <altitude>787</altitude>
+     <length>231</length>
+     <vertical-extent>10</vertical-extent>
+     <cave-type>lava tunnel</cave-type>
+     <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
+   </record>
+   <record>
+     <country-name>Jordan</country-name>
+     <principal-cave-name>Al-Ameed Cave</principal-cave-name>
+     <altitude>777</altitude>
+     <length>208</length>
+     <vertical-extent>4</vertical-extent>
+     <cave-type>lava tunnel</cave-type>
+     <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
+   </record>
+   <record>
+     <country-name>Jordan</country-name>
+     <principal-cave-name>Abu Al-Kursi East</principal-cave-name>
+     <altitude>883</altitude>
+     <length>154</length>
+     <vertical-extent>12</vertical-extent>
+     <cave-type>lava tunnel</cave-type>
+     <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
+   </record>
+   <record>
+     <country-name>Jordan</country-name>
+     <principal-cave-name>Al-Howa</principal-cave-name>
+     <altitude>939</altitude>
+     <length>97</length>
+     <vertical-extent>11</vertical-extent>
+     <cave-type>lava tunnel</cave-type>
+     <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
+   </record>
+
    <record>
      <country-name>Moon</country-name>
      <phys-area-name>Marius Hills; Oceanus Procellarum</phys-area-name>

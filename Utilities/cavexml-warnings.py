@@ -23,7 +23,7 @@ for item in root.findall('record'):
     acavename = False
     pcn = item.find('principal-cave-name')
     if pcn is not None: # tag present
-        if pcn.text is not None: # not empty
+        if pcn.text: # not empty
             if len(pcn.text.strip())>0:
                 acavename = True
     if acavename is False:
@@ -37,7 +37,7 @@ for item in root.findall('record'):
 
     # Find records without reference
     try:
-        ref = item.find('reference').text
+        ref = item.find('reference').text.strip()
         if ref is None:
             print('WARNING: no reference for ',acavename)
     except:

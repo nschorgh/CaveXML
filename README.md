@@ -11,9 +11,10 @@ CaveXML is a data interchange format for the purpose of facilitating scientific 
    `allcaves-database.csv`  (csv version of the database generated from the XML version)  
    `cavexml-db-table.css`	  (minimalist Style Sheet so the XML database can be viewed in a webbrowser)  
    `Utilities/cavexml2csv.py`         (converts database to comma-separated-values using Python)  
-   `Utilities/cavexml2kml.py`	  (converts coordinates in CaveXML entries into KML format)   
+   `Utilities/cavexml2kml.py`	  (converts coordinates in CaveXML entries into KML format)
+   `Utilities/cavexml2md.py`         (creates list of entries in Markdown format)  
    `Utilities/cavexml-numeric.py`	    (parses quasi-numerical entries)  
-   `Utilities/cavexml.py`	    (some useful functions)  
+   `Utilities/cavexml.py`	    (some useful Python functions for CaveXML)  
    `Utilities/cavexml-warnings.py`   (Python program that issues informative warnings)   
    `Utilities/reorder.xslt`    		 (sorts elements within each record)  
        

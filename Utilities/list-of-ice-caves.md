@@ -413,7 +413,7 @@ United States of America - New Mexico; Cibola County - El Malpais; Big Tubes are
 United States of America - New Mexico; Cibola County - El Malpais **Frozen Matt Cave**   
 United States of America - New Mexico; Cibola County - El Malpais National Monument **Rusty Barrel Ice Cave**  Apache Ice Cave  
 United States of America - New Mexico; Cibola County - El Malpais region **Candelaria Ice Cave**  Cerro Candelaria  
-United States of America - Oregon; Deschutes County - Newberry Volcano **Arnold Ice Cave**  Crook County Ice Cave *Part of* Arnold Lava Tube System  
+United States of America - Oregon; Deschutes County - Newberry Volcano **Arnold Ice Cave**  Crook County Ice Cave  
 United States of America - Oregon; Deschutes County **South Ice Cave**   
 United States of America - Washington; Skamania County - Mt. Adams **Ice Cave**   
 United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system **Hoarfrost Cave**   
@@ -423,8 +423,8 @@ Ice Caves higher than 3000m a.s.l.
 ==================================
 
 Tajikistan - Pamir Mountains **Putnikov Cave**  Rangkulskaya Cave; Matatash ~4600m  
-Iran - Northern Zagros Mountains **Dena Ice Cave**  3895m
-India - Lidder Valley **Amarnath Cave**  Holy Cave 3888m
+Iran - Northern Zagros Mountains **Dena Ice Cave**  3895m  
+India - Lidder Valley **Amarnath Cave**  Holy Cave 3888m  
 Uzbekistan - Kyzyl-Shavar Plateau **Gissarskaya Cave**  3530m  
 Uzbekistan **Dark Star Cave**  ~3500 main entrance  
 Switzerland **Jochloch**  3470m  

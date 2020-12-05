@@ -2514,12 +2514,13 @@
       "rock-type": "limestone",
       "contents": "permanent ice",
       "contents": "many bats",
-      "reference": "Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5",
       "reference": "Racoviţă and Onac (2000) 'Scărișoara Glacier Cave' Editura Carpatica, 138pp",
       "reference": "Holmlund et al. (2005) doi:j.0435-3676.2005.00252.x",
       "reference": "Perşoiu et al. (2011) doi:10.1029/2010JD014477",
       "reference": "Feurdean et al. (2011) doi:10.1016/j.revpalbo.2011.01.007",
+      "reference": "Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5",
       "reference": "Itcus et al. (2018) doi:10.1038/s41598-018-34106-2",
+      "reference": "Modini et al. (2018) doi:10.1017/aog.2019.6",
       "cave-use": "guided tourist cave"
     },
 
@@ -6977,8 +6978,12 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "ice",
+      "rock-type": "basalt",
       "comments": "fumarolic ice cave",
-      "reference": "Tebo et al. (2015) doi:10.3389/fmicb.2015.00179"
+      "reference": "Curtis and Kyle (2011) doi:10.1029/2011GL048272",
+      "reference": "Tebo et al. (2015) doi:10.3389/fmicb.2015.00179",
+      "reference": "Connell and Staudigel (2013) doi:10.3390/biology2020798"
     },
 
     {
@@ -6992,6 +6997,8 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "ice",
+      "rock-type": "basalt",
       "comments": "fumarolic ice cave",
       "reference": "Tebo et al. (2015) doi:10.3389/fmicb.2015.00179"
     },
@@ -7007,6 +7014,8 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "ice",
+      "rock-type": "basalt",
       "comments": "fumarolic ice cave",
       "reference": "Tebo et al. (2015) doi:10.3389/fmicb.2015.00179"
     },
@@ -7022,6 +7031,8 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "ice",
+      "rock-type": "basalt",
       "comments": "fumarolic ice cave",
       "reference": "Tebo et al. (2015) doi:10.3389/fmicb.2015.00179"
     },
@@ -7037,6 +7048,8 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "ice",
+      "rock-type": "basalt",
       "comments": "fumarolic ice cave",
       "reference": "Tebo et al. (2015) doi:10.3389/fmicb.2015.00179"
     },
@@ -7052,6 +7065,8 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "ice",
+      "rock-type": "basalt",
       "comments": "fumarolic ice cave",
       "reference": "Tebo et al. (2015) doi:10.3389/fmicb.2015.00179"
     },
@@ -7067,6 +7082,8 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "ice",
+      "rock-type": "basalt",
       "comments": "fumarolic ice cave",
       "reference": "Tebo et al. (2015) doi:10.3389/fmicb.2015.00179"
     },
@@ -7082,6 +7099,8 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "ice",
+      "rock-type": "basalt",
       "comments": "fumarolic ice cave",
       "reference": "Tebo et al. (2015) doi:10.3389/fmicb.2015.00179"
     },
@@ -7097,6 +7116,8 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "ice",
+      "rock-type": "basalt",
       "comments": "fumarolic ice cave",
       "reference": "Tebo et al. (2015) doi:10.3389/fmicb.2015.00179"
     },
@@ -7112,6 +7133,8 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "ice",
+      "rock-type": "basalt",
       "comments": "fumarolic ice cave",
       "reference": "Tebo et al. (2015) doi:10.3389/fmicb.2015.00179"
     },
@@ -7127,6 +7150,8 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "ice",
+      "rock-type": "basalt",
       "comments": "fumarolic ice cave",
       "reference": "Tebo et al. (2015) doi:10.3389/fmicb.2015.00179"
     },
@@ -24332,7 +24357,7 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": [],
-      "principal-cave-name": "Umi`i Manu System",
+      "principal-cave-name": "Umi'i Manu System",
       "length": 3887,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -25969,7 +25994,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; Ka`u District",
+      "state-or-province": "Hawaii; Kau District",
       "phys-area-name": "Hawaii Island; South Point",
       "principal-cave-name": "Kamakalepo Cave System",
       "length": 998,

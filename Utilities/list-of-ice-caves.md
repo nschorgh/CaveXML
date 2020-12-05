@@ -389,3 +389,46 @@ Uzbekistan - Kyzyl-Shavar Plateau **Gissarskaya Cave**
 Uzbekistan **Ledopadnaya**   
 Uzbekistan **Morning Star**   
 Uzbekistan **Ulug-Bek**   
+
+
+List of Volcanic Ice Caves
+==========================
+List of ice caves that are also lava tubes.   
+
+Iceland **Loftshellir**   
+Iceland - Myrasysla County - Hallmundahraun lava flow **Surtshellir**   
+Iceland - Myrasysla County - Hallmundahraun lava flow **Víðgelmir**   
+Italy - Sicilia - Sicily; Etna **Grotte del Gelo**   
+Japan - Mt. Fuji **Fuji Ice Cave**  Fuji Fuketsu  
+Japan - Mt. Fuji **Motosu Fuketsu No. 2 Cave**   
+Japan - Yamanashi Prefecture - Mt. Fuji **Narusawa Hyoketsu Cave**  Narusawa Ice Cave  
+Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide **Cueva de Hielo del Teide**   
+United States of America - California - Lava Beds National Monument **Skull Ice Cave**  Skull Cave  
+United States of America - California; Siskiyou County - Lava Beds National Monument **Heppe Ice Cave**  Heppe Cave  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Mammoth Crater **Crystal Cave**  Crystal Ice Cave; Blue Crystal Ice Cave  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands **Merrill Ice Cave**  Merrill Cave  
+United States of America - Hawaii - Hawaii Island; Mauna Loa **Mauna Loa Ice Cave**   
+United States of America - Hawaii - Mauna Loa **Arsia Cave**  Arsia Ice Cave  
+United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area **Giant Ice Cave**   
+United States of America - New Mexico; Cibola County - El Malpais **Frozen Matt Cave**   
+United States of America - New Mexico; Cibola County - El Malpais National Monument **Rusty Barrel Ice Cave**  Apache Ice Cave  
+United States of America - New Mexico; Cibola County - El Malpais region **Candelaria Ice Cave**  Cerro Candelaria  
+United States of America - Oregon; Deschutes County - Newberry Volcano **Arnold Ice Cave**  Crook County Ice Cave *Part of* Arnold Lava Tube System  
+United States of America - Oregon; Deschutes County **South Ice Cave**   
+United States of America - Washington; Skamania County - Mt. Adams **Ice Cave**   
+United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system **Hoarfrost Cave**   
+
+
+Ice Caves higher than 3000m a.s.l.
+==================================
+
+Tajikistan - Pamir Mountains **Putnikov Cave**  Rangkulskaya Cave; Matatash ~4600m  
+Iran - Northern Zagros Mountains **Dena Ice Cave**  3895m
+India - Lidder Valley **Amarnath Cave**  Holy Cave 3888m
+Uzbekistan - Kyzyl-Shavar Plateau **Gissarskaya Cave**  3530m  
+Uzbekistan **Dark Star Cave**  ~3500 main entrance  
+Switzerland **Jochloch**  3470m  
+Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide **Cueva de Hielo del Teide**  3400m  
+Canada - Alberta - Jasper National Park **Mount Alberta Cave**  3350m  
+United States of America - Utah - Central Rocky Mountains; Uinta Mountains **Winter Wonderland Cave**  3140m  
+Spain - Pyrenees **Cilindro**  3020–3060m  

@@ -2847,22 +2847,6 @@
     {
       "country-name": "Serbia",
       "state-or-province": [],
-      "phys-area-name": "Suva Planina Mt.",
-      "principal-cave-name": "Ledenica Trem",
-      "other-cave-name": [],
-      "latitude": [],
-      "longitude": [],
-      "altitude": 1776,
-      "length": 13,
-      "vertical-extent": 2,
-      "cave-type": "rock shelter",
-      "contents": "periodic ice",
-      "reference": "Nešić and Ćalić (2018) doi:10.1016/B978-0-12-811739-2.00027-9"
-    },
-
-    {
-      "country-name": "Serbia",
-      "state-or-province": [],
       "phys-area-name": "Krnjača village",
       "principal-cave-name": "Lednica",
       "other-cave-name": [],
@@ -4992,7 +4976,7 @@
       "vertical-extent": 17,
       "rock-type": "gypsum",
       "contents": "permanent ice",
-      "comments": "icings and prennial sublimation crystals",
+      "comments": "icings and perennial sublimation crystals",
       "comments": [],
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
@@ -6097,7 +6081,7 @@
       "vertical-extent": [],
       "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "permafrost",
+      "comments": "permafrost; massive hoar ice",
       "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
     },
 
@@ -6894,7 +6878,8 @@
       "contents": "permanent ice",
       "comments": "235m long downslope, and 45m upslope",
       "reference": "Pflitsch et al. (2016) doi:10.1657/AAAR0014-095",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=753"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=753",
+      "reference": "Teehera et al. (2018) doi:10.1080/01490451.2017.1362079"
     },
 
     {
@@ -7929,6 +7914,7 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Apple Cave",
+      "cave-id": "NSS-633-24",
       "length": 61,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1621"
@@ -8086,6 +8072,7 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Ash Hole Cave",
+      "cave-id": "NSS-633-11",
       "length": 18,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1622"
@@ -8828,6 +8815,7 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Bill's Cave",
+      "cave-id": "NSS-633-03",
       "length": 31,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1625"
@@ -9291,7 +9279,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "principal-cave-name": "Brown's wHole Cave",
+      "principal-cave-name": "Brown's Hole Cave",
       "length": 45,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=470"
@@ -10408,7 +10396,8 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
-      "principal-cave-name": "COG Cave",
+      "principal-cave-name": "C.O.G. Cave",
+      "cave-id": "NSS-633-21",
       "length": 244,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1632"
@@ -10501,6 +10490,7 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Cougar Den Cave",
+      "cave-id": "NSS-633-42",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1634"
@@ -12509,7 +12499,8 @@
       "state-or-province": "Washington",
       "state-or-province": "Cowlitz County",
       "principal-cave-name": "Dogwood Cave",
-      "length": 168,
+      "cave-id": "NSS-631-012",
+      "length": 186,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1602"
     },
@@ -12520,6 +12511,7 @@
       "state-or-province": "Skamania County",
       "phys-area-name": "Mount St. Helens",
       "principal-cave-name": "Dollar-and-a-Dime Cave",
+      "cave-id": "NSS-631-11",
       "length": 366,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -12625,6 +12617,7 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Dry Creek Cave",
+      "cave-id": "NSS-633-27",
       "length": 457,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1640"
@@ -12676,8 +12669,9 @@
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
       "phys-area-name": [],
-      "principal-cave-name": "Dynamite Cave",
-      "length": [],
+      "principal-cave-name": "Dynamited Cave",
+      "cave-id": "NSS-633-50",
+      "length": 3763,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=482"
     },
@@ -12737,9 +12731,11 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "phys-area-name": [],
-      "principal-cave-name": "Edison Ice Caves",
+      "principal-cave-name": "Edison Ice Cave",
+      "cave-id": "NSS-611-1",
       "length": [],
       "cave-type": "lava tunnel",
+      "comments": "small ice deposits",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1289"
     },
 
@@ -12901,6 +12897,7 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Falls Creek Cave",
+      "cave-id": "NSS-633-204",
       "length": 2797,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1641"
@@ -13028,6 +13025,7 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Firecracker Cave",
+      "cave-id": "NSS-633-51",
       "length": 96,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1643"
@@ -13038,6 +13036,7 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Flashcube Cave",
+      "cave-id": "NSS-633-17",
       "length": 178,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1644"
@@ -13126,7 +13125,8 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
-      "principal-cave-name": "Folger's Cave",
+      "principal-cave-name": "Folgers Cave",
+      "cave-id": "NSS-633-213",
       "length": 1264,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1645"
@@ -13224,7 +13224,8 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Frog Hollow Cave",
-      "length": [],
+      "cave-id": "NSS-633-07",
+      "length": 43,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1646"
     },
@@ -13234,6 +13235,8 @@
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Frog Pit",
+      "other-cave-name": "Fire Ladder Cave",
+      "cave-id": "NSS-611-113",
       "length": [],
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -13830,6 +13833,7 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Goose Cave",
+      "cave-id": "NSS-633-10",
       "altitude": 1001,
       "length": 665,
       "cave-type": "lava tunnel",
@@ -13841,6 +13845,7 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Gopher Hole Cave",
+      "cave-id": "NSS-633-09",
       "length": 46,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1648"
@@ -13953,11 +13958,14 @@
       "state-or-province": "Skamania County",
       "phys-area-name": "Mount St. Helens",
       "principal-cave-name": "Gremlin Cave",
+      "cave-id": "NSS-631-16A,B",
       "altitude": 914,
       "length": 677,
+      "number-of-entrances": 2,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1700"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1700",
+      "reference": "https://oregongrotto.com/washingtoncaves.shtml"
     },
 
     {
@@ -14197,13 +14205,17 @@
       "country-name": "Portugal",
       "state-or-province": "Azores",
       "phys-area-name": "Ilha do Pico",
-      "principal-cave-name": "Gruta das Torres",
+      "principal-cave-name": "Gruta das Torres (Grotto of Towers)",
+      "latitude": 38.4943,
+      "longitude": -28.5024,
       "altitude": 300,
       "length": 5439,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=259",
-      "reference": "Riquelme et al. (2015) doi:10.1093/femsec/fiv141"
+      "reference": "Riquelme et al. (2015) doi:10.1093/femsec/fiv141",
+      "reference": "https://en.wikipedia.org/wiki/Gruta_das_Torres",
+      "cave-use": "guided tourist cave"
     },
 
     {
@@ -14672,6 +14684,7 @@
       "state-or-province": "Washington",
       "state-or-province": "Cowlitz County",
       "principal-cave-name": "Helium Cave",
+      "cave-id": "NSS-631-17A,B",
       "length": 244,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1603"
@@ -14693,7 +14706,8 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Hemlock Cave",
-      "length": [],
+      "cave-id": "NSS-633-37",
+      "length": 321,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1651"
     },
@@ -14848,6 +14862,7 @@
       "state-or-province": "Skamania County",
       "phys-area-name": "Sleeping Beauty; Potluck system",
       "principal-cave-name": "Hoarfrost Cave",
+      "cave-id": "NSS-633-18",
       "altitude": 1066,
       "length": 46,
       "cave-type": "lava tunnel",
@@ -15733,7 +15748,8 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
-      "principal-cave-name": "Jar Cave",
+      "principal-cave-name": "J.a.R. Cave",
+      "cave-id": "NSS-633-43",
       "length": 1043,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1735"
@@ -16914,6 +16930,7 @@
       "state-or-province": "Skamania County",
       "phys-area-name": "Mount St. Helens",
       "principal-cave-name": "Lake Cave",
+      "cave-id": "NSS-631-051",
       "length": 1401,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -17298,7 +17315,7 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii (Big Island)",
-      "principal-cave-name": "Lilttle Wall Cave",
+      "principal-cave-name": "Little Wall Cave",
       "length": 470,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=906"
@@ -17352,6 +17369,7 @@
       "state-or-province": "Skamania County",
       "phys-area-name": "Mount St. Helens",
       "principal-cave-name": "Little People Cave",
+      "cave-id": "NSS-631-021",
       "altitude": 876,
       "length": 410,
       "rock-type": "basalt",
@@ -17365,6 +17383,7 @@
       "state-or-province": "Skamania County",
       "phys-area-name": "Mount St. Helens",
       "principal-cave-name": "Little Red River Cave",
+      "cave-id": "NSS-631-023",
       "length": 1032,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -19977,7 +19996,8 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Pickard's Sink",
-      "length": [],
+      "cave-id": "NSS-633-08",
+      "length": 580,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1664"
     },
@@ -20927,7 +20947,9 @@
       "length": 1360,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=8"
+      "contents": "periodic ice",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=8",
+      "reference": "https://en.wikipedia.org/wiki/Raufarh%C3%B3lshellir"
     },
 
     {

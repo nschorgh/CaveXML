@@ -293,7 +293,7 @@
       <xs:element name = "principal-cave-name" type = "xs:string" minOccurs="0" maxOccurs="1"/>
       <xs:element name = "other-cave-name"     type = "xs:string" minOccurs="0" maxOccurs="unbounded"/>
 
-      <xs:element name = "cave-id" minOccurs="0" maxOccurs="unbounded" default="XXX1234/5">  
+      <xs:element name = "cave-id" minOccurs="0" maxOccurs="unbounded" default="XXX-1234/5">  
 	<xs:simpleType>
 	  <xs:restriction base='xs:token'>
 	    <xs:pattern value="[!-~]*"/>
@@ -376,17 +376,15 @@
 	    <xs:enumeration value=""/>
 	    <xs:enumeration value="solution cave"/> 
 	    <xs:enumeration value="artificial cave"/>
-	    <xs:enumeration value="blowhole"/>
 	    <xs:enumeration value="boulder cave"/>  <!-- also known as 'talus cave' -->
 	    <xs:enumeration value="tectonic cave"/>     
 	    <xs:enumeration value="glacier cave"/>
 	    <xs:enumeration value="lava tunnel"/>   <!-- also known as 'lava tube' -->
 	    <xs:enumeration value="lava vent"/>
 	    <xs:enumeration value="eolian cave"/>  
-	    <xs:enumeration value="rock shelter"/>  <!-- bedrock erosion on insoluble rocks -->
 	    <xs:enumeration value="sea cave"/>      <!-- also known as 'littoral cave' -->
 	    <xs:enumeration value="piping cave"/>   <!-- also known as 'suffosional cave' -->
-	    <xs:enumeration value="weathering cave"/>  <!-- frost wedging -->
+	    <xs:enumeration value="frost weathering cave"/>  <!-- frost wedging -->
 	    <xs:enumeration value="misc. type"/>
 	  </xs:restriction>
 	</xs:simpleType>

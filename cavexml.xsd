@@ -374,17 +374,17 @@
 	<xs:simpleType>
 	  <xs:restriction base="xs:token">
 	    <xs:enumeration value=""/>
-	    <xs:enumeration value="limestone cave"/>
+	    <xs:enumeration value="solution cave"/> 
 	    <xs:enumeration value="artificial cave"/>
 	    <xs:enumeration value="blowhole"/>
-	    <xs:enumeration value="boulder cave"/>
-	    <xs:enumeration value="fault-movement cave"/>
+	    <xs:enumeration value="boulder cave"/>  <!-- also known as 'talus cave' -->
+	    <xs:enumeration value="tectonic cave"/>     
 	    <xs:enumeration value="glacier cave"/>
-	    <xs:enumeration value="lava tunnel"/>
+	    <xs:enumeration value="lava tunnel"/>   <!-- also known as 'lava tube' -->
 	    <xs:enumeration value="lava vent"/>
-	    <xs:enumeration value="mine"/>
+	    <!-- <xs:enumeration value="mine"/> -->
 	    <xs:enumeration value="rock shelter"/>
-	    <xs:enumeration value="sea cave"/>
+	    <xs:enumeration value="sea cave"/>      <!-- also known as 'littoral cave' -->
 	    <xs:enumeration value="piping cave"/>
 	    <xs:enumeration value="weathering cave"/>
 	    <xs:enumeration value="misc. type"/>

@@ -79,9 +79,11 @@ Similar to UISIC field [CA7](http://www.uisic.uis-speleo.org/exchange/atendefn.h
 [List of options:](http://www.uisic.uis-speleo.org/exchange/atencode.html#7) limestone, dune limestone, dolomite, marble, basalt, dolerite, granite, gypsum, ice, lava, magnesite, mudstone, quartzite, sandstone, soil, tuff.  
 
 **\<cave-type\>**  *controlled vocabulary*  
-The cave type(s) according to a pre-defined list of terms.
-UISIC field [CA8](http://www.uisic.uis-speleo.org/exchange/atendefn.html#8).  
- [List of options:](http://www.uisic.uis-speleo.org/exchange/atencode.html#8) limestone cave, artificial cave, blowhole, boulder cave, fault-movement cave, glacier cave, lava tunnel, lava vent, mine, rock shelter, sea cave, piping cave, weathering cave, misc. type. The term "lava tunnel" is equivalent to "lava tube".
+The cave type(s) based on formation process and selected from a pre-defined list of terms.  
+List of options: solution cave, artificial cave, boulder cave, glacier cave, lava tunnel, lava vent, tectonic cave, blowhole, piping cave, rock shelter, sea cave, weathering cave, misc. type.
+"Boulder caves" are also known as "talus caves". "Sea caves" are also known as "littoral caves".
+The term "lava tunnel" is equivalent to "lava tube", and "lava tube" and "lava vent" are subcategories of "lava caves" or "volcanic caves".  
+UISIC field [CA8](http://www.uisic.uis-speleo.org/exchange/atendefn.html#8) lists [similar options:](http://www.uisic.uis-speleo.org/exchange/atencode.html#8).  
 
 **\<contents\>**  *controlled vocabulary*  
 What the cave contains. Similar to UISIC field [CA72](http://www.uisic.uis-speleo.org/exchange/atendefn.html#72).  

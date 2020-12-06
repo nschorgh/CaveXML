@@ -382,11 +382,11 @@
 	    <xs:enumeration value="glacier cave"/>
 	    <xs:enumeration value="lava tunnel"/>   <!-- also known as 'lava tube' -->
 	    <xs:enumeration value="lava vent"/>
-	    <!-- <xs:enumeration value="mine"/> -->
-	    <xs:enumeration value="rock shelter"/>
+	    <xs:enumeration value="eolian cave"/>  
+	    <xs:enumeration value="rock shelter"/>  <!-- bedrock erosion on insoluble rocks -->
 	    <xs:enumeration value="sea cave"/>      <!-- also known as 'littoral cave' -->
-	    <xs:enumeration value="piping cave"/>
-	    <xs:enumeration value="weathering cave"/>
+	    <xs:enumeration value="piping cave"/>   <!-- also known as 'suffosional cave' -->
+	    <xs:enumeration value="weathering cave"/>  <!-- frost wedging -->
 	    <xs:enumeration value="misc. type"/>
 	  </xs:restriction>
 	</xs:simpleType>

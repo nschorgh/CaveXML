@@ -80,9 +80,8 @@ Similar to UISIC field [CA7](http://www.uisic.uis-speleo.org/exchange/atendefn.h
 
 **\<cave-type\>**  *controlled vocabulary*  
 The cave type(s) based on formation process and selected from a pre-defined list of terms.  
-List of options: solution cave, artificial cave, boulder cave, glacier cave, lava tunnel, lava vent, tectonic cave, blowhole, piping cave, rock shelter, sea cave, weathering cave, misc. type.
-"Boulder caves" are also known as "talus caves". "Sea caves" are also known as "littoral caves".
-The term "lava tunnel" is equivalent to "lava tube", and "lava tube" and "lava vent" are subcategories of "lava caves" or "volcanic caves".  
+List of options: solution cave, artificial cave, boulder cave, glacier cave, lava tunnel, lava vent, tectonic cave, blowhole, eolian cave, piping cave, rock shelter, sea cave, weathering cave, misc. type.  
+"Boulder caves" are also known as "talus caves". The term "lava tunnel" is equivalent to "lava tube", and "lava tube" and "lava vent" are subcategories of "lava caves" or "volcanic caves". Eolian (wind), piping (suffosion), rock shelter, sea (littoral), and weathering (frost wedging) caves are types of "erosional caves".  
 UISIC field [CA8](http://www.uisic.uis-speleo.org/exchange/atendefn.html#8) lists [similar options:](http://www.uisic.uis-speleo.org/exchange/atencode.html#8).  
 
 **\<contents\>**  *controlled vocabulary*  

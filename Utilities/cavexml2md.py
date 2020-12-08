@@ -18,11 +18,13 @@ f = open("tmp.md","w")
 count = 0
 for item in root.findall('record'):
 
-    if is_this_an_ice_cave(item):
+    ### downselect
+    
+    #if is_this_an_ice_cave(item):
     #if is_this_an_ice_cave(item) and is_this_a_lava_tube(item):
-        pass
-    else:
-        continue
+    #    pass
+    #else:
+    #    continue
 
     #alt = item.findall('altitude') 
     #minmax = parse_AltitudeEntry(alt)
@@ -30,7 +32,20 @@ for item in root.findall('record'):
     #    pass
     #else:
     #    continue
+
+    if not is_this_a_lava_tube(item):
+        continue
+    length = item.find('length')
+    number = 0
+    if length is not None:
+        number = parse_ExtendedUnsignedInteger(length.text)
+    if number is None:
+        continue
+    if number<10000:
+        continue
     
+    ###
+        
     count = count + 1
 
     country = item.findall('country-name')
@@ -67,7 +82,7 @@ for item in root.findall('record'):
     #outstr = merge_elements(alt)
     #if outstr:
     #    f.write(' ' + outstr + 'm')
-        
+
     cavsys = item.find('cave-system') 
     if cavsys is not None:
         if cavsys.text:
@@ -77,6 +92,7 @@ for item in root.findall('record'):
     #outstr = merge_elements(branch)
     #f.write(outstr)
 
+    f.write(' '+str(number)+'m')
         
     f.write(MDNL)
 

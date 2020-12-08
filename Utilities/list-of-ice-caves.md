@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 387 rock-hosted caves with perennial ice was generated from a CaveXML database. - Dec 4, 2020   
+This list of 388 rock-hosted caves with perennial ice was generated from a CaveXML database. - Dec 6, 2020   
 
 Austria **Feuertal-Eishöhle**  *Part of* Schönberg-Höhlensystem  
 Austria - Hochschwab **Beilstein Eishöhle**   
@@ -340,12 +340,12 @@ Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya G4
 Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya **Portalgrotta**  G5  
 Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya **Takrørgrotta**  G22  
 Sweden **Iskristallgrottan**  Ice Crystal Cave  
-Switzerland **Jochloch**   
+Switzerland - Neuchâtel (NE) - Swiss Jura mountains **Monlesi Ice Cave**  Glacière de Monlési NE-137  
 Switzerland - Swiss Jura mountains **Glacière de Saint-George**   
 Switzerland - Swiss Jura mountains **Greux-de-Glace**   
-Switzerland - Swiss Jura mountains **Monlesi Ice Cave**   
-Switzerland - Swiss Jura mountains **St-Livres Ice Cave**   
+Switzerland - Valais (VS) - Jungfraujoch **Jochloch**  VS-150  
 Switzerland - Vanil Noir massif **Diablotins Ice Cave**   
+Switzerland - Vaud (VD) - Swiss Jura mountains **St-Livres Ice Cave**  Glacière de St-Livres VD-257  
 Tajikistan - Pamir Mountains **Putnikov Cave**  Rangkulskaya Cave; Matatash  
 Tajikistan - Zeravshanskij Ridge **Nuriddina Cave**   
 Turkey **Buzluk Cave**  Ice Cave of Harput  
@@ -382,13 +382,14 @@ United States of America - Utah - Central Rocky Mountains **Grandview Ice Cave**
 United States of America - Utah - Central Rocky Mountains **Jim Peck Ice Cave**   
 United States of America - Utah - Central Rocky Mountains; Uinta Mountains **Winter Wonderland Cave**   
 United States of America - Washington; Skamania County - Mt. Adams **Ice Cave**   
-United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system **Hoarfrost Cave**   
+United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system **Hoarfrost Cave**  NSS-633-18  
 United States of America - Wyoming - Northern Rocky Mountains; Teton Mountains **Fossil Mountain Ice Cave**   
-Uzbekistan **Dark Star Cave**   
+Uzbekistan - Baisun region; Hodja-Gur-Gur-Ata **Dark Star Cave**   
+Uzbekistan - Hodja-Gur-Gur-Ata **Morning Star**   
+Uzbekistan - Hodja-Gur-Gur-Ata **Ulug-Bek**  Ulugh Begh  
 Uzbekistan - Kyzyl-Shavar Plateau **Gissarskaya Cave**   
-Uzbekistan **Ledopadnaya**   
-Uzbekistan **Morning Star**   
-Uzbekistan **Ulug-Bek**   
+Uzbekistan - Surxondaryo Province - Baisun region; Hodja-Gur-Gur-Ata **Festival'naya-Ledopadnaya**   
+Uzbekistan - Surxondaryo Province - Baisun region; Hodja-Gur-Gur-Ata **Ledopadnaya**  *Part of* Festival'naya-Ledopadnaya  
 
 
 List of Volcanic Ice Caves
@@ -425,10 +426,12 @@ Ice Caves higher than 3000m a.s.l.
 Tajikistan - Pamir Mountains **Putnikov Cave**  Rangkulskaya Cave; Matatash ~4600m  
 Iran - Northern Zagros Mountains **Dena Ice Cave**  3895m  
 India - Lidder Valley **Amarnath Cave**  Holy Cave 3888m  
+Uzbekistan - Hodja-Gur-Gur-Ata **Ulug-Bek**  Ulugh Begh 3750m  
 Uzbekistan - Kyzyl-Shavar Plateau **Gissarskaya Cave**  3530m  
-Uzbekistan **Dark Star Cave**  ~3500 main entrance  
-Switzerland **Jochloch**  3470m  
+Uzbekistan - Baisun region; Hodja-Gur-Gur-Ata **Dark Star Cave**  ~3500 main entrance  
+Uzbekistan - Surxondaryo Province - Baisun region; Hodja-Gur-Gur-Ata **Ledopadnaya**  3445m *Part of* Festival'naya-Ledopadnaya  
+Switzerland - Valais (VS) - Jungfraujoch **Jochloch**  VS-150 3470m  
 Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide **Cueva de Hielo del Teide**  3400m  
 Canada - Alberta - Jasper National Park **Mount Alberta Cave**  3350m  
 United States of America - Utah - Central Rocky Mountains; Uinta Mountains **Winter Wonderland Cave**  3140m  
-Spain - Pyrenees **Cilindro**  3020–3060m  
+Spain - Pyrenees **Cilindro**  3020–3060m

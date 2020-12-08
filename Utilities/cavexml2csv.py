@@ -133,6 +133,7 @@ for item in root.findall('record'):
     outstr = merge_elements(ref)
     if outstr:
         outstr = outstr.replace("doi:", "https://doi.org/")
+        outstr = outstr.replace("DOI:", "https://doi.org/")
     record.append(outstr)
     
     caveuse = item.findall('cave-use')

@@ -3,6 +3,7 @@
 # This script outputs lon/lat coordinates from CaveXML entries in KML format'
 
 import xml.etree.ElementTree
+import cavexml
 
 # Enter name of XML database here
 tree = xml.etree.ElementTree.parse('../allcaves-database.xml')
@@ -19,22 +20,8 @@ print('<Document> ')
     
 for item in root.findall('record'):
         
-    cavename = []
-    
     # Find a cave name
-    pcn = item.find('principal-cave-name')
-    if pcn is not None:
-        if pcn.text is not None: # not empty
-            cavename = pcn.text.strip() # strips leading and trailing whitespace
-
-    if len(cavename)==0:
-        ocn = item.findall('other-cave-name')
-        for i in range(0,len(ocn)):
-            str = ocn[i].text
-            if str is not None: # not empty
-                cavename = str.strip()
-                break
-
+    cavename = cavexml.get_one_cave_name(item)
 
     # Skip extraterrestrial bodies
     coname = item.find('country-name')

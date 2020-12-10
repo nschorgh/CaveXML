@@ -7623,8 +7623,12 @@
       "state-or-province": "Azores",
       "phys-area-name": "Ilha de Pico (Pico Island)",
       "principal-cave-name": "Algar do Bravo",
-      "length": [],
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=231"
+      "other-cave-name": "Algar do Cabeco Bravo",
+      "altitude": 400,
+      "length": 323,
+      "vertical-extent": 29,
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=231",
+      "reference": "Borges et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x22.pdf"
     },
 
     {
@@ -7675,9 +7679,11 @@
       "state-or-province": "Hawaii",
       "phys-area-name": [],
       "principal-cave-name": "Ambigua Cave",
-      "length": 1609,
+      "length": 1764,
+      "vertical-extent": 293,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=941"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=941",
+      "reference": "Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf"
     },
 
     {
@@ -8303,10 +8309,12 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais",
       "principal-cave-name": "Bandera Crater Tube",
       "length": 28600,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1199"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1199",
+      "reference": "Hatheway and Herring (1970) http://www.lpl.arizona.edu/sites/default/files/sic/collection/journal/152_Hatheway_CommLPL_1970.pdf"
     },
 
     {
@@ -8332,7 +8340,8 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1417",
-      "reference": "Atkinson et al. (1975) doi:10.1007/BF02597832"
+      "reference": "Atkinson et al. (1975) doi:10.1007/BF02597832",
+      "reference": "Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf"
     },
 
     {
@@ -8758,10 +8767,13 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": [],
+      "phys-area-name": "Mauna Loa",
       "principal-cave-name": "Big Red Cave",
       "length": 3606,
+      "vertical-extent": 232,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
+      "comments": "over 100 skeletons of Hawaiian Hoary Bats",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=937"
     },
 
@@ -8863,6 +8875,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Birdnest Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -12782,7 +12795,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Ka'u District",
-      "phys-area-name": "Hawaii Island; Hilini Pali",
+      "phys-area-name": "Hawaii Island; Hilini Pali; Kilauea",
       "principal-cave-name": "Earthquake Cave",
       "length": 338,
       "cave-type": "lava tunnel",
@@ -14376,6 +14389,18 @@
     },
 
     {
+      "country-name": "Portugal",
+      "state-or-province": "Azores",
+      "phys-area-name": "Ilha de Pico (Pico Island)",
+      "principal-cave-name": "Gruta da Capucha",
+      "other-cave-name": "Agostinha",
+      "altitude": 75,
+      "length": 321,
+      "cave-type": "lava tunnel",
+      "reference": "Borges et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x22.pdf"
+    },
+
+    {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
       "phys-area-name": [],
@@ -15165,7 +15190,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Hualalai",
       "principal-cave-name": "Hualalai Ranch Cave",
       "length": 16093,
       "cave-type": "lava tunnel",
@@ -15957,7 +15982,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "John Martin Cave",
       "length": 4158,
       "cave-type": "lava tunnel",
@@ -16361,20 +16386,33 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; North Hilo District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "Kaumana Cave",
       "length": 2198,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "comments": "flow of 1881",
+      "comments": "flow of 1881; may be connected to Emesine Cave",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=781",
       "reference": "Hoch and Howarth (1993) http://hdl.handle.net/10125/1860"
     },
 
     {
       "country-name": "United States of America",
+      "state-or-province": "Hawaii; North Hilo District",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "principal-cave-name": "Emesine Cave",
+      "length": 20744,
+      "vertical-extent": 437,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "comments": "flow of 1881; may be connected to Kaumana cave",
+      "reference": "Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Hualalai",
       "principal-cave-name": "Kaupulehu System",
       "length": 4952,
       "cave-type": "lava tunnel",
@@ -16461,7 +16499,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; Mauai County",
+      "state-or-province": "Hawaii; Maui County",
       "phys-area-name": "Lanai Island",
       "principal-cave-name": "Kealiakapu Cave",
       "length": [],
@@ -17693,9 +17731,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Alaska; Nome County",
-      "phys-area-name": [],
+      "phys-area-name": "Seward Peninsula",
       "principal-cave-name": "Lost Jim Lava Tube",
       "length": 19000,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=237"
     },
@@ -17807,7 +17846,7 @@
       "phys-area-name": "Undara",
       "principal-cave-name": "Lower Secret",
       "cave-id": "ASF-U68",
-      "length": 70,
+      "length": "~70",
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1389",
@@ -21919,6 +21958,7 @@
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
       "principal-cave-name": "Salt Cave",
+      "other-cave-name": "S",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=388"
@@ -22537,7 +22577,7 @@
       "state-or-province": "Hawaii; North Hilo District",
       "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "Skylight Cave",
-      "length": [],
+      "length": "~550",
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=754"
@@ -22836,6 +22876,7 @@
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
       "principal-cave-name": "SSSTSS",
+      "other-cave-name": "SS",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=391"
@@ -23488,7 +23529,8 @@
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
       "principal-cave-name": "Tea Cave",
-      "length": [],
+      "other-cave-name": "T",
+      "length": 79,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=405",
       "reference": "Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf"
@@ -23500,6 +23542,7 @@
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
       "principal-cave-name": "Tea Too",
+      "other-cave-name": "TT",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=406"
@@ -23759,17 +23802,6 @@
     },
 
     {
-      "country-name": "Australia",
-      "state-or-province": "Queensland",
-      "phys-area-name": "McBride Province",
-      "principal-cave-name": "The Wall",
-      "length": 35000,
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1430"
-    },
-
-    {
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
@@ -23785,11 +23817,14 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": [],
+      "phys-area-name": "Mauna Kea",
       "principal-cave-name": "This Cave/That Cave",
+      "other-cave-name": "Kukaiau Cave",
       "length": 1002,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=946"
+      "cave-type": [],
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=946",
+      "reference": "https://caves.org/pub/journal/PDF/V65/v65n1-Kempe_et_al.pdf",
+      "reference": "Werner et al. (2002) NSS News, Dec, p346-353"
     },
 
     {
@@ -24223,7 +24258,9 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
+      "phys-area-name": "Pisgah",
       "principal-cave-name": "Toothsome",
+      "other-cave-name": "TS",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=415"
@@ -24549,9 +24586,11 @@
       "phys-area-name": [],
       "principal-cave-name": "Umi'i Manu System",
       "length": 3887,
+      "vertical-extent": 570,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=936"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=936",
+      "reference": "Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf"
     },
 
     {
@@ -24668,7 +24707,8 @@
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii (Big Island)",
       "principal-cave-name": "Upper Kaupulehu System",
-      "length": 3373,
+      "length": 5547,
+      "vertical-extent": 188,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=938"
     },
@@ -24748,7 +24788,7 @@
       "phys-area-name": "Undara",
       "principal-cave-name": "Upper Secret",
       "cave-id": "ASF-U67",
-      "length": 150,
+      "length": "~150",
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1409",
@@ -26170,7 +26210,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Kau District",
-      "phys-area-name": "Hawaii Island; South Point",
+      "phys-area-name": "Hawaii Island; South Point; Mauna Loa",
       "principal-cave-name": "Kamakalepo Cave System",
       "length": 998,
       "rock-type": "basalt",
@@ -26305,6 +26345,8 @@
     {
       "country-name": "Jordan",
       "principal-cave-name": "Al-Fahda Cave (Lioness Cave)",
+      "latitude": 32.30,
+      "longitude": 37.12,
       "altitude": 792,
       "length": 924,
       "vertical-extent": 7,
@@ -26315,6 +26357,8 @@
     {
       "country-name": "Jordan",
       "principal-cave-name": "Al-Badia Cave",
+      "latitude": 32.12,
+      "longitude": 36.81,
       "altitude": 783,
       "length": 445,
       "vertical-extent": 17,
@@ -26360,6 +26404,18 @@
       "vertical-extent": 11,
       "cave-type": "lava tunnel",
       "reference": "Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "principal-cave-name": "Na One Pit",
+      "other-cave-name": "Pelee's Abyss",
+      "other-cave-name": "Pit 6083",
+      "length": [],
+      "vertical-extent": 263,
+      "cave-type": "lava vent",
+      "reference": "Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf"
     },
 
     {

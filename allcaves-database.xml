@@ -7173,8 +7173,12 @@
       <state-or-province>Azores</state-or-province>
       <phys-area-name>Ilha de Pico (Pico Island)</phys-area-name>
       <principal-cave-name>Algar do Bravo</principal-cave-name>
-      <length/>
+      <other-cave-name>Algar do Cabeco Bravo</other-cave-name>
+      <altitude>400</altitude>
+      <length>323</length>
+      <vertical-extent>29</vertical-extent>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=231</reference>
+      <reference>Borges et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x22.pdf</reference>
    </record>
    <record>
       <country-name>Portugal</country-name>
@@ -7220,9 +7224,11 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Ambigua Cave</principal-cave-name>
-      <length>1609</length>
+      <length>1764</length>
+      <vertical-extent>293</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=941</reference>
+      <reference>Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -7790,10 +7796,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>New Mexico</state-or-province>
       <state-or-province>Cibola County</state-or-province>
+      <phys-area-name>El Malpais</phys-area-name>
       <principal-cave-name>Bandera Crater Tube</principal-cave-name>
       <length>28600</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1199</reference>
+      <reference>Hatheway and Herring (1970) http://www.lpl.arizona.edu/sites/default/files/sic/collection/journal/152_Hatheway_CommLPL_1970.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -7818,6 +7826,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1417</reference>
       <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
+      <reference>Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
@@ -8204,10 +8213,13 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mauna Loa</phys-area-name>
       <principal-cave-name>Big Red Cave</principal-cave-name>
       <length>3606</length>
+      <vertical-extent>232</vertical-extent>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <comments>over 100 skeletons of Hawaiian Hoary Bats</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=937</reference>
    </record>
    <record>
@@ -8300,6 +8312,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Birdnest Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -11854,7 +11867,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Ka'u District</state-or-province>
-      <phys-area-name>Hawaii Island; Hilini Pali</phys-area-name>
+      <phys-area-name>Hawaii Island; Hilini Pali; Kilauea</phys-area-name>
       <principal-cave-name>Earthquake Cave</principal-cave-name>
       <length>338</length>
       <cave-type>lava tunnel</cave-type>
@@ -13306,6 +13319,17 @@
       <reference>Riquelme et al. (2015) doi:10.1093/femsec/fiv141</reference>
    </record>
    <record>
+      <country-name>Portugal</country-name>
+      <state-or-province>Azores</state-or-province>
+      <phys-area-name>Ilha de Pico (Pico Island)</phys-area-name>
+      <principal-cave-name>Gruta da Capucha</principal-cave-name>
+      <other-cave-name>Agostinha</other-cave-name>
+      <altitude>75</altitude>
+      <length>321</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Borges et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x22.pdf</reference>
+   </record>
+   <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
       <phys-area-name/>
@@ -14024,7 +14048,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island)</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Hualalai Ranch Cave</principal-cave-name>
       <length>16093</length>
       <cave-type>lava tunnel</cave-type>
@@ -14742,7 +14766,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Puna District</state-or-province>
-      <phys-area-name>Hawaii Island</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>John Martin Cave</principal-cave-name>
       <length>4158</length>
       <cave-type>lava tunnel</cave-type>
@@ -15109,19 +15133,31 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; North Hilo District</state-or-province>
-      <phys-area-name>Hawaii Island</phys-area-name>
+      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
       <principal-cave-name>Kaumana Cave</principal-cave-name>
       <length>2198</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <comments>flow of 1881</comments>
+      <comments>flow of 1881; may be connected to Emesine Cave</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=781</reference>
       <reference>Hoch and Howarth (1993) http://hdl.handle.net/10125/1860</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
+      <state-or-province>Hawaii; North Hilo District</state-or-province>
+      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <principal-cave-name>Emesine Cave</principal-cave-name>
+      <length>20744</length>
+      <vertical-extent>437</vertical-extent>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <comments>flow of 1881; may be connected to Kaumana cave</comments>
+      <reference>Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island)</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Kaupulehu System</principal-cave-name>
       <length>4952</length>
       <cave-type>lava tunnel</cave-type>
@@ -15200,7 +15236,7 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii; Mauai County</state-or-province>
+      <state-or-province>Hawaii; Maui County</state-or-province>
       <phys-area-name>Lanai Island</phys-area-name>
       <principal-cave-name>Kealiakapu Cave</principal-cave-name>
       <length/>
@@ -16319,9 +16355,10 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Alaska; Nome County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Seward Peninsula</phys-area-name>
       <principal-cave-name>Lost Jim Lava Tube</principal-cave-name>
       <length>19000</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=237</reference>
    </record>
@@ -16423,7 +16460,7 @@
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Lower Secret</principal-cave-name>
       <cave-id>ASF-U68</cave-id>
-      <length>70</length>
+      <length>~70</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1389</reference>
@@ -20160,6 +20197,7 @@
       <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>Salt Cave</principal-cave-name>
+      <other-cave-name>S</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=388</reference>
@@ -20721,7 +20759,7 @@
       <state-or-province>Hawaii; North Hilo District</state-or-province>
       <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
       <principal-cave-name>Skylight Cave</principal-cave-name>
-      <length/>
+      <length>~550</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=754</reference>
@@ -20993,6 +21031,7 @@
       <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>SSSTSS</principal-cave-name>
+      <other-cave-name>SS</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=391</reference>
@@ -21587,7 +21626,8 @@
       <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>Tea Cave</principal-cave-name>
-      <length/>
+      <other-cave-name>T</other-cave-name>
+      <length>79</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=405</reference>
       <reference>Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf</reference>
@@ -21598,6 +21638,7 @@
       <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>Tea Too</principal-cave-name>
+      <other-cave-name>TT</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=406</reference>
@@ -21832,16 +21873,6 @@
       <reference>ASF database</reference>
    </record>
    <record>
-      <country-name>Australia</country-name>
-      <state-or-province>Queensland</state-or-province>
-      <phys-area-name>McBride Province</phys-area-name>
-      <principal-cave-name>The Wall</principal-cave-name>
-      <length>35000</length>
-      <rock-type>basalt</rock-type>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1430</reference>
-   </record>
-   <record>
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
@@ -21856,11 +21887,14 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mauna Kea</phys-area-name>
       <principal-cave-name>This Cave/That Cave</principal-cave-name>
+      <other-cave-name>Kukaiau Cave</other-cave-name>
       <length>1002</length>
-      <cave-type>lava tunnel</cave-type>
+      <cave-type></cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=946</reference>
+      <reference>https://caves.org/pub/journal/PDF/V65/v65n1-Kempe_et_al.pdf</reference>
+      <reference>Werner et al. (2002) NSS News, Dec, p346-353</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -22253,7 +22287,9 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>San Bernardino</state-or-province>
+      <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>Toothsome</principal-cave-name>
+      <other-cave-name>TS</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=415</reference>
@@ -22550,9 +22586,11 @@
       <phys-area-name/>
       <principal-cave-name>Umi'i Manu System</principal-cave-name>
       <length>3887</length>
+      <vertical-extent>570</vertical-extent>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=936</reference>
+      <reference>Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -22658,7 +22696,8 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii (Big Island)</phys-area-name>
       <principal-cave-name>Upper Kaupulehu System</principal-cave-name>
-      <length>3373</length>
+      <length>5547</length>
+      <vertical-extent>188</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=938</reference>
    </record>
@@ -22731,7 +22770,7 @@
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Upper Secret</principal-cave-name>
       <cave-id>ASF-U67</cave-id>
-      <length>150</length>
+      <length>~150</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1409</reference>
@@ -24027,7 +24066,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Kau District</state-or-province>
-      <phys-area-name>Hawaii Island; South Point</phys-area-name>
+      <phys-area-name>Hawaii Island; South Point; Mauna Loa</phys-area-name>
       <principal-cave-name>Kamakalepo Cave System</principal-cave-name>
       <length>998</length>
       <rock-type>basalt</rock-type>
@@ -24149,58 +24188,73 @@
       <reference>Ingham et al. (2004) http://vulcanospeleology.org/sym11/ISV11p7.pdf</reference>
    </record>
    <record>
-     <country-name>Jordan</country-name>
-     <principal-cave-name>Al-Fahda Cave (Lioness Cave)</principal-cave-name>
-     <altitude>792</altitude>
-     <length>924</length>
-     <vertical-extent>7</vertical-extent>
-     <cave-type>lava tunnel</cave-type>
-     <reference>Al-Malabeh et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p10.pdf</reference>
+      <country-name>Jordan</country-name>
+      <principal-cave-name>Al-Fahda Cave (Lioness Cave)</principal-cave-name>
+      <latitude>32.30</latitude>
+      <longitude>37.12</longitude>
+      <altitude>792</altitude>
+      <length>924</length>
+      <vertical-extent>7</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Al-Malabeh et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p10.pdf</reference>
    </record>
    <record>
-     <country-name>Jordan</country-name>
-     <principal-cave-name>Al-Badia Cave</principal-cave-name>
-     <altitude>783</altitude>
-     <length>445</length>
-     <vertical-extent>17</vertical-extent>
-     <cave-type>lava tunnel</cave-type>
-     <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
+      <country-name>Jordan</country-name>
+      <principal-cave-name>Al-Badia Cave</principal-cave-name>
+      <latitude>32.12</latitude>
+      <longitude>36.81</longitude>
+      <altitude>783</altitude>
+      <length>445</length>
+      <vertical-extent>17</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
    </record>
    <record>
-     <country-name>Jordan</country-name>
-     <principal-cave-name>Hashemite University Cave</principal-cave-name>
-     <altitude>787</altitude>
-     <length>231</length>
-     <vertical-extent>10</vertical-extent>
-     <cave-type>lava tunnel</cave-type>
-     <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
+      <country-name>Jordan</country-name>
+      <principal-cave-name>Hashemite University Cave</principal-cave-name>
+      <altitude>787</altitude>
+      <length>231</length>
+      <vertical-extent>10</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
    </record>
    <record>
-     <country-name>Jordan</country-name>
-     <principal-cave-name>Al-Ameed Cave</principal-cave-name>
-     <altitude>777</altitude>
-     <length>208</length>
-     <vertical-extent>4</vertical-extent>
-     <cave-type>lava tunnel</cave-type>
-     <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
+      <country-name>Jordan</country-name>
+      <principal-cave-name>Al-Ameed Cave</principal-cave-name>
+      <altitude>777</altitude>
+      <length>208</length>
+      <vertical-extent>4</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
    </record>
    <record>
-     <country-name>Jordan</country-name>
-     <principal-cave-name>Abu Al-Kursi East</principal-cave-name>
-     <altitude>883</altitude>
-     <length>154</length>
-     <vertical-extent>12</vertical-extent>
-     <cave-type>lava tunnel</cave-type>
-     <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
+      <country-name>Jordan</country-name>
+      <principal-cave-name>Abu Al-Kursi East</principal-cave-name>
+      <altitude>883</altitude>
+      <length>154</length>
+      <vertical-extent>12</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
    </record>
    <record>
-     <country-name>Jordan</country-name>
-     <principal-cave-name>Al-Howa</principal-cave-name>
-     <altitude>939</altitude>
-     <length>97</length>
-     <vertical-extent>11</vertical-extent>
-     <cave-type>lava tunnel</cave-type>
-     <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
+      <country-name>Jordan</country-name>
+      <principal-cave-name>Al-Howa</principal-cave-name>
+      <altitude>939</altitude>
+      <length>97</length>
+      <vertical-extent>11</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Hawaii</state-or-province>
+      <principal-cave-name>Na One Pit</principal-cave-name>
+      <other-cave-name>Pelee's Abyss</other-cave-name>
+      <other-cave-name>Pit 6083</other-cave-name>
+      <length/>
+      <vertical-extent>263</vertical-extent>
+      <cave-type>lava vent</cave-type>
+      <reference>Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf</reference>
    </record>
 
    <record>

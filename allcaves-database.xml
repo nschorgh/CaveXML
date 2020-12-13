@@ -6775,15 +6775,6 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <state-or-province>Shasta County</state-or-province>
-      <principal-cave-name>No. 4</principal-cave-name>
-      <length>28</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=453</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii Island</phys-area-name>
       <principal-cave-name>'D' Road Cave</principal-cave-name>
@@ -6853,15 +6844,6 @@
    </record>
    <record>
       <country-name>Kenya</country-name>
-      <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>19-20-21 Series</principal-cave-name>
-      <length>640</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1449</reference>
-   </record>
-   <record>
-      <country-name>Kenya</country-name>
       <state-or-province>Eastern Province; Machakos District</state-or-province>
       <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>ABC Cave</principal-cave-name>
@@ -6912,7 +6894,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
-      <state-or-province>San Bernardino County</state-or-province>
+      <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>1</principal-cave-name>
       <length/>
@@ -6942,7 +6924,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
-      <state-or-province>San Bernardino County</state-or-province>
+      <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>06 &amp; 07</principal-cave-name>
       <length/>
@@ -6952,7 +6934,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
-      <state-or-province>San Bernardino County</state-or-province>
+      <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>11</principal-cave-name>
       <length/>
@@ -6962,7 +6944,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
-      <state-or-province>San Bernardino County</state-or-province>
+      <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>12</principal-cave-name>
       <length/>
@@ -6972,7 +6954,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
-      <state-or-province>San Bernardino County</state-or-province>
+      <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>13</principal-cave-name>
       <length/>
@@ -6982,7 +6964,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
-      <state-or-province>San Bernardino County</state-or-province>
+      <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>14</principal-cave-name>
       <length/>
@@ -6992,7 +6974,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
-      <state-or-province>San Bernardino County</state-or-province>
+      <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>15</principal-cave-name>
       <length/>
@@ -7002,7 +6984,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
-      <state-or-province>San Bernardino County</state-or-province>
+      <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>17</principal-cave-name>
       <length/>
@@ -7012,7 +6994,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
-      <state-or-province>San Bernardino County</state-or-province>
+      <state-or-province>San Bernardino</state-or-province>
       <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>19</principal-cave-name>
       <length/>
@@ -7151,11 +7133,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Airport Cave</principal-cave-name>
       <other-cave-name>Redmond Cave no. 6</other-cave-name>
       <length>5</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1365</reference>
    </record>
    <record>
@@ -7184,7 +7166,7 @@
    <record>
       <country-name>Portugal</country-name>
       <state-or-province>Azores</state-or-province>
-      <phys-area-name>Ilha do Terceira</phys-area-name>
+      <phys-area-name>Ilha de Terceira</phys-area-name>
       <principal-cave-name>Algar do Carvao</principal-cave-name>
       <altitude>585</altitude>
       <length>90</length>
@@ -7427,7 +7409,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Aokigahara Fuketsu No. 1</principal-cave-name>
       <length>61</length>
       <cave-type>lava tunnel</cave-type>
@@ -7436,7 +7418,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Aokigahara Fuketsu No. 2</principal-cave-name>
       <length>142</length>
       <cave-type>lava tunnel</cave-type>
@@ -7671,7 +7653,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Atsuhara Fuketsu Cave</principal-cave-name>
       <length>89</length>
       <cave-type>lava tunnel</cave-type>
@@ -7812,11 +7794,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Barbed Wire Cave</principal-cave-name>
       <length>30</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1259</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1341</reference>
    </record>
@@ -7846,11 +7828,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Barlow Cave</principal-cave-name>
       <length>243</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1251</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1339</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
@@ -7917,7 +7899,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Mount St. Helens</phys-area-name>
+      <phys-area-name>Modoc Crater</phys-area-name>
       <principal-cave-name>Bat Cave</principal-cave-name>
       <other-cave-name>Half Mile Cave</other-cave-name>
       <altitude>351</altitude>
@@ -7961,8 +7943,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Bat Cave</principal-cave-name>
       <length>518</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1598</reference>
    </record>
@@ -8006,7 +7990,7 @@
    </record>
    <record>
       <country-name>Australia</country-name>
-      <state-or-province>North Queensland</state-or-province>
+      <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Bayliss Cave</principal-cave-name>
       <cave-id>ASF-4U-30</cave-id>
@@ -8086,8 +8070,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Beaver Bay Cave</principal-cave-name>
       <length>194</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1599</reference>
    </record>
@@ -8278,8 +8264,8 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju</state-or-province>
-      <phys-area-name>Cheju Island</phys-area-name>
+      <state-or-province>Jeju</state-or-province>
+      <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Bilemot Gul</principal-cave-name>
       <other-cave-name>Rock Pond Cave</other-cave-name>
       <other-cave-name>Billemot Gul</other-cave-name>
@@ -8442,10 +8428,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Boa Holes Cave</principal-cave-name>
       <length>8</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1337</reference>
    </record>
    <record>
@@ -8498,10 +8484,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Bone Cave</principal-cave-name>
       <length>152</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1336</reference>
    </record>
    <record>
@@ -8658,10 +8644,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Braille Cave</principal-cave-name>
       <length>21</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1327</reference>
    </record>
    <record>
@@ -8740,7 +8726,9 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>San Bernardino</state-or-province>
+      <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>Breakin</principal-cave-name>
+      <other-cave-name>BI</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=289</reference>
@@ -8791,6 +8779,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>San Bernardino</state-or-province>
+      <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>BT</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -9214,6 +9203,24 @@
       <country-name>Kenya</country-name>
       <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
       <phys-area-name>Mt. Suswa</phys-area-name>
+      <principal-cave-name>Cave 3</principal-cave-name>
+      <length/>
+      <cave-type>lava tunnel</cave-type>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1440</reference>
+   </record>
+   <record>
+      <country-name>Kenya</country-name>
+      <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
+      <phys-area-name>Mt. Suswa</phys-area-name>
+      <principal-cave-name>Cave 6</principal-cave-name>
+      <length/>
+      <cave-type>lava tunnel</cave-type>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1439</reference>
+   </record>
+   <record>
+      <country-name>Kenya</country-name>
+      <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
+      <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>Cave 12</principal-cave-name>
       <length>650</length>
       <cave-type>lava tunnel</cave-type>
@@ -9233,7 +9240,7 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>Cave 18</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -9243,7 +9250,7 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>Cave 20</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -9252,7 +9259,7 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>Cave 21</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -9261,29 +9268,11 @@
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Cave 3</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1440</reference>
-   </record>
-   <record>
-      <country-name>Kenya</country-name>
-      <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>Cave 34</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1444</reference>
-   </record>
-   <record>
-      <country-name>Kenya</country-name>
-      <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Cave 6</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1439</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -9325,11 +9314,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Cave Next Door</principal-cave-name>
       <other-cave-name>Redmond Cave no. 3</other-cave-name>
       <length>213</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1357</reference>
    </record>
    <record>
@@ -9436,6 +9425,7 @@
       <phys-area-name/>
       <principal-cave-name>Cemetery Cave</principal-cave-name>
       <length>375</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1744</reference>
    </record>
@@ -9479,6 +9469,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>San Bernardino</state-or-province>
+      <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>CF</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -9586,7 +9577,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Chikushu Ana Cave</principal-cave-name>
       <length>72</length>
       <cave-type>lava tunnel</cave-type>
@@ -9760,6 +9751,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Cliff Cave</principal-cave-name>
       <length>15</length>
       <cave-type>lava tunnel</cave-type>
@@ -9901,8 +9893,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Cougar Cave</principal-cave-name>
       <length>45</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1601</reference>
    </record>
@@ -9979,10 +9973,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Crab Walk Cave</principal-cave-name>
       <length>24</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1362</reference>
    </record>
    <record>
@@ -10201,7 +10195,7 @@
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>El Hierro Island</phys-area-name>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva de Cuaclo de las Mo</principal-cave-name>
       <length>80</length>
       <cave-type>lava tunnel</cave-type>
@@ -10274,7 +10268,7 @@
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>El Hierro Island</phys-area-name>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva de Escondido</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -10283,8 +10277,8 @@
    </record>
    <record>
       <country-name>Spain</country-name>
-      <state-or-province>Canary Islands; Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Tenerife</phys-area-name>
+      <state-or-province>Santa Cruz de Tenerife</state-or-province>
+      <phys-area-name>Canary Islands; Tenerife</phys-area-name>
       <principal-cave-name>Cueva de Felipe Reventon</principal-cave-name>
       <latitude>28.4</latitude>
       <longitude>-16.7</longitude>
@@ -10314,7 +10308,7 @@
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>El Hierro Island</phys-area-name>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva de Hoyo</principal-cave-name>
       <length>247</length>
       <cave-type>lava tunnel</cave-type>
@@ -10528,7 +10522,7 @@
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>El Hierro Island</phys-area-name>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva de las Jordis</principal-cave-name>
       <length>46</length>
       <cave-type>lava tunnel</cave-type>
@@ -10592,7 +10586,7 @@
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>El Hierro Island</phys-area-name>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva de los Pandelas</principal-cave-name>
       <length>180</length>
       <cave-type>lava tunnel</cave-type>
@@ -10626,9 +10620,9 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1502</reference>
    </record>
    <record>
-      <country-name>Portugal</country-name>
-      <state-or-province>Canary Islands</state-or-province>
-      <phys-area-name>Lanzarote</phys-area-name>
+      <country-name>Spain</country-name>
+      <state-or-province>La Palmas</state-or-province>
+      <phys-area-name>Canary Islands; Lanzarote</phys-area-name>
       <principal-cave-name>Cueva de los Verdes</principal-cave-name>
       <other-cave-name>Corona Lava Tube</other-cave-name>
       <length>6100</length>
@@ -10641,6 +10635,7 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=663</reference>
       <reference>Wilkens et al. (2009) doi:10.1007/s12526-009-0019-2</reference>
       <reference>Garcia et al. (2009) doi:10.1007/s12526-009-0023-6</reference>
+      <reference>https://en.wikipedia.org/wiki/Cueva_de_los_Verdes</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -10673,7 +10668,7 @@
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>El Hierro Island</phys-area-name>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva de Maunicico</principal-cave-name>
       <length>193</length>
       <cave-type>lava tunnel</cave-type>
@@ -10728,7 +10723,7 @@
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>El Hierro Island</phys-area-name>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva de San Andres</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -10746,9 +10741,8 @@
    </record>
    <record>
       <country-name>Spain</country-name>
-      <state-or-province>Canary Islands</state-or-province>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Tenerife</phys-area-name>
+      <phys-area-name>Canary Islands; Tenerife</phys-area-name>
       <principal-cave-name>Cueva de San Marcos</principal-cave-name>
       <length>2130</length>
       <cave-type>lava tunnel</cave-type>
@@ -10777,7 +10771,7 @@
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>El Hierro Island</phys-area-name>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva del Acontilado</principal-cave-name>
       <length>401</length>
       <cave-type>lava tunnel</cave-type>
@@ -10851,7 +10845,7 @@
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>El Hierro Island</phys-area-name>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva del Conchero</principal-cave-name>
       <length>100</length>
       <cave-type>lava tunnel</cave-type>
@@ -10898,7 +10892,7 @@
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>El Hierro Island</phys-area-name>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva del Judith</principal-cave-name>
       <length>133</length>
       <cave-type>lava tunnel</cave-type>
@@ -11057,7 +11051,7 @@
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>El Hierro Island</phys-area-name>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva Grande de Orchilla</principal-cave-name>
       <length>100</length>
       <cave-type>lava tunnel</cave-type>
@@ -11327,7 +11321,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Dainichi Ana Cave</principal-cave-name>
       <length>908</length>
       <cave-type>lava tunnel</cave-type>
@@ -11433,11 +11427,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Davenport Cave</principal-cave-name>
       <length>46</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1324</reference>
    </record>
    <record>
@@ -11676,10 +11670,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Distillery Cave</principal-cave-name>
       <length>221</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1270</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1343</reference>
    </record>
@@ -11725,9 +11719,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Dogwood Cave</principal-cave-name>
       <cave-id>NSS-631-012</cave-id>
       <length>186</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1602</reference>
    </record>
@@ -11756,11 +11752,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Doppleganger Cave</principal-cave-name>
       <length>30</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1361</reference>
    </record>
    <record>
@@ -12347,7 +12343,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>New Mexico</state-or-province>
       <state-or-province>Cibola County</state-or-province>
-      <phys-area-name>El Malpais; Bit Tubes area</phys-area-name>
+      <phys-area-name>El Malpais; Big Tubes area</phys-area-name>
       <principal-cave-name>Four Windows Cave</principal-cave-name>
       <length>368</length>
       <cave-type>lava tunnel</cave-type>
@@ -12419,7 +12415,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Fudo Ana Cave</principal-cave-name>
       <length>125</length>
       <cave-type>lava tunnel</cave-type>
@@ -12616,11 +12612,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Garbage Cave #1</principal-cave-name>
       <length>104</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1261</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
@@ -12628,11 +12624,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Garbage Cave #2</principal-cave-name>
       <length>51</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1262</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1323</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
@@ -12725,7 +12721,7 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju</state-or-province>
+      <state-or-province>Jeju</state-or-province>
       <phys-area-name>Mt. Halla</phys-area-name>
       <principal-cave-name>Gim Nyeong</principal-cave-name>
       <other-cave-name>Gimyong Cave</other-cave-name>
@@ -12739,7 +12735,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Ginga Fuketsu Cave</principal-cave-name>
       <length>186</length>
       <cave-type>lava tunnel</cave-type>
@@ -12988,11 +12984,13 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Victoria</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Eccles</phys-area-name>
       <principal-cave-name>Gothic Cave</principal-cave-name>
+      <cave-id>ASF-3H-10</cave-id>
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1570</reference>
+      <reference>ASF database</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -13311,7 +13309,7 @@
    <record>
       <country-name>Portugal</country-name>
       <state-or-province>Azores</state-or-province>
-      <phys-area-name>Ilha do Pico</phys-area-name>
+      <phys-area-name>Ilha de Pico</phys-area-name>
       <principal-cave-name>Gruta das Torres (Grotto of Towers)</principal-cave-name>
       <latitude>38.4943</latitude>
       <longitude>-28.5024</longitude>
@@ -13399,6 +13397,9 @@
       <state-or-province>Java</state-or-province>
       <phys-area-name>Java</phys-area-name>
       <principal-cave-name>Gua Lawa</principal-cave-name>
+      <latitude>-7.2314</latitude>
+      <longitude>109.3175</longitude>
+      <altitude>936</altitude>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1107</reference>
@@ -13433,7 +13434,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Gyoja Ana Cave</principal-cave-name>
       <length>94</length>
       <cave-type>lava tunnel</cave-type>
@@ -13542,7 +13543,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Hachiman Ana Cave</principal-cave-name>
       <length>187</length>
       <cave-type>lava tunnel</cave-type>
@@ -13631,7 +13632,7 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju-do</state-or-province>
+      <state-or-province>Jeju</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Handeul-kunyeong</principal-cave-name>
       <length>1400</length>
@@ -13691,7 +13692,7 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Victoria</state-or-province>
-      <phys-area-name>Western Volcanic Plains</phys-area-name>
+      <phys-area-name>Western Volcanic Plains; Mt. Porndon</phys-area-name>
       <principal-cave-name>Porndon Arch</principal-cave-name>
       <cave-id>ASF-3H-6</cave-id>
       <length>104</length>
@@ -13699,6 +13700,7 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>ASF database</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1593</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -13779,6 +13781,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Helium Cave</principal-cave-name>
       <cave-id>NSS-631-17A,B</cave-id>
       <length>244</length>
@@ -13862,11 +13865,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Hidden Cave</principal-cave-name>
       <length>153</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1268</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1351</reference>
    </record>
@@ -13902,7 +13905,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Hito Ana Cave</principal-cave-name>
       <length>83</length>
       <cave-type>lava tunnel</cave-type>
@@ -13995,6 +13998,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Holy Jump Lava Cave</principal-cave-name>
+      <cave-id>ASF-4BM-1</cave-id>
       <altitude>880</altitude>
       <length>60</length>
       <cave-type>lava tunnel</cave-type>
@@ -14044,11 +14048,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Horse Cave</principal-cave-name>
       <length>401</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1265</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1266</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
@@ -14158,9 +14162,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Hunter's Cave</principal-cave-name>
       <altitude>329</altitude>
       <length>168</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1604</reference>
    </record>
@@ -14175,7 +14181,7 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju</state-or-province>
+      <state-or-province>Jeju</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Hwang Gum Gul</principal-cave-name>
       <length/>
@@ -14184,7 +14190,7 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju</state-or-province>
+      <state-or-province>Jeju</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Hyopje Cave</principal-cave-name>
       <length>100</length>
@@ -14443,12 +14449,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Insignificant Redmond Cave</principal-cave-name>
       <other-cave-name>Redmond Cave no. 5</other-cave-name>
       <length>6</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1356</reference>
    </record>
    <record>
@@ -14481,7 +14487,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 1</principal-cave-name>
       <length>192</length>
       <cave-type>lava tunnel</cave-type>
@@ -14490,7 +14496,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 10</principal-cave-name>
       <length>85</length>
       <cave-type>lava tunnel</cave-type>
@@ -14499,7 +14505,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 12</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -14508,7 +14514,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 2</principal-cave-name>
       <length>130</length>
       <cave-type>lava tunnel</cave-type>
@@ -14517,7 +14523,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 3</principal-cave-name>
       <length>50</length>
       <cave-type>lava tunnel</cave-type>
@@ -14526,7 +14532,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 4</principal-cave-name>
       <length>120</length>
       <cave-type>lava tunnel</cave-type>
@@ -14535,7 +14541,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 5</principal-cave-name>
       <length>701</length>
       <cave-type>lava tunnel</cave-type>
@@ -14544,7 +14550,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 6</principal-cave-name>
       <length>250</length>
       <cave-type>lava tunnel</cave-type>
@@ -14553,7 +14559,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 7</principal-cave-name>
       <length>94</length>
       <cave-type>lava tunnel</cave-type>
@@ -14562,7 +14568,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 8</principal-cave-name>
       <length>76</length>
       <cave-type>lava tunnel</cave-type>
@@ -14571,7 +14577,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 9</principal-cave-name>
       <length>49</length>
       <cave-type>lava tunnel</cave-type>
@@ -14654,7 +14660,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Iwanami Fuketsu Cave</principal-cave-name>
       <length>220</length>
       <cave-type>lava tunnel</cave-type>
@@ -15087,7 +15093,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Kanumizu Fuketsu Cave</principal-cave-name>
       <length>433</length>
       <cave-type>lava tunnel</cave-type>
@@ -15160,7 +15166,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Kauho Ana Cave</principal-cave-name>
       <length>40</length>
       <cave-type>lava tunnel</cave-type>
@@ -15416,7 +15422,7 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju-do</state-or-province>
+      <state-or-province>Jeju</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Kimnyong Cave</principal-cave-name>
       <length>500</length>
@@ -15452,18 +15458,18 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Knott's Road Cave</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1291</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Kauai</phys-area-name>
-      <principal-cave-name>Knudsen Cave#1</principal-cave-name>
+      <principal-cave-name>Knudsen Cave #1</principal-cave-name>
       <length>100</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=885</reference>
@@ -15472,7 +15478,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Kauai</phys-area-name>
-      <principal-cave-name>Knudsen Cave#2</principal-cave-name>
+      <principal-cave-name>Knudsen Cave #2</principal-cave-name>
       <length>50</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=886</reference>
@@ -15550,65 +15556,79 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
-      <principal-cave-name>Koloa-kai Caves 76 A</principal-cave-name>
+      <phys-area-name>Kauai; Koloa</phys-area-name>
+      <principal-cave-name>Koloa-kai Cave 76A</principal-cave-name>
+      <other-cave-name>Shelter Caves (Koloa 76a)</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=952</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=962</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
-      <principal-cave-name>Koloa-kai Caves 76 B</principal-cave-name>
+      <phys-area-name>Kauai; Koloa</phys-area-name>
+      <principal-cave-name>Koloa-kai Cave 76B</principal-cave-name>
+      <other-cave-name>Shelter Caves (Koloa 76b)</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=963</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=972</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
-      <principal-cave-name>Koloa-kai Caves 76 C</principal-cave-name>
+      <phys-area-name>Kauai; Koloa</phys-area-name>
+      <principal-cave-name>Koloa-kai Cave 76C</principal-cave-name>
+      <other-cave-name>Shelter Caves (Koloa 76c)</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=964</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=974</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
-      <principal-cave-name>Koloa-kai Caves 76 D</principal-cave-name>
+      <phys-area-name>Kauai; Koloa</phys-area-name>
+      <principal-cave-name>Koloa-kai Cave 76D</principal-cave-name>
+      <other-cave-name>Shelter Caves (Koloa 76d)</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=965</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=975</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
-      <principal-cave-name>Koloa-kai Caves 76 E</principal-cave-name>
+      <phys-area-name>Kauai; Koloa</phys-area-name>
+      <principal-cave-name>Koloa-kai Cave 76E</principal-cave-name>
+      <other-cave-name>Shelter Caves (Koloa 76e)</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=966</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=976</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
-      <principal-cave-name>Koloa-kai Caves 76 F</principal-cave-name>
+      <phys-area-name>Kauai; Koloa</phys-area-name>
+      <principal-cave-name>Koloa-kai Cave 76F</principal-cave-name>
+      <other-cave-name>Shelter Caves (Koloa 76f)</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=967</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=977</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
-      <principal-cave-name>Koloa-kai Caves 76 G</principal-cave-name>
+      <phys-area-name>Kauai; Koloa</phys-area-name>
+      <principal-cave-name>Koloa-kai Cave 76G</principal-cave-name>
+      <other-cave-name>Shelter Caves (Koloa 76g)</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=968</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=978</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -16157,10 +16177,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Lewis Farm 2 Cave</principal-cave-name>
       <length>26</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1367</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
@@ -16168,10 +16188,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Lewis Farm Caves</principal-cave-name>
       <length>207</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1269</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
@@ -16214,12 +16234,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Lions Cave</principal-cave-name>
       <other-cave-name>Redmond Cave no. 4</other-cave-name>
       <length>213</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1354</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1355</reference>
    </record>
@@ -16310,6 +16330,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Long First Step Cave</principal-cave-name>
       <length>15</length>
       <cave-type>lava tunnel</cave-type>
@@ -16394,6 +16415,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Lost Cave</principal-cave-name>
       <length>15</length>
       <cave-type>lava tunnel</cave-type>
@@ -16600,7 +16622,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Mado Ana Cave</principal-cave-name>
       <length>510</length>
       <cave-type>lava tunnel</cave-type>
@@ -16698,8 +16720,8 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju-do; Jeju Island</state-or-province>
-      <phys-area-name>Mt. Hanra</phys-area-name>
+      <state-or-province>Jeju</state-or-province>
+      <phys-area-name>Jeju Island; Mt. Hanra</phys-area-name>
       <principal-cave-name>Man Jang Gul</principal-cave-name>
       <other-cave-name>Manjanggul</other-cave-name>
       <other-cave-name>Red Dragon Cave</other-cave-name>
@@ -16932,10 +16954,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Mausoleum Cave</principal-cave-name>
       <length>61</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1332</reference>
    </record>
    <record>
@@ -17069,8 +17091,8 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju Island</state-or-province>
-      <phys-area-name/>
+      <state-or-province>Jeju</state-or-province>
+      <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Michon Gul</principal-cave-name>
       <length>1714</length>
       <cave-type>lava tunnel</cave-type>
@@ -17169,7 +17191,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Mishima Fuketsu Cave</principal-cave-name>
       <length>299</length>
       <cave-type>lava tunnel</cave-type>
@@ -17268,11 +17290,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Moonshiner's Cave</principal-cave-name>
       <length>82</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1330</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1279</reference>
    </record>
@@ -17419,7 +17441,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Motosu Hyoketsu Cave</principal-cave-name>
       <length>68</length>
       <cave-type>lava tunnel</cave-type>
@@ -17487,6 +17509,7 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>ASF database</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1574</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -17537,11 +17560,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Munchkin</principal-cave-name>
       <length>20</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1334</reference>
    </record>
    <record>
@@ -17560,11 +17583,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Mushroom Cave</principal-cave-name>
       <length>30</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1331</reference>
    </record>
    <record>
@@ -17591,17 +17614,17 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Musty Cave</principal-cave-name>
       <length>14</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1333</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Muzin Ana Cave</principal-cave-name>
       <length>118</length>
       <cave-type>lava tunnel</cave-type>
@@ -17657,7 +17680,7 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju</state-or-province>
+      <state-or-province>Jeju</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Namganduk Gul</principal-cave-name>
       <length/>
@@ -17666,7 +17689,7 @@
    </record>
    <record>
       <country-name>Japan</country-name>
-      <state-or-province>Yamanashi Prefecture</state-or-province>
+      <state-or-province>Yamanashi</state-or-province>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Narusawa Hyoketsu Cave</principal-cave-name>
       <other-cave-name>Narusawa Ice Cave</other-cave-name>
@@ -17850,18 +17873,18 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>No Account Redmond Cave</principal-cave-name>
       <other-cave-name>Redmond Cave no. 2</other-cave-name>
       <length>15</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1359</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
-      <state-or-province>Nagasaki; Fukue Island</state-or-province>
-      <phys-area-name/>
+      <state-or-province>Nagasaki</state-or-province>
+      <phys-area-name>Fukue Island</phys-area-name>
       <principal-cave-name>No-ana</principal-cave-name>
       <altitude>23</altitude>
       <length>413</length>
@@ -18092,7 +18115,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Ohmuro Fuketsu No. 1 Cave</principal-cave-name>
       <length>95</length>
       <cave-type>lava tunnel</cave-type>
@@ -18101,7 +18124,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Ohmuro Fuketsu No. 2 Cave</principal-cave-name>
       <length>40</length>
       <cave-type>lava tunnel</cave-type>
@@ -18110,7 +18133,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Ohno Fuketsu No. 1 Cave</principal-cave-name>
       <altitude>480</altitude>
       <length/>
@@ -18120,7 +18143,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Ohno Fuketsu No. 2 Cave</principal-cave-name>
       <altitude>480</altitude>
       <length>375</length>
@@ -18215,8 +18238,9 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Opera House</principal-cave-name>
+      <cave-id>ASF-4U-14</cave-id>
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1423</reference>
@@ -18701,8 +18725,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Pillars of Hercules Cave</principal-cave-name>
       <length>509</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1608</reference>
    </record>
@@ -18854,16 +18880,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=244</reference>
    </record>
    <record>
-      <country-name>Australia</country-name>
-      <state-or-province>Victoria</state-or-province>
-      <phys-area-name>Mt. Porndon</phys-area-name>
-      <principal-cave-name>Porndon Arch Cave</principal-cave-name>
-      <other-cave-name>Arch Cave</other-cave-name>
-      <length>100</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1593</reference>
-   </record>
-   <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
@@ -18966,22 +18982,22 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Pronghorn 1 and 2 Caves</principal-cave-name>
       <length>461</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1352</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Pronghorn 3 Cave</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1353</reference>
    </record>
    <record>
@@ -19322,11 +19338,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Rabbit Cave</principal-cave-name>
       <length>8</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1349</reference>
    </record>
    <record>
@@ -19426,12 +19442,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Ratfalls Cave</principal-cave-name>
       <other-cave-name>Ratt Falls Cave</other-cave-name>
       <length>30</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1260</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1340</reference>
    </record>
@@ -19500,6 +19516,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>San Bernardino</state-or-province>
+      <phys-area-name>Pisgah</phys-area-name>
       <principal-cave-name>RB</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -19621,23 +19638,23 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Redmond Cave</principal-cave-name>
       <other-cave-name>Redmond Cave no. 1</other-cave-name>
       <length>183</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1358</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Redmond Railroad Cave</principal-cave-name>
       <length>180</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1360</reference>
    </record>
    <record>
@@ -19837,11 +19854,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Roadside Cave</principal-cave-name>
       <length>153</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1267</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1347</reference>
    </record>
@@ -19990,7 +20007,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Rugu Cave</principal-cave-name>
       <length>96</length>
       <cave-type>lava tunnel</cave-type>
@@ -20074,7 +20091,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Saiko Fuketsu No. 1 Cave</principal-cave-name>
       <length>72</length>
       <cave-type>lava tunnel</cave-type>
@@ -20083,7 +20100,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Saiko Fuketsu No. 2 Cave</principal-cave-name>
       <length>332</length>
       <cave-type>lava tunnel</cave-type>
@@ -20092,7 +20109,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Saiko Fuketsu No. 3 Cave</principal-cave-name>
       <length>41</length>
       <cave-type>lava tunnel</cave-type>
@@ -20101,7 +20118,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Saiko Fuketsu No. 4 Cave</principal-cave-name>
       <length>114</length>
       <cave-type>lava tunnel</cave-type>
@@ -20110,7 +20127,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Saiko Fuketsu No. 5 Cave</principal-cave-name>
       <length>142</length>
       <cave-type>lava tunnel</cave-type>
@@ -20119,7 +20136,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Saiko Fuketsu No. 6 Cave</principal-cave-name>
       <length>32</length>
       <cave-type>lava tunnel</cave-type>
@@ -20128,7 +20145,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Saiko Fuketsu No. 7 Cave</principal-cave-name>
       <length>42</length>
       <cave-type>lava tunnel</cave-type>
@@ -20290,20 +20307,12 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Sarah Cave</principal-cave-name>
+      <cave-id>ASF-4U-6</cave-id>
       <length>11</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1427</reference>
-   </record>
-   <record>
-      <country-name>Australia</country-name>
-      <state-or-province>Victoria</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Sausage Cave</principal-cave-name>
-      <length>140</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1574</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -20359,7 +20368,7 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju-do</state-or-province>
+      <state-or-province>Jeju</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Seong-gul</principal-cave-name>
       <length>900</length>
@@ -20447,7 +20456,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shin Ana Cave</principal-cave-name>
       <length>150</length>
       <cave-type>lava tunnel</cave-type>
@@ -20523,7 +20532,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoji Fuketsu No. 1</principal-cave-name>
       <length>40</length>
       <cave-type>lava tunnel</cave-type>
@@ -20532,7 +20541,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoji Fuketsu No. 2</principal-cave-name>
       <length>50</length>
       <cave-type>lava tunnel</cave-type>
@@ -20541,7 +20550,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoji Fuketsu No. 3</principal-cave-name>
       <length>40</length>
       <cave-type>lava tunnel</cave-type>
@@ -20550,7 +20559,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoji Fuketsu No. 4</principal-cave-name>
       <length>103</length>
       <cave-type>lava tunnel</cave-type>
@@ -20559,7 +20568,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shojioana-Gatsudo Cave</principal-cave-name>
       <length>247</length>
       <cave-type>lava tunnel</cave-type>
@@ -20568,7 +20577,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shojioana-Nichido Cave</principal-cave-name>
       <length>161</length>
       <cave-type>lava tunnel</cave-type>
@@ -20577,7 +20586,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shonin Ana Cave</principal-cave-name>
       <length>77</length>
       <cave-type>lava tunnel</cave-type>
@@ -20608,8 +20617,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Shortstop Cave</principal-cave-name>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1609</reference>
    </record>
@@ -20696,11 +20707,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Silent Night Cave</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1366</reference>
    </record>
    <record>
@@ -20899,7 +20910,7 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju province</state-or-province>
+      <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Sochon Kul</principal-cave-name>
       <other-cave-name>Sochon Gul</other-cave-name>
@@ -21064,7 +21075,7 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju</state-or-province>
+      <state-or-province>Jeju</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Ssang Ryong Gul</principal-cave-name>
       <length/>
@@ -21098,11 +21109,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Stairstep</principal-cave-name>
       <length>183</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1335</reference>
    </record>
    <record>
@@ -21118,6 +21129,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Stan's Cave</principal-cave-name>
       <length>15</length>
       <cave-type>lava tunnel</cave-type>
@@ -21216,11 +21228,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Stephens Road Cave</principal-cave-name>
       <length>35</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1329</reference>
    </record>
    <record>
@@ -21236,11 +21248,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Stepladder Cave</principal-cave-name>
       <length>91</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1264</reference>
    </record>
    <record>
@@ -21258,11 +21270,10 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Stevens Road Cave</principal-cave-name>
       <length>31</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1293</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
@@ -21315,11 +21326,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Stove Cave</principal-cave-name>
       <length>79</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1263</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1342</reference>
    </record>
@@ -21327,6 +21338,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>String Cave</principal-cave-name>
       <length>18</length>
       <cave-type>lava tunnel</cave-type>
@@ -21487,7 +21499,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Susono Fuketsu No. 2 Cave</principal-cave-name>
+      <principal-cave-name>Susono Fuketsu Cave No. 2</principal-cave-name>
       <altitude>125</altitude>
       <length>121</length>
       <cave-type>lava tunnel</cave-type>
@@ -21946,11 +21958,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Three Pines Cave</principal-cave-name>
       <length>30</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1325</reference>
    </record>
    <record>
@@ -22560,6 +22572,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Cowlitz County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Twenty-Four Cave</principal-cave-name>
       <length>15</length>
       <cave-type>lava tunnel</cave-type>
@@ -22616,7 +22629,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Uba Ana Cave</principal-cave-name>
       <length>123</length>
       <cave-type>lava tunnel</cave-type>
@@ -22848,7 +22861,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Uzura Ana</principal-cave-name>
       <length>820</length>
       <cave-type>lava tunnel</cave-type>
@@ -22959,11 +22972,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Vulture Cave</principal-cave-name>
       <length>18</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1328</reference>
    </record>
    <record>
@@ -22978,8 +22991,8 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju Island</state-or-province>
-      <phys-area-name/>
+      <state-or-province>Jeju</state-or-province>
+      <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Wa Hol Gul</principal-cave-name>
       <other-cave-name>Wahul Kul</other-cave-name>
       <altitude>200</altitude>
@@ -22990,7 +23003,7 @@
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>
-      <state-or-province>Cheju-do</state-or-province>
+      <state-or-province>Jeju</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Waful Kul</principal-cave-name>
       <length>1316</length>
@@ -23241,69 +23254,6 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai; Koloa</phys-area-name>
-      <principal-cave-name>Shelter Caves (Koloa 76a)</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=952</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai; Koloa</phys-area-name>
-      <principal-cave-name>Shelter Caves (Koloa 76b)</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=972</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai; Koloa</phys-area-name>
-      <principal-cave-name>Shelter Caves (Koloa 76c)</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=974</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai; Koloa</phys-area-name>
-      <principal-cave-name>Shelter Caves (Koloa 76d)</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=975</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai; Koloa</phys-area-name>
-      <principal-cave-name>Shelter Caves (Koloa 76e)</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=976</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai; Koloa</phys-area-name>
-      <principal-cave-name>Shelter Caves (Koloa 76f)</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=977</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai; Koloa</phys-area-name>
-      <principal-cave-name>Shelter Caves (Koloa 76g)</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=978</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Kauai</phys-area-name>
       <principal-cave-name>Waliweli 85A</principal-cave-name>
       <other-cave-name>Shelter Cave 85A</other-cave-name>
@@ -23476,11 +23426,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Williams Cave</principal-cave-name>
       <length>38</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1326</reference>
    </record>
    <record>
@@ -23496,10 +23446,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Wilson Cave</principal-cave-name>
       <length>73</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1294</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
@@ -23618,11 +23568,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>X Cave</principal-cave-name>
       <length>914</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1299</reference>
    </record>
    <record>
@@ -23660,7 +23610,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Yaskiki Ana Cave</principal-cave-name>
       <length>239</length>
       <cave-type>lava tunnel</cave-type>
@@ -23679,11 +23629,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Young's Cave</principal-cave-name>
       <length>1097</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Horse Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1233</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1346</reference>
    </record>
@@ -23873,7 +23823,6 @@
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii Island</phys-area-name>
-      <phys-area-name>Pu'u Wa'awa'a Forest Bird Sanctuary</phys-area-name>
       <principal-cave-name>Delissea Cave System</principal-cave-name>
       <length> >64700</length>
       <vertical-extent> >1500</vertical-extent>

@@ -15,39 +15,9 @@ MDNL = '  \n'  # Markdown newline
 f = open("tmp.md","w")
 
 
-count = 0
-for item in root.findall('record'):
-
-    ### downselect
+def output_one_line(item):
+    # output selected entries only, one line per record
     
-    #if is_this_an_ice_cave(item):
-    #if is_this_an_ice_cave(item) and is_this_a_lava_tube(item):
-    #    pass
-    #else:
-    #    continue
-
-    #alt = item.findall('altitude') 
-    #minmax = parse_AltitudeEntry(alt)
-    #if minmax[1]>=3000:
-    #    pass
-    #else:
-    #    continue
-
-    if not is_this_a_lava_tube(item):
-        continue
-    length = item.find('length')
-    number = 0
-    if length is not None:
-        number = parse_ExtendedUnsignedInteger(length.text)
-    if number is None:
-        continue
-    if number<10000:
-        continue
-    
-    ###
-        
-    count = count + 1
-
     country = item.findall('country-name')
     outstr = merge_elements(country)
     if outstr:
@@ -75,26 +45,57 @@ for item in root.findall('record'):
 
     cid = item.findall('cave-id')
     outstr = merge_elements(cid)
-    if outstr:
+    if outstr is not None:
         f.write(' ' + outstr)
 
-    #alt = item.findall('altitude')
-    #outstr = merge_elements(alt)
-    #if outstr:
-    #    f.write(' ' + outstr + 'm')
+    alt = item.findall('altitude')
+    outstr = merge_elements(alt)
+    if outstr:
+        f.write(' ' + outstr + 'm')
 
     cavsys = item.find('cave-system') 
     if cavsys is not None:
         if cavsys.text:
             f.write(' *Part of* '+cavsys.text)
-    
-    #branch = item.findall('branch-name')
-    #outstr = merge_elements(branch)
-    #f.write(outstr)
 
-    f.write(' '+str(number)+'m')
+    length = item.find('length')
+    number = 0
+    if length is not None:
+        number = parse_ExtendedUnsignedInteger(length.text)
+    #if number is not None:
+    #    f.write(' '+str(number)+'m')
         
     f.write(MDNL)
+
+
+    
+# main loop
+count = 0
+for item in root.findall('record'):
+
+    ### downselect
+    
+    if is_this_an_ice_cave(item):
+    #if is_this_an_ice_cave(item) and is_this_a_lava_tube(item):
+        pass
+    else:
+        continue
+
+    alt = item.findall('altitude') 
+    minmax = parse_AltitudeEntry(alt)
+    if minmax[1]>=3000:
+        pass
+    else:
+        continue
+
+    
+    ###
+        
+    count = count + 1
+
+    output_one_line(item)
+    
+        
 
     
 

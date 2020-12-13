@@ -189,3 +189,20 @@ def get_one_cave_name(item):
 
     return ''  # if no name found, return empty string
 
+
+
+def extract_hyperlink_from_string(refstr):
+    k = refstr.find("https://")
+    if k<0:
+        k = refstr.find("http://")
+    if k>=0: 
+        t = refstr[k:] 
+        kend = t.find(" ") 
+        if kend>0:
+            t = t[:kend]
+            t = '"' + t + '"'
+
+    if k>=0:
+        return t
+    else:
+        return ''

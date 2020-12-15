@@ -41,7 +41,7 @@ for item in root.findall('record'):
     #    continue
     
     record = []
-    count = count + 1
+    count += 1
 
     country = item.findall('country-name')
     outstr = merge_elements(country)
@@ -149,4 +149,5 @@ for item in root.findall('record'):
 
     
 thedata.close()
+print('Wrote file tmp.csv')
 print('Number of records:', count)

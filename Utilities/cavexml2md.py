@@ -15,7 +15,7 @@ MDNL = '  \n'  # Markdown newline
 f = open("tmp.md","w")
 
 
-def output_one_line(item):
+def output_one_line_md(item):
     # output selected entries only, one line per record
     
     country = item.findall('country-name')
@@ -91,14 +91,14 @@ for item in root.findall('record'):
     
     ###
         
-    count = count + 1
+    count += 1
 
-    output_one_line(item)
+    output_one_line_md(item)
     
         
 
     
-
+print('Wrote file tmp.md')
 print('Number of records:', count)
 
 f.close()

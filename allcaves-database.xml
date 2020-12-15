@@ -219,6 +219,8 @@
       <phys-area-name>Untersberg</phys-area-name>
       <principal-cave-name>Gamslöcher-Kolowrat-Höhlensystem</principal-cave-name>
       <cave-id>1339/1</cave-id>
+      <latitude/>
+      <longitude/>
       <length>44003</length>
       <vertical-extent>1130</vertical-extent>
       <rock-type>limestone</rock-type>
@@ -236,6 +238,7 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Untersberg</phys-area-name>
       <principal-cave-name>Salzburgerschacht</principal-cave-name>
+      <other-cave-name></other-cave-name>
       <cave-id>1339/69</cave-id>
       <length>~6000</length>
       <rock-type>limestone</rock-type>
@@ -5377,6 +5380,7 @@
       <state-or-province>Samara</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Brothers Greve Cave</principal-cave-name>
+      <other-cave-name/>
       <length>~522</length>
       <vertical-extent>25</vertical-extent>
       <contents>permanent ice</contents>
@@ -6785,7 +6789,7 @@
    <record>
       <country-name>New Zealand</country-name>
       <state-or-province>Auckland City</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Three Kings</phys-area-name>
       <principal-cave-name>104 Landscape Rd.</principal-cave-name>
       <length>300</length>
       <cave-type>lava tunnel</cave-type>
@@ -6794,7 +6798,7 @@
    <record>
       <country-name>New Zealand</country-name>
       <state-or-province>Auckland City</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Three Kings</phys-area-name>
       <principal-cave-name>104 Marsden Ave.</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -6803,7 +6807,7 @@
    <record>
       <country-name>New Zealand</country-name>
       <state-or-province>Auckland City</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Three Kings</phys-area-name>
       <principal-cave-name>113 Shackleton Rd.</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -6812,7 +6816,7 @@
    <record>
       <country-name>New Zealand</country-name>
       <state-or-province>Auckland City</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Three Kings</phys-area-name>
       <principal-cave-name>41 Kensington Ave.</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -6821,6 +6825,7 @@
    <record>
       <country-name>New Zealand</country-name>
       <state-or-province>Auckland City</state-or-province>
+      <phys-area-name>Three Kings</phys-area-name>
       <principal-cave-name>94 Shackleton Rd.</principal-cave-name>
       <other-cave-name/>
       <length/>
@@ -7292,6 +7297,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
+      <state-or-province>Maui County</state-or-province>
       <phys-area-name>Molokai</phys-area-name>
       <principal-cave-name>Ana Noio Cave</principal-cave-name>
       <length/>
@@ -8298,7 +8304,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Double-Hole Crater</phys-area-name>
       <principal-cave-name>Birdnest Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -8346,6 +8352,7 @@
       <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
       <principal-cave-name>Blair Cave</principal-cave-name>
       <length>1110</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=746</reference>
    </record>
@@ -8376,7 +8383,10 @@
       <state-or-province/>
       <phys-area-name/>
       <principal-cave-name>Blindgtuhellir</principal-cave-name>
+      <other-cave-name>Blind Cave</other-cave-name>
+      <other-cave-name>Blindgata</other-cave-name>
       <length>45</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=193</reference>
    </record>
@@ -10036,7 +10046,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Maui; Manawainaui Gulch</phys-area-name>
+      <phys-area-name>Maui; Haleakala; Manawainaui Gulch</phys-area-name>
       <principal-cave-name>Crystal Cave</principal-cave-name>
       <altitude>183</altitude>
       <length/>
@@ -10057,16 +10067,17 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Ka'u District</state-or-province>
-      <phys-area-name>Hawaii Island</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>CSH Site 17 Cave</principal-cave-name>
       <length>200</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=837</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Ka'u District</state-or-province>
-      <phys-area-name>Hawaii Island</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>CSH Site 96 Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -12988,6 +12999,7 @@
       <principal-cave-name>Gothic Cave</principal-cave-name>
       <cave-id>ASF-3H-10</cave-id>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1570</reference>
       <reference>ASF database</reference>
@@ -13461,6 +13473,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1581</reference>
       <reference>ASF database</reference>
+      <curation>ASF-3H-X1 is an obsolete id</curation>
    </record>
    <record>
       <country-name>Australia</country-name>
@@ -13563,10 +13576,12 @@
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
       <principal-cave-name>Hairy Fungus Cave</principal-cave-name>
+      <cave-id>NSS-633-04</cave-id>
       <altitude>845</altitude>
-      <length/>
+      <length>37</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1650</reference>
+      <curation>Oregon or Wahshington?</curation>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -13635,6 +13650,7 @@
       <state-or-province>Jeju</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Handeul-kunyeong</principal-cave-name>
+      <altitude>35</altitude>
       <length>1400</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=683</reference>
@@ -13743,7 +13759,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Puna District</state-or-province>
-      <phys-area-name>Hawaii Island</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Hawaiian Acres Cave #1</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -13785,6 +13801,7 @@
       <principal-cave-name>Helium Cave</principal-cave-name>
       <cave-id>NSS-631-17A,B</cave-id>
       <length>244</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1603</reference>
    </record>
@@ -13807,6 +13824,8 @@
       <length>321</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1651</reference>
+      <reference>https://www.oregongrotto.com/troutlake.shtml</reference>
+      <curation>Oregon or Washington?</curation>
    </record>
    <record>
       <country-name>New Zealand</country-name>
@@ -13833,6 +13852,7 @@
       <principal-cave-name>Hercules Leg Cave</principal-cave-name>
       <length>594</length>
       <cave-type>lava tunnel</cave-type>
+      <cave-system>Hercules Leg-Juniper Cave</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=571</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
       <cave-use>self-guided tourist cave</cave-use>
@@ -14296,9 +14316,11 @@
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
       <principal-cave-name>Ice Rink Cave</principal-cave-name>
-      <length/>
+      <cave-id>NSS-633-22</cave-id>
+      <length>470</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1653</reference>
+      <reference>https://www.oregongrotto.com/troutlake.shtml</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -14924,6 +14946,7 @@
       <principal-cave-name>Juniper Cave</principal-cave-name>
       <length>720</length>
       <cave-type>lava tunnel</cave-type>
+      <cave-system>Hercules Leg-Juniper Cave</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=658</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
       <cave-use>self-guided tourist cave</cave-use>
@@ -15307,9 +15330,10 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island)</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
       <principal-cave-name>Keauhou Coconut Cave</principal-cave-name>
       <length>177</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=913</reference>
    </record>
@@ -15482,15 +15506,6 @@
       <length>50</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=886</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
-      <principal-cave-name>Koloa Cave #3</principal-cave-name>
-      <length>50</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=983</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -16388,7 +16403,7 @@
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
       <principal-cave-name>Lost and Found Cave</principal-cave-name>
-      <cave-id>NSS-611-79</cave-id>
+      <cave-id/>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1309</reference>
@@ -17262,8 +17277,9 @@
    <record>
       <country-name>New Zealand</country-name>
       <state-or-province>Auckland City</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Three Kings</phys-area-name>
       <principal-cave-name>Montimer's Cave</principal-cave-name>
+      <other-cave-name>No. 82 Landscape Rd.</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=158</reference>
@@ -20803,13 +20819,13 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Maui</phys-area-name>
-      <principal-cave-name>Skull Cave</principal-cave-name>
-      <other-cave-name>Kalua O Lapa Cave</other-cave-name>
+      <phys-area-name>Maui; Haleakala</phys-area-name>
+      <principal-cave-name>Kalua O Lapa Cave</principal-cave-name>
+      <other-cave-name>Skull Cave</other-cave-name>
       <length>60</length>
       <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=957</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=874</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=957</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -21280,7 +21296,7 @@
    <record>
       <country-name>New Zealand</country-name>
       <state-or-province>Auckland City</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Three Kings</phys-area-name>
       <principal-cave-name>Stewart's Cave</principal-cave-name>
       <other-cave-name/>
       <length>183</length>
@@ -22684,7 +22700,7 @@
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
       <principal-cave-name>Under the Lake Cave</principal-cave-name>
-      <cave-id>NSS-611-79</cave-id>
+      <cave-id/>
       <length>171</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1272</reference>

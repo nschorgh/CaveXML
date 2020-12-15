@@ -231,6 +231,8 @@
       "phys-area-name": "Untersberg",
       "principal-cave-name": "Gamslöcher-Kolowrat-Höhlensystem",
       "cave-id": "1339/1",
+      "latitude": [],
+      "longitude": [],
       "length": 44003,
       "vertical-extent": 1130,
       "rock-type": "limestone",
@@ -249,6 +251,7 @@
       "state-or-province": "Salzburg",
       "phys-area-name": "Untersberg",
       "principal-cave-name": "Salzburgerschacht",
+      "other-cave-name": [],
       "cave-id": "1339/69",
       "length": "~6000",
       "rock-type": "limestone",
@@ -5711,6 +5714,7 @@
       "state-or-province": "Samara",
       "phys-area-name": [],
       "principal-cave-name": "Brothers Greve Cave",
+      "other-cave-name": [],
       "length": "~522",
       "vertical-extent": 25,
       "contents": "permanent ice",
@@ -7202,7 +7206,7 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
-      "phys-area-name": [],
+      "phys-area-name": "Three Kings",
       "principal-cave-name": "104 Landscape Rd.",
       "length": 300,
       "cave-type": "lava tunnel",
@@ -7212,7 +7216,7 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
-      "phys-area-name": [],
+      "phys-area-name": "Three Kings",
       "principal-cave-name": "104 Marsden Ave.",
       "length": [],
       "cave-type": "lava tunnel",
@@ -7222,7 +7226,7 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
-      "phys-area-name": [],
+      "phys-area-name": "Three Kings",
       "principal-cave-name": "113 Shackleton Rd.",
       "length": [],
       "cave-type": "lava tunnel",
@@ -7232,7 +7236,7 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
-      "phys-area-name": [],
+      "phys-area-name": "Three Kings",
       "principal-cave-name": "41 Kensington Ave.",
       "length": [],
       "cave-type": "lava tunnel",
@@ -7242,6 +7246,7 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
+      "phys-area-name": "Three Kings",
       "principal-cave-name": "94 Shackleton Rd.",
       "other-cave-name": [],
       "length": [],
@@ -7756,6 +7761,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
+      "state-or-province": "Maui County",
       "phys-area-name": "Molokai",
       "principal-cave-name": "Ana Noio Cave",
       "length": [],
@@ -8860,7 +8866,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Medicine Lake Highlands",
+      "phys-area-name": "Medicine Lake Highlands; Double-Hole Crater",
       "principal-cave-name": "Birdnest Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -8913,6 +8919,7 @@
       "phys-area-name": "Hawaii (Big Island); Kilauea",
       "principal-cave-name": "Blair Cave",
       "length": 1110,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=746"
     },
@@ -8946,7 +8953,10 @@
       "state-or-province": [],
       "phys-area-name": [],
       "principal-cave-name": "Blindgtuhellir",
+      "other-cave-name": "Blind Cave",
+      "other-cave-name": "Blindgata",
       "length": 45,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=193"
     },
@@ -10772,7 +10782,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui; Manawainaui Gulch",
+      "phys-area-name": "Maui; Haleakala; Manawainaui Gulch",
       "principal-cave-name": "Crystal Cave",
       "altitude": 183,
       "length": [],
@@ -10795,9 +10805,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Ka'u District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "CSH Site 17 Cave",
       "length": 200,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=837"
     },
@@ -10805,7 +10816,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Ka'u District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "CSH Site 96 Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -14019,6 +14030,7 @@
       "principal-cave-name": "Gothic Cave",
       "cave-id": "ASF-3H-10",
       "length": 30,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1570",
       "reference": "ASF database"
@@ -14536,7 +14548,8 @@
       "length": 15,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1581",
-      "reference": "ASF database"
+      "reference": "ASF database",
+      "curation": "ASF-3H-X1 is an obsolete id"
     },
 
     {
@@ -14649,10 +14662,12 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Hairy Fungus Cave",
+      "cave-id": "NSS-633-04",
       "altitude": 845,
-      "length": [],
+      "length": 37,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1650"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1650",
+      "curation": "Oregon or Wahshington?"
     },
 
     {
@@ -14728,6 +14743,7 @@
       "state-or-province": "Jeju",
       "phys-area-name": [],
       "principal-cave-name": "Handeul-kunyeong",
+      "altitude": 35,
       "length": 1400,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=683"
@@ -14846,7 +14862,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Hawaiian Acres Cave #1",
       "length": [],
       "cave-type": "lava tunnel",
@@ -14892,6 +14908,7 @@
       "principal-cave-name": "Helium Cave",
       "cave-id": "NSS-631-17A,B",
       "length": 244,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1603"
     },
@@ -14915,7 +14932,9 @@
       "cave-id": "NSS-633-37",
       "length": 321,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1651"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1651",
+      "reference": "https://www.oregongrotto.com/troutlake.shtml",
+      "curation": "Oregon or Washington?"
     },
 
     {
@@ -14945,6 +14964,7 @@
       "principal-cave-name": "Hercules Leg Cave",
       "length": 594,
       "cave-type": "lava tunnel",
+      "cave-system": "Hercules Leg-Juniper Cave",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=571",
       "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
@@ -15453,9 +15473,11 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Ice Rink Cave",
-      "length": [],
+      "cave-id": "NSS-633-22",
+      "length": 470,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1653"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1653",
+      "reference": "https://www.oregongrotto.com/troutlake.shtml"
     },
 
     {
@@ -16145,6 +16167,7 @@
       "principal-cave-name": "Juniper Cave",
       "length": 720,
       "cave-type": "lava tunnel",
+      "cave-system": "Hercules Leg-Juniper Cave",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=658",
       "reference": "Waters et al. (1990) doi:10.3133/b1673",
       "cave-use": "self-guided tourist cave"
@@ -16567,9 +16590,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Kilauea",
       "principal-cave-name": "Keauhou Coconut Cave",
       "length": 177,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=913"
     },
@@ -16758,16 +16782,6 @@
       "length": 50,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=886"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Koloa Cave #3",
-      "length": 50,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=983"
     },
 
     {
@@ -17754,7 +17768,7 @@
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Lost and Found Cave",
-      "cave-id": "NSS-611-79",
+      "cave-id": [],
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1309"
@@ -18713,8 +18727,9 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
-      "phys-area-name": [],
+      "phys-area-name": "Three Kings",
       "principal-cave-name": "Montimer's Cave",
+      "other-cave-name": "No. 82 Landscape Rd.",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=158"
@@ -22608,13 +22623,13 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
-      "principal-cave-name": "Skull Cave",
-      "other-cave-name": "Kalua O Lapa Cave",
+      "phys-area-name": "Maui; Haleakala",
+      "principal-cave-name": "Kalua O Lapa Cave",
+      "other-cave-name": "Skull Cave",
       "length": 60,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=957",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=874"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=874",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=957"
     },
 
     {
@@ -23132,7 +23147,7 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
-      "phys-area-name": [],
+      "phys-area-name": "Three Kings",
       "principal-cave-name": "Stewart's Cave",
       "other-cave-name": [],
       "length": 183,
@@ -24674,7 +24689,7 @@
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Under the Lake Cave",
-      "cave-id": "NSS-611-79",
+      "cave-id": [],
       "length": 171,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1272"

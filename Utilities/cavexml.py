@@ -473,3 +473,41 @@ def country2alpha2(countryname):
     return dict[countryname]
 
 
+
+
+import hashlib  # only used in generate_unique_id
+
+def generate_unique_id(item):
+    # generate identification string, which is unqiue for a record
+
+    try: # assumes the record includes a country name
+        con = item.find('country-name')
+        iso2 = country2alpha2(con.text)
+    except:
+        iso2 = 'XX' # no-man's land
+    if len(iso2) != 2:
+        iso2 = 'XX'
+
+    try: # use cave-id, if available
+        cid = item.find('cave-id')
+        uniid = iso2 + '-' + cid.text
+    except: # create hash code based on several entries
+        mashup = get_one_cave_name(item)
+        try:
+            province = item.findall('state-or-province')
+            prostr = merge_elements(province)
+            mashup += prostr
+        except:
+            pass
+        try:
+            area = item.findall('phys-area-name')
+            outstr = merge_elements(area)
+            mashup += outstr
+        except:
+            pass
+        hashcode = hashlib.md5(mashup.encode('utf-8')).hexdigest()
+        uniid = iso2 + '-' + hashcode
+        
+    return uniid
+
+

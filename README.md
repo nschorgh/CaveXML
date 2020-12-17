@@ -12,7 +12,7 @@ CaveXML is a data interchange format for the purpose of facilitating scientific 
    `cavexml-db-table.css`	  (minimalist Style Sheet so the XML database can be viewed in a webbrowser)  
    `Utilities/cavexml2csv.py`         (converts database to comma-separated-values using Python)  
    `Utilities/cavexml2kml.py`	  (converts coordinates in CaveXML entries into KML format)  
-   `Utilities/cavexml2md.py`         (creates list of entries in Markdown format)
+   `Utilities/cavexml2md.py`         (creates list of entries in Markdown format)  
    `Utilities/cavexml2web.py`         (outputs full records in HTML format)  
    `Utilities/cavexml-numeric.py`	    (parses quasi-numerical entries)  
    `Utilities/cavexml.py`	    (some useful Python functions for CaveXML)  
@@ -28,11 +28,11 @@ This is a pilot project to explore the capabilities of a CaveXML implementation 
 `cavexml.md` describes the meaning of the XML elements used to organize the data, and restrictions for the entries.
 
 The master copy of the database is in XML format (`allcaves-database.xml`). With the help of `cavexml-db-table.css` the database content can be viewed in a web browser, but this provides a rather poor viewing experience.
-Notably absent are query capabilities, i.e. a search interface, but users can upload the database into a spreadsheet. `cavexml-numeric.py` generates an auxiliary file that contains, among other columns minimum and maximum altitude, and it can be uploaded into the same spreadsheet to support numerical searches on quasi-numerical entries.  
+Users can open `allcaves-database.csv` as a spreadsheet. `cavexml-numeric.py` generates an auxiliary file that contains, among other columns, minimum and maximum altitude, and it can be uploaded into the same spreadsheet to support numerical searches on quasi-numerical entries.  
 
-The Python programs serve as examples for how a CaveXML database can be loaded and analyzed within Python. Parsing functions for quasi-numerical entries are found in `cavexml.py`.
+The Python programs serve as examples for how a CaveXML database can be loaded and analyzed within Python. Parsing functions for quasi-numerical entries are found in `cavexml.py`, which also contains many other functions useful for working with CaveXML data.
 
-`cavexml.xsd` incorporates all CaveXML syntax requirements. The following validates a database against the Schema:  
+`cavexml.xsd` incorporates all CaveXML requirements. The following validates a database against the Schema:  
 
     xmllint --schema cavexml.xsd allcaves-database.xml -noout  
 

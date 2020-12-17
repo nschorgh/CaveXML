@@ -11334,9 +11334,11 @@
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Dainichi Ana Cave</principal-cave-name>
+      <altitude>253</altitude>
       <length>908</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=41</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -14982,7 +14984,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Maui</phys-area-name>
-      <principal-cave-name>Ka'Eleku Cavern</principal-cave-name>
+      <principal-cave-name>Ka'eleku Cavern</principal-cave-name>
       <other-cave-name>Hana Lava Tube</other-cave-name>
       <length>2852</length>
       <cave-type>lava tunnel</cave-type>
@@ -15086,9 +15088,11 @@
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Kaminari Ana Cave</principal-cave-name>
+      <altitude>1210</altitude>
       <length>35</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=67</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -15509,7 +15513,7 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii; Kaui County</state-or-province>
+      <state-or-province>Hawaii; Kauai County</state-or-province>
       <phys-area-name>Kauai Island; Koloa</phys-area-name>
       <principal-cave-name>McBryde Civil Defense Cave</principal-cave-name>
       <other-cave-name>Koloa Cave #1</other-cave-name>
@@ -15520,7 +15524,7 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii; Kaui County</state-or-province>
+      <state-or-province>Hawaii; Kauai County</state-or-province>
       <phys-area-name>Kauai Island; Koloa</phys-area-name>
       <principal-cave-name>McBryde Boundary Cave</principal-cave-name>
       <other-cave-name>McBryde Boundary Road Cave</other-cave-name>
@@ -15778,9 +15782,11 @@
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Kuzure Ana Cave</principal-cave-name>
-      <length>130</length>
+      <altitude>1010</altitude>
+      <length>~130</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=79</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -16035,6 +16041,7 @@
       <length>2370</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1275</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -17049,6 +17056,36 @@
       <length>154</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=82</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
+   </record>
+   <record>
+      <country-name>Japan</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
+      <principal-cave-name>Heijibara Fuketsu</principal-cave-name>
+      <altitude>980</altitude>
+      <length>107</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
+   </record>
+   <record>
+      <country-name>Japan</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Unzen-dake</phys-area-name>
+      <principal-cave-name>Fuketsu</principal-cave-name>
+      <altitude>1300</altitude>
+      <length/>
+      <cave-type>lava tunnel</cave-type>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
+   </record>
+   <record>
+      <country-name>Japan</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Unzen-dake</phys-area-name>
+      <principal-cave-name>Hato Ana</principal-cave-name>
+      <altitude>1195</altitude>
+      <length/>
+      <cave-type>lava tunnel</cave-type>
       <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
@@ -20054,7 +20091,7 @@
       <phys-area-name>Daikon Island</phys-area-name>
       <principal-cave-name>Ryusei Do Cave</principal-cave-name>
       <altitude>15</altitude>
-      <length>80</length>
+      <length>~80</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1530</reference>
       <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
@@ -20505,45 +20542,55 @@
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoiko Fuketsu No. 1 Cave</principal-cave-name>
+      <altitude>1160</altitude>
       <length>230</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=115</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoiko Fuketsu No. 2 Cave</principal-cave-name>
+      <altitude>1145</altitude>
       <length>55</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=111</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoiko Fuketsu No. 3 Cave</principal-cave-name>
+      <altitude>1140</altitude>
       <length>35</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=112</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoiko Fuketsu No. 4 Cave</principal-cave-name>
+      <altitude>1130</altitude>
       <length>32</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=113</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Shoiko Fuketsu No. 5 Cave</principal-cave-name>
-      <length>30</length>
+      <altitude>1125</altitude>
+      <length>~30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=114</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -21505,10 +21552,13 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Newberry National Monument</phys-area-name>
       <principal-cave-name>Surveyor's Cave</principal-cave-name>
+      <other-cave-name>Surveyor's Ice Cave</other-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1288</reference>
    </record>
    <record>
@@ -22647,9 +22697,11 @@
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Uba Ana Cave</principal-cave-name>
+      <altitude>750</altitude>
       <length>123</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=126</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Rwanda</country-name>
@@ -22879,9 +22931,11 @@
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Uzura Ana</principal-cave-name>
+      <altitude>733</altitude>
       <length>820</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=127</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -23039,11 +23093,17 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
+      <phys-area-name>Kauai; Na Pali Coast</phys-area-name>
       <principal-cave-name>Waiahuakua Cave</principal-cave-name>
+      <other-cave-name>Sacred Water Cave</other-cave-name>
+      <other-cave-name>Double Door Cave</other-cave-name>
       <length>352</length>
-      <cave-type>lava tunnel</cave-type>
+      <number-of-entrances>3</number-of-entrances>
+      <cave-type>sea cave</cave-type>
+      <contents>waterfall(s)</contents>
+      <comments>second longest sea cave in the world</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=987</reference>
+      <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -23059,8 +23119,9 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
+      <phys-area-name>Kauai; Na Pali Coast</phys-area-name>
       <principal-cave-name>Waiawaipuhi Cave</principal-cave-name>
+      <other-cave-name>Great Blowhole Cave</other-cave-name>
       <length>290</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=988</reference>
@@ -23670,7 +23731,7 @@
       <other-cave-name>Yuki Do Cave</other-cave-name>
       <other-cave-name>Kaza-ana Cave</other-cave-name>
       <altitude>5</altitude>
-      <length>200</length>
+      <length>~200</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1531</reference>
       <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>

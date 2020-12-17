@@ -12203,9 +12203,11 @@
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Dainichi Ana Cave",
+      "altitude": 253,
       "length": 908,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=41"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=41",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -16207,7 +16209,7 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Maui",
-      "principal-cave-name": "Ka'Eleku Cavern",
+      "principal-cave-name": "Ka'eleku Cavern",
       "other-cave-name": "Hana Lava Tube",
       "length": 2852,
       "cave-type": "lava tunnel",
@@ -16321,9 +16323,11 @@
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Kaminari Ana Cave",
+      "altitude": 1210,
       "length": 35,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=67"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=67",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -16786,7 +16790,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; Kaui County",
+      "state-or-province": "Hawaii; Kauai County",
       "phys-area-name": "Kauai Island; Koloa",
       "principal-cave-name": "McBryde Civil Defense Cave",
       "other-cave-name": "Koloa Cave #1",
@@ -16798,7 +16802,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; Kaui County",
+      "state-or-province": "Hawaii; Kauai County",
       "phys-area-name": "Kauai Island; Koloa",
       "principal-cave-name": "McBryde Boundary Cave",
       "other-cave-name": "McBryde Boundary Road Cave",
@@ -17081,9 +17085,11 @@
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Kuzure Ana Cave",
-      "length": 130,
+      "altitude": 1010,
+      "length": "~130",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=79"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=79",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -17362,7 +17368,8 @@
       "principal-cave-name": "Lava River Cave",
       "length": 2370,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1275"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1275",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -18477,6 +18484,39 @@
       "length": 154,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=82",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
+    },
+
+    {
+      "country-name": "Japan",
+      "state-or-province": [],
+      "phys-area-name": "Mt. Fuji",
+      "principal-cave-name": "Heijibara Fuketsu",
+      "altitude": 980,
+      "length": 107,
+      "cave-type": "lava tunnel",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
+    },
+
+    {
+      "country-name": "Japan",
+      "state-or-province": [],
+      "phys-area-name": "Mt. Unzen-dake",
+      "principal-cave-name": "Fuketsu",
+      "altitude": 1300,
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
+    },
+
+    {
+      "country-name": "Japan",
+      "state-or-province": [],
+      "phys-area-name": "Mt. Unzen-dake",
+      "principal-cave-name": "Hato Ana",
+      "altitude": 1195,
+      "length": [],
+      "cave-type": "lava tunnel",
       "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
@@ -21781,7 +21821,7 @@
       "phys-area-name": "Daikon Island",
       "principal-cave-name": "Ryusei Do Cave",
       "altitude": 15,
-      "length": 80,
+      "length": "~80",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1530",
       "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
@@ -22277,9 +22317,11 @@
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Shoiko Fuketsu No. 1 Cave",
+      "altitude": 1160,
       "length": 230,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=115"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=115",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -22287,9 +22329,11 @@
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Shoiko Fuketsu No. 2 Cave",
+      "altitude": 1145,
       "length": 55,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=111"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=111",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -22297,9 +22341,11 @@
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Shoiko Fuketsu No. 3 Cave",
+      "altitude": 1140,
       "length": 35,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=112"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=112",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -22307,9 +22353,11 @@
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Shoiko Fuketsu No. 4 Cave",
+      "altitude": 1130,
       "length": 32,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=113"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=113",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -22317,9 +22365,11 @@
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Shoiko Fuketsu No. 5 Cave",
-      "length": 30,
+      "altitude": 1125,
+      "length": "~30",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=114"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=114",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -23376,10 +23426,13 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Oregon",
-      "phys-area-name": [],
+      "phys-area-name": "Newberry National Monument",
       "principal-cave-name": "Surveyor's Cave",
+      "other-cave-name": "Surveyor's Ice Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
+      "contents": "permanent ice",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1288"
     },
 
@@ -24631,9 +24684,11 @@
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Uba Ana Cave",
+      "altitude": 750,
       "length": 123,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=126"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=126",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -24885,9 +24940,11 @@
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
       "principal-cave-name": "Uzura Ana",
+      "altitude": 733,
       "length": 820,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=127"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=127",
+      "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
     },
 
     {
@@ -25061,11 +25118,17 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
+      "phys-area-name": "Kauai; Na Pali Coast",
       "principal-cave-name": "Waiahuakua Cave",
+      "other-cave-name": "Sacred Water Cave",
+      "other-cave-name": "Double Door Cave",
       "length": 352,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=987"
+      "number-of-entrances": 3,
+      "cave-type": "sea cave",
+      "contents": "waterfall(s)",
+      "comments": "second longest sea cave in the world",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=987",
+      "cave-use": "guided tourist cave"
     },
 
     {
@@ -25083,8 +25146,9 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
+      "phys-area-name": "Kauai; Na Pali Coast",
       "principal-cave-name": "Waiawaipuhi Cave",
+      "other-cave-name": "Great Blowhole Cave",
       "length": 290,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=988"
@@ -25753,7 +25817,7 @@
       "other-cave-name": "Yuki Do Cave",
       "other-cave-name": "Kaza-ana Cave",
       "altitude": 5,
-      "length": 200,
+      "length": "~200",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1531",
       "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"

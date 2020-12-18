@@ -4459,10 +4459,10 @@
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Fuji Ice Cave</principal-cave-name>
-      <other-cave-name>Fuji Fuketsu</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude>~1120</altitude>
+      <other-cave-name>Fuji Fuketsu (Fuji Wind Cave)</other-cave-name>
+      <latitude>36.4</latitude>
+      <longitude>138.7</longitude>
+      <altitude>1120</altitude>
       <length>150</length>
       <vertical-extent>~30</vertical-extent>
       <cave-type>lava tunnel</cave-type>
@@ -6350,27 +6350,41 @@
       <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
       <reference>Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156</reference>
    </record>
+
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <phys-area-name>Medicine Lake Highlands; Modoc Crater</phys-area-name>
-      <principal-cave-name>Skull Ice Cave</principal-cave-name>
-      <other-cave-name>Skull Cave</other-cave-name>
+      <state-or-province>New Mexico</state-or-province>
+      <state-or-province>Cibola County</state-or-province>
+      <phys-area-name>El Malpais region</phys-area-name>
+      <principal-cave-name>Candelaria Ice Cave</principal-cave-name>
+      <other-cave-name>Cerro Candelaria</other-cave-name>
       <latitude/>
       <longitude/>
-      <altitude>1388</altitude>
-      <length>177</length>
-      <vertical-extent>37</vertical-extent>
-      <number-of-entrances>1</number-of-entrances>
+      <altitude>~2400</altitude>
+      <length>12300</length>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
+      <comments>ice deposit estimated to be 3kyr old</comments>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1193</reference>
+      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
+      <reference>Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>New Mexico</state-or-province>
+      <phys-area-name>El Malpais National Monument</phys-area-name>
+      <principal-cave-name>Bandera Volcano Ice Cave</principal-cave-name>
+      <other-cave-name>Zuni Ice Cave</other-cave-name>
+      <latitude/>
+      <longitude/>
+      <altitude/>
+      <length/>
+      <vertical-extent/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>      
       <contents>permanent ice</contents>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=614</reference>
-      <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
-      <cave-use>self-guided tourist cave</cave-use>
+      <reference>https://en.wikipedia.org/wiki/Bandera_Volcano_Ice_Cave</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -6774,15 +6788,21 @@
       <principal-cave-name>Helen's Hidden Hideaway</principal-cave-name>
       <other-cave-name>Railroad Cave</other-cave-name>
       <length>415</length>
+      <vertical-extent>26</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1089</reference>
+      <reference>Kesner (1992) http://www.vulcanospeleology.org/sym06/ISV6x17.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii Island</phys-area-name>
       <principal-cave-name>'D' Road Cave</principal-cave-name>
+      <other-cave-name>Tree cast</other-cave-name>
+      <other-cave-name>Pole 46 Cave</other-cave-name>
       <length>3182</length>
+      <vertical-extent>43</vertical-extent>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=939</reference>
    </record>
@@ -6885,7 +6905,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1448</reference>
    </record>
-
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Idaho; Blaine County</state-or-province>
@@ -6895,7 +6914,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1013</reference>
    </record>
-   
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
@@ -7046,7 +7064,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=279</reference>
    </record>
-
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
@@ -8284,7 +8301,7 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
+      <state-or-province>Hawaii; Puna District</state-or-province>
       <phys-area-name>Hawaii (Big Island)</phys-area-name>
       <principal-cave-name>Bill Rowland's Cave</principal-cave-name>
       <length>6</length>
@@ -8649,10 +8666,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>New Mexico</state-or-province>
       <state-or-province>Cibola County</state-or-province>
+      <phys-area-name>El Malpais National Monument</phys-area-name>
       <principal-cave-name>Braided Cave</principal-cave-name>
       <length>915</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1186</reference>
+      <reference>Rogers (1992) http://www.vulcanospeleology.org/sym06/ISV6x14.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -8755,6 +8774,7 @@
       <principal-cave-name>Brewer's Cave</principal-cave-name>
       <altitude>2280</altitude>
       <length>705</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1184</reference>
       <reference>Goar and Mosch (1991) http://www.vulcanospeleology.org/sym06/ISV6x13.pdf</reference>
@@ -9343,7 +9363,7 @@
       <length>567</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=719</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -9353,7 +9373,7 @@
       <length>141</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=729</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -9363,7 +9383,7 @@
       <length>2250</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=709</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Argentina</country-name>
@@ -10141,7 +10161,7 @@
       <length>205</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=720</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -10278,7 +10298,7 @@
       <length>677</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=721</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -10338,7 +10358,7 @@
       <length>750</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=722</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -10350,7 +10370,7 @@
       <vertical-extent>70</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=715</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
       <reference>Espinasa et al. (2015) doi:10.3897/subtbiol.15.8468</reference>
    </record>
    <record>
@@ -10428,7 +10448,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=730</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=724</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -10449,7 +10469,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=706</reference>
       <reference>Steadman, D. W. (1986) "Holocene vertebrate fossils from Isla Floreana, Galápagos." Smithsonian contributions to zoology Nr 413</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -10459,7 +10479,7 @@
       <length>276</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=725</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -10660,7 +10680,7 @@
       <length>92</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=717</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -10772,7 +10792,7 @@
       <length>355</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=718</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -10846,7 +10866,7 @@
       <length>3010</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1106</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -10875,7 +10895,7 @@
       <length>~350</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=707</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -10960,7 +10980,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=708</reference>
       <reference>Steadman, D. W. (1986) "Holocene vertebrate fossils from Isla Floreana, Galápagos." Smithsonian contributions to zoology Nr 413</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -13143,7 +13163,7 @@
       <length>28</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=714</reference>
-      <reference>http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf</reference>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -13212,7 +13232,7 @@
       <state-or-province>Sicilia</state-or-province>
       <phys-area-name>Sicily; Etna</phys-area-name>
       <principal-cave-name>Grotta del Lago</principal-cave-name>
-      <other-cave-name/>
+      <other-cave-name>Grotta dei Pecorai</other-cave-name>
       <cave-id>SICT-1196</cave-id>
       <altitude>2130</altitude>
       <length>288</length>
@@ -13272,19 +13292,6 @@
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
       <phys-area-name>Sicily; Etna</phys-area-name>
-      <principal-cave-name>Grotta del Lago</principal-cave-name>
-      <other-cave-name>Grotta dei Pecorai</other-cave-name>
-      <cave-id>SICT-1196</cave-id>
-      <altitude>2130</altitude>
-      <length>288</length>
-      <vertical-extent>41</vertical-extent>
-      <cave-type>lava tunnel</cave-type>
-      <reference>Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
-   </record>
-   <record>
-      <country-name>Italy</country-name>
-      <state-or-province>Sicilia</state-or-province>
-      <phys-area-name>Sicily; Etna</phys-area-name>
       <principal-cave-name>Grotta degli Archi</principal-cave-name>
       <other-cave-name>Grotta di Monte Pecoraro</other-cave-name>
       <cave-id>SICT-1005</cave-id>
@@ -13294,7 +13301,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
    </record>
-   
    <record>
       <country-name>Cameroon</country-name>
       <state-or-province>Sud-Oeust</state-or-province>
@@ -17865,6 +17871,8 @@
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Narusawa Hyoketsu Cave</principal-cave-name>
       <other-cave-name>Narusawa Ice Cave</other-cave-name>
+      <other-cave-name>Narusawa Wind Cave</other-cave-name>
+      <other-cave-name>Narusawa Fuketsu</other-cave-name>
       <latitude>35.474722</latitude>
       <longitude>138.666389</longitude>
       <altitude>1025</altitude>
@@ -17873,6 +17881,7 @@
       <contents>permanent ice</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=92</reference>
       <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
+      <reference>https://en.wikipedia.org/wiki/Narusawa_Ice_Cave</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -20329,12 +20338,18 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Saiko Kamari Cave</principal-cave-name>
+      <principal-cave-name>Saiko Komori Cave</principal-cave-name>
+      <other-cave-name>Lake Sai Bat Cave</other-cave-name>
+      <other-cave-name>西湖蝙蝠穴</other-cave-name>
+      <other-cave-name>Saiko Koumori Ana</other-cave-name>
       <altitude>925</altitude>
       <length>386</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <contents>many bats</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=109</reference>
       <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
+      <reference>https://en.wikipedia.org/wiki/Lake_Sai_Bat_Cave</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -24471,7 +24486,18 @@
       <cave-type>lava vent</cave-type>
       <reference>Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf</reference>
    </record>
-
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Hawaii</state-or-province>
+      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <principal-cave-name>Olaa Cave</principal-cave-name>
+      <length>6070</length>
+      <vertical-extent>221</vertical-extent>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Bunnell and Liebman (1992) http://www.vulcanospeleology.org/sym06/ISV6x06.pdf</reference>
+   </record>
+   
    <record>
      <country-name>Moon</country-name>
      <phys-area-name>Marius Hills; Oceanus Procellarum</phys-area-name>

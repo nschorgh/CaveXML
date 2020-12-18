@@ -1,6 +1,6 @@
 List of Lava Tubes
 ==================
-This list of 1752 volcanic caves was generated from a CaveXML formatted database. - Dec 17, 2020  
+This list of 1752 volcanic caves was generated from a CaveXML formatted database. - Dec 18, 2020  
 
 Argentina - Catamarca **Cueva de San Fransisco**    
 Argentina - La Pampa **Cueva La Alada**    
@@ -239,7 +239,6 @@ Italy - Sicilia - Sicily; Etna **Grotta dei Tre Livelli**  Galleriadei Pipistrel
 Italy - Sicilia - Sicily; Etna **Grotta del Gelo**    
 Italy - Sicilia - Sicily; Etna **Grotta del Labirinto**    
 Italy - Sicilia - Sicily; Etna **Grotta del Lago**  Grotta dei Pecorai SICT-1196  
-Italy - Sicilia - Sicily; Etna **Grotta del Lago**  SICT-1196  
 Italy - Sicilia - Sicily; Etna **Grotta dell Intraleo**  SICT-1007  
 Italy - Sicilia - Sicily; Etna **Grotta del Santo**  SICT-1032  
 Italy - Sicilia - Sicily; Etna **Grotta di Serracozzo I**  SICT-1065  
@@ -268,7 +267,7 @@ Japan - Mt. Fuji **Fuji Fuketsu No. 4**
 Japan - Mt. Fuji **Fuji Fuketsu No. 5**    
 Japan - Mt. Fuji **Fuji Fuketsu No. 6**    
 Japan - Mt. Fuji **Fuji Fuketsu No. 7**    
-Japan - Mt. Fuji **Fuji Ice Cave**  Fuji Fuketsu   
+Japan - Mt. Fuji **Fuji Ice Cave**  Fuji Fuketsu (Fuji Wind Cave)   
 Japan - Mt. Fuji; Futagoyama lava flow **Banba Ana Cave**    
 Japan - Mt. Fuji **Ginga Fuketsu Cave**    
 Japan - Mt. Fuji **Gyoja Ana Cave**    
@@ -327,7 +326,7 @@ Japan - Mt. Fuji **Saiko Fuketsu No. 4 Cave**
 Japan - Mt. Fuji **Saiko Fuketsu No. 5 Cave**    
 Japan - Mt. Fuji **Saiko Fuketsu No. 6 Cave**    
 Japan - Mt. Fuji **Saiko Fuketsu No. 7 Cave**    
-Japan - Mt. Fuji **Saiko Kamari Cave**    
+Japan - Mt. Fuji **Saiko Komori Cave**  Lake Sai Bat Cave; 西湖蝙蝠穴; Saiko Koumori Ana   
 Japan - Mt. Fuji **Shin Ana Cave**    
 Japan - Mt. Fuji **Shoiko Fuketsu No. 1 Cave**    
 Japan - Mt. Fuji **Shoiko Fuketsu No. 2 Cave**    
@@ -384,7 +383,7 @@ Japan - Shizuoka - Hachijo Island **No. 20 Bokku Fuketsu Cave**
 Japan - Shizuoka - Hachijo Island **No. 21 Bokku Fuketsu Cave**    
 Japan - Shizuoka - Hachijo Island **Shin Gokuraku Ana Cave**    
 Japan - Shizuoka - Mt. Fuji **Mitsuike Ana**    
-Japan - Yamanashi - Mt. Fuji **Narusawa Hyoketsu Cave**  Narusawa Ice Cave   
+Japan - Yamanashi - Mt. Fuji **Narusawa Hyoketsu Cave**  Narusawa Ice Cave; Narusawa Wind Cave; Narusawa Fuketsu   
 Jordan **Abu Al-Kursi East**    
 Jordan **Al-Ameed Cave**    
 Jordan **Al-Badia Cave**    
@@ -659,7 +658,6 @@ United States of America - California; Inyo County **Millipede Caves**
 United States of America - California; Lassen County **Eagle Lake Ice Cave**    
 United States of America - California; Lassen County **Indian Cave**    
 United States of America - California; Lassen County **Packrat cave**    
-United States of America - California - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater **Skull Ice Cave**  Skull Cave   
 United States of America - California; Modoc County **Ice Cave**    
 United States of America - California; Modoc County **Lava Cave**    
 United States of America - California; Modoc County **Lorenzen's Lava Caves**    
@@ -1057,7 +1055,6 @@ United States of America - California; Tehama County **Wilson Lake Ice Cave**
 United States of America - Hawaii **Coffee Cave**    
 United States of America - Hawaii - Hawaii (Big Island) **Ash Cave**    
 United States of America - Hawaii - Hawaii (Big Island) **Big Room cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Bill Rowland's Cave**    
 United States of America - Hawaii - Hawaii (Big Island) **Clague's Cave**    
 United States of America - Hawaii - Hawaii (Big Island) **Curvin's Cave**    
 United States of America - Hawaii - Hawaii (Big Island) **Dodge cave**    
@@ -1079,6 +1076,7 @@ United States of America - Hawaii - Hawaii (Big Island); Kilauea **Keauhou Petro
 United States of America - Hawaii - Hawaii (Big Island); Kilauea **Mauna Ulu Cave Group A**    
 United States of America - Hawaii - Hawaii (Big Island); Kilauea **Mauna Ulu Cave Group B**    
 United States of America - Hawaii - Hawaii (Big Island); Kilauea **Mauna Ulu Cave Group C**    
+United States of America - Hawaii - Hawaii (Big Island); Kilauea **Olaa Cave**    
 United States of America - Hawaii - Hawaii (Big Island) **Little Wall Cave**    
 United States of America - Hawaii - Hawaii (Big Island) **Lower Keauhou Trail Cave**    
 United States of America - Hawaii - Hawaii (Big Island); Mauna Kea **Cyrtandra Makai Cave**    
@@ -1108,7 +1106,7 @@ United States of America - Hawaii - Hawaii Island **Across-the-road Cave**
 United States of America - Hawaii - Hawaii Island **Ash Crawl Cave**    
 United States of America - Hawaii - Hawaii Island **Bombed Cave**    
 United States of America - Hawaii - Hawaii Island **Delissea Cave System**    
-United States of America - Hawaii - Hawaii Island **'D' Road Cave**    
+United States of America - Hawaii - Hawaii Island **'D' Road Cave**  Tree cast; Pole 46 Cave   
 United States of America - Hawaii - Hawaii Island; Hualalai **Ambigua Cave**    
 United States of America - Hawaii - Hawaii Island; Hualalai **Pink Pistillaria Cave**    
 United States of America - Hawaii - Hawaii Island **Kalahuipua'a Burial Cave 340**    
@@ -1255,6 +1253,7 @@ United States of America - Hawaii **Octapuka**
 United States of America - Hawaii **Polipoli Cave**    
 United States of America - Hawaii **Prairie Dog Cave**    
 United States of America - Hawaii; Puna District - Hawaii (Big Island) **Bamboo Puka**    
+United States of America - Hawaii; Puna District - Hawaii (Big Island) **Bill Rowland's Cave**    
 United States of America - Hawaii; Puna District - Hawaii (Big Island) **Bordello Cave**    
 United States of America - Hawaii; Puna District - Hawaii (Big Island); Kilauea **Anthurium Sink Cave**    
 United States of America - Hawaii; Puna District - Hawaii Island **Epperson's Cave**    
@@ -1401,7 +1400,6 @@ United States of America - Idaho; Power County **Moss Cave**
 United States of America - Idaho; Power County **Sullivan Cave**    
 United States of America - Maui **Mount 'Eke Sinkholes**    
 United States of America - New Mexico; Cibola County **Bat Cave**    
-United States of America - New Mexico; Cibola County **Braided Cave**    
 United States of America - New Mexico; Cibola County **Cerro Encierro**    
 United States of America - New Mexico; Cibola County **Chantry Cave**    
 United States of America - New Mexico; Cibola County **Chantry (West) Cave**    
@@ -1416,9 +1414,11 @@ United States of America - New Mexico; Cibola County - El Malpais; El Calderon a
 United States of America - New Mexico; Cibola County - El Malpais; El Calderon area **Xenolith Cave**    
 United States of America - New Mexico; Cibola County - El Malpais **Frozen Matt Cave**    
 United States of America - New Mexico; Cibola County - El Malpais **Lava Wall Cave**  Peel Bark Cave   
+United States of America - New Mexico; Cibola County - El Malpais National Monument **Braided Cave**    
 United States of America - New Mexico; Cibola County - El Malpais National Monument **Classic Cave**    
 United States of America - New Mexico; Cibola County - El Malpais National Monument **Navajo Cave**  Navajo Ice Cave; Cave 29   
 United States of America - New Mexico; Cibola County - El Malpais National Monument **Rusty Barrel Ice Cave**  Apache Ice Cave   
+United States of America - New Mexico; Cibola County - El Malpais region **Candelaria Ice Cave**  Cerro Candelaria   
 United States of America - New Mexico; Cibola County - El Malpais region **Candelaria Ice Cave**  Cerro Candelaria   
 United States of America - New Mexico; Cibola County **Fifty Foot Pit Cave**    
 United States of America - New Mexico; Cibola County **La Marchantia Cave**    
@@ -1427,6 +1427,7 @@ United States of America - New Mexico; Cibola County **Loop Cave**
 United States of America - New Mexico; Cibola County **Outlaw Cave**  East Outlaw Cave   
 United States of America - New Mexico; Cibola County **Twin Craters Lava Tube**    
 United States of America - New Mexico; Colfax County **Johnson Mesa Ice Caves**    
+United States of America - New Mexico - El Malpais National Monument **Bandera Volcano Ice Cave**  Zuni Ice Cave   
 United States of America - New Mexico; Lincoln County - Carrizozo **Metate Cave**    
 United States of America - New Mexico; Lincoln County **Midden Cave**    
 United States of America - New Mexico; Socorro County **Bat Caves**    

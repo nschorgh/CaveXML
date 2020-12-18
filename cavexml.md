@@ -181,7 +181,7 @@ Further Discussion
   
 **Automated cross-linking between cave systems and their branches**
 
-Then a cave system consists of several branches with their own record in the database, they can be cross-linked. The elements [cave-system] and [branch-name] point to a [principal-cave-name], but cave names are not unique, even within the same country, so a more sophisticated approach is needed to unambiguously cross-link a cave system with its branches.  When [cave-system] points to a [principal-cave-name], that record should include a [branch-name] that points back to the [principal-cave-name] of the referring record. This two-way reference guarantees that correct cross links have been identified.  
+When a cave system consists of several branches with their own record in the database, they can be cross-linked. The elements [cave-system] and [branch-name] point to a [principal-cave-name], but cave names are not unique, even within the same country, so a more sophisticated approach is needed to unambiguously cross-link a cave system with its branches.  When [cave-system] points to a [principal-cave-name], that record should include a [branch-name] that points back to the [principal-cave-name] of the referring record. This two-way reference guarantees that correct cross links have been identified, and this identification can be peformed automatically.  
 
 
 **Unique record identifier**
@@ -189,8 +189,9 @@ Then a cave system consists of several branches with their own record in the dat
 CaveXML does not include a catalog number that would uniquely identify a record.
 The country name (or its ISO letter abbreviation) plus the national cave id identify a record uniquely. One record may have more than one cave-id and, in principle, could even have more than one country-name, but the national cave id is required to be unique to the cave.
 However, many records will not have a cave-id.  In this case, a hash code can be generated from the totality of entries in the record.
-For example, the MD5 hash produces a 32-character hexadecimal code, and the probability that the same MD5 hash is produced from different inputs is mathematically negligible.
+For example, the MD5 hash generates a 32-character hexadecimal code, and the probability that the same MD5 hash is produced from different inputs is mathematically negligible.
 The same record always results in the same hash. When the record is edited, the hash code changes.
-Practically, the hash code could be generated based on a limited number of entries, such as [state-or-province], [phys-area-name], cave names (principal and other), and geographic coordinates. The strings are merged to generate the hash code. Two caves in close vicinity of each other, should not have the same name, so they will differ in one of those fields. And if location information is omitted from the record and the cave name is not unique, the ambiguity is fundamental.  
+Practically, the hash code could be generated based on a limited number of entries, such as [state-or-province], [phys-area-name], cave names (principal and other), and geographic coordinates. The strings are merged and input to a hash code generator. Two caves in close vicinity of each other should not have the same name, so they will differ in one of those fields. And if location information is omitted from the record and the cave name is not unique, the ambiguity is fundamental.
+Hence, unique record identifiers can be generated automatically from CaveXML data records.  
 
 

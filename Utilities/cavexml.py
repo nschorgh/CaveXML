@@ -104,7 +104,7 @@ def parse_cave_id(caveid):
     if outstr is not None:
         try:
             org = outstr.split('-')[0]  # 3-letter organization code
-            re.compile("[A-Z]{3}", org)  # fails if it doesn't match
+            re.compile("[A-Z]{3,4}", org)  # fails if it doesn't match
             id  = outstr.split('-')[1]
         except:  # no organization given
             org = ''

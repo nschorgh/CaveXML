@@ -28,6 +28,10 @@ for item in root.findall('record'):
     except:
         pass
 
+    a = item.findall('country-name')
+    if len(a)>1:
+        print('More than one country name', count)
+
     
     tag = False
     pcn = item.find('principal-cave-name')
@@ -54,7 +58,7 @@ for item in root.findall('record'):
 
 
 
-# now move on to cross comparisons
+# move on to cross comparisons
 print('... cross comparisons ...')
 
 lcou = []
@@ -78,13 +82,14 @@ for item in root.findall('record'):
     except:
         lcid.append(" ")
 
+
 # find records with the same Cave-Id
 for i in range(0,len(lcav)):
     idxs = [n for n,x in enumerate(lcid) if x==lcid[i] ]
     for k in range(0,len(idxs)):
         ii = idxs[k]
         if i<ii and lcou[i]==lcou[ii]:
-            if lcid[i]==lcid[ii] and lcid[i]!=' ': 
+            if lcid[i]==lcid[ii] and lcid[i]!=' ' and lcid[i] is not None: 
                 print('SAME ID',lcou[i],lcav[i],lcav[ii],lcid[i],sep=':')
 
 

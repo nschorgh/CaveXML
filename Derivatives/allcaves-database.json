@@ -938,7 +938,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Voragine di Oltre M 40 Presso l'Ometto del Bregai",
       "other-cave-name": [],
-      "cave-id": "LOL-1586",
+      "cave-id": "LOLC-1586",
       "latitude": [],
       "longitude": [],
       "altitude": 2090,
@@ -954,7 +954,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Abisso di val Laghetto",
       "other-cave-name": [],
-      "cave-id": "LOL-1600",
+      "cave-id": "LOLC-1600",
       "latitude": [],
       "longitude": [],
       "altitude": 1823,
@@ -970,7 +970,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Aibsso Nel Bregai Medio",
       "other-cave-name": [],
-      "cave-id": "LOL-1640",
+      "cave-id": "LOLC-1640",
       "latitude": [],
       "longitude": [],
       "altitude": 1930,
@@ -986,7 +986,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Abisso Delle Spade",
       "other-cave-name": [],
-      "cave-id": "LOL-1648",
+      "cave-id": "LOLC-1648",
       "latitude": [],
       "longitude": [],
       "altitude": 2047,
@@ -1002,7 +1002,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Abusso sul Margine dell'Alto Bregai",
       "other-cave-name": [],
-      "cave-id": "LOL-1650",
+      "cave-id": "LOLC-1650",
       "latitude": [],
       "longitude": [],
       "altitude": 2030,
@@ -1018,7 +1018,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Grotta delle Condotte Freatiche",
       "other-cave-name": [],
-      "cave-id": "LOL-1739",
+      "cave-id": "LOLC-1739",
       "latitude": [],
       "longitude": [],
       "altitude": 2125,
@@ -1034,7 +1034,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Abisso dei Marons Glaces",
       "other-cave-name": [],
-      "cave-id": "LOL-1809",
+      "cave-id": "LOLC-1809",
       "latitude": [],
       "longitude": [],
       "altitude": 2075,
@@ -1050,7 +1050,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Grotta del Pifferaio",
       "other-cave-name": [],
-      "cave-id": "LOL-1842",
+      "cave-id": "LOLC-1842",
       "latitude": [],
       "longitude": [],
       "altitude": 2140,
@@ -1066,7 +1066,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Infermi nel Ghiaccio",
       "other-cave-name": [],
-      "cave-id": "LOL-1887",
+      "cave-id": "LOLC-1887",
       "latitude": [],
       "longitude": [],
       "altitude": 2065,
@@ -1082,7 +1082,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Inferno di Ghiaccio",
       "other-cave-name": [],
-      "cave-id": "LOL-1904",
+      "cave-id": "LOLC-1904",
       "latitude": [],
       "longitude": [],
       "altitude": 2120,
@@ -1098,7 +1098,7 @@
       "phys-area-name": "Moncodeno-Grigna Settentrionale",
       "principal-cave-name": "Holiday on Ice",
       "other-cave-name": [],
-      "cave-id": "LOL-1916",
+      "cave-id": "LOLC-1916",
       "latitude": [],
       "longitude": [],
       "altitude": 2144,
@@ -1114,7 +1114,7 @@
       "phys-area-name": "Piano delle Platigliole-Monte Scorluzzo",
       "principal-cave-name": "Grotta di Cristallo",
       "other-cave-name": [],
-      "cave-id": "LOS-3056",
+      "cave-id": "LOSO-3056",
       "latitude": [],
       "longitude": [],
       "altitude": 2780,
@@ -7665,12 +7665,13 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": [],
+      "phys-area-name": "Hawaii Island; Hualalai",
       "principal-cave-name": "Ambigua Cave",
       "length": 1764,
       "vertical-extent": 293,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=941",
+      "reference": "Medville (2003) The survey of Ambigua Cave, Haw. Spel. Surv. Newsletter 14, 10-11",
       "reference": "Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf"
     },
 
@@ -8895,12 +8896,14 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": [],
+      "state-or-province": "Hawaii; North Kona District",
+      "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Black Pellet Cave",
       "length": 2378,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=943"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=943",
+      "reference": "Medville (2005) Black Pellet Cave, Haw. Spel. Surv. Newsletter 17, 14-17",
+      "reference": "White (2010) J. Cave Karst Std. 72(2), 75-85"
     },
 
     {
@@ -8921,7 +8924,8 @@
       "length": 1110,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=746"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=746",
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
     },
 
     {
@@ -12152,15 +12156,30 @@
       "state-or-province": "Sicilia",
       "phys-area-name": "Sicily; Etna",
       "principal-cave-name": "Cutrona Cave (Grotta Cutrona)",
-      "other-cave-name": "SICT 1216",
       "other-cave-name": "Grotta MC1 Grotta",
+      "cave-id": "SICT-1216",
       "altitude": 1860,
       "length": 870,
       "vertical-extent": 97,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1546",
-      "reference": "http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
+      "reference": "Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
+    },
+
+    {
+      "country-name": "Italy",
+      "state-or-province": "Sicilia",
+      "phys-area-name": "Sicily; Etna",
+      "principal-cave-name": "Grotta Petralia",
+      "other-cave-name": "Grotta Leucatia",
+      "cave-id": "SICT-1205",
+      "altitude": 138,
+      "length": 518,
+      "vertical-extent": 21,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
     },
 
     {
@@ -14184,20 +14203,26 @@
       "country-name": "Italy",
       "state-or-province": "Sicilia",
       "phys-area-name": "Sicily",
-      "principal-cave-name": "Grotta degli Inglese",
+      "principal-cave-name": "Grotta degli Inglesi",
       "length": 566,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1539"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1539",
+      "reference": "Guest et al. (1984) https://doi.org/10.1007/BF01961232"
     },
 
     {
       "country-name": "Italy",
-      "state-or-province": "Catania; Etna",
-      "phys-area-name": "Sicily",
+      "state-or-province": "Sicilia",
+      "phys-area-name": "Sicily; Etna",
       "principal-cave-name": "Grotta dei Lamponi",
+      "cave-id": "SICT-1019",
+      "altitude": 1750,
       "length": 784,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=667"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=667",
+      "reference": "Licitra (1982) http://www.vulcanospeleology.org/sym03/ISV3x14.pdf",
+      "reference": "Guest et al. (1984) https://doi.org/10.1007/BF01961232"
     },
 
     {
@@ -14205,14 +14230,44 @@
       "state-or-province": "Sicilia",
       "phys-area-name": "Sicily; Etna",
       "principal-cave-name": "Grotta dei Tre Livelli",
-      "other-cave-name": "SICT 1004",
       "other-cave-name": "Galleriadei Pipistrelli",
+      "cave-id": "SICT-1004",
       "altitude": "1625-1675",
       "length": 1150,
       "vertical-extent": 304,
+      "number-of-entrances": 2,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1540",
-      "reference": "http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
+      "reference": "Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf",
+      "reference": "Licitra (1982) http://www.vulcanospeleology.org/sym03/ISV3x14.pdf"
+    },
+
+    {
+      "country-name": "Italy",
+      "state-or-province": "Sicilia",
+      "phys-area-name": "Sicily; Etna",
+      "principal-cave-name": "Grotta del Santo",
+      "other-cave-name": [],
+      "cave-id": "SICT-1032",
+      "altitude": 1043,
+      "length": 924,
+      "vertical-extent": 44,
+      "cave-type": "lava tunnel",
+      "reference": "Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
+    },
+
+    {
+      "country-name": "Italy",
+      "state-or-province": "Sicilia",
+      "phys-area-name": "Sicily; Etna",
+      "principal-cave-name": "Grotta del Lago",
+      "other-cave-name": [],
+      "cave-id": "SICT-1196",
+      "altitude": 2130,
+      "length": 288,
+      "vertical-extent": 41,
+      "cave-type": "lava tunnel",
+      "reference": "Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
     },
 
     {
@@ -14222,7 +14277,8 @@
       "principal-cave-name": "Grotta del Labirinto",
       "length": 1500,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1541"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1541",
+      "reference": "Guest et al. (1984) https://doi.org/10.1007/BF01961232"
     },
 
     {
@@ -14230,9 +14286,12 @@
       "state-or-province": "Sicilia",
       "phys-area-name": "Sicily; Etna",
       "principal-cave-name": "Grotta dell Intraleo",
+      "cave-id": "SICT-1007",
+      "altitude": 1325,
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1542"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1542",
+      "reference": "Licitra (1982) http://www.vulcanospeleology.org/sym03/ISV3x14.pdf"
     },
 
     {
@@ -14240,13 +14299,55 @@
       "state-or-province": "Sicilia",
       "phys-area-name": "Sicily; Etna",
       "principal-cave-name": "Grotta di Serracozzo I",
-      "other-cave-name": "SICT 1065",
+      "cave-id": "SICT-1065",
       "altitude": 1840,
       "length": 350,
       "vertical-extent": 60,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1543",
-      "reference": "http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
+      "reference": "Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
+    },
+
+    {
+      "country-name": "Italy",
+      "state-or-province": "Sicilia",
+      "phys-area-name": "Sicily; Etna",
+      "principal-cave-name": "Abisso Profondo Nero",
+      "cave-id": "SICT-1084",
+      "altitude": "1900 lower entrance",
+      "altitude": "1995 upper entrance",
+      "length": " >1170",
+      "vertical-extent": 174,
+      "cave-type": "lava tunnel",
+      "reference": "Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
+    },
+
+    {
+      "country-name": "Italy",
+      "state-or-province": "Sicilia",
+      "phys-area-name": "Sicily; Etna",
+      "principal-cave-name": "Grotta del Lago",
+      "other-cave-name": "Grotta dei Pecorai",
+      "cave-id": "SICT-1196",
+      "altitude": 2130,
+      "length": 288,
+      "vertical-extent": 41,
+      "cave-type": "lava tunnel",
+      "reference": "Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
+    },
+
+    {
+      "country-name": "Italy",
+      "state-or-province": "Sicilia",
+      "phys-area-name": "Sicily; Etna",
+      "principal-cave-name": "Grotta degli Archi",
+      "other-cave-name": "Grotta di Monte Pecoraro",
+      "cave-id": "SICT-1005",
+      "altitude": "2010-2075",
+      "length": 284,
+      "vertical-extent": 73,
+      "cave-type": "lava tunnel",
+      "reference": "Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"
     },
 
     {
@@ -14273,7 +14374,7 @@
       "country-name": "Italy",
       "state-or-province": "Sicilia",
       "phys-area-name": "Sicily; Etna",
-      "principal-cave-name": "Grotte del Gelo",
+      "principal-cave-name": "Grotta del Gelo",
       "altitude": 2030,
       "length": "~120",
       "number-of-entrances": 1,
@@ -14285,6 +14386,7 @@
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1545",
       "reference": "Caffo and Marino http://vulcanospeleology.org/sym09/ISV9Eaj.pdf",
       "reference": "Marino http://www.vulcanospeleology.org/sym09/ISV9Eaj1.pdf",
+      "reference": "Marino (1992) http://www.glaciologia.it/wp-content/uploads/FullText/full_text_15_1_2/18_GFDQ_15_1_2_Marino_127_132.pdf",
       "cave-use": "guided tourist cave"
     },
 
@@ -14647,16 +14749,6 @@
       "length": 187,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=53"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
-      "principal-cave-name": "Haena Caves",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=984"
     },
 
     {
@@ -15162,7 +15254,8 @@
       "principal-cave-name": "Hongo Store Cave",
       "length": 400,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=734"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=734",
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
     },
 
     {
@@ -15285,7 +15378,8 @@
       "principal-cave-name": "Hualalai Ranch Cave",
       "length": 16093,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=934"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=934",
+      "reference": "Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf"
     },
 
     {
@@ -16797,7 +16891,8 @@
       "length": 200,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=824",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=881"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=881",
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
     },
 
     {
@@ -16811,17 +16906,19 @@
       "length": 187,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=823",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=882"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=882",
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
     },
 
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Kauai",
       "principal-cave-name": "Koloa Cave #3",
       "length": 50,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=883"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=983",
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
     },
 
     {
@@ -16831,7 +16928,8 @@
       "principal-cave-name": "Koloa Cave #4",
       "length": 20,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=884"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=884",
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
     },
 
     {
@@ -17027,7 +17125,8 @@
       "branch-name": "Eli's Pit Cave",
       "branch-name": "Maelstrom",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=933",
-      "reference": "http://www.hawaiicaves.org/kanohina.htm"
+      "reference": "http://www.hawaiicaves.org/kanohina.htm",
+      "reference": "White (2010) J. Cave Karst Std. 72(2), 75-85"
     },
 
     {
@@ -17586,10 +17685,11 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
+      "phys-area-name": "Kauai; Koloa",
       "principal-cave-name": "Limestone Quarry Cave",
       "length": 150,
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=982"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=982",
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
     },
 
     {
@@ -17704,7 +17804,8 @@
       "altitude": "~2000",
       "length": 500,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=832"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=832",
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
     },
 
     {
@@ -18073,6 +18174,28 @@
 
     {
       "country-name": "United States of America",
+      "state-or-province": "Hawaii; North Kona District",
+      "phys-area-name": "Hawaii Island",
+      "principal-cave-name": "Lama Lua Cave",
+      "length": 5523,
+      "cave-type": "lava tunnel",
+      "reference": "Medville (2007) Haw. Spel. Surv. Newsletter 65, 10-17",
+      "reference": "White (2010) J. Cave Karst Std. 72(2), 75-85",
+      "reference": "Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii; North Kona District",
+      "phys-area-name": "Hawaii Island",
+      "principal-cave-name": "Pueo Cave",
+      "length": " >6500",
+      "cave-type": "lava tunnel",
+      "reference": "Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
       "state-or-province": "Oregon; Harney County",
       "phys-area-name": [],
       "principal-cave-name": "Malheur Cave",
@@ -18171,15 +18294,17 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
+      "phys-area-name": "Kauai; Haena Beach Park",
       "principal-cave-name": "Maniniholo Dry Cave",
       "other-cave-name": "Menehune Dry Cave",
       "other-cave-name": "Running Fish Cave",
+      "other-cave-name": "Manini Holo",
       "length": 130,
       "rock-type": "basalt",
-      "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=822",
-      "reference": "Leveille et al. (2000) doi:10.1016/S0009-2541(00)00213-8"
+      "reference": "Leveille et al. (2000) doi:10.1016/S0009-2541(00)00213-8",
+      "reference": "Kociolek et al. (2013) doi:10.1080/09670262.2013.860239",
+      "reference": "https://www.showcaves.com/english/usa/caves/Waikanaloa.html"
     },
 
     {
@@ -19679,7 +19804,8 @@
       "principal-cave-name": "Offal Cave",
       "length": 3400,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=876"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=876",
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
     },
 
     {
@@ -20600,7 +20726,8 @@
       "altitude": "~2000",
       "length": "100+",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=866"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=866",
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
     },
 
     {
@@ -24440,7 +24567,8 @@
       "principal-cave-name": "Transect 1 Cave",
       "length": 30,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=864"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=864",
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
     },
 
     {
@@ -24726,7 +24854,8 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=936",
-      "reference": "Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf"
+      "reference": "Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf",
+      "reference": "Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf"
     },
 
     {
@@ -25177,21 +25306,24 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Kauai County",
-      "phys-area-name": "Kauai Island",
+      "phys-area-name": "Kauai Island; Haena Caves",
       "principal-cave-name": "Waikanaloa Wet Cave",
       "other-cave-name": "Waimoo Wet Cave",
       "length": 82,
       "cave-type": "lava tunnel",
       "comments": "partially under water",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=958",
-      "reference": "Leveille et al. (2000) doi:10.1016/S0009-2541(00)00213-8"
+      "reference": "Leveille et al. (2000) doi:10.1016/S0009-2541(00)00213-8",
+      "reference": "https://www.showcaves.com/english/usa/caves/Waikanaloa.html"
     },
 
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
+      "phys-area-name": "Kauai; Haena State Park",
       "principal-cave-name": "Waikapalae Wet Cave",
+      "other-cave-name": "Waimoo Wet Cave",
+      "other-cave-name": "Blue Room Wet Cave",
       "length": 60,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=826",
@@ -26006,7 +26138,8 @@
       "length": " >64700",
       "vertical-extent": " >1500",
       "cave-type": "lava tunnel",
-      "reference": "http://www.vulcanospeleology.org/newsletters/Vulcano76%20July%202020%20Hi%20ResV2.pdf"
+      "reference": "http://www.vulcanospeleology.org/newsletters/Vulcano76%20July%202020%20Hi%20ResV2.pdf",
+      "reference": "Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf"
     },
 
     {
@@ -26020,7 +26153,8 @@
       "vertical-extent": 15,
       "cave-type": "lava tunnel",
       "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101",
-      "reference": "Phuc et al. (2018) http://www.vulcanospeleology.org/sym18/Proceedings/Honda_III.pdf"
+      "reference": "Phuc et al. (2018) http://www.vulcanospeleology.org/sym18/Proceedings/Honda_III.pdf",
+      "reference": "Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf"
     },
 
     {
@@ -26044,7 +26178,8 @@
       "length": 716,
       "vertical-extent": 7,
       "cave-type": "lava tunnel",
-      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101",
+      "reference": "Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf"
     },
 
     {
@@ -26055,7 +26190,8 @@
       "length": 252,
       "vertical-extent": 9,
       "cave-type": "lava tunnel",
-      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101",
+      "reference": "Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf"
     },
 
     {
@@ -26066,7 +26202,8 @@
       "length": 180,
       "vertical-extent": 4,
       "cave-type": "lava tunnel",
-      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101",
+      "reference": "Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf"
     },
 
     {
@@ -26077,7 +26214,8 @@
       "length": 294,
       "vertical-extent": 5,
       "cave-type": "lava tunnel",
-      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101",
+      "reference": "Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf"
     },
 
     {
@@ -26101,7 +26239,8 @@
       "length": 791,
       "vertical-extent": 24,
       "cave-type": "lava tunnel",
-      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101",
+      "reference": "Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf"
     },
 
     {
@@ -26112,7 +26251,8 @@
       "length": 217,
       "vertical-extent": 23,
       "cave-type": "lava tunnel",
-      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101",
+      "reference": "Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf"
     },
 
     {
@@ -26167,7 +26307,8 @@
       "length": 439,
       "vertical-extent": 10,
       "cave-type": "lava tunnel",
-      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101",
+      "reference": "Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf"
     },
 
     {

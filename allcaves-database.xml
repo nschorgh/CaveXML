@@ -886,7 +886,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Voragine di Oltre M 40 Presso l'Ometto del Bregai</principal-cave-name>
       <other-cave-name/>
-      <cave-id>LOL-1586</cave-id>
+      <cave-id>LOLC-1586</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2090</altitude>
@@ -901,7 +901,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Abisso di val Laghetto</principal-cave-name>
       <other-cave-name/>
-      <cave-id>LOL-1600</cave-id>
+      <cave-id>LOLC-1600</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1823</altitude>
@@ -916,7 +916,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Aibsso Nel Bregai Medio</principal-cave-name>
       <other-cave-name/>
-      <cave-id>LOL-1640</cave-id>
+      <cave-id>LOLC-1640</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1930</altitude>
@@ -931,7 +931,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Abisso Delle Spade</principal-cave-name>
       <other-cave-name/>
-      <cave-id>LOL-1648</cave-id>
+      <cave-id>LOLC-1648</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2047</altitude>
@@ -946,7 +946,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Abusso sul Margine dell'Alto Bregai</principal-cave-name>
       <other-cave-name/>
-      <cave-id>LOL-1650</cave-id>
+      <cave-id>LOLC-1650</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2030</altitude>
@@ -961,7 +961,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Grotta delle Condotte Freatiche</principal-cave-name>
       <other-cave-name/>
-      <cave-id>LOL-1739</cave-id>
+      <cave-id>LOLC-1739</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2125</altitude>
@@ -976,7 +976,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Abisso dei Marons Glaces</principal-cave-name>
       <other-cave-name/>
-      <cave-id>LOL-1809</cave-id>
+      <cave-id>LOLC-1809</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2075</altitude>
@@ -991,7 +991,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Grotta del Pifferaio</principal-cave-name>
       <other-cave-name/>
-      <cave-id>LOL-1842</cave-id>
+      <cave-id>LOLC-1842</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2140</altitude>
@@ -1006,7 +1006,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Infermi nel Ghiaccio</principal-cave-name>
       <other-cave-name/>
-      <cave-id>LOL-1887</cave-id>
+      <cave-id>LOLC-1887</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2065</altitude>
@@ -1021,7 +1021,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Inferno di Ghiaccio</principal-cave-name>
       <other-cave-name/>
-      <cave-id>LOL-1904</cave-id>
+      <cave-id>LOLC-1904</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2120</altitude>
@@ -1036,7 +1036,7 @@
       <phys-area-name>Moncodeno-Grigna Settentrionale</phys-area-name>
       <principal-cave-name>Holiday on Ice</principal-cave-name>
       <other-cave-name/>
-      <cave-id>LOL-1916</cave-id>
+      <cave-id>LOLC-1916</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2144</altitude>
@@ -1051,7 +1051,7 @@
       <phys-area-name>Piano delle Platigliole-Monte Scorluzzo</phys-area-name>
       <principal-cave-name>Grotta di Cristallo</principal-cave-name>
       <other-cave-name/>
-      <cave-id>LOS-3056</cave-id>
+      <cave-id>LOSO-3056</cave-id>
       <latitude/>
       <longitude/>
       <altitude>2780</altitude>
@@ -7210,12 +7210,13 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Hawaii Island; Hualalai</phys-area-name>
       <principal-cave-name>Ambigua Cave</principal-cave-name>
       <length>1764</length>
       <vertical-extent>293</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=941</reference>
+      <reference>Medville (2003) The survey of Ambigua Cave, Haw. Spel. Surv. Newsletter 14, 10-11</reference>
       <reference>Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf</reference>
    </record>
    <record>
@@ -8330,12 +8331,14 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name/>
+      <state-or-province>Hawaii; North Kona District</state-or-province>
+      <phys-area-name>Hawaii Island</phys-area-name>
       <principal-cave-name>Black Pellet Cave</principal-cave-name>
       <length>2378</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=943</reference>
+      <reference>Medville (2005) Black Pellet Cave, Haw. Spel. Surv. Newsletter 17, 14-17</reference>
+      <reference>White (2010) J. Cave Karst Std. 72(2), 75-85</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -8355,6 +8358,7 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=746</reference>
+      <reference>Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf</reference>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -11287,15 +11291,29 @@
       <state-or-province>Sicilia</state-or-province>
       <phys-area-name>Sicily; Etna</phys-area-name>
       <principal-cave-name>Cutrona Cave (Grotta Cutrona)</principal-cave-name>
-      <other-cave-name>SICT 1216</other-cave-name>
       <other-cave-name>Grotta MC1 Grotta</other-cave-name>
+      <cave-id>SICT-1216</cave-id>
       <altitude>1860</altitude>
       <length>870</length>
       <vertical-extent>97</vertical-extent>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1546</reference>
-      <reference>http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
+      <reference>Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
+   </record>
+   <record>
+      <country-name>Italy</country-name>
+      <state-or-province>Sicilia</state-or-province>
+      <phys-area-name>Sicily; Etna</phys-area-name>
+      <principal-cave-name>Grotta Petralia</principal-cave-name>
+      <other-cave-name>Grotta Leucatia</other-cave-name>
+      <cave-id>SICT-1205</cave-id>
+      <altitude>138</altitude>
+      <length>518</length>
+      <vertical-extent>21</vertical-extent>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -13140,33 +13158,67 @@
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
       <phys-area-name>Sicily</phys-area-name>
-      <principal-cave-name>Grotta degli Inglese</principal-cave-name>
+      <principal-cave-name>Grotta degli Inglesi</principal-cave-name>
       <length>566</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1539</reference>
+      <reference>Guest et al. (1984) https://doi.org/10.1007/BF01961232</reference>
    </record>
    <record>
       <country-name>Italy</country-name>
-      <state-or-province>Catania; Etna</state-or-province>
-      <phys-area-name>Sicily</phys-area-name>
+      <state-or-province>Sicilia</state-or-province>
+      <phys-area-name>Sicily; Etna</phys-area-name>
       <principal-cave-name>Grotta dei Lamponi</principal-cave-name>
+      <cave-id>SICT-1019</cave-id>
+      <altitude>1750</altitude>
       <length>784</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=667</reference>
+      <reference>Licitra (1982) http://www.vulcanospeleology.org/sym03/ISV3x14.pdf</reference>
+      <reference>Guest et al. (1984) https://doi.org/10.1007/BF01961232</reference>
    </record>
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
       <phys-area-name>Sicily; Etna</phys-area-name>
       <principal-cave-name>Grotta dei Tre Livelli</principal-cave-name>
-      <other-cave-name>SICT 1004</other-cave-name>
       <other-cave-name>Galleriadei Pipistrelli</other-cave-name>
+      <cave-id>SICT-1004</cave-id>
       <altitude>1625-1675</altitude>
       <length>1150</length>
       <vertical-extent>304</vertical-extent>
+      <number-of-entrances>2</number-of-entrances>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1540</reference>
-      <reference>http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
+      <reference>Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
+      <reference>Licitra (1982) http://www.vulcanospeleology.org/sym03/ISV3x14.pdf</reference>
+   </record>
+   <record>
+      <country-name>Italy</country-name>
+      <state-or-province>Sicilia</state-or-province>
+      <phys-area-name>Sicily; Etna</phys-area-name>
+      <principal-cave-name>Grotta del Santo</principal-cave-name>
+      <other-cave-name/>
+      <cave-id>SICT-1032</cave-id>
+      <altitude>1043</altitude>
+      <length>924</length>
+      <vertical-extent>44</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
+   </record>
+   <record>
+      <country-name>Italy</country-name>
+      <state-or-province>Sicilia</state-or-province>
+      <phys-area-name>Sicily; Etna</phys-area-name>
+      <principal-cave-name>Grotta del Lago</principal-cave-name>
+      <other-cave-name/>
+      <cave-id>SICT-1196</cave-id>
+      <altitude>2130</altitude>
+      <length>288</length>
+      <vertical-extent>41</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
    </record>
    <record>
       <country-name>Italy</country-name>
@@ -13176,29 +13228,73 @@
       <length>1500</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1541</reference>
+      <reference>Guest et al. (1984) https://doi.org/10.1007/BF01961232</reference>
    </record>
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
       <phys-area-name>Sicily; Etna</phys-area-name>
       <principal-cave-name>Grotta dell Intraleo</principal-cave-name>
+      <cave-id>SICT-1007</cave-id>
+      <altitude>1325</altitude>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1542</reference>
+      <reference>Licitra (1982) http://www.vulcanospeleology.org/sym03/ISV3x14.pdf</reference>
    </record>
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
       <phys-area-name>Sicily; Etna</phys-area-name>
       <principal-cave-name>Grotta di Serracozzo I</principal-cave-name>
-      <other-cave-name>SICT 1065</other-cave-name>
+      <cave-id>SICT-1065</cave-id>
       <altitude>1840</altitude>
       <length>350</length>
       <vertical-extent>60</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1543</reference>
-      <reference>http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
+      <reference>Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
    </record>
+   <record>
+      <country-name>Italy</country-name>
+      <state-or-province>Sicilia</state-or-province>
+      <phys-area-name>Sicily; Etna</phys-area-name>
+      <principal-cave-name>Abisso Profondo Nero</principal-cave-name>
+      <cave-id>SICT-1084</cave-id>
+      <altitude>1900 lower entrance</altitude>
+      <altitude>1995 upper entrance</altitude>
+      <length> >1170</length>
+      <vertical-extent>174</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
+   </record>
+   <record>
+      <country-name>Italy</country-name>
+      <state-or-province>Sicilia</state-or-province>
+      <phys-area-name>Sicily; Etna</phys-area-name>
+      <principal-cave-name>Grotta del Lago</principal-cave-name>
+      <other-cave-name>Grotta dei Pecorai</other-cave-name>
+      <cave-id>SICT-1196</cave-id>
+      <altitude>2130</altitude>
+      <length>288</length>
+      <vertical-extent>41</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
+   </record>
+   <record>
+      <country-name>Italy</country-name>
+      <state-or-province>Sicilia</state-or-province>
+      <phys-area-name>Sicily; Etna</phys-area-name>
+      <principal-cave-name>Grotta degli Archi</principal-cave-name>
+      <other-cave-name>Grotta di Monte Pecoraro</other-cave-name>
+      <cave-id>SICT-1005</cave-id>
+      <altitude>2010-2075</altitude>
+      <length>284</length>
+      <vertical-extent>73</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
+   </record>
+   
    <record>
       <country-name>Cameroon</country-name>
       <state-or-province>Sud-Oeust</state-or-province>
@@ -13221,7 +13317,7 @@
       <country-name>Italy</country-name>
       <state-or-province>Sicilia</state-or-province>
       <phys-area-name>Sicily; Etna</phys-area-name>
-      <principal-cave-name>Grotte del Gelo</principal-cave-name>
+      <principal-cave-name>Grotta del Gelo</principal-cave-name>
       <altitude>2030</altitude>
       <length>~120</length>
       <number-of-entrances>1</number-of-entrances>
@@ -13233,6 +13329,7 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1545</reference>
       <reference>Caffo and Marino http://vulcanospeleology.org/sym09/ISV9Eaj.pdf</reference>
       <reference>Marino http://www.vulcanospeleology.org/sym09/ISV9Eaj1.pdf</reference>
+      <reference>Marino (1992) http://www.glaciologia.it/wp-content/uploads/FullText/full_text_15_1_2/18_GFDQ_15_1_2_Marino_127_132.pdf</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -13563,15 +13660,6 @@
       <length>187</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=53</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
-      <principal-cave-name>Haena Caves</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=984</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -14034,6 +14122,7 @@
       <length>400</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=734</reference>
+      <reference>Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -14146,6 +14235,7 @@
       <length>16093</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=934</reference>
+      <reference>Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -15521,6 +15611,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=824</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=881</reference>
+      <reference>Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -15534,15 +15625,17 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=823</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=882</reference>
+      <reference>Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Maui</phys-area-name>
+      <phys-area-name>Kauai</phys-area-name>
       <principal-cave-name>Koloa Cave #3</principal-cave-name>
       <length>50</length>
       <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=883</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=983</reference>
+      <reference>Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -15552,6 +15645,7 @@
       <length>20</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=884</reference>
+      <reference>Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -15731,6 +15825,7 @@
       <branch-name>Maelstrom</branch-name>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=933</reference>
       <reference>http://www.hawaiicaves.org/kanohina.htm</reference>
+      <reference>White (2010) J. Cave Karst Std. 72(2), 75-85</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -16238,10 +16333,11 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
+      <phys-area-name>Kauai; Koloa</phys-area-name>
       <principal-cave-name>Limestone Quarry Cave</principal-cave-name>
       <length>150</length>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=982</reference>
+      <reference>Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -16347,6 +16443,7 @@
       <length>500</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=832</reference>
+      <reference>Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -16680,6 +16777,26 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
+      <state-or-province>Hawaii; North Kona District</state-or-province>
+      <phys-area-name>Hawaii Island</phys-area-name>
+      <principal-cave-name>Lama Lua Cave</principal-cave-name>
+      <length>5523</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Medville (2007) Haw. Spel. Surv. Newsletter 65, 10-17</reference>
+      <reference>White (2010) J. Cave Karst Std. 72(2), 75-85</reference>
+      <reference>Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Hawaii; North Kona District</state-or-province>
+      <phys-area-name>Hawaii Island</phys-area-name>
+      <principal-cave-name>Pueo Cave</principal-cave-name>
+      <length> >6500</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
       <state-or-province>Oregon; Harney County</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Malheur Cave</principal-cave-name>
@@ -16770,15 +16887,17 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
+      <phys-area-name>Kauai; Haena Beach Park</phys-area-name>
       <principal-cave-name>Maniniholo Dry Cave</principal-cave-name>
       <other-cave-name>Menehune Dry Cave</other-cave-name>
       <other-cave-name>Running Fish Cave</other-cave-name>
+      <other-cave-name>Manini Holo</other-cave-name>
       <length>130</length>
       <rock-type>basalt</rock-type>
-      <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=822</reference>
       <reference>Leveille et al. (2000) doi:10.1016/S0009-2541(00)00213-8</reference>
+      <reference>Kociolek et al. (2013) doi:10.1080/09670262.2013.860239</reference>
+      <reference>https://www.showcaves.com/english/usa/caves/Waikanaloa.html</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -18145,6 +18264,7 @@
       <length>3400</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=876</reference>
+      <reference>Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -18983,6 +19103,7 @@
       <length>100+</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=866</reference>
+      <reference>Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -22476,6 +22597,7 @@
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=864</reference>
+      <reference>Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -22737,6 +22859,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=936</reference>
       <reference>Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf</reference>
+      <reference>Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -23147,7 +23270,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Kauai County</state-or-province>
-      <phys-area-name>Kauai Island</phys-area-name>
+      <phys-area-name>Kauai Island; Haena Caves</phys-area-name>
       <principal-cave-name>Waikanaloa Wet Cave</principal-cave-name>
       <other-cave-name>Waimoo Wet Cave</other-cave-name>
       <length>82</length>
@@ -23155,12 +23278,15 @@
       <comments>partially under water</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=958</reference>
       <reference>Leveille et al. (2000) doi:10.1016/S0009-2541(00)00213-8</reference>
+      <reference>https://www.showcaves.com/english/usa/caves/Waikanaloa.html</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Kauai</phys-area-name>
+      <phys-area-name>Kauai; Haena State Park</phys-area-name>
       <principal-cave-name>Waikapalae Wet Cave</principal-cave-name>
+      <other-cave-name>Waimoo Wet Cave</other-cave-name>
+      <other-cave-name>Blue Room Wet Cave</other-cave-name>
       <length>60</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=826</reference>
@@ -23905,6 +24031,7 @@
       <vertical-extent> >1500</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>http://www.vulcanospeleology.org/newsletters/Vulcano76%20July%202020%20Hi%20ResV2.pdf</reference>
+      <reference>Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf</reference>
    </record>
    <record>
       <country-name>Viet Nam</country-name>
@@ -23918,6 +24045,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
       <reference>Phuc et al. (2018) http://www.vulcanospeleology.org/sym18/Proceedings/Honda_III.pdf</reference>
+      <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
       <country-name>Viet Nam</country-name>
@@ -23940,6 +24068,7 @@
       <vertical-extent>7</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+      <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
       <country-name>Viet Nam</country-name>
@@ -23950,6 +24079,7 @@
       <vertical-extent>9</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+      <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
       <country-name>Viet Nam</country-name>
@@ -23960,6 +24090,7 @@
       <vertical-extent>4</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+      <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
       <country-name>Viet Nam</country-name>
@@ -23970,6 +24101,7 @@
       <vertical-extent>5</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+      <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
       <country-name>Viet Nam</country-name>
@@ -23992,6 +24124,7 @@
       <vertical-extent>24</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+      <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
       <country-name>Viet Nam</country-name>
@@ -24002,6 +24135,7 @@
       <vertical-extent>23</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+      <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
       <country-name>Viet Nam</country-name>
@@ -24052,6 +24186,7 @@
       <vertical-extent>10</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
+      <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
       <country-name>Viet Nam</country-name>

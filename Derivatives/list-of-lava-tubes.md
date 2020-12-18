@@ -1,6 +1,6 @@
 List of Lava Tubes
 ==================
-This list of 1745 volcanic caves was generated from a CaveXML formatted database. - Dec 12, 2020   
+This list of 1752 volcanic caves was generated from a CaveXML formatted database. - Dec 17, 2020  
 
 Argentina - Catamarca **Cueva de San Fransisco**    
 Argentina - La Pampa **Cueva La Alada**    
@@ -176,7 +176,7 @@ Iceland - Arnessysla **Vorduhellir**
 Iceland - Austur-Hunavatnssysla **Floki**    
 Iceland - Austur-Hunavatnssysla **HjartartrÖd**    
 Iceland **Blami Cave**  Blue Mineral Cave   
-Iceland **Blindgtuhellir**    
+Iceland **Blindgtuhellir**  Blind Cave; Blindgata   
 Iceland **Dirfskuhellir**    
 Iceland **Drlahellir**  Driblet Cave   
 Iceland - Eldhraun/Laki **Laekjarhellir**  Stream Cave   
@@ -231,15 +231,21 @@ Iceland - Vestmannaeyjar - Surtsey Jarhraun **S-6**
 Iceland **Vlundur**  Labyrinth Cave   
 Iceland **Vonbrigdahellir**  Disappointment Cave   
 Indonesia - Java - Java **Gua Lawa**    
-Italy - Catania; Etna - Sicily **Grotta dei Lamponi**    
-Italy - Sicilia - Sicily; Etna **Cutrona Cave (Grotta Cutrona)**  SICT 1216; Grotta MC1 Grotta   
-Italy - Sicilia - Sicily; Etna **Grotta dei Tre Livelli**  SICT 1004; Galleriadei Pipistrelli   
+Italy - Sicilia - Sicily; Etna **Abisso Profondo Nero**  SICT-1084  
+Italy - Sicilia - Sicily; Etna **Cutrona Cave (Grotta Cutrona)**  Grotta MC1 Grotta SICT-1216  
+Italy - Sicilia - Sicily; Etna **Grotta degli Archi**  Grotta di Monte Pecoraro SICT-1005  
+Italy - Sicilia - Sicily; Etna **Grotta dei Lamponi**  SICT-1019  
+Italy - Sicilia - Sicily; Etna **Grotta dei Tre Livelli**  Galleriadei Pipistrelli SICT-1004  
+Italy - Sicilia - Sicily; Etna **Grotta del Gelo**    
 Italy - Sicilia - Sicily; Etna **Grotta del Labirinto**    
-Italy - Sicilia - Sicily; Etna **Grotta dell Intraleo**    
-Italy - Sicilia - Sicily; Etna **Grotta di Serracozzo I**  SICT 1065   
+Italy - Sicilia - Sicily; Etna **Grotta del Lago**  Grotta dei Pecorai SICT-1196  
+Italy - Sicilia - Sicily; Etna **Grotta del Lago**  SICT-1196  
+Italy - Sicilia - Sicily; Etna **Grotta dell Intraleo**  SICT-1007  
+Italy - Sicilia - Sicily; Etna **Grotta del Santo**  SICT-1032  
+Italy - Sicilia - Sicily; Etna **Grotta di Serracozzo I**  SICT-1065  
+Italy - Sicilia - Sicily; Etna **Grotta Petralia**  Grotta Leucatia SICT-1205  
 Italy - Sicilia - Sicily; Etna **Grotte de la Cantoniera**    
-Italy - Sicilia - Sicily; Etna **Grotte del Gelo**    
-Italy - Sicilia - Sicily **Grotta degli Inglese**    
+Italy - Sicilia - Sicily **Grotta degli Inglesi**    
 Japan - Kumamoto **Caninome Fuketsu**    
 Japan - Kumamoto **Inuotoshi Fuketsu**    
 Japan - Kumamoto **Jao Fuketsu**    
@@ -267,6 +273,7 @@ Japan - Mt. Fuji; Futagoyama lava flow **Banba Ana Cave**
 Japan - Mt. Fuji **Ginga Fuketsu Cave**    
 Japan - Mt. Fuji **Gyoja Ana Cave**    
 Japan - Mt. Fuji **Hachiman Ana Cave**    
+Japan - Mt. Fuji **Heijibara Fuketsu**    
 Japan - Mt. Fuji **Hito Ana Cave**    
 Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 1**    
 Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 10**    
@@ -349,6 +356,8 @@ Japan - Mt. Fuji **Zinza Fuketsu No. 6 Cave**
 Japan - Mt. Fuji **Zinza Fuketsu No. 7 Cave**    
 Japan - Mt. Fuji **Zinza Fuketsu No. 8 Cave**    
 Japan - Mt. Fuji **Zinza Fuketsu No. 9 Cave**    
+Japan - Mt. Unzen-dake **Fuketsu**    
+Japan - Mt. Unzen-dake **Hato Ana**    
 Japan - Nagasaki - Fukue Island **No-ana**    
 Japan - Nagasaki - Fukue Island **Sakishirazu-no-i-ana**    
 Japan - Nagasaki - Fuku-jima **Trinuk-i-ana**    
@@ -471,14 +480,8 @@ Micronesia - Kosrae **Kosrae Island tube**
 Moon **Gruithuisen**    
 Moon - Marius Hills; Oceanus Procellarum **Marius Hill A**    
 Moon - Marius Hills; Oceanus Procellarum **Marius Hill B**    
-New Zealand - Auckland City **104 Landscape Rd.**    
-New Zealand - Auckland City **104 Marsden Ave.**    
-New Zealand - Auckland City **113 Shackleton Rd.**    
-New Zealand - Auckland City **41 Kensington Ave.**    
-New Zealand - Auckland City **94 Shackleton Rd.**    
 New Zealand - Auckland City **Helena Rubinstein Cave**    
 New Zealand - Auckland City - Manurewa **Wiri Lava Cave**    
-New Zealand - Auckland City **Montimer's Cave**    
 New Zealand - Auckland City - Mt. Mangere **Ambury Rd. Cave**    
 New Zealand - Auckland City **No. 30 Gavin St.**    
 New Zealand - Auckland City **No. 81 Mt. Royal Ave.**    
@@ -490,7 +493,13 @@ New Zealand - Auckland City - Rangitote **Wallaby Cave**
 New Zealand - Auckland City **Rubbish Pit Cave**    
 New Zealand - Auckland City **Sanders Quarry Caves**    
 New Zealand - Auckland City **Scotlands Lava Cave**    
-New Zealand - Auckland City **Stewart's Cave**    
+New Zealand - Auckland City - Three Kings **104 Landscape Rd.**    
+New Zealand - Auckland City - Three Kings **104 Marsden Ave.**    
+New Zealand - Auckland City - Three Kings **113 Shackleton Rd.**    
+New Zealand - Auckland City - Three Kings **41 Kensington Ave.**    
+New Zealand - Auckland City - Three Kings **94 Shackleton Rd.**    
+New Zealand - Auckland City - Three Kings **Montimer's Cave**  No. 82 Landscape Rd.   
+New Zealand - Auckland City - Three Kings **Stewart's Cave**    
 New Zealand **Henwood Rd. Cave**    
 Portugal - Azores **Gruta dos Balcoes**    
 Portugal - Azores - Ilha de Graciosa **Furna do Exnofre**    
@@ -907,9 +916,9 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 United States of America - California; Siskiyou County - Lava Beds National Monument **Garden Bridges Cave**   *Part of* Labyrinth Cave System  
 United States of America - California; Siskiyou County - Lava Beds National Monument **Golden Dome Cave**   *Part of* Labyrinth Cave System  
 United States of America - California; Siskiyou County - Lava Beds National Monument **Heppe Ice Cave**  Heppe Cave   
-United States of America - California; Siskiyou County - Lava Beds National Monument **Hercules Leg Cave**    
+United States of America - California; Siskiyou County - Lava Beds National Monument **Hercules Leg Cave**   *Part of* Hercules Leg-Juniper Cave  
 United States of America - California; Siskiyou County - Lava Beds National Monument **Hopkins Chocolate Cave**   *Part of* Labyrinth Cave System  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Juniper Cave**    
+United States of America - California; Siskiyou County - Lava Beds National Monument **Juniper Cave**   *Part of* Hercules Leg-Juniper Cave  
 United States of America - California; Siskiyou County - Lava Beds National Monument **Labyrinth Cave**   *Part of* Labyrinth Cave System  
 United States of America - California; Siskiyou County - Lava Beds National Monument **Lava Brook Cave**   *Part of* Labyrinth Cave System  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands **Island Ice Cave**  Hambone Island Cave M-470  
@@ -955,9 +964,9 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 United States of America - California; Siskiyou County - Medicine Lake Highlands **Amazing Pits Cave**    
 United States of America - California; Siskiyou County - Medicine Lake Highlands **Animal Track Cave**    
 United States of America - California; Siskiyou County - Medicine Lake Highlands **Bertha's Cupboard Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Birdnest Cave**    
 United States of America - California; Siskiyou County - Medicine Lake Highlands **Caldwell Ice Caves**    
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Double Crater **Sign Cave**    
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Double-Hole Crater **Birdnest Cave**    
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Double-Hole Crater **Deep Ice Cave**  Bailey's Bailiwick   
 United States of America - California; Siskiyou County - Medicine Lake Highlands **Dragon's Head Cave**    
 United States of America - California; Siskiyou County - Medicine Lake Highlands **Fleener Chimneys**    
@@ -1045,8 +1054,6 @@ United States of America - California; Siskiyou County **Wind Cave**
 United States of America - California; Siskiyou County **Yellowjacket Ice Cave**    
 United States of America - California; Tehama County **Inskip Cave**    
 United States of America - California; Tehama County **Wilson Lake Ice Cave**    
-United States of America - Hawaii **Ambigua Cave**    
-United States of America - Hawaii **Black Pellet Cave**    
 United States of America - Hawaii **Coffee Cave**    
 United States of America - Hawaii - Hawaii (Big Island) **Ash Cave**    
 United States of America - Hawaii - Hawaii (Big Island) **Big Room cave**    
@@ -1061,12 +1068,12 @@ United States of America - Hawaii - Hawaii (Big Island); Hualalai **Kailua-Kona 
 United States of America - Hawaii - Hawaii (Big Island); Hualalai **Kaupulehu System**    
 United States of America - Hawaii - Hawaii (Big Island); Hualalai **Puu Waa waa Ranch Cave #1**    
 United States of America - Hawaii - Hawaii (Big Island); Hualalai **Puu Waa waa Ranch Cave #2**    
-United States of America - Hawaii - Hawaii (Big Island) **Keauhou Coconut Cave**    
 United States of America - Hawaii - Hawaii (Big Island); Kilauea **Blair Cave**    
 United States of America - Hawaii - Hawaii (Big Island); Kilauea **Christmas Cave**    
 United States of America - Hawaii - Hawaii (Big Island); Kilauea **Doc Bellou Cave**    
 United States of America - Hawaii - Hawaii (Big Island); Kilauea **Jen's Puka**    
 United States of America - Hawaii - Hawaii (Big Island); Kilauea **Jen's Puka Mauka Cave**    
+United States of America - Hawaii - Hawaii (Big Island); Kilauea **Keauhou Coconut Cave**    
 United States of America - Hawaii - Hawaii (Big Island); Kilauea **Keauhou Organ Cave**    
 United States of America - Hawaii - Hawaii (Big Island); Kilauea **Keauhou Petroglyph Cave**    
 United States of America - Hawaii - Hawaii (Big Island); Kilauea **Mauna Ulu Cave Group A**    
@@ -1102,6 +1109,7 @@ United States of America - Hawaii - Hawaii Island **Ash Crawl Cave**
 United States of America - Hawaii - Hawaii Island **Bombed Cave**    
 United States of America - Hawaii - Hawaii Island **Delissea Cave System**    
 United States of America - Hawaii - Hawaii Island **'D' Road Cave**    
+United States of America - Hawaii - Hawaii Island; Hualalai **Ambigua Cave**    
 United States of America - Hawaii - Hawaii Island; Hualalai **Pink Pistillaria Cave**    
 United States of America - Hawaii - Hawaii Island **Kalahuipua'a Burial Cave 340**    
 United States of America - Hawaii - Hawaii Island **Kalahuipua'a Caves**    
@@ -1120,12 +1128,14 @@ United States of America - Hawaii - Hawaii Island; Mauna Loa **Upper Bird Park C
 United States of America - Hawaii - Hawaii Island; Mauna Loa **Whitney's Cave**    
 United States of America - Hawaii - Hawaii Island **Palahemo Lava Tube**    
 United States of America - Hawaii - Hawaii Island **Postal Rift Cave**    
+United States of America - Hawaii; Kauai County - Kauai Island; Haena Caves **Waikanaloa Wet Cave**  Waimoo Wet Cave   
 United States of America - Hawaii; Kauai County - Kauai Island; Koloa **Ali'i Cave**  Weliweli 78   
 United States of America - Hawaii; Kauai County - Kauai Island; Koloa **Blind Eye Spider Cave**  Kiahuna Cave; Golf Course Cave   
+United States of America - Hawaii; Kauai County - Kauai Island; Koloa **McBryde Boundary Cave**  McBryde Boundary Road Cave; Koloa Cave #2; Koloa Pasture Cave   
+United States of America - Hawaii; Kauai County - Kauai Island; Koloa **McBryde Civil Defense Cave**  Koloa Cave #1   
 United States of America - Hawaii; Kauai County - Kauai Island; Koloa **Weliweli Cave 85A-E**    
 United States of America - Hawaii; Kauai County - Kauai Island; Na Pali Coast **Waialoha Cave**  Thankful Water Cave   
-United States of America - Hawaii; Kauai County - Kauai Island **Waikanaloa Wet Cave**  Waimoo Wet Cave   
-United States of America - Hawaii - Kauai **Haena Caves**    
+United States of America - Hawaii - Kauai; Haena State Park **Waikapalae Wet Cave**  Waimoo Wet Cave; Blue Room Wet Cave   
 United States of America - Hawaii - Kauai **Knudsen Cave #1**    
 United States of America - Hawaii - Kauai **Knudsen Cave #2**    
 United States of America - Hawaii - Kauai **Koloa Cave #3**    
@@ -1145,32 +1155,28 @@ United States of America - Hawaii - Kauai; Koloa **Waliweli 85C**  Shelter Cave 
 United States of America - Hawaii - Kauai; Koloa **Waliweli 85D**  Shelter Cave 85D   
 United States of America - Hawaii - Kauai; Koloa **Weliweli Cave 80A**    
 United States of America - Hawaii - Kauai **Lawa'i-kai Cave**  Lawai Kai Cave; Lawai Site 51   
-United States of America - Hawaii - Kauai **Maniniholo Dry Cave**  Menehune Dry Cave; Running Fish Cave   
 United States of America - Hawaii - Kauai; Na Pali Coast **Big Wet Cave**    
 United States of America - Hawaii - Kauai; Na Pali Coast **Honopu Arch**    
 United States of America - Hawaii - Kauai; Na Pali Coast **Lands End Cave**    
+United States of America - Hawaii - Kauai; Na Pali Coast **Waiawaipuhi Cave**  Great Blowhole Cave   
 United States of America - Hawaii - Kauai **Shelter Cave (Kukui-Îula 57)**    
-United States of America - Hawaii - Kauai **Waiahuakua Cave**    
-United States of America - Hawaii - Kauai **Waiawaipuhi Cave**    
-United States of America - Hawaii - Kauai **Waikapalae Wet Cave**    
 United States of America - Hawaii - Kauai **Waliweli 85A**  Shelter Cave 85A   
-United States of America - Hawaii; Ka'u District - Hawaii Island **CSH Site 17 Cave**    
-United States of America - Hawaii; Ka'u District - Hawaii Island **CSH Site 96 Cave**    
 United States of America - Hawaii; Ka'u District - Hawaii Island **Fern Cave**    
 United States of America - Hawaii; Ka'u District - Hawaii Island **Geology Cave**    
 United States of America - Hawaii; Kau District - Hawaii Island; Hilina Pali Area **Ledge Cave**    
 United States of America - Hawaii; Ka'u District - Hawaii Island; Hilini Pali; Kilauea **Earthquake Cave**    
 United States of America - Hawaii; Ka'u District - Hawaii Island **Kaukau Cave**    
+United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea **CSH Site 17 Cave**    
+United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea **CSH Site 96 Cave**    
 United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea **Palima Point Area Caves**  CSH Site 91 Cave   
 United States of America - Hawaii; Ka'u District - Hawaii Island **Refuge Cave Site B17-8**    
 United States of America - Hawaii; Kau District - Hawaii Island; South Point; Mauna Loa **Kamakalepo Cave System**    
-United States of America - Hawaii; Kaui County - Kauai Island; Koloa **McBryde Boundary Cave**  McBryde Boundary Road Cave; Koloa Cave #2; Koloa Pasture Cave   
-United States of America - Hawaii; Kaui County - Kauai Island; Koloa **McBryde Civil Defense Cave**  Koloa Cave #1   
 United States of America - Hawaii; Kilauea Forest Reserve - Hawaii (Big Island); Mauna Loa **Transect 1 Cave**    
 United States of America - Hawaii - Maui **Ananaluawahine Cave**    
 United States of America - Hawaii - Maui **Boundry Line Cave**    
 United States of America - Hawaii - Maui **Cape Kinau Lava Tube**    
 United States of America - Hawaii; Maui County - Lanai Island **Kealiakapu Cave**    
+United States of America - Hawaii; Maui County - Molokai **Ana Noio Cave**    
 United States of America - Hawaii - Maui **Dangerous Dan's Drop-off**    
 United States of America - Hawaii - Maui **Field 38 Cave**  Offal Cave   
 United States of America - Hawaii - Maui; Haleakala **Auwahi Cave**    
@@ -1178,10 +1184,12 @@ United States of America - Hawaii - Maui; Haleakala **Bishop's Cave**
 United States of America - Hawaii - Maui; Haleakala **Holoinawawai Stream Cave**    
 United States of America - Hawaii - Maui; Haleakala **Hukihuki Cave**    
 United States of America - Hawaii - Maui; Haleakala **Kahawaihapapa Cave**    
+United States of America - Hawaii - Maui; Haleakala **Kalua O Lapa Cave**  Skull Cave   
 United States of America - Hawaii - Maui; Haleakala **Long Cave**    
 United States of America - Hawaii - Maui; Haleakala **Lower Waihoi Valley Cave**    
 United States of America - Hawaii - Maui; Haleakala **Lower Wananalua Cave**    
 United States of America - Hawaii - Maui; Haleakala **Lua Lepo**    
+United States of America - Hawaii - Maui; Haleakala; Manawainaui Gulch **Crystal Cave**    
 United States of America - Hawaii - Maui; Haleakala National Park **Wainapana Cave**    
 United States of America - Hawaii - Maui; Haleakala **Offal Cave**    
 United States of America - Hawaii - Maui; Haleakala **Owl Cave**    
@@ -1191,13 +1199,10 @@ United States of America - Hawaii - Maui; Haleakala **Puu Naio Cave**
 United States of America - Hawaii - Maui **Haleakala Trail Cave**    
 United States of America - Hawaii - Maui; Haleakala **Upper Wananalua Cave**    
 United States of America - Hawaii - Maui; Haleakala **Wahoi Valley Trench Cave**    
-United States of America - Hawaii - Maui **Ka'Eleku Cavern**  Hana Lava Tube   
-United States of America - Hawaii - Maui **Koloa Cave #3**    
+United States of America - Hawaii - Maui **Ka'eleku Cavern**  Hana Lava Tube   
 United States of America - Hawaii - Maui **Lower Kipahulu Valley**    
 United States of America - Hawaii - Maui **Lower Nahiko Road Cave**    
 United States of America - Hawaii - Maui **Lua Manu Cave**    
-United States of America - Hawaii - Maui; Manawainaui Gulch **Crystal Cave**    
-United States of America - Hawaii - Maui **Skull Cave**  Kalua O Lapa Cave   
 United States of America - Hawaii - Maui; Upper Kipahulu Valley **Lua Mano**    
 United States of America - Hawaii - Maui; Upper Kipahulu Valley **Puka Moa**    
 United States of America - Hawaii - Maui **Upper Nahiko Road Cave**    
@@ -1206,7 +1211,6 @@ United States of America - Hawaii - Mauna Loa **Arsia Cave**  Arsia Ice Cave
 United States of America - Hawaii - Mauna Loa **Big Red Cave**    
 United States of America - Hawaii - Mauna Loa **Keokeo Cave System**    
 United States of America - Hawaii - Mauna Loa; Kipuka Kanohina Cave Preserve **Kipuka Kanohina**    
-United States of America - Hawaii - Molokai **Ana Noio Cave**    
 United States of America - Hawaii **Mouflon Cave**    
 United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa **Big Black Cave**    
 United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa **Hammer Cave**  RJ Cave; Relay Junction Cave   
@@ -1221,12 +1225,15 @@ United States of America - Hawaii; North Hilo District - Hawaii Island; Mauna Lo
 United States of America - Hawaii; North Hilo District - Hawaii Island; Mauna Loa **Kaumana Cave**    
 United States of America - Hawaii; North Hilo District - Hawaii Island; Mauna Loa **Skylight Cave**    
 United States of America - Hawaii; North Kona District - Hawaii Island **Archies Cave**    
+United States of America - Hawaii; North Kona District - Hawaii Island **Black Pellet Cave**    
 United States of America - Hawaii; North Kona District - Hawaii Island **Can Cave**    
 United States of America - Hawaii; North Kona District - Hawaii Island **Centashaft**    
 United States of America - Hawaii; North Kona District - Hawaii Island **Donkey Cave**    
 United States of America - Hawaii; North Kona District - Hawaii Island **Goatskull Puka**    
+United States of America - Hawaii; North Kona District - Hawaii Island **Lama Lua Cave**    
 United States of America - Hawaii; North Kona District - Hawaii Island **Laniakea Cave**    
 United States of America - Hawaii; North Kona District - Hawaii Island **Ohia Cave**    
+United States of America - Hawaii; North Kona District - Hawaii Island **Pueo Cave**    
 United States of America - Hawaii; North Kona District - Hawaii Island **Refuge Cave Feature 2077**    
 United States of America - Hawaii; North Kona District - Hawaii Island **Refuge Cave Site 262**    
 United States of America - Hawaii; North Kona District - Hawaii Island **Refuge Cave Site 900**    
@@ -1255,11 +1262,11 @@ United States of America - Hawaii; Puna District - Hawaii Island **Fern's Cave**
 United States of America - Hawaii; Puna District - Hawaii Island **Gary McGowan's Cave**    
 United States of America - Hawaii; Puna District - Hawaii Island **Gilbert Cave**    
 United States of America - Hawaii; Puna District - Hawaii Island **Hakuma Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Hawaiian Acres Cave #1**    
 United States of America - Hawaii; Puna District - Hawaii Island **Hot Tub Cave**    
 United States of America - Hawaii; Puna District - Hawaii Island **Kapapala Cave**    
 United States of America - Hawaii; Puna District - Hawaii Island **Keana Oa Waa**    
 United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **Eldon English Mauka Cave**    
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **Hawaiian Acres Cave #1**    
 United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **Hongo Store Cave**    
 United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **John Martin Cave**    
 United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **Kazumura Cave**    
@@ -1491,7 +1498,7 @@ United States of America - Oregon; Deschutes County **Jug Cave**
 United States of America - Oregon; Deschutes County **Karen's Cave**    
 United States of America - Oregon; Deschutes County **Lavacicle Cave**    
 United States of America - Oregon; Deschutes County **Lava River Cave**    
-United States of America - Oregon; Deschutes County **Lost and Found Cave**  NSS-611-79  
+United States of America - Oregon; Deschutes County **Lost and Found Cave**   
 United States of America - Oregon; Deschutes County **Lost Cave**    
 United States of America - Oregon; Deschutes County **Matz Ice Cave**    
 United States of America - Oregon; Deschutes County **Moss Carpet Cave**    
@@ -1505,7 +1512,7 @@ United States of America - Oregon; Deschutes County **Skeleton Cave**
 United States of America - Oregon; Deschutes County **Somersault Cave**    
 United States of America - Oregon; Deschutes County **South Ice Cave**    
 United States of America - Oregon; Deschutes County **Twin Skylight Cave**    
-United States of America - Oregon; Deschutes County **Under the Lake Cave**  NSS-611-79  
+United States of America - Oregon; Deschutes County **Under the Lake Cave**   
 United States of America - Oregon; Deschutes County **Walk-in-Cave**    
 United States of America - Oregon; Deschutes County **Wind Cave**   *Part of* Arnold Lava Tube System  
 United States of America - Oregon; Deschutes County **Wind Caves #'s 3,4,5**    
@@ -1550,10 +1557,10 @@ United States of America - Oregon; Malheur County - Saddle Butte **Kitty Pooh II
 United States of America - Oregon; Malheur County - Saddle Butte **Owyhee River Cave**    
 United States of America - Oregon; Malheur County - Saddle Butte **Skylight Cave No. 2**    
 United States of America - Oregon; Malheur County **Tire Tube Cave**    
+United States of America - Oregon - Newberry National Monument **Surveyor's Cave**  Surveyor's Ice Cave   
 United States of America - Oregon **QMC Lower Cave**    
 United States of America - Oregon **Santiam Pit Lava Tube**    
 United States of America - Oregon **Stookey Ranch Cave**   *Part of* Arnold Lava Tube System  
-United States of America - Oregon **Surveyor's Cave**    
 United States of America - Oregon **Tie Cave**    
 United States of America - Oregon; Wasco County **Dalles Cave**    
 United States of America - Oregon; Washington County **Catlin Gabel System (collapsed)**    
@@ -1629,9 +1636,9 @@ United States of America - Washington; Skamania County **Frog Hollow Cave**  NSS
 United States of America - Washington; Skamania County **Goose Cave**  NSS-633-10  
 United States of America - Washington; Skamania County **Gopher Hole Cave**  NSS-633-09  
 United States of America - Washington; Skamania County **Grouch Cave**    
-United States of America - Washington; Skamania County **Hairy Fungus Cave**    
+United States of America - Washington; Skamania County **Hairy Fungus Cave**  NSS-633-04  
 United States of America - Washington; Skamania County **Hemlock Cave**  NSS-633-37  
-United States of America - Washington; Skamania County **Ice Rink Cave**    
+United States of America - Washington; Skamania County **Ice Rink Cave**  NSS-633-22  
 United States of America - Washington; Skamania County **J.a.R. Cave**  NSS-633-43  
 United States of America - Washington; Skamania County **Layser Cave**    
 United States of America - Washington; Skamania County **Leaverite Cave**    

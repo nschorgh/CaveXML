@@ -87,6 +87,10 @@ def parse_AltitudeEntry(alt):
         swap = highnumber
         highnumber = lownumber
         lownumber = swap
+
+    if lownumber==+99999 and highnumber==-99999:
+        lownumber=''
+        highnumber=''
         
     return lownumber, highnumber
 

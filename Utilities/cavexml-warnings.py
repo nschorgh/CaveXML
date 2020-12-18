@@ -8,7 +8,7 @@ import numpy
 from cavexml import get_one_cave_name
 
 # Enter name of XML database here
-#tree = xml.etree.ElementTree.parse('test.xml')
+#tree = xml.etree.ElementTree.parse('../../test.xml')
 tree = xml.etree.ElementTree.parse('../allcaves-database.xml')
 
 root = tree.getroot()
@@ -41,7 +41,16 @@ for item in root.findall('record'):
                 tag = True
     if tag is False:
         print('WARNING: record without principal-cave-name', count)
-
+        try:
+            if len(item.find('cave-system').text.strip())>0:
+                print('WARNING: no principal-cave-name but part of cave system')
+        except:
+            pass
+        try:
+            if len(item.find('branch-name').text.strip())>0:
+                print('WARNING: no principal-cave-name but branches')
+        except:
+            pass
     
     acavename = get_one_cave_name(item)
     if len(acavename)==0:

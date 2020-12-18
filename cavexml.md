@@ -114,7 +114,7 @@ Comments
 -   The elements must appear in the order listed above.
 -   CaveXML defines only these 21 elements, although additional elements may be added in future. No other elements are allowed, but there may be ways of adding a second namespace.
 -   At this point, the hierarchy is flat. All the elements are at the same level within a record.
--   Notably, CaveXML does not include an element for a catalog number, because it is designed to work with a distributed collection of databases rather than with a single central database.
+-   CaveXML does not include an element for a catalog number, because it is designed to work with a distributed collection of databases rather than with a single central database.
 
 Syntax rules (in support of parsing and querying)
 -------------------------------------------------
@@ -144,7 +144,7 @@ For quantities such as length or vertical extent, it is desirable to allow entri
 
 Entries for altitude (elevation) can be even more varied, e.g., "1220-1570" to indicate the range of altitudes from the lowest to the highest entrance. The UISIC recommends an element [altitude-comment] so the meaning of the numerical value for the altitude could be clarified, e.g. "1220 lower entrance", or "2500 coarse" to indicate the altitude is approximate. For caves with more than one entrance, multiple altitude entries might be needed. The goal is of course that the altitude must be queryable numerically, e.g., the user would search for caves with altitudes above 4000 m a.s.l. It can be decided later whether \~4000 and \>3000 should be compatible with this condition or not. After considering various options, the implementation chosen for CaveXML was to have a single "altitude" element which can hold specific patterns of numbers and strings. An unsigned integer or an ExtendedUnsignedInteger can be followed by a comment. These comments may be be ignored during a query, so few restrictions are placed on their form. Alternatively, a range of integers can be stated, such as 100-200, and not followed by a comment. A query function can convert "100-200" into two altitude entries of the form "100 lowermost entrance" and "200 uppermost entrance". Allowing ranges to be entered is convenient for the person who compiles the data. Technically, the data type for the altitude element is implemented as a token (string) restricted by a RegEx pattern. The comments allowed as part of an altitude entry are those consistent with the RegEx pattern `"[ ,()\w]\*"`, that is, they can contain spaces, commas, parentheses, and alphanumerical characters. Other characters, such as dashes and semicolons, are not allowed in a comment following an altitude value. Dashes might be used by a parsing function to distinguish between a range and an entry with a single number.  
 
-The [cave-id] field can consistent of alphanumeric characters and other common ASCII characters, but does not allow whitespace. Technically this is implemented as a RegEx pattern that allows ASCII codes from 33 to 126, `[!-~]*`. The ASCII code for a space is 32. (Whitespaces are allowed at the beginning and the end, because [cave-id] is a token rather than a string.) The organization code must consist of 3 or 4 capital letters, but because it is optional, this does not place any restrictions on the syntax allowed in this field.  
+The [cave-id] field can consistent of alphanumeric characters and other common ASCII characters, but does not allow whitespace. Technically this is implemented as a RegEx pattern that allows ASCII codes from 33 to 126, `[!-~]*`. The ASCII code for a space is 32. (Whitespaces are allowed at the beginning and the end, because [cave-id] is a token rather than a string.) The organization code, which can be part of the cave id, must consist of 3 or 4 capital letters, but because it is optional, this does not place any restrictions on the syntax allowed in this field.  
 
 This concludes the description of all the data types that have, so far, been defined in the CaveXML Schema. Table 1 shows the data types associated with each CaveXML element. None of the elements is required to appear in a record, and some elements can occur no more than once.
 
@@ -170,7 +170,27 @@ This concludes the description of all the data types that have, so far, been def
 |\<branch-name\> | string | -| Arnold Ice Cave |
 |\<reference\> | string | - | Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2 |
 |\<cave-use\> | token with restriction | pre-defined list of strings | guided tourist cave |
-|\<curation\> | string | - | updated length Nov 20, 2020 -NS |
+|\<curation\> | string | - | updated length based on Smith et al. (2020) |
 
 
-Table 1: Data types for each CaveXML element. Default attributes are minOccurs=0 and maxOccurs=unbounded. The third column shows restrictions on the element or on its value. The last column shows examples of valid entries.
+Table 1: Data types for each CaveXML element. Default attributes are minOccurs=0 and maxOccurs=unbounded. The third column shows restrictions on the element or on its value. The last column shows examples of valid entries.  
+
+
+Further Discussion
+------------------
+  
+**Automated cross-linking between cave systems and their branches**
+
+Then a cave system consists of several branches with their own record in the database, they can be cross-linked. The elements [cave-system] and [branch-name] point to a [principal-cave-name], but cave names are not unique, even within the same country, so a more sophisticated approach is needed to unambiguously cross-link a cave system with its branches.  When [cave-system] points to a [principal-cave-name], that record should include a [branch-name] that points back to the [principal-cave-name] of the referring record. This two-way reference guarantees that correct cross links have been identified.  
+
+
+**Unique record identifier**
+
+CaveXML does not include a catalog number that would uniquely identify a record.
+The country name (or its ISO letter abbreviation) plus the national cave id identify a record uniquely. One record may have more than one cave-id and, in principle, could even have more than one country-name, but the national cave id is required to be unique to the cave.
+However, many records will not have a cave-id.  In this case, a hash code can be generated from the totality of entries in the record.
+For example, the MD5 hash produces a 32-character hexadecimal code, and the probability that the same MD5 hash is produced from different inputs is mathematically negligible.
+The same record always results in the same hash. When the record is edited, the hash code changes.
+Practically, the hash code could be generated based on a limited number of entries, such as [state-or-province], [phys-area-name], cave names (principal and other), and geographic coordinates. The strings are merged to generate the hash code. Two caves in close vicinity of each other, should not have the same name, so they will differ in one of those fields. And if location information is omitted from the record and the cave name is not unique, the ambiguity is fundamental.  
+
+

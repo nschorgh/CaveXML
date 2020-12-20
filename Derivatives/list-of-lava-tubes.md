@@ -1,1757 +1,1756 @@
 List of Lava Tubes
 ==================
-This list of 1752 volcanic caves was generated from a CaveXML formatted database. - Dec 18, 2020  
+This list of 1751 volcanic caves was generated from a CaveXML formatted database. - Dec 19, 2020  
 
-Argentina - Catamarca **Cueva de San Fransisco**    
-Argentina - La Pampa **Cueva La Alada**    
-Argentina - Mendoza **Cueva Dona Otilia**    
-Argentina - Neguen **Caverna de los Gatos**  Caverna de la Sobrecueva   
-Australia - Heard Island **CAD15_16 Cave**    
-Australia - Heard Island - Mawson Peak **NAD-02 Cave**    
-Australia - Queensland **Barkers Crater Caves**    
-Australia - Queensland **Black Braes**    
-Australia - Queensland **Dundurrah Lava Tube**    
-Australia - Queensland **Holy Jump Lava Cave**  ASF-4BM-1  
-Australia - Queensland **Stephenson**    
-Australia - Queensland - Undara **Arch**  ASF-U22  
-Australia - Queensland - Undara **Atkinson Cave**  ASF-4U-20  
-Australia - Queensland - Undara **Barkers Cave**  ASF-4U-34  
-Australia - Queensland - Undara **Bayliss Cave**  ASF-4U-30  
-Australia - Queensland - Undara **Branch**  ASF-U64  
-Australia - Queensland - Undara **Darcy Cave**  ASF-4U-31  
-Australia - Queensland - Undara **Dave's (North) Cave**  Dave I ASF-4U-26  
-Australia - Queensland - Undara **Dave's (South) Cave**  Dave II ASF-4U-27  
-Australia - Queensland - Undara **Ding Bat**  ASF-U50  
-Australia - Queensland - Undara **Eptesicus**  ASF-U39  
-Australia - Queensland - Undara **Ewamin**  Arch 3 ASF-U23  
-Australia - Queensland - Undara **Expedition I**  ASF-U56  
-Australia - Queensland - Undara **Expedition II**  ASF-U57  
-Australia - Queensland - Undara **Flat Ceiling**  ASF-U63  
-Australia - Queensland - Undara **Fortune**  ASF-U47  
-Australia - Queensland - Undara **Frances**  ASF-4U-13  
-Australia - Queensland - Undara **Fun Cave**  ASF-U49  
-Australia - Queensland - Undara **Graham**  ASF-U66  
-Australia - Queensland - Undara **Greeley Cave**  ASF-4U-11  
-Australia - Queensland - Undara **Hanson Cave**  ASF-4U-1  
-Australia - Queensland - Undara **Harbour Bridge Cave**  ASF-4U-9  
-Australia - Queensland - Undara **Hot Hole**  ASF-U51  
-Australia - Queensland - Undara **Inner Dome**  ASF-U41  
-Australia - Queensland - Undara **Johnson Cave**  ASF-4U-19  
-Australia - Queensland - Undara **Komoni**    
-Australia - Queensland - Undara **Lost World**  ASF-U37  
-Australia - Queensland - Undara **Lower Secret**  ASF-U68  
-Australia - Queensland - Undara **Matthew Cave**  ASF-4U-32  
-Australia - Queensland - Undara **Mikoshi**  ASF-U44  
-Australia - Queensland - Undara **Misplaced Arch**  ASF-U45  
-Australia - Queensland - Undara **Moth**  ASF-U53  
-Australia - Queensland - Undara **Nasty**  ASF-U46  
-Australia - Queensland - Undara **Ollier Cave**  ASF-4U-8  
-Australia - Queensland - Undara **Opera House**  ASF-4U-14  
-Australia - Queensland - Undara **Peter Cave**  ASF-U7  
-Australia - Queensland - Undara **Peterson**  ASF-4U-15  
-Australia - Queensland - Undara **Picnic I**  ASF-U24  
-Australia - Queensland - Undara **Picnic II**  ASF-U25  
-Australia - Queensland - Undara **Pinwill Cave**  ASF-4U-17  
-Australia - Queensland - Undara **Raleigh I**  ASF-U35  
-Australia - Queensland - Undara **Raleigh II**  ASF-U36  
-Australia - Queensland - Undara **Road Cave**  ASF-4U-U28  
-Australia - Queensland - Undara Road Cave ASF-4U-U29  
-Australia - Queensland - Undara **San**  ASF-U65  
-Australia - Queensland - Undara **Sarah Cave**  ASF-4U-6  
-Australia - Queensland - Undara **Short Little Arch**  ASF-U43  
-Australia - Queensland - Undara **Speaking Tube**  ASF-U62  
-Australia - Queensland - Undara **Stevens Cave**  ASF-4U-16  
-Australia - Queensland - Undara **St. Pauls Cave**  ASF-4U-5  
-Australia - Queensland - Undara **Sunset**  ASF-U54  
-Australia - Queensland - Undara **Taylor Cave**  ASF-4U-4  
-Australia - Queensland - Undara **Temple of Doom**  ASF-U48  
-Australia - Queensland - Undara **Tom**  ASF-U59  
-Australia - Queensland - Undara **Traves Cave**  ASF-4U-18  
-Australia - Queensland - Undara **Tween**  ASF-U38  
-Australia - Queensland - Undara **(Unknown Name)**  ASF-4U-21  
-Australia - Queensland - Undara **Upper Secret**  ASF-U67  
-Australia - Queensland - Undara **Wallaby's Hideaway**  ASF-U55  
-Australia - Queensland - Undara **Wind Tunnel**  ASF-U42  
-Australia - Queensland - Undara **Wishing Well**  U52   
-Australia - Victoria **Insect Cave**    
-Australia - Victoria - Mt. Eccles **Gothic Cave**  ASF-3H-10  
-Australia - Victoria - Mt. Eccles (Tyrendarra Flow) **Tunnel Cave**  ASF-3H-9  
-Australia - Victoria - Mt. Napier **Blood Cave**  ASF-3H-H32  
-Australia - Victoria - Mt. Napier **Bridge Cave**  ASF-3H-13  
-Australia - Victoria - Mt. Napier; Byaduk **Church Cave 3**  ASF-3H-17  
-Australia - Victoria - Mt. Napier **Church Cave 1; Byaduk**  ASF-3H-15  
-Australia - Victoria - Mt. Napier **Church Cave 2; Byaduk**  ASF-3H-16  
-Australia - Victoria - Mt. Napier **Fern Cave**  ASF-3H-23  
-Australia - Victoria - Mt. Napier **Flower Pot**  ASF-3H-19  
-Australia - Victoria - Mt. Napier **Guano Grotto**  H-X2 ASF-3H-63  
-Australia - Victoria - Mt. Napier **Harman I Cave**  ASF-3H-11  
-Australia - Victoria - Mt. Napier H-X1; 3H-X1 ASF-3H-62  
-Australia - Victoria - Mt. Napier H-X3B   
-Australia - Victoria - Mt. Napier **Shallow Cave**  ASF-3H-31  
-Australia - Victoria - Mt. Napier **Shephard's Cave**  Shepherd's Cave ASF-3H-22  
-Australia - Victoria - Mt. Napier **The Forge**  H-X6 ASF-3H-67  
-Australia - Victoria - Mt. Napier **The Staircase**  ASF-3H-25  
-Australia - Victoria - Mt. Napier **The Turk**  ASF-3H-24  
-Australia - Victoria - Mt. Napier **Tree Root Cave**  H-X4 ASF-3H-65  
-Australia - Victoria - Mt. Napier **Tunnel Cave**  ASF-3H-66  
-Australia - Victoria - Mt. Porndon **Rubbish Cave**    
-Australia - Victoria - Newer Volcanics **Parwan Cave**  ASF-3H-4  
-Australia - Victoria - Newer Volcanics **Skipton Cave**  Mt. Widderin Cave ASF-3H-1  
-Australia - Victoria; Western District **Panmure Cave**    
-Australia - Victoria - Western Volcanic Plains **Mt. Hamilton Cave**  ASF-3H-2  
-Australia - Victoria - Western Volcanic Plains; Mt. Porndon **Porndon Arch**  ASF-3H-6  
-Australia - Victoria - Western Volcanic Plains **Upper Mt. Hamilton Cave**  Sausage Cave ASF-3H-3  
-Bulgaria - Khaskovo - Rhodope Massif **Kaleto I**    
-Cameroon - Sud-Oeust **Grand Tunnel**    
-Cameroon - Sud-Oeust **Grotte d'Ebongue**    
-Cameroon - Sud-Oeust **Grotte des diffluences**    
-Cameroon - Sud-Oeust **Grotte Isabella**    
-Cameroon - Sud-Oeust **Grotte Lointaine**    
-Cameroon - Sud-Oeust **Grotte Superieure**    
-Cameroon - Sud-Oeust - Mt. Cameroon **Grotte Gaskin**    
-Cameroon - Sud-Oeust - Mt. Cameroon **Grotte Molalei**    
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) **Ana Kakena**    
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) **Ana o Keke**  Cave of the White Virgins; Cave of the Sun's Inclination   
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) **Ana Roa**    
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) **Ana Te Pahu**    
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) **Ana Te Pora**    
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) **Tunnel No. 2**    
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) **Tunnel No. 3**    
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) **Tunnel No. 4**    
-China - Heilongjiang **Chin Fue**    
-China - Heilungjiang; Wudalianchi County - Wudalianchi volcano **Laoheishan and Huoshaoshan tubes**    
-Comoros - Grande Comore County - Karthala **Karthala tubes**    
-Congo, Democratic Republic of the - Kivu **Nyamulagira**    
-Ecuador - Galapagos - Floreana Island **Cueva de la Bahia d C/I**    
-Ecuador - Galapagos - Floreana Island **Cueva de la Bahia d C/S**    
-Ecuador - Galapagos - Floreana Island **Cueva de la Lechuza**  Barn Owl Cave   
-Ecuador - Galapagos - Floreana Island **Cueva del Pinzon**  Finch Cave   
-Ecuador - Galapagos - Isla de Santa Cruz **Caverna de Gallardo**    
-Ecuador - Galapagos - Isla de Santa Cruz **Cueva de Gilberto Moncayo**    
-Ecuador - Galapagos - Isla de Santa Cruz **Cueva de Kubler**  Kübler Cave   
-Ecuador - Galapagos - Isla de Santa Cruz **Cueva de la Senora Columb**    
-Ecuador - Galapagos - Isla de Santa Cruz **Cueva de Miguel Angel Ari**    
-Ecuador - Galapagos - Isla de Santa Cruz **Cueva de Raul Aquirre**    
-Ecuador - Galapagos - Isla de Santa Cruz **Grieta de Lentenech**    
-Ecuador - Galapagos - Isla Isabela **Cueva de la Cadena**    
-Ecuador - Galapagos - Isla Isabela **Cueva de Macas**    
-Ecuador - Galapagos - Isla Isabela **Cueva de Sucre**    
-Ecuador - Galapagos - Isla Santiago **Caverna de Bucanero I**    
-Ecuador - Galapagos - Isla Santiago **Caverna de Bueanero II**    
-Ecuador - Galapagos - Santa Cruz Island **Cueva de Andres**    
-Ecuador - Galapagos - Santa Cruz Island **Cueva de Elena**    
-Ecuador - Galapagos - Santa Cruz Island **Cueva de Huesos**    
-Ecuador - Galapagos - Santa Cruz Island **Cueva de la Curva**    
-Ecuador - Galapagos - Santa Cruz Island **Cueva de la Finea Kastdal**  Cueva de la Finca Kastdalen; Cueva de Tres Pisos   
-Ecuador - Galapagos - Santa Cruz Island **Cueva de la Miconia**    
-Ecuador - Galapagos - Santa Cruz Island **Cueva de Marcelo**    
-Ecuador - Galapagos - Santa Cruz Island **Cueva de Rovalino**    
-Ecuador - Galapagos - Santa Cruz Island **Tunel de Los Piratas**    
-Ecuador - Galapagos - Santiago Island **Cueva del Crater de Sal**    
-Ecuador - Islas Galapagos - Santa Cruz Island **Cueva del Cascajo**    
-Fiji - Northern - Taveuni Island **Qara Tabu**    
-Fiji - Northern - Taveuni Island **Salialevu**    
-Fiji - Northern - Taveuni Island **Soqulu**    
-Fiji - Northern - Taveuni Island **Waimaqere Cave 1**    
-Fiji - Northern - Taveuni Island **Waimaqere Cave 2**    
-Fiji - Rotuma **An Hufhuf**    
-Fiji - Rotuma **An Mafiri Cave 1**    
-Fiji - Rotuma **An Mafiri Cave 2**    
-France - French Polynesia - Tahiti **Maraa Grotto**    
-France - Reunion - Reunion Island **Cape Blanc Cave**    
-France - Reunion - Reunion Island **Caverne Bateau**    
-France - Reunion - Reunion Island **Caverne de la Riviere des Remparts**    
-France - Reunion - Reunion Island **Delcy Hole**    
-France - Reunion - Reunion Island **Hermitage Hole**    
-France - Reunion - Reunion Island **Mussard Cavern**  Mussard Cave   
-France - Reunion - Reunion Island **Saint Benoit Cavern**    
-Hungary **Basalthhle bei Pula**    
-Hungary **Szivs-ki-barlang**    
-Iceland - Arnessysla **Arnarker**    
-Iceland - Arnessysla **Gjabakkahellir**    
-Iceland - Arnessysla **Grettishellir**    
-Iceland - Arnessysla **Raufarholshellir**    
-Iceland - Arnessysla **Tv botni**    
-Iceland - Arnessysla **Vorduhellir**    
-Iceland - Austur-Hunavatnssysla **Floki**    
-Iceland - Austur-Hunavatnssysla **HjartartrÖd**    
-Iceland **Blami Cave**  Blue Mineral Cave   
-Iceland **Blindgtuhellir**  Blind Cave; Blindgata   
-Iceland **Dirfskuhellir**    
-Iceland **Drlahellir**  Driblet Cave   
-Iceland - Eldhraun/Laki **Laekjarhellir**  Stream Cave   
-Iceland - Eldhraun/Laki **Matargat**    
-Iceland **Fldhellir**  Flood Cave   
-Iceland **Framhaldshellir**    
-Iceland - Gullbringusysla County **Grindavikshellir**    
-Iceland - Gullbringusysla County **Ntthagi**    
-Iceland **Hnullungur**    
-Iceland **Hraunbrarhellir**    
-Iceland **îbrennishlmahellir**    
-Iceland **Idrafossar**    
-Iceland - Kerlingarholahraun **K-1**    
-Iceland - Kerlingarholahraun **K-2**    
-Iceland **Kvennahellir**  Ladies Cave   
-Iceland **Langihellir**    
-Iceland **LangiprÖngur**    
-Iceland **Lofthellir**    
-Iceland **Loftshellir**    
-Iceland **Lykkjuhellir**  Link Cave   
-Iceland - Myrasysla County - Hallmundahraun lava flow **Surtshellir**  Surtshellir-Stefanshellir Cave System   
-Iceland - Myrasysla County - Hallmundahraun lava flow **Víðgelmir**    
-Iceland - Myrasysla County - Hallmundarhraun **Hallmundarhellir**    
-Iceland - Myrasysla County - Hallmundarhraun **Hvassi**    
-Iceland - Myrasysla County - Hallmundarhraun **Kalmanshellir**    
-Iceland - Myrasysla County - Hallmundarhraun **Rjupnahellir**    
-Iceland - Myrasysla County - Hallmundarhraun **Sandi**    
-Iceland - Myrasysla County - Hallmundarhraun **Stefanshellir**    
-Iceland **Pjhnappahellir**  Buttocks Cave   
-Iceland **Pvaeluhellir**    
-Iceland - Rangárvallasýsla - Hekla **Karelshellir**    
-Iceland **Raudbogahellir**  Red Arch Cave   
-Iceland **Raudsteinshellir**  Red Cave   
-Iceland **Risahellir**  Giant Cave   
-Iceland **Samrunahellir**  Samruni; Confluence Cave   
-Iceland - Snaefellsnes og Hnappadal **Borgarhellir**    
-Iceland - Snaefellsnes og Hnappadal **Budahellir**    
-Iceland - Snaefellsnes og Hnappadal **Irihellir**    
-Iceland - Snaefellsnes og Hnappadal **Ishellir**    
-Iceland - Snaefellsnes og Hnappadal **Vegamannahellir**    
-Iceland - Snaefellsnes og Hnappadal **Vegghellir**    
-Iceland **Stubur**    
-Iceland - Surtsey Island **Grillid (Cave S-4)**    
-Iceland - Thjorsarhraun **Kerauga**    
-Iceland **Upphellir**  Brew Cave   
-Iceland **Veltingur**  Seesaw Cave   
-Iceland - Vestmannaeyjar **S-4**    
-Iceland - Vestmannaeyjar - Surtsey Jarhraun **S-1**    
-Iceland - Vestmannaeyjar - Surtsey Jarhraun **S-2**    
-Iceland - Vestmannaeyjar - Surtsey Jarhraun **S-3**    
-Iceland - Vestmannaeyjar - Surtsey Jarhraun **S-6**    
-Iceland **Vlundur**  Labyrinth Cave   
-Iceland **Vonbrigdahellir**  Disappointment Cave   
-Indonesia - Java - Java **Gua Lawa**    
-Italy - Sicilia - Sicily; Etna **Abisso Profondo Nero**  SICT-1084  
-Italy - Sicilia - Sicily; Etna **Cutrona Cave (Grotta Cutrona)**  Grotta MC1 Grotta SICT-1216  
-Italy - Sicilia - Sicily; Etna **Grotta degli Archi**  Grotta di Monte Pecoraro SICT-1005  
-Italy - Sicilia - Sicily; Etna **Grotta dei Lamponi**  SICT-1019  
-Italy - Sicilia - Sicily; Etna **Grotta dei Tre Livelli**  Galleriadei Pipistrelli SICT-1004  
-Italy - Sicilia - Sicily; Etna **Grotta del Gelo**    
-Italy - Sicilia - Sicily; Etna **Grotta del Labirinto**    
-Italy - Sicilia - Sicily; Etna **Grotta del Lago**  Grotta dei Pecorai SICT-1196  
-Italy - Sicilia - Sicily; Etna **Grotta dell Intraleo**  SICT-1007  
-Italy - Sicilia - Sicily; Etna **Grotta del Santo**  SICT-1032  
-Italy - Sicilia - Sicily; Etna **Grotta di Serracozzo I**  SICT-1065  
-Italy - Sicilia - Sicily; Etna **Grotta Petralia**  Grotta Leucatia SICT-1205  
-Italy - Sicilia - Sicily; Etna **Grotte de la Cantoniera**    
-Italy - Sicilia - Sicily **Grotta degli Inglesi**    
-Japan - Kumamoto **Caninome Fuketsu**    
-Japan - Kumamoto **Inuotoshi Fuketsu**    
-Japan - Kumamoto **Jao Fuketsu**    
-Japan - Kumamoto **Mizonokuchiue Fuketsu**    
-Japan - Kumamoto **Mizonokuchiue Komori Ana**    
-Japan - Kumamoto **Nagaobane Fuketsu No. 1**    
-Japan - Kumamoto **Nagaobane Fuketsu No. 2**    
-Japan - Kumamoto **Ohgawara Fuketsu**    
-Japan - Mt. Fuji **Aokigahara Fuketsu No. 1**    
-Japan - Mt. Fuji **Aokigahara Fuketsu No. 2**    
-Japan - Mt. Fuji **Atsuhara Fuketsu Cave**    
-Japan - Mt. Fuji **Chikushu Ana Cave**    
-Japan - Mt. Fuji **Dainichi Ana Cave**    
-Japan - Mt. Fuji **Fudo Ana Cave**    
-Japan - Mt. Fuji **Fugaku Fuketsu Cave**  Fugaku Wind Cave   
-Japan - Mt. Fuji **Fuji Fuketsu No. 1**    
-Japan - Mt. Fuji **Fuji Fuketsu No. 2**    
-Japan - Mt. Fuji **Fuji Fuketsu No. 3**    
-Japan - Mt. Fuji **Fuji Fuketsu No. 4**    
-Japan - Mt. Fuji **Fuji Fuketsu No. 5**    
-Japan - Mt. Fuji **Fuji Fuketsu No. 6**    
-Japan - Mt. Fuji **Fuji Fuketsu No. 7**    
-Japan - Mt. Fuji **Fuji Ice Cave**  Fuji Fuketsu (Fuji Wind Cave)   
-Japan - Mt. Fuji; Futagoyama lava flow **Banba Ana Cave**    
-Japan - Mt. Fuji **Ginga Fuketsu Cave**    
-Japan - Mt. Fuji **Gyoja Ana Cave**    
-Japan - Mt. Fuji **Hachiman Ana Cave**    
-Japan - Mt. Fuji **Heijibara Fuketsu**    
-Japan - Mt. Fuji **Hito Ana Cave**    
-Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 1**    
-Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 10**    
-Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 12**    
-Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 2**    
-Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 3**    
-Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 4**    
-Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 5**    
-Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 6**    
-Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 7**    
-Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 8**    
-Japan - Mt. Fuji **Inusuzumi Fuketsu Cave No. 9**    
-Japan - Mt. Fuji **Iwanami Fuketsu Cave**    
-Japan - Mt. Fuji **Kaminari Ana Cave**    
-Japan - Mt. Fuji **Kanumizu Fuketsu Cave**    
-Japan - Mt. Fuji **Katabuta Ana Cave**    
-Japan - Mt. Fuji **Kauho Ana Cave**    
-Japan - Mt. Fuji **Kazuhito Ana Cave No. 1**    
-Japan - Mt. Fuji **Kazuhito Ana Cave No. 2**    
-Japan - Mt. Fuji **Kazuhito Ana Cave No. 3**    
-Japan - Mt. Fuji **Kazuhito Ana Cave No. 4**    
-Japan - Mt. Fuji **Kazuhito Ana Cave No. 5**    
-Japan - Mt. Fuji **Komakado Fuketsu Cave**    
-Japan - Mt. Fuji **Komori Ana Cave No. 1**    
-Japan - Mt. Fuji **Komori Ana Cave No. 2**    
-Japan - Mt. Fuji **Kuzure Ana Cave**    
-Japan - Mt. Fuji **Mado Ana Cave**    
-Japan - Mt. Fuji **Mamashita Ana Cave**    
-Japan - Mt. Fuji **Megane Ana Cave**    
-Japan - Mt. Fuji **Mishima Fuketsu Cave**    
-Japan - Mt. Fuji **Motosu Fuketsu No. 1 Cave**    
-Japan - Mt. Fuji **Motosu Fuketsu No. 2 Cave**    
-Japan - Mt. Fuji **Motosu Fuketsu No. 3 Cave**    
-Japan - Mt. Fuji **Motosu Fuketsu No. 4 Cave**    
-Japan - Mt. Fuji **Motosu Fuketsu No. 5 Cave**    
-Japan - Mt. Fuji **Motosu Hyoketsu Cave**    
-Japan - Mt. Fuji **Muzin Ana Cave**    
-Japan - Mt. Fuji **Narusawa Komori Ana No. 1**    
-Japan - Mt. Fuji **Narusawa Komori Ana No. 2**    
-Japan - Mt. Fuji **Narusawa Komori Ana No. 3**    
-Japan - Mt. Fuji **Narusawa Komori Ana No. 4**    
-Japan - Mt. Fuji **Ohmuro Fuketsu No. 1 Cave**    
-Japan - Mt. Fuji **Ohmuro Fuketsu No. 2 Cave**    
-Japan - Mt. Fuji **Ohno Fuketsu No. 1 Cave**    
-Japan - Mt. Fuji **Ohno Fuketsu No. 2 Cave**    
-Japan - Mt. Fuji **Rugu Cave**    
-Japan - Mt. Fuji **Saiko Fuketsu No. 1 Cave**    
-Japan - Mt. Fuji **Saiko Fuketsu No. 2 Cave**    
-Japan - Mt. Fuji **Saiko Fuketsu No. 3 Cave**    
-Japan - Mt. Fuji **Saiko Fuketsu No. 4 Cave**    
-Japan - Mt. Fuji **Saiko Fuketsu No. 5 Cave**    
-Japan - Mt. Fuji **Saiko Fuketsu No. 6 Cave**    
-Japan - Mt. Fuji **Saiko Fuketsu No. 7 Cave**    
-Japan - Mt. Fuji **Saiko Komori Cave**  Lake Sai Bat Cave; 西湖蝙蝠穴; Saiko Koumori Ana   
-Japan - Mt. Fuji **Shin Ana Cave**    
-Japan - Mt. Fuji **Shoiko Fuketsu No. 1 Cave**    
-Japan - Mt. Fuji **Shoiko Fuketsu No. 2 Cave**    
-Japan - Mt. Fuji **Shoiko Fuketsu No. 3 Cave**    
-Japan - Mt. Fuji **Shoiko Fuketsu No. 4 Cave**    
-Japan - Mt. Fuji **Shoiko Fuketsu No. 5 Cave**    
-Japan - Mt. Fuji **Shoji Fuketsu No. 1**    
-Japan - Mt. Fuji **Shoji Fuketsu No. 2**    
-Japan - Mt. Fuji **Shoji Fuketsu No. 3**    
-Japan - Mt. Fuji **Shoji Fuketsu No. 4**    
-Japan - Mt. Fuji **Shojioana-Gatsudo Cave**    
-Japan - Mt. Fuji **Shojioana-Nichido Cave**    
-Japan - Mt. Fuji **Shonin Ana Cave**    
-Japan - Mt. Fuji **Subashiri Tainai Cave**    
-Japan - Mt. Fuji **Susono Fuketsu Cave No. 1**    
-Japan - Mt. Fuji **Susono Fuketsu Cave No. 2**    
-Japan - Mt. Fuji **Uba Ana Cave**    
-Japan - Mt. Fuji **Uzura Ana**    
-Japan - Mt. Fuji **Yaskiki Ana Cave**    
-Japan - Mt. Fuji **Zinza Fuketsu No. 1 Cave**    
-Japan - Mt. Fuji **Zinza Fuketsu No. 2 Cave**    
-Japan - Mt. Fuji **Zinza Fuketsu No. 3 Cave**    
-Japan - Mt. Fuji **Zinza Fuketsu No. 4 Cave**    
-Japan - Mt. Fuji **Zinza Fuketsu No. 5 Cave**    
-Japan - Mt. Fuji **Zinza Fuketsu No. 6 Cave**    
-Japan - Mt. Fuji **Zinza Fuketsu No. 7 Cave**    
-Japan - Mt. Fuji **Zinza Fuketsu No. 8 Cave**    
-Japan - Mt. Fuji **Zinza Fuketsu No. 9 Cave**    
-Japan - Mt. Unzen-dake **Fuketsu**    
-Japan - Mt. Unzen-dake **Hato Ana**    
-Japan - Nagasaki - Fukue Island **No-ana**    
-Japan - Nagasaki - Fukue Island **Sakishirazu-no-i-ana**    
-Japan - Nagasaki - Fuku-jima **Trinuk-i-ana**    
-Japan - Nagasaki **Furuzutsumi-no-ana**    
-Japan - Nagasaki **Iankawa-no-ana**    
-Japan - Nagasaki **Ipponmatsu Ana**    
-Japan - Nagasaki **Iya-no-ana**    
-Japan - Nagasaki **Kichiga Ana**    
-Japan - Nagasaki **Kotakeno Ana**    
-Japan - Nagasaki **Kuroseno Ana**    
-Japan - Nagasaki **Mumei-ana**    
-Japan - Nagasaki **Ouitabe Ana**    
-Japan - Nagasaki **Takeno Ana**    
-Japan - Nagasaki **Tshi-ana**    
-Japan - Nagasaki **Yuri-ana**    
-Japan - Nagasaki **Yurunkuchino Ana**    
-Japan - Ohshima Island **Mihara Fuketsu**    
-Japan - Shimane - Daikon Island **Ryusei Do Cave**    
-Japan - Shimane - Daikon Island **Yuuki Do Cave**  Yuki Do Cave; Kaza-ana Cave   
-Japan - Shizuoka - Hachijo Island **Gokuraku Ana Cave**    
-Japan - Shizuoka - Hachijo Island **Hachijo Fuketsu No. 1**    
-Japan - Shizuoka - Hachijo Island **Hachijo Fuketsu No. 2**    
-Japan - Shizuoka - Hachijo Island **No. 20 Bokku Fuketsu Cave**    
-Japan - Shizuoka - Hachijo Island **No. 21 Bokku Fuketsu Cave**    
-Japan - Shizuoka - Hachijo Island **Shin Gokuraku Ana Cave**    
-Japan - Shizuoka - Mt. Fuji **Mitsuike Ana**    
-Japan - Yamanashi - Mt. Fuji **Narusawa Hyoketsu Cave**  Narusawa Ice Cave; Narusawa Wind Cave; Narusawa Fuketsu   
-Jordan **Abu Al-Kursi East**    
-Jordan **Al-Ameed Cave**    
-Jordan **Al-Badia Cave**    
-Jordan **Al-Fahda Cave (Lioness Cave)**    
-Jordan **Al-Howa**    
-Jordan **Hashemite University Cave**    
-Kenya - Eastern Province; Machakos District - Chyulu Hills **ABC Cave**    
-Kenya - Eastern Province; Machakos District - Chyulu Hills **Dead Man's Cave**    
-Kenya - Eastern Province; Machakos District - Chyulu Hills **Hell's Teeth Cave**    
-Kenya - Eastern Province; Machakos District - Chyulu Hills **Kimabui Cave**    
-Kenya - Eastern Province; Machakos District - Chyulu Hills; Kimabui Hills **Kimakia Cave**  Ithundu Mine NGR-415563  
-Kenya - Eastern Province; Machakos District - Chyulu Hills **Leviathan Cave**  Grotte de Leviathan   
-Kenya - Eastern Province; Machakos District - Chyulu Hills **Pango Ya Moshi**  Smoke Cave; Cloud Cave   
-Kenya - Eastern Province; Machakos District - Chyulu Hills **Plains Cave**    
-Kenya - Eastern Province; Machakos District - Chyulu Hills **Poacher's Cave**    
-Kenya - Eastern Province; Machakos District - Chyulu Hills; Shetani Lava Cone **Shetani Cave**    
-Kenya - Eastern Province; Machakos District - Chyulu Hills **Skull Cave**  Mathaioni II 327/1  
-Kenya - Eastern Province; Machakos District - Chyulu Hills **Tindima Pot**    
-Kenya - Eastern Province; Machakos District - Chyulu Hills **Tonsilectomy Pot**    
-Kenya - Kiboko; Machakos District - Chyulu Hills **Mathaioni Cave**  Mathaioni I NGR-436547; 360/1-4  
-Kenya - Mt. Elgon **Chepyanili Caves**    
-Kenya - Mt. Elgon **Kitum Cave (Place of the Ceremonies)**    
-Kenya - Mt. Elgon **Makingen Cave**    
-Kenya **Ngumut N' Gai**    
-Kenya **Rainbow's End Cave**    
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa **10-9-6-36-37 Series**    
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa **14-18 Series**    
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa **23-24 Series**    
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa **34-35 Series**    
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa **Cave 12**    
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa **Cave 13**    
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa **Cave 18**    
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa **Cave 20**    
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa **Cave 21**    
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa **Cave 3**    
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa **Cave 34**    
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa **Cave 6**    
-Korea, Republic of - Jeju **Handeul-kunyeong**    
-Korea, Republic of - Jeju **Hwang Gum Gul**    
-Korea, Republic of - Jeju **Hyopje Cave**    
-Korea, Republic of - Jeju - Jeju Island **Bilemot Gul**  Rock Pond Cave; Billemot Gul   
-Korea, Republic of - Jeju - Jeju Island **Michon Gul**    
-Korea, Republic of - Jeju - Jeju Island; Mt. Hanra **Man Jang Gul**  Manjanggul; Red Dragon Cave   
-Korea, Republic of - Jeju - Jeju Island **Wa Hol Gul**  Wahul Kul   
-Korea, Republic of - Jeju **Kimnyong Cave**    
-Korea, Republic of - Jeju - Mt. Halla **Gim Nyeong**  Gimyong Cave; Sakull Cave; Snake Cave   
-Korea, Republic of - Jeju **Namganduk Gul**    
-Korea, Republic of - Jeju province - Jeju Island **Dangcheomul Cave**    
-Korea, Republic of - Jeju province - Jeju Island **Sochon Kul**  Sochon Gul; Stream Cave; Creek Cave   
-Korea, Republic of - Jeju province - Jeju Island **Susan Gul**    
-Korea, Republic of - Jeju province - Jeju Island **Yongcheon Cave**    
-Korea, Republic of - Jeju **Seong-gul**    
-Korea, Republic of - Jeju **Ssang Ryong Gul**    
-Korea, Republic of - Jeju **Waful Kul**    
-Madagascar - Antsiranana - Ambre (Renard Crater) **Andanakaomby**    
-Madagascar - Antsiranana - Ambre (Renard Crater) **Andavakoera**    
-Malaysia - Sabah; Tawau Division **Mostyn Estate Cave**    
-Mars - Arsia **Arsia North**    
-Mars - Arsia **Arsia South A**    
-Mars - Arsia **Arsia South B**    
-Mars **Hadriaca**    
-Mars - Olympus Mons **Olympus**    
-Mauritius **Petite Riviere**    
-Mexico - Baja California Nort **Cueva Huevos**    
-Mexico - Baja California Nort **Isla San Martin Cave**    
-Mexico **Cueva del Aire**    
-Mexico - Distrito Federal **Cueva de las Huesitos**    
-Mexico - Distrito Federal **Cueva del Cocodrilo**    
-Mexico - Distrito Federal **Pedro el Negro**    
-Mexico - Morelos **Cueva de Chimalacatepec**    
-Mexico - Morelos **Cueva de Dona Macaria**    
-Mexico - Morelos **Cueva de Don Marcelo**    
-Mexico - Morelos **Cueva de Eduardo**    
-Mexico - Morelos **Cueva de la Iglesia**    
-Mexico - Morelos **Cueva del Arbol**    
-Mexico - Morelos **Cueva de la Tubera**    
-Mexico - Morelos **Cueva del Diablo**    
-Mexico - Morelos **Cueva del Ferrocarril**    
-Mexico - Morelos **Cueva del Potrero**    
-Mexico - Morelos **Cueva de Tatamasquio**    
-Mexico - Morelos **Cueva Iztaxiatla**    
-Mexico - San Luis Potos **Cueva de Caada de los Pastores**  Caada de los Pastores   
-Mexico - San Luis Potos **Cueva de la Ventana**    
-Mexico - San Luis Potos **Cueva del Novillo**    
-Mexico - San Luis Potos **Cueva de los Cuicillos**    
-Mexico - San Luis Potos **Cueva del Salvial**  Cueva de los Vampiros   
-Mexico - San Luis Potos **La Cueva-Mina del Real de Catorce**    
-Mexico - Sonora **Cuevo Labertina Lava**    
-Mexico - Tamaulipas **Sierra Partida**    
-Mexico - Veracruz **Cueva del Volcancillo**    
-Micronesia - Chuuk **Tol Island tube**    
-Micronesia - Kosrae **Kosrae Island tube**    
-Moon **Gruithuisen**    
-Moon - Marius Hills; Oceanus Procellarum **Marius Hill A**    
-Moon - Marius Hills; Oceanus Procellarum **Marius Hill B**    
-New Zealand - Auckland City **Helena Rubinstein Cave**    
-New Zealand - Auckland City - Manurewa **Wiri Lava Cave**    
-New Zealand - Auckland City - Mt. Mangere **Ambury Rd. Cave**    
-New Zealand - Auckland City **No. 30 Gavin St.**    
-New Zealand - Auckland City **No. 81 Mt. Royal Ave.**    
-New Zealand - Auckland City **Pukeiti Lino Cave**    
-New Zealand - Auckland City - Rangitote **Ladder Cave**    
-New Zealand - Auckland City - Rangitote **Rangitoto Island Cave**    
-New Zealand - Auckland City - Rangitote **Rangitoto Island Cave (S)**    
-New Zealand - Auckland City - Rangitote **Wallaby Cave**    
-New Zealand - Auckland City **Rubbish Pit Cave**    
-New Zealand - Auckland City **Sanders Quarry Caves**    
-New Zealand - Auckland City **Scotlands Lava Cave**    
-New Zealand - Auckland City - Three Kings **104 Landscape Rd.**    
-New Zealand - Auckland City - Three Kings **104 Marsden Ave.**    
-New Zealand - Auckland City - Three Kings **113 Shackleton Rd.**    
-New Zealand - Auckland City - Three Kings **41 Kensington Ave.**    
-New Zealand - Auckland City - Three Kings **94 Shackleton Rd.**    
-New Zealand - Auckland City - Three Kings **Montimer's Cave**  No. 82 Landscape Rd.   
-New Zealand - Auckland City - Three Kings **Stewart's Cave**    
-New Zealand **Henwood Rd. Cave**    
-Portugal - Azores **Gruta dos Balcoes**    
-Portugal - Azores - Ilha de Graciosa **Furna do Exnofre**    
-Portugal - Azores - Ilha de Pico **Gruta das Torres (Grotto of Towers)**    
-Portugal - Azores - Ilha de Pico (Pico Island) **Algar Nova**    
-Portugal - Azores - Ilha de Pico (Pico Island) **Furna do Frei Matias**    
-Portugal - Azores - Ilha de Pico (Pico Island) **Gruta da Capucha**  Agostinha   
-Portugal - Azores - Ilha de Pico (Pico Island) **Gruta dos Fumelos**    
-Portugal - Azores - Ilha de Pico (Pico Island) **Gruta dos Montanheiros**    
-Portugal - Azores - Ilha de Terceira **Algar do Carvao**    
-Portugal - Azores - Ilha de Terceira **Branco Opala**    
-Portugal - Azores - Ilha de Terceira **Gruta do Chocolate**    
-Portugal - Azores - Ilha de Terceira **Gruta do Natal**    
-Portugal - Azores - Sao Jorge **Gruta da Ribeira do Almeida**    
-Russia - Kamchatka **Go-9611**  5236/15758-1  
-Russia - Kamchatka - North Gorely **Go-9601**  5236/15800-4  
-Russia - Kamchatka - North Gorely **Go-9602**  5236/15759-5  
-Russia - Kamchatka - North Gorely **Go-9603**  5236/15759-4  
-Russia - Kamchatka - North Gorely **Go-9604**  5236/15759-3  
-Russia - Kamchatka - North Gorely **Go-9606**  5236/15758-5  
-Russia - Kamchatka - North Gorely **Go-9607**  5236/15758-4  
-Russia - Kamchatka - North Gorely **Go-9608**  5236/15758-3  
-Russia - Kamchatka - North Gorely **Go-9609**  5236/15758-2  
-Russia - Kamchatka - North Gorely **Go-9610**  5236/15759-1  
-Russia - Kamchatka - North Gorely **Go-9612**  5236/15800-3  
-Russia - Kamchatka - North Gorely **Go-9613**  5236/15800-2  
-Russia - Kamchatka - North Gorely **Go-9614**  5236/15800-1  
-Russia - Kamchatka - North Gorley **Go-9605**  5236/15759-2  
-Russia - Kamchatka peninsula; Gorley-3 volcano **Goncharov lava tube**    
-Russia - Kamchatka peninsula; Gorley-3 volcano **Pogibshaya lava tube**    
-Russia - Kamchatka - South Tolbachik **To-9607**  5536/16010-6  
-Russia - Kamchatka **To-9601/02**  5536/16010-11  
-Russia - Kamchatka **To-9603**  5536/16010-10  
-Russia - Kamchatka **To-9604**  5536/16010-9  
-Russia - Kamchatka **To-9605**  5536/16010-8  
-Russia - Kamchatka **To-9606**  5536/16010-7  
-Russia - Kamchatka **To-9608**    
-Russia - Kamchatka **To-9609**  5536/16010-4  
-Russia - Kamchatka **To-9610**  5536/16010-3  
-Russia - Kamchatka **To-9611**  5536/16010-2  
-Russia - Kamchatka **To-9612**  5536/16010-1  
-Rwanda - Ruhengueri - Kanisimbi **Ubuvumo bwa Musanze**    
-Rwanda **Ubuvomo bwa Nyrabadago**  Ubuwumo bwa Nxirabadogo; Ubuvuma bwa Myirabadogo   
-Samoa - Savaii Island **Aopo Cave**    
-Samoa - Savaii Island **Peapea Cave #2**    
-Samoa - Tuamasaga - Upolu Island **Papa Cave**    
-Samoa - Upolu Island **Falemaunga Cave**    
-Samoa - Vaisigano - Savaii Island; Salani (Mulifauna Formation) **Oloimoa**    
-Saudi Arabia - Harrat Khaybar lava field **Umm Jirsan Lava-Tube System**    
-Saudi Arabia - Harrat Nawasif-Buqum **Ghar Al Hibashi**  Hibashi Cave 180  
-Saudi Arabia - Western - Harrat Ithnayn **Shuwaymis Cave**  Kahf Al Shuwaymis   
-Saudi Arabia - Western - Harrat Kishb **Jebel Hil Cave**    
-Saudi Arabia - Western - Harrat Kishb **Kahf Al Ashbaah**  Ghostly Cave   
-Saudi Arabia - Western **Kahf al Mut'eb**    
-Saudi Arabia - Western **Romahah Cave**    
-Spain - La Palmas - Canary Islands; Lanzarote **Cueva de los Verdes**  Corona Lava Tube   
-Spain - Las Palmas - Fuertoventura **Cueva del Llano**    
-Spain - Las Palmas - Lanzarote; Canary Islands **Tunel de la Atlantida**   *Part of* Cueva de los Verdes  
-Spain - Las Palmas - Lanzarote **Cueva de las Palomas**    
-Spain - Las Palmas - Lanzarote **Cueva de los Naturalistas**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva de Cuaclo de las Mo**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva de Don Justo**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva de Escondido**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva de Hoyo**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva del Acontilado**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva de las Eras**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva de las Jordis**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva del Conchero**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva del Judith**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva de los Pandelas**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva de Maunicico**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva de San Andres**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva Grande de Orchilla**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cueva Roja**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cuevas de Guinea**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cuevas de la Lechera**    
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island **Cuevas de la Monteserrat**    
-Spain - Santa Cruz de Tenerife - Canary Islands; La Palma **Cueva de los Conejos**    
-Spain - Santa Cruz de Tenerife - Canary Islands; La Palma **Cueva de los Palmeros**    
-Spain - Santa Cruz de Tenerife - Canary Islands; La Palma **Cueva MPT**    
-Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide **Cueva de Hielo del Teide**    
-Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife **Cueva de Felipe Reventon**    
-Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife **Cueva de San Marcos**    
-Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife **Cueva Juli**    
-Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife **Cueva Labrada**    
-Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife **Cueva Las Mechas**    
-Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife **Cueva los Guanehes**    
-Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife **Cueva los Viejas**    
-Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife **Cueva Pepe el Chico**    
-Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife **Cueva Roques Blancos**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva Buzanada**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva Cabeza de Perro**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de Amara Pango**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de Arafa**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de Benisahare**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de Bicho**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de Candelania**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de Chiguergue**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de Don Cesar**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de Guajara**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de la Amargura**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de la Candelaria**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de la Cruz**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de la Desilusion**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de la Plaza de Toro**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de la Refineria**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de las Abejas**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva del Becerril**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva del Bucia**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva del Bujeno**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva del Gato Feo**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva del Metra**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva del Miedo**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de los Cazadores**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de los Roques**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de los Valemcianos**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva del Pozo**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva del Refugio**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva del Sohoada**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva del Valle**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva del Viento**  El Viento cave   
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de Maestro Pipe**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de Punto Blanco**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva de Samara**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva Fea**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva Handa de Guimar**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cueva Harrouth 32**    
-Spain - Santa Cruz de Tenerife - Tenerife **Cuevas Grandes de Chico**    
-Syria **Ariqa Cave**  Aariqa Cave   
-Syria - Assuwayda - Tell Shihan **Tell Shihan Tubes**    
-Syria **Umm ar Rumman**    
-Tanzania **Grotte H. Meyer Supenieur**    
-United Kingdom - St. Helena - Ascension Island **Dark Slope Lava Tube**    
-United States of America - Alaska; Aleutians East Borough - St. Paul Island **Bogoslof Cave**  Baltso's Cave   
-United States of America - Alaska; Aleutians East Borough - St. Paul Island **Bogoslof Dome Cave**    
-United States of America - Alaska; Aleutians East Borough - St. Paul Island **Cave A**    
-United States of America - Alaska; Aleutians East Borough - St. Paul Island **Cave D**    
-United States of America - Alaska; Nome County - Seward Peninsula **Lost Jim Lava Tube**    
-United States of America - Arizona; Apache County - Springerville Volcanic **Harris Cave**    
-United States of America - Arizona; Coconino County **Basalt Cave**    
-United States of America - Arizona; Coconino County **Cabin Cave**    
-United States of America - Arizona; Coconino County **Medicine Cave**    
-United States of America - Arizona; Coconino County - San Franciscan **Government Cave**  Lava River Cave; Bellemont Cave   
-United States of America - Arizona; Coconino County - San Franciscan; Mormon Butte **Stoneman Lake T.I.**  Sheblos Cave   
-United States of America - Arizona; Coconino County - San Franciscan **Porkey Cave**    
-United States of America - Arizona; Coconino County - San Franciscan **Slate Lakes Cave**  Compass Cave   
-United States of America - Arizona; Coconino County - San Franciscan (Sunset Crater) **Bonito Flow Ice Cave**  Sunset Crater Ice Cave   
-United States of America - Arizona; Coconino County - San Franciscan; Sunset Crater **Kana-a Cave**    
-United States of America - Arizona; Coconino County - San Franciscan **Whiskey Cave**    
-United States of America - Arizona; Coconino County - San Franciscan **White Horse Cave**  Peg Leg Cave   
-United States of America - Arizona; Graham County **Harttine Bat Cave**  Twin Peaks Cave   
-United States of America - Arizona; Navajo County - Blue Ridge Mountain **Ice Cave**  Blue Ridge Cave   
-United States of America - Arizona; Pima **Lava Cave**    
-United States of America - Arizona **White Mountain Ice Cave**    
-United States of America - California; Inyo County - Crater Mountain **Tinemaha Cave**    
-United States of America - California; Inyo County **Millipede Caves**    
-United States of America - California; Lassen County **Eagle Lake Ice Cave**    
-United States of America - California; Lassen County **Indian Cave**    
-United States of America - California; Lassen County **Packrat cave**    
-United States of America - California; Modoc County **Ice Cave**    
-United States of America - California; Modoc County **Lava Cave**    
-United States of America - California; Modoc County **Lorenzen's Lava Caves**    
-United States of America - California; Modoc County - Medicine Lake Highlands; Lava Beds National Monument **Fern Cave**    
-United States of America - California; Modoc County - Medicine Lake Highlands **Mammoth Cave**    
-United States of America - California; Modoc County **Water Cave**    
-United States of America - California; San Bernardino **Amboy Crater Caves**    
-United States of America - California; San Bernardino **Cima Cave**    
-United States of America - California; San Bernardino - Pisgah **06 & 07**    
-United States of America - California; San Bernardino - Pisgah **1**    
-United States of America - California; San Bernardino - Pisgah **11**    
-United States of America - California; San Bernardino - Pisgah **12**    
-United States of America - California; San Bernardino - Pisgah **13**    
-United States of America - California; San Bernardino - Pisgah **14**    
-United States of America - California; San Bernardino - Pisgah **15**    
-United States of America - California; San Bernardino - Pisgah **17**    
-United States of America - California; San Bernardino - Pisgah **19**    
-United States of America - California; San Bernardino - Pisgah **2**    
-United States of America - California; San Bernardino - Pisgah **20**    
-United States of America - California; San Bernardino - Pisgah **3**    
-United States of America - California; San Bernardino - Pisgah **30**    
-United States of America - California; San Bernardino - Pisgah **4**    
-United States of America - California; San Bernardino - Pisgah **5**    
-United States of America - California; San Bernardino - Pisgah **A**    
-United States of America - California; San Bernardino - Pisgah **AA**    
-United States of America - California; San Bernardino - Pisgah **AB**    
-United States of America - California; San Bernardino - Pisgah **AP**    
-United States of America - California; San Bernardino - Pisgah **B**    
-United States of America - California; San Bernardino - Pisgah **BB**    
-United States of America - California; San Bernardino - Pisgah **BE**    
-United States of America - California; San Bernardino - Pisgah **BG**    
-United States of America - California; San Bernardino - Pisgah **Breakin**  BI   
-United States of America - California; San Bernardino - Pisgah **BT**    
-United States of America - California; San Bernardino - Pisgah **C1**    
-United States of America - California; San Bernardino - Pisgah **C10**    
-United States of America - California; San Bernardino - Pisgah **C11**    
-United States of America - California; San Bernardino - Pisgah **C12**    
-United States of America - California; San Bernardino - Pisgah **C13North**    
-United States of America - California; San Bernardino - Pisgah **C13W**    
-United States of America - California; San Bernardino - Pisgah **C2**    
-United States of America - California; San Bernardino - Pisgah **C3**    
-United States of America - California; San Bernardino - Pisgah **C4**    
-United States of America - California; San Bernardino - Pisgah **C4.5**    
-United States of America - California; San Bernardino - Pisgah **C5**    
-United States of America - California; San Bernardino - Pisgah **C6**    
-United States of America - California; San Bernardino - Pisgah **C7**    
-United States of America - California; San Bernardino - Pisgah **C7,2**    
-United States of America - California; San Bernardino - Pisgah **C8**    
-United States of America - California; San Bernardino - Pisgah **C9**    
-United States of America - California; San Bernardino - Pisgah **Cat Cave**  QQ   
-United States of America - California; San Bernardino - Pisgah **CC**    
-United States of America - California; San Bernardino - Pisgah **CD**    
-United States of America - California; San Bernardino - Pisgah **CE**    
-United States of America - California; San Bernardino - Pisgah **CF**    
-United States of America - California; San Bernardino - Pisgah **CG**    
-United States of America - California; San Bernardino - Pisgah **CH**    
-United States of America - California; San Bernardino - Pisgah **CJ**    
-United States of America - California; San Bernardino - Pisgah **CK**    
-United States of America - California; San Bernardino - Pisgah **CLST**    
-United States of America - California; San Bernardino - Pisgah **CM**    
-United States of America - California; San Bernardino - Pisgah **CN**    
-United States of America - California; San Bernardino - Pisgah **CP**    
-United States of America - California; San Bernardino - Pisgah **CQ**    
-United States of America - California; San Bernardino - Pisgah **CR**    
-United States of America - California; San Bernardino - Pisgah **CS**    
-United States of America - California; San Bernardino - Pisgah **CT**    
-United States of America - California; San Bernardino - Pisgah **CW**    
-United States of America - California; San Bernardino - Pisgah **Entryway**    
-United States of America - California; San Bernardino - Pisgah **Finis**    
-United States of America - California; San Bernardino - Pisgah **GA**    
-United States of America - California; San Bernardino - Pisgah **GAH**    
-United States of America - California; San Bernardino - Pisgah **GB**    
-United States of America - California; San Bernardino - Pisgah **GC**    
-United States of America - California; San Bernardino - Pisgah **GS**    
-United States of America - California; San Bernardino - Pisgah **G Too**    
-United States of America - California; San Bernardino - Pisgah **HA**    
-United States of America - California; San Bernardino - Pisgah **HB**    
-United States of America - California; San Bernardino - Pisgah **High Calorie**  HC   
-United States of America - California; San Bernardino - Pisgah **HL**    
-United States of America - California; San Bernardino - Pisgah **Horseshoe**    
-United States of America - California; San Bernardino - Pisgah **Incinerator**    
-United States of America - California; San Bernardino - Pisgah **Jackrabbit 1**    
-United States of America - California; San Bernardino - Pisgah **Jackrabbit 2**    
-United States of America - California; San Bernardino - Pisgah **Jackrabbit 3**    
-United States of America - California; San Bernardino - Pisgah **LA**    
-United States of America - California; San Bernardino - Pisgah **LB**    
-United States of America - California; San Bernardino - Pisgah **LD**    
-United States of America - California; San Bernardino - Pisgah **LE**    
-United States of America - California; San Bernardino - Pisgah **Low Calorie**  LC   
-United States of America - California; San Bernardino - Pisgah **MB**    
-United States of America - California; San Bernardino - Pisgah **MD**    
-United States of America - California; San Bernardino - Pisgah **MG**    
-United States of America - California; San Bernardino - Pisgah **M Hole**    
-United States of America - California; San Bernardino - Pisgah **MM**    
-United States of America - California; San Bernardino - Pisgah; Mojave Desert **Glove Cave**    
-United States of America - California; San Bernardino - Pisgah **MS**    
-United States of America - California; San Bernardino - Pisgah **NA**    
-United States of America - California; San Bernardino - Pisgah **N Hole**    
-United States of America - California; San Bernardino - Pisgah **NN**    
-United States of America - California; San Bernardino - Pisgah **No. 1**    
-United States of America - California; San Bernardino - Pisgah **Nothing Hole**    
-United States of America - California; San Bernardino - Pisgah **NP**    
-United States of America - California; San Bernardino - Pisgah **NS**    
-United States of America - California; San Bernardino - Pisgah **Owl 1**    
-United States of America - California; San Bernardino - Pisgah **Owl 2**    
-United States of America - California; San Bernardino - Pisgah **Owl 3**    
-United States of America - California; San Bernardino - Pisgah **PB**    
-United States of America - California; San Bernardino - Pisgah **PE**    
-United States of America - California; San Bernardino - Pisgah **Pear Cave**    
-United States of America - California; San Bernardino - Pisgah **QA**    
-United States of America - California; San Bernardino - Pisgah **QB**    
-United States of America - California; San Bernardino - Pisgah **QC**    
-United States of America - California; San Bernardino - Pisgah **QD**    
-United States of America - California; San Bernardino - Pisgah **QE**    
-United States of America - California; San Bernardino - Pisgah **QF**    
-United States of America - California; San Bernardino - Pisgah **QG**    
-United States of America - California; San Bernardino - Pisgah **QH**    
-United States of America - California; San Bernardino - Pisgah **QJ**    
-United States of America - California; San Bernardino - Pisgah **QK**    
-United States of America - California; San Bernardino - Pisgah **QL**    
-United States of America - California; San Bernardino - Pisgah **QM**    
-United States of America - California; San Bernardino - Pisgah **QN**    
-United States of America - California; San Bernardino - Pisgah **QP**    
-United States of America - California; San Bernardino - Pisgah **QR**    
-United States of America - California; San Bernardino - Pisgah **QS**    
-United States of America - California; San Bernardino - Pisgah **QT**    
-United States of America - California; San Bernardino - Pisgah **R0**    
-United States of America - California; San Bernardino - Pisgah **RA**    
-United States of America - California; San Bernardino - Pisgah **RB**    
-United States of America - California; San Bernardino - Pisgah **RC0**    
-United States of America - California; San Bernardino - Pisgah **RC1**    
-United States of America - California; San Bernardino - Pisgah **RC2**    
-United States of America - California; San Bernardino - Pisgah **RC3**    
-United States of America - California; San Bernardino - Pisgah **RD**    
-United States of America - California; San Bernardino - Pisgah **RE**    
-United States of America - California; San Bernardino - Pisgah **RT**    
-United States of America - California; San Bernardino - Pisgah **Russell Stewart**    
-United States of America - California; San Bernardino - Pisgah **Salt Cave**  S   
-United States of America - California; San Bernardino - Pisgah **SI**    
-United States of America - California; San Bernardino - Pisgah **SPJ**    
-United States of America - California; San Bernardino - Pisgah **SSSTSS**  SS   
-United States of America - California; San Bernardino - Pisgah **Station 10 Cave**    
-United States of America - California; San Bernardino - Pisgah **Station 11 Cave**    
-United States of America - California; San Bernardino - Pisgah **Station 4 Cave**    
-United States of America - California; San Bernardino - Pisgah **Station 6 Cave**    
-United States of America - California; San Bernardino - Pisgah **Station 7A**    
-United States of America - California; San Bernardino - Pisgah **Station 7B**    
-United States of America - California; San Bernardino - Pisgah **Station 7 Cave**    
-United States of America - California; San Bernardino - Pisgah **Station 8 Cave**    
-United States of America - California; San Bernardino - Pisgah **TA**    
-United States of America - California; San Bernardino - Pisgah **TB**    
-United States of America - California; San Bernardino - Pisgah **TC**    
-United States of America - California; San Bernardino - Pisgah **TD**    
-United States of America - California; San Bernardino - Pisgah **TE**    
-United States of America - California; San Bernardino - Pisgah **Tea Cave**  T   
-United States of America - California; San Bernardino - Pisgah **Tea Too**  TT   
-United States of America - California; San Bernardino - Pisgah **TF**    
-United States of America - California; San Bernardino - Pisgah **TG**    
-United States of America - California; San Bernardino - Pisgah **TH**    
-United States of America - California; San Bernardino - Pisgah **TI**    
-United States of America - California; San Bernardino - Pisgah **TJ**    
-United States of America - California; San Bernardino - Pisgah **TK**    
-United States of America - California; San Bernardino - Pisgah **TL**    
-United States of America - California; San Bernardino - Pisgah **TM**    
-United States of America - California; San Bernardino - Pisgah **Toothsome**  TS   
-United States of America - California; San Bernardino - Pisgah **TP**    
-United States of America - California; San Bernardino - Pisgah **TQ**    
-United States of America - California; San Bernardino - Pisgah **Trapezoidal**    
-United States of America - California; San Bernardino - Pisgah **U**    
-United States of America - California; San Bernardino - Pisgah **(Vent)**    
-United States of America - California; San Bernardino - Pisgah **W**    
-United States of America - California; San Bernardino - Pisgah **WOE**    
-United States of America - California; San Bernardino - Pisgah **Woodsy Owl**    
-United States of America - California; San Bernardino - Pisgah **Y**    
-United States of America - California; San Bernardino - Pisgah **Ze Hole**  Z   
-United States of America - California; Shasta County **Big Cave**   *Part of* Popcorn Cave System  
-United States of America - California; Shasta County **Cul De Sac Cave**    
-United States of America - California; Shasta County **Ice Cave**    
-United States of America - California; Shasta County **Millipede Cave**    
-United States of America - California; Shasta County **Popcorn Cave**   *Part of* Popcorn Cave System  
-United States of America - California; Shasta County **Rusty Cave**    
-United States of America - California; Shasta County **Shave Head Cave**    
-United States of America - California; Shasta County **Six Mile Hill Cave**    
-United States of America - California; Shasta County **(Unnamed Cave #1)**    
-United States of America - California; Shasta County **(Unnamed Cave #2)**    
-United States of America - California; Shasta County **Wilcox Cave**    
-United States of America - California; Siskiyou County **Adam's Homestead Cave**    
-United States of America - California; Siskiyou County **Air Passage**    
-United States of America - California; Siskiyou County **Amoeba Cave**    
-United States of America - California; Siskiyou County **Angleworm cave**    
-United States of America - California; Siskiyou County **Ant Farm**    
-United States of America - California; Siskiyou County **Arch Sunk Cave**    
-United States of America - California; Siskiyou County **Ash Creek cave**    
-United States of America - California; Siskiyou County **Astro Tuff Cave**    
-United States of America - California; Siskiyou County **Balcony Chamber Cave**    
-United States of America - California; Siskiyou County **Barnum Cave**  Shastina Lava Cave   
-United States of America - California; Siskiyou County **Battered Sherman**    
-United States of America - California; Siskiyou County **Big Block**    
-United States of America - California; Siskiyou County **Big Deal Cave**    
-United States of America - California; Siskiyou County **BLM Cave**    
-United States of America - California; Siskiyou County **Bobcat Cave**    
-United States of America - California; Siskiyou County **Bowers Cave**    
-United States of America - California; Siskiyou County **Bray Ice Caves**    
-United States of America - California; Siskiyou County **Brown's Hole Cave**    
-United States of America - California; Siskiyou County **Captain Jack's Bridge**    
-United States of America - California; Siskiyou County **Catwalk Cave**  Gaping Holes   
-United States of America - California; Siskiyou County **Cellar Cave**    
-United States of America - California; Siskiyou County **Ceratinly-A-Cave**    
-United States of America - California; Siskiyou County **Chest Cave**    
-United States of America - California; Siskiyou County **Cnt. Pass. Freudian Complex**    
-United States of America - California; Siskiyou County **Coke Bottle Cave**    
-United States of America - California; Siskiyou County **Cooper's Cave**    
-United States of America - California; Siskiyou County **Copper Rock Cave**    
-United States of America - California; Siskiyou County **Cranefly Hole**    
-United States of America - California; Siskiyou County **Crawfish Cave**    
-United States of America - California; Siskiyou County **Dance Hall Cave**    
-United States of America - California; Siskiyou County **Dead Tire Cave**    
-United States of America - California; Siskiyou County **Deep Trench**    
-United States of America - California; Siskiyou County **Double Barrel Cave**    
-United States of America - California; Siskiyou County **Duffys' Well**    
-United States of America - California; Siskiyou County **Dynamited Cave**  NSS-633-50  
-United States of America - California; Siskiyou County **Elmer's Bridge**    
-United States of America - California; Siskiyou County **Far L.Pass. Freudian Complex**    
-United States of America - California; Siskiyou County **Flat Arch Cave**    
-United States of America - California; Siskiyou County **Fossil Cave**    
-United States of America - California; Siskiyou County **Gail Cave**    
-United States of America - California; Siskiyou County **Greeley's Pit**    
-United States of America - California; Siskiyou County **Gruta Huella de Pollo Pequena**    
-United States of America - California; Siskiyou County **Harris Mountain Cave**    
-United States of America - California; Siskiyou County **Heppe Chimney**    
-United States of America - California; Siskiyou County **Hourglass Cave**    
-United States of America - California; Siskiyou County **Iceberg Cave #2**    
-United States of America - California; Siskiyou County **Ice Plug Cave**    
-United States of America - California; Siskiyou County **Igloo cave**    
-United States of America - California; Siskiyou County **Impossible Cave**    
-United States of America - California; Siskiyou County **Irish Catwalk Cave**    
-United States of America - California; Siskiyou County **Jack Jones Ice Cave**  Jones Cave; John Jones Ice Cave   
-United States of America - California; Siskiyou County **James Brothers Cave**    
-United States of America - California; Siskiyou County **Jerome Ice Cave**    
-United States of America - California; Siskiyou County **Juniper Pole Cave**    
-United States of America - California; Siskiyou County **Kathy's Tube**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Arch Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Balcony Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Beaconlight Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Blue Grotto**   *Part of* Labyrinth Cave System  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Boulevard Bridge**  B190 *Part of* Boulevard Caves  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Boulevard Cave**  B200 *Part of* Boulevard Caves  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Boulevard Caves**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Catacombs Cave**   *Part of* Paradise Alleys-Catacombs Cave system  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Doc Yock Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **East Boulevard Cave**  B210 *Part of* Boulevard Caves  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Elmer's Lower Bridge**  E450  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Elmer's Upper Bridge**  E440  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Garden Bridges Cave**   *Part of* Labyrinth Cave System  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Golden Dome Cave**   *Part of* Labyrinth Cave System  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Heppe Ice Cave**  Heppe Cave   
-United States of America - California; Siskiyou County - Lava Beds National Monument **Hercules Leg Cave**   *Part of* Hercules Leg-Juniper Cave  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Hopkins Chocolate Cave**   *Part of* Labyrinth Cave System  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Juniper Cave**   *Part of* Hercules Leg-Juniper Cave  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Labyrinth Cave**   *Part of* Labyrinth Cave System  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Lava Brook Cave**   *Part of* Labyrinth Cave System  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands **Island Ice Cave**  Hambone Island Cave M-470  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands **Kirk White's Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Mammoth Crater **Craig Cave**  Craig Ice Cave   
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Mammoth Crater **Crystal Cave**  Crystal Ice Cave; Blue Crystal Ice Cave   
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater **Merrill Ice Cave**  Merrill Cave   
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake **Labyrinth Cave System**    
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake; Mammoth Crater **Indian Well**  Indian Wells Ice Cave L-215  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Modoc Crater **Bearpaw Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument; Modoc Crater **Big Painted Cave**  M-310  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Mushpot Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Nirvana Cave**  B130 *Part of* Purgatory-Nirvana  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Ovis Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Pango Ndogo Cave**  B140  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Paradise Alleys Cave**   *Part of* Paradise Alleys-Catacombs Cave system  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Post Office Cave**  Postoffice Cave   
-United States of America - California; Siskiyou County - Lava Beds National Monument **Purgatory Cave**  B150 *Part of* Purgatory-Nirvana  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Roadside Cave System**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Sentinel Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Sharks Mouth Cave**  B120  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Silver Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Stinking Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Sunshine Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Symbol Bridge**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Thunderbolt Cave**   *Part of* Labyrinth Cave System  
-United States of America - California; Siskiyou County - Lava Beds National Monument **Tickner Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Tickner Chimneys**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Upper Ice Cave**    
-United States of America - California; Siskiyou County - Lava Beds National Monument **Valentine Cave**    
-United States of America - California; Siskiyou County **Left-of-Center**    
-United States of America - California; Siskiyou County **Left Pass. Freudian Complex**    
-United States of America - California; Siskiyou County **Lewis Crater Cave**    
-United States of America - California; Siskiyou County **Liverwort Cave**    
-United States of America - California; Siskiyou County **Looping Route**    
-United States of America - California; Siskiyou County **Lost Pinnacle Cave**    
-United States of America - California; Siskiyou County **Lucky Star Cave**    
-United States of America - California; Siskiyou County **Mahogany Cave**    
-United States of America - California; Siskiyou County **Mayfield Ice Cave**    
-United States of America - California; Siskiyou County **Maze Cave**    
-United States of America - California; Siskiyou County **McCloud Ice Caves**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Alarming Extension**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Amazing Pits Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Animal Track Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Bertha's Cupboard Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Caldwell Ice Caves**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Double Crater **Sign Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Double-Hole Crater **Birdnest Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Double-Hole Crater **Deep Ice Cave**  Bailey's Bailiwick   
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Dragon's Head Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Fleener Chimneys**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Four Pit Balcony Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Gelsie's Grotto**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Giant Crater Lava Flow (Many Names)   
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Guano Bridge**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Ice River Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Irish Bridge**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Jot Dean Ice Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Long First Step Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater **Cox Ice Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Man Eatin' Cave**   *Part of* Water Caves  
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater **Backbone Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater **Captain Jack's Ice Cave**  Captain Jack's Cave   
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater **Castle Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater **Coyote Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater **Frozen River Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater **Iceberg Cave #1**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater **North Bend Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater **Robin Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater **Ship Cavern**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater **White Lace Cave**    
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Shovel Cave**  Arch Sink   
-United States of America - California; Siskiyou County - Medicine Lake Highlands **Winding Sidewalk Cave**    
-United States of America - California; Siskiyou County **Mike's Sink**    
-United States of America - California; Siskiyou County **Mint Cave**    
-United States of America - California; Siskiyou County **Mitentite  Hall Cave**    
-United States of America - California; Siskiyou County - Modoc Crater **Bat Cave**  Half Mile Cave   
-United States of America - California; Siskiyou County **Moon Cave**    
-United States of America - California; Siskiyou County **Mounting Misery**    
-United States of America - California; Siskiyou County **Muddy Cast Cave**    
-United States of America - California; Siskiyou County **Natural Bridge**    
-United States of America - California; Siskiyou County **North Island Cave**    
-United States of America - California; Siskiyou County **Nother Cave**    
-United States of America - California; Siskiyou County **Octopus Cave**    
-United States of America - California; Siskiyou County **Orange Tape**    
-United States of America - California; Siskiyou County **Original Discovery Cave**    
-United States of America - California; Siskiyou County **Ovis Annex Cave**    
-United States of America - California; Siskiyou County **Ovis Bridge**    
-United States of America - California; Siskiyou County **Pallet Ice Cave**    
-United States of America - California; Siskiyou County **Peninsula Bridge**    
-United States of America - California; Siskiyou County **Pioneer Well**    
-United States of America - California; Siskiyou County **Pluto's Cave**    
-United States of America - California; Siskiyou County **Point Lithic Cave**    
-United States of America - California; Siskiyou County - Porcupine Butte **Bear Tooth Cave**    
-United States of America - California; Siskiyou County **Porcupine Butte Lava Tube**    
-United States of America - California; Siskiyou County **Prohibition Cave**    
-United States of America - California; Siskiyou County **Pumice Railway Cave**    
-United States of America - California; Siskiyou County **Rail Road Ballast Cave**    
-United States of America - California; Siskiyou County **Rediscovery Cave**    
-United States of America - California; Siskiyou County **Red Tape Cave**    
-United States of America - California; Siskiyou County **Right Pass. Freudian Complex**    
-United States of America - California; Siskiyou County **Road Cave**    
-United States of America - California; Siskiyou County **Rock Cave**    
-United States of America - California; Siskiyou County **Rollerdome Cave**    
-United States of America - California; Siskiyou County **Rooty Tooty**    
-United States of America - California; Siskiyou County **Sand Cave**    
-United States of America - California; Siskiyou County **Schonchin Cave**    
-United States of America - California; Siskiyou County - Shasta **Devil's Kitchen Cave**    
-United States of America - California; Siskiyou County **Sheet Cave**    
-United States of America - California; Siskiyou County **Short Caves**    
-United States of America - California; Siskiyou County **Signal Flag Cave**    
-United States of America - California; Siskiyou County **Sonja Wagit Cave**    
-United States of America - California; Siskiyou County **South Labyrinth Cave**    
-United States of America - California; Siskiyou County **So What Cave**    
-United States of America - California; Siskiyou County **Spider Moth Annex**    
-United States of America - California; Siskiyou County **Sugar Pine Butte Ice Cave**    
-United States of America - California; Siskiyou County **Sunbeam Annex Cave**    
-United States of America - California; Siskiyou County **Sunbeam Pit**    
-United States of America - California; Siskiyou County **Sunnyside Tick Cave**    
-United States of America - California; Siskiyou County **Teeter Rock Cave**    
-United States of America - California; Siskiyou County **Temple Cave**    
-United States of America - California; Siskiyou County **The Den**    
-United States of America - California; Siskiyou County **Three Way**    
-United States of America - California; Siskiyou County **Throughway Cave**    
-United States of America - California; Siskiyou County **Tick City Cave**    
-United States of America - California; Siskiyou County **Tom's Cave**    
-United States of America - California; Siskiyou County **Trapper Cave**    
-United States of America - California; Siskiyou County **Twin Caves**    
-United States of America - California; Siskiyou County **Water Caves**    
-United States of America - California; Siskiyou County **Wedding Cake Cave**    
-United States of America - California; Siskiyou County **Wildcat Cave**    
-United States of America - California; Siskiyou County **Wind Cave**    
-United States of America - California; Siskiyou County **Yellowjacket Ice Cave**    
-United States of America - California; Tehama County **Inskip Cave**    
-United States of America - California; Tehama County **Wilson Lake Ice Cave**    
-United States of America - Hawaii **Coffee Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Ash Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Big Room cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Clague's Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Curvin's Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Dodge cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Eldon English Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Hualalai **Hualalai Ranch Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Hualalai **Huehue Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Hualalai **Kailua-Kona Airport Caves**    
-United States of America - Hawaii - Hawaii (Big Island); Hualalai **Kaupulehu System**    
-United States of America - Hawaii - Hawaii (Big Island); Hualalai **Puu Waa waa Ranch Cave #1**    
-United States of America - Hawaii - Hawaii (Big Island); Hualalai **Puu Waa waa Ranch Cave #2**    
-United States of America - Hawaii - Hawaii (Big Island); Kilauea **Blair Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Kilauea **Christmas Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Kilauea **Doc Bellou Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Kilauea **Jen's Puka**    
-United States of America - Hawaii - Hawaii (Big Island); Kilauea **Jen's Puka Mauka Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Kilauea **Keauhou Coconut Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Kilauea **Keauhou Organ Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Kilauea **Keauhou Petroglyph Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Kilauea **Mauna Ulu Cave Group A**    
-United States of America - Hawaii - Hawaii (Big Island); Kilauea **Mauna Ulu Cave Group B**    
-United States of America - Hawaii - Hawaii (Big Island); Kilauea **Mauna Ulu Cave Group C**    
-United States of America - Hawaii - Hawaii (Big Island); Kilauea **Olaa Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Little Wall Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Lower Keauhou Trail Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Mauna Kea **Cyrtandra Makai Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Mauna Kea **Cyrtandra Mauka Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Mauna Kea **Debbie Anderson's Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Mauna Kea **Hamakua Forest Reserve Cave #1**    
-United States of America - Hawaii - Hawaii (Big Island); Mauna Kea **Hamakua Forest Reserve Cave #2**    
-United States of America - Hawaii - Hawaii (Big Island); Mauna Loa **Kau Cave #2**    
-United States of America - Hawaii - Hawaii (Big Island); Mauna Loa **Kilauea Forest Reserve #2**    
-United States of America - Hawaii - Hawaii (Big Island); Mauna Loa **Makai Cinder Cone Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Mauna Loa **Mauka Cinder Cone Cave**    
-United States of America - Hawaii - Hawaii (Big Island); Mauna Loa **Pigeon Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Mauna Loa Strip Road #1**    
-United States of America - Hawaii - Hawaii (Big Island) **Mauna Loa Strip Road #2**    
-United States of America - Hawaii - Hawaii (Big Island) **Mauna Loa Strip Road #3**    
-United States of America - Hawaii - Hawaii (Big Island) **Mauna Loa Strip Road #4**    
-United States of America - Hawaii - Hawaii (Big Island) **Old Mamalahoa Trail Makai Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Old Mamalahoa Trail Mauka Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Powerline Trail Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Pukalani Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Under the Wall Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Upper Kaupulehu System**    
-United States of America - Hawaii - Hawaii (Big Island) **Upper Keauhou Trail Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Water Pipe Cave**    
-United States of America - Hawaii - Hawaii (Big Island) **Water Pipe Pit**    
-United States of America - Hawaii - Hawaii Island **Across-the-road Cave**    
-United States of America - Hawaii - Hawaii Island **Ash Crawl Cave**    
-United States of America - Hawaii - Hawaii Island **Bombed Cave**    
-United States of America - Hawaii - Hawaii Island **Delissea Cave System**    
-United States of America - Hawaii - Hawaii Island **'D' Road Cave**  Tree cast; Pole 46 Cave   
-United States of America - Hawaii - Hawaii Island; Hualalai **Ambigua Cave**    
-United States of America - Hawaii - Hawaii Island; Hualalai **Pink Pistillaria Cave**    
-United States of America - Hawaii - Hawaii Island **Kalahuipua'a Burial Cave 340**    
-United States of America - Hawaii - Hawaii Island **Kalahuipua'a Caves**    
-United States of America - Hawaii - Hawaii Island **Keauhou Trail Caves**    
-United States of America - Hawaii - Hawaii Island; Kilauea **Ainahou Ranch Cave**    
-United States of America - Hawaii - Hawaii Island; Kilauea **Apua Cave**    
-United States of America - Hawaii - Hawaii Island; Kilauea **Thurston Lava Tube**  Nahuku   
-United States of America - Hawaii - Hawaii Island; Kilauea **T-Tube**    
-United States of America - Hawaii - Hawaii Island **Kupaianaha Caves**    
-United States of America - Hawaii - Hawaii Island **Matress Puka**    
-United States of America - Hawaii - Hawaii Island; Mauna Kea **Pa'auhau Civil Defense Cave**    
-United States of America - Hawaii - Hawaii Island; Mauna Loa **Kula Kai Caverns**   *Part of* Kipuka Kanohina  
-United States of America - Hawaii - Hawaii Island; Mauna Loa **Lower Bird Park Cave**    
-United States of America - Hawaii - Hawaii Island; Mauna Loa **Mauna Loa Ice Cave**    
-United States of America - Hawaii - Hawaii Island; Mauna Loa **Upper Bird Park Cave**    
-United States of America - Hawaii - Hawaii Island; Mauna Loa **Whitney's Cave**    
-United States of America - Hawaii - Hawaii Island **Palahemo Lava Tube**    
-United States of America - Hawaii - Hawaii Island **Postal Rift Cave**    
-United States of America - Hawaii; Kauai County - Kauai Island; Haena Caves **Waikanaloa Wet Cave**  Waimoo Wet Cave   
-United States of America - Hawaii; Kauai County - Kauai Island; Koloa **Ali'i Cave**  Weliweli 78   
-United States of America - Hawaii; Kauai County - Kauai Island; Koloa **Blind Eye Spider Cave**  Kiahuna Cave; Golf Course Cave   
-United States of America - Hawaii; Kauai County - Kauai Island; Koloa **McBryde Boundary Cave**  McBryde Boundary Road Cave; Koloa Cave #2; Koloa Pasture Cave   
-United States of America - Hawaii; Kauai County - Kauai Island; Koloa **McBryde Civil Defense Cave**  Koloa Cave #1   
-United States of America - Hawaii; Kauai County - Kauai Island; Koloa **Weliweli Cave 85A-E**    
-United States of America - Hawaii; Kauai County - Kauai Island; Na Pali Coast **Waialoha Cave**  Thankful Water Cave   
-United States of America - Hawaii - Kauai; Haena State Park **Waikapalae Wet Cave**  Waimoo Wet Cave; Blue Room Wet Cave   
-United States of America - Hawaii - Kauai **Knudsen Cave #1**    
-United States of America - Hawaii - Kauai **Knudsen Cave #2**    
-United States of America - Hawaii - Kauai **Koloa Cave #3**    
-United States of America - Hawaii - Kauai **Koloa Cave #4**    
-United States of America - Hawaii - Kauai; Koloa **Koloa-kai Cave 76A**  Shelter Caves (Koloa 76a)   
-United States of America - Hawaii - Kauai; Koloa **Koloa-kai Cave 76B**  Shelter Caves (Koloa 76b)   
-United States of America - Hawaii - Kauai; Koloa **Koloa-kai Cave 76C**  Shelter Caves (Koloa 76c)   
-United States of America - Hawaii - Kauai; Koloa **Koloa-kai Cave 76D**  Shelter Caves (Koloa 76d)   
-United States of America - Hawaii - Kauai; Koloa **Koloa-kai Cave 76E**  Shelter Caves (Koloa 76e)   
-United States of America - Hawaii - Kauai; Koloa **Koloa-kai Cave 76F**  Shelter Caves (Koloa 76f)   
-United States of America - Hawaii - Kauai; Koloa **Koloa-kai Cave 76G**  Shelter Caves (Koloa 76g)   
-United States of America - Hawaii - Kauai **Koloa Mill Cave**    
-United States of America - Hawaii - Kauai **Koloa Mill Twilight Cave #1**    
-United States of America - Hawaii - Kauai; Koloa **Shelter Caves (Koloa 74c)**    
-United States of America - Hawaii - Kauai; Koloa **Waliweli 85B**  Shelter Cave 85B   
-United States of America - Hawaii - Kauai; Koloa **Waliweli 85C**  Shelter Cave 85C   
-United States of America - Hawaii - Kauai; Koloa **Waliweli 85D**  Shelter Cave 85D   
-United States of America - Hawaii - Kauai; Koloa **Weliweli Cave 80A**    
-United States of America - Hawaii - Kauai **Lawa'i-kai Cave**  Lawai Kai Cave; Lawai Site 51   
-United States of America - Hawaii - Kauai; Na Pali Coast **Big Wet Cave**    
-United States of America - Hawaii - Kauai; Na Pali Coast **Honopu Arch**    
-United States of America - Hawaii - Kauai; Na Pali Coast **Lands End Cave**    
-United States of America - Hawaii - Kauai; Na Pali Coast **Waiawaipuhi Cave**  Great Blowhole Cave   
-United States of America - Hawaii - Kauai **Shelter Cave (Kukui-Îula 57)**    
-United States of America - Hawaii - Kauai **Waliweli 85A**  Shelter Cave 85A   
-United States of America - Hawaii; Ka'u District - Hawaii Island **Fern Cave**    
-United States of America - Hawaii; Ka'u District - Hawaii Island **Geology Cave**    
-United States of America - Hawaii; Kau District - Hawaii Island; Hilina Pali Area **Ledge Cave**    
-United States of America - Hawaii; Ka'u District - Hawaii Island; Hilini Pali; Kilauea **Earthquake Cave**    
-United States of America - Hawaii; Ka'u District - Hawaii Island **Kaukau Cave**    
-United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea **CSH Site 17 Cave**    
-United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea **CSH Site 96 Cave**    
-United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea **Palima Point Area Caves**  CSH Site 91 Cave   
-United States of America - Hawaii; Ka'u District - Hawaii Island **Refuge Cave Site B17-8**    
-United States of America - Hawaii; Kau District - Hawaii Island; South Point; Mauna Loa **Kamakalepo Cave System**    
-United States of America - Hawaii; Kilauea Forest Reserve - Hawaii (Big Island); Mauna Loa **Transect 1 Cave**    
-United States of America - Hawaii - Maui **Ananaluawahine Cave**    
-United States of America - Hawaii - Maui **Boundry Line Cave**    
-United States of America - Hawaii - Maui **Cape Kinau Lava Tube**    
-United States of America - Hawaii; Maui County - Lanai Island **Kealiakapu Cave**    
-United States of America - Hawaii; Maui County - Molokai **Ana Noio Cave**    
-United States of America - Hawaii - Maui **Dangerous Dan's Drop-off**    
-United States of America - Hawaii - Maui **Field 38 Cave**  Offal Cave   
-United States of America - Hawaii - Maui; Haleakala **Auwahi Cave**    
-United States of America - Hawaii - Maui; Haleakala **Bishop's Cave**    
-United States of America - Hawaii - Maui; Haleakala **Holoinawawai Stream Cave**    
-United States of America - Hawaii - Maui; Haleakala **Hukihuki Cave**    
-United States of America - Hawaii - Maui; Haleakala **Kahawaihapapa Cave**    
-United States of America - Hawaii - Maui; Haleakala **Kalua O Lapa Cave**  Skull Cave   
-United States of America - Hawaii - Maui; Haleakala **Long Cave**    
-United States of America - Hawaii - Maui; Haleakala **Lower Waihoi Valley Cave**    
-United States of America - Hawaii - Maui; Haleakala **Lower Wananalua Cave**    
-United States of America - Hawaii - Maui; Haleakala **Lua Lepo**    
-United States of America - Hawaii - Maui; Haleakala; Manawainaui Gulch **Crystal Cave**    
-United States of America - Hawaii - Maui; Haleakala National Park **Wainapana Cave**    
-United States of America - Hawaii - Maui; Haleakala **Offal Cave**    
-United States of America - Hawaii - Maui; Haleakala **Owl Cave**    
-United States of America - Hawaii - Maui; Haleakala **Puu Mahoe Cave**    
-United States of America - Hawaii - Maui; Haleakala **Puu Makua Cave**    
-United States of America - Hawaii - Maui; Haleakala **Puu Naio Cave**    
-United States of America - Hawaii - Maui **Haleakala Trail Cave**    
-United States of America - Hawaii - Maui; Haleakala **Upper Wananalua Cave**    
-United States of America - Hawaii - Maui; Haleakala **Wahoi Valley Trench Cave**    
-United States of America - Hawaii - Maui **Ka'eleku Cavern**  Hana Lava Tube   
-United States of America - Hawaii - Maui **Lower Kipahulu Valley**    
-United States of America - Hawaii - Maui **Lower Nahiko Road Cave**    
-United States of America - Hawaii - Maui **Lua Manu Cave**    
-United States of America - Hawaii - Maui; Upper Kipahulu Valley **Lua Mano**    
-United States of America - Hawaii - Maui; Upper Kipahulu Valley **Puka Moa**    
-United States of America - Hawaii - Maui **Upper Nahiko Road Cave**    
-United States of America - Hawaii - Maui **Waihou Spring Cave**    
-United States of America - Hawaii - Mauna Loa **Arsia Cave**  Arsia Ice Cave   
-United States of America - Hawaii - Mauna Loa **Big Red Cave**    
-United States of America - Hawaii - Mauna Loa **Keokeo Cave System**    
-United States of America - Hawaii - Mauna Loa; Kipuka Kanohina Cave Preserve **Kipuka Kanohina**    
-United States of America - Hawaii **Mouflon Cave**    
-United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa **Big Black Cave**    
-United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa **Hammer Cave**  RJ Cave; Relay Junction Cave   
-United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa **Hanging Pack Cave**    
-United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa **Mossy Fern Cave**    
-United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa **Oozing Red Puka**    
-United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa **Red Bird Cave**    
-United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa **Redemption Cave**    
-United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa **Sunset Cave**    
-United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa **Upper Oozing Red Puka**    
-United States of America - Hawaii; North Hilo District - Hawaii Island; Mauna Loa **Emesine Cave**    
-United States of America - Hawaii; North Hilo District - Hawaii Island; Mauna Loa **Kaumana Cave**    
-United States of America - Hawaii; North Hilo District - Hawaii Island; Mauna Loa **Skylight Cave**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Archies Cave**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Black Pellet Cave**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Can Cave**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Centashaft**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Donkey Cave**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Goatskull Puka**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Lama Lua Cave**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Laniakea Cave**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Ohia Cave**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Pueo Cave**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Refuge Cave Feature 2077**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Refuge Cave Site 262**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Refuge Cave Site 900**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Refuge Cave Site D7-27**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Refuge Cave Site D8-2**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Refuge Cave Site D8-33**    
-United States of America - Hawaii; North Kona District - Hawaii Island **Roadcut Caves**    
-United States of America - Hawaii; North Kona - Hawaii (Big Island); Hualalai **Huehue Ranch Cave**    
-United States of America - Hawaii; North Kona - Hawaii Island; Kilauea **Central Passage**    
-United States of America - Hawaii - Oahu **Judd Street Cave**    
-United States of America - Hawaii - Oahu; Koolau **Kamehameha Cave**    
-United States of America - Hawaii - Oahu; Koolau **Niu Burial Cave**  Niu Valley Cave   
-United States of America - Hawaii - Oahu; Koolau **Pupukea Cave**    
-United States of America - Hawaii - Oahu **Kuliouou Cave**    
-United States of America - Hawaii - Oahu; Waianae **Kaneana Cave**  Makua Cave   
-United States of America - Hawaii - Oahu **Waimalu Cave**    
-United States of America - Hawaii - Oahu **Wyllie Street Cave**    
-United States of America - Hawaii **Octapuka**    
-United States of America - Hawaii **Polipoli Cave**    
-United States of America - Hawaii **Prairie Dog Cave**    
-United States of America - Hawaii; Puna District - Hawaii (Big Island) **Bamboo Puka**    
-United States of America - Hawaii; Puna District - Hawaii (Big Island) **Bill Rowland's Cave**    
-United States of America - Hawaii; Puna District - Hawaii (Big Island) **Bordello Cave**    
-United States of America - Hawaii; Puna District - Hawaii (Big Island); Kilauea **Anthurium Sink Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Epperson's Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Fern's Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Gary McGowan's Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Gilbert Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Hakuma Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Hot Tub Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Kapapala Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Keana Oa Waa**    
-United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **Eldon English Mauka Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **Hawaiian Acres Cave #1**    
-United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **Hongo Store Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **John Martin Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **Kazumura Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **Keala Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **Pahoa Caves**    
-United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **Ring Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island; Kilauea **Ringleader Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Kurtistown Civil Defense Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Lower Uilani Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Malama Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island; Mauna Loa **Harry Fox's Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **NDAA Tubes**    
-United States of America - Hawaii; Puna District - Hawaii Island **Puna Forest Reserve Caves**    
-United States of America - Hawaii; Puna District - Hawaii Island **Swansong Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **The Puka Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Tumulus E-1 Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Upper Uilani Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Waikahekahe Cave**    
-United States of America - Hawaii; Puna District - Hawaii Island **Yuen's Caves**    
-United States of America - Hawaii; Puna District **Paradise Park Cave**    
-United States of America - Hawaii; South Kona District - Hawaii Island **Hayes Tube Shelter**    
-United States of America - Hawaii; South Kona District - Hawaii Island **Refuge Cave Site 3707**    
-United States of America - Hawaii; South Kona District - Hawaii Island **Refuge Cave Site C14-1**    
-United States of America - Hawaii **Umi'i Manu System**    
-United States of America - Idaho; Ada County **Higby Cave**    
-United States of America - Idaho; Ada County **Kuna Cave**    
-United States of America - Idaho; Ada County **The Tank**    
-United States of America - Idaho **Arrowhead Cave**    
-United States of America - Idaho; Bingham County **Aviator Cave**    
-United States of America - Idaho; Bingham County **Barricade Shelter Cave**    
-United States of America - Idaho; Bingham County **Cave Near Middle Butte**    
-United States of America - Idaho; Bingham County **Condor Pit**    
-United States of America - Idaho; Bingham County **Link Sausage Cave**    
-United States of America - Idaho; Bingham County **Lost Cave**    
-United States of America - Idaho; Bingham County **Middle Butte Cave**    
-United States of America - Idaho; Bingham County **Midway Caves**  Twin Buttes Cave   
-United States of America - Idaho; Bingham County **Moonshiner Cave**    
-United States of America - Idaho; Bingham County **North Tower Cave**    
-United States of America - Idaho; Bingham County **Rattlesnake Cave**    
-United States of America - Idaho; Blaine County **97 Mile Cave**    
-United States of America - Idaho; Blaine County **Bear Trap Lava Tube**    
-United States of America - Idaho; Blaine County **Chalk Cave**    
-United States of America - Idaho; Blaine County **Wedge Butte Cave #1/West**    
-United States of America - Idaho; Blaine County **Wedge Butte Cave #2/East**    
-United States of America - Idaho; Bonneville County **Mulhall Cave**    
-United States of America - Idaho; Bringham County **College Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Ampitheater Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Arco Tunnel**    
-United States of America - Idaho; Butte County - Craters of the Moon **Boy Scout Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Buffalo Caves**    
-United States of America - Idaho; Butte County - Craters of the Moon **Dewdrop Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Great Owl Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Horseshoe Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Indian Dome Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Indian Tunnel**    
-United States of America - Idaho; Butte County - Craters of the Moon **Last Chance Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Lava River Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Moss Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Natural Bridge Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Needles Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Surprise Cave**    
-United States of America - Idaho; Butte County - Craters of the Moon **Tom Thumb Tunnel**    
-United States of America - Idaho; Butte County **Government Cave**    
-United States of America - Idaho; Butte County **Ice Cave**    
-United States of America - Idaho; Butte County **Ice Cave #2**    
-United States of America - Idaho; Butte County **Ice Cave #3**    
-United States of America - Idaho; Butte County **Sunbear  Cave**    
-United States of America - Idaho; Caribou County **Grace Ice Cave**    
-United States of America - Idaho; Caribou County **Swan Lake Ice Cave**    
-United States of America - Idaho - Craters of the Moon **North Fork Cave**    
-United States of America - Idaho; Elmore County **Accaregui's Cave**    
-United States of America - Idaho; Elmore County **Dinosaur Cave**    
-United States of America - Idaho; Elmore County **Eureka Cave**    
-United States of America - Idaho; Elmore County **Ice Springs Cave**    
-United States of America - Idaho; Elmore County **Interstate Cave**    
-United States of America - Idaho; Elmore County **Prairie Ice Caves**    
-United States of America - Idaho; Elmore County **Saint Agony's Cave**    
-United States of America - Idaho; Fremont County **Stalagpie Cave**    
-United States of America - Idaho; Gooding County **Almost-A-Cave**    
-United States of America - Idaho; Gooding County **Bat Cave**    
-United States of America - Idaho; Gooding County **Dead Hog Cave**    
-United States of America - Idaho; Gooding County **Dead Horse Cave**    
-United States of America - Idaho; Gooding County **Dead Horse Extension**    
-United States of America - Idaho; Gooding County **Hobdey Caves**    
-United States of America - Idaho; Gooding County **Hole To Hell**    
-United States of America - Idaho; Gooding County **Pigeon Coop**    
-United States of America - Idaho; Gooding County **Spider Cave**    
-United States of America - Idaho; Gooding County **Survey Point Cave**    
-United States of America - Idaho; Gooding County **Sweat Box**    
-United States of America - Idaho; Gooding County **Teakettle Cave**    
-United States of America - Idaho; Gooding County **The "Y"**    
-United States of America - Idaho; Gooding County **White Arrow Cave**    
-United States of America - Idaho; Jefferson County **Obsenity Snake Pit Cave**    
-United States of America - Idaho; Jerome County **Clay  Cave North**    
-United States of America - Idaho; Jerome County **Clay Cave South**    
-United States of America - Idaho; Jerome County **Kimama Cave**    
-United States of America - Idaho; Jerome County **Wilson Butte Cave**    
-United States of America - Idaho; Lincoln County **Belly Cave**    
-United States of America - Idaho; Lincoln County - Black Butte **One On Rick's Side**  Eightball   
-United States of America - Idaho; Lincoln County **Black Ridge Cave**    
-United States of America - Idaho; Lincoln County **Burley Wind Cave**    
-United States of America - Idaho; Lincoln County **Cat Skull Cave**    
-United States of America - Idaho; Lincoln County **Diamond Cave**    
-United States of America - Idaho; Lincoln County **Giant Arch**    
-United States of America - Idaho; Lincoln County **Gwen**    
-United States of America - Idaho; Lincoln County **Gwen Extension**    
-United States of America - Idaho; Lincoln County **Gypsum  Cave**    
-United States of America - Idaho; Lincoln County **Helen's Hidden Hideaway**  Railroad Cave   
-United States of America - Idaho; Lincoln County **Johnson's Caves**  Johnson #1, #2, #3   
-United States of America - Idaho; Lincoln County **Lariat Cave**    
-United States of America - Idaho; Lincoln County **Mabbutt Cave**    
-United States of America - Idaho; Lincoln County **Mammoth Cave**  Mushroom Cave   
-United States of America - Idaho; Lincoln County **Maze Cave**    
-United States of America - Idaho; Lincoln County **Notch Butte Cave**    
-United States of America - Idaho; Lincoln County **Pigeon Hole**    
-United States of America - Idaho; Lincoln County **Pot O' Gold**    
-United States of America - Idaho; Lincoln County **Proctor Cave**    
-United States of America - Idaho; Lincoln County **Rose  Cave**    
-United States of America - Idaho; Lincoln County **Shoshone Indian Ice Cave**    
-United States of America - Idaho; Lincoln County **Sliman Allot Cave**    
-United States of America - Idaho; Lincoln County **Tee Cave**    
-United States of America - Idaho; Lincoln County **The One Dave Missed**    
-United States of America - Idaho; Lincoln County **The One Frank Missed**    
-United States of America - Idaho; Lincoln County **The One That Goes**    
-United States of America - Idaho; Lincoln County **Tomb North**    
-United States of America - Idaho; Lincoln County **Tomb South**    
-United States of America - Idaho; Lincoln County **Trespass  Cave**    
-United States of America - Idaho; Lincoln County **Will's Cave**    
-United States of America - Idaho **Mud Cave**    
-United States of America - Idaho - Northern Rocky Mountains **Crystal Falls Ice Cave**  Crystal Falls Cave   
-United States of America - Idaho; Power County **Moss Cave**    
-United States of America - Idaho; Power County **Sullivan Cave**    
-United States of America - Maui **Mount 'Eke Sinkholes**    
-United States of America - New Mexico; Cibola County **Bat Cave**    
-United States of America - New Mexico; Cibola County **Cerro Encierro**    
-United States of America - New Mexico; Cibola County **Chantry Cave**    
-United States of America - New Mexico; Cibola County **Chantry (West) Cave**    
-United States of America - New Mexico; Cibola County **Dripping Lava Cave**    
-United States of America - New Mexico; Cibola County - El Malpais **Bandera Crater Tube**    
-United States of America - New Mexico; Cibola County - El Malpais; Bandera Flow **Brewer's Cave**    
-United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area **Big Skylight Cave**    
-United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area **Four Windows Cave**    
-United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area **Giant Ice Cave**    
-United States of America - New Mexico; Cibola County - El Malpais **Deer Mountain**    
-United States of America - New Mexico; Cibola County - El Malpais; El Calderon area **Junction Cave**    
-United States of America - New Mexico; Cibola County - El Malpais; El Calderon area **Xenolith Cave**    
-United States of America - New Mexico; Cibola County - El Malpais **Frozen Matt Cave**    
-United States of America - New Mexico; Cibola County - El Malpais **Lava Wall Cave**  Peel Bark Cave   
-United States of America - New Mexico; Cibola County - El Malpais National Monument **Braided Cave**    
-United States of America - New Mexico; Cibola County - El Malpais National Monument **Classic Cave**    
-United States of America - New Mexico; Cibola County - El Malpais National Monument **Navajo Cave**  Navajo Ice Cave; Cave 29   
-United States of America - New Mexico; Cibola County - El Malpais National Monument **Rusty Barrel Ice Cave**  Apache Ice Cave   
-United States of America - New Mexico; Cibola County - El Malpais region **Candelaria Ice Cave**  Cerro Candelaria   
-United States of America - New Mexico; Cibola County - El Malpais region **Candelaria Ice Cave**  Cerro Candelaria   
-United States of America - New Mexico; Cibola County **Fifty Foot Pit Cave**    
-United States of America - New Mexico; Cibola County **La Marchantia Cave**    
-United States of America - New Mexico; Cibola County **Lava Column Cave**    
-United States of America - New Mexico; Cibola County **Loop Cave**    
-United States of America - New Mexico; Cibola County **Outlaw Cave**  East Outlaw Cave   
-United States of America - New Mexico; Cibola County **Twin Craters Lava Tube**    
-United States of America - New Mexico; Colfax County **Johnson Mesa Ice Caves**    
-United States of America - New Mexico - El Malpais National Monument **Bandera Volcano Ice Cave**  Zuni Ice Cave   
-United States of America - New Mexico; Lincoln County - Carrizozo **Metate Cave**    
-United States of America - New Mexico; Lincoln County **Midden Cave**    
-United States of America - New Mexico; Socorro County **Bat Caves**    
-United States of America - New Mexico; Socorro County - Jornada del Muerto **The Hookworm**    
-United States of America - New Mexico; Union County **Sierra Negras Ice Caves**    
-United States of America - New Mexico; Union County **South Black Jack Cave**    
-United States of America - Oregon **Bat Cave**   *Part of* Arnold Lava Tube System  
-United States of America - Oregon **Charcoal Cave #2**   *Part of* Arnold Lava Tube System  
-United States of America - Oregon **Charcoal Cave**   *Part of* Arnold Lava Tube System  
-United States of America - Oregon **Cody Borehole**    
-United States of America - Oregon **Deg Cave**   *Part of* Arnold Lava Tube System  
-United States of America - Oregon; Deschutes County **Back Flip Cave**    
-United States of America - Oregon; Deschutes County **Bat Crack**    
-United States of America - Oregon; Deschutes County **Boyd Cave**    
-United States of America - Oregon; Deschutes County **Charlie-the-Cave**    
-United States of America - Oregon; Deschutes County **Chuck Hole Cave**    
-United States of America - Oregon; Deschutes County **Dendrite Cave**    
-United States of America - Oregon; Deschutes County **Double Cave**    
-United States of America - Oregon; Deschutes County **Friday Cave**    
-United States of America - Oregon; Deschutes County **Frog Pit**  Fire Ladder Cave NSS-611-113  
-United States of America - Oregon; Deschutes County **Goodest Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Airport Cave**  Redmond Cave no. 6   
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Barbed Wire Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Barlow Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Boa Holes Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Bone Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Braille Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Cave Next Door**  Redmond Cave no. 3   
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Crab Walk Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Davenport Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Distillery Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Doppleganger Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Garbage Cave #1**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Garbage Cave #2**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Hidden Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Horse Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Insignificant Redmond Cave**  Redmond Cave no. 5   
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Knott's Road Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Lewis Farm 2 Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Lewis Farm Caves**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Lions Cave**  Redmond Cave no. 4   
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Mausoleum Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Moonshiner's Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Munchkin**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Mushroom Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Musty Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **No Account Redmond Cave**  Redmond Cave no. 2   
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Pronghorn 1 and 2 Caves**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Pronghorn 3 Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Rabbit Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Ratfalls Cave**  Ratt Falls Cave   
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Redmond Cave**  Redmond Cave no. 1   
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Redmond Railroad Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Roadside Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Silent Night Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Stairstep**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Stephens Road Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Stepladder Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Stove Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Three Pines Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Vulture Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Williams Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Wilson Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **X Cave**    
-United States of America - Oregon; Deschutes County - Horse Lava Tube System **Young's Cave**    
-United States of America - Oregon; Deschutes County **Johnson Farm 1 Cave**    
-United States of America - Oregon; Deschutes County **Johnson Farm 2 Cave**    
-United States of America - Oregon; Deschutes County **Jug Cave**    
-United States of America - Oregon; Deschutes County **Karen's Cave**    
-United States of America - Oregon; Deschutes County **Lavacicle Cave**    
-United States of America - Oregon; Deschutes County **Lava River Cave**    
-United States of America - Oregon; Deschutes County **Lost and Found Cave**   
-United States of America - Oregon; Deschutes County **Lost Cave**    
-United States of America - Oregon; Deschutes County **Matz Ice Cave**    
-United States of America - Oregon; Deschutes County **Moss Carpet Cave**    
-United States of America - Oregon; Deschutes County **Mushroom Cave No. 2**    
-United States of America - Oregon; Deschutes County - Newberry Volcano **Arnold Ice Cave**  Crook County Ice Cave  *Part of* Arnold Lava Tube System  
-United States of America - Oregon; Deschutes County **Nice Cave**    
-United States of America - Oregon; Deschutes County **Pictograph Cave**   *Part of* Arnold Lava Tube System  
-United States of America - Oregon; Deschutes County **P Line Ice Cave**    
-United States of America - Oregon; Deschutes County **Round Mountain Lava Cave**    
-United States of America - Oregon; Deschutes County **Skeleton Cave**    
-United States of America - Oregon; Deschutes County **Somersault Cave**    
-United States of America - Oregon; Deschutes County **South Ice Cave**    
-United States of America - Oregon; Deschutes County **Twin Skylight Cave**    
-United States of America - Oregon; Deschutes County **Under the Lake Cave**   
-United States of America - Oregon; Deschutes County **Walk-in-Cave**    
-United States of America - Oregon; Deschutes County **Wind Cave**   *Part of* Arnold Lava Tube System  
-United States of America - Oregon; Deschutes County **Wind Caves #'s 3,4,5**    
-United States of America - Oregon **Edison Ice Cave**  NSS-611-1  
-United States of America - Oregon; Harney County **Jenkins Cave**    
-United States of America - Oregon; Harney County **Malheur Cave**    
-United States of America - Oregon - Horse Lava Tube System **Stevens Road Cave**    
-United States of America - Oregon; Lake County **Benjamin Lake Cave**    
-United States of America - Oregon; Lake County **Ben's Cave**    
-United States of America - Oregon; Lake County **Burnout Cave**    
-United States of America - Oregon; Lake County **Cairn Cave**    
-United States of America - Oregon; Lake County **Derrick Cave**    
-United States of America - Oregon; Lake County **Hide-away Cave**    
-United States of America - Oregon; Lake County **Lava Knoll Cave**    
-United States of America - Oregon; Lake County **Red Herring Cave**    
-United States of America - Oregon; Lake County **Rubber Band Cave**    
-United States of America - Oregon; Lake County **West Vent Cave**    
-United States of America - Oregon; Lane County **Breakdown Cave**    
-United States of America - Oregon; Lane County **Ectomonph Ice Cave**    
-United States of America - Oregon; Lane County **Incline Cave**    
-United States of America - Oregon; Lane County **Not Much Cave**  NSS-611-67  
-United States of America - Oregon; Lane County **Obsidian Flake Ice Cave**    
-United States of America - Oregon **Lava Top Butte Ice Cave**    
-United States of America - Oregon **Log Crib Cave**    
-United States of America - Oregon; Malheur County **Baker Cave**    
-United States of America - Oregon; Malheur County **Barn Swallow Cave**    
-United States of America - Oregon; Malheur County **Bogus Creek Cave**    
-United States of America - Oregon; Malheur County **Bullet Cave**    
-United States of America - Oregon; Malheur County **Burns Cave**    
-United States of America - Oregon; Malheur County **Can Cave**    
-United States of America - Oregon; Malheur County **Cat Box Cave**    
-United States of America - Oregon; Malheur County **Coyote Trap Cave**    
-United States of America - Oregon; Malheur County **Fire Pit Cave**    
-United States of America - Oregon; Malheur County **Garbage Cave**    
-United States of America - Oregon; Malheur County **Ghost Rock Cave**    
-United States of America - Oregon; Malheur County **One Station Cave**    
-United States of America - Oregon; Malheur County **Patton's Arch**    
-United States of America - Oregon; Malheur County - Pisgah **Tooth Cave**    
-United States of America - Oregon; Malheur County **Rattlesnake Cave No. 2**    
-United States of America - Oregon; Malheur County **Raven Pit**    
-United States of America - Oregon; Malheur County - Saddle Butte **Kitty Pooh II Cave**    
-United States of America - Oregon; Malheur County - Saddle Butte **Owyhee River Cave**    
-United States of America - Oregon; Malheur County - Saddle Butte **Skylight Cave No. 2**    
-United States of America - Oregon; Malheur County **Tire Tube Cave**    
-United States of America - Oregon - Newberry National Monument **Surveyor's Cave**  Surveyor's Ice Cave   
-United States of America - Oregon **QMC Lower Cave**    
-United States of America - Oregon **Santiam Pit Lava Tube**    
-United States of America - Oregon **Stookey Ranch Cave**   *Part of* Arnold Lava Tube System  
-United States of America - Oregon **Tie Cave**    
-United States of America - Oregon; Wasco County **Dalles Cave**    
-United States of America - Oregon; Washington County **Catlin Gabel System (collapsed)**    
-United States of America - Siskiyou County; California **Check Out Cave**   *Part of* Water Caves  
-United States of America - Utah; Garfield County **Bowers Cave**    
-United States of America - Utah; Garfield County **Lost Snag Cave**  Henrie Knolls Cave   
-United States of America - Utah; Garfield County - Markagnunt Plateau **(Unnamed Cave)**  Mathesons Cave; Alvas Cave  *Part of* Mammoth Cave  
-United States of America - Utah; Garfield County - Markagunt Plateau **Mammoth Cave**    
-United States of America - Utah; Kane County **Duck Creek Lava Tube**    
-United States of America - Utah; Millard County **Fillmore Ice Cave**    
-United States of America - Utah; Washington County **Skeleton Cave**    
-United States of America - Washington **Beer Bottle Cave**    
-United States of America - Washington **Cemetery Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **Bat Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **Beaver Bay Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **Cliff Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **Cougar Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **Dogwood Cave**  NSS-631-012  
-United States of America - Washington; Cowlitz County - Mount St. Helens **Helium Cave**  NSS-631-17A,B  
-United States of America - Washington; Cowlitz County - Mount St. Helens **Hunter's Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **Kim's Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **Lost Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **Margin Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **Pillars of Hercules Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **Shortstop Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **Stan's Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **String Cave**    
-United States of America - Washington; Cowlitz County - Mount St. Helens **Twenty-Four Cave**    
-United States of America - Washington; Klickitat County **Caryl's Cave**    
-United States of America - Washington; Klickitat County **David's Den**    
-United States of America - Washington; Klickitat County **Dead Bear Cave**    
-United States of America - Washington; Klickitat County **Ditch Cave**    
-United States of America - Washington; Klickitat County **Jenning's Cave**    
-United States of America - Washington; Klickitat County **Jugs Caves System**    
-United States of America - Washington; Klickitat County **Lava Bridge East Cave**    
-United States of America - Washington; Klickitat County **Lava Bridge West Cave**    
-United States of America - Washington; Klickitat County **Madison's Cave**    
-United States of America - Washington; Klickitat County - Mt. Adams **Massey's Barn Cave**    
-United States of America - Washington; Klickitat County **Niskanen Cave**    
-United States of America - Washington; Klickitat County **Porcupine Cave**    
-United States of America - Washington; Klickitat County **Snowpatch Cave**    
-United States of America - Washington; Klickitat County **Thanks Cave**    
-United States of America - Washington **Skamaniac Cave**    
-United States of America - Washington; Skamania County **Apple Cave**  NSS-633-24  
-United States of America - Washington; Skamania County **Asher's Cave**  Prince Charming Cave   
-United States of America - Washington; Skamania County **Ash Hole Cave**  NSS-633-11  
-United States of America - Washington; Skamania County **Big Cave**    
-United States of America - Washington; Skamania County **Bill's Cave**  NSS-633-03  
-United States of America - Washington; Skamania County **Breakdown Mountain Cave**    
-United States of America - Washington; Skamania County **Broken Back Cave**    
-United States of America - Washington; Skamania County **Candle Cave**    
-United States of America - Washington; Skamania County **Cave B**    
-United States of America - Washington; Skamania County **Chubby Bunny Cave**    
-United States of America - Washington; Skamania County **Clearcut Cave**    
-United States of America - Washington; Skamania County **C.O.G. Cave**  NSS-633-21  
-United States of America - Washington; Skamania County **Cone Pickers Cave**    
-United States of America - Washington; Skamania County **Cougar Den Cave**  NSS-633-42  
-United States of America - Washington; Skamania County **Curly Creek Cave**    
-United States of America - Washington; Skamania County **Deadhorse Cave**    
-United States of America - Washington; Skamania County **Deer Cave**    
-United States of America - Washington; Skamania County **Dirty Cave**    
-United States of America - Washington; Skamania County **Dot's Cave**    
-United States of America - Washington; Skamania County **Dqucaking Pika Cave**    
-United States of America - Washington; Skamania County **Dry Creek Cave Annex**    
-United States of America - Washington; Skamania County **Dry Creek Cave**  NSS-633-27  
-United States of America - Washington; Skamania County **Falls Creek Cave**  Panther Lava Cave NSS-633-204  
-United States of America - Washington; Skamania County **Falls Creek Falls Cave**    
-United States of America - Washington; Skamania County **Firecracker Cave**  NSS-633-51  
-United States of America - Washington; Skamania County **Flashcube Cave**  NSS-633-17  
-United States of America - Washington; Skamania County **Folgers Cave**  NSS-633-213  
-United States of America - Washington; Skamania County **Forest Sink Cave**    
-United States of America - Washington; Skamania County **Frog Hollow Cave**  NSS-633-07  
-United States of America - Washington; Skamania County **Goose Cave**  NSS-633-10  
-United States of America - Washington; Skamania County **Gopher Hole Cave**  NSS-633-09  
-United States of America - Washington; Skamania County **Grouch Cave**    
-United States of America - Washington; Skamania County **Hairy Fungus Cave**  NSS-633-04  
-United States of America - Washington; Skamania County **Hemlock Cave**  NSS-633-37  
-United States of America - Washington; Skamania County **Ice Rink Cave**  NSS-633-22  
-United States of America - Washington; Skamania County **J.a.R. Cave**  NSS-633-43  
-United States of America - Washington; Skamania County **Layser Cave**    
-United States of America - Washington; Skamania County **Leaverite Cave**    
-United States of America - Washington; Skamania County **Lilliputian Cave**    
-United States of America - Washington; Skamania County **Little Goose Canyon Caves**    
-United States of America - Washington; Skamania County **Metrecal Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **A.M. Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Ape Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Arch Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Backbone Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Barney's Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Beaver Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Blue Ribbon Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Breakdown Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Column Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Cut Nose Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Dollar-and-a-Dime Cave**  NSS-631-11  
-United States of America - Washington; Skamania County - Mount St. Helens **Flow Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **G Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Gremlin Cave**  NSS-631-16A,B  
-United States of America - Washington; Skamania County - Mount St. Helens **Indecision Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Joan's Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Lake Cave**  NSS-631-051  
-United States of America - Washington; Skamania County - Mount St. Helens **Lava Spring Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Little People Cave**  NSS-631-021  
-United States of America - Washington; Skamania County - Mount St. Helens **Little Red River Cave**  NSS-631-023  
-United States of America - Washington; Skamania County - Mount St. Helens **Log Crawl Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Low Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Manhole Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Marty's Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Mosquito Cave No. 2**    
-United States of America - Washington; Skamania County - Mount St. Helens **Moss Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Ole's Cave**  NSS-631-029  
-United States of America - Washington; Skamania County - Mount St. Helens **Pat's Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Powerline Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Prince Albert Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Railroad Track Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Rockpile Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Salal Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Sand Cave**  Knight's Cave   
-United States of America - Washington; Skamania County - Mount St. Helens **Scott's Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Seashell Fungus Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Spider Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Surprise Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Tadpole Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Thermal Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Trail Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Two Column Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **Warm Spring Cave**    
-United States of America - Washington; Skamania County - Mount St. Helens **West Cave**    
-United States of America - Washington; Skamania County - Mt. Adams **Big Trench Cave System**    
-United States of America - Washington; Skamania County - Mt. Adams **Datus Perry's Cave**    
-United States of America - Washington; Skamania County - Mt. Adams **Datus Perry's New Cave**    
-United States of America - Washington; Skamania County - Mt. Adams **Fallen Arches Caves**    
-United States of America - Washington; Skamania County - Mt. Adams **Guler Ice Cave**    
-United States of America - Washington; Skamania County - Mt. Adams **Volunteer Cave**    
-United States of America - Washington; Skamania County **Mud Bath Cave**    
-United States of America - Washington; Skamania County **New Cave**    
-United States of America - Washington; Skamania County **Nielsen's Cave**    
-United States of America - Washington; Skamania County **Overflow Cave**    
-United States of America - Washington; Skamania County **Overlook Cave**    
-United States of America - Washington; Skamania County **Peterson Ridge Road Cave**    
-United States of America - Washington; Skamania County **Pica Ice Cave**    
-United States of America - Washington; Skamania County **Pickard's Sink**  NSS-633-08  
-United States of America - Washington; Skamania County **Pickings Cave**    
-United States of America - Washington; Skamania County **Pine Martin Cave**    
-United States of America - Washington; Skamania County - Pisgah **Y Cave**    
-United States of America - Washington; Skamania County **Pond Cave**    
-United States of America - Washington; Skamania County **Ponderosa Arch**    
-United States of America - Washington; Skamania County **Quill Cave**    
-United States of America - Washington; Skamania County **Rabbit Hole Cave**    
-United States of America - Washington; Skamania County **Rat's Pit Cave**    
-United States of America - Washington; Skamania County **Resurrection Cave**    
-United States of America - Washington; Skamania County **Ribbit Hole Cave**    
-United States of America - Washington; Skamania County **Roadside Cave**    
-United States of America - Washington; Skamania County **Roadside Cave Annex**    
-United States of America - Washington; Skamania County **Salamander Cave**    
-United States of America - Washington; Skamania County **Sleeping Beauty Cave**    
-United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system **Hoarfrost Cave**  NSS-633-18  
-United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system **Sour Grapes Cave**    
-United States of America - Washington; Skamania County **Slide Cave**    
-United States of America - Washington; Skamania County **Slime Cave**    
-United States of America - Washington; Skamania County **Slime Cave Annex**    
-United States of America - Washington; Skamania County **Spear Point Cave**    
-United States of America - Washington; Skamania County **Splash Cave**    
-United States of America - Washington; Skamania County **Squeaking Pika Cave**    
-United States of America - Washington; Skamania County **Techno-Nine**    
-United States of America - Washington; Skamania County **The Goblet**    
-United States of America - Washington; Skamania County **Three Sinks Cave**    
-United States of America - Washington; Skamania County **Todd's Cave**    
-United States of America - Washington; Skamania County **Too Dirty Cave**    
-United States of America - Washington; Skamania County **Tooth Cave**    
-United States of America - Washington; Skamania County **Vine Maple Cave**    
-United States of America - Washington **Skin Mites Cave**    
-Vanuatu - Paama - Lopevi **Lopevi I**    
-Vanuatu - Paama - Lopevi **Lopevi II**    
-Viet Nam - Buon Choa'h **A1**    
-Viet Nam - Buon Choa'h **C8**    
-Viet Nam - Buon Choa'h **C9**    
-Viet Nam - Buon Choa'h **P11**    
-Viet Nam - Buon Choa'h **P1, P2**    
-Viet Nam - Buon Choa'h **P3**    
-Viet Nam - Buon Choa'h **P5 (PT07)**    
-Viet Nam - Buon Choa'h **T1W**    
-Viet Nam - Dak Dro **PT06**    
-Viet Nam - Dak Sor **C0**    
-Viet Nam - Dak Sor **C1, C2**    
-Viet Nam - Dak Sor **C3**    
-Viet Nam - Dak Sor **C4**    
-Viet Nam - Dak Sor **C6**    
-Viet Nam - Nam Da **C6.1**    
-Viet Nam - Nam Da **C7**    
-Viet Nam - Nam Da **P10E, P10W**    
-Viet Nam - Nam Da **P20**    
-Viet Nam - Nam Da **P8**    
+Argentina - Catamarca [**Cueva de San Fransisco** ](allcaves-database.md#AR-f2fbc650814457f91bc4c9138898d1e0)  
+Argentina - La Pampa [**Cueva La Alada** ](allcaves-database.md#AR-b403d0ee8602ed513a356cae6d9af689)  
+Argentina - Mendoza [**Cueva Dona Otilia** ](allcaves-database.md#AR-2c91de573a95747d231f45cc52af428c)  
+Argentina - Neguen [**Caverna de los Gatos** Caverna de la Sobrecueva ](allcaves-database.md#AR-7fca2c85a5e23f6cfcc7bd6485c11030)  
+Australia - Heard Island [**CAD15_16 Cave** ](allcaves-database.md#AU-b6a763c60f23ee02884f1755f90b5093)  
+Australia - Heard Island - Mawson Peak [**NAD-02 Cave** ](allcaves-database.md#AU-876fdd02f33b58a3cb40d98b23a0f2b9)  
+Australia - Queensland [**Barkers Crater Caves** ](allcaves-database.md#AU-8386ac76afa2fa8dd2aec369cb12a962)  
+Australia - Queensland [**Black Braes** ](allcaves-database.md#AU-e267c2683092beeb85eaab4680fbbb1c)  
+Australia - Queensland [**Dundurrah Lava Tube** ](allcaves-database.md#AU-91e5b46bc5ed1856ae4e7136e4067584)  
+Australia - Queensland [**Holy Jump Lava Cave** ASF-4BM-1](allcaves-database.md#AU-ASF-4BM-1)  
+Australia - Queensland [**Stephenson** ](allcaves-database.md#AU-17d649f637ce3847ea02229919bdb996)  
+Australia - Queensland - Undara [**Arch** ASF-U22](allcaves-database.md#AU-ASF-U22)  
+Australia - Queensland - Undara [**Atkinson Cave** ASF-4U-20](allcaves-database.md#AU-ASF-4U-20)  
+Australia - Queensland - Undara [**Barkers Cave** ASF-4U-34](allcaves-database.md#AU-ASF-4U-34)  
+Australia - Queensland - Undara [**Bayliss Cave** ASF-4U-30](allcaves-database.md#AU-ASF-4U-30)  
+Australia - Queensland - Undara [**Branch** ASF-U64](allcaves-database.md#AU-ASF-U64)  
+Australia - Queensland - Undara [**Darcy Cave** ASF-4U-31](allcaves-database.md#AU-ASF-4U-31)  
+Australia - Queensland - Undara [**Dave's (North) Cave** Dave I ASF-4U-26](allcaves-database.md#AU-ASF-4U-26)  
+Australia - Queensland - Undara [**Dave's (South) Cave** Dave II ASF-4U-27](allcaves-database.md#AU-ASF-4U-27)  
+Australia - Queensland - Undara [**Ding Bat** ASF-U50](allcaves-database.md#AU-ASF-U50)  
+Australia - Queensland - Undara [**Eptesicus** ASF-U39](allcaves-database.md#AU-ASF-U39)  
+Australia - Queensland - Undara [**Ewamin** Arch 3 ASF-U23](allcaves-database.md#AU-ASF-U23)  
+Australia - Queensland - Undara [**Expedition I** ASF-U56](allcaves-database.md#AU-ASF-U56)  
+Australia - Queensland - Undara [**Expedition II** ASF-U57](allcaves-database.md#AU-ASF-U57)  
+Australia - Queensland - Undara [**Flat Ceiling** ASF-U63](allcaves-database.md#AU-ASF-U63)  
+Australia - Queensland - Undara [**Fortune** ASF-U47](allcaves-database.md#AU-ASF-U47)  
+Australia - Queensland - Undara [**Frances** ASF-4U-13](allcaves-database.md#AU-ASF-4U-13)  
+Australia - Queensland - Undara [**Fun Cave** ASF-U49](allcaves-database.md#AU-ASF-U49)  
+Australia - Queensland - Undara [**Graham** ASF-U66](allcaves-database.md#AU-ASF-U66)  
+Australia - Queensland - Undara [**Greeley Cave** ASF-4U-11](allcaves-database.md#AU-ASF-4U-11)  
+Australia - Queensland - Undara [**Hanson Cave** ASF-4U-1](allcaves-database.md#AU-ASF-4U-1)  
+Australia - Queensland - Undara [**Harbour Bridge Cave** ASF-4U-9](allcaves-database.md#AU-ASF-4U-9)  
+Australia - Queensland - Undara [**Hot Hole** ASF-U51](allcaves-database.md#AU-ASF-U51)  
+Australia - Queensland - Undara [**Inner Dome** ASF-U41](allcaves-database.md#AU-ASF-U41)  
+Australia - Queensland - Undara [**Johnson Cave** ASF-4U-19](allcaves-database.md#AU-ASF-4U-19)  
+Australia - Queensland - Undara [**Komoni** ](allcaves-database.md#AU-644d6f176c8c58bddf3ee5c3e6ce5542)  
+Australia - Queensland - Undara [**Lost World** ASF-U37](allcaves-database.md#AU-ASF-U37)  
+Australia - Queensland - Undara [**Lower Secret** ASF-U68](allcaves-database.md#AU-ASF-U68)  
+Australia - Queensland - Undara [**Matthew Cave** ASF-4U-32](allcaves-database.md#AU-ASF-4U-32)  
+Australia - Queensland - Undara [**Mikoshi** ASF-U44](allcaves-database.md#AU-ASF-U44)  
+Australia - Queensland - Undara [**Misplaced Arch** ASF-U45](allcaves-database.md#AU-ASF-U45)  
+Australia - Queensland - Undara [**Moth** ASF-U53](allcaves-database.md#AU-ASF-U53)  
+Australia - Queensland - Undara [**Nasty** ASF-U46](allcaves-database.md#AU-ASF-U46)  
+Australia - Queensland - Undara [**Ollier Cave** ASF-4U-8](allcaves-database.md#AU-ASF-4U-8)  
+Australia - Queensland - Undara [**Opera House** ASF-4U-14](allcaves-database.md#AU-ASF-4U-14)  
+Australia - Queensland - Undara [**Peter Cave** ASF-U7](allcaves-database.md#AU-ASF-U7)  
+Australia - Queensland - Undara [**Peterson** ASF-4U-15](allcaves-database.md#AU-ASF-4U-15)  
+Australia - Queensland - Undara [**Picnic I** ASF-U24](allcaves-database.md#AU-ASF-U24)  
+Australia - Queensland - Undara [**Picnic II** ASF-U25](allcaves-database.md#AU-ASF-U25)  
+Australia - Queensland - Undara [**Pinwill Cave** ASF-4U-17](allcaves-database.md#AU-ASF-4U-17)  
+Australia - Queensland - Undara [**Raleigh I** ASF-U35](allcaves-database.md#AU-ASF-U35)  
+Australia - Queensland - Undara [**Raleigh II** ASF-U36](allcaves-database.md#AU-ASF-U36)  
+Australia - Queensland - Undara [**Road Cave** ASF-4U-U28](allcaves-database.md#AU-ASF-4U-U28)  
+Australia - Queensland - Undara [ Road Cave ASF-4U-U29](allcaves-database.md#AU-ASF-4U-U29)  
+Australia - Queensland - Undara [**San** ASF-U65](allcaves-database.md#AU-ASF-U65)  
+Australia - Queensland - Undara [**Sarah Cave** ASF-4U-6](allcaves-database.md#AU-ASF-4U-6)  
+Australia - Queensland - Undara [**Short Little Arch** ASF-U43](allcaves-database.md#AU-ASF-U43)  
+Australia - Queensland - Undara [**Speaking Tube** ASF-U62](allcaves-database.md#AU-ASF-U62)  
+Australia - Queensland - Undara [**Stevens Cave** ASF-4U-16](allcaves-database.md#AU-ASF-4U-16)  
+Australia - Queensland - Undara [**St. Pauls Cave** ASF-4U-5](allcaves-database.md#AU-ASF-4U-5)  
+Australia - Queensland - Undara [**Sunset** ASF-U54](allcaves-database.md#AU-ASF-U54)  
+Australia - Queensland - Undara [**Taylor Cave** ASF-4U-4](allcaves-database.md#AU-ASF-4U-4)  
+Australia - Queensland - Undara [**Temple of Doom** ASF-U48](allcaves-database.md#AU-ASF-U48)  
+Australia - Queensland - Undara [**Tom** ASF-U59](allcaves-database.md#AU-ASF-U59)  
+Australia - Queensland - Undara [**Traves Cave** ASF-4U-18](allcaves-database.md#AU-ASF-4U-18)  
+Australia - Queensland - Undara [**Tween** ASF-U38](allcaves-database.md#AU-ASF-U38)  
+Australia - Queensland - Undara [**(Unknown Name)** ASF-4U-21](allcaves-database.md#AU-ASF-4U-21)  
+Australia - Queensland - Undara [**Upper Secret** ASF-U67](allcaves-database.md#AU-ASF-U67)  
+Australia - Queensland - Undara [**Wallaby's Hideaway** ASF-U55](allcaves-database.md#AU-ASF-U55)  
+Australia - Queensland - Undara [**Wind Tunnel** ASF-U42](allcaves-database.md#AU-ASF-U42)  
+Australia - Queensland - Undara [**Wishing Well** U52 ](allcaves-database.md#AU-16673bc0fa17a708c51a47409e431d8d)  
+Australia - Victoria [**Insect Cave** ](allcaves-database.md#AU-7c721a04a2dee7aa3150e31d5189f6cb)  
+Australia - Victoria - Mt. Eccles [**Gothic Cave** ASF-3H-10](allcaves-database.md#AU-ASF-3H-10)  
+Australia - Victoria - Mt. Eccles (Tyrendarra Flow) [**Tunnel Cave** ASF-3H-9](allcaves-database.md#AU-ASF-3H-9)  
+Australia - Victoria - Mt. Napier [**Blood Cave** ASF-3H-H32](allcaves-database.md#AU-ASF-3H-H32)  
+Australia - Victoria - Mt. Napier [**Bridge Cave** ASF-3H-13](allcaves-database.md#AU-ASF-3H-13)  
+Australia - Victoria - Mt. Napier; Byaduk [**Church Cave 3** ASF-3H-17](allcaves-database.md#AU-ASF-3H-17)  
+Australia - Victoria - Mt. Napier [**Church Cave 1; Byaduk** ASF-3H-15](allcaves-database.md#AU-ASF-3H-15)  
+Australia - Victoria - Mt. Napier [**Church Cave 2; Byaduk** ASF-3H-16](allcaves-database.md#AU-ASF-3H-16)  
+Australia - Victoria - Mt. Napier [**Fern Cave** ASF-3H-23](allcaves-database.md#AU-ASF-3H-23)  
+Australia - Victoria - Mt. Napier [**Flower Pot** ASF-3H-19](allcaves-database.md#AU-ASF-3H-19)  
+Australia - Victoria - Mt. Napier [**Guano Grotto** H-X2 ASF-3H-63](allcaves-database.md#AU-ASF-3H-63)  
+Australia - Victoria - Mt. Napier [**Harman I Cave** ASF-3H-11](allcaves-database.md#AU-ASF-3H-11)  
+Australia - Victoria - Mt. Napier [ H-X1; 3H-X1 ASF-3H-62](allcaves-database.md#AU-ASF-3H-62)  
+Australia - Victoria - Mt. Napier [ H-X3B ](allcaves-database.md#AU-b1a41012ef3539e5fef46b8652ff5fbc)  
+Australia - Victoria - Mt. Napier [**Shallow Cave** ASF-3H-31](allcaves-database.md#AU-ASF-3H-31)  
+Australia - Victoria - Mt. Napier [**Shephard's Cave** Shepherd's Cave ASF-3H-22](allcaves-database.md#AU-ASF-3H-22)  
+Australia - Victoria - Mt. Napier [**The Forge** H-X6 ASF-3H-67](allcaves-database.md#AU-ASF-3H-67)  
+Australia - Victoria - Mt. Napier [**The Staircase** ASF-3H-25](allcaves-database.md#AU-ASF-3H-25)  
+Australia - Victoria - Mt. Napier [**The Turk** ASF-3H-24](allcaves-database.md#AU-ASF-3H-24)  
+Australia - Victoria - Mt. Napier [**Tree Root Cave** H-X4 ASF-3H-65](allcaves-database.md#AU-ASF-3H-65)  
+Australia - Victoria - Mt. Napier [**Tunnel Cave** ASF-3H-66](allcaves-database.md#AU-ASF-3H-66)  
+Australia - Victoria - Mt. Porndon [**Rubbish Cave** ](allcaves-database.md#AU-dc9d294eb0b4776a01814eb7df897d36)  
+Australia - Victoria - Newer Volcanics [**Parwan Cave** ASF-3H-4](allcaves-database.md#AU-ASF-3H-4)  
+Australia - Victoria - Newer Volcanics [**Skipton Cave** Mt. Widderin Cave ASF-3H-1](allcaves-database.md#AU-ASF-3H-1)  
+Australia - Victoria; Western District [**Panmure Cave** ](allcaves-database.md#AU-c332fb4cf6b53d067911d53cf183c49e)  
+Australia - Victoria - Western Volcanic Plains [**Mt. Hamilton Cave** ASF-3H-2](allcaves-database.md#AU-ASF-3H-2)  
+Australia - Victoria - Western Volcanic Plains; Mt. Porndon [**Porndon Arch** ASF-3H-6](allcaves-database.md#AU-ASF-3H-6)  
+Australia - Victoria - Western Volcanic Plains [**Upper Mt. Hamilton Cave** Sausage Cave ASF-3H-3](allcaves-database.md#AU-ASF-3H-3)  
+Bulgaria - Khaskovo - Rhodope Massif [**Kaleto I** ](allcaves-database.md#BG-414c3c2902c233646b0ca70b8d5e2573)  
+Cameroon - Sud-Oeust [**Grand Tunnel** ](allcaves-database.md#CM-ea0ec9af6f0eb93973f7c9cbf1d207d8)  
+Cameroon - Sud-Oeust [**Grotte d'Ebongue** ](allcaves-database.md#CM-c4fea2b5440f718c67b6fe2af08c797e)  
+Cameroon - Sud-Oeust [**Grotte des diffluences** ](allcaves-database.md#CM-dfe187b30a427549eff27e1ddb0ba90c)  
+Cameroon - Sud-Oeust [**Grotte Isabella** ](allcaves-database.md#CM-bc2387ae2be22ac905d7683e5584f5c7)  
+Cameroon - Sud-Oeust [**Grotte Lointaine** ](allcaves-database.md#CM-a0796eb90e057abb8e419dbc23d129c3)  
+Cameroon - Sud-Oeust [**Grotte Superieure** ](allcaves-database.md#CM-61d5062d261925040367bb812a37e190)  
+Cameroon - Sud-Oeust - Mt. Cameroon [**Grotte Gaskin** ](allcaves-database.md#CM-81496a39187762129375d8e408d6e161)  
+Cameroon - Sud-Oeust - Mt. Cameroon [**Grotte Molalei** ](allcaves-database.md#CM-d14c64fb820ba65a991c7fda8a00f915)  
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) [**Ana Kakena** ](allcaves-database.md#CL-9160577a1f2640a52b360187bdaa8296)  
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) [**Ana o Keke** Cave of the White Virgins; Cave of the Sun's Inclination ](allcaves-database.md#CL-83f8fb825e0300ac10e8641ef1f56dd0)  
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) [**Ana Roa** ](allcaves-database.md#CL-48c51eefeec09af61f5393ae2b174b7a)  
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) [**Ana Te Pahu** ](allcaves-database.md#CL-3e62001432cb3c881b6362a2332ceacc)  
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) [**Ana Te Pora** ](allcaves-database.md#CL-1f087896f740776c964eb42ddf5d6c71)  
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) [**Tunnel No. 2** ](allcaves-database.md#CL-04c502314ff525f7b3fa2877f61f14e7)  
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) [**Tunnel No. 3** ](allcaves-database.md#CL-5197a0a8c42c175833b0a433793fe9a9)  
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) [**Tunnel No. 4** ](allcaves-database.md#CL-cc4eaf1269e48e16708d1fa22afd406f)  
+China - Heilongjiang [**Chin Fue** ](allcaves-database.md#CN-ffe5bc3deb1764fad8ca5cdd113c220e)  
+China - Heilungjiang; Wudalianchi County - Wudalianchi volcano [**Laoheishan and Huoshaoshan tubes** ](allcaves-database.md#CN-89bf95ffd4e7cbe5c9d023eabf6635d6)  
+Comoros - Grande Comore County - Karthala [**Karthala tubes** ](allcaves-database.md#KM-e5609ee27a6141e6f028b2c915d4d804)  
+Congo, Democratic Republic of the - Kivu [**Nyamulagira** ](allcaves-database.md#CD-ad679c5f84a103abc12438b737ed3d40)  
+Ecuador - Galapagos - Floreana Island [**Cueva de la Bahia d C/I** ](allcaves-database.md#EC-548db637ddbf693e7e2d9a080545cb59)  
+Ecuador - Galapagos - Floreana Island [**Cueva de la Bahia d C/S** ](allcaves-database.md#EC-637f08be969d05e9577b3fb672f5da15)  
+Ecuador - Galapagos - Floreana Island [**Cueva de la Lechuza** Barn Owl Cave ](allcaves-database.md#EC-232b27e59a34563bdf8fcdf5f4c2db28)  
+Ecuador - Galapagos - Floreana Island [**Cueva del Pinzon** Finch Cave ](allcaves-database.md#EC-3d025dc5493108fb5203a0a61b981279)  
+Ecuador - Galapagos - Isla de Santa Cruz [**Caverna de Gallardo** ](allcaves-database.md#EC-9d63669ef9c185c6c2d91d2c778e7a3b)  
+Ecuador - Galapagos - Isla de Santa Cruz [**Cueva de Gilberto Moncayo** ](allcaves-database.md#EC-63a0b19b88c206be4f2f27e8721fbc0d)  
+Ecuador - Galapagos - Isla de Santa Cruz [**Cueva de Kubler** Kübler Cave ](allcaves-database.md#EC-f93a5086dde97526bab114cb0392bf8a)  
+Ecuador - Galapagos - Isla de Santa Cruz [**Cueva de la Senora Columb** ](allcaves-database.md#EC-652444e7df75e3f2ab085331a7950403)  
+Ecuador - Galapagos - Isla de Santa Cruz [**Cueva de Miguel Angel Ari** ](allcaves-database.md#EC-f52b5cd3789631cb8d2153f69544c4eb)  
+Ecuador - Galapagos - Isla de Santa Cruz [**Cueva de Raul Aquirre** ](allcaves-database.md#EC-5bd2da1ed6b95b469a94a1b3fb904c79)  
+Ecuador - Galapagos - Isla de Santa Cruz [**Grieta de Lentenech** ](allcaves-database.md#EC-d7d7e28eb54248e38eae51ce12a0fbba)  
+Ecuador - Galapagos - Isla Isabela [**Cueva de la Cadena** ](allcaves-database.md#EC-1298c271660152e9106b92b42d951baf)  
+Ecuador - Galapagos - Isla Isabela [**Cueva de Macas** ](allcaves-database.md#EC-d4831c987965951d7d7c49b793c342c7)  
+Ecuador - Galapagos - Isla Isabela [**Cueva de Sucre** ](allcaves-database.md#EC-1ab67d5bb62a97678e14341cf4e00759)  
+Ecuador - Galapagos - Isla Santiago [**Caverna de Bucanero I** ](allcaves-database.md#EC-805d6f2aa21b95d28e090f6fa540e123)  
+Ecuador - Galapagos - Isla Santiago [**Caverna de Bueanero II** ](allcaves-database.md#EC-c5e27884265ad647adebf7210b61b9d3)  
+Ecuador - Galapagos - Santa Cruz Island [**Cueva de Andres** ](allcaves-database.md#EC-30d024be69e5a8a3aa852ec4e56063e4)  
+Ecuador - Galapagos - Santa Cruz Island [**Cueva de Elena** ](allcaves-database.md#EC-2c8a57c56e580e16ef46c37b25010f60)  
+Ecuador - Galapagos - Santa Cruz Island [**Cueva de Huesos** ](allcaves-database.md#EC-be76e6785565ab5242c9e46ab4be9f0c)  
+Ecuador - Galapagos - Santa Cruz Island [**Cueva de la Curva** ](allcaves-database.md#EC-9089e1e99d08ac7f999fa8eba9f99c84)  
+Ecuador - Galapagos - Santa Cruz Island [**Cueva de la Finea Kastdal** Cueva de la Finca Kastdalen; Cueva de Tres Pisos ](allcaves-database.md#EC-9c42547ef6666d15f5eb725924ebaba3)  
+Ecuador - Galapagos - Santa Cruz Island [**Cueva de la Miconia** ](allcaves-database.md#EC-27c8c6bb601f4cbc2c211f7997c7a1c0)  
+Ecuador - Galapagos - Santa Cruz Island [**Cueva de Marcelo** ](allcaves-database.md#EC-f9591b34fa63e6375ea5d4dc1428ead8)  
+Ecuador - Galapagos - Santa Cruz Island [**Cueva de Rovalino** ](allcaves-database.md#EC-2023f4028a106e4c6def2c873aff29b9)  
+Ecuador - Galapagos - Santa Cruz Island [**Tunel de Los Piratas** ](allcaves-database.md#EC-00a0fb8cb55cd63cf037547dcf4ab5d6)  
+Ecuador - Galapagos - Santiago Island [**Cueva del Crater de Sal** ](allcaves-database.md#EC-2b979536e34ae2e2c370e0878c1e2988)  
+Ecuador - Islas Galapagos - Santa Cruz Island [**Cueva del Cascajo** ](allcaves-database.md#EC-d7dfd3c7ac587bc22c662b38bd4c5d6d)  
+Fiji - Northern - Taveuni Island [**Qara Tabu** ](allcaves-database.md#FJ-944bf58895d7408d6096b4ab94bbc816)  
+Fiji - Northern - Taveuni Island [**Salialevu** ](allcaves-database.md#FJ-dfbbbb3ae8928c8573bf3d39ec9bfdc2)  
+Fiji - Northern - Taveuni Island [**Soqulu** ](allcaves-database.md#FJ-54346ad55bc91aa3e4239991cbec6a5f)  
+Fiji - Northern - Taveuni Island [**Waimaqere Cave 1** ](allcaves-database.md#FJ-ae1c63b94ba4b2273f56760fe69b7575)  
+Fiji - Northern - Taveuni Island [**Waimaqere Cave 2** ](allcaves-database.md#FJ-b4a83f40a2890c49fcb29ffa6d845c7e)  
+Fiji - Rotuma [**An Hufhuf** ](allcaves-database.md#FJ-d6cd0ec274e73670b03519e6ad66be0f)  
+Fiji - Rotuma [**An Mafiri Cave 1** ](allcaves-database.md#FJ-d1f0d3fc369c814dd498031c11e53523)  
+Fiji - Rotuma [**An Mafiri Cave 2** ](allcaves-database.md#FJ-453bebbbb5a2b99eb1fd305fcdfb296a)  
+France - French Polynesia - Tahiti [**Maraa Grotto** ](allcaves-database.md#FR-38dc81f49cd3331a222da3e713376933)  
+France - Reunion - Reunion Island [**Cape Blanc Cave** ](allcaves-database.md#FR-fe84ea9f08517f6e64bbf9ac47adcb6c)  
+France - Reunion - Reunion Island [**Caverne Bateau** ](allcaves-database.md#FR-4cf33b030a57def9fc84db38b254e07e)  
+France - Reunion - Reunion Island [**Caverne de la Riviere des Remparts** ](allcaves-database.md#FR-48ac50171e4d80a1f366bd3846ee256e)  
+France - Reunion - Reunion Island [**Delcy Hole** ](allcaves-database.md#FR-0792b59a03f0dbde09b306db0c45248b)  
+France - Reunion - Reunion Island [**Hermitage Hole** ](allcaves-database.md#FR-d1e59e93c2482d055fb58d2c55c4349d)  
+France - Reunion - Reunion Island [**Mussard Cavern** Mussard Cave ](allcaves-database.md#FR-0ae4f80f708c24aa98fa12587a41d625)  
+France - Reunion - Reunion Island [**Saint Benoit Cavern** ](allcaves-database.md#FR-948bbd3232b13b01fb36df5488ed3c35)  
+Hungary [**Basalthhle bei Pula** ](allcaves-database.md#HU-34bde4e329bedc26d1731464ca00039f)  
+Hungary [**Szivs-ki-barlang** ](allcaves-database.md#HU-2f887aa95c7ba307285b0d229066bcc1)  
+Iceland - Arnessysla [**Arnarker** ](allcaves-database.md#IS-874ae4e2e41445d05e301b121dd2b088)  
+Iceland - Arnessysla [**Gjabakkahellir** ](allcaves-database.md#IS-0c7618dd8ad92bb8a998dfb180be6640)  
+Iceland - Arnessysla [**Grettishellir** ](allcaves-database.md#IS-97535b1768920ff09c916c78183a5aeb)  
+Iceland - Arnessysla [**Raufarholshellir** ](allcaves-database.md#IS-a32e6aa59f13d5c61ec60943fd2e895a)  
+Iceland - Arnessysla [**Tv botni** ](allcaves-database.md#IS-994092a777be75884534403c905622df)  
+Iceland - Arnessysla [**Vorduhellir** ](allcaves-database.md#IS-e835fead92367946a43d1a02ea2a5b77)  
+Iceland - Austur-Hunavatnssysla [**Floki** ](allcaves-database.md#IS-e22d51501a033cb9a923c9adc30ffe53)  
+Iceland - Austur-Hunavatnssysla [**HjartartrÖd** ](allcaves-database.md#IS-ddcff5a7104df6d797c7afa7e49b18f3)  
+Iceland [**Blami Cave** Blue Mineral Cave ](allcaves-database.md#IS-8707cd3e4ed57f9d7ee82a61bc812bff)  
+Iceland [**Blindgtuhellir** Blind Cave; Blindgata ](allcaves-database.md#IS-7f4ef42f872d29d864241c3957aec67a)  
+Iceland [**Dirfskuhellir** ](allcaves-database.md#IS-48f612851b878bfa6e8312d5067fc119)  
+Iceland [**Drlahellir** Driblet Cave ](allcaves-database.md#IS-53831614eaf52a94c0855901ec99cb8f)  
+Iceland - Eldhraun/Laki [**Laekjarhellir** Stream Cave ](allcaves-database.md#IS-c4fd228e589a3107d669dfc332bd5f1e)  
+Iceland - Eldhraun/Laki [**Matargat** ](allcaves-database.md#IS-46f80b79d7356208c7c876c83ba97bab)  
+Iceland [**Fldhellir** Flood Cave ](allcaves-database.md#IS-71b0022de0c26baf81ece24cf1b2f05a)  
+Iceland [**Framhaldshellir** ](allcaves-database.md#IS-6dcf8a4de3ebc409bfa14563d2054198)  
+Iceland - Gullbringusysla County [**Grindavikshellir** ](allcaves-database.md#IS-765f17fd62f7bc7052413ec2cce26dc5)  
+Iceland - Gullbringusysla County [**Ntthagi** ](allcaves-database.md#IS-efe20da503d95b931b5cff49bfcac2b8)  
+Iceland [**Hnullungur** ](allcaves-database.md#IS-68e3b5a79b89aebc13f8c2db4678897d)  
+Iceland [**Hraunbrarhellir** ](allcaves-database.md#IS-278401c317f688432f07cdcc128a26d0)  
+Iceland [**îbrennishlmahellir** ](allcaves-database.md#IS-4ab0c7f10a250f82bb373510283dac6f)  
+Iceland [**Idrafossar** ](allcaves-database.md#IS-b2e8fb9eb6178146821903117c5a00e0)  
+Iceland - Kerlingarholahraun [**K-1** ](allcaves-database.md#IS-09e4ae125cc473211a0014914ddf8fde)  
+Iceland - Kerlingarholahraun [**K-2** ](allcaves-database.md#IS-23399e1b04b90741a0a9339ee5c3d4a8)  
+Iceland [**Kvennahellir** Ladies Cave ](allcaves-database.md#IS-2736a5dc654ef5c04a0d70e186255654)  
+Iceland [**Langihellir** ](allcaves-database.md#IS-f1bbecba8dd0047f14fbb17d819e7f20)  
+Iceland [**LangiprÖngur** ](allcaves-database.md#IS-782ee656f256f52b35194701e08166af)  
+Iceland [**Lofthellir** ](allcaves-database.md#IS-55723ca0d8045374fee0dc212dc29a68)  
+Iceland [**Loftshellir** ](allcaves-database.md#IS-5e501d01a8de76b0519ef58c5715cb53)  
+Iceland [**Lykkjuhellir** Link Cave ](allcaves-database.md#IS-cc0a9df1706ca4fc7bf7beee6f08fdd8)  
+Iceland - Myrasysla County - Hallmundahraun lava flow [**Surtshellir** Surtshellir-Stefanshellir Cave System ](allcaves-database.md#IS-a74fa1b8d025c528e690ee46f3f67910)  
+Iceland - Myrasysla County - Hallmundahraun lava flow [**Víðgelmir** ](allcaves-database.md#IS-97aec2fc7be4b04fad92127368040deb)  
+Iceland - Myrasysla County - Hallmundarhraun [**Hallmundarhellir** ](allcaves-database.md#IS-eb3508100758aea4e21d72b3d4bb30fd)  
+Iceland - Myrasysla County - Hallmundarhraun [**Hvassi** ](allcaves-database.md#IS-78529db6c5ee5337e537cbc1bc4dcf1a)  
+Iceland - Myrasysla County - Hallmundarhraun [**Kalmanshellir** ](allcaves-database.md#IS-a42440e8bbd2f2f925b73c59318affcf)  
+Iceland - Myrasysla County - Hallmundarhraun [**Rjupnahellir** ](allcaves-database.md#IS-db1034c0b82813d1b79d9b3569a970ae)  
+Iceland - Myrasysla County - Hallmundarhraun [**Sandi** ](allcaves-database.md#IS-e5db0219851175d1aeb1a4125de3e384)  
+Iceland - Myrasysla County - Hallmundarhraun [**Stefanshellir** ](allcaves-database.md#IS-6b64a41d13ea3703bc179d5320cb7b55)  
+Iceland [**Pjhnappahellir** Buttocks Cave ](allcaves-database.md#IS-2297fd4170c6875291d7ef9472fcb616)  
+Iceland [**Pvaeluhellir** ](allcaves-database.md#IS-ef85c8461c1ff2fa6d1cddef265b6506)  
+Iceland - Rangárvallasýsla - Hekla [**Karelshellir** ](allcaves-database.md#IS-7e0fab6939a7e52c7fcda90c37f88be2)  
+Iceland [**Raudbogahellir** Red Arch Cave ](allcaves-database.md#IS-f8f107085162e79512266a7683f0329a)  
+Iceland [**Raudsteinshellir** Red Cave ](allcaves-database.md#IS-d9996ce415a820a41e425d813ad03bc0)  
+Iceland [**Risahellir** Giant Cave ](allcaves-database.md#IS-83b143e1261cf717b5214dd2fa374807)  
+Iceland [**Samrunahellir** Samruni; Confluence Cave ](allcaves-database.md#IS-0467ce2094b588c24d6918d14ef1c20c)  
+Iceland - Snaefellsnes og Hnappadal [**Borgarhellir** ](allcaves-database.md#IS-860c1624d296eaa25af74e888773c825)  
+Iceland - Snaefellsnes og Hnappadal [**Budahellir** ](allcaves-database.md#IS-3a26b7367ebe6ffab59b9fa3b25c441e)  
+Iceland - Snaefellsnes og Hnappadal [**Irihellir** ](allcaves-database.md#IS-8257d448abe04a0d2ea6365ca2c4b683)  
+Iceland - Snaefellsnes og Hnappadal [**Ishellir** ](allcaves-database.md#IS-e181fe7419431699b015ac7c2d229640)  
+Iceland - Snaefellsnes og Hnappadal [**Vegamannahellir** ](allcaves-database.md#IS-5575e5bdff9aa7a89fd3f0fd3e1120fa)  
+Iceland - Snaefellsnes og Hnappadal [**Vegghellir** ](allcaves-database.md#IS-416285729c8a09d624d3e1c18153db1b)  
+Iceland [**Stubur** ](allcaves-database.md#IS-9447c651d85d45c1f47a1ad7ad6c050b)  
+Iceland - Surtsey Island [**Grillid (Cave S-4)** ](allcaves-database.md#IS-1abbaf82d1030186bb616c1ad7627bb5)  
+Iceland - Thjorsarhraun [**Kerauga** ](allcaves-database.md#IS-6c659024f3bc62edcf693f69fb0fd646)  
+Iceland [**Upphellir** Brew Cave ](allcaves-database.md#IS-47fb7f6590f509c177437a9c32d84c8a)  
+Iceland [**Veltingur** Seesaw Cave ](allcaves-database.md#IS-c8183ceaf2c082fac0123ee53bb27d28)  
+Iceland - Vestmannaeyjar [**S-4** ](allcaves-database.md#IS-00333e45dfa5c38613b71b696a003fae)  
+Iceland - Vestmannaeyjar - Surtsey Jarhraun [**S-1** ](allcaves-database.md#IS-61c584af694e020be0967ad7c1f72815)  
+Iceland - Vestmannaeyjar - Surtsey Jarhraun [**S-2** ](allcaves-database.md#IS-24917a3396e4b46625f414fe5cff4c84)  
+Iceland - Vestmannaeyjar - Surtsey Jarhraun [**S-3** ](allcaves-database.md#IS-0947a899625840f6e2c3c2169de1bb36)  
+Iceland - Vestmannaeyjar - Surtsey Jarhraun [**S-6** ](allcaves-database.md#IS-4b5cd0ffe1f0c4c3d9bd8132932647e8)  
+Iceland [**Vlundur** Labyrinth Cave ](allcaves-database.md#IS-6ab7ca1930f50e7a4c8235b88b42765b)  
+Iceland [**Vonbrigdahellir** Disappointment Cave ](allcaves-database.md#IS-fd4013f7ab1c921c8c7cdccef256a818)  
+Indonesia - Java - Java [**Gua Lawa** ](allcaves-database.md#ID-620d5be2ffccdbbd1e643caafe2539be)  
+Italy - Sicilia - Sicily; Etna [**Abisso Profondo Nero** SICT-1084](allcaves-database.md#IT-SICT-1084)  
+Italy - Sicilia - Sicily; Etna [**Cutrona Cave (Grotta Cutrona)** Grotta MC1 Grotta SICT-1216](allcaves-database.md#IT-SICT-1216)  
+Italy - Sicilia - Sicily; Etna [**Grotta degli Archi** Grotta di Monte Pecoraro SICT-1005](allcaves-database.md#IT-SICT-1005)  
+Italy - Sicilia - Sicily; Etna [**Grotta dei Lamponi** SICT-1019](allcaves-database.md#IT-SICT-1019)  
+Italy - Sicilia - Sicily; Etna [**Grotta dei Tre Livelli** Galleriadei Pipistrelli SICT-1004](allcaves-database.md#IT-SICT-1004)  
+Italy - Sicilia - Sicily; Etna [**Grotta del Gelo** ](allcaves-database.md#IT-b94660e81c51db8b325344b25b4d85ec)  
+Italy - Sicilia - Sicily; Etna [**Grotta del Labirinto** ](allcaves-database.md#IT-be8ad3ffe25c102abda0adf9e3736f2c)  
+Italy - Sicilia - Sicily; Etna [**Grotta del Lago** Grotta dei Pecorai SICT-1196](allcaves-database.md#IT-SICT-1196)  
+Italy - Sicilia - Sicily; Etna [**Grotta dell Intraleo** SICT-1007](allcaves-database.md#IT-SICT-1007)  
+Italy - Sicilia - Sicily; Etna [**Grotta del Santo** SICT-1032](allcaves-database.md#IT-SICT-1032)  
+Italy - Sicilia - Sicily; Etna [**Grotta di Serracozzo I** SICT-1065](allcaves-database.md#IT-SICT-1065)  
+Italy - Sicilia - Sicily; Etna [**Grotta Petralia** Grotta Leucatia SICT-1205](allcaves-database.md#IT-SICT-1205)  
+Italy - Sicilia - Sicily; Etna [**Grotte de la Cantoniera** ](allcaves-database.md#IT-b1ed035b02b0f4cc7983ac492917b539)  
+Italy - Sicilia - Sicily [**Grotta degli Inglesi** ](allcaves-database.md#IT-f9860bf34fc48517ddcca951c64c17bf)  
+Japan - Kumamoto [**Caninome Fuketsu** ](allcaves-database.md#JP-fec4c5c0912360e6055e7abdc3daada6)  
+Japan - Kumamoto [**Inuotoshi Fuketsu** ](allcaves-database.md#JP-c5e82f08ca514d7fc87956c02d8c94fc)  
+Japan - Kumamoto [**Jao Fuketsu** ](allcaves-database.md#JP-a014b8e7d281c353c67e57fef826f746)  
+Japan - Kumamoto [**Mizonokuchiue Fuketsu** ](allcaves-database.md#JP-d595eca64d300e92d11cba7c41ba40f3)  
+Japan - Kumamoto [**Mizonokuchiue Komori Ana** ](allcaves-database.md#JP-a377127ebaeaa95829210f07512a9aca)  
+Japan - Kumamoto [**Nagaobane Fuketsu No. 1** ](allcaves-database.md#JP-821498460327a5253f0b5d0d880db819)  
+Japan - Kumamoto [**Nagaobane Fuketsu No. 2** ](allcaves-database.md#JP-4f0d81b38bdab4c7a452299725e3fd42)  
+Japan - Kumamoto [**Ohgawara Fuketsu** ](allcaves-database.md#JP-18bed6f703234114bd1dcb38545bb96d)  
+Japan - Mt. Fuji [**Aokigahara Fuketsu No. 1** ](allcaves-database.md#JP-e69b48740f3ad77ef5400762da1fbfd4)  
+Japan - Mt. Fuji [**Aokigahara Fuketsu No. 2** ](allcaves-database.md#JP-eb8c52130c7c112a2e74a1f9bf5a3d9e)  
+Japan - Mt. Fuji [**Atsuhara Fuketsu Cave** ](allcaves-database.md#JP-a045941a80d482131a3ebaae6f5346e1)  
+Japan - Mt. Fuji [**Chikushu Ana Cave** ](allcaves-database.md#JP-a5c3eb3f65261f40e8317dfaa46d2ed6)  
+Japan - Mt. Fuji [**Dainichi Ana Cave** ](allcaves-database.md#JP-997c5ff13a236c9b8f18df8561771bea)  
+Japan - Mt. Fuji [**Fudo Ana Cave** ](allcaves-database.md#JP-7df541211cf17c2afb0228837a24a8ce)  
+Japan - Mt. Fuji [**Fugaku Fuketsu Cave** Fugaku Wind Cave ](allcaves-database.md#JP-914ded90671d0fe24fde70a462288119)  
+Japan - Mt. Fuji [**Fuji Fuketsu No. 1** ](allcaves-database.md#JP-af3561167b7ec553233a3f9a307186e5)  
+Japan - Mt. Fuji [**Fuji Fuketsu No. 2** ](allcaves-database.md#JP-a25c4956af026cd74e53d10c998658ff)  
+Japan - Mt. Fuji [**Fuji Fuketsu No. 3** ](allcaves-database.md#JP-a238c7f6e495fc5c4ca2a6ad1d1d335a)  
+Japan - Mt. Fuji [**Fuji Fuketsu No. 4** ](allcaves-database.md#JP-50c12a926b53283e63bf4617ef4be813)  
+Japan - Mt. Fuji [**Fuji Fuketsu No. 5** ](allcaves-database.md#JP-dca0d5761b9d230e36949f159febc240)  
+Japan - Mt. Fuji [**Fuji Fuketsu No. 6** ](allcaves-database.md#JP-0d553288a2936bfce44e02ae2c61f89f)  
+Japan - Mt. Fuji [**Fuji Fuketsu No. 7** ](allcaves-database.md#JP-25a5a6fca42826f8c80e91173ecc35df)  
+Japan - Mt. Fuji [**Fuji Ice Cave** Fuji Fuketsu (Fuji Wind Cave) ](allcaves-database.md#JP-e26bc9c6698824529baa6da0bf5bb393)  
+Japan - Mt. Fuji; Futagoyama lava flow [**Banba Ana Cave** ](allcaves-database.md#JP-4b719bc0237c4bdf9f24438b0fee550d)  
+Japan - Mt. Fuji [**Ginga Fuketsu Cave** ](allcaves-database.md#JP-1bca04db80a36bed09138ebc0c11f030)  
+Japan - Mt. Fuji [**Gyoja Ana Cave** ](allcaves-database.md#JP-25996672d5d9ac6207646bf8b191d577)  
+Japan - Mt. Fuji [**Hachiman Ana Cave** ](allcaves-database.md#JP-b4d517bf6a4e018ded758d4027910ad2)  
+Japan - Mt. Fuji [**Heijibara Fuketsu** ](allcaves-database.md#JP-8f5bd56ff9723d10e645b393a84a44bc)  
+Japan - Mt. Fuji [**Hito Ana Cave** ](allcaves-database.md#JP-03d5b893d5f3c8fe74a09b8d30439f1a)  
+Japan - Mt. Fuji [**Inusuzumi Fuketsu Cave No. 10** ](allcaves-database.md#JP-2311c0fc22da470a08893afe03fcb855)  
+Japan - Mt. Fuji [**Inusuzumi Fuketsu Cave No. 12** ](allcaves-database.md#JP-51242a1a8eac510e4383a46e7cbe6e26)  
+Japan - Mt. Fuji [**Inusuzumi Fuketsu Cave No. 1** ](allcaves-database.md#JP-73d1720898d1b6027b25dd9cc2c42379)  
+Japan - Mt. Fuji [**Inusuzumi Fuketsu Cave No. 2** ](allcaves-database.md#JP-5139e37395deb5b39d262b67ac4aeae4)  
+Japan - Mt. Fuji [**Inusuzumi Fuketsu Cave No. 3** ](allcaves-database.md#JP-a109e9d1ab81de35cc325b5b712e050d)  
+Japan - Mt. Fuji [**Inusuzumi Fuketsu Cave No. 4** ](allcaves-database.md#JP-4941bfbb9910480eba422d10a31121cc)  
+Japan - Mt. Fuji [**Inusuzumi Fuketsu Cave No. 5** ](allcaves-database.md#JP-0fd7e59cc1af886e3fe0a5d706c141ff)  
+Japan - Mt. Fuji [**Inusuzumi Fuketsu Cave No. 6** ](allcaves-database.md#JP-0ea39cb81de017c7a183ace2d1ce5270)  
+Japan - Mt. Fuji [**Inusuzumi Fuketsu Cave No. 7** ](allcaves-database.md#JP-e2a63d47a44abe92a374ba38b97545e9)  
+Japan - Mt. Fuji [**Inusuzumi Fuketsu Cave No. 8** ](allcaves-database.md#JP-1a277f5f87641730c68b72bb4accd2ff)  
+Japan - Mt. Fuji [**Inusuzumi Fuketsu Cave No. 9** ](allcaves-database.md#JP-5a969b0aeb74a00a31cd6c347664508d)  
+Japan - Mt. Fuji [**Iwanami Fuketsu Cave** ](allcaves-database.md#JP-702e8fcd1c4cb15caeb7ee0c9554c5d7)  
+Japan - Mt. Fuji [**Kaminari Ana Cave** ](allcaves-database.md#JP-fa30308563292268f9c3d51d2071dc1b)  
+Japan - Mt. Fuji [**Kanumizu Fuketsu Cave** ](allcaves-database.md#JP-3b2077a377a06269b7ae01d643f1e0a8)  
+Japan - Mt. Fuji [**Katabuta Ana Cave** ](allcaves-database.md#JP-07882678cd2458021901bd0681cf5346)  
+Japan - Mt. Fuji [**Kauho Ana Cave** ](allcaves-database.md#JP-86704f502998619061a116b1b8637033)  
+Japan - Mt. Fuji [**Kazuhito Ana Cave No. 1** ](allcaves-database.md#JP-7cfae7687baae73a8a3dd005ab27f6ed)  
+Japan - Mt. Fuji [**Kazuhito Ana Cave No. 2** ](allcaves-database.md#JP-509e1284ee28bea771f2ce24971eece0)  
+Japan - Mt. Fuji [**Kazuhito Ana Cave No. 3** ](allcaves-database.md#JP-fb5dd743e12f297bc7ac922b59391cda)  
+Japan - Mt. Fuji [**Kazuhito Ana Cave No. 4** ](allcaves-database.md#JP-c9dd16253e5bb39c0fed8f9594d24f5e)  
+Japan - Mt. Fuji [**Kazuhito Ana Cave No. 5** ](allcaves-database.md#JP-6e4cffbfb7b2cb6847f393068cdac4d2)  
+Japan - Mt. Fuji [**Komakado Fuketsu Cave** ](allcaves-database.md#JP-a81360649e8c34477e2322240d0e0670)  
+Japan - Mt. Fuji [**Komori Ana Cave No. 1** ](allcaves-database.md#JP-f35b7451df336b29b99072ebfb8cb7a3)  
+Japan - Mt. Fuji [**Komori Ana Cave No. 2** ](allcaves-database.md#JP-b8c907bbf5842d84e056c95a83920c10)  
+Japan - Mt. Fuji [**Kuzure Ana Cave** ](allcaves-database.md#JP-651e5e6228d5de69558465ddd54091c6)  
+Japan - Mt. Fuji [**Mado Ana Cave** ](allcaves-database.md#JP-dbdd886b34ec8ef49d0a189786a58924)  
+Japan - Mt. Fuji [**Mamashita Ana Cave** ](allcaves-database.md#JP-557a30d7f995cf8ea176493946847e15)  
+Japan - Mt. Fuji [**Megane Ana Cave** ](allcaves-database.md#JP-b91333fbf94b31b95f320a50e6bc5fc6)  
+Japan - Mt. Fuji [**Mishima Fuketsu Cave** ](allcaves-database.md#JP-28137ff99e07c8048d00f85a07cefc33)  
+Japan - Mt. Fuji [**Motosu Fuketsu No. 1 Cave** ](allcaves-database.md#JP-e32b6cf993cc73239c08929d8a027f33)  
+Japan - Mt. Fuji [**Motosu Fuketsu No. 2 Cave** ](allcaves-database.md#JP-2a709c7095c14ead38bd702c895e40d9)  
+Japan - Mt. Fuji [**Motosu Fuketsu No. 3 Cave** ](allcaves-database.md#JP-745aee5d739f9fac9a32d45ce9a00a80)  
+Japan - Mt. Fuji [**Motosu Fuketsu No. 4 Cave** ](allcaves-database.md#JP-d69f9932de58ac365e2cb7c41dbc78e6)  
+Japan - Mt. Fuji [**Motosu Fuketsu No. 5 Cave** ](allcaves-database.md#JP-5d0c11ffb514e46764eb0d57987faef8)  
+Japan - Mt. Fuji [**Motosu Hyoketsu Cave** ](allcaves-database.md#JP-f9bb0c1ab5c0d62f64b1459036110bcc)  
+Japan - Mt. Fuji [**Muzin Ana Cave** ](allcaves-database.md#JP-1cc1d37800eb556bbf70cdc8835b0faf)  
+Japan - Mt. Fuji [**Narusawa Komori Ana No. 1** ](allcaves-database.md#JP-69bc401425eae91b1a10ff6d640d45d1)  
+Japan - Mt. Fuji [**Narusawa Komori Ana No. 2** ](allcaves-database.md#JP-c21e70e71dacb475750e22cdbb2e9fde)  
+Japan - Mt. Fuji [**Narusawa Komori Ana No. 3** ](allcaves-database.md#JP-cd13a9fe7ae8535894f876295ff408b9)  
+Japan - Mt. Fuji [**Narusawa Komori Ana No. 4** ](allcaves-database.md#JP-75ab7cfed0ee583b41a2261d1660a186)  
+Japan - Mt. Fuji [**Ohmuro Fuketsu No. 1 Cave** ](allcaves-database.md#JP-10fab4796ae555a32edfdd96f36256ba)  
+Japan - Mt. Fuji [**Ohmuro Fuketsu No. 2 Cave** ](allcaves-database.md#JP-c2760219f3ddb356f7f3fb06e51f31c8)  
+Japan - Mt. Fuji [**Ohno Fuketsu No. 1 Cave** ](allcaves-database.md#JP-bffd1d82a7efb76cddd8c447effc6fb0)  
+Japan - Mt. Fuji [**Ohno Fuketsu No. 2 Cave** ](allcaves-database.md#JP-e03226107387228b6d859b1f457e1608)  
+Japan - Mt. Fuji [**Rugu Cave** ](allcaves-database.md#JP-e457e47dbbc951a0c9a9d8e98d8665b6)  
+Japan - Mt. Fuji [**Saiko Fuketsu No. 1 Cave** ](allcaves-database.md#JP-05ec356a5e1d33627b329cc70aeb53d4)  
+Japan - Mt. Fuji [**Saiko Fuketsu No. 2 Cave** ](allcaves-database.md#JP-737aadc1914c6e655f96c91a7ceb95f7)  
+Japan - Mt. Fuji [**Saiko Fuketsu No. 3 Cave** ](allcaves-database.md#JP-851548e82fb89c474eb4f180fd55bacd)  
+Japan - Mt. Fuji [**Saiko Fuketsu No. 4 Cave** ](allcaves-database.md#JP-3e46f207eb3edce9f3cae1b2c55f9de6)  
+Japan - Mt. Fuji [**Saiko Fuketsu No. 5 Cave** ](allcaves-database.md#JP-9b752cf2741a4e0cd2a3551641c46107)  
+Japan - Mt. Fuji [**Saiko Fuketsu No. 6 Cave** ](allcaves-database.md#JP-ac5e778676b648712ded86ce20082fba)  
+Japan - Mt. Fuji [**Saiko Fuketsu No. 7 Cave** ](allcaves-database.md#JP-e7ab6d51421ece8ac24066e81803b7b4)  
+Japan - Mt. Fuji [**Saiko Komori Cave** Lake Sai Bat Cave; 西湖蝙蝠穴; Saiko Koumori Ana ](allcaves-database.md#JP-f644d9cc652f8a9c31dd916ed6bbedb5)  
+Japan - Mt. Fuji [**Shin Ana Cave** ](allcaves-database.md#JP-ecfdc9318a14ff3bb6b24365a0a510e3)  
+Japan - Mt. Fuji [**Shoiko Fuketsu No. 1 Cave** ](allcaves-database.md#JP-adcca12954d8f052614dbae9687a8a87)  
+Japan - Mt. Fuji [**Shoiko Fuketsu No. 2 Cave** ](allcaves-database.md#JP-c4ec6786c694457a398180118a830ca7)  
+Japan - Mt. Fuji [**Shoiko Fuketsu No. 3 Cave** ](allcaves-database.md#JP-b4b5830b62d7fa1c0797e7448d72b0b4)  
+Japan - Mt. Fuji [**Shoiko Fuketsu No. 4 Cave** ](allcaves-database.md#JP-a54f5742c77c35dbe9d6805b7c3dcc62)  
+Japan - Mt. Fuji [**Shoiko Fuketsu No. 5 Cave** ](allcaves-database.md#JP-6085e79588ba42e9cd4c59d8a7b1d5a2)  
+Japan - Mt. Fuji [**Shoji Fuketsu No. 1** ](allcaves-database.md#JP-d46b963c1d3c5b555ca089b54b87ba97)  
+Japan - Mt. Fuji [**Shoji Fuketsu No. 2** ](allcaves-database.md#JP-1ca2e7ce3ebdc805d286fdd9b7f75c73)  
+Japan - Mt. Fuji [**Shoji Fuketsu No. 3** ](allcaves-database.md#JP-9f5ad1fbb0357d19858cbafe973c995f)  
+Japan - Mt. Fuji [**Shoji Fuketsu No. 4** ](allcaves-database.md#JP-a6bbaabcb68bba5e786d046289bcb266)  
+Japan - Mt. Fuji [**Shojioana-Gatsudo Cave** ](allcaves-database.md#JP-02b0fbef00af4b7c072cbf9a97f345fa)  
+Japan - Mt. Fuji [**Shojioana-Nichido Cave** ](allcaves-database.md#JP-fba98cc6f6f78c18fd9fb02823e982c2)  
+Japan - Mt. Fuji [**Shonin Ana Cave** ](allcaves-database.md#JP-f53046b43bd2207e39e8e19e2265cd94)  
+Japan - Mt. Fuji [**Subashiri Tainai Cave** ](allcaves-database.md#JP-fb81f7b60d778c095ebbb0da349e3265)  
+Japan - Mt. Fuji [**Susono Fuketsu Cave No. 1** ](allcaves-database.md#JP-0c14d0f9aa3ef1d8baaf9e00e22b3f0d)  
+Japan - Mt. Fuji [**Susono Fuketsu Cave No. 2** ](allcaves-database.md#JP-c425677bedd1f25da7c857b9143ec889)  
+Japan - Mt. Fuji [**Uba Ana Cave** ](allcaves-database.md#JP-a5010c967b19184939fd430730433fe6)  
+Japan - Mt. Fuji [**Uzura Ana** ](allcaves-database.md#JP-b89a5b7c7bb79206926375559f8f3f48)  
+Japan - Mt. Fuji [**Yaskiki Ana Cave** ](allcaves-database.md#JP-d7d9eafd3d02ecbc4af90a318c3da6f3)  
+Japan - Mt. Fuji [**Zinza Fuketsu No. 1 Cave** ](allcaves-database.md#JP-c31f2fd9a70aa7124077a1aa34bab918)  
+Japan - Mt. Fuji [**Zinza Fuketsu No. 2 Cave** ](allcaves-database.md#JP-54a4a4e29112126fa57521ebaa95790e)  
+Japan - Mt. Fuji [**Zinza Fuketsu No. 3 Cave** ](allcaves-database.md#JP-627472369b842cca5ea711d1e8890d66)  
+Japan - Mt. Fuji [**Zinza Fuketsu No. 4 Cave** ](allcaves-database.md#JP-b05abf88df6dc54178eafa1eb782955e)  
+Japan - Mt. Fuji [**Zinza Fuketsu No. 5 Cave** ](allcaves-database.md#JP-8228ab8f6b47def167775b2e2c038998)  
+Japan - Mt. Fuji [**Zinza Fuketsu No. 6 Cave** ](allcaves-database.md#JP-da718cb952ca41ab6c9b12c7f3a293a2)  
+Japan - Mt. Fuji [**Zinza Fuketsu No. 7 Cave** ](allcaves-database.md#JP-43f658dd3293f35ab879e68ec49c37bd)  
+Japan - Mt. Fuji [**Zinza Fuketsu No. 8 Cave** ](allcaves-database.md#JP-0964d8a880d364dd5b0e55ff6b77a353)  
+Japan - Mt. Fuji [**Zinza Fuketsu No. 9 Cave** ](allcaves-database.md#JP-5efffc333a62ed43332a4b02fb34acc1)  
+Japan - Mt. Unzen-dake [**Fuketsu** ](allcaves-database.md#JP-4df0817d935858ec2865dc836fba5800)  
+Japan - Mt. Unzen-dake [**Hato Ana** ](allcaves-database.md#JP-0cc97deff0b68896d98a7f129bcc6652)  
+Japan - Nagasaki - Fukue Island [**No-ana** ](allcaves-database.md#JP-9cff1a218927422900c83a6431725481)  
+Japan - Nagasaki - Fukue Island [**Sakishirazu-no-i-ana** ](allcaves-database.md#JP-90e351a04ffb2ea9d1a7d88d935276a4)  
+Japan - Nagasaki - Fuku-jima [**Trinuk-i-ana** ](allcaves-database.md#JP-bd80637c3f969428d450c15dbe1793e3)  
+Japan - Nagasaki [**Furuzutsumi-no-ana** ](allcaves-database.md#JP-b886b980b7b87d8b332b49cf1aa2d96c)  
+Japan - Nagasaki [**Iankawa-no-ana** ](allcaves-database.md#JP-c0ae1aa62f98d4c78fe89c80131f5ae0)  
+Japan - Nagasaki [**Ipponmatsu Ana** ](allcaves-database.md#JP-d1cda619f9c44f51e982551bf6cf79b1)  
+Japan - Nagasaki [**Iya-no-ana** ](allcaves-database.md#JP-d0dd0efd2a013aca53e69d25f2b54008)  
+Japan - Nagasaki [**Kichiga Ana** ](allcaves-database.md#JP-71ee46dc403245465b6f632cb37c4b2b)  
+Japan - Nagasaki [**Kotakeno Ana** ](allcaves-database.md#JP-460a9b5f201a362127dcc06f3a88ea13)  
+Japan - Nagasaki [**Kuroseno Ana** ](allcaves-database.md#JP-44b073230a6706103502cfc630ed1ce0)  
+Japan - Nagasaki [**Mumei-ana** ](allcaves-database.md#JP-5e50dc0b75c253e85fef3148b98d2e45)  
+Japan - Nagasaki [**Ouitabe Ana** ](allcaves-database.md#JP-4ab915deb1412bc66a55761069a44953)  
+Japan - Nagasaki [**Takeno Ana** ](allcaves-database.md#JP-632d0db9ac75e74b25d2b79daa9a69c1)  
+Japan - Nagasaki [**Tshi-ana** ](allcaves-database.md#JP-9050fd955aca07ce7dfd913a5b53fb9f)  
+Japan - Nagasaki [**Yuri-ana** ](allcaves-database.md#JP-0653c9d5fd180aded9bcd21d78d919da)  
+Japan - Nagasaki [**Yurunkuchino Ana** ](allcaves-database.md#JP-a1c5553d3851dc79da01e247c7dab9ec)  
+Japan - Ohshima Island [**Mihara Fuketsu** ](allcaves-database.md#JP-45a36b6750d4ad6765fbb24f770bcb76)  
+Japan - Shimane - Daikon Island [**Ryusei Do Cave** ](allcaves-database.md#JP-ddb730dcadb2ee83382a34ca404270f0)  
+Japan - Shimane - Daikon Island [**Yuuki Do Cave** Yuki Do Cave; Kaza-ana Cave ](allcaves-database.md#JP-4864aa841ef37878f943563e039c6331)  
+Japan - Shizuoka - Hachijo Island [**Gokuraku Ana Cave** ](allcaves-database.md#JP-2b56bf836b80909ec60ebd491f787726)  
+Japan - Shizuoka - Hachijo Island [**Hachijo Fuketsu No. 1** ](allcaves-database.md#JP-abab840666375df0acc9a2ed8a95a30b)  
+Japan - Shizuoka - Hachijo Island [**Hachijo Fuketsu No. 2** ](allcaves-database.md#JP-5cd913131af1eb1a54922322d99e6776)  
+Japan - Shizuoka - Hachijo Island [**No. 20 Bokku Fuketsu Cave** ](allcaves-database.md#JP-0d09d9d11248497b6da5ef443fd495f0)  
+Japan - Shizuoka - Hachijo Island [**No. 21 Bokku Fuketsu Cave** ](allcaves-database.md#JP-d80ac30d99b28170d5ef3a91d54bc86d)  
+Japan - Shizuoka - Hachijo Island [**Shin Gokuraku Ana Cave** ](allcaves-database.md#JP-843a6fa3f34d6dbe69e92015a1238166)  
+Japan - Shizuoka - Mt. Fuji [**Mitsuike Ana** ](allcaves-database.md#JP-d3f027ddd663e2273d1e12a744d11d61)  
+Japan - Yamanashi - Mt. Fuji [**Narusawa Hyoketsu Cave** Narusawa Ice Cave; Narusawa Wind Cave; Narusawa Fuketsu ](allcaves-database.md#JP-6d8a263701cde5196f0357254dcdb677)  
+Jordan [**Abu Al-Kursi East** ](allcaves-database.md#JO-561f61ff9d2f4de5f49f652d4efc62f8)  
+Jordan [**Al-Ameed Cave** ](allcaves-database.md#JO-1446e8f0fb19c03c5228531875f14b54)  
+Jordan [**Al-Badia Cave** ](allcaves-database.md#JO-8c1cb307c0ad7876d20bc7d1c2136eda)  
+Jordan [**Al-Fahda Cave (Lioness Cave)** ](allcaves-database.md#JO-6bbf0d56879e15035e2a176b6e3d0a0a)  
+Jordan [**Al-Howa** ](allcaves-database.md#JO-84ee850e027cf691bdd8fd07ad191abc)  
+Jordan [**Hashemite University Cave** ](allcaves-database.md#JO-15940e14a78559a2ce005af34998cfc8)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills [**ABC Cave** ](allcaves-database.md#KE-a9f5c3625d13b1df6523619656a2fe41)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills [**Dead Man's Cave** ](allcaves-database.md#KE-434166bb47589a8a8eb3768994faa9ba)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills [**Hell's Teeth Cave** ](allcaves-database.md#KE-70dd180bd7d5946b4b0856b5df7b94f5)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills [**Kimabui Cave** ](allcaves-database.md#KE-b29f50b1a82b32a79888b4b203c3b6b7)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills; Kimabui Hills [**Kimakia Cave** Ithundu Mine NGR-415563](allcaves-database.md#KE-NGR-415563)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills [**Leviathan Cave** Grotte de Leviathan ](allcaves-database.md#KE-cc2e2ccc6a5a7a30bbf7dad9543de491)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills [**Pango Ya Moshi** Smoke Cave; Cloud Cave ](allcaves-database.md#KE-7ceba2d6a57668c214c7359a4d75301f)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills [**Plains Cave** ](allcaves-database.md#KE-b7bcf9c5a8f3d9e57bbc50ffa2343943)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills [**Poacher's Cave** ](allcaves-database.md#KE-c64af97edc64dae164c5768999079f67)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills; Shetani Lava Cone [**Shetani Cave** ](allcaves-database.md#KE-98dbb0175a1a6effc9bbaa767ec1aadf)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills [**Skull Cave** Mathaioni II 327/1](allcaves-database.md#KE-327/1)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills [**Tindima Pot** ](allcaves-database.md#KE-5637aa2d45f03c7cfb2da053e6a73c42)  
+Kenya - Eastern Province; Machakos District - Chyulu Hills [**Tonsilectomy Pot** ](allcaves-database.md#KE-c7d22b0d467ac81938f5e453cff109ce)  
+Kenya - Kiboko; Machakos District - Chyulu Hills [**Mathaioni Cave** Mathaioni I NGR-436547; 360/1-4](allcaves-database.md#KE-NGR-436547)  
+Kenya - Mt. Elgon [**Chepyanili Caves** ](allcaves-database.md#KE-58a3cccde239910a788558a7059fa037)  
+Kenya - Mt. Elgon [**Kitum Cave (Place of the Ceremonies)** ](allcaves-database.md#KE-947553705087f825d2bc43b30559d44a)  
+Kenya - Mt. Elgon [**Makingen Cave** ](allcaves-database.md#KE-17a7ec5bb3a4fef90469e7a3d20b4b59)  
+Kenya [**Ngumut N' Gai** ](allcaves-database.md#KE-a6c3a768cb822ffc599c22d20e894a8d)  
+Kenya [**Rainbow's End Cave** ](allcaves-database.md#KE-3a6877b9fe87f45c2e90eb1d3f232c81)  
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa [**10-9-6-36-37 Series** ](allcaves-database.md#KE-9f06905341f9c75a417cf5b971f5b187)  
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa [**14-18 Series** ](allcaves-database.md#KE-9b7f3efde6c91bdda06602fa4c7fd849)  
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa [**23-24 Series** ](allcaves-database.md#KE-3e228df88037e3ac7f8be745ef4bb1e8)  
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa [**34-35 Series** ](allcaves-database.md#KE-095b4a6eb0c6858c8b7134d780eedc27)  
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa [**Cave 12** ](allcaves-database.md#KE-b20e6ae4cc915024ae239134fa2ce3c9)  
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa [**Cave 13** ](allcaves-database.md#KE-58027c0a30087226e5337c14b143eb77)  
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa [**Cave 18** ](allcaves-database.md#KE-8884ed23a0c922752e9179ded40baeaa)  
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa [**Cave 20** ](allcaves-database.md#KE-0d1fc828e213f89b1dce44d93bcd2b7a)  
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa [**Cave 21** ](allcaves-database.md#KE-0f1d5faac223bdc767b6bf027cbf89f7)  
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa [**Cave 34** ](allcaves-database.md#KE-0a55aee185fb9de50dea0f78ac2681ec)  
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa [**Cave 3** ](allcaves-database.md#KE-845a9bc7556335e99e9081798e87f084)  
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa [**Cave 6** ](allcaves-database.md#KE-fb9e51c739e19e2c3310ee0ba47a350d)  
+Korea, Republic of - Jeju [**Handeul-kunyeong** ](allcaves-database.md#KR-b51c2a34e452d18edb647cb1409a93fc)  
+Korea, Republic of - Jeju [**Hwang Gum Gul** ](allcaves-database.md#KR-3f8a86df7b8afab9dfcc767a275643aa)  
+Korea, Republic of - Jeju [**Hyopje Cave** ](allcaves-database.md#KR-01573ef3706de1bf3e1b7f407e7d964c)  
+Korea, Republic of - Jeju - Jeju Island [**Bilemot Gul** Rock Pond Cave; Billemot Gul ](allcaves-database.md#KR-4a3db27fea6a7b8523b36bcdaff43dbc)  
+Korea, Republic of - Jeju - Jeju Island [**Michon Gul** ](allcaves-database.md#KR-16c365e178caf91d671616aa15913122)  
+Korea, Republic of - Jeju - Jeju Island; Mt. Hanra; Geomunoreum [**Man Jang Gul** 만장굴; Manjanggul; Red Dragon Cave ](allcaves-database.md#KR-c5c839630fc29dd4dfa6d91e7392aea6)  
+Korea, Republic of - Jeju - Jeju Island [**Wa Hol Gul** Wahul Kul ](allcaves-database.md#KR-c2df8ff4972a656aa05f7cabcd28e14e)  
+Korea, Republic of - Jeju [**Kimnyong Cave** ](allcaves-database.md#KR-70a39c4ef9c761a9b4d6820e13568301)  
+Korea, Republic of - Jeju - Mt. Halla [**Gim Nyeong** 김녕굴; Gimnyeonggul; Gimyong Cave; Sagul Cave; Snake Cave ](allcaves-database.md#KR-1be10556c92038b22a7583d78c6f9087)  
+Korea, Republic of - Jeju [**Namganduk Gul** ](allcaves-database.md#KR-3a0a672320757aa61e80e1ae1a951de3)  
+Korea, Republic of - Jeju province - Jeju Island [**Dangcheomul Cave** ](allcaves-database.md#KR-8b0c1e3368d429f9aa1c9f7a2e88b719)  
+Korea, Republic of - Jeju province - Jeju Island [**Sochon Kul** Sochon Gul; Stream Cave; Creek Cave ](allcaves-database.md#KR-b64988eea2e060863340655104acbaff)  
+Korea, Republic of - Jeju province - Jeju Island [**Susan Gul** ](allcaves-database.md#KR-75cc6f80cc0a12e48e5fb86abb197301)  
+Korea, Republic of - Jeju province - Jeju Island [**Yongcheon Cave** ](allcaves-database.md#KR-8cb1d7d74d15eeabe44af15833c41091)  
+Korea, Republic of - Jeju [**Seong-gul** ](allcaves-database.md#KR-4118c281d3a1cfd862aac594dc471d10)  
+Korea, Republic of - Jeju [**Ssang Ryong Gul** ](allcaves-database.md#KR-468ffdbcd8174b0e91951ed0d14dd333)  
+Korea, Republic of - Jeju [**Waful Kul** ](allcaves-database.md#KR-764bf67b7622b366b7fae36f4cbf14b5)  
+Madagascar - Antsiranana - Ambre (Renard Crater) [**Andanakaomby** ](allcaves-database.md#MG-677cdee02a24a073697840748c450915)  
+Madagascar - Antsiranana - Ambre (Renard Crater) [**Andavakoera** ](allcaves-database.md#MG-cd7c3eb754e9b5beee300267d181c1c7)  
+Malaysia - Sabah; Tawau Division [**Mostyn Estate Cave** ](allcaves-database.md#MY-8dceadf0098977ff2bc18b72cf3c7981)  
+Mars - Arsia [**Arsia North** ](allcaves-database.md#XA-d2e2e91908fbea3557add34500154485)  
+Mars - Arsia [**Arsia South A** ](allcaves-database.md#XA-1dd91fee59fa4dab28c6fcd900aaee23)  
+Mars - Arsia [**Arsia South B** ](allcaves-database.md#XA-b36fa07bf6eab958b13534c802c22629)  
+Mars [**Hadriaca** ](allcaves-database.md#XA-26f76f3b6f74dd283177dd743210a896)  
+Mars - Olympus Mons [**Olympus** ](allcaves-database.md#XA-e711c5835a53221e4926e652bc765ebb)  
+Mauritius [**Petite Riviere** ](allcaves-database.md#MU-aea858a9a500090dfd85996278cd7b93)  
+Mexico - Baja California Nort [**Cueva Huevos** ](allcaves-database.md#MX-9a7f914608cdc7fcb83f0656ba43c4bc)  
+Mexico - Baja California Nort [**Isla San Martin Cave** ](allcaves-database.md#MX-4ab7a9150cb0df0f91161589473f2277)  
+Mexico [**Cueva del Aire** ](allcaves-database.md#MX-089644d5b2535b9554324a6950442409)  
+Mexico - Distrito Federal [**Cueva de las Huesitos** ](allcaves-database.md#MX-7837ba49343ed2f7b0540705d6060fbe)  
+Mexico - Distrito Federal [**Cueva del Cocodrilo** ](allcaves-database.md#MX-2295c2fb9f97c765b98969cd480283d1)  
+Mexico - Distrito Federal [**Pedro el Negro** ](allcaves-database.md#MX-9d4dd73585d9fd56e521b45e19a1831e)  
+Mexico - Morelos [**Cueva de Chimalacatepec** ](allcaves-database.md#MX-83e9adacde60c8aac298d1dc4f349b34)  
+Mexico - Morelos [**Cueva de Dona Macaria** ](allcaves-database.md#MX-7181e49fd40dcf3a7d8521101e709d7c)  
+Mexico - Morelos [**Cueva de Don Marcelo** ](allcaves-database.md#MX-3d7f27ab128b6cce801218de1917c717)  
+Mexico - Morelos [**Cueva de Eduardo** ](allcaves-database.md#MX-b0eaa81e1894787770d9d225a6ff5e9b)  
+Mexico - Morelos [**Cueva de la Iglesia** ](allcaves-database.md#MX-34da05903459d8ba01b714e90858f8bb)  
+Mexico - Morelos [**Cueva del Arbol** ](allcaves-database.md#MX-42b16d8cc28265b379db7192d9c9800d)  
+Mexico - Morelos [**Cueva de la Tubera** ](allcaves-database.md#MX-2973d03a7286c20310da992cac0361c3)  
+Mexico - Morelos [**Cueva del Diablo** ](allcaves-database.md#MX-833c3e77493e759a61e9d72e594fea72)  
+Mexico - Morelos [**Cueva del Ferrocarril** ](allcaves-database.md#MX-229696aa1b49a3a9b4f77897f9e2bce1)  
+Mexico - Morelos [**Cueva del Potrero** ](allcaves-database.md#MX-dd3c08c03d8edb783b2244eebd443916)  
+Mexico - Morelos [**Cueva de Tatamasquio** ](allcaves-database.md#MX-a166be0ab72e197dc2960a75582d2a9f)  
+Mexico - Morelos [**Cueva Iztaxiatla** ](allcaves-database.md#MX-c750e51100996225449ea7a76980cb43)  
+Mexico - San Luis Potos [**Cueva de Caada de los Pastores** Caada de los Pastores ](allcaves-database.md#MX-63cf96ebb20bd16637d4ec6ed4625997)  
+Mexico - San Luis Potos [**Cueva de la Ventana** ](allcaves-database.md#MX-46c055dac21f04ac5b449f7a4881f2d5)  
+Mexico - San Luis Potos [**Cueva del Novillo** ](allcaves-database.md#MX-2b948fc2a3aaae021d9b67619d81a4b7)  
+Mexico - San Luis Potos [**Cueva de los Cuicillos** ](allcaves-database.md#MX-11605891c669d8ce8f8735b4d14eb30d)  
+Mexico - San Luis Potos [**Cueva del Salvial** Cueva de los Vampiros ](allcaves-database.md#MX-5923b79819425658f9fd7d2aa06b41b7)  
+Mexico - San Luis Potos [**La Cueva-Mina del Real de Catorce** ](allcaves-database.md#MX-ca00c7da68ddd9a3fbb3b8b394224522)  
+Mexico - Sonora [**Cuevo Labertina Lava** ](allcaves-database.md#MX-803786c6ad6cdabc19d4eab8197c12de)  
+Mexico - Tamaulipas [**Sierra Partida** ](allcaves-database.md#MX-d6274ea9d64fcc3bea616179a8c3b477)  
+Mexico - Veracruz [**Cueva del Volcancillo** ](allcaves-database.md#MX-24474df5b07803fad19717af8abc131f)  
+Micronesia - Chuuk [**Tol Island tube** ](allcaves-database.md#FM-619f9e3c12d4d97894e177de4955f275)  
+Micronesia - Kosrae [**Kosrae Island tube** ](allcaves-database.md#FM-a1bb213e0b62bc3a27cf90e160de43fc)  
+Moon [**Gruithuisen** ](allcaves-database.md#XO-f6ad8dd2e96a835f0462047b498156ca)  
+Moon - Marius Hills; Oceanus Procellarum [**Marius Hill A** ](allcaves-database.md#XO-9a858b37208a82e1cb8e4d23a71289d8)  
+Moon - Marius Hills; Oceanus Procellarum [**Marius Hill B** ](allcaves-database.md#XO-a01b11ce25463e8417c6bcacff6f396f)  
+New Zealand - Auckland City [**Helena Rubinstein Cave** ](allcaves-database.md#NZ-5eb8403fac98cbe67e1f99935e880032)  
+New Zealand - Auckland City - Manurewa [**Wiri Lava Cave** ](allcaves-database.md#NZ-4c6965e28e0475ea1867439530f66238)  
+New Zealand - Auckland City - Mt. Mangere [**Ambury Rd. Cave** ](allcaves-database.md#NZ-a6e9c00b9298b41ad2b4746943e65f2b)  
+New Zealand - Auckland City [**No. 30 Gavin St.** ](allcaves-database.md#NZ-76ac42564a6dbef1decf17efc0f4c7d1)  
+New Zealand - Auckland City [**No. 81 Mt. Royal Ave.** ](allcaves-database.md#NZ-c3ea1a8e4ac61dc1e90931fc9611c5bd)  
+New Zealand - Auckland City [**Pukeiti Lino Cave** ](allcaves-database.md#NZ-2f231bbf3eec071fc916da576d1364c8)  
+New Zealand - Auckland City - Rangitote [**Ladder Cave** ](allcaves-database.md#NZ-a57ff4153892c29b6577d43c536785cf)  
+New Zealand - Auckland City - Rangitote [**Rangitoto Island Cave** ](allcaves-database.md#NZ-d30f3277f40364135327e9e9234338a5)  
+New Zealand - Auckland City - Rangitote [**Rangitoto Island Cave (S)** ](allcaves-database.md#NZ-8b9c2e6d4fb489a026f60a0fbb3bf0cc)  
+New Zealand - Auckland City - Rangitote [**Wallaby Cave** ](allcaves-database.md#NZ-5d53cd0a20b14ca518cfca4503359ef6)  
+New Zealand - Auckland City [**Rubbish Pit Cave** ](allcaves-database.md#NZ-27c7435486805fa4c8da31219a97c9b0)  
+New Zealand - Auckland City [**Sanders Quarry Caves** ](allcaves-database.md#NZ-7b93a88d9e6be4349629fa497961a245)  
+New Zealand - Auckland City [**Scotlands Lava Cave** ](allcaves-database.md#NZ-651b570c7d5c0225079ae95562e984f0)  
+New Zealand - Auckland City - Three Kings [**104 Landscape Rd.** ](allcaves-database.md#NZ-10a86194da926969a73964b1206bcd88)  
+New Zealand - Auckland City - Three Kings [**104 Marsden Ave.** ](allcaves-database.md#NZ-98a4ab58ba59f84a74bada118227df45)  
+New Zealand - Auckland City - Three Kings [**113 Shackleton Rd.** ](allcaves-database.md#NZ-bc8c2ad2a8c72ce2c414925c110f4044)  
+New Zealand - Auckland City - Three Kings [**41 Kensington Ave.** ](allcaves-database.md#NZ-8bcadfed18c2d164e2fe2d441e2dc0dd)  
+New Zealand - Auckland City - Three Kings [**94 Shackleton Rd.** ](allcaves-database.md#NZ-f6f1d993ec103e809160325c432592e0)  
+New Zealand - Auckland City - Three Kings [**Montimer's Cave** No. 82 Landscape Rd. ](allcaves-database.md#NZ-4dc0372b9c8afa2836a53c426b4fd5be)  
+New Zealand - Auckland City - Three Kings [**Stewart's Cave** ](allcaves-database.md#NZ-0d7cf811032cb43b5438718648970247)  
+New Zealand [**Henwood Rd. Cave** ](allcaves-database.md#NZ-4eeaf948a70058c61ff89208c4b8a109)  
+Portugal - Azores [**Gruta dos Balcoes** ](allcaves-database.md#PT-a0ff889f838fdad5f6eef5a69e4f4f1d)  
+Portugal - Azores - Ilha de Graciosa [**Furna do Exnofre** ](allcaves-database.md#PT-5ed3d1f76b92d13afdd02566254fa484)  
+Portugal - Azores - Ilha de Pico [**Gruta das Torres (Grotto of Towers)** ](allcaves-database.md#PT-78e16b3f1ca61709c2d9a0f395bc45bf)  
+Portugal - Azores - Ilha de Pico (Pico Island) [**Algar Nova** ](allcaves-database.md#PT-79d17d581ba5cfc72bc05ef868f2de64)  
+Portugal - Azores - Ilha de Pico (Pico Island) [**Furna do Frei Matias** ](allcaves-database.md#PT-ff859a1f72d5739e649b6778db0a520c)  
+Portugal - Azores - Ilha de Pico (Pico Island) [**Gruta da Capucha** Agostinha ](allcaves-database.md#PT-edca3606ea2d8cc4d9932f02b0ee5b54)  
+Portugal - Azores - Ilha de Pico (Pico Island) [**Gruta dos Fumelos** ](allcaves-database.md#PT-30b7e49e12e0732984fd69528b08a813)  
+Portugal - Azores - Ilha de Pico (Pico Island) [**Gruta dos Montanheiros** ](allcaves-database.md#PT-2d8c31b6944232b7d7387cea64112507)  
+Portugal - Azores - Ilha de Terceira [**Algar do Carvao** ](allcaves-database.md#PT-624bbb05ca1bf8056c88948b8ee75d5f)  
+Portugal - Azores - Ilha de Terceira [**Branco Opala** ](allcaves-database.md#PT-bc3b054aec223dd144b16274997337cc)  
+Portugal - Azores - Ilha de Terceira [**Gruta do Chocolate** ](allcaves-database.md#PT-52df7954df6f315a4f1d01b78986cac1)  
+Portugal - Azores - Ilha de Terceira [**Gruta do Natal** ](allcaves-database.md#PT-947ae5f840db4d70243be67908d8d6ed)  
+Portugal - Azores - Sao Jorge [**Gruta da Ribeira do Almeida** ](allcaves-database.md#PT-a85f4fccd9bb98b8dbfc8bf4eec89db7)  
+Russia - Kamchatka [**Go-9611** 5236/15758-1](allcaves-database.md#RU-5236/15758-1)  
+Russia - Kamchatka - North Gorely [**Go-9601** 5236/15800-4](allcaves-database.md#RU-5236/15800-4)  
+Russia - Kamchatka - North Gorely [**Go-9602** 5236/15759-5](allcaves-database.md#RU-5236/15759-5)  
+Russia - Kamchatka - North Gorely [**Go-9603** 5236/15759-4](allcaves-database.md#RU-5236/15759-4)  
+Russia - Kamchatka - North Gorely [**Go-9604** 5236/15759-3](allcaves-database.md#RU-5236/15759-3)  
+Russia - Kamchatka - North Gorely [**Go-9606** 5236/15758-5](allcaves-database.md#RU-5236/15758-5)  
+Russia - Kamchatka - North Gorely [**Go-9607** 5236/15758-4](allcaves-database.md#RU-5236/15758-4)  
+Russia - Kamchatka - North Gorely [**Go-9608** 5236/15758-3](allcaves-database.md#RU-5236/15758-3)  
+Russia - Kamchatka - North Gorely [**Go-9609** 5236/15758-2](allcaves-database.md#RU-5236/15758-2)  
+Russia - Kamchatka - North Gorely [**Go-9610** 5236/15759-1](allcaves-database.md#RU-5236/15759-1)  
+Russia - Kamchatka - North Gorely [**Go-9612** 5236/15800-3](allcaves-database.md#RU-5236/15800-3)  
+Russia - Kamchatka - North Gorely [**Go-9613** 5236/15800-2](allcaves-database.md#RU-5236/15800-2)  
+Russia - Kamchatka - North Gorely [**Go-9614** 5236/15800-1](allcaves-database.md#RU-5236/15800-1)  
+Russia - Kamchatka - North Gorley [**Go-9605** 5236/15759-2](allcaves-database.md#RU-5236/15759-2)  
+Russia - Kamchatka peninsula; Gorley-3 volcano [**Goncharov lava tube** ](allcaves-database.md#RU-b9210a2a6482c0a043695a060cba678c)  
+Russia - Kamchatka peninsula; Gorley-3 volcano [**Pogibshaya lava tube** ](allcaves-database.md#RU-3a09160e042bf53d2b9a6b54ed705118)  
+Russia - Kamchatka - South Tolbachik [**To-9607** 5536/16010-6](allcaves-database.md#RU-5536/16010-6)  
+Russia - Kamchatka - Tolbachik [**To-9601/02** 5536/16010-11](allcaves-database.md#RU-5536/16010-11)  
+Russia - Kamchatka - Tolbachik [**To-9603** 5536/16010-10](allcaves-database.md#RU-5536/16010-10)  
+Russia - Kamchatka - Tolbachik [**To-9604** 5536/16010-9](allcaves-database.md#RU-5536/16010-9)  
+Russia - Kamchatka - Tolbachik [**To-9605** 5536/16010-8](allcaves-database.md#RU-5536/16010-8)  
+Russia - Kamchatka - Tolbachik [**To-9606** 5536/16010-7](allcaves-database.md#RU-5536/16010-7)  
+Russia - Kamchatka - Tolbachik [**To-9608** ](allcaves-database.md#RU-fdf6110d309d5d0b150b50b266153bac)  
+Russia - Kamchatka - Tolbachik [**To-9609** 5536/16010-4](allcaves-database.md#RU-5536/16010-4)  
+Russia - Kamchatka - Tolbachik [**To-9610** 5536/16010-3](allcaves-database.md#RU-5536/16010-3)  
+Russia - Kamchatka - Tolbachik [**To-9611** 5536/16010-2](allcaves-database.md#RU-5536/16010-2)  
+Russia - Kamchatka - Tolbachik [**To-9612** 5536/16010-1](allcaves-database.md#RU-5536/16010-1)  
+Rwanda - Ruhengueri - Kanisimbi [**Ubuvumo bwa Musanze** ](allcaves-database.md#RW-52b9d30d023628b22bcb6c0554c50eda)  
+Rwanda [**Ubuvomo bwa Nyrabadago** Ubuwumo bwa Nxirabadogo; Ubuvuma bwa Myirabadogo ](allcaves-database.md#RW-9dbe67472fddd40decb1f2f99c499fab)  
+Samoa - Savaii Island [**Aopo Cave** ](allcaves-database.md#WS-888fa0403195aa14a2e84c65f6f5ffc3)  
+Samoa - Savaii Island [**Peapea Cave #2** ](allcaves-database.md#WS-d3478a88d7b1a73451fd77dc31cb5aa7)  
+Samoa - Tuamasaga - Upolu Island [**Papa Cave** ](allcaves-database.md#WS-c8ecf94a66fa0c1e7c857248d51c3990)  
+Samoa - Upolu Island [**Falemaunga Cave** ](allcaves-database.md#WS-407d0fac891e0eb1f46b9c93e9de903a)  
+Samoa - Vaisigano - Savaii Island; Salani (Mulifauna Formation) [**Oloimoa** ](allcaves-database.md#WS-2e7d0e9a3ba9706a7a1b4dcea7309744)  
+Saudi Arabia - Harrat Khaybar lava field [**Umm Jirsan Lava-Tube System** ](allcaves-database.md#SA-d908fbc51d45a3bf80743b53e62ee560)  
+Saudi Arabia - Harrat Nawasif-Buqum [**Ghar Al Hibashi** Hibashi Cave 180](allcaves-database.md#SA-180)  
+Saudi Arabia - Western - Harrat Ithnayn [**Shuwaymis Cave** Kahf Al Shuwaymis ](allcaves-database.md#SA-4dce8695df6b6597410c71b26d2477d2)  
+Saudi Arabia - Western - Harrat Kishb [**Jebel Hil Cave** ](allcaves-database.md#SA-cb16afc90c8f9f62b6058aeba9a86bce)  
+Saudi Arabia - Western - Harrat Kishb [**Kahf Al Ashbaah** Ghostly Cave ](allcaves-database.md#SA-564aee6d6f98918371467f1024cf8a66)  
+Saudi Arabia - Western [**Kahf al Mut'eb** ](allcaves-database.md#SA-c4d750f993dba0d683ffe6c1362c0796)  
+Saudi Arabia - Western [**Romahah Cave** ](allcaves-database.md#SA-0f7dcf3bc60e96d5953b0e54537df1dc)  
+Spain - La Palmas - Canary Islands; Lanzarote [**Cueva de los Verdes** Corona Lava Tube ](allcaves-database.md#ES-bb17af197bec3dffd9cf28019ec67809)  
+Spain - Las Palmas - Fuertoventura [**Cueva del Llano** ](allcaves-database.md#ES-f8c09f447229cf5c152399817bc60ee2)  
+Spain - Las Palmas - Lanzarote; Canary Islands [**Tunel de la Atlantida** ](allcaves-database.md#ES-be8cb47fa9f3550ce9ad11b516c52f0a) *Part of* Cueva de los Verdes  
+Spain - Las Palmas - Lanzarote [**Cueva de las Palomas** ](allcaves-database.md#ES-d16f1948809d27fe23fb701c0b0b7f5b)  
+Spain - Las Palmas - Lanzarote [**Cueva de los Naturalistas** ](allcaves-database.md#ES-458a43fce746e164185aa656d90766b4)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cave of Mocan** ](allcaves-database.md#ES-3c7ad78ed6ed08bea6bc93ce273d9d28)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva de Cuaclo de las Mo** ](allcaves-database.md#ES-41af69f0879a28464f91486753f3d6ed)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva de Don Justo** ](allcaves-database.md#ES-00259bdabb0744cb577e989b66d7e425)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva de Escondido** ](allcaves-database.md#ES-119f1c8fb2617aa383e978d61dd0095c)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva de Hoyo** ](allcaves-database.md#ES-328688fcd774642745daff13ac10e9f4)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva del Acontilado** ](allcaves-database.md#ES-151b813707a1e617af7e9c884b774ae8)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva de las Eras** ](allcaves-database.md#ES-a4f385e784ff542ada388c64185a0f0c)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva de las Jordis** ](allcaves-database.md#ES-1f0a20c84fd3b69e86d93a346c6829ab)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva del Conchero** ](allcaves-database.md#ES-a603696db02ccfe5d466d4890a860b9c)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva del Judith** ](allcaves-database.md#ES-e41a54b8a3e09cd67403560613d0c20a)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva de los Pandelas** ](allcaves-database.md#ES-d5d1dee97b3685746c5bca50b5024cc2)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva de Maunicico** ](allcaves-database.md#ES-8e1cd46dbe32760988d5264b464659d0)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva de San Andres** ](allcaves-database.md#ES-9bb09ddb3248f247f1cbe0890d586090)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva Grande de Orchilla** ](allcaves-database.md#ES-99d4f7645c5497f675194f0cc0d3ac84)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cueva Roja** ](allcaves-database.md#ES-37a9ff29f666863f06dfb3ab02bfac7e)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cuevas de Guinea** ](allcaves-database.md#ES-33ccbeb40b5e2ebdcafb909b381a6f44)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cuevas de la Lechera** ](allcaves-database.md#ES-4d59833884b24c092542138872829d37)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island [**Cuevas de la Monteserrat** ](allcaves-database.md#ES-20f917b3b34fcf735d52807c5fe46113)  
+Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island; Tanganasoga volcano [**Sima Las Palomas** ](allcaves-database.md#ES-2ee3b8c60728304d314c695aa5c5713d)  
+Spain - Santa Cruz de Tenerife - Canary Islands; La Palma [**Cueva de los Conejos** ](allcaves-database.md#ES-9255bb64ecefb224122d324348413003)  
+Spain - Santa Cruz de Tenerife - Canary Islands; La Palma [**Cueva de los Palmeros** ](allcaves-database.md#ES-d80fec6b0c2986d98ab445fd8bb9bef9)  
+Spain - Santa Cruz de Tenerife - Canary Islands; La Palma [**Cueva MPT** ](allcaves-database.md#ES-2df920ba1ab8c2a79e0a03be4c953bfe)  
+Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide [**Cueva de Hielo del Teide** ](allcaves-database.md#ES-d89cacafdd7645ce69e3c7c01abcf6a0)  
+Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife [**Cueva de Felipe Reventon** ](allcaves-database.md#ES-47dfa4760a06c3060ab46b4406d3b4be)  
+Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife [**Cueva de San Marcos** ](allcaves-database.md#ES-be1a59a657a2e92dec809c9be5722030)  
+Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife [**Cueva Juli** ](allcaves-database.md#ES-0e32e7fa5bd835ce6a1f450188ae2776)  
+Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife [**Cueva Labrada** ](allcaves-database.md#ES-00f979bebca6f9e8f144842334075dd2)  
+Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife [**Cueva Las Mechas** ](allcaves-database.md#ES-f656c2900541167f6a855d432dafd8fe)  
+Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife [**Cueva los Guanehes** ](allcaves-database.md#ES-d56c997f2c8b1771b3c5bc5dc174ff3e)  
+Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife [**Cueva los Viejas** ](allcaves-database.md#ES-8a7b184725fef69bb43753eef7bf53d8)  
+Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife [**Cueva Pepe el Chico** ](allcaves-database.md#ES-56206938e2dda67adc953d0ab1928be2)  
+Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife [**Cueva Roques Blancos** ](allcaves-database.md#ES-2259996868deb17c5c5788c57fd1bd1e)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva Buzanada** ](allcaves-database.md#ES-125de979d5e0c38c9ecb24dee9be9c3f)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva Cabeza de Perro** ](allcaves-database.md#ES-e6d43d223bae4611b08cb927f954fa01)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de Amara Pango** ](allcaves-database.md#ES-4f52fdaaeadb9f567a17fac0f659f1a9)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de Arafa** ](allcaves-database.md#ES-2d5e140b58b7e92a2c335b4687b437a1)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de Benisahare** ](allcaves-database.md#ES-c8d1f48d64253bc3ef367770d9388b30)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de Bicho** ](allcaves-database.md#ES-a4d99a99b20820f1e1dca00f7bb55fde)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de Chiguergue** ](allcaves-database.md#ES-bf3ecc97f252cd760aab9afd3ebf1fc3)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de Don Cesar** ](allcaves-database.md#ES-2b1d49e63ba53c9fd24252c8766eae4f)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de Guajara** ](allcaves-database.md#ES-2bfd95be1b8c7217bddf1a2220e5c17f)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de la Amargura** ](allcaves-database.md#ES-0e8a38c91423b5f2d2edb0ea35e89c79)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de la Candelaria** ](allcaves-database.md#ES-dda204f425dbcda29a7245c483f6f625)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de la Cruz** ](allcaves-database.md#ES-0471ffef8e56a9ed356f5ae67e01f8e3)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de la Desilusion** ](allcaves-database.md#ES-3731e8fa1e82c3f2de4fe5130716be57)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de la Plaza de Toro** ](allcaves-database.md#ES-2f8892ae39547c2f54668f8b21146df1)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de la Refineria** ](allcaves-database.md#ES-5295d7b1062c527da252aa96eda16c26)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de las Abejas** ](allcaves-database.md#ES-1b1994da0f4803823b8a79872322478c)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva del Becerril** ](allcaves-database.md#ES-45187b19f29be4da3c0472a5c018d3cd)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva del Bucia** ](allcaves-database.md#ES-15dec4c32693797faebdba1ae564bb92)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva del Bujeno** ](allcaves-database.md#ES-303eaa7c1700900858061a5e69bdbe4b)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva del Gato Feo** ](allcaves-database.md#ES-fdbcd0702979ae1fdd35477567ff02ae)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva del Metra** ](allcaves-database.md#ES-dcca9f7d4ae82831c56192121e91f33f)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva del Miedo** ](allcaves-database.md#ES-1d42bdfcb6d8f0d5a07cd00d5e47ea3d)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de los Cazadores** ](allcaves-database.md#ES-a71981774174454021a85a401c2c4fad)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de los Roques** ](allcaves-database.md#ES-c0918cacd6f8557e0043741d15577e35)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de los Valemcianos** ](allcaves-database.md#ES-97333a7744d7d980ec50d19242aaaca1)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva del Pozo** ](allcaves-database.md#ES-0267e7f601d1f1159b851de99d287360)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva del Refugio** ](allcaves-database.md#ES-7e39fab7710d4ac29ec8b2458abb3a16)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva del Sohoada** ](allcaves-database.md#ES-afe93e86a0f613386741e53ee0b80203)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva del Valle** ](allcaves-database.md#ES-c589189015bf4b597c68f62de69a7350)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva del Viento** El Viento cave ](allcaves-database.md#ES-7a16bf26a547c98e604915188c2ccf93)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de Maestro Pipe** ](allcaves-database.md#ES-709388802d9f25e6c780a9e98fbac32b)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de Punto Blanco** ](allcaves-database.md#ES-99999c613e40945669732517d1ecd62b)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva de Samara** ](allcaves-database.md#ES-bf29b69077e0744d70008ac422af65a8)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva Fea** ](allcaves-database.md#ES-97ef5d02d3a2384f07b2215b7a709695)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva Handa de Guimar** ](allcaves-database.md#ES-c8c40b73d1ab0d76f738d8ef4677c5fc)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cueva Harrouth 32** ](allcaves-database.md#ES-527b790a10eecd5806fb535b7fa51e25)  
+Spain - Santa Cruz de Tenerife - Tenerife [**Cuevas Grandes de Chico** ](allcaves-database.md#ES-bc3ac8b063c75f2ba9cdc35e5dda7fe8)  
+Syria [**Ariqa Cave** Aariqa Cave ](allcaves-database.md#SY-a29501701a523beca597c025c0a4d639)  
+Syria - Assuwayda - Tell Shihan [**Tell Shihan Tubes** ](allcaves-database.md#SY-00bfc7704f2a113331dc1781d6f5d8b0)  
+Syria [**Umm ar Rumman** ](allcaves-database.md#SY-ba5df02d0ad9fec7f757591fd60bc22c)  
+Tanzania [**Grotte H. Meyer Supenieur** ](allcaves-database.md#TZ-d5857d22c311eed1ca56c604dd7e2ad3)  
+United Kingdom - St. Helena - Ascension Island [**Dark Slope Lava Tube** ](allcaves-database.md#GB-1132aed335d11ba1a23d50f36e9ee9d9)  
+United States of America - Alaska; Aleutians East Borough - St. Paul Island [**Bogoslof Cave** Baltso's Cave ](allcaves-database.md#US-1523f43d4fd0e3a62e90e2f823bb3af3)  
+United States of America - Alaska; Aleutians East Borough - St. Paul Island [**Bogoslof Dome Cave** ](allcaves-database.md#US-254eb4fd3e432efc577fbc883586790b)  
+United States of America - Alaska; Aleutians East Borough - St. Paul Island [**Cave A** ](allcaves-database.md#US-041591ccdd324bfb3deef52b0a88a841)  
+United States of America - Alaska; Aleutians East Borough - St. Paul Island [**Cave D** ](allcaves-database.md#US-9947836eef7aa7758b0471cd6bb06d7e)  
+United States of America - Alaska; Nome County - Seward Peninsula [**Lost Jim Lava Tube** ](allcaves-database.md#US-8b81fe02c2bbe8c748fe9d25201f5cea)  
+United States of America - Arizona; Apache County - Springerville Volcanic [**Harris Cave** ](allcaves-database.md#US-9f56e523ea0a905848008ecf813e632f)  
+United States of America - Arizona; Coconino County [**Basalt Cave** ](allcaves-database.md#US-a8c39e5007ba501d4d14b0eed000e397)  
+United States of America - Arizona; Coconino County [**Cabin Cave** ](allcaves-database.md#US-b62d1eafc58abbd06ae896879320ad56)  
+United States of America - Arizona; Coconino County [**Medicine Cave** ](allcaves-database.md#US-aa9090a696900d374c18f86fb2e6676d)  
+United States of America - Arizona; Coconino County - San Franciscan [**Government Cave** Lava River Cave; Bellemont Cave ](allcaves-database.md#US-9fbf719fddd9cc14651b36ca851fef1a)  
+United States of America - Arizona; Coconino County - San Franciscan; Mormon Butte [**Stoneman Lake T.I.** Sheblos Cave ](allcaves-database.md#US-466dea0bda590d9dda760a7ca21f1fdf)  
+United States of America - Arizona; Coconino County - San Franciscan [**Porkey Cave** ](allcaves-database.md#US-ce350f52a270299a7d28293ce1a4d5c9)  
+United States of America - Arizona; Coconino County - San Franciscan [**Slate Lakes Cave** Compass Cave ](allcaves-database.md#US-b958d2a322d71359d40d807febd3d1e9)  
+United States of America - Arizona; Coconino County - San Franciscan (Sunset Crater) [**Bonito Flow Ice Cave** Sunset Crater Ice Cave ](allcaves-database.md#US-6f8588b99702835f8e3984b74ca95664)  
+United States of America - Arizona; Coconino County - San Franciscan; Sunset Crater [**Kana-a Cave** ](allcaves-database.md#US-5e3dd486cf7b5e47d9b41ffa9839cc8f)  
+United States of America - Arizona; Coconino County - San Franciscan [**Whiskey Cave** ](allcaves-database.md#US-2c0476c5f2c68098ad366505cc38659e)  
+United States of America - Arizona; Coconino County - San Franciscan [**White Horse Cave** Peg Leg Cave ](allcaves-database.md#US-0c0fc5f467660d5542c8921ef3d25237)  
+United States of America - Arizona; Graham County [**Harttine Bat Cave** Twin Peaks Cave ](allcaves-database.md#US-35898b0b1ab20c147c1d153114533c93)  
+United States of America - Arizona; Navajo County - Blue Ridge Mountain [**Ice Cave** Blue Ridge Cave ](allcaves-database.md#US-282e7caf19e7ec11b031bb9700606137)  
+United States of America - Arizona; Pima [**Lava Cave** ](allcaves-database.md#US-3e438f93b6c263413718aec4b3c5f113)  
+United States of America - Arizona [**White Mountain Ice Cave** ](allcaves-database.md#US-e3a1768a077a0ebf819b5658ae211af3)  
+United States of America - California; Inyo County - Crater Mountain [**Tinemaha Cave** ](allcaves-database.md#US-9ba90788c0d5e061b68d182d0837dcde)  
+United States of America - California; Inyo County [**Millipede Caves** ](allcaves-database.md#US-dbe58c9bb2fa6fca4f9044f59cfab88b)  
+United States of America - California; Lassen County [**Eagle Lake Ice Cave** ](allcaves-database.md#US-5a378ff185dc924769cdb7dcda16df97)  
+United States of America - California; Lassen County [**Indian Cave** ](allcaves-database.md#US-ffc4a428573c0df412e11697a5e8d996)  
+United States of America - California; Lassen County [**Packrat cave** ](allcaves-database.md#US-f3165ccdb18cffaef55e8d15a105b315)  
+United States of America - California; Modoc County [**Ice Cave** ](allcaves-database.md#US-8f86814df17aaac51aaa894fbe6f117d)  
+United States of America - California; Modoc County [**Lava Cave** ](allcaves-database.md#US-bf2abd84477389075c6714485e31703f)  
+United States of America - California; Modoc County [**Lorenzen's Lava Caves** ](allcaves-database.md#US-78d6da16c70217e84ee78b93683440e4)  
+United States of America - California; Modoc County - Medicine Lake Highlands; Lava Beds National Monument [**Fern Cave** ](allcaves-database.md#US-eb35688f5ff105ef2bdc121d13628076)  
+United States of America - California; Modoc County - Medicine Lake Highlands [**Mammoth Cave** ](allcaves-database.md#US-1c7129937eeed2ba455c25647dc936af)  
+United States of America - California; Modoc County [**Water Cave** ](allcaves-database.md#US-a41d6fb6c2a1d8e877b7d891632359e7)  
+United States of America - California; San Bernardino [**Amboy Crater Caves** ](allcaves-database.md#US-d42569773734a7a5c2b968dc54b2675b)  
+United States of America - California; San Bernardino [**Cima Cave** ](allcaves-database.md#US-ea1071e0e9e05da3986a8a0c6d5b11b9)  
+United States of America - California; San Bernardino - Pisgah [**06 & 07** ](allcaves-database.md#US-aafc177e5a2fc63e295caca794a5a32c)  
+United States of America - California; San Bernardino - Pisgah [**11** ](allcaves-database.md#US-015949c8b9076cfa2a898795a72f7191)  
+United States of America - California; San Bernardino - Pisgah [**12** ](allcaves-database.md#US-706a90bc0434b4a3db608d3d0b87f956)  
+United States of America - California; San Bernardino - Pisgah [**13** ](allcaves-database.md#US-e86af1ed95e890138e79eac8d00bd979)  
+United States of America - California; San Bernardino - Pisgah [**14** ](allcaves-database.md#US-cbf364851a90c37b5c9462f88ff2a0c2)  
+United States of America - California; San Bernardino - Pisgah [**15** ](allcaves-database.md#US-4961d6d3f1a1b01a2e4d86c36d199456)  
+United States of America - California; San Bernardino - Pisgah [**17** ](allcaves-database.md#US-36f3bca2334205daddefe168088353a7)  
+United States of America - California; San Bernardino - Pisgah [**19** ](allcaves-database.md#US-6353141c363b7c9f8251e6c24dbdbcbd)  
+United States of America - California; San Bernardino - Pisgah [**1** ](allcaves-database.md#US-9c647550162929ce69c50dcc4db05533)  
+United States of America - California; San Bernardino - Pisgah [**20** ](allcaves-database.md#US-b386f7f2516340ba0a18b5270e551fc8)  
+United States of America - California; San Bernardino - Pisgah [**2** ](allcaves-database.md#US-b4db351a79f1bc80ff5c34eb7629c293)  
+United States of America - California; San Bernardino - Pisgah [**30** ](allcaves-database.md#US-be4fbd5fe091bdceca74f4dc69a32c15)  
+United States of America - California; San Bernardino - Pisgah [**3** ](allcaves-database.md#US-e7c1b73c6c25f893d3650cca963a1367)  
+United States of America - California; San Bernardino - Pisgah [**4** ](allcaves-database.md#US-ddd93c2de12110f37dd7f95eb6e920b4)  
+United States of America - California; San Bernardino - Pisgah [**5** ](allcaves-database.md#US-acec5daf8fb6c459d37efaaf6884ee6b)  
+United States of America - California; San Bernardino - Pisgah [**AA** ](allcaves-database.md#US-59fec8a516a89cbed4ab5e69cdb864dc)  
+United States of America - California; San Bernardino - Pisgah [**A** ](allcaves-database.md#US-27bcab35b484e108a2e9f19f677c0378)  
+United States of America - California; San Bernardino - Pisgah [**AB** ](allcaves-database.md#US-4d45574eaba15e79fc1ff5f547f1d388)  
+United States of America - California; San Bernardino - Pisgah [**AP** ](allcaves-database.md#US-cdc7350350e64fa8b22efebab188785e)  
+United States of America - California; San Bernardino - Pisgah [**B** ](allcaves-database.md#US-9abd6520cd630f30e61004c8dc7d031e)  
+United States of America - California; San Bernardino - Pisgah [**BB** ](allcaves-database.md#US-9d1c23d91352013db60e088cc5eda2fe)  
+United States of America - California; San Bernardino - Pisgah [**BE** ](allcaves-database.md#US-7f5114c017b805a8ccb6060764146cbc)  
+United States of America - California; San Bernardino - Pisgah [**BG** ](allcaves-database.md#US-dc6b90959f5fc51d5fccba2e29170441)  
+United States of America - California; San Bernardino - Pisgah [**Breakin** BI ](allcaves-database.md#US-5aa53e299ca21d995a6a46b554f8052c)  
+United States of America - California; San Bernardino - Pisgah [**BT** ](allcaves-database.md#US-d18025dc5300d73eb3ecd9f9177c9ffc)  
+United States of America - California; San Bernardino - Pisgah [**C10** ](allcaves-database.md#US-9ed38abf37a4f61b24fc9df3dd37a4c1)  
+United States of America - California; San Bernardino - Pisgah [**C11** ](allcaves-database.md#US-77d8d8b0b27f46f7e0ef966f5036dc38)  
+United States of America - California; San Bernardino - Pisgah [**C12** ](allcaves-database.md#US-4a210f8aa6342f6efc18c651ed217c17)  
+United States of America - California; San Bernardino - Pisgah [**C13North** ](allcaves-database.md#US-8547834fd3ec0b140c227f128474a008)  
+United States of America - California; San Bernardino - Pisgah [**C13W** ](allcaves-database.md#US-93f9b9e49528ee94502f71ff4924354e)  
+United States of America - California; San Bernardino - Pisgah [**C1** ](allcaves-database.md#US-ae67948b7fa62e2e16468ce523ad6c96)  
+United States of America - California; San Bernardino - Pisgah [**C2** ](allcaves-database.md#US-2f60b9f908ae884392b4ff1391b825a3)  
+United States of America - California; San Bernardino - Pisgah [**C3** ](allcaves-database.md#US-afac21e95af9d2695098ba86f19d9eff)  
+United States of America - California; San Bernardino - Pisgah [**C4.5** ](allcaves-database.md#US-9d43d92f5b2ab234d6ef922abb328aa6)  
+United States of America - California; San Bernardino - Pisgah [**C4** ](allcaves-database.md#US-16864aaf22aa38e650f1c45e9c530881)  
+United States of America - California; San Bernardino - Pisgah [**C5** ](allcaves-database.md#US-db2df7903fd948ffbfbf835e3b6f45b2)  
+United States of America - California; San Bernardino - Pisgah [**C6** ](allcaves-database.md#US-627c043bd400fa1b84016889987ea60a)  
+United States of America - California; San Bernardino - Pisgah [**C7,2** ](allcaves-database.md#US-16e8a0b3ec07dd8d642be6164bc942f8)  
+United States of America - California; San Bernardino - Pisgah [**C7** ](allcaves-database.md#US-e4c89ca7039bbe79fdbf4d43dc01ed5f)  
+United States of America - California; San Bernardino - Pisgah [**C8** ](allcaves-database.md#US-410e33ccda552e522e28cd5da368d9b8)  
+United States of America - California; San Bernardino - Pisgah [**C9** ](allcaves-database.md#US-30e1fc7ebab4fe028a55b26feb8a38e5)  
+United States of America - California; San Bernardino - Pisgah [**Cat Cave** QQ ](allcaves-database.md#US-063c78c43577c5a0505f6d943c3f349a)  
+United States of America - California; San Bernardino - Pisgah [**CC** ](allcaves-database.md#US-1dbdc35987de20c4cd87d914fde48baf)  
+United States of America - California; San Bernardino - Pisgah [**CD** ](allcaves-database.md#US-fdc34a26910d75ba14637769ec0aaf48)  
+United States of America - California; San Bernardino - Pisgah [**CE** ](allcaves-database.md#US-0165418eea77efeaa5b4224ef7f165fe)  
+United States of America - California; San Bernardino - Pisgah [**CF** ](allcaves-database.md#US-1f1c57edd0bc430c460c3534097c1026)  
+United States of America - California; San Bernardino - Pisgah [**CG** ](allcaves-database.md#US-2f05dc3377459598cc1c8aa424b6a46f)  
+United States of America - California; San Bernardino - Pisgah [**CH** ](allcaves-database.md#US-83d969e8764565d6dba302278d16808b)  
+United States of America - California; San Bernardino - Pisgah [**CJ** ](allcaves-database.md#US-2587720d2699aef0c208d5acae1ce2f7)  
+United States of America - California; San Bernardino - Pisgah [**CK** ](allcaves-database.md#US-c6d14bcb751b6dba1c34b972f12c5222)  
+United States of America - California; San Bernardino - Pisgah [**CLST** ](allcaves-database.md#US-4baa27a469ce7c64ef210cd4af13cc3e)  
+United States of America - California; San Bernardino - Pisgah [**CM** ](allcaves-database.md#US-fddf905544162f8742594138fc2b6e6f)  
+United States of America - California; San Bernardino - Pisgah [**CN** ](allcaves-database.md#US-c57a14922f7ad3243198ce02387c13c4)  
+United States of America - California; San Bernardino - Pisgah [**CP** ](allcaves-database.md#US-2d5e28498e6108950ef1fc31425d6dda)  
+United States of America - California; San Bernardino - Pisgah [**CQ** ](allcaves-database.md#US-962ffef6b59369e4c881fc05de65c777)  
+United States of America - California; San Bernardino - Pisgah [**CR** ](allcaves-database.md#US-eedd809b9f924660d11a76a04b6edd08)  
+United States of America - California; San Bernardino - Pisgah [**CS** ](allcaves-database.md#US-2e387262fab56487339f9229722c10c6)  
+United States of America - California; San Bernardino - Pisgah [**CT** ](allcaves-database.md#US-4b6e77add118fd7bdc73561d78f2dc3f)  
+United States of America - California; San Bernardino - Pisgah [**CW** ](allcaves-database.md#US-80f361bae3a3c5ce15365f6839d676b0)  
+United States of America - California; San Bernardino - Pisgah [**Entryway** ](allcaves-database.md#US-4022f8873611bc0c84ae8d8ba48deb59)  
+United States of America - California; San Bernardino - Pisgah [**Finis** ](allcaves-database.md#US-70bdba384b0278751d567ae01d6ca26b)  
+United States of America - California; San Bernardino - Pisgah [**GA** ](allcaves-database.md#US-7fa516948fde1d73eab0a789f2b2b8a0)  
+United States of America - California; San Bernardino - Pisgah [**GAH** ](allcaves-database.md#US-3a3b2a3ed97c85afea5777f40b217222)  
+United States of America - California; San Bernardino - Pisgah [**GB** ](allcaves-database.md#US-bcf3e052849b0587440224a6707b49e0)  
+United States of America - California; San Bernardino - Pisgah [**GC** ](allcaves-database.md#US-c2b305ea09fb511e846b28cfa091f781)  
+United States of America - California; San Bernardino - Pisgah [**GS** ](allcaves-database.md#US-4798f33a9c2084916162ea1be8a27487)  
+United States of America - California; San Bernardino - Pisgah [**G Too** ](allcaves-database.md#US-aaa5d0c1bb3e30b89f6aff6941a976a8)  
+United States of America - California; San Bernardino - Pisgah [**HA** ](allcaves-database.md#US-c153d7ee54575b217262e57f9b9574e2)  
+United States of America - California; San Bernardino - Pisgah [**HB** ](allcaves-database.md#US-4ad551e5984e8d1d264bf62772f1becb)  
+United States of America - California; San Bernardino - Pisgah [**High Calorie** HC ](allcaves-database.md#US-b7e85fb3e2953e17d88c6a5441074bc2)  
+United States of America - California; San Bernardino - Pisgah [**HL** ](allcaves-database.md#US-dda50511168b85ada1bf43de99a85964)  
+United States of America - California; San Bernardino - Pisgah [**Horseshoe** ](allcaves-database.md#US-7d39bca35a0a62be36ac2f43713d6485)  
+United States of America - California; San Bernardino - Pisgah [**Incinerator** ](allcaves-database.md#US-6d947a2b05970dd152c26074cfe79c46)  
+United States of America - California; San Bernardino - Pisgah [**Jackrabbit 1** ](allcaves-database.md#US-b4469aba16fa1e9ed8bbe5e2f77bb613)  
+United States of America - California; San Bernardino - Pisgah [**Jackrabbit 2** ](allcaves-database.md#US-b17706060095bb16b389dad8856e51ba)  
+United States of America - California; San Bernardino - Pisgah [**Jackrabbit 3** ](allcaves-database.md#US-51daee4e2acaf599fd4a633598ccd848)  
+United States of America - California; San Bernardino - Pisgah [**LA** ](allcaves-database.md#US-ea196c0adf33c50d5c3cf9d53f3302bd)  
+United States of America - California; San Bernardino - Pisgah [**LB** ](allcaves-database.md#US-6446758b590465e7cf150413f41b859e)  
+United States of America - California; San Bernardino - Pisgah [**LD** ](allcaves-database.md#US-cc06b1b798d6e2cafd4d4af06c93aeaf)  
+United States of America - California; San Bernardino - Pisgah [**LE** ](allcaves-database.md#US-6b6e6b7f8bcb0285e7041f665c8e8ea1)  
+United States of America - California; San Bernardino - Pisgah [**Low Calorie** LC ](allcaves-database.md#US-3301373ab75c22ac8b0aa5cf766251ec)  
+United States of America - California; San Bernardino - Pisgah [**MB** ](allcaves-database.md#US-6cc0449fa4d8812f28dd0f7ea329c5a7)  
+United States of America - California; San Bernardino - Pisgah [**MD** ](allcaves-database.md#US-f591f0ffcd2839b9d1e93bb71fed80c2)  
+United States of America - California; San Bernardino - Pisgah [**MG** ](allcaves-database.md#US-2d6986abd7e7821df9478694d1e02e90)  
+United States of America - California; San Bernardino - Pisgah [**M Hole** ](allcaves-database.md#US-8275ccc009786a806e13f3d5bc3e0b46)  
+United States of America - California; San Bernardino - Pisgah [**MM** ](allcaves-database.md#US-d825441f943f22d7f210be4df9e2e8ea)  
+United States of America - California; San Bernardino - Pisgah; Mojave Desert [**Glove Cave** ](allcaves-database.md#US-c4c0f3f57b45cdd7f6661021399a5fbb)  
+United States of America - California; San Bernardino - Pisgah [**MS** ](allcaves-database.md#US-2c3c5c68875b4971318af33ce9061996)  
+United States of America - California; San Bernardino - Pisgah [**NA** ](allcaves-database.md#US-ddace679df72ac94838032aa140b94cf)  
+United States of America - California; San Bernardino - Pisgah [**N Hole** ](allcaves-database.md#US-899105ec1b9a149c64754efdf9115b11)  
+United States of America - California; San Bernardino - Pisgah [**NN** ](allcaves-database.md#US-3647d4a620a908df62ab3235405ee8f4)  
+United States of America - California; San Bernardino - Pisgah [**No. 1** ](allcaves-database.md#US-06058008a30c0c7477c696d3e61264de)  
+United States of America - California; San Bernardino - Pisgah [**Nothing Hole** ](allcaves-database.md#US-c01c7591c86aa72b5c3e99b27d4deff6)  
+United States of America - California; San Bernardino - Pisgah [**NP** ](allcaves-database.md#US-e3f9d148acaddfec33ad089e8763892a)  
+United States of America - California; San Bernardino - Pisgah [**NS** ](allcaves-database.md#US-b28d0ff82264462d3c674a6019cb5a3e)  
+United States of America - California; San Bernardino - Pisgah [**Owl 1** ](allcaves-database.md#US-1d947d3e15b78d02befa4c81baea6325)  
+United States of America - California; San Bernardino - Pisgah [**Owl 2** ](allcaves-database.md#US-e06eca22176d97336afab336321edc35)  
+United States of America - California; San Bernardino - Pisgah [**Owl 3** ](allcaves-database.md#US-b1ebea71645dd7d846f83690fb03baed)  
+United States of America - California; San Bernardino - Pisgah [**PB** ](allcaves-database.md#US-a30f0f4f85248fcdc6c24830c9556d51)  
+United States of America - California; San Bernardino - Pisgah [**PE** ](allcaves-database.md#US-081cd5aa22fce157f06e63c43231bd88)  
+United States of America - California; San Bernardino - Pisgah [**Pear Cave** ](allcaves-database.md#US-dd3ebc4a30f24d5bcda11a233400ff9e)  
+United States of America - California; San Bernardino - Pisgah [**QA** ](allcaves-database.md#US-8339cbc2c3309f69454e2641dd45a4ab)  
+United States of America - California; San Bernardino - Pisgah [**QB** ](allcaves-database.md#US-440cc8da9df3318d5b7171555c4f4ee3)  
+United States of America - California; San Bernardino - Pisgah [**QC** ](allcaves-database.md#US-3df137a798548b973ecc2ac1806a93d6)  
+United States of America - California; San Bernardino - Pisgah [**QD** ](allcaves-database.md#US-072f9e4009d736763f14bdf61b4d8d93)  
+United States of America - California; San Bernardino - Pisgah [**QE** ](allcaves-database.md#US-1d6821db5ff1aaec2ad896cfdf7f7fe6)  
+United States of America - California; San Bernardino - Pisgah [**QF** ](allcaves-database.md#US-621442e52c6656a5abc9a4577c16fb3a)  
+United States of America - California; San Bernardino - Pisgah [**QG** ](allcaves-database.md#US-2918510376d8f7530c351ec01aabf18b)  
+United States of America - California; San Bernardino - Pisgah [**QH** ](allcaves-database.md#US-07e8f561a91bedffc76670c1b10aa2ea)  
+United States of America - California; San Bernardino - Pisgah [**QJ** ](allcaves-database.md#US-e2644caa9fe4923fc63caf366b5a3fed)  
+United States of America - California; San Bernardino - Pisgah [**QK** ](allcaves-database.md#US-76ccc8846949bad227bd7956f480c01a)  
+United States of America - California; San Bernardino - Pisgah [**QL** ](allcaves-database.md#US-95c000105bf3e13d3239b2d76062582a)  
+United States of America - California; San Bernardino - Pisgah [**QM** ](allcaves-database.md#US-1d5269168791f265f675311542663958)  
+United States of America - California; San Bernardino - Pisgah [**QN** ](allcaves-database.md#US-d3474fc26a83778b89c20416ce543376)  
+United States of America - California; San Bernardino - Pisgah [**QP** ](allcaves-database.md#US-75147b8d87df2dcd530ab3001acc3c00)  
+United States of America - California; San Bernardino - Pisgah [**QR** ](allcaves-database.md#US-f17897301ca96bfe41323ba0882ffd5d)  
+United States of America - California; San Bernardino - Pisgah [**QS** ](allcaves-database.md#US-fb813f4f8d850fadff941af58e495416)  
+United States of America - California; San Bernardino - Pisgah [**QT** ](allcaves-database.md#US-74ed4dfa489605ead8065e867e02b6ba)  
+United States of America - California; San Bernardino - Pisgah [**R0** ](allcaves-database.md#US-33863463c6ed3890be24078ea56c778f)  
+United States of America - California; San Bernardino - Pisgah [**RA** ](allcaves-database.md#US-f915564d1624aa5bc1f5180e169b79ce)  
+United States of America - California; San Bernardino - Pisgah [**RB** ](allcaves-database.md#US-337879e679c23955f70b8a5035a67397)  
+United States of America - California; San Bernardino - Pisgah [**RC0** ](allcaves-database.md#US-9eaf78ad238312d7dd6445d8e51d2889)  
+United States of America - California; San Bernardino - Pisgah [**RC1** ](allcaves-database.md#US-d43938134451fc7b474d9e6f50958571)  
+United States of America - California; San Bernardino - Pisgah [**RC2** ](allcaves-database.md#US-1c2c431d2489c63be35cdeea2de8770a)  
+United States of America - California; San Bernardino - Pisgah [**RC3** ](allcaves-database.md#US-1e37c80a4356bd2e9c1741f7867393a6)  
+United States of America - California; San Bernardino - Pisgah [**RD** ](allcaves-database.md#US-bbccad09b0e8152a72c7daa333a29254)  
+United States of America - California; San Bernardino - Pisgah [**RE** ](allcaves-database.md#US-13665f0456e2be249eeab9deac453ebf)  
+United States of America - California; San Bernardino - Pisgah [**RT** ](allcaves-database.md#US-ba34be3373c1173dc2eb94ecc8c48616)  
+United States of America - California; San Bernardino - Pisgah [**Russell Stewart** ](allcaves-database.md#US-3949f7f9104f5d87c05356cd56284725)  
+United States of America - California; San Bernardino - Pisgah [**Salt Cave** S ](allcaves-database.md#US-b8c136ad92023c3a80805be2f79a9588)  
+United States of America - California; San Bernardino - Pisgah [**SI** ](allcaves-database.md#US-9150ed3498ae78ddc397bcd3e2e2950c)  
+United States of America - California; San Bernardino - Pisgah [**SPJ** ](allcaves-database.md#US-b2deced977fcdd3fd4fa4bcbe39e8ee7)  
+United States of America - California; San Bernardino - Pisgah [**SSSTSS** SS ](allcaves-database.md#US-83f5503069d89184627c03bb3879fb67)  
+United States of America - California; San Bernardino - Pisgah [**Station 10 Cave** ](allcaves-database.md#US-21329928aad48ec5c9723559874a8716)  
+United States of America - California; San Bernardino - Pisgah [**Station 11 Cave** ](allcaves-database.md#US-6fd7bfe9a29b58566920d08bfeccca81)  
+United States of America - California; San Bernardino - Pisgah [**Station 4 Cave** ](allcaves-database.md#US-b294b599eee71cb3aad475bb67538163)  
+United States of America - California; San Bernardino - Pisgah [**Station 6 Cave** ](allcaves-database.md#US-cd66202ee2d2b1fb6f9b074ed94cb56f)  
+United States of America - California; San Bernardino - Pisgah [**Station 7A** ](allcaves-database.md#US-5f1833102f631e0bc339108d8fc73f6a)  
+United States of America - California; San Bernardino - Pisgah [**Station 7B** ](allcaves-database.md#US-f5f80cae46979c31ca778212f8e4ab6f)  
+United States of America - California; San Bernardino - Pisgah [**Station 7 Cave** ](allcaves-database.md#US-deb841169e72e69504714d0a7f877d3c)  
+United States of America - California; San Bernardino - Pisgah [**Station 8 Cave** ](allcaves-database.md#US-49425beb424a25172193846950205bfa)  
+United States of America - California; San Bernardino - Pisgah [**TA** ](allcaves-database.md#US-dfae7fde2f296cbf793911599be00158)  
+United States of America - California; San Bernardino - Pisgah [**TB** ](allcaves-database.md#US-016235dda4861afb193f033432b223da)  
+United States of America - California; San Bernardino - Pisgah [**TC** ](allcaves-database.md#US-e6d3b90a09dded36f4c715af4dc24dd5)  
+United States of America - California; San Bernardino - Pisgah [**TD** ](allcaves-database.md#US-44b7a046f3d40658d2d05eff26e1cc5f)  
+United States of America - California; San Bernardino - Pisgah [**Tea Cave** T ](allcaves-database.md#US-49c39c7291a3b41c4118f188c709e0db)  
+United States of America - California; San Bernardino - Pisgah [**TE** ](allcaves-database.md#US-1690842dc1fa3ddf592f2caeff07c9dd)  
+United States of America - California; San Bernardino - Pisgah [**Tea Too** TT ](allcaves-database.md#US-bb77701d005c881aa5fe8411fbee0389)  
+United States of America - California; San Bernardino - Pisgah [**TF** ](allcaves-database.md#US-5a942dc11df358a54c8574f3109ddf6a)  
+United States of America - California; San Bernardino - Pisgah [**TG** ](allcaves-database.md#US-c60ea2d0cccb5caa6d76fb8d22df1fa2)  
+United States of America - California; San Bernardino - Pisgah [**TH** ](allcaves-database.md#US-3b071bdff1fdcbfea242f42847cb8bbf)  
+United States of America - California; San Bernardino - Pisgah [**TI** ](allcaves-database.md#US-94ae8a524251cb50bb0e485cf339d729)  
+United States of America - California; San Bernardino - Pisgah [**TJ** ](allcaves-database.md#US-f4fe51e177721c3f300f43c6a9b911ec)  
+United States of America - California; San Bernardino - Pisgah [**TK** ](allcaves-database.md#US-bc6b88bf4f01869f7800cf379593930a)  
+United States of America - California; San Bernardino - Pisgah [**TL** ](allcaves-database.md#US-e693c6574fa366490bb1635e9d5a88f1)  
+United States of America - California; San Bernardino - Pisgah [**TM** ](allcaves-database.md#US-cbf524a385bd5efecc83ab6ce1aef78d)  
+United States of America - California; San Bernardino - Pisgah [**Toothsome** TS ](allcaves-database.md#US-b2a0fe18e39edf254fd4477b38cf3ed9)  
+United States of America - California; San Bernardino - Pisgah [**TP** ](allcaves-database.md#US-169406af9f15a0753942a70403bbd08f)  
+United States of America - California; San Bernardino - Pisgah [**TQ** ](allcaves-database.md#US-ac62d1a81b3699b14d978e519b43362d)  
+United States of America - California; San Bernardino - Pisgah [**Trapezoidal** ](allcaves-database.md#US-4ecc4d3cef526c68cc04370fa061b057)  
+United States of America - California; San Bernardino - Pisgah [**U** ](allcaves-database.md#US-d6c772a208fc68ba9a78dd33edf2dace)  
+United States of America - California; San Bernardino - Pisgah [**(Vent)** ](allcaves-database.md#US-82dd07b0e74ac66010d1cf76e4a4d060)  
+United States of America - California; San Bernardino - Pisgah [**W** ](allcaves-database.md#US-40b4ee17f18dfefa08de09c4d686665f)  
+United States of America - California; San Bernardino - Pisgah [**WOE** ](allcaves-database.md#US-a2a270c670b668617988566bf49d2362)  
+United States of America - California; San Bernardino - Pisgah [**Woodsy Owl** ](allcaves-database.md#US-b201575b57f09a2299295df8eb08ea7d)  
+United States of America - California; San Bernardino - Pisgah [**Y** ](allcaves-database.md#US-9a2fccd8313be7aec700091edc02ad9a)  
+United States of America - California; San Bernardino - Pisgah [**Ze Hole** Z ](allcaves-database.md#US-658c5c00df9ea89f1f67cb30ccb2cf31)  
+United States of America - California; Shasta County [**Big Cave** ](allcaves-database.md#US-b1a74028107d2d6ad1749402e11165c0) *Part of* Popcorn Cave System  
+United States of America - California; Shasta County [**Cul De Sac Cave** ](allcaves-database.md#US-c50abf808ab61d947fe14aa3402617ff)  
+United States of America - California; Shasta County [**Ice Cave** ](allcaves-database.md#US-7543837436be0bf178e8251adac592e0)  
+United States of America - California; Shasta County [**Millipede Cave** ](allcaves-database.md#US-29d05c787e6896dd9ebfdd15694c35fa)  
+United States of America - California; Shasta County [**Popcorn Cave** ](allcaves-database.md#US-6d88bd1dfe29e9292c48a1d08e13bd1f) *Part of* Popcorn Cave System  
+United States of America - California; Shasta County [**Rusty Cave** ](allcaves-database.md#US-63f97395b959003bfeed3485091978b3)  
+United States of America - California; Shasta County [**Shave Head Cave** ](allcaves-database.md#US-877a1ab7d1721fe27ce8bcd49fc76ede)  
+United States of America - California; Shasta County [**Six Mile Hill Cave** ](allcaves-database.md#US-cb2f525f624e357eaa45f561aa53107e)  
+United States of America - California; Shasta County [**Wilcox Cave** ](allcaves-database.md#US-b43452e275b0f38c335a0dc48126e244)  
+United States of America - California; Siskiyou County [**Adam's Homestead Cave** ](allcaves-database.md#US-cbf7e97019b208aec2dcf44445d38793)  
+United States of America - California; Siskiyou County [**Air Passage** ](allcaves-database.md#US-e8316a00e15deb903902d7637c1588d4)  
+United States of America - California; Siskiyou County [**Amoeba Cave** ](allcaves-database.md#US-ff019cbe696749afa77c3e2ba8dd7e7a)  
+United States of America - California; Siskiyou County [**Angleworm cave** ](allcaves-database.md#US-ae8999e9ce3da25076aa257d922ed15f)  
+United States of America - California; Siskiyou County [**Ant Farm** ](allcaves-database.md#US-1afaf573173450cadda9fb66ec06e363)  
+United States of America - California; Siskiyou County [**Arch Sunk Cave** ](allcaves-database.md#US-0de0306fc2e4f2b117bccc0a9cd37fe0)  
+United States of America - California; Siskiyou County [**Ash Creek cave** ](allcaves-database.md#US-0facb0aa637a10b40e9ad8e0e9f77f98)  
+United States of America - California; Siskiyou County [**Astro Tuff Cave** ](allcaves-database.md#US-c83172def51d19bc8eecbabb384528b8)  
+United States of America - California; Siskiyou County [**Balcony Chamber Cave** ](allcaves-database.md#US-7484041c0081bec7a887d2ad7f16ede8)  
+United States of America - California; Siskiyou County [**Barnum Cave** Shastina Lava Cave ](allcaves-database.md#US-d9744d62652da713de2398bc2cc01f53)  
+United States of America - California; Siskiyou County [**Battered Sherman** ](allcaves-database.md#US-66b944813ed270985ebf24cd35203a7b)  
+United States of America - California; Siskiyou County [**Big Block** ](allcaves-database.md#US-aff1a602eba6d8008b23f7f642504a8f)  
+United States of America - California; Siskiyou County [**Big Deal Cave** ](allcaves-database.md#US-8b6de2923c7ce4b32e6dbac8566d750c)  
+United States of America - California; Siskiyou County [**BLM Cave** ](allcaves-database.md#US-e4e1b15954852c13423f37fab106eb34)  
+United States of America - California; Siskiyou County [**Bobcat Cave** ](allcaves-database.md#US-891c253062701095085ae7ba33de04d8)  
+United States of America - California; Siskiyou County [**Bowers Cave** ](allcaves-database.md#US-f2a06ae1676aa745770374c67f5fdfb8)  
+United States of America - California; Siskiyou County [**Bray Ice Caves** ](allcaves-database.md#US-f1c22fa798108655607c9f99f1875978)  
+United States of America - California; Siskiyou County [**Brown's Hole Cave** ](allcaves-database.md#US-44268dadb0257c84fefa9e16cd6b9c79)  
+United States of America - California; Siskiyou County [**Captain Jack's Bridge** ](allcaves-database.md#US-67b38be2d8cc030c60c37bd61551aebf)  
+United States of America - California; Siskiyou County [**Catwalk Cave** Gaping Holes ](allcaves-database.md#US-420b2a61c80ca4e9af3202a31e2db5cf)  
+United States of America - California; Siskiyou County [**Cellar Cave** ](allcaves-database.md#US-2415d483cb85f98853dde43963b9ac04)  
+United States of America - California; Siskiyou County [**Ceratinly-A-Cave** ](allcaves-database.md#US-6b9c6ecad9020e7f88e06f3b8d7de004)  
+United States of America - California; Siskiyou County [**Chest Cave** ](allcaves-database.md#US-b8194d70adf9c5bba01a8507f7b46884)  
+United States of America - California; Siskiyou County [**Cnt. Pass. Freudian Complex** ](allcaves-database.md#US-5a614f381d34b74b8347257d3d0e6051)  
+United States of America - California; Siskiyou County [**Coke Bottle Cave** ](allcaves-database.md#US-2c27c4e3901b7936a0e4ebb86627903f)  
+United States of America - California; Siskiyou County [**Cooper's Cave** ](allcaves-database.md#US-28d0589260c67727e2168b72863cf00f)  
+United States of America - California; Siskiyou County [**Copper Rock Cave** ](allcaves-database.md#US-f29124ba2fc17b91019602cbf00288db)  
+United States of America - California; Siskiyou County [**Cranefly Hole** ](allcaves-database.md#US-dffc1a1381f2872ea108aa2b59acb45a)  
+United States of America - California; Siskiyou County [**Crawfish Cave** ](allcaves-database.md#US-2929c9605dc87cdeec18f9986f964093)  
+United States of America - California; Siskiyou County [**Dance Hall Cave** ](allcaves-database.md#US-ed9d6e4d73f4e900168b2c3fe0cc4027)  
+United States of America - California; Siskiyou County [**Dead Tire Cave** ](allcaves-database.md#US-cf763e59f1b19c0ee390ca5edc167dae)  
+United States of America - California; Siskiyou County [**Deep Trench** ](allcaves-database.md#US-b68403f8b7d0fcb78fee8d0a8794056f)  
+United States of America - California; Siskiyou County [**Double Barrel Cave** ](allcaves-database.md#US-0e8948765b82f3bc4e616d9483de07c8)  
+United States of America - California; Siskiyou County [**Duffys' Well** ](allcaves-database.md#US-14575485fa0073688450bf6deafc1ea2)  
+United States of America - California; Siskiyou County [**Dynamited Cave** NSS-633-50](allcaves-database.md#US-NSS-633-50)  
+United States of America - California; Siskiyou County [**Elmer's Bridge** ](allcaves-database.md#US-88af61ffcfafdc3a18c1d8798b5d0536)  
+United States of America - California; Siskiyou County [**Far L.Pass. Freudian Complex** ](allcaves-database.md#US-d0533077d4a6d03b1163efed2c8923f4)  
+United States of America - California; Siskiyou County [**Flat Arch Cave** ](allcaves-database.md#US-fbddf7f2e333e1e0cf66293f19a206b4)  
+United States of America - California; Siskiyou County [**Fossil Cave** ](allcaves-database.md#US-0d8480f239575a8d81960063efb4a780)  
+United States of America - California; Siskiyou County [**Gail Cave** ](allcaves-database.md#US-2e35bdd8cf0544b7cde7a714916bfd87)  
+United States of America - California; Siskiyou County [**Greeley's Pit** ](allcaves-database.md#US-648396bed23e5cad1b9bf08da0ef0df7)  
+United States of America - California; Siskiyou County [**Gruta Huella de Pollo Pequena** ](allcaves-database.md#US-1fa074659a59d6e320271cca00f192d8)  
+United States of America - California; Siskiyou County [**Harris Mountain Cave** ](allcaves-database.md#US-82dfccf3ff6ce2ddfa816223a2467b1a)  
+United States of America - California; Siskiyou County [**Heppe Chimney** ](allcaves-database.md#US-f6d65265adc135ece4e12fe3665c4956)  
+United States of America - California; Siskiyou County [**Hourglass Cave** ](allcaves-database.md#US-edb21fe94fb9ff943a9ee1e19f51628c)  
+United States of America - California; Siskiyou County [**Iceberg Cave #2** ](allcaves-database.md#US-821d48d8cde3f3a1c49b6bfcfce88042)  
+United States of America - California; Siskiyou County [**Ice Plug Cave** ](allcaves-database.md#US-3eae49eabf5b196c57d3577f532ccf4e)  
+United States of America - California; Siskiyou County [**Igloo cave** ](allcaves-database.md#US-a5f8e4d288af8ddc5c4db573086aa640)  
+United States of America - California; Siskiyou County [**Impossible Cave** ](allcaves-database.md#US-2f9ab105e0b700719ae701a0f4ae2112)  
+United States of America - California; Siskiyou County [**Irish Catwalk Cave** ](allcaves-database.md#US-3011cbe75c6cbe67f140786b245e1580)  
+United States of America - California; Siskiyou County [**Jack Jones Ice Cave** Jones Cave; John Jones Ice Cave ](allcaves-database.md#US-3e68b97ea423ab2e2d654754953bbfe1)  
+United States of America - California; Siskiyou County [**James Brothers Cave** ](allcaves-database.md#US-ee228badf05c5f57d1c3623200a84316)  
+United States of America - California; Siskiyou County [**Jerome Ice Cave** ](allcaves-database.md#US-b1d423a9d48b58737a0802a4df46516f)  
+United States of America - California; Siskiyou County [**Juniper Pole Cave** ](allcaves-database.md#US-0018b84e8ccdc0eb3d1b5636c3d31df4)  
+United States of America - California; Siskiyou County [**Kathy's Tube** ](allcaves-database.md#US-dbda4350769e645aa84278bc09f62b52)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Arch Cave** ](allcaves-database.md#US-5391ffb8cc9623d0b2857e4f680dfbee)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Balcony Cave** ](allcaves-database.md#US-6a1791bbdcca986188e19af03b88873f)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Beaconlight Cave** ](allcaves-database.md#US-2f141bd7e95bf021593aaa5770b73181)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Blue Grotto** ](allcaves-database.md#US-5c0f92bda62003853ac7e0375819ad66) *Part of* Labyrinth Cave System  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Boulevard Bridge** B190](allcaves-database.md#US-B190) *Part of* Boulevard Caves  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Boulevard Cave** B200](allcaves-database.md#US-B200) *Part of* Boulevard Caves  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Boulevard Caves** ](allcaves-database.md#US-da3a59c861e26dc0f7e850e987ede3e4)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Catacombs Cave** ](allcaves-database.md#US-6ae071d22f46b35c9be0c77ce1541003) *Part of* Paradise Alleys-Catacombs Cave system  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Doc Yock Cave** ](allcaves-database.md#US-f71981e7929359d56a663652cffb6e0d)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**East Boulevard Cave** B210](allcaves-database.md#US-B210) *Part of* Boulevard Caves  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Elmer's Lower Bridge** E450](allcaves-database.md#US-E450)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Elmer's Upper Bridge** E440](allcaves-database.md#US-E440)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Garden Bridges Cave** ](allcaves-database.md#US-658a9528ddeb27a3c4c857b629867a98) *Part of* Labyrinth Cave System  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Golden Dome Cave** ](allcaves-database.md#US-fcb29f4de3fa57ebfebd70cf2ed9dc34) *Part of* Labyrinth Cave System  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Heppe Ice Cave** Heppe Cave ](allcaves-database.md#US-4ef18b3f7a4b7050882366ba79b6dcec)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Hercules Leg Cave** ](allcaves-database.md#US-0e8c933b7410666b0ed39d5b9f0cce1e) *Part of* Hercules Leg-Juniper Cave  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Hopkins Chocolate Cave** ](allcaves-database.md#US-733ba806c6e6fe37468b741b457ab9a1) *Part of* Labyrinth Cave System  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Juniper Cave** ](allcaves-database.md#US-31c06fba12f90cff8e8790a4625decda) *Part of* Hercules Leg-Juniper Cave  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Labyrinth Cave** ](allcaves-database.md#US-d5e2dde8954b02883b3aea1fa3300e4d) *Part of* Labyrinth Cave System  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Lava Brook Cave** ](allcaves-database.md#US-b5ba0670ea09fabd13427000705655a9) *Part of* Labyrinth Cave System  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands [**Island Ice Cave** Hambone Island Cave M-470](allcaves-database.md#US-M-470)  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands [**Kirk White's Cave** ](allcaves-database.md#US-e81bdbc2c68e7afb99da1e9ad0af67e3)  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Mammoth Crater [**Craig Cave** Craig Ice Cave ](allcaves-database.md#US-dac50fe5dc27e7e8364fedfcfa11157b)  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Mammoth Crater [**Crystal Cave** Crystal Ice Cave; Blue Crystal Ice Cave ](allcaves-database.md#US-fc5568e5634776f0ae35c2b1315215b3)  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater [**Merrill Ice Cave** Merrill Cave ](allcaves-database.md#US-a95329610cec5bae744f3d8235cb1d04)  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake [**Labyrinth Cave System** ](allcaves-database.md#US-2d45c8abbfb537ad997856a0b9a0b68c)  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake; Mammoth Crater [**Indian Well** Indian Wells Ice Cave L-215](allcaves-database.md#US-L-215)  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Modoc Crater [**Bearpaw Cave** ](allcaves-database.md#US-b617d741ce0758a76ff3136359ec20aa)  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Modoc Crater [**Big Painted Cave** M-310](allcaves-database.md#US-M-310)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Mushpot Cave** ](allcaves-database.md#US-3096d29d95d3408cb144cba62e67315a)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Nirvana Cave** B130](allcaves-database.md#US-B130) *Part of* Purgatory-Nirvana  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Ovis Cave** ](allcaves-database.md#US-3cd381dc0ec0f9410771f3e07ffde25e)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Pango Ndogo Cave** B140](allcaves-database.md#US-B140)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Paradise Alleys Cave** ](allcaves-database.md#US-8dcf06cb86df5bab34e3a2ed65eb9b6d) *Part of* Paradise Alleys-Catacombs Cave system  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Post Office Cave** Postoffice Cave ](allcaves-database.md#US-fcfb23d7908ee555e8618fc29395b3ba)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Purgatory Cave** B150](allcaves-database.md#US-B150) *Part of* Purgatory-Nirvana  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Roadside Cave System** ](allcaves-database.md#US-dd2e5987d998ff995922aa28026f25e3)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Sentinel Cave** ](allcaves-database.md#US-3b68ba84807cff9f0598b9b076a7ae78)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Sharks Mouth Cave** B120](allcaves-database.md#US-B120)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Silver Cave** ](allcaves-database.md#US-bfc9676ee24179e705132da0c0801959)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Stinking Cave** ](allcaves-database.md#US-71651475d919bf0707c0f81b90b794a1)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Sunshine Cave** ](allcaves-database.md#US-c68eeee3b3a07ef22a264dd8dd7dd0b9)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Symbol Bridge** ](allcaves-database.md#US-2de90c95d4a189b9d20aab9bfac5013d)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Thunderbolt Cave** ](allcaves-database.md#US-a9c9a38454765239e515af9a14f8aaf3) *Part of* Labyrinth Cave System  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Tickner Cave** ](allcaves-database.md#US-ab8c5ec4d2faaa46a67ce165dcf2f922)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Tickner Chimneys** ](allcaves-database.md#US-e9e3b5379e3e6c23900d5e5790fc4955)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Upper Ice Cave** ](allcaves-database.md#US-2c555b1f2263d6c9ab0ff0c5b6033fa1)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Valentine Cave** ](allcaves-database.md#US-f703c90c8d6b43f7779f097188829e53)  
+United States of America - California; Siskiyou County [**Left-of-Center** ](allcaves-database.md#US-17e181a1b94514ef5bcb0156aa389779)  
+United States of America - California; Siskiyou County [**Left Pass. Freudian Complex** ](allcaves-database.md#US-970a77bf408b6b48d193e28c52f8645f)  
+United States of America - California; Siskiyou County [**Lewis Crater Cave** ](allcaves-database.md#US-9879af2da002bb4e6554352ae981a7f2)  
+United States of America - California; Siskiyou County [**Liverwort Cave** ](allcaves-database.md#US-af5466888bdb06611a8ade4f3cbe696a)  
+United States of America - California; Siskiyou County [**Looping Route** ](allcaves-database.md#US-10229aee9a2041dbaebc7b5d01702de8)  
+United States of America - California; Siskiyou County [**Lost Pinnacle Cave** ](allcaves-database.md#US-1ad852f5858f73a72d5ca6cfc1699e33)  
+United States of America - California; Siskiyou County [**Lucky Star Cave** ](allcaves-database.md#US-e1b4fbf2b31547ced1e0769021b87f9c)  
+United States of America - California; Siskiyou County [**Mahogany Cave** ](allcaves-database.md#US-e0392bdfff75db2c6af67dadce3de2be)  
+United States of America - California; Siskiyou County [**Mayfield Ice Cave** ](allcaves-database.md#US-132b88a0bc40e9f71a1cb2665dafdf58)  
+United States of America - California; Siskiyou County [**Maze Cave** ](allcaves-database.md#US-c267e2604ed557040d46d4f04a12a6ca)  
+United States of America - California; Siskiyou County [**McCloud Ice Caves** ](allcaves-database.md#US-121ac6efd29fcce5526ca8f8ec17d949)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Alarming Extension** ](allcaves-database.md#US-2b454c94e4b54877038c4ba386cbd146)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Amazing Pits Cave** ](allcaves-database.md#US-86ac224ff5e81c876c8e1734d02acec8)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Animal Track Cave** ](allcaves-database.md#US-2f643ee77728e22d269564e46926897b)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Bertha's Cupboard Cave** ](allcaves-database.md#US-de2013e5374ad4b76ee649039ec53c4b)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Caldwell Ice Caves** ](allcaves-database.md#US-4aef2563fa805a0868ce276b8b1eaa50)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Double Crater [**Sign Cave** ](allcaves-database.md#US-b0ad81ac4653d8723812b151330aaa77)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Double-Hole Crater [**Birdnest Cave** ](allcaves-database.md#US-50cead6f559fc2f58f2ebd99c8801367)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Double-Hole Crater [**Deep Ice Cave** Bailey's Bailiwick ](allcaves-database.md#US-2327c030f0fdd5c09d2babba3a848601)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Dragon's Head Cave** ](allcaves-database.md#US-378aa4e29ebd75dfe8b28ce3fc778a33)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Fleener Chimneys** ](allcaves-database.md#US-53572ee339652a7d20e76190c467081c)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Four Pit Balcony Cave** ](allcaves-database.md#US-1abe779a679e3946077e73772fe3e83c)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Gelsie's Grotto** ](allcaves-database.md#US-322d3cc3705c6010986ac1255281514b)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Giant Crater Lava Flow [ (Many Names) ](allcaves-database.md#US-d9d2824951dd5786c1495e926afe9172)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Guano Bridge** ](allcaves-database.md#US-277fab9c705e33473012952948c144ea)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Ice River Cave** ](allcaves-database.md#US-f3a55fcb28c6c04130825dd6044f2074)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Irish Bridge** ](allcaves-database.md#US-9e6ef8c734a74327f3c23111e64e8e2b)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Jot Dean Ice Cave** ](allcaves-database.md#US-46fb3cc87efe71d8eb164361f2465c75)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Long First Step Cave** ](allcaves-database.md#US-068386436365689aef974d82560ad8ef)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater [**Cox Ice Cave** ](allcaves-database.md#US-9d8123638664b61a02059f4662132bf3)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Man Eatin' Cave** ](allcaves-database.md#US-9ca5045c859fccb5a355453bb8ce40f9) *Part of* Water Caves  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Backbone Cave** ](allcaves-database.md#US-fd3ef4c671ed49793e7349a8f3a3e658)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Captain Jack's Ice Cave** Captain Jack's Cave ](allcaves-database.md#US-eacca9f244d4f7c6f4ce9ca5a64d84cf)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Castle Cave** ](allcaves-database.md#US-fcc4f2ea6cd990211cc38530c3072feb)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Coyote Cave** ](allcaves-database.md#US-d8d55f08daa85070e14cbc4d87e601c8)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Frozen River Cave** ](allcaves-database.md#US-845d757710d62903599417b8affaa237)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Iceberg Cave #1** ](allcaves-database.md#US-8e0cbde910190d8fa49ea2d6bb0122d7)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**North Bend Cave** ](allcaves-database.md#US-89553e9cffbf46bb7348cf9d64ae58f1)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Robin Cave** ](allcaves-database.md#US-5a705ba6b36f9885ac8ae7f3fc9c3b28)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Ship Cavern** ](allcaves-database.md#US-724f108ab769a1ccc8955702e340e230)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**White Lace Cave** ](allcaves-database.md#US-25112f3ab97014f8988ea8fa00f45999)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Shovel Cave** Arch Sink ](allcaves-database.md#US-6c8bc1ab2cbed53010c28258a07171aa)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands [**Winding Sidewalk Cave** ](allcaves-database.md#US-6c0f448536d5d82ca855b501f1662faa)  
+United States of America - California; Siskiyou County [**Mike's Sink** ](allcaves-database.md#US-8be343fe3debd2a1f6dd70d20cd78f56)  
+United States of America - California; Siskiyou County [**Mint Cave** ](allcaves-database.md#US-ee4bf0cd0f1c863c60f7069b5deb3504)  
+United States of America - California; Siskiyou County [**Mitentite  Hall Cave** ](allcaves-database.md#US-055b92ced5161db7a51f85ed7f69c807)  
+United States of America - California; Siskiyou County - Modoc Crater [**Bat Cave** Half Mile Cave ](allcaves-database.md#US-a1862c4d397b1b65192f10e7026504c3)  
+United States of America - California; Siskiyou County [**Moon Cave** ](allcaves-database.md#US-5316fcddf970f2c43238c972316171c1)  
+United States of America - California; Siskiyou County [**Mounting Misery** ](allcaves-database.md#US-a86c822ae7ba480219468e1e017d79e0)  
+United States of America - California; Siskiyou County [**Muddy Cast Cave** ](allcaves-database.md#US-c5671aa8cf05c45375d65635902375fe)  
+United States of America - California; Siskiyou County [**Natural Bridge** ](allcaves-database.md#US-4f4ad7bfc1b736db5760a3f38514ca57)  
+United States of America - California; Siskiyou County [**North Island Cave** ](allcaves-database.md#US-edebfd15aaf9cf1742428f0e4427dcfd)  
+United States of America - California; Siskiyou County [**Nother Cave** ](allcaves-database.md#US-0c58ac3b7771e57a4a6efbd3f518345b)  
+United States of America - California; Siskiyou County [**Octopus Cave** ](allcaves-database.md#US-ebc8352e0ce6cb4af48ee8ef9f054b1a)  
+United States of America - California; Siskiyou County [**Orange Tape** ](allcaves-database.md#US-d85ffe5901168a23f64046a838fdbbf5)  
+United States of America - California; Siskiyou County [**Original Discovery Cave** ](allcaves-database.md#US-59c8f9d19bdbd9c70f34cfac18efb4b8)  
+United States of America - California; Siskiyou County [**Ovis Annex Cave** ](allcaves-database.md#US-4d0e557df3e8e18255bfd17e3a8a201f)  
+United States of America - California; Siskiyou County [**Ovis Bridge** ](allcaves-database.md#US-25ddf911754b4e182f7b7e02e5cf32dd)  
+United States of America - California; Siskiyou County [**Pallet Ice Cave** ](allcaves-database.md#US-f18eeb03d66872da54f95b0c4761fecf)  
+United States of America - California; Siskiyou County [**Peninsula Bridge** ](allcaves-database.md#US-125f5e5c875a1c53c0ecab9cd934e710)  
+United States of America - California; Siskiyou County [**Pioneer Well** ](allcaves-database.md#US-7b97a6520fe4e38677200686bc2b14aa)  
+United States of America - California; Siskiyou County [**Pluto's Cave** ](allcaves-database.md#US-875c59456714e5481c56d60c5e387de6)  
+United States of America - California; Siskiyou County [**Point Lithic Cave** ](allcaves-database.md#US-24ee501af1468698fd0cc18ad6902fe0)  
+United States of America - California; Siskiyou County - Porcupine Butte [**Bear Tooth Cave** ](allcaves-database.md#US-62777402009c984d5e25203a0725fe7a)  
+United States of America - California; Siskiyou County [**Porcupine Butte Lava Tube** ](allcaves-database.md#US-6a77926d43bf78adb6562cf01012303a)  
+United States of America - California; Siskiyou County [**Prohibition Cave** ](allcaves-database.md#US-4383c0776a838bf5fa4a846c51c95fe5)  
+United States of America - California; Siskiyou County [**Pumice Railway Cave** ](allcaves-database.md#US-94811dc3a45f509ebe24e3754d1d1257)  
+United States of America - California; Siskiyou County [**Rail Road Ballast Cave** ](allcaves-database.md#US-4b63fb0272b9cbb444c8357cd5173376)  
+United States of America - California; Siskiyou County [**Rediscovery Cave** ](allcaves-database.md#US-2df6e6dece8b68ee072d781c6919e241)  
+United States of America - California; Siskiyou County [**Red Tape Cave** ](allcaves-database.md#US-506556ae5b2273166f6ba78164afd088)  
+United States of America - California; Siskiyou County [**Right Pass. Freudian Complex** ](allcaves-database.md#US-115430585e12d083626a85d25eb5716f)  
+United States of America - California; Siskiyou County [**Road Cave** ](allcaves-database.md#US-08a04818d31cfeec31aaeb28c6549dac)  
+United States of America - California; Siskiyou County [**Rock Cave** ](allcaves-database.md#US-5750dd40dd12ef212d6ef42c042b3516)  
+United States of America - California; Siskiyou County [**Rollerdome Cave** ](allcaves-database.md#US-85c8d28dde1e9357e4ef60106a1a9d30)  
+United States of America - California; Siskiyou County [**Rooty Tooty** ](allcaves-database.md#US-f5bb127e24bde8a4147191bfa54711bc)  
+United States of America - California; Siskiyou County [**Sand Cave** ](allcaves-database.md#US-794aea744848c675a9e674a152841c6b)  
+United States of America - California; Siskiyou County [**Schonchin Cave** ](allcaves-database.md#US-d0c5a732fbd7bfbca13d62456368be19)  
+United States of America - California; Siskiyou County - Shasta [**Devil's Kitchen Cave** ](allcaves-database.md#US-15689eb82cd80b8f80e49ce03aad3c8b)  
+United States of America - California; Siskiyou County [**Sheet Cave** ](allcaves-database.md#US-22e58b281e706b412e044fd19728f041)  
+United States of America - California; Siskiyou County [**Short Caves** ](allcaves-database.md#US-755df1d20a03830732b69f00c90adb3b)  
+United States of America - California; Siskiyou County [**Signal Flag Cave** ](allcaves-database.md#US-97df809c523a1027c9fa5bc95a0c9baa)  
+United States of America - California; Siskiyou County [**Sonja Wagit Cave** ](allcaves-database.md#US-78536cf28b3d87c880e1a9cff00fa37d)  
+United States of America - California; Siskiyou County [**South Labyrinth Cave** ](allcaves-database.md#US-148ecfb2b7e580377d9019629c34b2a2)  
+United States of America - California; Siskiyou County [**So What Cave** ](allcaves-database.md#US-00e1034b916faf4715886802ab518266)  
+United States of America - California; Siskiyou County [**Spider Moth Annex** ](allcaves-database.md#US-3cfe5450a0c1f408707cf003531de0dc)  
+United States of America - California; Siskiyou County [**Sugar Pine Butte Ice Cave** ](allcaves-database.md#US-d9d3bc1bb4846344daf554cde39ea195)  
+United States of America - California; Siskiyou County [**Sunbeam Annex Cave** ](allcaves-database.md#US-9ad453ed113bce0b983b677e49ede885)  
+United States of America - California; Siskiyou County [**Sunbeam Pit** ](allcaves-database.md#US-db8731fd12b7c5fabbe13f6af3414211)  
+United States of America - California; Siskiyou County [**Sunnyside Tick Cave** ](allcaves-database.md#US-64ac96da1cd084ec3ba0f99142b242d7)  
+United States of America - California; Siskiyou County [**Teeter Rock Cave** ](allcaves-database.md#US-3053eb117eca3bd51bf56ad59efa2802)  
+United States of America - California; Siskiyou County [**Temple Cave** ](allcaves-database.md#US-c6d9f6c5cca36bbd6b38b662dc3a815f)  
+United States of America - California; Siskiyou County [**The Den** ](allcaves-database.md#US-e372fd311a81ec03a04fa45a7f195581)  
+United States of America - California; Siskiyou County [**Three Way** ](allcaves-database.md#US-e6d0245ad0a67dbc8fa0e543f456de74)  
+United States of America - California; Siskiyou County [**Throughway Cave** ](allcaves-database.md#US-9d16dcd3c2d0c1b68023fa6c313156f0)  
+United States of America - California; Siskiyou County [**Tick City Cave** ](allcaves-database.md#US-30d9b4f2a2583e55fb061d28a6017878)  
+United States of America - California; Siskiyou County [**Tom's Cave** ](allcaves-database.md#US-5b8f34ce6651832591167f684bcfa3b7)  
+United States of America - California; Siskiyou County [**Trapper Cave** ](allcaves-database.md#US-b70345b76abef2c5ee296aed0614fed6)  
+United States of America - California; Siskiyou County [**Twin Caves** ](allcaves-database.md#US-4dd8f470cd3d65ab2f4994357037ad6b)  
+United States of America - California; Siskiyou County [**Water Caves** ](allcaves-database.md#US-f068d144c85fbc801e7fca6b4d277dcc)  
+United States of America - California; Siskiyou County [**Wedding Cake Cave** ](allcaves-database.md#US-5e07954fc7f2264c5eb1dbe6fc34eaf3)  
+United States of America - California; Siskiyou County [**Wildcat Cave** ](allcaves-database.md#US-4f35c6c3e32897eb20c206fa7afd9f36)  
+United States of America - California; Siskiyou County [**Wind Cave** ](allcaves-database.md#US-70ade001ae4842040de34b5678286d8b)  
+United States of America - California; Siskiyou County [**Yellowjacket Ice Cave** ](allcaves-database.md#US-cd065e5403159582538e1ad3b1d46d0d)  
+United States of America - California; Tehama County [**Inskip Cave** ](allcaves-database.md#US-5d02dc8f7e3f4f26e81b9862fc9c11e3)  
+United States of America - California; Tehama County [**Wilson Lake Ice Cave** ](allcaves-database.md#US-fef51ebdad399637bff16abbe6b7f0db)  
+United States of America - Hawaii [**Coffee Cave** ](allcaves-database.md#US-bcc71f133d814bb159d7ef6cc3fb957a)  
+United States of America - Hawaii - Hawaii (Big Island) [**Ash Cave** ](allcaves-database.md#US-a3a6b30f86ea63f4477815f384769911)  
+United States of America - Hawaii - Hawaii (Big Island) [**Big Room cave** ](allcaves-database.md#US-2394678a8d7bd597214b55764ff95888)  
+United States of America - Hawaii - Hawaii (Big Island) [**Clague's Cave** ](allcaves-database.md#US-30bf9c4d2ce63fa47cb20672f5370af3)  
+United States of America - Hawaii - Hawaii (Big Island) [**Curvin's Cave** ](allcaves-database.md#US-5c51a4b253426b67270a94fb55b39fba)  
+United States of America - Hawaii - Hawaii (Big Island) [**Dodge cave** ](allcaves-database.md#US-117c940517a451900a0776bf02724d61)  
+United States of America - Hawaii - Hawaii (Big Island) [**Eldon English Cave** ](allcaves-database.md#US-b4f876588c248e37d3519b0997bd1905)  
+United States of America - Hawaii - Hawaii (Big Island); Hualalai [**Hualalai Ranch Cave** ](allcaves-database.md#US-1e7d3fadb59f0f88dd4aea14baa6f758)  
+United States of America - Hawaii - Hawaii (Big Island); Hualalai [**Huehue Cave** ](allcaves-database.md#US-6445a12d69ed554788c0327f8c6ea71c)  
+United States of America - Hawaii - Hawaii (Big Island); Hualalai [**Kailua-Kona Airport Caves** ](allcaves-database.md#US-4755e00c4d42493188f01492989c73b2)  
+United States of America - Hawaii - Hawaii (Big Island); Hualalai [**Kaupulehu System** ](allcaves-database.md#US-64c7b93ef9a74a9c92805439c9fe0826)  
+United States of America - Hawaii - Hawaii (Big Island); Hualalai [**Puu Waa waa Ranch Cave #1** ](allcaves-database.md#US-b7d52855b52ec822f14db60e0cac9095)  
+United States of America - Hawaii - Hawaii (Big Island); Hualalai [**Puu Waa waa Ranch Cave #2** ](allcaves-database.md#US-448f31ddad713e6077a8378f788b39ee)  
+United States of America - Hawaii - Hawaii (Big Island); Kilauea [**Blair Cave** ](allcaves-database.md#US-489bbc4a623d2257bf1284ce7483e423)  
+United States of America - Hawaii - Hawaii (Big Island); Kilauea [**Christmas Cave** ](allcaves-database.md#US-d440a5e174dbb6f33583cb4c19cdc81b)  
+United States of America - Hawaii - Hawaii (Big Island); Kilauea [**Doc Bellou Cave** ](allcaves-database.md#US-53ffb948e751ac92916ff1ca508f2318)  
+United States of America - Hawaii - Hawaii (Big Island); Kilauea [**Jen's Puka** ](allcaves-database.md#US-9c07d978b358cafd438cacd877e14709)  
+United States of America - Hawaii - Hawaii (Big Island); Kilauea [**Jen's Puka Mauka Cave** ](allcaves-database.md#US-2a292a5b9c7bc4df09e70a593a3711da)  
+United States of America - Hawaii - Hawaii (Big Island); Kilauea [**Keauhou Coconut Cave** ](allcaves-database.md#US-83f5c937d9fbb468cf74256df8287c4a)  
+United States of America - Hawaii - Hawaii (Big Island); Kilauea [**Keauhou Organ Cave** ](allcaves-database.md#US-e541ec7d2b2469068d71377be7735085)  
+United States of America - Hawaii - Hawaii (Big Island); Kilauea [**Keauhou Petroglyph Cave** ](allcaves-database.md#US-effbc3c05538f24f984f1699807f9d0e)  
+United States of America - Hawaii - Hawaii (Big Island); Kilauea [**Mauna Ulu Cave Group A** ](allcaves-database.md#US-95790ca421f1b74a04bc50a2a40e74ac)  
+United States of America - Hawaii - Hawaii (Big Island); Kilauea [**Mauna Ulu Cave Group B** ](allcaves-database.md#US-136aacb9589cca2e54c250e8c65a3e98)  
+United States of America - Hawaii - Hawaii (Big Island); Kilauea [**Mauna Ulu Cave Group C** ](allcaves-database.md#US-18822b5cdaa39c4dfa47793262422df8)  
+United States of America - Hawaii - Hawaii (Big Island); Kilauea [**Olaa Cave** ](allcaves-database.md#US-bf5a3b222a3a4d3294509e6d85efe06f)  
+United States of America - Hawaii - Hawaii (Big Island) [**Little Wall Cave** ](allcaves-database.md#US-1f7ab4b287d3bfb36c17adebb85c30cf)  
+United States of America - Hawaii - Hawaii (Big Island) [**Lower Keauhou Trail Cave** ](allcaves-database.md#US-547db63820f8b28510d69a6955741241)  
+United States of America - Hawaii - Hawaii (Big Island); Mauna Kea [**Cyrtandra Makai Cave** ](allcaves-database.md#US-0395f4c21d30c778b05763b7134c89eb)  
+United States of America - Hawaii - Hawaii (Big Island); Mauna Kea [**Cyrtandra Mauka Cave** ](allcaves-database.md#US-b1539ba0c33353a494b1514f934a99b5)  
+United States of America - Hawaii - Hawaii (Big Island); Mauna Kea [**Debbie Anderson's Cave** ](allcaves-database.md#US-b401fbd94a6f6b46cbf7fbce14ccded7)  
+United States of America - Hawaii - Hawaii (Big Island); Mauna Kea [**Hamakua Forest Reserve Cave #1** ](allcaves-database.md#US-0bfa928241747ea0751d4da0e13aa93f)  
+United States of America - Hawaii - Hawaii (Big Island); Mauna Kea [**Hamakua Forest Reserve Cave #2** ](allcaves-database.md#US-efd3a985d51e1a6c1144686d586d227f)  
+United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Kau Cave #2** ](allcaves-database.md#US-0210150a8baebb52c368bf17a2d84cd6)  
+United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Kilauea Forest Reserve #2** ](allcaves-database.md#US-3a12c04cc7fde360e9dc56b191ff124d)  
+United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Makai Cinder Cone Cave** ](allcaves-database.md#US-65815f608ae9d6f2f51b22112f6ae4c4)  
+United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Mauka Cinder Cone Cave** ](allcaves-database.md#US-a08e111458c9800e05998f6f64f88c7c)  
+United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Pigeon Cave** ](allcaves-database.md#US-8ab45a98192a06a9bc5df518dc6ec018)  
+United States of America - Hawaii - Hawaii (Big Island) [**Mauna Loa Strip Road #1** ](allcaves-database.md#US-0ceb42f6ae6df059ec91c7068b01563e)  
+United States of America - Hawaii - Hawaii (Big Island) [**Mauna Loa Strip Road #2** ](allcaves-database.md#US-9a14387de6a978808c5afd88ef9a9b61)  
+United States of America - Hawaii - Hawaii (Big Island) [**Mauna Loa Strip Road #3** ](allcaves-database.md#US-90325de3e9cb3fa367ab42df5cb9d41e)  
+United States of America - Hawaii - Hawaii (Big Island) [**Mauna Loa Strip Road #4** ](allcaves-database.md#US-263c4d9bc2c94e75d93043e95c63e359)  
+United States of America - Hawaii - Hawaii (Big Island) [**Old Mamalahoa Trail Makai Cave** ](allcaves-database.md#US-f4183fa4a95c04a42deabcee81eb0c74)  
+United States of America - Hawaii - Hawaii (Big Island) [**Old Mamalahoa Trail Mauka Cave** ](allcaves-database.md#US-82f7632139ec297eb492c01a934bd1f6)  
+United States of America - Hawaii - Hawaii (Big Island) [**Powerline Trail Cave** ](allcaves-database.md#US-4b62dd92c2e67c4ca67b10268d1db8cf)  
+United States of America - Hawaii - Hawaii (Big Island) [**Pukalani Cave** ](allcaves-database.md#US-9dfaa224fe947e7571334b92a2f4002c)  
+United States of America - Hawaii - Hawaii (Big Island) [**Under the Wall Cave** ](allcaves-database.md#US-1f3f335edff05e2d537ffe5c3572338a)  
+United States of America - Hawaii - Hawaii (Big Island) [**Upper Kaupulehu System** ](allcaves-database.md#US-31e1c5951853eadc7e05a31bd6fb70a1)  
+United States of America - Hawaii - Hawaii (Big Island) [**Upper Keauhou Trail Cave** ](allcaves-database.md#US-db1bdec86ac395f27b84c64e5336b0af)  
+United States of America - Hawaii - Hawaii (Big Island) [**Water Pipe Cave** ](allcaves-database.md#US-c879dbce5ea0bded803733bf7a0fbb18)  
+United States of America - Hawaii - Hawaii (Big Island) [**Water Pipe Pit** ](allcaves-database.md#US-dd4c80bee8b4f3f38ae8c9811cf72aba)  
+United States of America - Hawaii - Hawaii Island [**Ash Crawl Cave** ](allcaves-database.md#US-f66f65c3de6b0996613fae6689eebc85)  
+United States of America - Hawaii - Hawaii Island [**Bombed Cave** ](allcaves-database.md#US-ee8d5a30e44aac3c7ae66218bf547f9e)  
+United States of America - Hawaii - Hawaii Island [**Delissea Cave System** ](allcaves-database.md#US-bd0b15c0158d2be868cede8ca9cb5463)  
+United States of America - Hawaii - Hawaii Island [**'D' Road Cave** Tree cast; Pole 46 Cave ](allcaves-database.md#US-202559a7c6d136cb2848cbd1f507a578)  
+United States of America - Hawaii - Hawaii Island; Hualalai [**Ambigua Cave** ](allcaves-database.md#US-fcdaa0ceeeb1ef9e60098c26a19c351b)  
+United States of America - Hawaii - Hawaii Island; Hualalai [**Pink Pistillaria Cave** ](allcaves-database.md#US-b9a7208e050be25c1e3e0180d9c58c1f)  
+United States of America - Hawaii - Hawaii Island [**Kalahuipua'a Burial Cave 340** ](allcaves-database.md#US-93f1d1d496a823c622170ca8ad6a8e5e)  
+United States of America - Hawaii - Hawaii Island [**Kalahuipua'a Caves** ](allcaves-database.md#US-81ddd26cd1640b83f61389b1c2be53a6)  
+United States of America - Hawaii - Hawaii Island [**Keauhou Trail Caves** ](allcaves-database.md#US-8f795c07b176669b128ca41b4166f5a6)  
+United States of America - Hawaii - Hawaii Island; Kilauea [**Across-the-road Cave** ](allcaves-database.md#US-7e7ecc279c8723f0de099cb26462fb87)  
+United States of America - Hawaii - Hawaii Island; Kilauea [**Ainahou Ranch Cave** ](allcaves-database.md#US-82e3365102b230cb2370aeaf4aa8fc97)  
+United States of America - Hawaii - Hawaii Island; Kilauea [**Apua Cave** ](allcaves-database.md#US-c8443b3fca077aad2d004b1a5c9ead3d)  
+United States of America - Hawaii - Hawaii Island; Kilauea [**Thurston Lava Tube** Nahuku ](allcaves-database.md#US-7758ede1bf2895fde3e033888aca6e8b)  
+United States of America - Hawaii - Hawaii Island; Kilauea [**T-Tube** ](allcaves-database.md#US-9feee0b4e60da87fef774f4250b5f797)  
+United States of America - Hawaii - Hawaii Island [**Kupaianaha Caves** ](allcaves-database.md#US-0dcfa8e2b6355fc695775ae2ebb22ead)  
+United States of America - Hawaii - Hawaii Island [**Matress Puka** ](allcaves-database.md#US-52f1eacad77ac23cec1e3f1be853cb6f)  
+United States of America - Hawaii - Hawaii Island; Mauna Kea [**Pa'auhau Civil Defense Cave** ](allcaves-database.md#US-8c7c6b472f32ae0bcfef01906feea107)  
+United States of America - Hawaii - Hawaii Island; Mauna Loa [**Kula Kai Caverns** ](allcaves-database.md#US-9856ce3a96130bfa66557beb44f02220) *Part of* Kipuka Kanohina  
+United States of America - Hawaii - Hawaii Island; Mauna Loa [**Lower Bird Park Cave** ](allcaves-database.md#US-b31068e68ed9d8060d4f546b33dcd69e)  
+United States of America - Hawaii - Hawaii Island; Mauna Loa [**Mauna Loa Ice Cave** ](allcaves-database.md#US-2cc407ff6a2f066da4b7916191650039)  
+United States of America - Hawaii - Hawaii Island; Mauna Loa [**Upper Bird Park Cave** Kipuka Puaula Cave ](allcaves-database.md#US-f1d39a7cd609812042ebdb50448d8795)  
+United States of America - Hawaii - Hawaii Island; Mauna Loa [**Whitney's Cave** ](allcaves-database.md#US-29e2623d0ac6b69dfce9b5692f22df01)  
+United States of America - Hawaii - Hawaii Island [**Palahemo Lava Tube** ](allcaves-database.md#US-099b544a82fbd0464aed0a19a27df428)  
+United States of America - Hawaii - Hawaii Island [**Postal Rift Cave** ](allcaves-database.md#US-37e14c35996d3f85ca2404941f8c3f53)  
+United States of America - Hawaii; Kauai County - Kauai Island; Haena Caves [**Waikanaloa Wet Cave** Waimoo Wet Cave ](allcaves-database.md#US-06109e68290d95f9840e6a8e5d0cba10)  
+United States of America - Hawaii; Kauai County - Kauai Island; Koloa [**Ali'i Cave** Weliweli 78 ](allcaves-database.md#US-25392752b83a66e1931f67c767fd0c42)  
+United States of America - Hawaii; Kauai County - Kauai Island; Koloa [**Blind Eye Spider Cave** Kiahuna Cave; Golf Course Cave ](allcaves-database.md#US-04da36adaa6c20f2be96e79461ee9895)  
+United States of America - Hawaii; Kauai County - Kauai Island; Koloa [**McBryde Boundary Cave** McBryde Boundary Road Cave; Koloa Cave #2; Koloa Pasture Cave ](allcaves-database.md#US-063eca85d5cef0ff22669f8a287d4318)  
+United States of America - Hawaii; Kauai County - Kauai Island; Koloa [**McBryde Civil Defense Cave** Koloa Cave #1 ](allcaves-database.md#US-3b4a56fcb565cbb6a04b70b328b7ed8d)  
+United States of America - Hawaii; Kauai County - Kauai Island; Koloa [**Weliweli Cave 85A-E** ](allcaves-database.md#US-9b227da1134984b132ed82e95673b01b)  
+United States of America - Hawaii; Kauai County - Kauai Island; Na Pali Coast [**Waialoha Cave** Thankful Water Cave ](allcaves-database.md#US-99c21eaf0ac6bb3328147fa66f9635bd)  
+United States of America - Hawaii - Kauai; Haena State Park [**Waikapalae Wet Cave** Waimoo Wet Cave; Blue Room Wet Cave ](allcaves-database.md#US-85c9e45f616d851c5506b3c2a0709205)  
+United States of America - Hawaii - Kauai [**Knudsen Cave #1** ](allcaves-database.md#US-118a5111d6908a9f27eb29c164ff0dc7)  
+United States of America - Hawaii - Kauai [**Knudsen Cave #2** ](allcaves-database.md#US-34ecad28dbfd79bd1889164cb2bccd37)  
+United States of America - Hawaii - Kauai [**Koloa Cave #3** ](allcaves-database.md#US-e2a397fdace0a1534c297fe2133b030b)  
+United States of America - Hawaii - Kauai [**Koloa Cave #4** ](allcaves-database.md#US-25a27f37be66299cbc2cbecd0ee78dfb)  
+United States of America - Hawaii - Kauai; Koloa [**Koloa-kai Cave 76A** Shelter Caves (Koloa 76a) ](allcaves-database.md#US-f03703fef00d60d025be04bbf9b50bbd)  
+United States of America - Hawaii - Kauai; Koloa [**Koloa-kai Cave 76B** Shelter Caves (Koloa 76b) ](allcaves-database.md#US-5309e338de84452ba745c490221ce31f)  
+United States of America - Hawaii - Kauai; Koloa [**Koloa-kai Cave 76C** Shelter Caves (Koloa 76c) ](allcaves-database.md#US-c71e7b520cb7a1111aed75d16fb2d83f)  
+United States of America - Hawaii - Kauai; Koloa [**Koloa-kai Cave 76D** Shelter Caves (Koloa 76d) ](allcaves-database.md#US-51c7cb965ca1467e26ee65f735bb05b2)  
+United States of America - Hawaii - Kauai; Koloa [**Koloa-kai Cave 76E** Shelter Caves (Koloa 76e) ](allcaves-database.md#US-586475f475a8742d1cfbe72996193ada)  
+United States of America - Hawaii - Kauai; Koloa [**Koloa-kai Cave 76F** Shelter Caves (Koloa 76f) ](allcaves-database.md#US-69fc2603e9d174b7a03922be0696fa85)  
+United States of America - Hawaii - Kauai; Koloa [**Koloa-kai Cave 76G** Shelter Caves (Koloa 76g) ](allcaves-database.md#US-4f6af47326221873619322ccef5ba2bb)  
+United States of America - Hawaii - Kauai [**Koloa Mill Cave** ](allcaves-database.md#US-8f94a9064ae0369af8f80bab85407eec)  
+United States of America - Hawaii - Kauai [**Koloa Mill Twilight Cave #1** ](allcaves-database.md#US-2da7797d2e9a4fd4101997981b42bc5a)  
+United States of America - Hawaii - Kauai; Koloa [**Shelter Caves (Koloa 74c)** ](allcaves-database.md#US-713b15cf3fedb6356b4313c235b4edaf)  
+United States of America - Hawaii - Kauai; Koloa [**Waliweli 85B** Shelter Cave 85B ](allcaves-database.md#US-8b9dcd01c2b97a3c3461a8eb27d65219)  
+United States of America - Hawaii - Kauai; Koloa [**Waliweli 85C** Shelter Cave 85C ](allcaves-database.md#US-8113841fbd417b93d6e33a8ae5ce4d64)  
+United States of America - Hawaii - Kauai; Koloa [**Waliweli 85D** Shelter Cave 85D ](allcaves-database.md#US-c1f7a954e771f03a99c52bd0dfe42aad)  
+United States of America - Hawaii - Kauai; Koloa [**Weliweli Cave 80A** ](allcaves-database.md#US-ea50c63f3fe3a4349d438ad33a9acd69)  
+United States of America - Hawaii - Kauai [**Lawa'i-kai Cave** Lawai Kai Cave; Lawai Site 51 ](allcaves-database.md#US-eebeb6f52ce3d07fa51e0ef957c88955)  
+United States of America - Hawaii - Kauai; Na Pali Coast [**Big Wet Cave** ](allcaves-database.md#US-f52f7a931426b18d683dea74c226e9e8)  
+United States of America - Hawaii - Kauai; Na Pali Coast [**Honopu Arch** ](allcaves-database.md#US-279daabb20cf340b082281ece61f5939)  
+United States of America - Hawaii - Kauai; Na Pali Coast [**Lands End Cave** ](allcaves-database.md#US-bb25038e618f1073a9aedf50e8beb218)  
+United States of America - Hawaii - Kauai; Na Pali Coast [**Waiawaipuhi Cave** Great Blowhole Cave ](allcaves-database.md#US-3c05b37d14b5ade3b100836b710b7caf)  
+United States of America - Hawaii - Kauai [**Shelter Cave (Kukui-Îula 57)** ](allcaves-database.md#US-d0ac5bad5ebaebc302e83e7d000e39a4)  
+United States of America - Hawaii - Kauai [**Waliweli 85A** Shelter Cave 85A ](allcaves-database.md#US-8329e67c327b0b01463de97dd4f035cb)  
+United States of America - Hawaii; Ka'u District - Hawaii Island [**Fern Cave** ](allcaves-database.md#US-85e8bae0d9bbdfbc69b8f6a9b77a0347)  
+United States of America - Hawaii; Ka'u District - Hawaii Island [**Geology Cave** ](allcaves-database.md#US-e1b2502f93aafc51972329453f1878e6)  
+United States of America - Hawaii; Kau District - Hawaii Island; Hilina Pali Area [**Ledge Cave** ](allcaves-database.md#US-4db5c4b59b73eda6b4f3ed091f0a4860)  
+United States of America - Hawaii; Ka'u District - Hawaii Island; Hilini Pali; Kilauea [**Earthquake Cave** ](allcaves-database.md#US-45363cb3296ca56d531dec8dd1ca042c)  
+United States of America - Hawaii; Ka'u District - Hawaii Island [**Kaukau Cave** ](allcaves-database.md#US-4d1c4edcc97ed79fcb8165b19b72aa5a)  
+United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea [**CSH Site 17 Cave** ](allcaves-database.md#US-1980c98ca2c56ef4d04af9931644c7ee)  
+United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea [**CSH Site 96 Cave** ](allcaves-database.md#US-56697b6c15923773671a526cb4d0edad)  
+United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea [**Palima Point Area Caves** CSH Site 91 Cave ](allcaves-database.md#US-98c686c7457f181159609b46d0059c6e)  
+United States of America - Hawaii; Ka'u District - Hawaii Island [**Refuge Cave Site B17-8** ](allcaves-database.md#US-fcbb05b6ee4a27c3412d541904a980e7)  
+United States of America - Hawaii; Kau District - Hawaii Island; South Point; Mauna Loa [**Kamakalepo Cave System** ](allcaves-database.md#US-c514e63791be3146c1ec1f19863a6fc7)  
+United States of America - Hawaii; Kilauea Forest Reserve - Hawaii (Big Island); Mauna Loa [**Transect 1 Cave** ](allcaves-database.md#US-8343d5d33b5ac2877d2bbf8b044d2423)  
+United States of America - Hawaii - Maui [**Ananaluawahine Cave** ](allcaves-database.md#US-a2d184d3c14ce725bcf1f24154351b03)  
+United States of America - Hawaii - Maui [**Boundry Line Cave** ](allcaves-database.md#US-9dee2a57b05645c2145ecf1d06bff75b)  
+United States of America - Hawaii - Maui [**Cape Kinau Lava Tube** ](allcaves-database.md#US-3b6258c151729026ab9e57da4c8c7375)  
+United States of America - Hawaii; Maui County - Lanai Island [**Kealiakapu Cave** ](allcaves-database.md#US-e6a365db6dd5732c8886566304731353)  
+United States of America - Hawaii; Maui County - Molokai [**Ana Noio Cave** ](allcaves-database.md#US-deaf2078baa72eeb63c58e0fd5629d08)  
+United States of America - Hawaii - Maui [**Dangerous Dan's Drop-off** ](allcaves-database.md#US-fd1f1db78cf30731e69547c06bd84cf1)  
+United States of America - Hawaii - Maui [**Field 38 Cave** Offal Cave ](allcaves-database.md#US-02ba7f697d8acde9e9c6794affb79702)  
+United States of America - Hawaii - Maui; Haleakala [**Auwahi Cave** ](allcaves-database.md#US-c6ce02d676bc788c580f14c15271ce2c)  
+United States of America - Hawaii - Maui; Haleakala [**Bishop's Cave** ](allcaves-database.md#US-a51408472e3a41df7b4f857f972aacd9)  
+United States of America - Hawaii - Maui; Haleakala [**Holoinawawai Stream Cave** ](allcaves-database.md#US-e61802ff769efbdff3da15c938c11129)  
+United States of America - Hawaii - Maui; Haleakala [**Hukihuki Cave** ](allcaves-database.md#US-6760c673241cb664af04dd3581c46a3d)  
+United States of America - Hawaii - Maui; Haleakala [**Kahawaihapapa Cave** ](allcaves-database.md#US-730365202e110f38d3bf3c767a8493f9)  
+United States of America - Hawaii - Maui; Haleakala [**Kalua O Lapa Cave** Skull Cave ](allcaves-database.md#US-1c1ba489d6cbd97098767d9787e419d8)  
+United States of America - Hawaii - Maui; Haleakala [**Long Cave** ](allcaves-database.md#US-dc549500a4d2f72c018bdbebcd113220)  
+United States of America - Hawaii - Maui; Haleakala [**Lower Waihoi Valley Cave** ](allcaves-database.md#US-ee2805272d8e06e639e0f23d310433bb)  
+United States of America - Hawaii - Maui; Haleakala [**Lower Wananalua Cave** ](allcaves-database.md#US-35b492cca4069c0f5625b1d6a0edfc97)  
+United States of America - Hawaii - Maui; Haleakala [**Lua Lepo** ](allcaves-database.md#US-9eed2e6f2d17ec5fbdae1857697504a0)  
+United States of America - Hawaii - Maui; Haleakala; Manawainaui Gulch [**Crystal Cave** ](allcaves-database.md#US-e9868a6a73eb9c22875a3b2f6010b0c0)  
+United States of America - Hawaii - Maui; Haleakala National Park [**Wainapana Cave** ](allcaves-database.md#US-7c3bdd81110eceeee12f7340d1050972)  
+United States of America - Hawaii - Maui; Haleakala [**Offal Cave** ](allcaves-database.md#US-fa4260b5c1bbae6d278dcd097e924bfd)  
+United States of America - Hawaii - Maui; Haleakala [**Owl Cave** ](allcaves-database.md#US-c7dd2f4e5692b54c5dc6b3c7fb64d076)  
+United States of America - Hawaii - Maui; Haleakala [**Puu Mahoe Cave** ](allcaves-database.md#US-facf78f61da67fc96f126fd05edff945)  
+United States of America - Hawaii - Maui; Haleakala [**Puu Makua Cave** ](allcaves-database.md#US-37e3234ca151971da35dae570f53e235)  
+United States of America - Hawaii - Maui; Haleakala [**Puu Naio Cave** ](allcaves-database.md#US-439fd8fa02b3554e0005061342bb9ca2)  
+United States of America - Hawaii - Maui [**Haleakala Trail Cave** ](allcaves-database.md#US-f0ebb523c67e2caa7762bb2a73958f16)  
+United States of America - Hawaii - Maui; Haleakala [**Upper Wananalua Cave** ](allcaves-database.md#US-c4b95e514a309e064d5c4cd297389477)  
+United States of America - Hawaii - Maui; Haleakala [**Wahoi Valley Trench Cave** ](allcaves-database.md#US-8032e350fb2a88c6ff2f8c08ba551d64)  
+United States of America - Hawaii - Maui [**Ka'eleku Cavern** Hana Lava Tube ](allcaves-database.md#US-219180b1f8c8c0e3a14e276008f86f5f)  
+United States of America - Hawaii - Maui [**Lower Kipahulu Valley** ](allcaves-database.md#US-d7c2354e4cf5dd03aa644558ac1433e8)  
+United States of America - Hawaii - Maui [**Lower Nahiko Road Cave** ](allcaves-database.md#US-06598bf34b85fef4a11780a552b74102)  
+United States of America - Hawaii - Maui [**Lua Manu Cave** ](allcaves-database.md#US-b18abc5c8e9e8f3ef85dee18a44e27e3)  
+United States of America - Hawaii - Maui; Upper Kipahulu Valley [**Lua Mano** ](allcaves-database.md#US-3b1d3fa46acaabac42dbdba964746750)  
+United States of America - Hawaii - Maui; Upper Kipahulu Valley [**Puka Moa** ](allcaves-database.md#US-1cec006c98db31a270c579a9b9086a05)  
+United States of America - Hawaii - Maui [**Upper Nahiko Road Cave** ](allcaves-database.md#US-3091da8e10eec934f9f7376104ae9257)  
+United States of America - Hawaii - Maui [**Waihou Spring Cave** ](allcaves-database.md#US-a41b4167d39dad4695e8ce2b29ca07ff)  
+United States of America - Hawaii - Mauna Loa [**Arsia Cave** Arsia Ice Cave ](allcaves-database.md#US-e8d141037ddc1466cab9ae2c54f077bb)  
+United States of America - Hawaii - Mauna Loa [**Big Red Cave** ](allcaves-database.md#US-1062176be82b87c330bfdff56979c482)  
+United States of America - Hawaii - Mauna Loa [**Keokeo Cave System** ](allcaves-database.md#US-4f5129e77586035ac81fb3040e392806)  
+United States of America - Hawaii - Mauna Loa; Kipuka Kanohina Cave Preserve [**Kipuka Kanohina** ](allcaves-database.md#US-7964f1c4e54a6550c79189ebfd3ea0cb)  
+United States of America - Hawaii [**Mouflon Cave** ](allcaves-database.md#US-c94b3238f754c5b8c360b42fa6ea6aba)  
+United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa [**Big Black Cave** ](allcaves-database.md#US-5fc3c67e2099f3e6fe78f061c4b334eb)  
+United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa [**Hammer Cave** RJ Cave; Relay Junction Cave ](allcaves-database.md#US-e49fbccda8d8fda146ee975d22d3ee73)  
+United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa [**Hanging Pack Cave** ](allcaves-database.md#US-2064a57b0c8f1fdf7cfb9251e31fd759)  
+United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa [**Mossy Fern Cave** ](allcaves-database.md#US-dc674ce89fcae78a39b6d8810c43b069)  
+United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa [**Oozing Red Puka** ](allcaves-database.md#US-31824fb7df2950e59174a3085c0024b8)  
+United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa [**Red Bird Cave** ](allcaves-database.md#US-336780125f20a1cd20056706edb8d354)  
+United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa [**Redemption Cave** ](allcaves-database.md#US-9d227c934bd8d092b89fa6e07615aa51)  
+United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa [**Sunset Cave** ](allcaves-database.md#US-f33b0ba920b76f662192c08f2b7ebcc4)  
+United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa [**Upper Oozing Red Puka** ](allcaves-database.md#US-6a5e631b6a91de1de374105ca3098a39)  
+United States of America - Hawaii; North Hilo District - Hawaii Island; Mauna Loa [**Emesine Cave** ](allcaves-database.md#US-944f78b92c51e241935fb91f5d686613)  
+United States of America - Hawaii; North Hilo District - Hawaii Island; Mauna Loa [**Kaumana Cave** ](allcaves-database.md#US-7a788b6b9eff63c3133f79d397102ca4)  
+United States of America - Hawaii; North Hilo District - Hawaii Island; Mauna Loa [**Skylight Cave** ](allcaves-database.md#US-08be2f9b6713f7dbdb39be77de5839ea)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Archies Cave** ](allcaves-database.md#US-7ce8161eb0a9a86e5f7c1ea554527b65)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Black Pellet Cave** ](allcaves-database.md#US-cde496ddfccdb432eef72016ab19be66)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Can Cave** ](allcaves-database.md#US-383608229d5b3c014a1aaf3ebf1f12f0)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Centashaft** ](allcaves-database.md#US-5290b4aecaaad7e3f8c397325a0f2fef)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Donkey Cave** ](allcaves-database.md#US-abfefc0ab0e35a2dd5da4e2c2504524b)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Goatskull Puka** ](allcaves-database.md#US-1dd3c0775311d895b09a1b9bb5f8d1ca)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Lama Lua Cave** ](allcaves-database.md#US-465ed26edd047a3ff7a8def6a1d2efb3)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Laniakea Cave** ](allcaves-database.md#US-12bffd8e3d64c4e7f85cbb49faf5c520)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Ohia Cave** ](allcaves-database.md#US-55a89bbad7e476eaf0606eb86f074f91)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Pueo Cave** ](allcaves-database.md#US-3a89173ba7e60ae430601accb59b8e0e)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Refuge Cave Feature 2077** ](allcaves-database.md#US-db2eb7abf802111519fde4ad9f134727)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Refuge Cave Site 262** ](allcaves-database.md#US-814f92aa82025cd2ff7a1225baab9278)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Refuge Cave Site 900** ](allcaves-database.md#US-3aaf4bfd48a8eb4b7ebca5efa1b64338)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Refuge Cave Site D7-27** ](allcaves-database.md#US-2f0970b7173d10e7367e8468804d1c7b)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Refuge Cave Site D8-2** ](allcaves-database.md#US-99c8b26ad149811b8a9be82dd0ddb937)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Refuge Cave Site D8-33** ](allcaves-database.md#US-1ef7fe0116cbe9a87241845615107378)  
+United States of America - Hawaii; North Kona District - Hawaii Island [**Roadcut Caves** ](allcaves-database.md#US-6f7d8beb26b64a702dc7ee64d66da193)  
+United States of America - Hawaii; North Kona - Hawaii (Big Island); Hualalai [**Huehue Ranch Cave** ](allcaves-database.md#US-ced3cb589ecc92a554ba5e5b96941dbd)  
+United States of America - Hawaii; North Kona - Hawaii Island; Kilauea [**Central Passage** ](allcaves-database.md#US-5d5dc9a1e25b0a51a7aef89c9dd63334)  
+United States of America - Hawaii - Oahu [**Judd Street Cave** ](allcaves-database.md#US-c03e5c5b19b9ff7bde8b60601aa3c8dd)  
+United States of America - Hawaii - Oahu; Koolau [**Kamehameha Cave** ](allcaves-database.md#US-cb45e3169bf0293607e86730e79e77b8)  
+United States of America - Hawaii - Oahu; Koolau [**Niu Burial Cave** Niu Valley Cave ](allcaves-database.md#US-5e4b1f1843551fb8a5868f3da902cc05)  
+United States of America - Hawaii - Oahu; Koolau [**Pupukea Cave** ](allcaves-database.md#US-c324d76d18a696d4dda498c588c22678)  
+United States of America - Hawaii - Oahu [**Kuliouou Cave** ](allcaves-database.md#US-3e93c357a2713b42b8d5a56b51dac4ef)  
+United States of America - Hawaii - Oahu; Waianae [**Kaneana Cave** Makua Cave ](allcaves-database.md#US-1531e55e50a2a2856a283bdede02e7b1)  
+United States of America - Hawaii - Oahu [**Waimalu Cave** ](allcaves-database.md#US-f2f39625b9663cb35b594e35e01554c9)  
+United States of America - Hawaii - Oahu [**Wyllie Street Cave** ](allcaves-database.md#US-80fc451e893e1a343061f8135cb14f0b)  
+United States of America - Hawaii [**Octapuka** ](allcaves-database.md#US-08c21f4b5e3250661098645ca4d945b9)  
+United States of America - Hawaii [**Polipoli Cave** ](allcaves-database.md#US-ede3bd0a4d9ceb86ae7f8615d6bcf7c6)  
+United States of America - Hawaii [**Prairie Dog Cave** ](allcaves-database.md#US-034db15c774724675b8b77e21f331867)  
+United States of America - Hawaii; Puna District - Hawaii (Big Island) [**Bamboo Puka** ](allcaves-database.md#US-48d2dfc13655ef77e95176df7c3bf6eb)  
+United States of America - Hawaii; Puna District - Hawaii (Big Island) [**Bill Rowland's Cave** ](allcaves-database.md#US-b203277fe2f327e76a39a3f5a44eb1e6)  
+United States of America - Hawaii; Puna District - Hawaii (Big Island) [**Bordello Cave** ](allcaves-database.md#US-7d0e5489f91813ac5f40d7adaabe040d)  
+United States of America - Hawaii; Puna District - Hawaii (Big Island); Kilauea [**Anthurium Sink Cave** ](allcaves-database.md#US-8c3d56c1fe23ec5b8f1a5062910e8d77)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Epperson's Cave** ](allcaves-database.md#US-28797bad02b93c143981774b38b5524d)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Fern's Cave** ](allcaves-database.md#US-665d66bd09899db9676da9130c070b30)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Gary McGowan's Cave** ](allcaves-database.md#US-81a0e5d07a7f89681a8a8651da9a01c0)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Gilbert Cave** ](allcaves-database.md#US-c97a0b41869b493cca98ee69c7b5950a)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Hakuma Cave** ](allcaves-database.md#US-d7a2cbdba7ef866c0d9e000144ca71c0)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Hot Tub Cave** ](allcaves-database.md#US-09695ab0bfc3a4db4959a09d36850f33)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Kapapala Cave** ](allcaves-database.md#US-9cad88cd5d621d777d3504f632f38dd7)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Keana Oa Waa** ](allcaves-database.md#US-afadd4c89f2ba5cbf3551dc1dd95ca35)  
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea [**Eldon English Mauka Cave** ](allcaves-database.md#US-ed7fcd3be4def9356437e0b8d5dd28ef)  
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea [**Hawaiian Acres Cave #1** ](allcaves-database.md#US-17f8551b63d890d640cc92af0dfc172b)  
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea [**Hongo Store Cave** ](allcaves-database.md#US-0c76edb3cbfa86162dda5d92c846770a)  
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea [**John Martin Cave** ](allcaves-database.md#US-2b7802a7df4d8c156d722ebb409c41a5)  
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea [**Kazumura Cave** ](allcaves-database.md#US-de4bd354b15708182d9f1c5c0a532ca6)  
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea [**Keala Cave** ](allcaves-database.md#US-c7af44e4719d3be9f7cc7998485b7957)  
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea [**Pahoa Caves** ](allcaves-database.md#US-6ecc6749a270705d2182fe4443a1af36)  
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea [**Ring Cave** ](allcaves-database.md#US-37f270d45ec0411d69afe7240487ddab)  
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea [**Ringleader Cave** ](allcaves-database.md#US-80115948c9f62ff91c2e7cbec2607a18)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Kurtistown Civil Defense Cave** ](allcaves-database.md#US-1c8ccf6f47bd5aad48a636581632f602)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Lower Uilani Cave** ](allcaves-database.md#US-1d0ce88ab676c436ff61868ba1c8ee25)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Malama Cave** ](allcaves-database.md#US-323e87461eff81c60a1e79da4c10a628)  
+United States of America - Hawaii; Puna District - Hawaii Island; Mauna Loa [**Harry Fox's Cave** ](allcaves-database.md#US-4ee39d39b14afb5f8eb4d2a5ef0fb469)  
+United States of America - Hawaii; Puna District - Hawaii Island [**NDAA Tubes** ](allcaves-database.md#US-24a354254b9042a74a6dc440125a9a07)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Puna Forest Reserve Caves** ](allcaves-database.md#US-5395b332219fd1b025512134308ed4ef)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Swansong Cave** ](allcaves-database.md#US-af03be1a59cec488770224c8c550e1a2)  
+United States of America - Hawaii; Puna District - Hawaii Island [**The Puka Cave** ](allcaves-database.md#US-e221a8d63215dc841f944057e03d0695)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Tumulus E-1 Cave** ](allcaves-database.md#US-430e635c7a872b0fbbd2d6935f178f13)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Upper Uilani Cave** ](allcaves-database.md#US-f72a60d4e4c5b74a74184e7474099bb2)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Waikahekahe Cave** ](allcaves-database.md#US-5dadbd0478005e59410e732a6d81d5e6)  
+United States of America - Hawaii; Puna District - Hawaii Island [**Yuen's Caves** ](allcaves-database.md#US-531b644e4507188a6478fee42a7845c5)  
+United States of America - Hawaii; Puna District [**Paradise Park Cave** ](allcaves-database.md#US-e752aa6560618a8e657cb181062a6fa4)  
+United States of America - Hawaii; South Kona District - Hawaii Island [**Hayes Tube Shelter** ](allcaves-database.md#US-d74f6ab7446569d37087fa17e92268d3)  
+United States of America - Hawaii; South Kona District - Hawaii Island [**Refuge Cave Site 3707** ](allcaves-database.md#US-454238ddb7111822215d81667b0521e4)  
+United States of America - Hawaii; South Kona District - Hawaii Island [**Refuge Cave Site C14-1** ](allcaves-database.md#US-3141df36bcf19a884bfd1b84e6aa1dda)  
+United States of America - Hawaii [**Umi'i Manu System** ](allcaves-database.md#US-d957019db1b14efe328e96e11d808dcc)  
+United States of America - Idaho; Ada County [**Higby Cave** ](allcaves-database.md#US-b1f285fa54957df41265c6ae7cddf110)  
+United States of America - Idaho; Ada County [**Kuna Cave** ](allcaves-database.md#US-76594dc49c31ab2246d12e9d3ca86361)  
+United States of America - Idaho; Ada County [**The Tank** ](allcaves-database.md#US-87fe02809e85c34622d2386fc87f479d)  
+United States of America - Idaho [**Arrowhead Cave** ](allcaves-database.md#US-d405227171f7bb16868ef6e408c7988d)  
+United States of America - Idaho; Bingham County [**Aviator Cave** ](allcaves-database.md#US-1ffcc5406e429b2b4aa7d42d65623a0f)  
+United States of America - Idaho; Bingham County [**Barricade Shelter Cave** ](allcaves-database.md#US-1a70b77a228607230841b8077246face)  
+United States of America - Idaho; Bingham County [**Cave Near Middle Butte** ](allcaves-database.md#US-4c4f69cec312f9a083b07f90ebc84d04)  
+United States of America - Idaho; Bingham County [**Condor Pit** ](allcaves-database.md#US-6f8ee06d36574650c46fabee32131e1c)  
+United States of America - Idaho; Bingham County [**Link Sausage Cave** ](allcaves-database.md#US-9d64fea8498f6c34549e52694f28d104)  
+United States of America - Idaho; Bingham County [**Lost Cave** ](allcaves-database.md#US-9d6363c02bcad61f73504c8ef4f07e4a)  
+United States of America - Idaho; Bingham County [**Middle Butte Cave** ](allcaves-database.md#US-9d93b2d87cbf7f14e1491a92c9d83271)  
+United States of America - Idaho; Bingham County [**Midway Caves** Twin Buttes Cave ](allcaves-database.md#US-b643b11f1782715734c46a1c5a7132d8)  
+United States of America - Idaho; Bingham County [**Moonshiner Cave** ](allcaves-database.md#US-3808f82eaa149c602042aaa9f83d7e58)  
+United States of America - Idaho; Bingham County [**North Tower Cave** ](allcaves-database.md#US-d0aa7a74148854a0f5a3a9c5f867881b)  
+United States of America - Idaho; Bingham County [**Rattlesnake Cave** ](allcaves-database.md#US-610e3340f0dc03a602290fdfcddfe89a)  
+United States of America - Idaho; Blaine County [**97 Mile Cave** ](allcaves-database.md#US-20bad0fe5ac627b810140361e5e64ac1)  
+United States of America - Idaho; Blaine County [**Bear Trap Lava Tube** ](allcaves-database.md#US-ce532f2f5d3c630242230cd4a015c2da)  
+United States of America - Idaho; Blaine County [**Chalk Cave** ](allcaves-database.md#US-42f66b6b0513245840dc1243a517a25c)  
+United States of America - Idaho; Blaine County [**Wedge Butte Cave #1/West** ](allcaves-database.md#US-2b1f071821abe90ce4e8175b28079ab9)  
+United States of America - Idaho; Blaine County [**Wedge Butte Cave #2/East** ](allcaves-database.md#US-105c3abf6fc2fd9a3329f44e6c70d343)  
+United States of America - Idaho; Bonneville County [**Mulhall Cave** ](allcaves-database.md#US-e68132b99f82b13f3fab2fbd0a62edca)  
+United States of America - Idaho; Bringham County [**College Cave** ](allcaves-database.md#US-582dd840995595b62b81228509aa6044)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Ampitheater Cave** ](allcaves-database.md#US-57a9c68c183a7b082820dfd7ffcf6ada)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Arco Tunnel** ](allcaves-database.md#US-df85cad59a4081d4f6b5738761c74529)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Boy Scout Cave** ](allcaves-database.md#US-03e84ade76dd35977e1bcc33e1ca5007)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Buffalo Caves** ](allcaves-database.md#US-43d39f0bbdd4d4bc3c0dc9ffe139d80e)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Dewdrop Cave** ](allcaves-database.md#US-fe3ec7f0a5b22b245380c6daaa43bb9d)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Great Owl Cave** ](allcaves-database.md#US-c2213e9f022a9dc1a548019cfd523b31)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Horseshoe Cave** ](allcaves-database.md#US-0af9c4f10a6774c696745c84fdbad151)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Indian Dome Cave** ](allcaves-database.md#US-9618fff9e100c969cc0a32fcbee12708)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Indian Tunnel** ](allcaves-database.md#US-cad799da5bd731af5292cd0dbebb251b)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Last Chance Cave** ](allcaves-database.md#US-b5337c7f30a081a89e4ee7aca07752a2)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Lava River Cave** ](allcaves-database.md#US-46540db40fb57030b93998bc18d1876b)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Moss Cave** ](allcaves-database.md#US-67bd329964d108b354a92ed9c44eef2e)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Natural Bridge Cave** ](allcaves-database.md#US-2f47e3290d5416775f51c39f28e786a9)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Needles Cave** ](allcaves-database.md#US-2d2f70e2cce3a5686e94bb04c0344c9b)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Surprise Cave** ](allcaves-database.md#US-182c47cfc93167aa54573d94077dcb51)  
+United States of America - Idaho; Butte County - Craters of the Moon [**Tom Thumb Tunnel** ](allcaves-database.md#US-a8da7ed7f0137d57e6693af2812db7ee)  
+United States of America - Idaho; Butte County [**Government Cave** ](allcaves-database.md#US-ff9002a0f16ff71d30f3e23fba6e3525)  
+United States of America - Idaho; Butte County [**Ice Cave #2** ](allcaves-database.md#US-47af9659f6ca5af3c98408e33a05fefd)  
+United States of America - Idaho; Butte County [**Ice Cave #3** ](allcaves-database.md#US-baf7678e7ad50d0ce8cd0e30c06f8f28)  
+United States of America - Idaho; Butte County [**Ice Cave** ](allcaves-database.md#US-99fd3852b69867fda35eada582d92b72)  
+United States of America - Idaho; Butte County [**Sunbear  Cave** ](allcaves-database.md#US-92fd811c5ad322378d6eaf46233fcd1b)  
+United States of America - Idaho; Caribou County [**Grace Ice Cave** ](allcaves-database.md#US-36c39acc6d9c6ce172eb25fe3f19df4c)  
+United States of America - Idaho; Caribou County [**Swan Lake Ice Cave** ](allcaves-database.md#US-be19d51e09e310408b8addc21bf52562)  
+United States of America - Idaho - Craters of the Moon [**North Fork Cave** ](allcaves-database.md#US-23db7216da92d270e0d1313ae5c15424)  
+United States of America - Idaho; Elmore County [**Accaregui's Cave** ](allcaves-database.md#US-e92b8fe3f737e3d57f63569f28a1286a)  
+United States of America - Idaho; Elmore County [**Dinosaur Cave** ](allcaves-database.md#US-a94cf30d9fdf774df528380ce7a66946)  
+United States of America - Idaho; Elmore County [**Eureka Cave** ](allcaves-database.md#US-09fc48d444deff182b92dc6b79167172)  
+United States of America - Idaho; Elmore County [**Ice Springs Cave** ](allcaves-database.md#US-47b61cf792db081b34df80a45ce1fefb)  
+United States of America - Idaho; Elmore County [**Interstate Cave** ](allcaves-database.md#US-4e49e868e61d02c0b45e2b2398a8a4c1)  
+United States of America - Idaho; Elmore County [**Prairie Ice Caves** ](allcaves-database.md#US-447a47dfdb7186a4f25b05853fc26053)  
+United States of America - Idaho; Elmore County [**Saint Agony's Cave** ](allcaves-database.md#US-597101bd9fe7acef7860809331fbe7be)  
+United States of America - Idaho; Fremont County [**Stalagpie Cave** ](allcaves-database.md#US-34a64bd11637bc171ed82bf686b0606f)  
+United States of America - Idaho; Gooding County [**Almost-A-Cave** ](allcaves-database.md#US-0a86ba8fe833e461aec9b1722435f2b6)  
+United States of America - Idaho; Gooding County [**Bat Cave** ](allcaves-database.md#US-12402e627a5e6a05d800dd362696cd55)  
+United States of America - Idaho; Gooding County [**Dead Hog Cave** ](allcaves-database.md#US-887c41aace5468f2330fb4afa66cc80b)  
+United States of America - Idaho; Gooding County [**Dead Horse Cave** ](allcaves-database.md#US-fc8798f70f1ddbe28fe3cadaec42ae9d)  
+United States of America - Idaho; Gooding County [**Dead Horse Extension** ](allcaves-database.md#US-24904dfe19c25df7f39f0121572fb577)  
+United States of America - Idaho; Gooding County [**Hobdey Caves** ](allcaves-database.md#US-2b45da631071bb51a809f59892747acb)  
+United States of America - Idaho; Gooding County [**Hole To Hell** ](allcaves-database.md#US-9a805f3fd334b53b01a5add3151ea950)  
+United States of America - Idaho; Gooding County [**Pigeon Coop** ](allcaves-database.md#US-159ea7f8a88fbfcb10ef5f15028edb8c)  
+United States of America - Idaho; Gooding County [**Spider Cave** ](allcaves-database.md#US-67b0644338f7ee8d957b775957811094)  
+United States of America - Idaho; Gooding County [**Survey Point Cave** ](allcaves-database.md#US-b8b44b9a345ed91b4b63dc06874229a6)  
+United States of America - Idaho; Gooding County [**Sweat Box** ](allcaves-database.md#US-918b030e9dd416fdf576df8adb047d50)  
+United States of America - Idaho; Gooding County [**Teakettle Cave** ](allcaves-database.md#US-6bd461b5295e276bad435512a23ea052)  
+United States of America - Idaho; Gooding County [**The "Y"** ](allcaves-database.md#US-2ede8761a9da82e9a3ab9b6bc91caafa)  
+United States of America - Idaho; Gooding County [**White Arrow Cave** ](allcaves-database.md#US-e3611e3007ed676ed12c5d54c0d3f1b4)  
+United States of America - Idaho; Jefferson County [**Obsenity Snake Pit Cave** ](allcaves-database.md#US-4d896949280ac5dfe84aeaa6c4096e38)  
+United States of America - Idaho; Jerome County [**Clay  Cave North** ](allcaves-database.md#US-948871fb61ba2562a0f764a23cc9e52d)  
+United States of America - Idaho; Jerome County [**Clay Cave South** ](allcaves-database.md#US-c54abb55948806a23f7bdaf2940562e2)  
+United States of America - Idaho; Jerome County [**Kimama Cave** ](allcaves-database.md#US-dd9cd8f605eb24c5aa29aab6dca768ca)  
+United States of America - Idaho; Jerome County [**Wilson Butte Cave** ](allcaves-database.md#US-03e78154d40f9b4dea3a503321a591d8)  
+United States of America - Idaho; Lincoln County [**Belly Cave** ](allcaves-database.md#US-d47d0d71520ebfdba8bfbe055f0b3bb3)  
+United States of America - Idaho; Lincoln County - Black Butte [**One On Rick's Side** Eightball ](allcaves-database.md#US-23422ab56b64fc0d70d7ffd1e76a1430)  
+United States of America - Idaho; Lincoln County [**Black Ridge Cave** ](allcaves-database.md#US-8dcc923bee30e11b716ff306996420ce)  
+United States of America - Idaho; Lincoln County [**Burley Wind Cave** ](allcaves-database.md#US-0f342b4c88e64d8d5534b4cbb0023568)  
+United States of America - Idaho; Lincoln County [**Cat Skull Cave** ](allcaves-database.md#US-efcad6e9ccac87aff637d86f8ef85248)  
+United States of America - Idaho; Lincoln County [**Diamond Cave** ](allcaves-database.md#US-0feb47ab0c0f0b61b3560838054d6a24)  
+United States of America - Idaho; Lincoln County [**Giant Arch** ](allcaves-database.md#US-7bb18911fb15b7cb890dc7d735376c59)  
+United States of America - Idaho; Lincoln County [**Gwen** ](allcaves-database.md#US-be64497c77f393bfbf3d20722ceacf37)  
+United States of America - Idaho; Lincoln County [**Gwen Extension** ](allcaves-database.md#US-6aaefc9eeb2cac5f7d545e03e62bf91f)  
+United States of America - Idaho; Lincoln County [**Gypsum  Cave** ](allcaves-database.md#US-8b7ed7dbc66272696781381c74073692)  
+United States of America - Idaho; Lincoln County [**Helen's Hidden Hideaway** Railroad Cave ](allcaves-database.md#US-963188431791ebc81807fdddedc74681)  
+United States of America - Idaho; Lincoln County [**Johnson's Caves** Johnson #1, #2, #3 ](allcaves-database.md#US-e29a89fc69939f1ea4feca8dd4be6026)  
+United States of America - Idaho; Lincoln County [**Lariat Cave** ](allcaves-database.md#US-70312c534832fe0760b04ef04ded2135)  
+United States of America - Idaho; Lincoln County [**Mabbutt Cave** ](allcaves-database.md#US-f4713b05ba8295bd2a943bdf26fd33dc)  
+United States of America - Idaho; Lincoln County [**Mammoth Cave** Mushroom Cave ](allcaves-database.md#US-1b15101e6880fcb3b5a297c0eabe8809)  
+United States of America - Idaho; Lincoln County [**Maze Cave** ](allcaves-database.md#US-d5d2614c0edabb935b4523d690715ada)  
+United States of America - Idaho; Lincoln County [**Notch Butte Cave** ](allcaves-database.md#US-9b8bf23d3e84a25fa73127689f73fc3a)  
+United States of America - Idaho; Lincoln County [**Pigeon Hole** ](allcaves-database.md#US-b56c1ea25b2c9b3c01491ada5ea9b54f)  
+United States of America - Idaho; Lincoln County [**Pot O' Gold** ](allcaves-database.md#US-f84cf29006d9a28b3e7520d3cf4e7a05)  
+United States of America - Idaho; Lincoln County [**Proctor Cave** ](allcaves-database.md#US-017211813dcfa2da857399d4df2fe34c)  
+United States of America - Idaho; Lincoln County [**Rose  Cave** ](allcaves-database.md#US-cda9a91b2c79ab6943aa4187f8c12701)  
+United States of America - Idaho; Lincoln County [**Shoshone Indian Ice Cave** ](allcaves-database.md#US-9611865016778c18c466d721073005a5)  
+United States of America - Idaho; Lincoln County [**Sliman Allot Cave** ](allcaves-database.md#US-9dbbe308ae1cf8993549549651cbbae2)  
+United States of America - Idaho; Lincoln County [**Tee Cave** ](allcaves-database.md#US-6ad69f99b6d221e74c58de54245bb08a)  
+United States of America - Idaho; Lincoln County [**The One Dave Missed** ](allcaves-database.md#US-b52e8268dbc2bd58bc7355dc88bd6a91)  
+United States of America - Idaho; Lincoln County [**The One Frank Missed** ](allcaves-database.md#US-262d8ab826e7ad50382fae920216e897)  
+United States of America - Idaho; Lincoln County [**The One That Goes** ](allcaves-database.md#US-d9d9ace26f91834aa21df337363c914f)  
+United States of America - Idaho; Lincoln County [**Tomb North** ](allcaves-database.md#US-a97d1ee6c4dfe3f77e66a048f0cfe1d6)  
+United States of America - Idaho; Lincoln County [**Tomb South** ](allcaves-database.md#US-686232f7c796884b720b9fa3eaf07c0b)  
+United States of America - Idaho; Lincoln County [**Trespass  Cave** ](allcaves-database.md#US-50337ed9dd0a5af86915993acbeabf33)  
+United States of America - Idaho; Lincoln County [**Will's Cave** ](allcaves-database.md#US-860a85505c97b703fcfb65974fa762ef)  
+United States of America - Idaho [**Mud Cave** ](allcaves-database.md#US-3efcbc3ca09d6f46031fbed7c3afde71)  
+United States of America - Idaho - Northern Rocky Mountains [**Crystal Falls Ice Cave** Crystal Falls Cave ](allcaves-database.md#US-3f249ab7f366562ed5c06e6bcb9f7dd1)  
+United States of America - Idaho; Power County [**Moss Cave** ](allcaves-database.md#US-d95190735a59541e2a6343ecdd2106a7)  
+United States of America - Idaho; Power County [**Sullivan Cave** ](allcaves-database.md#US-28ff6f91f8a04f81334a98e90a4233a5)  
+United States of America - Maui [**Mount 'Eke Sinkholes** ](allcaves-database.md#US-beafd3253c34ff28d60f2bc3630ab1cf)  
+United States of America - New Mexico; Cibola County [**Bat Cave** ](allcaves-database.md#US-5ba29a7c2c32f6fc6d33830410e1eefb)  
+United States of America - New Mexico; Cibola County [**Cerro Encierro** ](allcaves-database.md#US-f8e5cfc9a4d77312670b3b2a79874864)  
+United States of America - New Mexico; Cibola County [**Chantry Cave** ](allcaves-database.md#US-159cd1b8537fb51c4edce144b8600422)  
+United States of America - New Mexico; Cibola County [**Chantry (West) Cave** ](allcaves-database.md#US-10a554b9ac482d1babe10203012b6593)  
+United States of America - New Mexico; Cibola County [**Dripping Lava Cave** ](allcaves-database.md#US-74cbaa49b0d6530eb2bab738cfb7ff58)  
+United States of America - New Mexico; Cibola County - El Malpais [**Bandera Crater Tube** ](allcaves-database.md#US-8704a3d70946b0dfecce0b04a629db1b)  
+United States of America - New Mexico; Cibola County - El Malpais; Bandera Flow [**Brewer's Cave** ](allcaves-database.md#US-7608ba093b85b57e9f80afeaab199a2d)  
+United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area [**Big Skylight Cave** ](allcaves-database.md#US-3d7dd8b98713e0285f32bfb95293737c)  
+United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area [**Four Windows Cave** ](allcaves-database.md#US-6d78da77435d2e4f077737c4babb4cca)  
+United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area [**Giant Ice Cave** ](allcaves-database.md#US-06b3ec167f699a4da47cc445ea15d22d)  
+United States of America - New Mexico; Cibola County - El Malpais [**Deer Mountain** ](allcaves-database.md#US-3d8763e5118ce6320f755596a5ff2be9)  
+United States of America - New Mexico; Cibola County - El Malpais; El Calderon area [**Junction Cave** ](allcaves-database.md#US-344b8213c2eed1a5807b1d48939559c4)  
+United States of America - New Mexico; Cibola County - El Malpais; El Calderon area [**Xenolith Cave** ](allcaves-database.md#US-f700645fa91dedfe0efa5d4aa01765a4)  
+United States of America - New Mexico; Cibola County - El Malpais [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  
+United States of America - New Mexico; Cibola County - El Malpais [**Lava Wall Cave** Peel Bark Cave ](allcaves-database.md#US-88bf3b0eb0ff0fa2ed87501c0238d82d)  
+United States of America - New Mexico; Cibola County - El Malpais National Monument [**Braided Cave** ](allcaves-database.md#US-384919ad3aa53fcbab4fc86cc596d154)  
+United States of America - New Mexico; Cibola County - El Malpais National Monument [**Classic Cave** ](allcaves-database.md#US-9a4176029e4e5f9f22c32cf28276911c)  
+United States of America - New Mexico; Cibola County - El Malpais National Monument [**Navajo Cave** Navajo Ice Cave; Cave 29 ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
+United States of America - New Mexico; Cibola County - El Malpais National Monument [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
+United States of America - New Mexico; Cibola County - El Malpais region [**Candelaria Ice Cave** Cerro Candelaria ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
+United States of America - New Mexico; Cibola County [**Fifty Foot Pit Cave** ](allcaves-database.md#US-784f18daac788019980c6a888f59965b)  
+United States of America - New Mexico; Cibola County [**La Marchantia Cave** ](allcaves-database.md#US-6c4498d1a32df414d3601ca27983dc7a)  
+United States of America - New Mexico; Cibola County [**Lava Column Cave** ](allcaves-database.md#US-fe0db83ca23eed71214e3196aec4717d)  
+United States of America - New Mexico; Cibola County [**Loop Cave** ](allcaves-database.md#US-6ad880edf49f5e0883ed1ea4a3b74bad)  
+United States of America - New Mexico; Cibola County [**Outlaw Cave** East Outlaw Cave ](allcaves-database.md#US-dc1558fef15ea38cbf1246580363bfaa)  
+United States of America - New Mexico; Cibola County [**Twin Craters Lava Tube** ](allcaves-database.md#US-2526a49f89d685203bdd44f05216acb2)  
+United States of America - New Mexico; Colfax County [**Johnson Mesa Ice Caves** ](allcaves-database.md#US-da371959f2b877cc264179d386089189)  
+United States of America - New Mexico - El Malpais National Monument [**Bandera Volcano Ice Cave** Zuni Ice Cave ](allcaves-database.md#US-550d86c03f143647c157dcc9ff53d712)  
+United States of America - New Mexico; Lincoln County - Carrizozo [**Metate Cave** ](allcaves-database.md#US-3a560615d820267a4dea668ce1567406)  
+United States of America - New Mexico; Lincoln County [**Midden Cave** ](allcaves-database.md#US-1dc327e4edd49f524d95c325118ac334)  
+United States of America - New Mexico; Socorro County [**Bat Caves** ](allcaves-database.md#US-a22385ee6ee336354090ee8ee7f5cc7f)  
+United States of America - New Mexico; Socorro County - Jornada del Muerto [**The Hookworm** ](allcaves-database.md#US-161efe61d1da1deea5fecc8adccfb011)  
+United States of America - New Mexico; Union County [**Sierra Negras Ice Caves** ](allcaves-database.md#US-071208f9381eff1d00771f463ddac6f6)  
+United States of America - New Mexico; Union County [**South Black Jack Cave** ](allcaves-database.md#US-5ec9a2ad7b46a029f19d0b4c4c1e606c)  
+United States of America - Oregon [**Bat Cave** ](allcaves-database.md#US-fe504cdb99d8c5a9d3bcdbb11b19e796) *Part of* Arnold Lava Tube System  
+United States of America - Oregon [**Charcoal Cave #2** ](allcaves-database.md#US-ea01abfe083bf550e2268d3e68748af1) *Part of* Arnold Lava Tube System  
+United States of America - Oregon [**Charcoal Cave** ](allcaves-database.md#US-bd99c42eecf81356d7cd2c62e05f8995) *Part of* Arnold Lava Tube System  
+United States of America - Oregon [**Cody Borehole** ](allcaves-database.md#US-e26a520bea3a73a8408f4620c7b6bd16)  
+United States of America - Oregon [**Deg Cave** ](allcaves-database.md#US-d7f1dac5ecfd36a93b1d915be50a5948) *Part of* Arnold Lava Tube System  
+United States of America - Oregon; Deschutes County [**Back Flip Cave** ](allcaves-database.md#US-3a389b7ff92b69cde137802211c286f7)  
+United States of America - Oregon; Deschutes County [**Bat Crack** ](allcaves-database.md#US-b2a16036cb560af5c0cba124703630d8)  
+United States of America - Oregon; Deschutes County [**Boyd Cave** ](allcaves-database.md#US-c7f2ed2a9d2d644f4f07bd649504196b)  
+United States of America - Oregon; Deschutes County [**Charlie-the-Cave** ](allcaves-database.md#US-18db6d3fe8ad8e002310c424c91d0e59)  
+United States of America - Oregon; Deschutes County [**Chuck Hole Cave** ](allcaves-database.md#US-d72fc76f752cffb95fad12c8b5f46234)  
+United States of America - Oregon; Deschutes County [**Dendrite Cave** ](allcaves-database.md#US-9244ca122d0f1ace2a0dfde6936c2ef4)  
+United States of America - Oregon; Deschutes County [**Double Cave** ](allcaves-database.md#US-c2bc8efb70cf1d4e54db198602f00d52)  
+United States of America - Oregon; Deschutes County [**Friday Cave** ](allcaves-database.md#US-7691279c1ea6d7a668751f0a20879aeb)  
+United States of America - Oregon; Deschutes County [**Frog Pit** Fire Ladder Cave NSS-611-113](allcaves-database.md#US-NSS-611-113)  
+United States of America - Oregon; Deschutes County [**Goodest Cave** ](allcaves-database.md#US-3df5d14196995f470e0d24df4066dc44)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Airport Cave** Redmond Cave no. 6 ](allcaves-database.md#US-c53084dbb51e8ceade5d393f62b94f4a)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Barbed Wire Cave** ](allcaves-database.md#US-a3d2e598c4e1ceeee73d29c8f68de2f3)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Barlow Cave** ](allcaves-database.md#US-67587fc115b3b7ab6f764563c31934df)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Boa Holes Cave** ](allcaves-database.md#US-5d863a28d1ad5b594cbbbe1728ef2dc4)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Bone Cave** ](allcaves-database.md#US-52d6c9c196725c4bccb9c98ca7dae0f4)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Braille Cave** ](allcaves-database.md#US-252cf8772da12e1ce8245c993e3d48c6)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Cave Next Door** Redmond Cave no. 3 ](allcaves-database.md#US-7e60b6122c909060e1dbb4049a925a5e)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Crab Walk Cave** ](allcaves-database.md#US-2a2dd851ccae1c7458aca194842ad6bf)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Davenport Cave** ](allcaves-database.md#US-de1d2abec721a3cc7753cb7b57e29c96)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Distillery Cave** ](allcaves-database.md#US-b6bf5fc70b38a58d969d3a4e5a9b71e9)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Doppleganger Cave** ](allcaves-database.md#US-12553340e109aeacd2161ce662c977aa)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Garbage Cave #1** ](allcaves-database.md#US-70ab92352a4546ba2cbb404bb0597706)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Garbage Cave #2** ](allcaves-database.md#US-ff825dabc7000af66bca4b2ddb9780b4)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Hidden Cave** ](allcaves-database.md#US-15a742c7db70747bbeabf1f2ae017d23)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Horse Cave** ](allcaves-database.md#US-fc089f51233479bf6619578d850e9454)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Insignificant Redmond Cave** Redmond Cave no. 5 ](allcaves-database.md#US-b3a770a7d9f9b1b6b737f3a53a9337d7)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Knott's Road Cave** ](allcaves-database.md#US-7ba7ba3ed5448e6591f06838e50ffce2)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Lewis Farm 2 Cave** ](allcaves-database.md#US-8b3c7315f79b1eb27c492f500d9a4c9d)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Lewis Farm Caves** ](allcaves-database.md#US-d2e761cba160ef54f65c60e79687c13f)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Lions Cave** Redmond Cave no. 4 ](allcaves-database.md#US-71cecab2a6ddba332c5a95f5c098d3e0)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Mausoleum Cave** ](allcaves-database.md#US-feb66d79e38ca49f3c9a4251d5df7ff5)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Moonshiner's Cave** ](allcaves-database.md#US-ce047b7d3e2a44f263b213aab60064c2)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Munchkin** ](allcaves-database.md#US-ca907639cc5966af684e245915045389)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Mushroom Cave** ](allcaves-database.md#US-d5c127c810456a8c73608862935635cc)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Musty Cave** ](allcaves-database.md#US-be3e7f400d5f060734a4c0ffc3b0d291)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**No Account Redmond Cave** Redmond Cave no. 2 ](allcaves-database.md#US-63fc12e5f3dfa30f58ce825b590b604c)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Pronghorn 1 and 2 Caves** ](allcaves-database.md#US-bfe16981c60e2b706af887bd322473db)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Pronghorn 3 Cave** ](allcaves-database.md#US-d9a620c605510179c7240ed78a92d8c9)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Rabbit Cave** ](allcaves-database.md#US-610aa3026ac0e424cc68b801ff070155)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Ratfalls Cave** Ratt Falls Cave ](allcaves-database.md#US-56a79cc15b68a7eed8c17c83d0d5d430)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Redmond Cave** Redmond Cave no. 1 ](allcaves-database.md#US-6d93cb6af8c4665fb8fcbd0c2e2cebf6)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Redmond Railroad Cave** ](allcaves-database.md#US-93bd3e7c9118f4f196ef6557a1bb9a87)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Roadside Cave** ](allcaves-database.md#US-7c00877927cf609a28b1a2f8f2952af2)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Silent Night Cave** ](allcaves-database.md#US-7fabd478ef6377749a4ca7b127206ee1)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Stairstep** ](allcaves-database.md#US-f16027d278dfb108f8b6ca0df63c4f62)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Stephens Road Cave** ](allcaves-database.md#US-e97de256c83dddd923d2eaab10e04377)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Stepladder Cave** ](allcaves-database.md#US-0a33534ede43132b64981867ed295f5e)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Stove Cave** ](allcaves-database.md#US-2153f237d8996364ffaad99f0b6319aa)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Three Pines Cave** ](allcaves-database.md#US-7ad4999fe0aa30e004745b59e1ad2954)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Vulture Cave** ](allcaves-database.md#US-1c467b5209f538a0cd01eee1fd35da25)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Williams Cave** ](allcaves-database.md#US-d1ec028ddeae8b0a6a126a6a2d5168a7)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Wilson Cave** ](allcaves-database.md#US-62d7dc82c15d3dda609d26d430da52aa)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**X Cave** ](allcaves-database.md#US-16facf879a9d372f703ad52c405ae404)  
+United States of America - Oregon; Deschutes County - Horse Lava Tube System [**Young's Cave** ](allcaves-database.md#US-af55b6a538c7d2d502dd4c8362d281e3)  
+United States of America - Oregon; Deschutes County [**Johnson Farm 1 Cave** ](allcaves-database.md#US-5ddf29efea3b1e3fafa9435c5e61a481)  
+United States of America - Oregon; Deschutes County [**Johnson Farm 2 Cave** ](allcaves-database.md#US-4caf7db70692b894889f0299432d47e3)  
+United States of America - Oregon; Deschutes County [**Jug Cave** ](allcaves-database.md#US-ed9a4557cda2c5ca71d85e597d911ba4)  
+United States of America - Oregon; Deschutes County [**Karen's Cave** ](allcaves-database.md#US-64a88fde5d66da7bb23d43f36dcf0019)  
+United States of America - Oregon; Deschutes County [**Lavacicle Cave** ](allcaves-database.md#US-a454b88cc488c2710336ad3e3b391491)  
+United States of America - Oregon; Deschutes County [**Lost and Found Cave**](allcaves-database.md#US-c077b7b10428ab8c1620da40feab0dec)  
+United States of America - Oregon; Deschutes County [**Lost Cave** ](allcaves-database.md#US-69aeb9574a94658b464e2dacd8f5a1e2)  
+United States of America - Oregon; Deschutes County [**Matz Ice Cave** ](allcaves-database.md#US-caa650c8187a8a696d70f91d5504ddb4)  
+United States of America - Oregon; Deschutes County [**Moss Carpet Cave** ](allcaves-database.md#US-44bef64f9337c8175d4255d92b942da1)  
+United States of America - Oregon; Deschutes County [**Mushroom Cave No. 2** ](allcaves-database.md#US-35253515dbae7cabcd3d84d5b7954844)  
+United States of America - Oregon; Deschutes County - Newberry National Volcanic Monument [**Lava River Cave** ](allcaves-database.md#US-260118d73b176efe7dcbdb0524569fce)  
+United States of America - Oregon; Deschutes County - Newberry Volcano [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-c5d7d1ff312ea1bb5ed16dea777d5126) *Part of* Arnold Lava Tube System  
+United States of America - Oregon; Deschutes County [**Nice Cave** ](allcaves-database.md#US-c124712cfd1f3ff9df9740dd954ca5b3)  
+United States of America - Oregon; Deschutes County [**Pictograph Cave** ](allcaves-database.md#US-720d5f9d67fe3ac5f39f508a742ea4eb) *Part of* Arnold Lava Tube System  
+United States of America - Oregon; Deschutes County [**P Line Ice Cave** ](allcaves-database.md#US-a9025cefd1ef8b3f10f18771b5c393e1)  
+United States of America - Oregon; Deschutes County [**Round Mountain Lava Cave** ](allcaves-database.md#US-55a27ae27bbfb95d33c016130168a1fc)  
+United States of America - Oregon; Deschutes County [**Skeleton Cave** ](allcaves-database.md#US-47702b1199f0abca04de48596cb25229)  
+United States of America - Oregon; Deschutes County [**Somersault Cave** ](allcaves-database.md#US-45d1c2b3bcab98b1076353ee23d1a160)  
+United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-077de09ed873c37df0563a21580f0209)  
+United States of America - Oregon; Deschutes County [**Twin Skylight Cave** ](allcaves-database.md#US-d8cfea1c1bccc4991b4896c3640d675d)  
+United States of America - Oregon; Deschutes County [**Under the Lake Cave**](allcaves-database.md#US-7485d77c517e1355018801a31ff92025)  
+United States of America - Oregon; Deschutes County [**Walk-in-Cave** ](allcaves-database.md#US-3399e53e1c64e0712986211b27aabb2a)  
+United States of America - Oregon; Deschutes County [**Wind Cave** ](allcaves-database.md#US-816745b01ce28a6301ee8b72eaf082f8) *Part of* Arnold Lava Tube System  
+United States of America - Oregon; Deschutes County [**Wind Caves #'s 3,4,5** ](allcaves-database.md#US-44c1ae6fac5427140e36c5abb0472726)  
+United States of America - Oregon [**Edison Ice Cave** NSS-611-1](allcaves-database.md#US-NSS-611-1)  
+United States of America - Oregon; Harney County [**Jenkins Cave** ](allcaves-database.md#US-86fe9a53df6e3f84a808ece007f8845f)  
+United States of America - Oregon; Harney County [**Malheur Cave** ](allcaves-database.md#US-e8828b906eaccdccda011f3e04142b23)  
+United States of America - Oregon - Horse Lava Tube System [**Stevens Road Cave** ](allcaves-database.md#US-f925b8470bd208854b8c433998e92b65)  
+United States of America - Oregon; Lake County [**Benjamin Lake Cave** ](allcaves-database.md#US-07e6a97faadbb9daff8323691c085ad5)  
+United States of America - Oregon; Lake County [**Ben's Cave** ](allcaves-database.md#US-4bce362455c2ea976f428b561a4588b3)  
+United States of America - Oregon; Lake County [**Burnout Cave** ](allcaves-database.md#US-7b90e6798dfdd2fa46eb2dd8802e1c06)  
+United States of America - Oregon; Lake County [**Cairn Cave** ](allcaves-database.md#US-f0e76d84bbd901c159da365be8889b87)  
+United States of America - Oregon; Lake County [**Derrick Cave** ](allcaves-database.md#US-7f4877108ff73938d7b2dfe0a41ba3bf)  
+United States of America - Oregon; Lake County [**Hide-away Cave** ](allcaves-database.md#US-e8be1666f7a55b79e39be1dd8e824516)  
+United States of America - Oregon; Lake County [**Lava Knoll Cave** ](allcaves-database.md#US-7d0c1949b85e6c72f55eb72703ccf622)  
+United States of America - Oregon; Lake County [**Red Herring Cave** ](allcaves-database.md#US-70c3806c25ff43f01d94ba00a162057c)  
+United States of America - Oregon; Lake County [**Rubber Band Cave** ](allcaves-database.md#US-c96739dc3be9d1fc2da56aa7611b42c7)  
+United States of America - Oregon; Lake County [**West Vent Cave** ](allcaves-database.md#US-d5bac678bd5ab6f725189be5cb20205c)  
+United States of America - Oregon; Lane County [**Breakdown Cave** ](allcaves-database.md#US-96e515c5b20bf9e02681850c23064ec4)  
+United States of America - Oregon; Lane County [**Ectomonph Ice Cave** ](allcaves-database.md#US-25e3e82ecb5009210d9ef9bbb2f0bf44)  
+United States of America - Oregon; Lane County [**Incline Cave** ](allcaves-database.md#US-57c82916e4c1a294602599c3c5d69c65)  
+United States of America - Oregon; Lane County [**Not Much Cave** NSS-611-67](allcaves-database.md#US-NSS-611-67)  
+United States of America - Oregon; Lane County [**Obsidian Flake Ice Cave** ](allcaves-database.md#US-1f0f9174718c20e98fc09bb08c49b563)  
+United States of America - Oregon [**Lava Top Butte Ice Cave** ](allcaves-database.md#US-36ff5636a91d91486ca185370eb1669e)  
+United States of America - Oregon [**Log Crib Cave** ](allcaves-database.md#US-29028c69d69ae60010129ee4713af8a7)  
+United States of America - Oregon; Malheur County [**Baker Cave** ](allcaves-database.md#US-a61017f37369e2d24b487dd05bd7bce5)  
+United States of America - Oregon; Malheur County [**Barn Swallow Cave** ](allcaves-database.md#US-93b3100272526fc520d15effe91f95f6)  
+United States of America - Oregon; Malheur County [**Bogus Creek Cave** ](allcaves-database.md#US-e4d125259fc0bcba7ea9a27c4353c5b4)  
+United States of America - Oregon; Malheur County [**Bullet Cave** ](allcaves-database.md#US-3c5c0b1ed79cba13d88d35197531396d)  
+United States of America - Oregon; Malheur County [**Burns Cave** ](allcaves-database.md#US-7c02d7d46505784195796419347edf60)  
+United States of America - Oregon; Malheur County [**Can Cave** ](allcaves-database.md#US-dc322e2afa1bc7a90fbd2268cdae60d7)  
+United States of America - Oregon; Malheur County [**Cat Box Cave** ](allcaves-database.md#US-cd92a8e669515b2d44547cb0aa15321d)  
+United States of America - Oregon; Malheur County [**Coyote Trap Cave** ](allcaves-database.md#US-17209a72c603355847a2f20d1d0a166a)  
+United States of America - Oregon; Malheur County [**Fire Pit Cave** ](allcaves-database.md#US-fd90b5b781249c71d6bb40ddfd048187)  
+United States of America - Oregon; Malheur County [**Garbage Cave** ](allcaves-database.md#US-a9efc7a7a0e59b46893def0ae4514afd)  
+United States of America - Oregon; Malheur County [**Ghost Rock Cave** ](allcaves-database.md#US-7e12217ec6c5f235540f20db92fc7653)  
+United States of America - Oregon; Malheur County [**One Station Cave** ](allcaves-database.md#US-454f184436a237ee1eca9d8f649b81c4)  
+United States of America - Oregon; Malheur County [**Patton's Arch** ](allcaves-database.md#US-7434ca925512531c8cc0fa09eed4f025)  
+United States of America - Oregon; Malheur County - Pisgah [**Tooth Cave** ](allcaves-database.md#US-bfaa8cae60e1494349674686dfc87ff1)  
+United States of America - Oregon; Malheur County [**Rattlesnake Cave No. 2** ](allcaves-database.md#US-c4b841b65b68356f0128ec4b599bcfb7)  
+United States of America - Oregon; Malheur County [**Raven Pit** ](allcaves-database.md#US-715417258cb4d130344a5caf109b40cb)  
+United States of America - Oregon; Malheur County - Saddle Butte [**Kitty Pooh II Cave** ](allcaves-database.md#US-06990a7a914083d2b4dcf1d6225193aa)  
+United States of America - Oregon; Malheur County - Saddle Butte [**Owyhee River Cave** ](allcaves-database.md#US-90645aec81f7257c316633803d304358)  
+United States of America - Oregon; Malheur County - Saddle Butte [**Skylight Cave No. 2** ](allcaves-database.md#US-840988e22f8593bfc2d7efe0de4c841b)  
+United States of America - Oregon; Malheur County [**Tire Tube Cave** ](allcaves-database.md#US-03de49036a09c39cdaac362064e212ea)  
+United States of America - Oregon - Newberry National Monument [**Surveyor's Cave** Surveyor's Ice Cave ](allcaves-database.md#US-a27db873c5a83faa4b9afbc1cadd67e2)  
+United States of America - Oregon [**QMC Lower Cave** ](allcaves-database.md#US-4642a0a712bdb39805435f8670a04e9b)  
+United States of America - Oregon [**Santiam Pit Lava Tube** ](allcaves-database.md#US-b0e29ec6c82c10a302679cf50e4fe157)  
+United States of America - Oregon [**Stookey Ranch Cave** ](allcaves-database.md#US-b04164019f788d7316ad7053af84f113) *Part of* Arnold Lava Tube System  
+United States of America - Oregon [**Tie Cave** ](allcaves-database.md#US-b1086eab8f3a4dc1b7b58c3da20f404b)  
+United States of America - Oregon; Wasco County [**Dalles Cave** ](allcaves-database.md#US-436ab6cad25fb344994e168bb6e92710)  
+United States of America - Oregon; Washington County [**Catlin Gabel System (collapsed)** ](allcaves-database.md#US-b8b9f10679ae34e4e29fd64a3117f36e)  
+United States of America - Siskiyou County; California [**Check Out Cave** ](allcaves-database.md#US-23a62adb60a69c94062b61c27f491a85) *Part of* Water Caves  
+United States of America - Utah; Garfield County [**Bowers Cave** ](allcaves-database.md#US-4efe95556311ae2f754e52abeb195029)  
+United States of America - Utah; Garfield County [**Lost Snag Cave** Henrie Knolls Cave ](allcaves-database.md#US-0cf594da6d5f784b40de00910bd76f14)  
+United States of America - Utah; Garfield County - Markagnunt Plateau [**(Unnamed Cave)** Mathesons Cave; Alvas Cave ](allcaves-database.md#US-e01c7226641d9068269ba9ac8006f7f9) *Part of* Mammoth Cave  
+United States of America - Utah; Garfield County - Markagunt Plateau [**Mammoth Cave** ](allcaves-database.md#US-d94a20cca1c2d0fca057d192d00601a6)  
+United States of America - Utah; Kane County [**Duck Creek Lava Tube** ](allcaves-database.md#US-2774a6725fbfde48ee80ef8ee9077ff6)  
+United States of America - Utah; Millard County [**Fillmore Ice Cave** ](allcaves-database.md#US-01b461b41727b9286df30677418500c4)  
+United States of America - Utah; Washington County [**Skeleton Cave** ](allcaves-database.md#US-d500c95813c6ad153e2cfe0b7fcbefb4)  
+United States of America - Washington [**Beer Bottle Cave** ](allcaves-database.md#US-ac371cdb1acf774419d8a4f0694d3f8b)  
+United States of America - Washington [**Cemetery Cave** ](allcaves-database.md#US-c4f77b2864437d216bbef7d2916f1cd3)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Bat Cave** ](allcaves-database.md#US-39cbcd4f39738bd07f53a1eb76804d50)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Beaver Bay Cave** ](allcaves-database.md#US-089ae85a44d4fdaf409b3d3db4ca8b68)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Cliff Cave** ](allcaves-database.md#US-aa897b95af2fb3e66df97dc5ef153cb3)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Cougar Cave** ](allcaves-database.md#US-f5d4d80bd29f1056336225eb12e0b02e)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Dogwood Cave** NSS-631-012](allcaves-database.md#US-NSS-631-012)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Helium Cave** NSS-631-17A,B](allcaves-database.md#US-NSS-631-17A,B)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Hunter's Cave** ](allcaves-database.md#US-db250f31726e1f63844d0f679632ccf8)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Kim's Cave** ](allcaves-database.md#US-3bc4725f6089800f6b4729bfbff16a6b)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Lost Cave** ](allcaves-database.md#US-07c95d9f60441be8d66e0a71b7374852)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Margin Cave** ](allcaves-database.md#US-510cdd29aef599752d47bfb1eb56063c)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Pillars of Hercules Cave** ](allcaves-database.md#US-ade65fcb1c5442616f5fa5bf114f16dc)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Shortstop Cave** ](allcaves-database.md#US-5fbcd27eab694bbc9b4ee54a09d1d3fe)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Stan's Cave** ](allcaves-database.md#US-e9a6d34cf1f3939cb8fda792cf63bade)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**String Cave** ](allcaves-database.md#US-b3c0fef28b99874291e8b8a37d02522b)  
+United States of America - Washington; Cowlitz County - Mount St. Helens [**Twenty-Four Cave** ](allcaves-database.md#US-4b334123fb0107be1d4526f4c3383a1d)  
+United States of America - Washington; Klickitat County [**Caryl's Cave** ](allcaves-database.md#US-969a769ba0db8397b34c9a266da51ae1)  
+United States of America - Washington; Klickitat County [**David's Den** ](allcaves-database.md#US-3ac4efc398829d455170f03196a3fd0f)  
+United States of America - Washington; Klickitat County [**Dead Bear Cave** ](allcaves-database.md#US-04afd2526ae5cf77fbc96d82c7463588)  
+United States of America - Washington; Klickitat County [**Ditch Cave** ](allcaves-database.md#US-f8d90b3aed2c597324515ab70e03269f)  
+United States of America - Washington; Klickitat County [**Jenning's Cave** ](allcaves-database.md#US-c99f55c033c4a706a71593c45117df11)  
+United States of America - Washington; Klickitat County [**Jugs Caves System** ](allcaves-database.md#US-d267162b8bf7dc9572ce626b15b23acc)  
+United States of America - Washington; Klickitat County [**Lava Bridge East Cave** ](allcaves-database.md#US-a5468b43e3d11ddc7c9c449fac297cdf)  
+United States of America - Washington; Klickitat County [**Lava Bridge West Cave** ](allcaves-database.md#US-675ae2123f2d0910e2a34aa645be8d34)  
+United States of America - Washington; Klickitat County [**Madison's Cave** ](allcaves-database.md#US-42b747a72195c93dda201bec45068470)  
+United States of America - Washington; Klickitat County - Mt. Adams [**Massey's Barn Cave** ](allcaves-database.md#US-5422dd2dd1b0d28607f191d16401eb6a)  
+United States of America - Washington; Klickitat County [**Niskanen Cave** ](allcaves-database.md#US-b4fc8bc9df84e1a562bc6c27e39d3549)  
+United States of America - Washington; Klickitat County [**Porcupine Cave** ](allcaves-database.md#US-636a8461a3c18b138940523e470b49ad)  
+United States of America - Washington; Klickitat County [**Snowpatch Cave** ](allcaves-database.md#US-e5935790e058e429b5c62257b0c14ad6)  
+United States of America - Washington; Klickitat County [**Thanks Cave** ](allcaves-database.md#US-810be617b7be73d49ec731abcdcae09a)  
+United States of America - Washington [**Skamaniac Cave** ](allcaves-database.md#US-b01442061892a561edf755e8a6e4f0cf)  
+United States of America - Washington; Skamania County [**Apple Cave** NSS-633-24](allcaves-database.md#US-NSS-633-24)  
+United States of America - Washington; Skamania County [**Asher's Cave** Prince Charming Cave ](allcaves-database.md#US-d9d9c61cf610ac0458af0db1a4fa87c5)  
+United States of America - Washington; Skamania County [**Ash Hole Cave** NSS-633-11](allcaves-database.md#US-NSS-633-11)  
+United States of America - Washington; Skamania County [**Big Cave** ](allcaves-database.md#US-78c9b8d01e1ad8f2c5af77688bf0993c)  
+United States of America - Washington; Skamania County [**Bill's Cave** NSS-633-03](allcaves-database.md#US-NSS-633-03)  
+United States of America - Washington; Skamania County [**Breakdown Mountain Cave** ](allcaves-database.md#US-a4ddf8f1b5f1dee66b324e710fdb1e42)  
+United States of America - Washington; Skamania County [**Broken Back Cave** ](allcaves-database.md#US-bf78e1cbe5586b6ac95ee4090608ddf8)  
+United States of America - Washington; Skamania County [**Candle Cave** ](allcaves-database.md#US-87a510ff8cbd0f164387ea439f2d046d)  
+United States of America - Washington; Skamania County [**Cave B** ](allcaves-database.md#US-ee5f32d8be20f30acc5e033b4b4b82c4)  
+United States of America - Washington; Skamania County [**Chubby Bunny Cave** ](allcaves-database.md#US-6a30829938a72966bc352fefe4e6780b)  
+United States of America - Washington; Skamania County [**Clearcut Cave** ](allcaves-database.md#US-9175e712f965c35eaed235cc4bf1ca8f)  
+United States of America - Washington; Skamania County [**C.O.G. Cave** NSS-633-21](allcaves-database.md#US-NSS-633-21)  
+United States of America - Washington; Skamania County [**Cone Pickers Cave** ](allcaves-database.md#US-5c4fa0cc299a55f23851c66455686336)  
+United States of America - Washington; Skamania County [**Cougar Den Cave** NSS-633-42](allcaves-database.md#US-NSS-633-42)  
+United States of America - Washington; Skamania County [**Curly Creek Cave** ](allcaves-database.md#US-aff175d65e48442e06fecb46627c2e45)  
+United States of America - Washington; Skamania County [**Deadhorse Cave** ](allcaves-database.md#US-fc45b264d802d4eb74852ce1d0e6238f)  
+United States of America - Washington; Skamania County [**Deer Cave** ](allcaves-database.md#US-9425924c5374c2df41385874ef1b39d9)  
+United States of America - Washington; Skamania County [**Dirty Cave** ](allcaves-database.md#US-c34616711d8a6b13a5e409a038f26517)  
+United States of America - Washington; Skamania County [**Dot's Cave** ](allcaves-database.md#US-4cc24822d27f74b2f758d90d4e4c0d30)  
+United States of America - Washington; Skamania County [**Dqucaking Pika Cave** ](allcaves-database.md#US-ebd0c2317cc12d477062d628daeb813b)  
+United States of America - Washington; Skamania County [**Dry Creek Cave Annex** ](allcaves-database.md#US-cc30e35d7fb6089a29241f066900a301)  
+United States of America - Washington; Skamania County [**Dry Creek Cave** NSS-633-27](allcaves-database.md#US-NSS-633-27)  
+United States of America - Washington; Skamania County [**Falls Creek Cave** Panther Lava Cave NSS-633-204](allcaves-database.md#US-NSS-633-204)  
+United States of America - Washington; Skamania County [**Falls Creek Falls Cave** ](allcaves-database.md#US-cdf2d6a4aa1239d43a9290f383b80265)  
+United States of America - Washington; Skamania County [**Firecracker Cave** NSS-633-51](allcaves-database.md#US-NSS-633-51)  
+United States of America - Washington; Skamania County [**Flashcube Cave** NSS-633-17](allcaves-database.md#US-NSS-633-17)  
+United States of America - Washington; Skamania County [**Folgers Cave** NSS-633-213](allcaves-database.md#US-NSS-633-213)  
+United States of America - Washington; Skamania County [**Forest Sink Cave** ](allcaves-database.md#US-91439cf4d3d4097a4b45f25ec331e64c)  
+United States of America - Washington; Skamania County [**Frog Hollow Cave** NSS-633-07](allcaves-database.md#US-NSS-633-07)  
+United States of America - Washington; Skamania County [**Goose Cave** NSS-633-10](allcaves-database.md#US-NSS-633-10)  
+United States of America - Washington; Skamania County [**Gopher Hole Cave** NSS-633-09](allcaves-database.md#US-NSS-633-09)  
+United States of America - Washington; Skamania County [**Grouch Cave** ](allcaves-database.md#US-70a58a48e04c60b93670de9e76bc7b78)  
+United States of America - Washington; Skamania County [**Hairy Fungus Cave** NSS-633-04](allcaves-database.md#US-NSS-633-04)  
+United States of America - Washington; Skamania County [**Hemlock Cave** NSS-633-37](allcaves-database.md#US-NSS-633-37)  
+United States of America - Washington; Skamania County [**Ice Rink Cave** NSS-633-22](allcaves-database.md#US-NSS-633-22)  
+United States of America - Washington; Skamania County [**J.a.R. Cave** NSS-633-43](allcaves-database.md#US-NSS-633-43)  
+United States of America - Washington; Skamania County [**Layser Cave** ](allcaves-database.md#US-8e826592e90bed7f739a98bc215466d0)  
+United States of America - Washington; Skamania County [**Leaverite Cave** ](allcaves-database.md#US-68a9388d529d9ff7f8aac1f48e9a011f)  
+United States of America - Washington; Skamania County [**Lilliputian Cave** ](allcaves-database.md#US-91d15b5e5b7561ac1cad8d0d074e8e04)  
+United States of America - Washington; Skamania County [**Little Goose Canyon Caves** ](allcaves-database.md#US-bdd205c30407aa0d3585bae8e4372fff)  
+United States of America - Washington; Skamania County [**Metrecal Cave** ](allcaves-database.md#US-c0bb67d4b942a9f18c5c900946300edb)  
+United States of America - Washington; Skamania County - Mount St. Helens [**A.M. Cave** ](allcaves-database.md#US-84c5e3fc7711929cfb157cb663552343)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Ape Cave** ](allcaves-database.md#US-50f7b2ff9f755d97d2fa869dc2e1e569)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Arch Cave** ](allcaves-database.md#US-2d527f84cc745d909ca8970ac612f484)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Backbone Cave** ](allcaves-database.md#US-94b22bd36f63f56a7fdb91bd1c5a9e4b)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Barney's Cave** ](allcaves-database.md#US-75654ebe67c9f7db775baa0e7bbc21c4)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Beaver Cave** ](allcaves-database.md#US-efb3fae07ac562ff3937b4c930722fcc)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Blue Ribbon Cave** ](allcaves-database.md#US-2278127b5c0e3a022b0a45bc433c9e81)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Breakdown Cave** ](allcaves-database.md#US-9bcd541e4052a8723e0a120e26ea2734)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Column Cave** ](allcaves-database.md#US-8aa7c51df69fc0fe0e238ab2501620ed)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Cut Nose Cave** ](allcaves-database.md#US-5647081584b532625c56965860409699)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Dollar-and-a-Dime Cave** NSS-631-11](allcaves-database.md#US-NSS-631-11)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Flow Cave** ](allcaves-database.md#US-5c91c49cdb1e87b9f7d11496e18c403f)  
+United States of America - Washington; Skamania County - Mount St. Helens [**G Cave** ](allcaves-database.md#US-f103b5b916b54232cabf2a13f53d3ede)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Gremlin Cave** NSS-631-16A,B](allcaves-database.md#US-NSS-631-16A,B)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Indecision Cave** ](allcaves-database.md#US-71a70c50126e6e76d23ff57c19200985)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Joan's Cave** ](allcaves-database.md#US-52739a9d10eee855f636e3af73e82403)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Lake Cave** NSS-631-051](allcaves-database.md#US-NSS-631-051)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Lava Spring Cave** ](allcaves-database.md#US-59689b86940b512a92d5101a8f9dfb8f)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Little People Cave** NSS-631-021](allcaves-database.md#US-NSS-631-021)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Little Red River Cave** NSS-631-023](allcaves-database.md#US-NSS-631-023)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Log Crawl Cave** ](allcaves-database.md#US-a71da0242b66b8274bf1e1d98ef55811)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Low Cave** ](allcaves-database.md#US-9e36119c9238731b288ecb9af163d5fd)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Manhole Cave** ](allcaves-database.md#US-ecb1e1f757330132ba705128168408f7)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Marty's Cave** ](allcaves-database.md#US-45ecd3d75f1a74c430825ce0d485ddf2)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Mosquito Cave No. 2** ](allcaves-database.md#US-f1997e1af067f1a214d01af6c851c8f1)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Moss Cave** ](allcaves-database.md#US-55ba0a65dc911886feca61df7cec527c)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Ole's Cave** NSS-631-029](allcaves-database.md#US-NSS-631-029)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Pat's Cave** ](allcaves-database.md#US-00ad9fd7664e48a96f8f3aced3241d42)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Powerline Cave** ](allcaves-database.md#US-4da5790e01b776695f4b2b2b49fd3025)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Prince Albert Cave** ](allcaves-database.md#US-9d1813198db59002cbdd4841978341f8)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Railroad Track Cave** ](allcaves-database.md#US-dd32dd03c89de6497253d60a92729845)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Rockpile Cave** ](allcaves-database.md#US-d85a3f612fb3179e63653107011f13b1)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Salal Cave** ](allcaves-database.md#US-8a6f0fd52ee75ddab0d78456d71bbb55)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Sand Cave** Knight's Cave ](allcaves-database.md#US-d0723fffcb9b82da0afdb695ab18db8a)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Scott's Cave** ](allcaves-database.md#US-a212c8285c83c0313f41559dfb29d313)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Seashell Fungus Cave** ](allcaves-database.md#US-5e1823384fe2555ed87aec7b0030c0f7)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Spider Cave** ](allcaves-database.md#US-cedb81248b9e7404f30855cc489d0e6d)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Surprise Cave** ](allcaves-database.md#US-b4b51409ce91210fa46b2f8839904328)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Tadpole Cave** ](allcaves-database.md#US-4753e29926a30f3773cd880ed7464f1a)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Thermal Cave** ](allcaves-database.md#US-9424cef321a249c038d06e356709a6b5)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Trail Cave** ](allcaves-database.md#US-714d62824b77635014165bffa2b0fe96)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Two Column Cave** ](allcaves-database.md#US-d9a0c816d148808709f7c537f9bc1250)  
+United States of America - Washington; Skamania County - Mount St. Helens [**Warm Spring Cave** ](allcaves-database.md#US-792c2188a260b6491c0b7db4ca8dae7b)  
+United States of America - Washington; Skamania County - Mount St. Helens [**West Cave** ](allcaves-database.md#US-eba04c80ca80c92dfabdb22f6afd6f4b)  
+United States of America - Washington; Skamania County - Mt. Adams [**Big Trench Cave System** ](allcaves-database.md#US-473f3e89d1e107ed154394406a5700d5)  
+United States of America - Washington; Skamania County - Mt. Adams [**Datus Perry's Cave** ](allcaves-database.md#US-626c603cb9a3b6c74e04a98772f1222d)  
+United States of America - Washington; Skamania County - Mt. Adams [**Datus Perry's New Cave** ](allcaves-database.md#US-5abc793d1fd9f2e54061ac0905c1ab9d)  
+United States of America - Washington; Skamania County - Mt. Adams [**Fallen Arches Caves** ](allcaves-database.md#US-f7b20baf48c2e119d0062db3c1df97e0)  
+United States of America - Washington; Skamania County - Mt. Adams [**Guler Ice Cave** ](allcaves-database.md#US-f3ebfa41578dcd316016a2b8094666ae)  
+United States of America - Washington; Skamania County - Mt. Adams [**Volunteer Cave** ](allcaves-database.md#US-9375b2483ca5ab4b35898953284e62b9)  
+United States of America - Washington; Skamania County [**Mud Bath Cave** ](allcaves-database.md#US-bfe8597d80eb5255ce565f5a9c371797)  
+United States of America - Washington; Skamania County [**New Cave** ](allcaves-database.md#US-c95ddeec5621d4f67cff7112174d0f22)  
+United States of America - Washington; Skamania County [**Nielsen's Cave** ](allcaves-database.md#US-b1961b1a46ce6c519d9499b9e934cee7)  
+United States of America - Washington; Skamania County [**Overflow Cave** ](allcaves-database.md#US-bdd5d26de0f198a1d71cd198025e9676)  
+United States of America - Washington; Skamania County [**Overlook Cave** ](allcaves-database.md#US-1303b75f5aa21d63f824506758f43ffe)  
+United States of America - Washington; Skamania County [**Peterson Ridge Road Cave** ](allcaves-database.md#US-c4321063dfe92363dd666003d3c9d556)  
+United States of America - Washington; Skamania County [**Pica Ice Cave** ](allcaves-database.md#US-60b29355765785e141fbd795751685ba)  
+United States of America - Washington; Skamania County [**Pickard's Sink** NSS-633-08](allcaves-database.md#US-NSS-633-08)  
+United States of America - Washington; Skamania County [**Pickings Cave** ](allcaves-database.md#US-307c46f47486fef5fc4ca00fabb616e8)  
+United States of America - Washington; Skamania County [**Pine Martin Cave** ](allcaves-database.md#US-e44d76f87e9fd684fcd8a28fe4ee625b)  
+United States of America - Washington; Skamania County - Pisgah [**Y Cave** ](allcaves-database.md#US-9557d057b2bf7ba0386947c45ba29c80)  
+United States of America - Washington; Skamania County [**Pond Cave** ](allcaves-database.md#US-5f02dea6f31ad817b933dc0afd0d4be3)  
+United States of America - Washington; Skamania County [**Ponderosa Arch** ](allcaves-database.md#US-37e4852c5ac0825a95eff8b7f6abbbd5)  
+United States of America - Washington; Skamania County [**Quill Cave** ](allcaves-database.md#US-6e50ec60a5f1020d18cf9852cc6474c6)  
+United States of America - Washington; Skamania County [**Rabbit Hole Cave** ](allcaves-database.md#US-55e6b490aab038fbfaf3fc26c23af099)  
+United States of America - Washington; Skamania County [**Rat's Pit Cave** ](allcaves-database.md#US-2163f1a70f1208f5bcc9d2e92c334dd8)  
+United States of America - Washington; Skamania County [**Resurrection Cave** ](allcaves-database.md#US-41caf6c1c36fee53630f60b041b04846)  
+United States of America - Washington; Skamania County [**Ribbit Hole Cave** ](allcaves-database.md#US-58e2c4d96084f8c01744baf5ca0cb35e)  
+United States of America - Washington; Skamania County [**Roadside Cave** ](allcaves-database.md#US-a58d45cec4c4e8e564e6bc4294b89178)  
+United States of America - Washington; Skamania County [**Roadside Cave Annex** ](allcaves-database.md#US-450dac26dbbd1f0e52c48858667825c0)  
+United States of America - Washington; Skamania County [**Salamander Cave** ](allcaves-database.md#US-71e6827d046a258660b85277c7516cc3)  
+United States of America - Washington; Skamania County [**Sleeping Beauty Cave** Sour Grapes Cave NSS-633-019](allcaves-database.md#US-NSS-633-019)  
+United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system [**Hoarfrost Cave** NSS-633-18](allcaves-database.md#US-NSS-633-18)  
+United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system [**Sour Grapes Cave** ](allcaves-database.md#US-5b9c27c1d374d94b8ade66d0f95bbc94)  
+United States of America - Washington; Skamania County [**Slide Cave** ](allcaves-database.md#US-429adb676b9c5583d84f98bf5136e38b)  
+United States of America - Washington; Skamania County [**Slime Cave** ](allcaves-database.md#US-922214faa9917618c45e708bd1f94531)  
+United States of America - Washington; Skamania County [**Slime Cave Annex** ](allcaves-database.md#US-7c84aa5724971faa3b1fbaa124a93135)  
+United States of America - Washington; Skamania County [**Spear Point Cave** ](allcaves-database.md#US-3a40e2691ed75a3da857114dd85bef80)  
+United States of America - Washington; Skamania County [**Splash Cave** ](allcaves-database.md#US-f5e44eb7ca09dc273f49c45a71880f09)  
+United States of America - Washington; Skamania County [**Squeaking Pika Cave** ](allcaves-database.md#US-65729a6ccf6631bce237d2ae5e25f948)  
+United States of America - Washington; Skamania County [**Techno-Nine** ](allcaves-database.md#US-c9dc22122d8ad7f316de0545eed14bee)  
+United States of America - Washington; Skamania County [**The Goblet** ](allcaves-database.md#US-6280aef3e61d84a27a320f2f9c9ef6ba)  
+United States of America - Washington; Skamania County [**Three Sinks Cave** ](allcaves-database.md#US-a3e59969a6c38c616c0e99e23c93ada1)  
+United States of America - Washington; Skamania County [**Todd's Cave** ](allcaves-database.md#US-4a6d77741d5af88e3c4357e5f6429094)  
+United States of America - Washington; Skamania County [**Too Dirty Cave** ](allcaves-database.md#US-60710a6202396fc8fabb9b324f7fdbac)  
+United States of America - Washington; Skamania County [**Tooth Cave** ](allcaves-database.md#US-f4d1bb8d2fb4082562b6528997c66d5e)  
+United States of America - Washington; Skamania County [**Vine Maple Cave** ](allcaves-database.md#US-9230055fb4bed7a95ec95d8bf2504f50)  
+United States of America - Washington [**Skin Mites Cave** ](allcaves-database.md#US-2a3492a2f68c09d9bae2f4e489253ce6)  
+Vanuatu - Paama - Lopevi [**Lopevi I** ](allcaves-database.md#VU-e8c90d20f1c5bb0ffff3f09d14e5f332)  
+Vanuatu - Paama - Lopevi [**Lopevi II** ](allcaves-database.md#VU-419044d2644a3665d1ae22d965ca855e)  
+Viet Nam - Buon Choa'h [**A1** ](allcaves-database.md#VN-06d1131036092ff5a5af76bddf608b7f)  
+Viet Nam - Buon Choa'h [**C8** ](allcaves-database.md#VN-70d57f34c70fe5560144c7aa4c75a40e)  
+Viet Nam - Buon Choa'h [**C9** ](allcaves-database.md#VN-ff9825ccccbe980c6711a67d222afde7)  
+Viet Nam - Buon Choa'h [**P11** ](allcaves-database.md#VN-ae83368ba3972f2c01c69f823fcdef5e)  
+Viet Nam - Buon Choa'h [**P1, P2** ](allcaves-database.md#VN-9ce0d6d339cca65d27e4ec3f492c5ded)  
+Viet Nam - Buon Choa'h [**P3** ](allcaves-database.md#VN-c60c188b9ded679d492426add1fddaf5)  
+Viet Nam - Buon Choa'h [**P5 (PT07)** ](allcaves-database.md#VN-2d6b3ae46e129ac79b479c3d5540d3a6)  
+Viet Nam - Buon Choa'h [**T1W** ](allcaves-database.md#VN-a03236f81547b12146796f262b7e0a57)  
+Viet Nam - Dak Dro [**PT06** ](allcaves-database.md#VN-91a30f2b8bc2c6e7e7dc4f2a5f7be624)  
+Viet Nam - Dak Sor [**C0** ](allcaves-database.md#VN-e4e0b8742911bfff10e7cd340a14435e)  
+Viet Nam - Dak Sor [**C1, C2** ](allcaves-database.md#VN-4f38624c74a105874977af7af0deee98)  
+Viet Nam - Dak Sor [**C3** ](allcaves-database.md#VN-ef16277508651e74ba260f711e85b185)  
+Viet Nam - Dak Sor [**C4** ](allcaves-database.md#VN-282b48e06e319e5b3cd4daafd11145a6)  
+Viet Nam - Dak Sor [**C6** ](allcaves-database.md#VN-d7befb214f67c6d32ccc9f3c7196c820)  
+Viet Nam - Nam Da [**C6.1** ](allcaves-database.md#VN-e29e335ed0cf4891122c022dda23ca53)  
+Viet Nam - Nam Da [**C7** ](allcaves-database.md#VN-9c8957b15d1d30e31c53f8f3ad4ecf33)  
+Viet Nam - Nam Da [**P10E, P10W** ](allcaves-database.md#VN-835442bf37f073d33a4fa61a182d3966)  
+Viet Nam - Nam Da [**P20** ](allcaves-database.md#VN-332e5988abbce5af77945d02409d3e04)  
+Viet Nam - Nam Da [**P8** ](allcaves-database.md#VN-f449c80ef79fbc48aad94683824745b4)  
+

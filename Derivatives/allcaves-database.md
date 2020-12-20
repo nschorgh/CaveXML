@@ -1,7 +1,7 @@
 All entries in allcaves-database.xml  
 ------------------------------------  
 2202 records  
-All text and links are automatically generated.  
+All text and links are automatically generated from the CaveXML database.  
 
 
 ---  
@@ -37,7 +37,7 @@ Austria
 *Cave Name(s):* **Feuertal-Eishöhle**  
 *altitude:* 1718  
 *Contents:* permanent ice  
-  *Part of* Schönberg-Höhlensystem  
+ *Part of* [Schönberg-Höhlensystem](allcaves-database.md#AT-1626/300)  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 
 ---  
@@ -109,7 +109,7 @@ Austria - Salzburg - Tennengebirge
 *Coordinates:* 47.49500, +13.28922 *altitude:* 2110  
 *Length:* ~4600m *Vertical extent:* 420m   
 *Contents:* permanent ice  
-  *Part of* Eiskogel-Richter-Höhle  
+ *Part of* Eiskogel-Richter-Höhle  
 [https://de.wikipedia.org/wiki/Eiskogelh%C3%B6hle](https://de.wikipedia.org/wiki/Eiskogelh%C3%B6hle)   
 *Cave use:* guided tourist cave  
 
@@ -130,7 +130,7 @@ Austria - Salzburg; Grödig - Untersberg
 *Coordinates:* 47.72792, +13.00858 *altitude:* 1391  
 *Length:* 38000m   
 *Contents:* permanent ice  
-  *Part of* Gamslöcher-Kolowrat-Höhlensystem  
+ *Part of* [Gamslöcher-Kolowrat-Höhlensystem](allcaves-database.md#AT-1339/1)  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 
 ---  
@@ -153,7 +153,7 @@ Austria - Salzburg - Untersberg
 *Cave Name(s):* **Salzburgerschacht** *Id:* 1339/69  
 *Length:* ~6000m   
   *Rock type:* limestone   
-  *Part of* Gamslöcher-Kolowrat-Höhlensystem  
+ *Part of* [Gamslöcher-Kolowrat-Höhlensystem](allcaves-database.md#AT-1339/1)  
 [https://www.zobodat.at/pdf/HdN_9_0175-0183.pdf](https://www.zobodat.at/pdf/HdN_9_0175-0183.pdf)   
 
 ---  
@@ -302,7 +302,7 @@ Germany - Reiteralm, Berchtesgaden Alps
 Germany - Reiteralm; Berchtesgaden Alps  
 *Cave Name(s):* **Eisrohrhöhle**  
 *Contents:* permanent ice  
-  *Part of* Eisrohrhöhle-Bammelschacht-System  
+ *Part of* Eisrohrhöhle-Bammelschacht-System  
 [Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6](https://doi.org/10.1016/B978-0-12-811739-2.00017-6)   
 
 ---  
@@ -656,7 +656,7 @@ Montenegro - Prokletije Mountains
 *Length:* 572m *Vertical extent:* 207m   
 *Contents:* permanent ice  
 *Comments:* the other branch is T5  
-  *Part of* 03061-T5 Cave system  
+ *Part of* [03061-T5 Cave system](allcaves-database.md#ME-03067)  
 [Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0](https://doi.org/10.1016/B978-0-12-811739-2.00014-0)   
 
 ---  
@@ -667,7 +667,7 @@ Montenegro - Prokletije Mountains
 *Length:* 560m *Vertical extent:* 176m   
 *Contents:* permanent ice  
 *Comments:* the other branch is 03061  
-  *Part of* 03061-T5 Cave system  
+ *Part of* [03061-T5 Cave system](allcaves-database.md#ME-03067)  
 [Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0](https://doi.org/10.1016/B978-0-12-811739-2.00014-0)   
 
 ---  
@@ -991,7 +991,7 @@ Norway - Hellemofjord
   *Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* deepest cave in Scandinavia; lies north of Arctic Circle  
-  *Part of* Tysfjord complex  
+ *Part of* Tysfjord complex  
 [Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1](https://doi.org/10.1016/B978-0-12-811739-2.00023-1)   
 [Lauritzen et al. (1991) http://www.speleo.no/dannelse/rjr.doc](http://www.speleo.no/dannelse/rjr.doc)   
 [https://en.wikipedia.org/wiki/Raggejavreraige](https://en.wikipedia.org/wiki/Raggejavreraige)   
@@ -1250,7 +1250,7 @@ Poland - Tatra Mountains
 *Length:* 460m *Vertical extent:* 150m   
 *Contents:* permanent ice  
 *Comments:* congelation ice  
-  *Part of* Ptasia Studnia  
+ *Part of* Ptasia Studnia  
 [Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3](https://doi.org/10.1016/B978-0-12-811739-2.00024-3)   
 
 ---  
@@ -1372,7 +1372,7 @@ Poland - Tatra Mountains
   *Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* recrystallized snow, congelation ice  
-  *Part of* Jaskinia Wielka Śnieżna  
+ *Part of* [Jaskinia Wielka Śnieżna](allcaves-database.md#PL-a58dae9905316a9ad16ff980d78ccf71)  
 [Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3](https://doi.org/10.1016/B978-0-12-811739-2.00024-3)   
 
 ---  
@@ -3236,7 +3236,7 @@ Russia - Lake Baikal
 *Cave Name(s):* **Ryadovaya**  
 *Length:* 450m *Vertical extent:* 57m   
 *Contents:* permanent ice  
-  *Part of* Cave System Aya-Ryadovaya  
+ *Part of* Cave System Aya-Ryadovaya  
 Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves  
 
 ---  
@@ -3330,7 +3330,7 @@ Uzbekistan - Surxondaryo Province - Baisun region; Hodja-Gur-Gur-Ata
 *Vertical extent:* 800m   
   *Rock type:* limestone   
 *Contents:* permanent ice  
-  *Part of* Festival'naya-Ledopadnaya  
+ *Part of* [Festival'naya-Ledopadnaya](allcaves-database.md#UZ-a4a49f658eed269c81d80dfdd7d05aef)  
 [Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8](https://doi.org/10.1016/B978-0-12-811739-2.00021-8)   
 Tsurikhin et al. (2014) Cave and Karst Sci. 41(1), 36  
 
@@ -4754,7 +4754,7 @@ United States of America - Oregon; Deschutes County - Newberry Volcano
 *Length:* 49m   
   *Cave type:* lava tunnel   
 *Contents:* permanent ice  
-  *Part of* Arnold Lava Tube System  
+ *Part of* Arnold Lava Tube System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1285](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1285)   
 [Knutson (1976) www.vulcanospeleology.org/sym01/ISV1x08.pdf](http://www.vulcanospeleology.org/sym01/ISV1x08.pdf)   
 Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"  
@@ -5062,7 +5062,7 @@ United States of America - Oregon
 *Cave Name(s):* **Bat Cave**  
 *Length:* 166m   
   *Rock type:* basalt   *Cave type:* lava tunnel   
-  *Part of* Arnold Lava Tube System  
+ *Part of* Arnold Lava Tube System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1281](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1281)   
 Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"  
 
@@ -5248,7 +5248,7 @@ United States of America - California; Shasta County
 *Cave Name(s):* **Big Cave**  
 *Length:* 1030m   
   *Rock type:* basalt   *Cave type:* lava tunnel   
-  *Part of* Popcorn Cave System  
+ *Part of* Popcorn Cave System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=426](https://rpif.asu.edu/LTdatabase/result.php?RECNO=426)   
 
 ---  
@@ -5440,7 +5440,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Blue Grotto**  
 *Length:* 470m   
   *Cave type:* lava tunnel   
-  *Part of* Labyrinth Cave System  
+ *Part of* [Labyrinth Cave System](allcaves-database.md#US-2d45c8abbfb537ad997856a0b9a0b68c)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=559](https://rpif.asu.edu/LTdatabase/result.php?RECNO=559)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -5546,7 +5546,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Boulevard Cave** *Id:* B200  
 *Length:* 140m   
   *Cave type:* lava tunnel   
-  *Part of* Boulevard Caves  
+ *Part of* [Boulevard Caves](allcaves-database.md#US-da3a59c861e26dc0f7e850e987ede3e4)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=522](https://rpif.asu.edu/LTdatabase/result.php?RECNO=522)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 [https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf](https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf)   
@@ -5558,7 +5558,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **East Boulevard Cave** *Id:* B210  
 *Length:* 64m   
   *Cave type:* lava tunnel   
-  *Part of* Boulevard Caves  
+ *Part of* [Boulevard Caves](allcaves-database.md#US-da3a59c861e26dc0f7e850e987ede3e4)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=523](https://rpif.asu.edu/LTdatabase/result.php?RECNO=523)   
 [https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf](https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf)   
 
@@ -5568,7 +5568,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Boulevard Bridge** *Id:* B190  
 *Length:* 12m   
   *Cave type:* lava tunnel   
-  *Part of* Boulevard Caves  
+ *Part of* [Boulevard Caves](allcaves-database.md#US-da3a59c861e26dc0f7e850e987ede3e4)  
 [https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf](https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf)   
 
 ---  
@@ -6035,7 +6035,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Catacombs Cave**  
 *Length:* 2104m   
   *Cave type:* lava tunnel   
-  *Part of* Paradise Alleys-Catacombs Cave system  
+ *Part of* Paradise Alleys-Catacombs Cave system  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=560](https://rpif.asu.edu/LTdatabase/result.php?RECNO=560)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -6326,7 +6326,7 @@ United States of America - Oregon
 *Cave Name(s):* **Charcoal Cave #2**  
 *Length:* 144m   
   *Rock type:* basalt   *Cave type:* lava tunnel   
-  *Part of* Arnold Lava Tube System  
+ *Part of* Arnold Lava Tube System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1283](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1283)   
 Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"  
 
@@ -6335,7 +6335,7 @@ Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"
 United States of America - Oregon  
 *Cave Name(s):* **Charcoal Cave**  
   *Rock type:* basalt   *Cave type:* lava tunnel   
-  *Part of* Arnold Lava Tube System  
+ *Part of* Arnold Lava Tube System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1286](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1286)   
 Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"  
 
@@ -6352,7 +6352,7 @@ United States of America - Siskiyou County; California
 *Cave Name(s):* **Check Out Cave**  
 *Length:* 104m   
   *Cave type:* lava tunnel   
-  *Part of* Water Caves  
+ *Part of* [Water Caves](allcaves-database.md#US-f068d144c85fbc801e7fca6b4d277dcc)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=642](https://rpif.asu.edu/LTdatabase/result.php?RECNO=642)   
 
 ---  
@@ -8016,7 +8016,7 @@ United States of America - Oregon
 *Cave Name(s):* **Deg Cave**  
 *Length:* 187m   
   *Rock type:* basalt   *Cave type:* lava tunnel   
-  *Part of* Arnold Lava Tube System  
+ *Part of* Arnold Lava Tube System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1290](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1290)   
 Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"  
 
@@ -8871,7 +8871,7 @@ Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"
 United States of America - California; Siskiyou County - Lava Beds National Monument  
 *Cave Name(s):* **Garden Bridges Cave**  
   *Cave type:* lava tunnel   
-  *Part of* Labyrinth Cave System  
+ *Part of* [Labyrinth Cave System](allcaves-database.md#US-2d45c8abbfb537ad997856a0b9a0b68c)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=568](https://rpif.asu.edu/LTdatabase/result.php?RECNO=568)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 
@@ -9114,7 +9114,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Golden Dome Cave**  
 *Length:* 679m   
   *Cave type:* lava tunnel   
-  *Part of* Labyrinth Cave System  
+ *Part of* [Labyrinth Cave System](allcaves-database.md#US-2d45c8abbfb537ad997856a0b9a0b68c)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=569](https://rpif.asu.edu/LTdatabase/result.php?RECNO=569)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -9867,7 +9867,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Hercules Leg Cave**  
 *Length:* 594m   
   *Cave type:* lava tunnel   
-  *Part of* Hercules Leg-Juniper Cave  
+ *Part of* Hercules Leg-Juniper Cave  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=571](https://rpif.asu.edu/LTdatabase/result.php?RECNO=571)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -10027,7 +10027,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Hopkins Chocolate Cave**  
 *Length:* 428m   
   *Cave type:* lava tunnel   
-  *Part of* Labyrinth Cave System  
+ *Part of* [Labyrinth Cave System](allcaves-database.md#US-2d45c8abbfb537ad997856a0b9a0b68c)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=562](https://rpif.asu.edu/LTdatabase/result.php?RECNO=562)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -10748,7 +10748,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Juniper Cave**  
 *Length:* 720m   
   *Cave type:* lava tunnel   
-  *Part of* Hercules Leg-Juniper Cave  
+ *Part of* Hercules Leg-Juniper Cave  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=658](https://rpif.asu.edu/LTdatabase/result.php?RECNO=658)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -11369,7 +11369,7 @@ Japan - Nagasaki
 United States of America - Hawaii - Hawaii Island; Mauna Loa  
 *Cave Name(s):* **Kula Kai Caverns**  
   *Rock type:* basalt   *Cave type:* lava tunnel   
-  *Part of* Kipuka Kanohina  
+ *Part of* [Kipuka Kanohina](allcaves-database.md#US-7964f1c4e54a6550c79189ebfd3ea0cb)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=949](https://rpif.asu.edu/LTdatabase/result.php?RECNO=949)   
 *Cave use:* guided tourist cave  
 
@@ -11477,7 +11477,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Labyrinth Cave**  
 *Length:* 378m   
   *Cave type:* lava tunnel   
-  *Part of* Labyrinth Cave System  
+ *Part of* [Labyrinth Cave System](allcaves-database.md#US-2d45c8abbfb537ad997856a0b9a0b68c)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=573](https://rpif.asu.edu/LTdatabase/result.php?RECNO=573)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -11565,7 +11565,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Lava Brook Cave**  
 *Length:* 262m   
   *Cave type:* lava tunnel   
-  *Part of* Labyrinth Cave System  
+ *Part of* Labyrinth Cave System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=585](https://rpif.asu.edu/LTdatabase/result.php?RECNO=585)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -12210,7 +12210,7 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 *Cave Name(s):* **Man Eatin' Cave**  
 *Length:* 261m   
   *Cave type:* lava tunnel   
-  *Part of* Water Caves  
+ *Part of* [Water Caves](allcaves-database.md#US-f068d144c85fbc801e7fca6b4d277dcc)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=643](https://rpif.asu.edu/LTdatabase/result.php?RECNO=643)   
 
 ---  
@@ -13647,7 +13647,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Paradise Alleys Cave**  
 *Length:* 300m   
   *Rock type:* basalt   *Cave type:* lava tunnel   
-  *Part of* Paradise Alleys-Catacombs Cave system  
+ *Part of* Paradise Alleys-Catacombs Cave system  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=657](https://rpif.asu.edu/LTdatabase/result.php?RECNO=657)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -13816,7 +13816,7 @@ United States of America - Oregon; Deschutes County
 *Cave Name(s):* **Pictograph Cave**  
 *Length:* 549m   
   *Cave type:* lava tunnel   
-  *Part of* Arnold Lava Tube System  
+ *Part of* Arnold Lava Tube System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1284](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1284)   
 Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"  
 
@@ -13943,7 +13943,7 @@ United States of America - Washington; Skamania County
 United States of America - California; Shasta County  
 *Cave Name(s):* **Popcorn Cave**  
   *Cave type:* lava tunnel   
-  *Part of* Popcorn Cave System  
+ *Part of* Popcorn Cave System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=457](https://rpif.asu.edu/LTdatabase/result.php?RECNO=457)   
 
 ---  
@@ -15177,7 +15177,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Nirvana Cave** *Id:* B130  
 *Length:* 164m   
   *Cave type:* lava tunnel   
-  *Part of* Purgatory-Nirvana  
+ *Part of* Purgatory-Nirvana  
 [https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf](https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf)   
 
 ---  
@@ -15186,7 +15186,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Purgatory Cave** *Id:* B150  
 *Length:* 100m   
   *Cave type:* lava tunnel   
-  *Part of* Purgatory-Nirvana  
+ *Part of* Purgatory-Nirvana  
 [https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf](https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf)   
 
 ---  
@@ -15919,7 +15919,7 @@ United States of America - Oregon
 *Cave Name(s):* **Stookey Ranch Cave**  
 *Length:* 186m   
   *Cave type:* lava tunnel   
-  *Part of* Arnold Lava Tube System  
+ *Part of* Arnold Lava Tube System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1282](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1282)   
 Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"  
 
@@ -16468,7 +16468,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave Name(s):* **Thunderbolt Cave**  
 *Length:* 781m   
   *Cave type:* lava tunnel   
-  *Part of* Labyrinth Cave System  
+ *Part of* Labyrinth Cave System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=598](https://rpif.asu.edu/LTdatabase/result.php?RECNO=598)   
 *Cave use:* self-guided tourist cave  
 
@@ -16837,7 +16837,7 @@ Spain - Las Palmas - Lanzarote; Canary Islands
 *Length:* 1570m   
   *Cave type:* lava tunnel   
 *Comments:* underwater portion of Cueva de los Verdes (Corona Lava Tube)  
-  *Part of* Cueva de los Verdes  
+ *Part of* [Cueva de los Verdes](allcaves-database.md#ES-bb17af197bec3dffd9cf28019ec67809)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1147](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1147)   
 
 ---  
@@ -17013,7 +17013,7 @@ United States of America - Utah; Garfield County - Markagnunt Plateau
 *Length:* 876m   
   *Cave type:* lava tunnel   
 *Comments:* Quaternary  
-  *Part of* Mammoth Cave  
+ *Part of* Mammoth Cave  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1565](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1565)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1566](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1566)   
 
@@ -17623,7 +17623,7 @@ United States of America - Oregon; Deschutes County
 *Cave Name(s):* **Wind Cave**  
 *Length:* 1170m   
   *Cave type:* lava tunnel   
-  *Part of* Arnold Lava Tube System  
+ *Part of* Arnold Lava Tube System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1280](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1280)   
 Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"  
 

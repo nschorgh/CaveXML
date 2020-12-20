@@ -33,10 +33,13 @@ def output_one_line_md(item):
     if outstr:
         f.write(' - ' + outstr)
 
+    uid = generate_unique_id(item)
+    f.write(" [")                                  # open link
+        
     pcn = item.find('principal-cave-name')
     if pcn is not None:
         if pcn.text is not None:
-            f.write(' **' + pcn.text + '** ')
+            f.write('**' + pcn.text + '** ')
     
     ocn = item.findall('other-cave-name')
     outstr = merge_elements(ocn)
@@ -48,6 +51,8 @@ def output_one_line_md(item):
     if outstr is not None:
         f.write(' ' + outstr)
 
+    f.write("](allcaves-database.md#" + uid + ")" ) # close link
+        
     alt = item.findall('altitude')
     outstr = merge_elements(alt)
     if outstr:
@@ -61,7 +66,7 @@ def output_one_line_md(item):
     length = item.find('length')
     number = 0
     if length is not None:
-        number = parse_ExtendedUnsignedInteger(length.text)
+        number, approx, qual = parse_ExtendedUnsignedInteger(length.text)
     #if number is not None:
     #    f.write(' '+str(number)+'m')
         
@@ -83,10 +88,10 @@ for item in root.findall('record'):
 
     alt = item.findall('altitude') 
     minmax = parse_AltitudeEntry(alt)
-    if minmax[1]>=3000:
-        pass
-    else:
-        continue
+    #if minmax[1]>=3000:
+    #    pass
+    #else:
+    #    continue
 
     
     ###

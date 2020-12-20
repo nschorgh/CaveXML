@@ -39,7 +39,7 @@ def output_one_line_md(item):
     pcn = item.find('principal-cave-name')
     if pcn is not None:
         if pcn.text is not None:
-            f.write('**' + pcn.text + '** ')
+            f.write('**' + pcn.text + '**')
     
     ocn = item.findall('other-cave-name')
     outstr = merge_elements(ocn)
@@ -55,8 +55,8 @@ def output_one_line_md(item):
         
     alt = item.findall('altitude')
     outstr = merge_elements(alt)
-    if outstr:
-        f.write(' ' + outstr + 'm')
+    #if outstr:
+    #    f.write(' ' + outstr + 'm')
 
     cavsys = item.find('cave-system') 
     if cavsys is not None:
@@ -80,8 +80,8 @@ for item in root.findall('record'):
 
     ### downselect
     
-    if is_this_an_ice_cave(item):
-    #if is_this_an_ice_cave(item) and is_this_a_lava_tube(item):
+    #if is_this_an_ice_cave(item):
+    if is_this_an_ice_cave(item) and is_this_a_lava_tube(item):
         pass
     else:
         continue

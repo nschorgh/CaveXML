@@ -496,3 +496,101 @@ def generate_unique_id(item):
     return uniid
 
 
+
+# functions used to cross-link cave systems and branch names
+
+def find_all_indices(value, qlist):
+    # find indices of ALL matches ('find' only finds the first match)
+    indices = [n for n,x in enumerate(qlist) if x==value ]
+    return indices
+
+    
+    
+def cross_load_data(root):
+    # store some entries from each record
+    
+    pcnlist = []
+    conlist = []
+    uidlist = []
+    syslist = []
+    list_of_lists = []  # list of list of branchnames
+
+    for item in root.findall('record'):
+
+        pcn = item.find('principal-cave-name')
+        con = item.find('country-name')
+        try: # fails if pcn or pcn.text is empty
+            pcnlist.append(pcn.text) 
+            conlist.append(con.text)
+        except:
+            pcnlist.append('') 
+            conlist.append('')
+
+        uid = generate_unique_id(item)
+        uidlist.append(uid)
+        
+        try:
+            out = item.find('cave-system')
+            syslist.append(out.text)
+        except:
+            syslist.append('')
+    
+        bran = item.findall('branch-name')
+        branchlist_short = []
+        for i in range(0,len(bran)):
+            brastr = bran[i].text
+            branchlist_short.append(brastr)
+        if len(bran)>0:
+            list_of_lists.append(branchlist_short)
+        else:
+            list_of_lists.append('')
+        
+    return pcnlist, conlist, uidlist, syslist, list_of_lists
+
+
+
+def cross_link_cavsys(i, conlist, pcnlist, cavsys, list_of_lists, uidlist):
+    # link cave-system entry
+    if len(cavsys)>0:
+        #print(pcnlist[i],'belongs to',cavsys)
+        idxs = find_all_indices(cavsys, pcnlist)
+        
+        for ii in idxs: # go through all records with matching principal name
+            if conlist[i] != conlist[ii]:
+                continue  # skip if not in same country
+            if pcnlist[i] in list_of_lists[ii]: # branch in cavesys points back to pcn
+                uid_link = uidlist[ii]
+                #print('... and cavesys',uidlist[i],'points back to branch',uid_link)
+                #print('... and cavesys',pcnlist[ii],'points back to branch',pcnlist[i])
+                return uid_link
+
+    return ''
+
+
+
+def cross_link_branch(i, conlist, pcnlist, bralist, uidlist):
+    # link branch-name entries
+    bra_link = []
+    if len(bralist)>0:
+        #print(pcnlist[i],'has branches',bralist)
+        for k in range(0,len(bralist)):
+            crosslink_made = False
+            idxs = find_all_indices(bralist[k], pcnlist)
+            for ii in idxs: # go through all records with matching principal name
+                if conlist[i] != conlist[ii]:
+                    continue  # skip if not in same country
+                if bralist[k] == pcnlist[ii]:
+                    uid_link = uidlist[ii]
+                    #print('... and branch',uid_link,'points back to cavesys',uidlist[i])
+                    #print('... and branch',bralist[k],'points back to cavesys',pcnlist[i])
+                    bra_link.append(uid_link)
+                    crosslink_made = True
+            if crosslink_made is False:
+                bra_link.append(None)  # bralist and bra_link must have the same length
+
+    return bra_link  # a list
+                    
+
+
+
+

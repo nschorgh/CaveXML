@@ -14,8 +14,8 @@ CaveXML is a data interchange format for the purpose of facilitating scientific 
    `Utilities/cavexml2kml.py`	  (converts coordinates in CaveXML entries into KML format)  
    `Utilities/cavexml2md.py`         (creates list of entries in Markdown format)  
    `Utilities/cavexml2web.py`         (outputs full records in HTML format)  
-   `Utilities/cavexml-numeric.py`	    (parses quasi-numerical entries)  
-   `Utilities/cavexml.py`	    (some useful Python functions for CaveXML)  
+   `Utilities/cavexml-numeric.py`	    (parses and outputs quasi-numerical entries)  
+   `Utilities/cavexml.py`	    (useful Python functions for CaveXML)  
    `Utilities/cavexml-warnings.py`   (Python program that issues informative warnings)   
    `Utilities/reorder.xslt`    		 (sorts elements within each record)  
        

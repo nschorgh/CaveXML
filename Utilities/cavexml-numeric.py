@@ -50,26 +50,30 @@ for item in root.findall('record'):
     
     alt = item.findall('altitude') 
     minmax = parse_AltitudeEntry(alt)
-    record_nr.append(minmax[0])
-    record_nr.append(minmax[1])
-
+    if abs(minmax[0]) != 99999:
+        record_nr.append(minmax[0])
+        record_nr.append(minmax[1])
+    else:
+        record_nr.append("")
+        record_nr.append("")
+        
     length = item.find('length') # maxOccurs=1, EUI
     if length is not None:
-        number = parse_ExtendedUnsignedInteger(length.text)
+        number, approx, qual = parse_ExtendedUnsignedInteger(length.text)
         record_nr.append(number)
     else:
         record_nr.append("")
 
     vex = item.find('vertical-extent') # maxOccurs=1, EUI
     if vex is not None:
-        number = parse_ExtendedUnsignedInteger(vex.text)
+        number, approx, qual = parse_ExtendedUnsignedInteger(vex.text)
         record_nr.append(number)
     else:
         record_nr.append("")
 
     nre = item.find('number-of-entrances') # maxOccurs=1, EUI
     if nre is not None:
-        number = parse_ExtendedUnsignedInteger(nre.text)
+        number, approx, qual = parse_ExtendedUnsignedInteger(nre.text)
         record_nr.append(number)
     else:
         record_nr.append("")
@@ -80,4 +84,5 @@ for item in root.findall('record'):
 
 
 thenumbers.close()
+print('Wrote file tmp-numeric.csv')
 print('Number of records:', count)

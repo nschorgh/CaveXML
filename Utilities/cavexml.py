@@ -22,20 +22,20 @@ def merge_elements(stuff):
 
 def parse_ExtendedUnsignedInteger(eui):
     if eui is None:
-        return
+        return None, None, None
 
     # test whether input is ExtendedUnsignedInteger
     matched = re.fullmatch("[~>]?[0-9]+[+]?", eui.strip())
     if matched is None:
-        print('Error:',eui,'is not an ExtendedUnsignedInteger')
-        return
+        print('Warning:',eui,'is not an ExtendedUnsignedInteger')
+        return None, None, None
 
     # extract number
     number = [int(s) for s in re.findall(r'\b\d+\b',eui)]
     number = number[0]
 
     # set defaults
-    qualifier = ''
+    qualifier = None
     approx = False
 
     # determine meaning of characters, if present
@@ -50,13 +50,13 @@ def parse_ExtendedUnsignedInteger(eui):
         if last_char == '+':
             qualifier = '+'
             
-    #print(eui,qualifier,number,approx)
-    return number
+    #print('EUI:',eui,number,approx,qualifier)
+    return number, approx, qualifier
 
 
 
 def parse_AltitudeEntry(alt):
-
+    # this function always returns two numbers
     lownumber = +99999; highnumber = -99999
 
     for i in range(0,len(alt)):
@@ -76,22 +76,20 @@ def parse_AltitudeEntry(alt):
             else:  # ExtendedUnsignedInteger optionally followed by comment
                 outstr = outstr.strip()
                 if len(outstr.split(' '))>1:  
-                    outstr = outstr.split(' ')[0]  # strip comment to make it an EUI
-                number = parse_ExtendedUnsignedInteger(outstr)
+                    outstr = outstr.split(' ')[0]  # strip comment
+                number, approx, qual = parse_ExtendedUnsignedInteger(outstr)
                 if number<lownumber:
                     lownumber = number
                 if number>highnumber:
                     highnumber = number
+                #if qual=='>' or qual=='+':
+                #    highnumber = +99999
                 
     if lownumber>highnumber and lownumber!=+99999:
         swap = highnumber
         highnumber = lownumber
         lownumber = swap
 
-    if lownumber==+99999 and highnumber==-99999:
-        lownumber=''
-        highnumber=''
-        
     return lownumber, highnumber
 
 
@@ -107,12 +105,12 @@ def parse_cave_id(caveid):
     outstr = caveid.text
     if outstr is not None:
         try:
-            org = outstr.split('-')[0]  # 3-letter organization code
+            org = outstr.split('-')[0]  # organization code
             re.compile("[A-Z]{3,4}", org)  # fails if it doesn't match
-            id  = outstr.split('-')[1]
+            id  = outstr.split('-')[1]  # (incorrect if 2nd hyphen present)
         except:  # no organization given
             org = ''
-            id  = outstr.split('-')[0]
+            id  = outstr
 
     return org, id
 
@@ -141,23 +139,6 @@ def is_this_a_lava_tube(record):
                     return True
 
     return False
-
-
-
-def is_coord_approximate(latlon):
-    # Latitude or longitude are approximate if they have no more than one digit
-    # after the decimal point. Returns Boolean.
-    approx = False
-    if latlon is not None: # Tag present (but could be empty)
-        if latlon.text is not None:
-            try:
-                latlon_float = float(latlon.text)
-                if int(10*latlon_float)==10*latlon_float:
-                    approx = True
-            except:
-                pass
-
-    return approx
 
 
 

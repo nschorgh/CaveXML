@@ -240,7 +240,8 @@
       "branch-name": "Gamslöcher",
       "branch-name": "Salzburgerschacht",
       "reference": "Die Höhle 57 (2006)",
-      "reference": "Die Höhle 61 (2010); Die Höhle 63 (2012)",
+      "reference": "Die Höhle 61 (2010)",
+      "reference": "Die Höhle 63 (2012)",
       "reference": "Neubauer (2010) DOI:10.5038/1827-806X.40.2.4",
       "reference": "https://hoehle.org/laengste-tiefste",
       "reference": "Bieniok et al. (2011) doi:10.5038/1827-806X.40.2.4"
@@ -1722,20 +1723,24 @@
     {
       "country-name": "Norway",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Hellemofjord",
       "principal-cave-name": "Råggejavre-Raige",
       "other-cave-name": "RJR",
       "other-cave-name": "Pit-tarn Cave",
-      "latitude": [],
-      "longitude": [],
-      "altitude": "80 lower entrances",
-      "length": " >1900",
-      "vertical-extent": [],
+      "latitude": 67.8777,
+      "longitude": 16.2508,
+      "altitude": "80 lower entrance",
+      "length": " >1915",
+      "vertical-extent": 580,
       "number-of-entrances": 2,
+      "rock-type": "limestone",
       "cave-type": [],
       "contents": "permanent ice",
+      "comments": "deepest cave in Scandinavia; lies north of Arctic Circle",
       "cave-system": "Tysfjord complex",
-      "reference": "Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1"
+      "reference": "Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1",
+      "reference": "Lauritzen et al. (1991) http://www.speleo.no/dannelse/rjr.doc",
+      "reference": "https://en.wikipedia.org/wiki/Raggejavreraige"
     },
 
     {
@@ -6744,26 +6749,6 @@
     {
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
-      "state-or-province": "Cibola County",
-      "phys-area-name": "El Malpais region",
-      "principal-cave-name": "Candelaria Ice Cave",
-      "other-cave-name": "Cerro Candelaria",
-      "latitude": [],
-      "longitude": [],
-      "altitude": "~2400",
-      "length": 12300,
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "contents": "permanent ice",
-      "comments": "ice deposit estimated to be 3kyr old",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1193",
-      "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
-      "reference": "Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "New Mexico",
       "phys-area-name": "El Malpais National Monument",
       "principal-cave-name": "Bandera Volcano Ice Cave",
       "other-cave-name": "Zuni Ice Cave",
@@ -7564,9 +7549,10 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Across-the-road Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=751"
     },
@@ -7743,6 +7729,7 @@
       "phys-area-name": [],
       "principal-cave-name": "An Hufhuf",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1452"
     },
@@ -10957,16 +10944,6 @@
       "country-name": "Spain",
       "state-or-province": "Santa Cruz de Tenerife",
       "phys-area-name": "Tenerife",
-      "principal-cave-name": "Cueva de Candelania",
-      "length": 125,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1488"
-    },
-
-    {
-      "country-name": "Spain",
-      "state-or-province": "Santa Cruz de Tenerife",
-      "phys-area-name": "Tenerife",
       "principal-cave-name": "Cueva de Chiguergue",
       "length": 1000,
       "cave-type": "lava tunnel",
@@ -11179,9 +11156,10 @@
       "state-or-province": "Santa Cruz de Tenerife",
       "phys-area-name": "Tenerife",
       "principal-cave-name": "Cueva de la Candelaria",
-      "length": 400,
+      "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1494"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1494",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1488"
     },
 
     {
@@ -12084,7 +12062,8 @@
       "state-or-province": "Santa Cruz de Tenerife",
       "phys-area-name": "Canary Islands; El Hierro Island",
       "principal-cave-name": "Cuevas de Guinea",
-      "length": [],
+      "length": 57,
+      "vertical-extent": 9,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1476",
       "reference": "Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf"
@@ -13786,13 +13765,16 @@
       "state-or-province": "Jeju",
       "phys-area-name": "Mt. Halla",
       "principal-cave-name": "Gim Nyeong",
+      "other-cave-name": "김녕굴",
+      "other-cave-name": "Gimnyeonggul",
       "other-cave-name": "Gimyong Cave",
-      "other-cave-name": "Sakull Cave",
+      "other-cave-name": "Sagul Cave",
       "other-cave-name": "Snake Cave",
-      "length": [],
+      "length": 705,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=673",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=680"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=680",
+      "reference": "https://en.wikipedia.org/wiki/Gimnyeonggul"
     },
 
     {
@@ -16007,6 +15989,7 @@
       "other-cave-name": "Jones Cave",
       "other-cave-name": "John Jones Ice Cave",
       "length": 805,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=491"
     },
@@ -17465,6 +17448,7 @@
       "phys-area-name": "Craters of the Moon",
       "principal-cave-name": "Lava River Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1031"
     },
@@ -17473,10 +17457,12 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
+      "phys-area-name": "Newberry National Volcanic Monument",
       "principal-cave-name": "Lava River Cave",
       "length": 2370,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1275",
+      "reference": "https://en.wikipedia.org/wiki/Lava_River_Cave",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -18274,8 +18260,9 @@
     {
       "country-name": "Korea, Republic of",
       "state-or-province": "Jeju",
-      "phys-area-name": "Jeju Island; Mt. Hanra",
+      "phys-area-name": "Jeju Island; Mt. Hanra; Geomunoreum",
       "principal-cave-name": "Man Jang Gul",
+      "other-cave-name": "만장굴",
       "other-cave-name": "Manjanggul",
       "other-cave-name": "Red Dragon Cave",
       "length": 8928,
@@ -18285,6 +18272,7 @@
       "contents": "many bats",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=682",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=674",
+      "reference": "https://en.wikipedia.org/wiki/Manjanggul",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -22868,9 +22856,12 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Sleeping Beauty Cave",
-      "length": 107,
+      "other-cave-name": "Sour Grapes Cave",
+      "cave-id": "NSS-633-019",
+      "length": 1130,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1676"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1676",
+      "reference": "https://oregongrotto.com/troutlake.shtml"
     },
 
     {
@@ -24289,7 +24280,7 @@
     {
       "country-name": "Russia",
       "state-or-province": "Kamchatka",
-      "phys-area-name": [],
+      "phys-area-name": "Tolbachik",
       "principal-cave-name": "To-9601/02",
       "cave-id": "5536/16010-11",
       "latitude": 55.61883,
@@ -24305,7 +24296,7 @@
     {
       "country-name": "Russia",
       "state-or-province": "Kamchatka",
-      "phys-area-name": [],
+      "phys-area-name": "Tolbachik",
       "principal-cave-name": "To-9603",
       "cave-id": "5536/16010-10",
       "length": 25,
@@ -24316,7 +24307,7 @@
     {
       "country-name": "Russia",
       "state-or-province": "Kamchatka",
-      "phys-area-name": [],
+      "phys-area-name": "Tolbachik",
       "principal-cave-name": "To-9604",
       "cave-id": "5536/16010-9",
       "length": 25,
@@ -24327,7 +24318,7 @@
     {
       "country-name": "Russia",
       "state-or-province": "Kamchatka",
-      "phys-area-name": [],
+      "phys-area-name": "Tolbachik",
       "principal-cave-name": "To-9605",
       "cave-id": "5536/16010-8",
       "length": 12,
@@ -24338,7 +24329,7 @@
     {
       "country-name": "Russia",
       "state-or-province": "Kamchatka",
-      "phys-area-name": [],
+      "phys-area-name": "Tolbachik",
       "principal-cave-name": "To-9606",
       "cave-id": "5536/16010-7",
       "length": 15,
@@ -24364,7 +24355,7 @@
     {
       "country-name": "Russia",
       "state-or-province": "Kamchatka",
-      "phys-area-name": [],
+      "phys-area-name": "Tolbachik",
       "principal-cave-name": "To-9608",
       "length": 23,
       "cave-type": "lava tunnel",
@@ -24374,7 +24365,7 @@
     {
       "country-name": "Russia",
       "state-or-province": "Kamchatka",
-      "phys-area-name": [],
+      "phys-area-name": "Tolbachik",
       "principal-cave-name": "To-9609",
       "cave-id": "5536/16010-4",
       "length": 97,
@@ -24385,7 +24376,7 @@
     {
       "country-name": "Russia",
       "state-or-province": "Kamchatka",
-      "phys-area-name": [],
+      "phys-area-name": "Tolbachik",
       "principal-cave-name": "To-9610",
       "cave-id": "5536/16010-3",
       "length": 185,
@@ -24396,7 +24387,7 @@
     {
       "country-name": "Russia",
       "state-or-province": "Kamchatka",
-      "phys-area-name": [],
+      "phys-area-name": "Tolbachik",
       "principal-cave-name": "To-9611",
       "cave-id": "5536/16010-2",
       "length": 22,
@@ -24407,7 +24398,7 @@
     {
       "country-name": "Russia",
       "state-or-province": "Kamchatka",
-      "phys-area-name": [],
+      "phys-area-name": "Tolbachik",
       "principal-cave-name": "To-9612",
       "cave-id": "5536/16010-1",
       "length": 65,
@@ -24914,26 +24905,6 @@
     },
 
     {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "Shasta County",
-      "principal-cave-name": "(Unnamed Cave #1)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=454"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "Shasta County",
-      "principal-cave-name": "(Unnamed Cave #2)",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=455"
-    },
-
-    {
       "country-name": "Iceland",
       "state-or-province": [],
       "phys-area-name": [],
@@ -24950,6 +24921,7 @@
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "Upper Bird Park Cave",
+      "other-cave-name": "Kipuka Puaula Cave",
       "length": 150,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=760"
@@ -26648,6 +26620,28 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "Bunnell and Liebman (1992) http://www.vulcanospeleology.org/sym06/ISV6x06.pdf"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": "Santa Cruz de Tenerife",
+      "phys-area-name": "Canary Islands; El Hierro Island; Tanganasoga volcano",
+      "principal-cave-name": "Sima Las Palomas",
+      "length": 300,
+      "vertical-extent": 75,
+      "cave-type": "lava tunnel",
+      "reference": "Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": "Santa Cruz de Tenerife",
+      "phys-area-name": "Canary Islands; El Hierro Island",
+      "principal-cave-name": "Cave of Mocan",
+      "altitude": 1100,
+      "length": 214,
+      "cave-type": "lava tunnel",
+      "reference": "Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf"
     },
 
     {

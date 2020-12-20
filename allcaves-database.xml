@@ -228,7 +228,8 @@
       <branch-name>Gamslöcher</branch-name>
       <branch-name>Salzburgerschacht</branch-name>
       <reference>Die Höhle 57 (2006)</reference>
-      <reference>Die Höhle 61 (2010); Die Höhle 63 (2012)</reference>
+      <reference>Die Höhle 61 (2010)</reference>
+      <reference>Die Höhle 63 (2012)</reference>
       <reference>Neubauer (2010) DOI:10.5038/1827-806X.40.2.4</reference>
       <reference>https://hoehle.org/laengste-tiefste</reference>
       <reference>Bieniok et al. (2011) doi:10.5038/1827-806X.40.2.4</reference>
@@ -1624,20 +1625,24 @@
    <record>
       <country-name>Norway</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Hellemofjord</phys-area-name>
       <principal-cave-name>Råggejavre-Raige</principal-cave-name>
       <other-cave-name>RJR</other-cave-name>
       <other-cave-name>Pit-tarn Cave</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude>80 lower entrances</altitude>
-      <length> >1900</length>
-      <vertical-extent/>
+      <latitude>67.8777</latitude>
+      <longitude>16.2508</longitude>
+      <altitude>80 lower entrance</altitude>
+      <length> >1915</length>
+      <vertical-extent>580</vertical-extent>
       <number-of-entrances>2</number-of-entrances>
+      <rock-type>limestone</rock-type>
       <cave-type/>
       <contents>permanent ice</contents>
+      <comments>deepest cave in Scandinavia; lies north of Arctic Circle</comments>
       <cave-system>Tysfjord complex</cave-system>
       <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
+      <reference>Lauritzen et al. (1991) http://www.speleo.no/dannelse/rjr.doc</reference>
+      <reference>https://en.wikipedia.org/wiki/Raggejavreraige</reference>
    </record>
    <record>
       <country-name>Norway</country-name>
@@ -6350,26 +6355,6 @@
       <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
       <reference>Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156</reference>
    </record>
-
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>New Mexico</state-or-province>
-      <state-or-province>Cibola County</state-or-province>
-      <phys-area-name>El Malpais region</phys-area-name>
-      <principal-cave-name>Candelaria Ice Cave</principal-cave-name>
-      <other-cave-name>Cerro Candelaria</other-cave-name>
-      <latitude/>
-      <longitude/>
-      <altitude>~2400</altitude>
-      <length>12300</length>
-      <rock-type>basalt</rock-type>
-      <cave-type>lava tunnel</cave-type>
-      <contents>permanent ice</contents>
-      <comments>ice deposit estimated to be 3kyr old</comments>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1193</reference>
-      <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
-      <reference>Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156</reference>
-   </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>New Mexico</state-or-province>
@@ -7117,9 +7102,10 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Across-the-road Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=751</reference>
    </record>
@@ -7280,6 +7266,7 @@
       <phys-area-name/>
       <principal-cave-name>An Hufhuf</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1452</reference>
    </record>
@@ -10204,15 +10191,6 @@
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva de Candelania</principal-cave-name>
-      <length>125</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1488</reference>
-   </record>
-   <record>
-      <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de Chiguergue</principal-cave-name>
       <length>1000</length>
       <cave-type>lava tunnel</cave-type>
@@ -10406,9 +10384,10 @@
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de la Candelaria</principal-cave-name>
-      <length>400</length>
+      <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1494</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1488</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -11225,7 +11204,8 @@
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cuevas de Guinea</principal-cave-name>
-      <length/>
+      <length>57</length>
+      <vertical-extent>9</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1476</reference>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
@@ -12775,13 +12755,16 @@
       <state-or-province>Jeju</state-or-province>
       <phys-area-name>Mt. Halla</phys-area-name>
       <principal-cave-name>Gim Nyeong</principal-cave-name>
+      <other-cave-name>김녕굴</other-cave-name>
+      <other-cave-name>Gimnyeonggul</other-cave-name>
       <other-cave-name>Gimyong Cave</other-cave-name>
-      <other-cave-name>Sakull Cave</other-cave-name>
+      <other-cave-name>Sagul Cave</other-cave-name>
       <other-cave-name>Snake Cave</other-cave-name>
-      <length/>
+      <length>705</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=673</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=680</reference>
+      <reference>https://en.wikipedia.org/wiki/Gimnyeonggul</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -14803,6 +14786,7 @@
       <other-cave-name>Jones Cave</other-cave-name>
       <other-cave-name>John Jones Ice Cave</other-cave-name>
       <length>805</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=491</reference>
    </record>
@@ -16131,6 +16115,7 @@
       <phys-area-name>Craters of the Moon</phys-area-name>
       <principal-cave-name>Lava River Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1031</reference>
    </record>
@@ -16138,10 +16123,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Newberry National Volcanic Monument</phys-area-name>
       <principal-cave-name>Lava River Cave</principal-cave-name>
       <length>2370</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1275</reference>
+      <reference>https://en.wikipedia.org/wiki/Lava_River_Cave</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
@@ -16866,8 +16853,9 @@
    <record>
       <country-name>Korea, Republic of</country-name>
       <state-or-province>Jeju</state-or-province>
-      <phys-area-name>Jeju Island; Mt. Hanra</phys-area-name>
+      <phys-area-name>Jeju Island; Mt. Hanra; Geomunoreum</phys-area-name>
       <principal-cave-name>Man Jang Gul</principal-cave-name>
+      <other-cave-name>만장굴</other-cave-name>
       <other-cave-name>Manjanggul</other-cave-name>
       <other-cave-name>Red Dragon Cave</other-cave-name>
       <length>8928</length>
@@ -16877,6 +16865,7 @@
       <contents>many bats</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=682</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=674</reference>
+      <reference>https://en.wikipedia.org/wiki/Manjanggul</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
@@ -21048,9 +21037,12 @@
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
       <principal-cave-name>Sleeping Beauty Cave</principal-cave-name>
-      <length>107</length>
+      <other-cave-name>Sour Grapes Cave</other-cave-name>
+      <cave-id>NSS-633-019</cave-id>
+      <length>1130</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1676</reference>
+      <reference>https://oregongrotto.com/troutlake.shtml</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -22341,7 +22333,7 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Tolbachik</phys-area-name>
       <principal-cave-name>To-9601/02</principal-cave-name>
       <cave-id>5536/16010-11</cave-id>
       <latitude>55.61883</latitude>
@@ -22356,7 +22348,7 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Tolbachik</phys-area-name>
       <principal-cave-name>To-9603</principal-cave-name>
       <cave-id>5536/16010-10</cave-id>
       <length>25</length>
@@ -22366,7 +22358,7 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Tolbachik</phys-area-name>
       <principal-cave-name>To-9604</principal-cave-name>
       <cave-id>5536/16010-9</cave-id>
       <length>25</length>
@@ -22376,7 +22368,7 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Tolbachik</phys-area-name>
       <principal-cave-name>To-9605</principal-cave-name>
       <cave-id>5536/16010-8</cave-id>
       <length>12</length>
@@ -22386,7 +22378,7 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Tolbachik</phys-area-name>
       <principal-cave-name>To-9606</principal-cave-name>
       <cave-id>5536/16010-7</cave-id>
       <length>15</length>
@@ -22410,7 +22402,7 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Tolbachik</phys-area-name>
       <principal-cave-name>To-9608</principal-cave-name>
       <length>23</length>
       <cave-type>lava tunnel</cave-type>
@@ -22419,7 +22411,7 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Tolbachik</phys-area-name>
       <principal-cave-name>To-9609</principal-cave-name>
       <cave-id>5536/16010-4</cave-id>
       <length>97</length>
@@ -22429,7 +22421,7 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Tolbachik</phys-area-name>
       <principal-cave-name>To-9610</principal-cave-name>
       <cave-id>5536/16010-3</cave-id>
       <length>185</length>
@@ -22439,7 +22431,7 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Tolbachik</phys-area-name>
       <principal-cave-name>To-9611</principal-cave-name>
       <cave-id>5536/16010-2</cave-id>
       <length>22</length>
@@ -22449,7 +22441,7 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Tolbachik</phys-area-name>
       <principal-cave-name>To-9612</principal-cave-name>
       <cave-id>5536/16010-1</cave-id>
       <length>65</length>
@@ -22911,24 +22903,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1566</reference>
    </record>
    <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <state-or-province>Shasta County</state-or-province>
-      <principal-cave-name>(Unnamed Cave #1)</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=454</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <state-or-province>Shasta County</state-or-province>
-      <principal-cave-name>(Unnamed Cave #2)</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=455</reference>
-   </record>
-   <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
       <phys-area-name/>
@@ -22944,6 +22918,7 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
       <principal-cave-name>Upper Bird Park Cave</principal-cave-name>
+      <other-cave-name>Kipuka Puaula Cave</other-cave-name>
       <length>150</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=760</reference>
@@ -24497,7 +24472,27 @@
       <cave-type>lava tunnel</cave-type>
       <reference>Bunnell and Liebman (1992) http://www.vulcanospeleology.org/sym06/ISV6x06.pdf</reference>
    </record>
-   
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife</state-or-province>
+      <phys-area-name>Canary Islands; El Hierro Island; Tanganasoga volcano</phys-area-name>
+      <principal-cave-name>Sima Las Palomas</principal-cave-name>
+      <length>300</length>
+      <vertical-extent>75</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
+   </record>
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife</state-or-province>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
+      <principal-cave-name>Cave of Mocan</principal-cave-name>
+      <altitude>1100</altitude>
+      <length>214</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
+   </record>
+
    <record>
      <country-name>Moon</country-name>
      <phys-area-name>Marius Hills; Oceanus Procellarum</phys-area-name>

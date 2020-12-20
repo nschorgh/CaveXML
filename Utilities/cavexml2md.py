@@ -80,8 +80,8 @@ for item in root.findall('record'):
 
     ### downselect
     
-    #if is_this_an_ice_cave(item):
-    if is_this_an_ice_cave(item) and is_this_a_lava_tube(item):
+    if is_this_an_ice_cave(item):
+    #if is_this_an_ice_cave(item) and is_this_a_lava_tube(item):
         pass
     else:
         continue

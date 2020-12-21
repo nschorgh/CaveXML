@@ -9,15 +9,17 @@ CaveXML is a data interchange format for the purpose of facilitating scientific 
    `allcaves-database.xml`  (Master version of the database in native format)  
    `Derivatives/allcaves-database.csv`  (csv version of the database generated from the XML version)  
    `Derivatives/allcaves-database.json` (JSON version of the database generated from the XML version)  
+   `Derivatives/allcaves-database.md` (Full records in Markdown format, generated from the XML version)  
    `cavexml-db-table.css`	  (minimalist Style Sheet so the XML database can be viewed in a webbrowser)  
-   `Utilities/cavexml2csv.py`         (converts database to comma-separated-values using Python)  
+   `Utilities/cavexml2csv.py`     (converts database to comma-separated-values using Python)  
    `Utilities/cavexml2kml.py`	  (converts coordinates in CaveXML entries into KML format)  
-   `Utilities/cavexml2md.py`         (creates list of entries in Markdown format)  
-   `Utilities/cavexml2web.py`         (outputs full records in HTML format)  
-   `Utilities/cavexml-numeric.py`	    (parses and outputs quasi-numerical entries)  
-   `Utilities/cavexml.py`	    (useful Python functions for CaveXML)  
+   `Utilities/cavexml2md.py`      (creates list of entries in Markdown format)  
+   `Utilities/cavexml2md-full.py` (creates allcaves-database.md)  
+   `Utilities/cavexml2web.py`     (outputs full records in HTML format)  
+   `Utilities/cavexml-numeric.py` (parses and outputs quasi-numerical entries)  
+   `Utilities/cavexml.py`	  (useful Python functions for CaveXML)  
    `Utilities/cavexml-warnings.py`   (Python program that issues informative warnings)   
-   `Utilities/reorder.xslt`    		 (sorts elements within each record)  
+   `Utilities/reorder.xslt`    	  (sorts elements within each record)  
        
 
 This is a pilot project to explore the capabilities of a CaveXML implementation end-to-end. The actual database is for demonstration, and mainly contains ice caves and lava tubes.

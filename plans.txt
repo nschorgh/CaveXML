@@ -1,0 +1,46 @@
+PLANS as of Dec 20, 2020
+
+Currently, I plan to find solutions to the following issues:
+
+* Character sets: One one hand we like to use characters from local languages, 
+on the other hand, we only want to use ASCII characters for searches. I plan 
+to look into character sets and functions that translate between them.
+
+* Pre-processing to optimize searches. I just implemented automatic cross-linking 
+of cave branches that are connected with one another. This is done on-the-fly 
+in a Python program before a search is executed, but this is not ideal for 
+larger databases or for semi-public databases that can be searched but not 
+downloaded as a whole. Perhaps the solution is to introduce an augmented XML 
+label set, where the cross-liking is already performed and stored in additional
+XML elements.
+
+* I am wondering whether "partially submerged" should be allowed in the 
+contents field, and how this could be combined with perennially and 
+intermittently submerged.
+
+* Plan to write a single function that converts DOIs and potentially hyper-
+linkable references into actual hyperlinks. So far I have patchwork solutions.
+
+
+DONE
+
+* Earlier in December, I decided to use a hash function to create unique record
+identifiers. I implemented this using the MD5 hashlib function in Python. As a
+result, records can now be linked and cross-linked.
+
+* The cave types recommended by UISIC made limited sense to me, so I took the
+liberty to revise that list of options. The paper by Ek (2001) was very helpful
+in this regard. First, I realized there is no complete uniformly accepted
+classification of caves. Second, a classification criterion needs to be chosen;
+I chose that criterion to be the formation process. Classification by morphology 
+would be helpful too, but I could not find a good one in the literature. I have 
+some thoughts/notes on cave types, if anyone is interested to discuss them.
+(On that note, the term "rock shelter" is phenomenally ambiguous. It's a class
+based on formation process, but also used for a class based on morphology. And
+for someone who isn't familiar with either definition, it holds yet another
+meaning.)
+
+* ...
+
+
+-Norbert

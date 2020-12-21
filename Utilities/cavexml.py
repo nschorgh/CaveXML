@@ -5,10 +5,11 @@
 
 
 import re  # Regular Expressions
+import hashlib  # only used in generate_unique_id
 
 
 def merge_elements(stuff):
-    # merges repeat XML elements, useful for flattenig database
+    # merges repeat XML elements, useful for flattenig the database
     if stuff:  #if stuff is not None and len(stuff)>0:
         outstr = stuff[0].text
         for i in range(1,len(stuff)):  # merge multiple entries
@@ -460,8 +461,6 @@ def country2alpha2(countryname):
 
 
 
-import hashlib  # only used in generate_unique_id
-
 def generate_unique_id(item):
     # generate identification string, which is unqiue for a record
 
@@ -497,7 +496,18 @@ def generate_unique_id(item):
 
 
 
-# functions used to cross-link cave systems and branch names
+def generate_maplink(latitude, longitude, country):
+    # generate hyperlink to Google maps
+    googlemaplink = 'https://maps.google.com/?ll=' + latitude +',' + longitude
+    if country == 'Moon':
+        googlemaplink = 'https://www.google.com/moon/#lat=' + latitude +'&lon=' + longitude
+    if country == 'Mars':
+        googlemaplink = 'https://www.google.com/mars/#lat=' + latitude +'&lon=' + longitude
+    return googlemaplink
+
+
+
+# Functions used to cross-link cave systems and branch names
 
 def find_all_indices(value, qlist):
     # find indices of ALL matches ('find' only finds the first match)
@@ -591,6 +601,6 @@ def cross_link_branch(i, conlist, pcnlist, bralist, uidlist):
     return bra_link  # a list
                     
 
-
+# end of functions used to cross-link cave systems and branch names
 
 

@@ -8,7 +8,7 @@ All text and links are automatically generated from the CaveXML database.
 <a name="AT-1511/24"></a>
 Austria - Salzburg - Tennengebirge  
 *Cave Name(s):* **Eisriesenwelt** *Id:* 1511/24  
-[*Coordinates:* 47.511, +13.193](https://maps.google.com/?ll=47.511,13.193) *altitude:* 1657  
+*Coordinates:* [47.511, +13.193](https://maps.google.com/?ll=47.511,13.193) *altitude:* 1657  
 *Length:*  >42000m *Vertical extent:* 407m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -23,7 +23,7 @@ Austria - Salzburg - Tennengebirge
 <a name="AT-1626/300"></a>
 Austria - Steiermark; Oberösterreich - Totes Gebirge  
 *Cave Name(s):* **Schönberg-Höhlensystem** *Id:* 1626/300  
-[*Coordinates:* 47.718, +13.787](https://maps.google.com/?ll=47.718,13.787) *altitude:* 1459-1933  
+*Coordinates:* [47.718, +13.787](https://maps.google.com/?ll=47.718,13.787) *altitude:* 1459-1933  
 *Length:* 149123m *Vertical extent:* 1061m *Number of entrances:* 34  
 *Contents:* permanent ice  
 *Comments:* perennial ice found near entrances of Feuertal-Eishöhle, Raucherkarhöhle, and Altarkögerlhöhle  
@@ -44,18 +44,18 @@ Austria
 <a name="AT-1547/9"></a>
 Austria - Oberösterreich - Dachstein  
 *Cave Name(s):* **Dachstein-Mammuthöhle** *Id:* 1547/9  
-[*Coordinates:* 47.534, +13.708](https://maps.google.com/?ll=47.534,13.708) *altitude:* 927-1828; 1391 main entrance  
+*Coordinates:* [47.534, +13.708](https://maps.google.com/?ll=47.534,13.708) *altitude:* 927-1828; 1391 main entrance  
 *Length:* 67437m *Vertical extent:* 1207m *Number of entrances:* 21  
 *Contents:* permanent ice  
 *Comments:* perennial ice near western entrance (Westeingang) 1391masl  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
-Die Höhle #55 7-2004  
+[Plan and Xaver (2010) https://www.zobodat.at/pdf/Hoehle_061_0018-0038.pdf](https://www.zobodat.at/pdf/Hoehle_061_0018-0038.pdf)   
 
 ---  
 <a name="AT-eaf2df599f9ab8eaeb58177bbc1b7e0d"></a>
 Austria  
 *Cave Name(s):* **Hundsalm Eis- und Tropfsteinhöhle**  
-[*Coordinates:* 47.545, +12.027](https://maps.google.com/?ll=47.545,12.027)   
+*Coordinates:* [47.545, +12.027](https://maps.google.com/?ll=47.545,12.027)   
 *Contents:* permanent ice  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 
@@ -83,8 +83,9 @@ Austria - Steiermark - Schneealpe
 *Cave Name(s):* **Schneeloch** *Id:* 1851/7  
 *altitude:* 1440  
 *Length:* 721m *Vertical extent:* 68m   
+*Rock type:* limestone   
 *Contents:* permanent ice  
-Die Höhle #61 1-4/2010  
+[Herrman et al. (2010) Die Höhle #61 https://www.zobodat.at/pdf/Hoehle_061_0057-0072.pdf](https://www.zobodat.at/pdf/Hoehle_061_0057-0072.pdf)   
 
 ---  
 <a name="AT-c2369e977cf59d9412da3dbb46eea2a5"></a>
@@ -106,7 +107,7 @@ Austria - Sengsengebirge
 <a name="AT-1511/101"></a>
 Austria - Salzburg - Tennengebirge  
 *Cave Name(s):* **Eiskogelhöhle** Eiskogel-Tropfsteinhöhle *Id:* 1511/101  
-[*Coordinates:* 47.49500, +13.28922](https://maps.google.com/?ll=47.49500,13.28922) *altitude:* 2110  
+*Coordinates:* [47.49500, +13.28922](https://maps.google.com/?ll=47.49500,13.28922) *altitude:* 2110  
 *Length:* ~4600m *Vertical extent:* 420m   
 *Contents:* permanent ice  
  *Part of* Eiskogel-Richter-Höhle  
@@ -117,7 +118,7 @@ Austria - Salzburg - Tennengebirge
 <a name="AT-59edd1c93f95d518e53cc7030567f60c"></a>
 Austria - Tirol - Tennengebirge  
 *Cave Name(s):* **Hundalm Eishöhle** Hundalm Eis- und Tropfsteinhöhle  
-[*Coordinates:* 47.5450, +12.0264](https://maps.google.com/?ll=47.5450,12.0264) *altitude:* 1515  
+*Coordinates:* [47.5450, +12.0264](https://maps.google.com/?ll=47.5450,12.0264) *altitude:* 1515  
 *Length:* 264m *Vertical extent:* 55m   
 *Contents:* permanent ice  
 [https://de.wikipedia.org/wiki/Hundalm-Eish%C3%B6hle](https://de.wikipedia.org/wiki/Hundalm-Eish%C3%B6hle)   
@@ -127,7 +128,7 @@ Austria - Tirol - Tennengebirge
 <a name="AT-fce037bdb47bef79ab6306b200041f35"></a>
 Austria - Salzburg; Grödig - Untersberg  
 *Cave Name(s):* **Kolowrathöhle**  
-[*Coordinates:* 47.72792, +13.00858](https://maps.google.com/?ll=47.72792,13.00858) *altitude:* 1391  
+*Coordinates:* [47.72792, +13.00858](https://maps.google.com/?ll=47.72792,13.00858) *altitude:* 1391  
 *Length:* 38000m   
 *Contents:* permanent ice  
  *Part of* [Gamslöcher-Kolowrat-Höhlensystem](#AT-1339/1)  
@@ -141,7 +142,7 @@ Austria - Salzburg - Untersberg
 *Rock type:* limestone   
 *Branches:* [Kolowrathöhle](#AT-fce037bdb47bef79ab6306b200041f35); Gamslöcher; [Salzburgerschacht](#AT-1339/69);   
 Die Höhle 57 (2006)  
-Die Höhle 61 (2010)  
+[Die Höhle 61 (2010) https://www.zobodat.at/pdf/Hoehle_061_0102-0108.pdf](https://www.zobodat.at/pdf/Hoehle_061_0102-0108.pdf)   
 Die Höhle 63 (2012)  
 [Neubauer (2010) DOI:10.5038/1827-806X.40.2.4](https://doi.org/10.5038/1827-806X.40.2.4)   
 [https://hoehle.org/laengste-tiefste](https://hoehle.org/laengste-tiefste)   
@@ -223,7 +224,7 @@ Iceland - Myrasysla County - Hallmundahraun lava flow
 <a name="IS-97aec2fc7be4b04fad92127368040deb"></a>
 Iceland - Myrasysla County - Hallmundahraun lava flow  
 *Cave Name(s):* **Víðgelmir**  
-[*Coordinates:* 64.75028, -20.80170](https://maps.google.com/?ll=64.75028,-20.80170) *altitude:* 250  
+*Coordinates:* [64.75028, -20.80170](https://maps.google.com/?ll=64.75028,-20.80170) *altitude:* 250  
 *Length:* 1585m   
 *Cave type:* lava tunnel  
 *Contents:* permanent ice  
@@ -317,7 +318,7 @@ Germany - Reiteralm; Berchtesgaden Alps
 <a name="DE-f94b4bbb5f8e81b7527a96f5df107d30"></a>
 Germany - Untersberg; Berchtesgaden Alps  
 *Cave Name(s):* **Schellenberger Eishöhle**  
-[*Coordinates:* 47.71333, +13.00444](https://maps.google.com/?ll=47.71333,13.00444) *altitude:* 1570  
+*Coordinates:* [47.71333, +13.00444](https://maps.google.com/?ll=47.71333,13.00444) *altitude:* 1570  
 *Length:* 3621m *Vertical extent:* 260m   
 *Contents:* permanent ice  
 [Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6](https://doi.org/10.1016/B978-0-12-811739-2.00017-6)   
@@ -466,7 +467,7 @@ Greece - Lefka Ori mountain range
 <a name="GL-439dbc7e89f2e33036a5d1fe1a45d4d5"></a>
 Greenland - northeastern Greenland; Odins Fjord Formation  
 *Cave Name(s):* **U-Shaped-Cave** U-Tut Ilusilik Qaarusussuaq  
-[*Coordinates:* +80.376, -21.736](https://maps.google.com/?ll=+80.376,-21.736) *altitude:* 533 north entrance; 530 south entrance  
+*Coordinates:* [+80.376, -21.736](https://maps.google.com/?ll=+80.376,-21.736) *altitude:* 533 north entrance; 530 south entrance  
 *Length:* 95m   
 *Rock type:* limestone   
 *Comments:* discovered in 1960  
@@ -476,7 +477,7 @@ Moseley et al. (2020) Cave and Karst Sci. 47, 74-87
 <a name="GL-76965e98fea8751ac35ab4339467dfa3"></a>
 Greenland - northeastern Greenland; Odins Fjord Formation  
 *Cave Name(s):* **Main Sampling Cave** Kodak Cave  
-[*Coordinates:* +80.37767, -21.74682](https://maps.google.com/?ll=+80.37767,-21.74682) *altitude:* 520  
+*Coordinates:* [+80.37767, -21.74682](https://maps.google.com/?ll=+80.37767,-21.74682) *altitude:* 520  
 *Length:* 11m   
 Moseley et al. (2020) Cave and Karst Sci. 47, 74-87  
 
@@ -484,7 +485,7 @@ Moseley et al. (2020) Cave and Karst Sci. 47, 74-87
 <a name="GL-77a18cf92fe554618e91972d8104ef56"></a>
 Greenland - northeastern Greenland  
 *Cave Name(s):* **Grotte des Quatre** Grottenfjeldet  
-[*Coordinates:* +80.08775, -22.56333](https://maps.google.com/?ll=+80.08775,-22.56333) *altitude:* 420  
+*Coordinates:* [+80.08775, -22.56333](https://maps.google.com/?ll=+80.08775,-22.56333) *altitude:* 420  
 *Length:* 74m *Number of entrances:* 4  
 *Rock type:* limestone   
 Moseley et al. (2020) Cave and Karst Sci. 47, 74-87  
@@ -493,7 +494,7 @@ Moseley et al. (2020) Cave and Karst Sci. 47, 74-87
 <a name="GL-d331018b000aafafdb99b06fde9e89d4"></a>
 Greenland - northeastern Greenland  
 *Cave Name(s):* **Cairn Climb Cave** Inussuk Innartooq Qaarusussuaq  
-[*Coordinates:* +80.37756, -21.71019](https://maps.google.com/?ll=+80.37756,-21.71019) *altitude:* 540  
+*Coordinates:* [+80.37756, -21.71019](https://maps.google.com/?ll=+80.37756,-21.71019) *altitude:* 540  
 *Length:* 19m   
 *Contents:* permanent ice  
 *Comments:* rear of cave blocked by wall of ice  
@@ -503,7 +504,7 @@ Moseley et al. (2020) Cave and Karst Sci. 47, 74-87
 <a name="GL-543c469522433c5eb6b09a4195a61e7e"></a>
 Greenland - northeastern Greenland  
 *Cave Name(s):* **Crystal Palace Cave** Aligoq Illussaarsuaq Qaarusussuaq  
-[*Coordinates:* +80.37739, -21.72585](https://maps.google.com/?ll=+80.37739,-21.72585) *altitude:* 604  
+*Coordinates:* [+80.37739, -21.72585](https://maps.google.com/?ll=+80.37739,-21.72585) *altitude:* 604  
 *Length:* 48m   
 *Contents:* permanent ice  
 *Comments:* ice stalagmites, hoar frost; rear of cave blocked by wall of ice  
@@ -513,7 +514,7 @@ Moseley et al. (2020) Cave and Karst Sci. 47, 74-87
 <a name="GL-f78e93a3578859f603206486524083ad"></a>
 Greenland - northeastern Greenland  
 *Cave Name(s):* **Lemming Cave** Narlumukaap Qaarusussuaq; Stig Strikes Again  
-[*Coordinates:* +80.38586, -21.81800](https://maps.google.com/?ll=+80.38586,-21.81800) *altitude:* 526  
+*Coordinates:* [+80.38586, -21.81800](https://maps.google.com/?ll=+80.38586,-21.81800) *altitude:* 526  
 *Length:* 54m   
 *Contents:* permanent ice  
 *Comments:* ice wall, hoar frost/ice floor  
@@ -523,7 +524,7 @@ Moseley et al. (2020) Cave and Karst Sci. 47, 74-87
 <a name="GL-a499974e2b82cb136b77dae104cd06fd"></a>
 Greenland - northeastern Greenland  
 *Cave Name(s):* **Crystal Kingdom Cave** Aligoq Kunngeqarfik Qaarusussuaq  
-[*Coordinates:* +80.41238, -21.6819](https://maps.google.com/?ll=+80.41238,-21.6819) *altitude:* 825  
+*Coordinates:* [+80.41238, -21.6819](https://maps.google.com/?ll=+80.41238,-21.6819) *altitude:* 825  
 *Length:* 87m   
 *Contents:* permanent ice  
 *Comments:* impressive hoar frost; large hoar frost crystals  
@@ -534,7 +535,7 @@ Barton et al. (2020) Cave and Karst Sci. 47, 93-99
 <a name="GL-5408969dcbc6bfb6e6a8852e50ab960e"></a>
 Greenland - northeastern Greenland  
 *Cave Name(s):* **Cove Cave** Kate's Cove Cave; Eqik Qaarusussuaq  
-[*Coordinates:* +80.25346, -21.93311](https://maps.google.com/?ll=+80.25346,-21.93311) *altitude:* 660  
+*Coordinates:* [+80.25346, -21.93311](https://maps.google.com/?ll=+80.25346,-21.93311) *altitude:* 660  
 *Length:* 103m   
 *Contents:* permanent ice  
 *Comments:* impressive hoar frost, ice stalagmites  
@@ -727,7 +728,7 @@ Montenegro - Prokletije Mountains
 <a name="MK-74b8c3581949b841a7ab0fa83d92cb91"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Solunska Glava 5**  
-[*Coordinates:* 41.68301, +21.38879](https://maps.google.com/?ll=41.68301,21.38879) *altitude:* 2240  
+*Coordinates:* [41.68301, +21.38879](https://maps.google.com/?ll=41.68301,21.38879) *altitude:* 2240  
 *Length:* 400m *Vertical extent:* 370m   
 *Contents:* permanent ice  
 *Comments:* large ice and snow deposit  
@@ -737,7 +738,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-5ad95bec9af129ae2ba98dbf95ca6234"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Lednik (Ledenik)**  
-[*Coordinates:* 41.68577, +21.38723](https://maps.google.com/?ll=41.68577,21.38723) *altitude:* 2135  
+*Coordinates:* [41.68577, +21.38723](https://maps.google.com/?ll=41.68577,21.38723) *altitude:* 2135  
 *Length:*  >240m *Vertical extent:* 240m   
 *Contents:* permanent ice  
 *Comments:* large ice and snow deposit  
@@ -747,7 +748,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-540228d599e73a6f440a505eaa69e6ba"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Slovačka Jama**  
-[*Coordinates:* 41.74017, +21.34207](https://maps.google.com/?ll=41.74017,21.34207) *altitude:* 2241  
+*Coordinates:* [41.74017, +21.34207](https://maps.google.com/?ll=41.74017,21.34207) *altitude:* 2241  
 *Length:* 2620m *Vertical extent:* 610m   
 *Contents:* permanent ice  
 *Comments:* large ice and snow deposit  
@@ -757,7 +758,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-45f699856fbfd7b4cd8bea6447ddb82b"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Solunska Jama**  
-[*Coordinates:* 41.71779, +21.39363](https://maps.google.com/?ll=41.71779,21.39363) *altitude:* 2340  
+*Coordinates:* [41.71779, +21.39363](https://maps.google.com/?ll=41.71779,21.39363) *altitude:* 2340  
 *Length:* 398m *Vertical extent:* 274m   
 *Contents:* permanent ice  
 *Comments:* large snow and ice deposit  
@@ -767,7 +768,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-34961802b11732f1a3b081a15d427b0b"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **K12**  
-[*Coordinates:* 41.73977, +21.33535](https://maps.google.com/?ll=41.73977,21.33535) *altitude:* 2240  
+*Coordinates:* [41.73977, +21.33535](https://maps.google.com/?ll=41.73977,21.33535) *altitude:* 2240  
 *Length:* 60m *Vertical extent:* 60m   
 *Comments:* pit ending with ice and snow plug  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -776,7 +777,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-d2c6de4d38e9691a5ff20825f33d202c"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Ledomorna (Ľadomorňa)**  
-[*Coordinates:* 41.7537, +21.3434](https://maps.google.com/?ll=41.7537,21.3434) *altitude:* 2153  
+*Coordinates:* [41.7537, +21.3434](https://maps.google.com/?ll=41.7537,21.3434) *altitude:* 2153  
 *Length:* 27m *Vertical extent:* 27m   
 *Comments:* pit ending with ice and snow plug  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -785,7 +786,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-78bd15f03cba6b4f472fbaefa86ce92c"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Snežna Jama**  
-[*Coordinates:* 41.71014, +21.38912](https://maps.google.com/?ll=41.71014,21.38912) *altitude:* 2160  
+*Coordinates:* [41.71014, +21.38912](https://maps.google.com/?ll=41.71014,21.38912) *altitude:* 2160  
 *Length:* 50m *Vertical extent:* 50m   
 *Comments:* pit ending with ice and snow plug  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -794,7 +795,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-2fe5f7ce1c6f5de462e2852a6b51c1e0"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Mirska Voda 1**  
-[*Coordinates:* 41.77585, +21.28765](https://maps.google.com/?ll=41.77585,21.28765) *altitude:* 2107  
+*Coordinates:* [41.77585, +21.28765](https://maps.google.com/?ll=41.77585,21.28765) *altitude:* 2107  
 *Length:* 59m *Vertical extent:* 51m   
 *Comments:* pit ending with snow plug  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -803,7 +804,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-352c1fdc311210caefefadc00c3d9501"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Milenkov Kamen 2**  
-[*Coordinates:* 41.7663, +21.29257](https://maps.google.com/?ll=41.7663,21.29257) *altitude:* 2107  
+*Coordinates:* [41.7663, +21.29257](https://maps.google.com/?ll=41.7663,21.29257) *altitude:* 2107  
 *Length:* 48m *Vertical extent:* 47m   
 *Comments:* pit ending with snow plug  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -812,7 +813,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-dcec3481733af2ee46a5d7955982fb2e"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Milenkov Kamen 3**  
-[*Coordinates:* 41.76483, +21.29208](https://maps.google.com/?ll=41.76483,21.29208) *altitude:* 2071  
+*Coordinates:* [41.76483, +21.29208](https://maps.google.com/?ll=41.76483,21.29208) *altitude:* 2071  
 *Length:* 64m *Vertical extent:* 53m   
 *Comments:* pit ending with snow plug  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -821,7 +822,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-68d6a59b34c2e7da97470af103a13eda"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Snežana (Snehulienka)**  
-[*Coordinates:* 41.75771, +21.34636](https://maps.google.com/?ll=41.75771,21.34636) *altitude:* 2164  
+*Coordinates:* [41.75771, +21.34636](https://maps.google.com/?ll=41.75771,21.34636) *altitude:* 2164  
 *Length:* 194m *Vertical extent:* 58m   
 *Comments:* small cave with passage covered by small snow and ice deposit  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -830,7 +831,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-c6486fa8fa2ba7c0f260b7211aeb51b2"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Ovča Propast (Ovčia Priepasť)**  
-[*Coordinates:* 41.73887, +21.36837](https://maps.google.com/?ll=41.73887,21.36837) *altitude:* 2293  
+*Coordinates:* [41.73887, +21.36837](https://maps.google.com/?ll=41.73887,21.36837) *altitude:* 2293  
 *Length:* 47m *Vertical extent:* 41m   
 *Comments:* small cave with passage covered by small snow deposit  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -839,7 +840,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-64beef8c4e4ef34b127de7f23cb7b08a"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Sončeva Propast (Slnečný Golem)**  
-[*Coordinates:* 41.72268, +21.38436](https://maps.google.com/?ll=41.72268,21.38436) *altitude:* 2325  
+*Coordinates:* [41.72268, +21.38436](https://maps.google.com/?ll=41.72268,21.38436) *altitude:* 2325  
 *Length:* 45m *Vertical extent:* 15m   
 *Comments:* small cave with passage covered by small snow deposit  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -848,7 +849,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-304bf974e05aca37e60f0d54d920e881"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Tečko**  
-[*Coordinates:* 41.74797, +21.35497](https://maps.google.com/?ll=41.74797,21.35497) *altitude:* 2189  
+*Coordinates:* [41.74797, +21.35497](https://maps.google.com/?ll=41.74797,21.35497) *altitude:* 2189  
 *Length:* 18m *Vertical extent:* 14m   
 *Comments:* small cave with passage covered by small snow deposit  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -857,7 +858,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-4262566e479068ea0ed5c7358c5ecab8"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Alena (Igelity)**  
-[*Coordinates:* 41.72582, +21.35726](https://maps.google.com/?ll=41.72582,21.35726) *altitude:* 2131  
+*Coordinates:* [41.72582, +21.35726](https://maps.google.com/?ll=41.72582,21.35726) *altitude:* 2131  
 *Length:* 114m *Vertical extent:* 17m   
 *Contents:* periodic ice  
 *Comments:* seasonal ice formations  
@@ -867,7 +868,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-8ddef34ed16f7e03e09745f6f0e0728d"></a>
 North Macedonia - Jakupica Mt.  
 *Cave Name(s):* **Ledena Peštera**  
-[*Coordinates:* 41.86772, +21.28486](https://maps.google.com/?ll=41.86772,21.28486) *altitude:* 991  
+*Coordinates:* [41.86772, +21.28486](https://maps.google.com/?ll=41.86772,21.28486) *altitude:* 991  
 *Contents:* periodic ice  
 *Comments:* seasonal ice formations  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -876,7 +877,7 @@ North Macedonia - Jakupica Mt.
 <a name="MK-eff359ed78ceeef55737daf4ac847fd4"></a>
 North Macedonia - Krčin Mt.  
 *Cave Name(s):* **SLO-K1**  
-[*Coordinates:* 41.6, +20.6](https://maps.google.com/?ll=41.6,20.6) *altitude:* 1900-2100  
+*Coordinates:* [41.6, +20.6](https://maps.google.com/?ll=41.6,20.6) *altitude:* 1900-2100  
 *Length:* 89m *Vertical extent:* 59m   
 *Comments:* small cave with passage covered by small snow deposit  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -885,7 +886,7 @@ North Macedonia - Krčin Mt.
 <a name="MK-cb35f1b48a0ec5f5ab0a02094b1a6ff5"></a>
 North Macedonia - Krčin Mt.  
 *Cave Name(s):* **SLO-K4**  
-[*Coordinates:* 41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
+*Coordinates:* [41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
 *Length:* 73m *Vertical extent:* 53m   
 *Comments:* small cave with passage covered by small snow deposit  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -894,7 +895,7 @@ North Macedonia - Krčin Mt.
 <a name="MK-3cce234d462f36512cb790b67cc99e84"></a>
 North Macedonia - Krčin Mt.  
 *Cave Name(s):* **SLO-K6**  
-[*Coordinates:* 41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
+*Coordinates:* [41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
 *Length:* 44m *Vertical extent:* 38m   
 *Comments:* pit ending with snow plug  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -903,7 +904,7 @@ North Macedonia - Krčin Mt.
 <a name="MK-de0f6c5ca1896b2d37bfbb50aba37010"></a>
 North Macedonia - Krčin Mt.  
 *Cave Name(s):* **SLO-K7**  
-[*Coordinates:* 41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
+*Coordinates:* [41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
 *Length:* 37m *Vertical extent:* 37m   
 *Comments:* pit ending with snow plug  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -912,7 +913,7 @@ North Macedonia - Krčin Mt.
 <a name="MK-8ed8eaef71a0e4cc5f441c4b81c5f76e"></a>
 North Macedonia - Krčin Mt.  
 *Cave Name(s):* **SLO-K8**  
-[*Coordinates:* 41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
+*Coordinates:* [41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
 *Length:* 41m *Vertical extent:* 37m   
 *Comments:* pit ending with snow plug  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -921,7 +922,7 @@ North Macedonia - Krčin Mt.
 <a name="MK-2921541672c4edca5575c61862772f10"></a>
 North Macedonia - Krčin Mt.  
 *Cave Name(s):* **SLO-K9**  
-[*Coordinates:* 41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
+*Coordinates:* [41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
 *Length:* 71m *Vertical extent:* 32m   
 *Comments:* pit ending with snow plug  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -930,7 +931,7 @@ North Macedonia - Krčin Mt.
 <a name="MK-bc5f02be265152a956415588b527652c"></a>
 North Macedonia - Krčin Mt.  
 *Cave Name(s):* **SLO-K10**  
-[*Coordinates:* 41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
+*Coordinates:* [41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
 *Length:* 15m *Vertical extent:* 15m   
 *Comments:* pit ending with snow plug  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -939,7 +940,7 @@ North Macedonia - Krčin Mt.
 <a name="MK-723abebf083a70f21a1b3af92aa93634"></a>
 North Macedonia - Krčin Mt.  
 *Cave Name(s):* **SLO-K11-12**  
-[*Coordinates:* 41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
+*Coordinates:* [41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
 *Length:* 99m *Vertical extent:* 53m   
 *Contents:* permanent ice  
 *Comments:* pit ending with snow and ice plug  
@@ -949,7 +950,7 @@ North Macedonia - Krčin Mt.
 <a name="MK-f39a7abd300ad0ad1ec7602778e0f56a"></a>
 North Macedonia - Krčin Mt.  
 *Cave Name(s):* **SLO-K13**  
-[*Coordinates:* 41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
+*Coordinates:* [41.6, +20.6](https://maps.google.com/?ll=41.6,20.6)   
 *Length:* 28m *Vertical extent:* 24m   
 *Comments:* pit ending with snow plug  
 [Temovski (2018) doi:10.1016/B978-0-12-811739-2.00022-X](https://doi.org/10.1016/B978-0-12-811739-2.00022-X)   
@@ -986,7 +987,7 @@ Norway
 <a name="NO-635baefa31847f914df659dbe0285cf3"></a>
 Norway - Hellemofjord  
 *Cave Name(s):* **Råggejavre-Raige** RJR; Pit-tarn Cave  
-[*Coordinates:* 67.8777, +16.2508](https://maps.google.com/?ll=67.8777,16.2508) *altitude:* 80 lower entrance  
+*Coordinates:* [67.8777, +16.2508](https://maps.google.com/?ll=67.8777,16.2508) *altitude:* 80 lower entrance  
 *Length:*  >1915m *Vertical extent:* 580m *Number of entrances:* 2  
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -1379,7 +1380,7 @@ Poland - Tatra Mountains
 <a name="PL-a58dae9905316a9ad16ff980d78ccf71"></a>
 Poland - Tatra Mountains  
 *Cave Name(s):* **Jaskinia Wielka Śnieżna**  
-[*Coordinates:* 49.24, +19.923056](https://maps.google.com/?ll=49.24,19.923056)   
+*Coordinates:* [49.24, +19.923056](https://maps.google.com/?ll=49.24,19.923056)   
 *Length:* 23723m *Vertical extent:* 824m   
 *Rock type:* limestone   
 *Branches:* [Jaskinia Śnieżna](#PL-525fd123882c2891a40f3bf1ec11eb34); Jaskinia nad Kotlinami; Jasny Awen; Jaskinia Wielka Litworowa; Jaskinia Wilcza;   
@@ -1456,7 +1457,7 @@ Romania - Apuseni Mountains
 <a name="RO-79a7165b20b53c88ee71ccbfa688111d"></a>
 Romania - Apuseni Mountains  
 *Cave Name(s):* **Borţig Ice Cave**  
-[*Coordinates:* 46.56, +22.69](https://maps.google.com/?ll=46.56,22.69) *altitude:* 1236  
+*Coordinates:* [46.56, +22.69](https://maps.google.com/?ll=46.56,22.69) *altitude:* 1236  
 *Contents:* permanent ice  
 [Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5](https://doi.org/10.1016/B978-0-12-811739-2.00025-5)   
 [Kern et al. (2009) doi:10.1177/0959683609105296](https://doi.org/10.1177/0959683609105296)   
@@ -1473,7 +1474,7 @@ Romania - Apuseni Mountains
 <a name="RO-28b7e1c6b65b8f1df632124886c44414"></a>
 Romania - Apuseni Mountains  
 *Cave Name(s):* **Scărișoara Ice Cave** Scărișoara Cave  
-[*Coordinates:* 46.48972, +22.80972](https://maps.google.com/?ll=46.48972,22.80972) *altitude:* 1150  
+*Coordinates:* [46.48972, +22.80972](https://maps.google.com/?ll=46.48972,22.80972) *altitude:* 1150  
 *Length:* 700m   
 *Rock type:* limestone   
 *Contents:* permanent ice; many bats  
@@ -1761,7 +1762,7 @@ Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide
 <a name="ES-6d7c3e74ee48380c871cde7d8c573843"></a>
 Spain - Aragon - Pyrenees; Monte Perdido-Marboré  
 *Cave Name(s):* **Casteret**  
-[*Coordinates:* 42.68514, -0.032455](https://maps.google.com/?ll=42.68514,-0.032455) *altitude:* 2640  
+*Coordinates:* [42.68514, -0.032455](https://maps.google.com/?ll=42.68514,-0.032455) *altitude:* 2640  
 *Vertical extent:* 80m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -2125,7 +2126,7 @@ Slovakia - Kremnické vrchy, Flochovský chrbát
 <a name="SK-74656df833daf4afe66f0d0909ec9db3"></a>
 Slovakia - Nízke Tatry, Ďumbierske Tatry, Demänovské vrchy  
 *Cave Name(s):* **Demänovská ľadová jaskyňa (Demänová Ice Cave)**  
-[*Coordinates:* 48.99861, +19.58194](https://maps.google.com/?ll=48.99861,19.58194) *altitude:* 840  
+*Coordinates:* [48.99861, +19.58194](https://maps.google.com/?ll=48.99861,19.58194) *altitude:* 840  
 *Length:* 1975m *Vertical extent:* 57m   
 *Contents:* permanent ice  
 [Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2](https://doi.org/10.1016/B978-0-12-811739-2.00029-2)   
@@ -2263,7 +2264,7 @@ Slovakia
 <a name="SK-214325560803a1bc1fec307a7ccb4534"></a>
 Slovakia - Spišsko-gemerský kras, Slovenský raj  
 *Cave Name(s):* **Dobšinská ľadová jaskyňa (Dobšiná Ice Cave)**  
-[*Coordinates:* 48.871944, +20.294722](https://maps.google.com/?ll=48.871944,20.294722) *altitude:* 969  
+*Coordinates:* [48.87194, +20.29472](https://maps.google.com/?ll=48.87194,20.29472) *altitude:* 969  
 *Length:* 1483m *Vertical extent:* 112m   
 *Contents:* permanent ice; many bats  
 *Comments:* UNESCO world heritage site  
@@ -2492,7 +2493,7 @@ Slovenia
 <a name="SI-2c11beb193f0af3daab08b378cd66fd8"></a>
 Slovenia  
 *Cave Name(s):* **Smrekova draga**  
-[*Coordinates:* 45.98752, +13.86777](https://maps.google.com/?ll=45.98752,13.86777)   
+*Coordinates:* [45.98752, +13.86777](https://maps.google.com/?ll=45.98752,13.86777)   
 *Length:* ~1500m *Vertical extent:*  >150m   
 *Contents:* permanent ice  
 *Comments:* two dolines  
@@ -2502,7 +2503,7 @@ Slovenia
 <a name="SI-7c0f844826ce0ee29d8c3a815cda95fd"></a>
 Slovenia - Raduha Mountain  
 *Cave Name(s):* **Snežna jama cave**  
-[*Coordinates:* 46.39825, +14.74209](https://maps.google.com/?ll=46.39825,14.74209) *altitude:* 1514  
+*Coordinates:* [46.39825, +14.74209](https://maps.google.com/?ll=46.39825,14.74209) *altitude:* 1514  
 *Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* collapse dolina  
@@ -2575,7 +2576,7 @@ Switzerland - Valais (VS) - Jungfraujoch
 <a name="CH-fd82c6acdd7fc5471dfd02b6a8ad7fc6"></a>
 Switzerland - Vanil Noir massif  
 *Cave Name(s):* **Diablotins Ice Cave**  
-[*Coordinates:* 45.50639, +13.61](https://maps.google.com/?ll=45.50639,13.61) *altitude:* 2092 upper entrance; 2007 lower entrance  
+*Coordinates:* [45.50639, +13.61](https://maps.google.com/?ll=45.50639,13.61) *altitude:* 2092 upper entrance; 2007 lower entrance  
 *Vertical extent:* 650m *Number of entrances:* 2  
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -2587,7 +2588,7 @@ Switzerland - Vanil Noir massif
 <a name="CH-NE-137"></a>
 Switzerland - Neuchâtel (NE) - Swiss Jura mountains  
 *Cave Name(s):* **Monlesi Ice Cave** Glacière de Monlési *Id:* NE-137  
-[*Coordinates:* 46.93833, +6.58444](https://maps.google.com/?ll=46.93833,6.58444) *altitude:* 1135  
+*Coordinates:* [46.93833, +6.58444](https://maps.google.com/?ll=46.93833,6.58444) *altitude:* 1135  
 *Contents:* permanent ice  
 *Comments:* congelation ice; est. 6000m^3 ice  
 [Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3](https://doi.org/10.1016/B978-0-12-811739-2.00010-3)   
@@ -2597,7 +2598,7 @@ Switzerland - Neuchâtel (NE) - Swiss Jura mountains
 <a name="CH-VD-257"></a>
 Switzerland - Vaud (VD) - Swiss Jura mountains  
 *Cave Name(s):* **St-Livres Ice Cave** Glacière de St-Livres *Id:* VD-257  
-[*Coordinates:* 46.56306, +6.29722](https://maps.google.com/?ll=46.56306,6.29722) *altitude:* 1395  
+*Coordinates:* [46.56306, +6.29722](https://maps.google.com/?ll=46.56306,6.29722) *altitude:* 1395  
 *Contents:* permanent ice  
 *Comments:* firn deposits; cold air trap  
 [Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3](https://doi.org/10.1016/B978-0-12-811739-2.00010-3)   
@@ -2621,7 +2622,7 @@ Switzerland - Swiss Jura mountains
 <a name="CN-28b908226b2c3637814b6b68d8c3da57"></a>
 China - Shanxi Province - Guancen Mountain  
 *Cave Name(s):* **Cave Ningwu**  
-[*Coordinates:* 38.95, +112.17](https://maps.google.com/?ll=38.95,112.17) *altitude:* 2121  
+*Coordinates:* [38.95, +112.17](https://maps.google.com/?ll=38.95,112.17) *altitude:* 2121  
 *Vertical extent:* 85m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -2633,7 +2634,7 @@ China - Shanxi Province - Guancen Mountain
 <a name="CN-a47d5d1f2a34e3d0cee97b86efcb443c"></a>
 China - Heilongjiang province - Wudalianchi National Geological Park  
 *Cave Name(s):* **Bailong (White Dragon)** Ice Cave Vudalyanchi; Wudalianchi Ice Cave; Lava ice cave of Heihe  
-[*Coordinates:* 48.647, +126.25](https://maps.google.com/?ll=48.647,126.25) *altitude:* 400  
+*Coordinates:* [48.647, +126.25](https://maps.google.com/?ll=48.647,126.25) *altitude:* 400  
 *Length:* 270m   
 *Rock type:* basalt   
 *Contents:* permanent ice  
@@ -2645,7 +2646,7 @@ China - Heilongjiang province - Wudalianchi National Geological Park
 <a name="CN-c3eb92fe1890843fa309649739ea5459"></a>
 China - Heilongjiang province - Wudalianchi National Geological Park  
 *Cave Name(s):* **Shuijinggong (Crystal Palace)** Ice Cave Vudalyanchi; Wudalianchi Ice Cave; Lava ice cave of Heihe  
-[*Coordinates:* 48.647, +126.25](https://maps.google.com/?ll=48.647,126.25) *altitude:* 400  
+*Coordinates:* [48.647, +126.25](https://maps.google.com/?ll=48.647,126.25) *altitude:* 400  
 *Rock type:* basalt   
 *Contents:* permanent ice  
 *Comments:* lava ice cave; smaller than neighboring Bailong ice cave  
@@ -2656,7 +2657,7 @@ China - Heilongjiang province - Wudalianchi National Geological Park
 <a name="CN-8b26f301da3320b3f89e49bd34203978"></a>
 China - Heilongjiang province  
 *Cave Name(s):* **Underground Ice Cave**  
-[*Coordinates:* 48.7364, +126.0996](https://maps.google.com/?ll=48.7364,126.0996) *altitude:* 300  
+*Coordinates:* [48.7364, +126.0996](https://maps.google.com/?ll=48.7364,126.0996) *altitude:* 300  
 *Length:* 515m   
 *Rock type:* basalt   
 *Contents:* permanent ice  
@@ -2677,7 +2678,7 @@ Wood and Zhang (2010) Proc. 14th Int. Symp. Vulcanospeleology
 <a name="CN-46be722a2420e9e67e2a9f3032a72dde"></a>
 China - Heilongjiang province  
 *Cave Name(s):* **Gubingdong Cave** Ancient Ice Cave  
-[*Coordinates:* 43.8488, +129.8488](https://maps.google.com/?ll=43.8488,129.8488) *altitude:* 800  
+*Coordinates:* [43.8488, +129.8488](https://maps.google.com/?ll=43.8488,129.8488) *altitude:* 800  
 *Contents:* permanent ice  
 [Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8](https://doi.org/10.1016/B978-0-12-811739-2.00021-8)   
 Wood and Zhang (2010) Proc. 14th Int. Symp. Vulcanospeleology  
@@ -2686,7 +2687,7 @@ Wood and Zhang (2010) Proc. 14th Int. Symp. Vulcanospeleology
 <a name="CN-b5a880813a354dc11e07fae198a73830"></a>
 China - Shanxi Province; Liuba County - Aibai Mountain  
 *Cave Name(s):* **Zibaishan Ice Cave**  
-[*Coordinates:* 33.7, +106.7](https://maps.google.com/?ll=33.7,106.7) *altitude:* 2450  
+*Coordinates:* [33.7, +106.7](https://maps.google.com/?ll=33.7,106.7) *altitude:* 2450  
 *Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* 16m high ice cone; extrenal annual mean temperature is 11.5C  
@@ -2697,7 +2698,7 @@ China - Shanxi Province; Liuba County - Aibai Mountain
 <a name="IN-5177da2464799e48c9e4fc269aef5e6c"></a>
 India - Lidder Valley  
 *Cave Name(s):* **Amarnath Cave** Holy Cave  
-[*Coordinates:* 34.2149, +75.5008](https://maps.google.com/?ll=34.2149,75.5008) *altitude:* 3888  
+*Coordinates:* [34.2149, +75.5008](https://maps.google.com/?ll=34.2149,75.5008) *altitude:* 3888  
 *Length:* 39m   
 *Contents:* permanent ice  
 *Comments:* cave entrance is blocked by snow most parts of the year; known for about 5000 years; three ice stalagmites  
@@ -2708,7 +2709,7 @@ India - Lidder Valley
 <a name="IR-d7151342a9e591c8007498231c45d241"></a>
 Iran - Alborz Mountains; Lar Formation  
 *Cave Name(s):* **Ghar Yakh-Morad**  
-[*Coordinates:* 36.11832, +51.27173](https://maps.google.com/?ll=36.11832,51.27173) *altitude:* 2493  
+*Coordinates:* [36.11832, +51.27173](https://maps.google.com/?ll=36.11832,51.27173) *altitude:* 2493  
 *Rock type:* limestone   
 *Contents:* permanent ice  
 [Soleymani et al. (2018) doi:10.1016/B978-0-12-811739-2.00020-6](https://doi.org/10.1016/B978-0-12-811739-2.00020-6)   
@@ -2745,7 +2746,7 @@ Kazakhstan
 <a name="JP-e26bc9c6698824529baa6da0bf5bb393"></a>
 Japan - Mt. Fuji  
 *Cave Name(s):* **Fuji Ice Cave** Fuji Fuketsu (Fuji Wind Cave)  
-[*Coordinates:* 36.4, +138.7](https://maps.google.com/?ll=36.4,138.7) *altitude:* 1120  
+*Coordinates:* [36.4, +138.7](https://maps.google.com/?ll=36.4,138.7) *altitude:* 1120  
 *Length:* 150m *Vertical extent:* ~30m   
 *Cave type:* lava tunnel  
 *Contents:* permanent ice  
@@ -2768,7 +2769,7 @@ Mongolia - Hubsugulskij National Park
 <a name="RU-aceb932360a66f7c784bfc8ea21269a8"></a>
 Russia - Crimea  
 *Cave Name(s):* **Cave Bolshoj Buzluk** Buzluk-Koba; Ledyanaya Cave  
-[*Coordinates:* 44.85889, +34.53500](https://maps.google.com/?ll=44.85889,34.53500) *altitude:* ~1045  
+*Coordinates:* [44.85889, +34.53500](https://maps.google.com/?ll=44.85889,34.53500) *altitude:* ~1045  
 *Length:* 165m *Vertical extent:* 81m   
 *Contents:* permanent ice  
 [Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7](https://doi.org/10.1016/B978-0-12-811739-2.00026-7)   
@@ -2777,7 +2778,7 @@ Russia - Crimea
 <a name="RU-580a56f3e2ab89ba8bc52af52bef774d"></a>
 Russia - Crimea  
 *Cave Name(s):* **Tryekhglazka Cave** Ledovaya Vorontsovskaya Cave  
-[*Coordinates:* 44.453, +34.054](https://maps.google.com/?ll=44.453,34.054) *altitude:* ~1200  
+*Coordinates:* [44.453, +34.054](https://maps.google.com/?ll=44.453,34.054) *altitude:* ~1200  
 *Contents:* permanent ice  
 [Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7](https://doi.org/10.1016/B978-0-12-811739-2.00026-7)   
 
@@ -2813,7 +2814,7 @@ Russia - Republic of Abkhazia - Caucasus
 <a name="RU-885e5e9a88ec98b433ef85446efb586e"></a>
 Russia - Caucasus  
 *Cave Name(s):* **Shaft of Vakhusti Bagrationi**  
-[*Coordinates:* 43.55028, +39.84417](https://maps.google.com/?ll=43.55028,39.84417) *altitude:* ~2125  
+*Coordinates:* [43.55028, +39.84417](https://maps.google.com/?ll=43.55028,39.84417) *altitude:* ~2125  
 *Length:* 1967m *Vertical extent:* ~250m   
 *Contents:* permanent ice  
 [Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7](https://doi.org/10.1016/B978-0-12-811739-2.00026-7)   
@@ -2840,7 +2841,7 @@ Russia - Caucasus; Lekhchumskij Ridge
 <a name="RU-05215d82d5aa63e3867ca515da36d9b4"></a>
 Russia - Nizhnij Novgorod Area  
 *Cave Name(s):* **Kholodnaya Cave**  
-[*Coordinates:* 55.4277, +44.54722](https://maps.google.com/?ll=55.4277,44.54722)   
+*Coordinates:* [55.4277, +44.54722](https://maps.google.com/?ll=55.4277,44.54722)   
 *Contents:* permanent ice  
 *Comments:* congelation ice, sublimation ice (hoarfrost)  
 [Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7](https://doi.org/10.1016/B978-0-12-811739-2.00026-7)   
@@ -2856,7 +2857,7 @@ Russia - Nizhnij Novgorod Area
 <a name="RU-eaccad1bee9201dd83e37b7c6da6d067"></a>
 Russia - Nizhnij Novgorod Area  
 *Cave Name(s):* **Bornukovskaya Cave**  
-[*Coordinates:* 55.38985, +44.78078](https://maps.google.com/?ll=55.38985,44.78078)   
+*Coordinates:* [55.38985, +44.78078](https://maps.google.com/?ll=55.38985,44.78078)   
 *Length:* 73m   
 *Contents:* permanent ice  
 *Comments:* icings and seasonal sublimation cyrstals  
@@ -2983,7 +2984,7 @@ Russia - Northern Ural
 <a name="RU-1b10d28d26d14b4315d4cad3b7e6cb16"></a>
 Russia - Perm Kai - Northern Ural  
 *Cave Name(s):* **Kungurskaya Ice Cave** Kungur Ice Cave  
-[*Coordinates:* 57.4409, +57.0059](https://maps.google.com/?ll=57.4409,57.0059)   
+*Coordinates:* [57.4409, +57.0059](https://maps.google.com/?ll=57.4409,57.0059)   
 *Length:* ~5700m   
 *Contents:* permanent ice  
 *Comments:* ice stalagmites, perennial sublimation crystals, ice curtain-flags  
@@ -3002,7 +3003,7 @@ Russia - Northern Ural
 <a name="RU-e8261fa8f7cb75e1ac7add5cc30e341a"></a>
 Russia - Southern Ural  
 *Cave Name(s):* **Cave Kinderlinsky**  
-[*Coordinates:* 54.15694, +56.85444](https://maps.google.com/?ll=54.15694,56.85444)   
+*Coordinates:* [54.15694, +56.85444](https://maps.google.com/?ll=54.15694,56.85444)   
 *Length:* 9113m   
 *Contents:* permanent ice  
 [Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7](https://doi.org/10.1016/B978-0-12-811739-2.00026-7)   
@@ -3019,7 +3020,7 @@ Russia - Southern Ural
 <a name="RU-541b853e282ccef3ee26bde33fa5dd69"></a>
 Russia - Altai Mountains  
 *Cave Name(s):* **Kul'dyukskaya Cave**  
-[*Coordinates:* 51.45472, +85.47444](https://maps.google.com/?ll=51.45472,85.47444) *altitude:* ~300  
+*Coordinates:* [51.45472, +85.47444](https://maps.google.com/?ll=51.45472,85.47444) *altitude:* ~300  
 *Contents:* permanent ice  
 [Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7](https://doi.org/10.1016/B978-0-12-811739-2.00026-7)   
 
@@ -3037,7 +3038,7 @@ Russia - Altai Mountains
 <a name="RU-8cba0c808a0cd2527ecc9ddbf29966f4"></a>
 Russia - Kuznetsk Ala Tau  
 *Cave Name(s):* **Bidzhinskaya Cave (Ledyanaya)**  
-[*Coordinates:* 54.05, +91.00](https://maps.google.com/?ll=54.05,91.00)   
+*Coordinates:* [54.05, +91.00](https://maps.google.com/?ll=54.05,91.00)   
 *Length:* 171m   
 *Contents:* permanent ice  
 [Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7](https://doi.org/10.1016/B978-0-12-811739-2.00026-7)   
@@ -3087,7 +3088,7 @@ Russia - Pribaikalye and Transbaikalia
 <a name="RU-d65751c4971484c1f4ab908659cadfd5"></a>
 Russia - Pribaikalye and Transbaikalia  
 *Cave Name(s):* **Cave System Aya-Ryadovaya**  
-[*Coordinates:* 52.79737, +106.5517](https://maps.google.com/?ll=52.79737,106.5517)   
+*Coordinates:* [52.79737, +106.5517](https://maps.google.com/?ll=52.79737,106.5517)   
 *Contents:* permanent ice  
 *Comments:* ice could have been at least 8000 years old  
 [Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7](https://doi.org/10.1016/B978-0-12-811739-2.00026-7)   
@@ -3096,7 +3097,7 @@ Russia - Pribaikalye and Transbaikalia
 <a name="RU-0620e207932cf7780e994669f996fc20"></a>
 Russia - Pribaikalye and Transbaikalia  
 *Cave Name(s):* **Botovskaya Cave**  
-[*Coordinates:* 55.3079, +105.3442](https://maps.google.com/?ll=55.3079,105.3442)   
+*Coordinates:* [55.3079, +105.3442](https://maps.google.com/?ll=55.3079,105.3442)   
 *Length:* 64435m *Vertical extent:* ~40m   
 *Contents:* permanent ice  
 [Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7](https://doi.org/10.1016/B978-0-12-811739-2.00026-7)   
@@ -3122,7 +3123,7 @@ Russia - Pribaikalye and Transbaikalia
 <a name="RU-78777f333f3dbbdd6f0924e9fc3d216f"></a>
 Russia  
 *Cave Name(s):* **Kheetej Cave**  
-[*Coordinates:* 50.630737, +115.759506](https://maps.google.com/?ll=50.630737,115.759506) *altitude:* 840  
+*Coordinates:* [50.630737, +115.759506](https://maps.google.com/?ll=50.630737,115.759506) *altitude:* 840  
 *Contents:* permanent ice  
 *Comments:* congelation icings and sublimation ice  
 [Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7](https://doi.org/10.1016/B978-0-12-811739-2.00026-7)   
@@ -3180,7 +3181,7 @@ Russia - Far East of Russia
 <a name="RU-8b07a5b49204d3043d8dd91a5cf84259"></a>
 Russia - Far East of Russia  
 *Cave Name(s):* **Steregushee Kop'ye Cave**  
-[*Coordinates:* 49.43972, +134.55238](https://maps.google.com/?ll=49.43972,134.55238) *altitude:* 220  
+*Coordinates:* [49.43972, +134.55238](https://maps.google.com/?ll=49.43972,134.55238) *altitude:* 220  
 *Length:* 1100m *Vertical extent:* 35m   
 *Contents:* permanent ice  
 *Comments:* icings; snow; sublimation crystals  
@@ -3326,7 +3327,7 @@ Turkey
 <a name="UZ-b6a1d24a1d9b2df772f08c109334bd0f"></a>
 Uzbekistan - Surxondaryo Province - Baisun region; Hodja-Gur-Gur-Ata  
 *Cave Name(s):* **Ledopadnaya**  
-[*Coordinates:* 38, +67](https://maps.google.com/?ll=38,67) *altitude:* 3445  
+*Coordinates:* [38, +67](https://maps.google.com/?ll=38,67) *altitude:* 3445  
 *Vertical extent:* 800m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -3349,7 +3350,7 @@ Tsurikhin et al. (2014) Cave and Karst Sci. 41(1), 36
 <a name="UZ-1e39ac295c6033724a203e08970146e6"></a>
 Uzbekistan - Baisun region; Hodja-Gur-Gur-Ata  
 *Cave Name(s):* **Dark Star Cave**  
-[*Coordinates:* 38.39639, +67.28694](https://maps.google.com/?ll=38.39639,67.28694) *altitude:* ~3500 main entrance  
+*Coordinates:* [38.39639, +67.28694](https://maps.google.com/?ll=38.39639,67.28694) *altitude:* ~3500 main entrance  
 *Length:* ~16000m *Vertical extent:*  >900m *Number of entrances:*  >20  
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -3385,7 +3386,7 @@ Uzbekistan - Kyzyl-Shavar Plateau
 <a name="CA-2736bb0b914caab976236f8e4eed89ac"></a>
 Canada - Yukon - Ni’iinlii Njik; Old Crow  
 *Cave Name(s):* **Tsi Tse Han Cave**  
-[*Coordinates:* 66.3, -139.3](https://maps.google.com/?ll=66.3,-139.3) *altitude:* 750  
+*Coordinates:* [66.3, -139.3](https://maps.google.com/?ll=66.3,-139.3) *altitude:* 750  
 *Length:* 50m   
 *Contents:* permanent ice  
 *Comments:* permafrost  
@@ -3395,7 +3396,7 @@ Canada - Yukon - Ni’iinlii Njik; Old Crow
 <a name="CA-20c195e3498e7164f7f7edebc89e7e16"></a>
 Canada - Yukon - Ni’iinlii Njik; Old Crow  
 *Cave Name(s):* **Grande Caverne Glacee**  
-[*Coordinates:* 66.3, -139.3](https://maps.google.com/?ll=66.3,-139.3) *altitude:* 750–950  
+*Coordinates:* [66.3, -139.3](https://maps.google.com/?ll=66.3,-139.3) *altitude:* 750–950  
 *Length:* 110m   
 *Contents:* permanent ice  
 *Comments:* permafrost; massive ice  
@@ -3405,7 +3406,7 @@ Canada - Yukon - Ni’iinlii Njik; Old Crow
 <a name="CA-f7be733469fe8b52102fdfa342af3672"></a>
 Canada - Yukon - Ni’iinlii Njik; Old Crow  
 *Cave Name(s):* **Caverne des Meandres**  
-[*Coordinates:* 66.7, -139.3](https://maps.google.com/?ll=66.7,-139.3) *altitude:* 750–950  
+*Coordinates:* [66.7, -139.3](https://maps.google.com/?ll=66.7,-139.3) *altitude:* 750–950  
 *Length:* 100m   
 *Contents:* permanent ice  
 *Comments:* permafrost  
@@ -3415,7 +3416,7 @@ Canada - Yukon - Ni’iinlii Njik; Old Crow
 <a name="CA-f6ffe9d069cccb1e2e50f30064333be5"></a>
 Canada - Yukon - Ni’iinlii Njik; Old Crow  
 *Cave Name(s):* **Bear Cave** Chii Ch’à’an  
-[*Coordinates:* 66, -139.3](https://maps.google.com/?ll=66,-139.3) *altitude:* 750–950  
+*Coordinates:* [66, -139.3](https://maps.google.com/?ll=66,-139.3) *altitude:* 750–950  
 *Length:* 220m   
 *Contents:* permanent ice  
 *Comments:* permafrost; clear pillars of ice and small hoar crystals  
@@ -3425,7 +3426,7 @@ Canada - Yukon - Ni’iinlii Njik; Old Crow
 <a name="CA-aef23bc089d9c72921a2da45ce703235"></a>
 Canada - Yukon - Ni’iinlii Njik; Old Crow  
 *Cave Name(s):* **Caverne ‘85**  
-[*Coordinates:* 66.8, -139.3](https://maps.google.com/?ll=66.8,-139.3) *altitude:* 750–950  
+*Coordinates:* [66.8, -139.3](https://maps.google.com/?ll=66.8,-139.3) *altitude:* 750–950  
 *Length:* 40m   
 *Contents:* permanent ice  
 *Comments:* permafrost; massive ice  
@@ -3435,7 +3436,7 @@ Canada - Yukon - Ni’iinlii Njik; Old Crow
 <a name="CA-54521c7169403ad92fa588a455f44ebb"></a>
 Canada - Northwest Territories - Nahanni Canyon  
 *Cave Name(s):* **Grotte Valerie Ice Cave**  
-[*Coordinates:* 61.3, -124.1](https://maps.google.com/?ll=61.3,-124.1)   
+*Coordinates:* [61.3, -124.1](https://maps.google.com/?ll=61.3,-124.1)   
 *Length:* 2002m   
 *Contents:* permanent ice  
 *Comments:* hoarfrost; permafrost / cold zone  
@@ -3445,7 +3446,7 @@ Canada - Northwest Territories - Nahanni Canyon
 <a name="CA-c292943f25d6fe31e21a10b0871d59c2"></a>
 Canada - Northwest Territories - Nahanni Canyon  
 *Cave Name(s):* **Grotte Mickey**  
-[*Coordinates:* 61.3, -124.1](https://maps.google.com/?ll=61.3,-124.1)   
+*Coordinates:* [61.3, -124.1](https://maps.google.com/?ll=61.3,-124.1)   
 *Length:* 2270m   
 *Contents:* permanent ice  
 *Comments:* permafrost / cold trap; Four areas of ice now sealed  
@@ -3464,7 +3465,7 @@ Canada - Northwest Territories - Nahanni Karst / Lafferty Creek
 <a name="CA-74e6857803c951742d93d9ea51532ad3"></a>
 Canada - Northwest Territories - Nahanni North Karst  
 *Cave Name(s):* **Igloo**  
-[*Coordinates:* 61.5, -124.2](https://maps.google.com/?ll=61.5,-124.2)   
+*Coordinates:* [61.5, -124.2](https://maps.google.com/?ll=61.5,-124.2)   
 *Length:* ~600m   
 *Contents:* permanent ice  
 *Comments:* cold trap; Spectacular ice  
@@ -3474,7 +3475,7 @@ Canada - Northwest Territories - Nahanni North Karst
 <a name="CA-3645ec433eac2f9131802e3c9257d4ba"></a>
 Canada - Northwest Territories - Nahanni North Karst  
 *Cave Name(s):* **Arnica**  
-[*Coordinates:* 61.5, -124.2](https://maps.google.com/?ll=61.5,-124.2)   
+*Coordinates:* [61.5, -124.2](https://maps.google.com/?ll=61.5,-124.2)   
 *Length:* 242m   
 *Contents:* permanent ice  
 *Comments:* cold trap  
@@ -3484,7 +3485,7 @@ Canada - Northwest Territories - Nahanni North Karst
 <a name="CA-8516076b1617e6b61925e6a3aff17e36"></a>
 Canada - Northwest Territories - Nahanni North Karst  
 *Cave Name(s):* **Black Ice Cave**  
-[*Coordinates:* 61.5, -124.2](https://maps.google.com/?ll=61.5,-124.2)   
+*Coordinates:* [61.5, -124.2](https://maps.google.com/?ll=61.5,-124.2)   
 *Contents:* permanent ice  
 [Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2](https://doi.org/10.1016/B978-0-12-811739-2.00015-2)   
 
@@ -3492,7 +3493,7 @@ Canada - Northwest Territories - Nahanni North Karst
 <a name="CA-e0deca06801b5c5fa667309c5758a56e"></a>
 Canada - Alberta - Kananaskis; Moose Mountain  
 *Cave Name(s):* **Canyon Creek** Bragg Creek Ice Cave; Moose Mountain Ice Cave  
-[*Coordinates:* 50.9, -114.8](https://maps.google.com/?ll=50.9,-114.8) *altitude:* 1769  
+*Coordinates:* [50.9, -114.8](https://maps.google.com/?ll=50.9,-114.8) *altitude:* 1769  
 *Length:* 727m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -3503,7 +3504,7 @@ Canada - Alberta - Kananaskis; Moose Mountain
 <a name="CA-04500b255849c7007f21fb6737873bad"></a>
 Canada - Alberta - Kananaskis  
 *Cave Name(s):* **Plateau Mountain**  
-[*Coordinates:* 50.3, -114.5](https://maps.google.com/?ll=50.3,-114.5) *altitude:* 2226  
+*Coordinates:* [50.3, -114.5](https://maps.google.com/?ll=50.3,-114.5) *altitude:* 2226  
 *Length:* 410m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -3514,7 +3515,7 @@ Canada - Alberta - Kananaskis
 <a name="CA-2b37cadafcda9fcc0b489ca2f542074c"></a>
 Canada - Alberta - Crowsnest Pass; Rocky Mountains  
 *Cave Name(s):* **Booming Ice Chasm**  
-[*Coordinates:* 49.61667, -114.63333](https://maps.google.com/?ll=49.61667,-114.63333) *altitude:* 2189  
+*Coordinates:* [49.61667, -114.63333](https://maps.google.com/?ll=49.61667,-114.63333) *altitude:* 2189  
 *Length:* 961m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -3597,7 +3598,7 @@ Canada - British Columbia - Crowsnest Pass
 <a name="CA-0d08a5e72a515b358655ecd0ad6cd3fd"></a>
 Canada - British Columbia - White Ridges Provincial Park; Vancouver Island  
 *Cave Name(s):*  Q5  
-[*Coordinates:* 49.8, -126.0](https://maps.google.com/?ll=49.8,-126.0) *altitude:* 1200  
+*Coordinates:* [49.8, -126.0](https://maps.google.com/?ll=49.8,-126.0) *altitude:* 1200  
 *Length:* 1867m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -3609,7 +3610,7 @@ Canadian Caver 9/2, 16/1 1984, 16/2, 28/1, 29/2, 61/9
 <a name="CA-8efdd6f5c801962fa1845759065c2eec"></a>
 Canada - British Columbia - White Ridges Provincial Park; Vancouver Island  
 *Cave Name(s):* **Projects Cave**  
-[*Coordinates:* 49.8, -126.0](https://maps.google.com/?ll=49.8,-126.0) *altitude:* 1050  
+*Coordinates:* [49.8, -126.0](https://maps.google.com/?ll=49.8,-126.0) *altitude:* 1050  
 *Length:*  >130m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -3620,7 +3621,7 @@ Canada - British Columbia - White Ridges Provincial Park; Vancouver Island
 <a name="CA-e3f914ff17f96f58de0d411ed3fc95dd"></a>
 Canada - Alberta - Jasper National Park; Columbia Icefield  
 *Cave Name(s):* **Castleguard Cave**  
-[*Coordinates:* 52.1, -117.2](https://maps.google.com/?ll=52.1,-117.2) *altitude:* 2016  
+*Coordinates:* [52.1, -117.2](https://maps.google.com/?ll=52.1,-117.2) *altitude:* 2016  
 *Length:* 21068m *Vertical extent:* 387m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -3633,7 +3634,7 @@ Canadian Caver 2:26, 5/1:21, 11/1:28, 12/1:3, 15/2:7, 19/2:22, 59:7, 63:4, 66:4,
 <a name="CA-437cedd66adb093bdf7a2ff20baf9861"></a>
 Canada - Alberta - Jasper National Park  
 *Cave Name(s):* **Disaster Point Ice Cave**  
-[*Coordinates:* 53.0, -118.1](https://maps.google.com/?ll=53.0,-118.1) *altitude:* 1082  
+*Coordinates:* [53.0, -118.1](https://maps.google.com/?ll=53.0,-118.1) *altitude:* 1082  
 *Length:* 673m *Number of entrances:* 2  
 *Rock type:* limestone   
 *Contents:* permanent ice; charcoal  
@@ -3644,7 +3645,7 @@ Canada - Alberta - Jasper National Park
 <a name="CA-f313f2b3e7d347e60b341a8c1c489eb7"></a>
 Canada - Alberta - Jasper National Park  
 *Cave Name(s):* **Ice Trap**  
-[*Coordinates:* 53.1, -118.3](https://maps.google.com/?ll=53.1,-118.3) *altitude:* 2400  
+*Coordinates:* [53.1, -118.3](https://maps.google.com/?ll=53.1,-118.3) *altitude:* 2400  
 *Length:* 3002m   
 *Contents:* permanent ice  
 *Comments:* permafrost / cold zone; Devonian Palliser Formation  
@@ -3654,7 +3655,7 @@ Canada - Alberta - Jasper National Park
 <a name="CA-61eb1d12c486624258a4aeb86042960a"></a>
 Canada - Alberta - Jasper National Park  
 *Cave Name(s):* **Mount Alberta Cave**  
-[*Coordinates:* 52.3, -117.5](https://maps.google.com/?ll=52.3,-117.5) *altitude:* 3350  
+*Coordinates:* [52.3, -117.5](https://maps.google.com/?ll=52.3,-117.5) *altitude:* 3350  
 *Length:*  ~150+m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -3665,7 +3666,7 @@ Canada - Alberta - Jasper National Park
 <a name="CA-bdc992815b6397d93f2faee8c58e6366"></a>
 Canada - British Columbia - Mt. Sinwa, Taku, Stikine  
 *Cave Name(s):* **Icy Hope**  
-[*Coordinates:* 56.9, -133.3](https://maps.google.com/?ll=56.9,-133.3) *altitude:* 1499  
+*Coordinates:* [56.9, -133.3](https://maps.google.com/?ll=56.9,-133.3) *altitude:* 1499  
 *Length:* 200m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -3676,7 +3677,7 @@ Canada - British Columbia - Mt. Sinwa, Taku, Stikine
 <a name="CA-e4754c6c58abc3d84b44914d9d5e4a66"></a>
 Canada - British Columbia - Inverted Ridge  
 *Cave Name(s):* **Inverted Fridge**  
-[*Coordinates:* 49.1, -114.8](https://maps.google.com/?ll=49.1,-114.8) *altitude:* 1940  
+*Coordinates:* [49.1, -114.8](https://maps.google.com/?ll=49.1,-114.8) *altitude:* 1940  
 *Length:* 281m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -3687,18 +3688,18 @@ Canada - British Columbia - Inverted Ridge
 <a name="CA-7959f67bebf7e51d72c402da3a60a9b8"></a>
 Canada - British Columbia - Inverted Ridge  
 *Cave Name(s):* **Global Cooling**  
-[*Coordinates:* 49.1, -114.8](https://maps.google.com/?ll=49.1,-114.8) *altitude:* 1940  
+*Coordinates:* [49.1, -114.8](https://maps.google.com/?ll=49.1,-114.8) *altitude:* 1940  
 *Length:* 133m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
-*Comments:* Hoarfrost and ponded ice; cold trap / cold zone ?  
+*Comments:* Hoarfrost and ponded ice  
 [Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2](https://doi.org/10.1016/B978-0-12-811739-2.00015-2)   
 
 ---  
 <a name="CA-70d50dfeb233531b33a208735e1bb9d3"></a>
 Canada - Mount Bisaro  
 *Cave Name(s):* **Supermans Glittering Ice Palace (SGIP)**  
-[*Coordinates:* 49.6, -115.6](https://maps.google.com/?ll=49.6,-115.6) *altitude:* 2250  
+*Coordinates:* [49.6, -115.6](https://maps.google.com/?ll=49.6,-115.6) *altitude:* 2250  
 *Length:* 21m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -3709,7 +3710,7 @@ Canada - Mount Bisaro
 <a name="CA-383229b124ce49892d2c96fada86c410"></a>
 Canada - British Columbia - Glacier National Park  
 *Cave Name(s):* **Nakimu Cave**  
-[*Coordinates:* 51.3, -117.6](https://maps.google.com/?ll=51.3,-117.6) *altitude:* 1576  
+*Coordinates:* [51.3, -117.6](https://maps.google.com/?ll=51.3,-117.6) *altitude:* 1576  
 *Length:* 6000m   
 *Contents:* permanent ice  
 *Comments:* Badshot marble Formation, Cambrian; cold trap; Large icefall  
@@ -3719,7 +3720,7 @@ Canada - British Columbia - Glacier National Park
 <a name="CA-c62293d6320ddbc3b7f343e130d811e6"></a>
 Canada - Alberta - Wood Buffalo National Park  
 *Cave Name(s):* **Walkin-Ice Cave**  
-[*Coordinates:* 59.8, -112.2](https://maps.google.com/?ll=59.8,-112.2) *altitude:* 252  
+*Coordinates:* [59.8, -112.2](https://maps.google.com/?ll=59.8,-112.2) *altitude:* 252  
 *Length:* 1624m   
 *Rock type:* gypsum   
 *Contents:* permanent ice  
@@ -3751,7 +3752,7 @@ Calder and Bleakney (1967) Natl. Speleol. Soc. Bull. 29(1) 23
 <a name="CA-96c56886e85d227bd8e16198d09dcb70"></a>
 Canada - Nova Scotia; Hants County  
 *Cave Name(s):* **Woodville Ice Cave**  
-[*Coordinates:* 50.0341, -63.9555](https://maps.google.com/?ll=50.0341,-63.9555)   
+*Coordinates:* [50.0341, -63.9555](https://maps.google.com/?ll=50.0341,-63.9555)   
 *Length:* 50m   
 *Rock type:* gypsum   
 *Contents:* periodic ice  
@@ -3762,7 +3763,7 @@ Canada - Nova Scotia; Hants County
 <a name="CA-7d431eab499665145c16f812c04a18d2"></a>
 Canada - Nova Scotia  
 *Cave Name(s):* **Minasville Ice Cave**  
-[*Coordinates:* 45.2750, -63.8170](https://maps.google.com/?ll=45.2750,-63.8170)   
+*Coordinates:* [45.2750, -63.8170](https://maps.google.com/?ll=45.2750,-63.8170)   
 *Contents:* many bats  
 [Moseley (2007) doi:10.15273/pnsis.v44i1.3883](https://doi.org/10.15273/pnsis.v44i1.3883)   
 [Iepure (2018) doi:10.1016/B978-0-12-811739-2.00007-3](https://doi.org/10.1016/B978-0-12-811739-2.00007-3)   
@@ -4012,7 +4013,7 @@ United States of America - Alaska
 *Comments:* excavated 1963-1969  
 [www.erdc.usace.army.mil/CRREL/Permafrost-Tunnel-Research-Facility](http://www.erdc.usace.army.mil/CRREL/Permafrost-Tunnel-Research-Facility)   
 [Sellmann (1967) https://erdc-library.erdc.dren.mil/jspui/bitstream/11681/5591/1/CRREL-Technical-Report-199.pdf](https://erdc-library.erdc.dren.mil/jspui/bitstream/11681/5591/1/CRREL-Technical-Report-199.pdf)   
-Johansen et al. (1988) doi.org/10.1016/0886-7798(88)90030-2  
+[Johansen et al. (1988) doi:10.1016/0886-7798(88)90030-2](https://doi.org/10.1016/0886-7798(88)90030-2)   
 [Douglas et al. (2011) doi:10.1002/ppp.709](https://doi.org/10.1002/ppp.709)   
 
 ---  
@@ -6867,7 +6868,7 @@ Spain - Santa Cruz de Tenerife - Tenerife
 <a name="ES-00259bdabb0744cb577e989b66d7e425"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island  
 *Cave Name(s):* **Cueva de Don Justo**  
-[*Coordinates:* 27.65017, -17.98885](https://maps.google.com/?ll=27.65017,-17.98885)   
+*Coordinates:* [27.65017, -17.98885](https://maps.google.com/?ll=27.65017,-17.98885)   
 *Length:* 6315m *Vertical extent:* 140m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1529](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1529)   
@@ -6919,7 +6920,7 @@ Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island
 <a name="ES-47dfa4760a06c3060ab46b4406d3b4be"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife  
 *Cave Name(s):* **Cueva de Felipe Reventon**  
-[*Coordinates:* 28.4, -16.7](https://maps.google.com/?ll=28.4,-16.7)   
+*Coordinates:* [28.4, -16.7](https://maps.google.com/?ll=28.4,-16.7)   
 *Length:* 3000m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=664](https://rpif.asu.edu/LTdatabase/result.php?RECNO=664)   
@@ -7549,7 +7550,7 @@ Spain - Santa Cruz de Tenerife - Tenerife
 <a name="ES-7a16bf26a547c98e604915188c2ccf93"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva del Viento** El Viento cave  
-[*Coordinates:* 28.35209, -16.70405](https://maps.google.com/?ll=28.35209,-16.70405) *altitude:* 625  
+*Coordinates:* [28.35209, -16.70405](https://maps.google.com/?ll=28.35209,-16.70405) *altitude:* 625  
 *Length:* 17032m *Vertical extent:* 478m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517)   
@@ -8999,7 +9000,7 @@ Russia - Kamchatka - North Gorely
 <a name="RU-5236/15759-3"></a>
 Russia - Kamchatka - North Gorely  
 *Cave Name(s):* **Go-9604** *Id:* 5236/15759-3  
-[*Coordinates:* 52.61047, +157.99663](https://maps.google.com/?ll=52.61047,157.99663) *altitude:* 970  
+*Coordinates:* [52.61047, +157.99663](https://maps.google.com/?ll=52.61047,157.99663) *altitude:* 970  
 *Length:* 140m *Vertical extent:* 4m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1111](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1111)   
@@ -9455,7 +9456,7 @@ Portugal - Azores - Sao Jorge
 <a name="PT-78e16b3f1ca61709c2d9a0f395bc45bf"></a>
 Portugal - Azores - Ilha de Pico  
 *Cave Name(s):* **Gruta das Torres (Grotto of Towers)**  
-[*Coordinates:* 38.4943, -28.5024](https://maps.google.com/?ll=38.4943,-28.5024) *altitude:* 300  
+*Coordinates:* [38.4943, -28.5024](https://maps.google.com/?ll=38.4943,-28.5024) *altitude:* 300  
 *Length:* 5439m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=259](https://rpif.asu.edu/LTdatabase/result.php?RECNO=259)   
@@ -9525,7 +9526,7 @@ United States of America - California; San Bernardino - Pisgah
 <a name="ID-620d5be2ffccdbbd1e643caafe2539be"></a>
 Indonesia - Java - Java  
 *Cave Name(s):* **Gua Lawa**  
-[*Coordinates:* -7.2314, +109.3175](https://maps.google.com/?ll=-7.2314,109.3175) *altitude:* 936  
+*Coordinates:* [-7.2314, +109.3175](https://maps.google.com/?ll=-7.2314,109.3175) *altitude:* 936  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1107](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1107)   
 
@@ -13014,7 +13015,7 @@ Korea, Republic of - Jeju
 <a name="JP-6d8a263701cde5196f0357254dcdb677"></a>
 Japan - Yamanashi - Mt. Fuji  
 *Cave Name(s):* **Narusawa Hyoketsu Cave** Narusawa Ice Cave; Narusawa Wind Cave; Narusawa Fuketsu  
-[*Coordinates:* 35.474722, +138.666389](https://maps.google.com/?ll=35.474722,138.666389) *altitude:* 1025  
+*Coordinates:* [35.474722, +138.666389](https://maps.google.com/?ll=35.474722,138.666389) *altitude:* 1025  
 *Length:* 156m   
 *Cave type:* lava tunnel  
 *Contents:* permanent ice  
@@ -16576,7 +16577,7 @@ United States of America - California; San Bernardino - Pisgah
 <a name="RU-5536/16010-11"></a>
 Russia - Kamchatka - Tolbachik  
 *Cave Name(s):* **To-9601/02** *Id:* 5536/16010-11  
-[*Coordinates:* 55.61883, +160.17227](https://maps.google.com/?ll=55.61883,160.17227) *altitude:* 390  
+*Coordinates:* [55.61883, +160.17227](https://maps.google.com/?ll=55.61883,160.17227) *altitude:* 390  
 *Length:* 540m *Vertical extent:* 11m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1122](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1122)   
@@ -16618,7 +16619,7 @@ Russia - Kamchatka - Tolbachik
 <a name="RU-5536/16010-6"></a>
 Russia - Kamchatka - South Tolbachik  
 *Cave Name(s):* **To-9607** *Id:* 5536/16010-6  
-[*Coordinates:* 55.60438, +160.18297](https://maps.google.com/?ll=55.60438,160.18297) *altitude:* 370  
+*Coordinates:* [55.60438, +160.18297](https://maps.google.com/?ll=55.60438,160.18297) *altitude:* 370  
 *Length:* 24m *Vertical extent:* 2m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1127](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1127)   
@@ -17918,7 +17919,7 @@ United States of America - Hawaii - Hawaii Island
 <a name="VN-e4e0b8742911bfff10e7cd340a14435e"></a>
 Viet Nam - Dak Sor  
 *Cave Name(s):* **C0**  
-[*Coordinates:* 12.52186, +107.89246](https://maps.google.com/?ll=12.52186,107.89246)   
+*Coordinates:* [12.52186, +107.89246](https://maps.google.com/?ll=12.52186,107.89246)   
 *Length:* 476m *Vertical extent:* 15m   
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
@@ -17937,7 +17938,7 @@ Viet Nam - Dak Sor
 <a name="VN-ef16277508651e74ba260f711e85b185"></a>
 Viet Nam - Dak Sor  
 *Cave Name(s):* **C3**  
-[*Coordinates:* 12.51732, +107.89646](https://maps.google.com/?ll=12.51732,107.89646)   
+*Coordinates:* [12.51732, +107.89646](https://maps.google.com/?ll=12.51732,107.89646)   
 *Length:* 716m *Vertical extent:* 7m   
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
@@ -17974,7 +17975,7 @@ Viet Nam - Nam Da
 <a name="VN-9c8957b15d1d30e31c53f8f3ad4ecf33"></a>
 Viet Nam - Nam Da  
 *Cave Name(s):* **C7**  
-[*Coordinates:* 12.51423, +107.90976](https://maps.google.com/?ll=12.51423,107.90976)   
+*Coordinates:* [12.51423, +107.90976](https://maps.google.com/?ll=12.51423,107.90976)   
 *Length:* 1067m *Vertical extent:* ~15m   
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
@@ -18091,7 +18092,7 @@ Saudi Arabia - Harrat Khaybar lava field
 <a name="IS-1abbaf82d1030186bb616c1ad7627bb5"></a>
 Iceland - Surtsey Island  
 *Cave Name(s):* **Grillid (Cave S-4)**  
-[*Coordinates:* 63.30000, -20.58333](https://maps.google.com/?ll=63.30000,-20.58333)   
+*Coordinates:* [63.30000, -20.58333](https://maps.google.com/?ll=63.30000,-20.58333)   
 *Cave type:* lava tunnel  
 *Contents:* minerals  
 [https://www.mindat.org/loc-204560.html](https://www.mindat.org/loc-204560.html)   
@@ -18132,7 +18133,7 @@ United States of America - Hawaii - Mauna Loa
 <a name="RU-b9210a2a6482c0a043695a060cba678c"></a>
 Russia - Kamchatka peninsula; Gorley-3 volcano  
 *Cave Name(s):* **Goncharov lava tube**  
-[*Coordinates:* 52.53397, +158.07315](https://maps.google.com/?ll=52.53397,158.07315) *altitude:* 1277  
+*Coordinates:* [52.53397, +158.07315](https://maps.google.com/?ll=52.53397,158.07315) *altitude:* 1277  
 *Length:* 24m *Vertical extent:* 3m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 Abdullin (2013) Cave Karst Sci. 40(3), 141  
@@ -18141,7 +18142,7 @@ Abdullin (2013) Cave Karst Sci. 40(3), 141
 <a name="RU-3a09160e042bf53d2b9a6b54ed705118"></a>
 Russia - Kamchatka peninsula; Gorley-3 volcano  
 *Cave Name(s):* **Pogibshaya lava tube**  
-[*Coordinates:* 52.53333, +158.07290](https://maps.google.com/?ll=52.53333,158.07290) *altitude:* 1257  
+*Coordinates:* [52.53333, +158.07290](https://maps.google.com/?ll=52.53333,158.07290) *altitude:* 1257  
 *Rock type:* basalt *Cave type:* lava tunnel  
 Abdullin (2013) Cave Karst Sci. 40(3), 141  
 
@@ -18201,7 +18202,7 @@ United States of America - New Mexico; Cibola County - El Malpais
 <a name="JO-6bbf0d56879e15035e2a176b6e3d0a0a"></a>
 Jordan  
 *Cave Name(s):* **Al-Fahda Cave (Lioness Cave)**  
-[*Coordinates:* 32.30, +37.12](https://maps.google.com/?ll=32.30,37.12) *altitude:* 792  
+*Coordinates:* [32.30, +37.12](https://maps.google.com/?ll=32.30,37.12) *altitude:* 792  
 *Length:* 924m *Vertical extent:* 7m   
 *Cave type:* lava tunnel  
 [Al-Malabeh et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p10.pdf](http://www.vulcanospeleology.org/sym12/ISV12p10.pdf)   
@@ -18210,7 +18211,7 @@ Jordan
 <a name="JO-8c1cb307c0ad7876d20bc7d1c2136eda"></a>
 Jordan  
 *Cave Name(s):* **Al-Badia Cave**  
-[*Coordinates:* 32.12, +36.81](https://maps.google.com/?ll=32.12,36.81) *altitude:* 783  
+*Coordinates:* [32.12, +36.81](https://maps.google.com/?ll=32.12,36.81) *altitude:* 783  
 *Length:* 445m *Vertical extent:* 17m   
 *Cave type:* lava tunnel  
 [Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf](https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf)   
@@ -18288,7 +18289,7 @@ Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island
 <a name="XO-9a858b37208a82e1cb8e4d23a71289d8"></a>
 Moon - Marius Hills; Oceanus Procellarum  
 *Cave Name(s):* **Marius Hill A**  
-[*Coordinates:* 13.096, -57.056](https://maps.google.com/?ll=13.096,-57.056)   
+*Coordinates:* [13.096, -57.056](https://www.google.com/moon/#lat=13.096&lon=-57.056)   
 *Length:* 6402m   
 *Cave type:* lava tunnel  
 [Sauro et al. (2020) doi:10.1016/j.earscirev.2020.103288](https://doi.org/10.1016/j.earscirev.2020.103288)   
@@ -18297,7 +18298,7 @@ Moon - Marius Hills; Oceanus Procellarum
 <a name="XO-a01b11ce25463e8417c6bcacff6f396f"></a>
 Moon - Marius Hills; Oceanus Procellarum  
 *Cave Name(s):* **Marius Hill B**  
-[*Coordinates:* 13.603, -58.047](https://maps.google.com/?ll=13.603,-58.047)   
+*Coordinates:* [13.603, -58.047](https://www.google.com/moon/#lat=13.603&lon=-58.047)   
 *Length:* 4137m   
 *Cave type:* lava tunnel  
 [Sauro et al. (2020) doi:10.1016/j.earscirev.2020.103288](https://doi.org/10.1016/j.earscirev.2020.103288)   
@@ -18306,7 +18307,7 @@ Moon - Marius Hills; Oceanus Procellarum
 <a name="XO-f6ad8dd2e96a835f0462047b498156ca"></a>
 Moon  
 *Cave Name(s):* **Gruithuisen**  
-[*Coordinates:* 34.618, -43.467](https://maps.google.com/?ll=34.618,-43.467)   
+*Coordinates:* [34.618, -43.467](https://www.google.com/moon/#lat=34.618&lon=-43.467)   
 *Length:* 27244m *Number of entrances:* 20  
 *Cave type:* lava tunnel  
 [Sauro et al. (2020) doi:10.1016/j.earscirev.2020.103288](https://doi.org/10.1016/j.earscirev.2020.103288)   
@@ -18315,7 +18316,7 @@ Moon
 <a name="XO-f792c5bc915d41f787526a95fe004bdd"></a>
 Moon  
 *Cave Name(s):* **Hyginus Rill Tectonic**  
-[*Coordinates:* 8.384, -43.467](https://maps.google.com/?ll=8.384,-43.467)   
+*Coordinates:* [8.384, -43.467](https://www.google.com/moon/#lat=8.384&lon=-43.467)   
 *Comments:* Graben-bounded tectonic pit chain  
 [Sauro et al. (2020) doi:10.1016/j.earscirev.2020.103288](https://doi.org/10.1016/j.earscirev.2020.103288)   
 
@@ -18323,42 +18324,42 @@ Moon
 <a name="XO-4e3053626f0ce6cf7a7bae50e14ac0c5"></a>
 Moon - Mare Ingenii  
 *Cave Name(s):* **Ingenii Pit**  
-[*Coordinates:* -35.950, +166.057](https://maps.google.com/?ll=-35.950,166.057)   
+*Coordinates:* [-35.950, +166.057](https://www.google.com/moon/#lat=-35.950&lon=166.057)   
 [Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008](https://doi.org/10.1016/j.pss.2012.05.008)   
 
 ---  
 <a name="XO-be170845b2e86898da1aa1d5fc33348f"></a>
 Moon - Mare Tranquillitatis  
 *Cave Name(s):* **Tranquillitatis Pit**  
-[*Coordinates:* 8.335, +33.222](https://maps.google.com/?ll=8.335,33.222)   
+*Coordinates:* [8.335, +33.222](https://www.google.com/moon/#lat=8.335&lon=33.222)   
 [Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008](https://doi.org/10.1016/j.pss.2012.05.008)   
 
 ---  
 <a name="XO-e72b52449f8809e227d5039bb86c7ce4"></a>
 Moon - Marius Hills  
 *Cave Name(s):* **Marius Hills Pit**  
-[*Coordinates:* 14.091, -56.767](https://maps.google.com/?ll=14.091,-56.767)   
+*Coordinates:* [14.091, -56.767](https://www.google.com/moon/#lat=14.091&lon=-56.767)   
 [Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008](https://doi.org/10.1016/j.pss.2012.05.008)   
 
 ---  
 <a name="XO-a7142cb732c947d8f2fbc90b43b068ac"></a>
 Moon - King Crater  
 *Cave Name(s):* **King Pond Bridge**  
-[*Coordinates:* 6.241, +119.735](https://maps.google.com/?ll=6.241,119.735)   
+*Coordinates:* [6.241, +119.735](https://www.google.com/moon/#lat=6.241&lon=119.735)   
 [Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008](https://doi.org/10.1016/j.pss.2012.05.008)   
 
 ---  
 <a name="XO-803cb051c79daf1ab8922c65c672e22f"></a>
 Moon  
 *Cave Name(s):* **Copernicus Pond Pit**  
-[*Coordinates:* 10.329, -20.381](https://maps.google.com/?ll=10.329,-20.381)   
+*Coordinates:* [10.329, -20.381](https://www.google.com/moon/#lat=10.329&lon=-20.381)   
 [Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008](https://doi.org/10.1016/j.pss.2012.05.008)   
 
 ---  
 <a name="XA-d2e2e91908fbea3557add34500154485"></a>
 Mars - Arsia  
 *Cave Name(s):* **Arsia North**  
-[*Coordinates:* -3.062, -123.930](https://maps.google.com/?ll=-3.062,-123.930)   
+*Coordinates:* [-3.062, -123.930](https://www.google.com/mars/#lat=-3.062&lon=-123.930)   
 *Length:* 23359m *Number of entrances:* 22  
 *Cave type:* lava tunnel  
 [Sauro et al. (2020) doi:10.1016/j.earscirev.2020.103288](https://doi.org/10.1016/j.earscirev.2020.103288)   
@@ -18367,7 +18368,7 @@ Mars - Arsia
 <a name="XA-1dd91fee59fa4dab28c6fcd900aaee23"></a>
 Mars - Arsia  
 *Cave Name(s):* **Arsia South A**  
-[*Coordinates:* -14.377, -119.949](https://maps.google.com/?ll=-14.377,-119.949)   
+*Coordinates:* [-14.377, -119.949](https://www.google.com/mars/#lat=-14.377&lon=-119.949)   
 *Length:* 9683m *Number of entrances:* 23  
 *Cave type:* lava tunnel  
 [Sauro et al. (2020) doi:10.1016/j.earscirev.2020.103288](https://doi.org/10.1016/j.earscirev.2020.103288)   
@@ -18376,7 +18377,7 @@ Mars - Arsia
 <a name="XA-b36fa07bf6eab958b13534c802c22629"></a>
 Mars - Arsia  
 *Cave Name(s):* **Arsia South B**  
-[*Coordinates:* -13.632, -119.869](https://maps.google.com/?ll=-13.632,-119.869)   
+*Coordinates:* [-13.632, -119.869](https://www.google.com/mars/#lat=-13.632&lon=-119.869)   
 *Length:* 13615m *Number of entrances:* 17  
 *Cave type:* lava tunnel  
 [Sauro et al. (2020) doi:10.1016/j.earscirev.2020.103288](https://doi.org/10.1016/j.earscirev.2020.103288)   
@@ -18385,7 +18386,7 @@ Mars - Arsia
 <a name="XA-e711c5835a53221e4926e652bc765ebb"></a>
 Mars - Olympus Mons  
 *Cave Name(s):* **Olympus**  
-[*Coordinates:* 19.456, -133.399](https://maps.google.com/?ll=19.456,-133.399)   
+*Coordinates:* [19.456, -133.399](https://www.google.com/mars/#lat=19.456&lon=-133.399)   
 *Length:* 20372m *Number of entrances:* 25  
 *Cave type:* lava tunnel  
 [Sauro et al. (2020) doi:10.1016/j.earscirev.2020.103288](https://doi.org/10.1016/j.earscirev.2020.103288)   
@@ -18394,7 +18395,7 @@ Mars - Olympus Mons
 <a name="XA-26f76f3b6f74dd283177dd743210a896"></a>
 Mars  
 *Cave Name(s):* **Hadriaca**  
-[*Coordinates:* -36.668, +89.394](https://maps.google.com/?ll=-36.668,89.394)   
+*Coordinates:* [-36.668, +89.394](https://www.google.com/mars/#lat=-36.668&lon=89.394)   
 *Length:* 7193m *Number of entrances:* 32  
 *Cave type:* lava tunnel  
 [Sauro et al. (2020) doi:10.1016/j.earscirev.2020.103288](https://doi.org/10.1016/j.earscirev.2020.103288)   

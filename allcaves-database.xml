@@ -73,7 +73,7 @@
       <contents>permanent ice</contents>
       <comments>perennial ice near western entrance (Westeingang) 1391masl</comments>
       <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
-      <reference>Die Höhle #55 7-2004</reference>
+      <reference>Plan and Xaver (2010) https://www.zobodat.at/pdf/Hoehle_061_0018-0038.pdf</reference>
    </record>
    <record>
       <country-name>Austria</country-name>
@@ -131,8 +131,9 @@
       <altitude>1440</altitude>
       <length>721</length>
       <vertical-extent>68</vertical-extent>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <reference>Die Höhle #61 1-4/2010</reference>
+      <reference>Herrman et al. (2010) Die Höhle #61 https://www.zobodat.at/pdf/Hoehle_061_0057-0072.pdf</reference>
    </record>
    <record>
       <country-name>Austria</country-name>
@@ -228,7 +229,7 @@
       <branch-name>Gamslöcher</branch-name>
       <branch-name>Salzburgerschacht</branch-name>
       <reference>Die Höhle 57 (2006)</reference>
-      <reference>Die Höhle 61 (2010)</reference>
+      <reference>Die Höhle 61 (2010) https://www.zobodat.at/pdf/Hoehle_061_0102-0108.pdf</reference>
       <reference>Die Höhle 63 (2012)</reference>
       <reference>Neubauer (2010) DOI:10.5038/1827-806X.40.2.4</reference>
       <reference>https://hoehle.org/laengste-tiefste</reference>
@@ -3704,8 +3705,8 @@
       <phys-area-name>Spišsko-gemerský kras, Slovenský raj</phys-area-name>
       <principal-cave-name>Dobšinská ľadová jaskyňa (Dobšiná Ice Cave)</principal-cave-name>
       <other-cave-name/>
-      <latitude>48.871944</latitude>
-      <longitude>20.294722</longitude>
+      <latitude>48.87194</latitude>
+      <longitude>20.29472</longitude>
       <altitude>969</altitude>
       <length>1483</length>
       <vertical-extent>112</vertical-extent>
@@ -6047,7 +6048,6 @@
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <comments>Hoarfrost and ponded ice</comments>
-      <comments>cold trap / cold zone ?</comments>
       <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
    </record>
    <record>
@@ -6542,7 +6542,7 @@
       <comments>excavated 1963-1969</comments>
       <reference>www.erdc.usace.army.mil/CRREL/Permafrost-Tunnel-Research-Facility</reference>
       <reference>Sellmann (1967) https://erdc-library.erdc.dren.mil/jspui/bitstream/11681/5591/1/CRREL-Technical-Report-199.pdf</reference>
-      <reference>Johansen et al. (1988) doi.org/10.1016/0886-7798(88)90030-2</reference>
+      <reference>Johansen et al. (1988) doi:10.1016/0886-7798(88)90030-2</reference>
       <reference>Douglas et al. (2011) doi:10.1002/ppp.709</reference>
    </record>
    <record>

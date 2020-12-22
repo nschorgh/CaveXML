@@ -34,13 +34,15 @@
       "length": 149123,
       "vertical-extent": 1061,
       "number-of-entrances": 34,
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "perennial ice found near entrances of Feuertal-Eishöhle, Raucherkarhöhle, and Altarkögerlhöhle",
       "branch-name": "Feuertal-Eishöhle",
       "branch-name": "Raucherkarhöhle",
       "branch-name": "Altarkögerlhöhle",
       "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9",
-      "reference": "https://hoehle.org/laengste-tiefste"
+      "reference": "https://hoehle.org/laengste-tiefste",
+      "reference": "https://de.wikipedia.org/wiki/Sch%C3%B6nberg-H%C3%B6hlensystem"
     },
 
     {
@@ -75,7 +77,22 @@
       "contents": "permanent ice",
       "comments": "perennial ice near western entrance (Westeingang) 1391masl",
       "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9",
-      "reference": "Plan and Xaver (2010) https://www.zobodat.at/pdf/Hoehle_061_0018-0038.pdf"
+      "reference": "Plan and Xaver (2010) https://www.zobodat.at/pdf/Hoehle_061_0018-0038.pdf",
+      "reference": "Mais and Pavuza (2000) https://www.zobodat.at/pdf/Hoehle_051_0121-0125.pdf"
+    },
+
+    {
+      "country-name": "Austria",
+      "state-or-province": "Oberösterreich",
+      "phys-area-name": "Dachsteingebirge",
+      "principal-cave-name": "Dachstein-Rieseneishöhle",
+      "cave-id": "1547/17",
+      "altitude": 1455,
+      "length": 2000,
+      "vertical-extent": 70,
+      "number-of-entrances": [],
+      "contents": "permanent ice",
+      "reference": "https://de.wikipedia.org/wiki/Dachstein-Rieseneish%C3%B6hle"
     },
 
     {
@@ -134,7 +151,7 @@
       "cave-id": "1851/7",
       "latitude": [],
       "longitude": [],
-      "altitude": 1440,
+      "altitude": 1450,
       "length": 721,
       "vertical-extent": 68,
       "rock-type": "limestone",
@@ -144,10 +161,11 @@
 
     {
       "country-name": "Austria",
-      "state-or-province": [],
+      "state-or-province": "Steiermark",
       "phys-area-name": "Hochschwab",
       "principal-cave-name": "Beilstein Eishöhle",
       "other-cave-name": [],
+      "cave-id": "1741/2",
       "latitude": [],
       "longitude": [],
       "altitude": "1308 main entrance",
@@ -155,7 +173,8 @@
       "vertical-extent": [],
       "contents": "permanent ice",
       "comments": [],
-      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9"
+      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9",
+      "cave-use": "guided tourist cave"
     },
 
     {
@@ -164,14 +183,16 @@
       "phys-area-name": "Sengsengebirge",
       "principal-cave-name": "Kraterschacht",
       "other-cave-name": [],
+      "cave-id": "1651/24",
       "latitude": [],
       "longitude": [],
       "altitude": "1531 main entrance",
       "length": [],
-      "vertical-extent": [],
+      "vertical-extent": 250,
       "contents": "permanent ice",
       "comments": [],
-      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9"
+      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9",
+      "reference": "Weißmair (2011) https://www.zobodat.at/pdf/Hoehle_062_0027-0030.pdf"
     },
 
     {
@@ -259,6 +280,24 @@
       "rock-type": "limestone",
       "cave-system": "Gamslöcher-Kolowrat-Höhlensystem",
       "reference": "https://www.zobodat.at/pdf/HdN_9_0175-0183.pdf"
+    },
+
+    {
+      "country-name": "Austria",
+      "state-or-province": "Oberösterreich",
+      "phys-area-name": "Totes Gebirge",
+      "principal-cave-name": "Schwarzmooskogel-Eishöhle",
+      "other-cave-name": "SMK-Eishöhle",
+      "cave-id": "1623/40",
+      "latitude": [],
+      "longitude": [],
+      "altitude": [],
+      "length": 5051,
+      "vertical-extent": 262,
+      "number-of-entrances": 6,
+      "contents": "permanent ice",
+      "cave-system": "Schwarzmooskogel-Höhlensystem",
+      "reference": "Winkler (2005) https://www.zobodat.at/pdf/Hoehle_056_0072-0076.pdf"
     },
 
     {
@@ -414,7 +453,7 @@
       "reference": "Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=22",
       "reference": "Mills and Wood (1972) https://www.shepton.org.uk/files/jnr/jnr_series_05_04.pdf",
-      "reference": "www.thecave.is/",
+      "reference": "https://www.thecave.is/",
       "reference": "Hroarsson and Jonsson (1992) http://www.vulcanospeleology.org/sym06/ISV6x19.pdf"
     },
 
@@ -506,8 +545,10 @@
       "phys-area-name": "Reiteralm, Berchtesgaden Alps",
       "principal-cave-name": "Yetischacht",
       "other-cave-name": [],
+      "cave-id": "1337/87",
       "altitude": [],
-      "length": [],
+      "length": 537,
+      "vertical-extent": 194,
       "contents": "permanent ice",
       "comments": "50m high ice mountain",
       "reference": "Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6"
@@ -519,11 +560,14 @@
       "phys-area-name": "Reiteralm, Berchtesgaden Alps",
       "principal-cave-name": "Schlundeisbergschacht",
       "other-cave-name": [],
+      "cave-id": "1337/213",
       "altitude": [],
       "length": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "45m high ice mountain",
-      "reference": "Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6"
+      "reference": "Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6",
+      "reference": "Wisshak et al. (2013) https://www.zobodat.at/pdf/Hoehle_064_0090-0105.pdf"
     },
 
     {
@@ -532,11 +576,30 @@
       "phys-area-name": "Reiteralm; Berchtesgaden Alps",
       "principal-cave-name": "Eisrohrhöhle",
       "other-cave-name": [],
+      "cave-id": "1337/118",
       "altitude": [],
       "length": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "cave-system": "Eisrohrhöhle-Bammelschacht-System",
-      "reference": "Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6"
+      "reference": "Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6",
+      "reference": "Wisshak et al. (2013) https://www.zobodat.at/pdf/Hoehle_064_0090-0105.pdf"
+    },
+
+    {
+      "country-name": "Germany",
+      "state-or-province": [],
+      "phys-area-name": "Reiteralm; Berchtesgaden Alps",
+      "principal-cave-name": "Eisrohrhöhle-Bammelschacht-System",
+      "other-cave-name": [],
+      "cave-id": [],
+      "altitude": [],
+      "length": "~7800",
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "branch-name": "Eisrohrhöhle",
+      "branch-name": "Bammelschacht",
+      "reference": "Wisshak et al. (2013) https://www.zobodat.at/pdf/Hoehle_064_0090-0105.pdf"
     },
 
     {
@@ -545,8 +608,10 @@
       "phys-area-name": "Reiteralm; Berchtesgaden Alps",
       "principal-cave-name": "Zeller Eishöhle",
       "other-cave-name": [],
+      "cave-id": "1337/5",
       "altitude": [],
-      "length": [],
+      "length": 660,
+      "vertical-extent": 143,
       "contents": "permanent ice",
       "comments": "discovered in 1909",
       "reference": "Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6"
@@ -3718,7 +3783,7 @@
       "vertical-extent": 57,
       "contents": "permanent ice",
       "reference": "Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2",
-      "reference": "www.ssj.sk/en/jaskyna/5-demanovska-ice-cave"
+      "reference": "http://www.ssj.sk/en/jaskyna/5-demanovska-ice-cave"
     },
 
     {
@@ -3949,7 +4014,7 @@
       "contents": "many bats",
       "comments": "UNESCO world heritage site",
       "reference": "Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2",
-      "reference": "www.ssj.sk/en/jaskyna/6-dobsinska-ice-cave",
+      "reference": "http://www.ssj.sk/en/jaskyna/6-dobsinska-ice-cave",
       "reference": "Gradzinski et al. doi:10.14241/asgp.2016.016",
       "cave-use": "guided tourist cave"
     },
@@ -6942,7 +7007,7 @@
       "length": 110,
       "cave-type": "artificial cave",
       "comments": "excavated 1963-1969",
-      "reference": "www.erdc.usace.army.mil/CRREL/Permafrost-Tunnel-Research-Facility",
+      "reference": "https://www.erdc.usace.army.mil/CRREL/Permafrost-Tunnel-Research-Facility",
       "reference": "Sellmann (1967) https://erdc-library.erdc.dren.mil/jspui/bitstream/11681/5591/1/CRREL-Technical-Report-199.pdf",
       "reference": "Johansen et al. (1988) doi:10.1016/0886-7798(88)90030-2",
       "reference": "Douglas et al. (2011) doi:10.1002/ppp.709"
@@ -7851,6 +7916,7 @@
       "phys-area-name": "Ambre (Renard Crater)",
       "principal-cave-name": "Andavakoera",
       "length": 400,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=240"
     },
@@ -7914,16 +7980,6 @@
       "length": 142,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=36"
-    },
-
-    {
-      "country-name": "Samoa",
-      "state-or-province": [],
-      "phys-area-name": "Savaii Island",
-      "principal-cave-name": "Aopo Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=170"
     },
 
     {
@@ -8062,7 +8118,7 @@
       "contents": "permanent ice",
       "cave-system": "Arnold Lava Tube System",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1285",
-      "reference": "Knutson (1976) www.vulcanospeleology.org/sym01/ISV1x08.pdf",
+      "reference": "Knutson (1976) http://www.vulcanospeleology.org/sym01/ISV1x08.pdf",
       "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
     },
 
@@ -8258,7 +8314,8 @@
       "principal-cave-name": "Baker Cave",
       "length": 1496,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1216"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1216",
+      "reference": "Knutson (1976) http://www.vulcanospeleology.org/sym01/ISV1x08.pdf"
     },
 
     {
@@ -10051,6 +10108,7 @@
       "other-cave-name": "Caverna de la Sobrecueva",
       "altitude": 735,
       "length": 286,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1179"
     },
@@ -11364,7 +11422,7 @@
 
     {
       "country-name": "Mexico",
-      "state-or-province": "San Luis Potos",
+      "state-or-province": "San Luis Potos",
       "phys-area-name": [],
       "principal-cave-name": "Cueva de los Cuicillos",
       "length": 976,
@@ -12808,7 +12866,9 @@
       "rock-type": "basalt",
       "rock-type": "limestone",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1567"
+      "contents": "periodic ice",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1567",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -13022,18 +13082,6 @@
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1379",
       "reference": "Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf"
-    },
-
-    {
-      "country-name": "Samoa",
-      "state-or-province": [],
-      "phys-area-name": "Upolu Island",
-      "principal-cave-name": "Falemaunga Cave",
-      "length": 585,
-      "cave-type": "lava tunnel",
-      "comments": "north cave is 429m long; south cave is 156m long",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=171",
-      "reference": "Freeman et al. (1944) J. Polyn. Soc. 53(3), 86-106"
     },
 
     {
@@ -15294,7 +15342,8 @@
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1265",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1266",
-      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
+      "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\"",
+      "reference": "Knutson (1976) http://www.vulcanospeleology.org/sym01/ISV1x08.pdf"
     },
 
     {
@@ -16484,12 +16533,99 @@
 
     {
       "country-name": "Comoros",
-      "state-or-province": "Grande Comore County",
-      "phys-area-name": "Karthala",
-      "principal-cave-name": "Karthala tubes",
-      "length": [],
+      "state-or-province": [],
+      "phys-area-name": "Grande Comore",
+      "principal-cave-name": "Lava Cave #10",
+      "length": 210,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=165"
+      "reference": "Middleton (1998) doi:10.5038/1827-806X.27.1.8"
+    },
+
+    {
+      "country-name": "Comoros",
+      "state-or-province": [],
+      "phys-area-name": "Grande Comore",
+      "principal-cave-name": "Lava Cave #11",
+      "length": " >350",
+      "cave-type": "lava tunnel",
+      "reference": "Middleton (1998) doi:10.5038/1827-806X.27.1.8"
+    },
+
+    {
+      "country-name": "Comoros",
+      "state-or-province": [],
+      "phys-area-name": "Grande Comore",
+      "principal-cave-name": "Nyamaour Panga",
+      "other-cave-name": "Lava Cave #13",
+      "length": " 300+",
+      "cave-type": "lava tunnel",
+      "reference": "Middleton (1998) doi:10.5038/1827-806X.27.1.8"
+    },
+
+    {
+      "country-name": "Comoros",
+      "state-or-province": [],
+      "phys-area-name": "Grande Comore",
+      "principal-cave-name": "Grotte de Mhamdou",
+      "other-cave-name": "Lava Cave #14",
+      "length": " 450+",
+      "cave-type": "lava tunnel",
+      "reference": "Middleton (1998) doi:10.5038/1827-806X.27.1.8"
+    },
+
+    {
+      "country-name": "Comoros",
+      "state-or-province": [],
+      "phys-area-name": "Grande Comore; Mt. Kharthala; Hahaya cave area",
+      "principal-cave-name": "Panga Betini",
+      "other-cave-name": [],
+      "cave-id": "HH7-10-11",
+      "latitude": -11.53067,
+      "longitude": "043.28663",
+      "length": 345,
+      "cave-type": "lava tunnel",
+      "contents": "tree roots",
+      "reference": "Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf"
+    },
+
+    {
+      "country-name": "Comoros",
+      "state-or-province": [],
+      "phys-area-name": "Grande Comore",
+      "principal-cave-name": [],
+      "other-cave-name": [],
+      "cave-id": "HH12-13",
+      "length": 180,
+      "cave-type": "lava tunnel",
+      "contents": [],
+      "reference": "Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf"
+    },
+
+    {
+      "country-name": "Comoros",
+      "state-or-province": [],
+      "phys-area-name": "Anjouan Island",
+      "principal-cave-name": "Ngama Gombeni",
+      "other-cave-name": [],
+      "length": 65,
+      "cave-type": "lava tunnel",
+      "contents": "occasional bats",
+      "contents": "extensive guano",
+      "comments": "bat guano",
+      "reference": "Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf",
+      "reference": "Hume and Middleton (2011) http://www.islandbiodiversity.com/Phelsuma%2019b.pdf"
+    },
+
+    {
+      "country-name": "Comoros",
+      "state-or-province": [],
+      "phys-area-name": "Anjouan Island; Mromagi area",
+      "principal-cave-name": "Ngama Mapoudrou",
+      "other-cave-name": [],
+      "length": 30,
+      "cave-type": [],
+      "contents": "occasional bats",
+      "reference": "Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf"
     },
 
     {
@@ -19917,18 +20053,6 @@
     },
 
     {
-      "country-name": "Samoa",
-      "state-or-province": "Vaisigano",
-      "phys-area-name": "Savaii Island",
-      "phys-area-name": "Salani (Mulifauna Formation)",
-      "principal-cave-name": "Oloimoa",
-      "length": 70,
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1568"
-    },
-
-    {
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
@@ -20277,17 +20401,6 @@
     },
 
     {
-      "country-name": "Samoa",
-      "state-or-province": "Tuamasaga",
-      "phys-area-name": "Upolu Island",
-      "principal-cave-name": "Papa Cave",
-      "length": 1110,
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1559"
-    },
-
-    {
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
@@ -20311,12 +20424,130 @@
 
     {
       "country-name": "Samoa",
+      "state-or-province": "Tuamasaga",
+      "phys-area-name": "Upolu Island; Mt. Fito",
+      "principal-cave-name": "O le Pupu Pu'e Cave",
+      "other-cave-name": "Pe'ape'a Lava Cave",
+      "other-cave-name": "Papa Cave",
+      "length": 1110,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "contents": "birds",
+      "contents": "many bats",
+      "reference": "Tarburton (2011) https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1559",
+      "reference": "Ollier and Zarriello (1979) https://www.hinko.org/hinko/Dowloads/BCRA/BCRA%206-3-1979.pdf",
+      "cave-use": "guided tourist cave"
+    },
+
+    {
+      "country-name": "Samoa",
+      "state-or-province": [],
+      "phys-area-name": "Upolu Island",
+      "principal-cave-name": "Tafatafa",
+      "other-cave-name": "Ana Pe'ape'a at Tafa-tafa",
+      "length": "~1800",
+      "cave-type": "lava tunnel",
+      "contents": "birds",
+      "reference": "Tarburton (2011) https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf",
+      "reference": "Iliffe et al. (2000) https://oceancolor.gsfc.nasa.gov/staff/gene/IMAGES/iliffe.pdf"
+    },
+
+    {
+      "country-name": "Samoa",
+      "state-or-province": [],
+      "phys-area-name": "Upolu Island",
+      "principal-cave-name": "Falemaunga Cave",
+      "latitude": -13.91611,
+      "longitude": -171.82222,
+      "length": 585,
+      "cave-type": "lava tunnel",
+      "contents": "many bats",
+      "contents": "birds",
+      "comments": "north cave is 429m long; south cave is 156m long",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=171",
+      "reference": "Freeman et al. (1944) J. Polyn. Soc. 53(3), 86-106",
+      "reference": "Tarburton (2011) https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf",
+      "reference": "https://en.wikipedia.org/wiki/Falemauga_Caves"
+    },
+
+    {
+      "country-name": "Samoa",
+      "state-or-province": [],
+      "phys-area-name": "Upolu Island",
+      "principal-cave-name": "Falemauga Cave",
+      "length": 545,
+      "cave-type": "lava tunnel",
+      "contents": "birds",
+      "comments": "not to be confused with Falemaunga Cave",
+      "reference": "Tarburton (2011) https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf"
+    },
+
+    {
+      "country-name": "Samoa",
+      "state-or-province": [],
+      "phys-area-name": "Savaii Island",
+      "principal-cave-name": "Aopo Cave",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "contents": "birds",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=170",
+      "reference": "Tarburton (2011) https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf"
+    },
+
+    {
+      "country-name": "Samoa",
+      "state-or-province": [],
+      "phys-area-name": "Savaii Island; Aopo Conservation Area",
+      "principal-cave-name": "La'auolola Cave",
+      "other-cave-name": "Laauoleola Cave",
+      "other-cave-name": "Aopo Lava Tube",
+      "length": 5047,
+      "vertical-extent": 170,
+      "cave-type": "lava tunnel",
+      "reference": "https://www.showcaves.com/english/other/caves/Laauolola.html",
+      "cave-use": "self-guided tourist cave"
+    },
+
+    {
+      "country-name": "Samoa",
       "state-or-province": [],
       "phys-area-name": "Savaii Island",
       "principal-cave-name": "Peapea Cave #2",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=169"
+      "contents": "birds",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=169",
+      "cave-use": "guided tourist cave"
+    },
+
+    {
+      "country-name": "Samoa",
+      "state-or-province": "Vaisigano",
+      "phys-area-name": "Savaii Island",
+      "phys-area-name": "Salani (Mulifauna Formation)",
+      "principal-cave-name": "Oloimoa",
+      "length": 70,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1568"
+    },
+
+    {
+      "country-name": "Samoa",
+      "state-or-province": [],
+      "phys-area-name": "Savaii Island",
+      "phys-area-name": [],
+      "principal-cave-name": "Ana Pe'ape'a Tapuele'ele",
+      "other-cave-name": "O le ana o le nuu te tau",
+      "length": 370,
+      "vertical-extent": 74,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "contents": "birds",
+      "contents": "lake(s)",
+      "comments": "entrance is 100m diameter sinkhole",
+      "reference": "Iliffe et al. (2000) https://oceancolor.gsfc.nasa.gov/staff/gene/IMAGES/iliffe.pdf"
     },
 
     {
@@ -20391,10 +20622,79 @@
       "country-name": "Mauritius",
       "state-or-province": [],
       "phys-area-name": [],
-      "principal-cave-name": "Petite Riviere",
+      "principal-cave-name": "Petite Riviere Cave",
+      "length": 665,
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=167",
+      "reference": "Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf"
+    },
+
+    {
+      "country-name": "Mauritius",
+      "state-or-province": [],
+      "phys-area-name": "Plaine des Roches",
+      "principal-cave-name": [],
+      "length": 520,
+      "cave-type": "lava tunnel",
+      "contents": "many bats",
+      "reference": "Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf"
+    },
+
+    {
+      "country-name": "Mauritius",
+      "state-or-province": [],
+      "phys-area-name": [],
+      "principal-cave-name": "Pont Bon Dieu Jardin Cave",
+      "length": "~400",
+      "cave-type": "lava tunnel",
+      "contents": [],
+      "reference": "Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf"
+    },
+
+    {
+      "country-name": "Mauritius",
+      "state-or-province": [],
+      "phys-area-name": [],
+      "principal-cave-name": "Camp Thorel Cave",
+      "length": 687,
+      "cave-type": "lava tunnel",
+      "contents": [],
+      "reference": "Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf",
+      "reference": "Middleton (1998) http://vulcanospeleology.org/sym09/ISV9Eal.pdf"
+    },
+
+    {
+      "country-name": "Mauritius",
+      "state-or-province": [],
+      "phys-area-name": [],
+      "principal-cave-name": "Trou Hirondelle",
+      "length": 442,
+      "cave-type": "lava tunnel",
+      "contents": [],
+      "reference": "Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf"
+    },
+
+    {
+      "country-name": "Mauritius",
+      "state-or-province": [],
+      "phys-area-name": [],
+      "principal-cave-name": "Surinam Cave",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=167"
+      "contents": [],
+      "reference": "Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf"
+    },
+
+    {
+      "country-name": "Mauritius",
+      "state-or-province": [],
+      "phys-area-name": [],
+      "principal-cave-name": "Twilight Cavern",
+      "cave-id": "PR18-30-31",
+      "length": 570,
+      "cave-type": "lava tunnel",
+      "contents": [],
+      "reference": "Middleton (1998) http://vulcanospeleology.org/sym09/ISV9Eal.pdf"
     },
 
     {
@@ -24068,12 +24368,17 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Mauna Kea",
-      "principal-cave-name": "This Cave/That Cave",
       "other-cave-name": "Kukaiau Cave",
+      "other-cave-name": "This Cave/That Cave",
+      "other-cave-name": "Kukaiau Piping Cave",
       "length": 1002,
+      "vertical-extent": 105,
+      "number-of-entrances": 7,
       "cave-type": [],
+      "branch-name": "ThisCave",
+      "branch-name": "ThatCave",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=946",
-      "reference": "https://caves.org/pub/journal/PDF/V65/v65n1-Kempe_et_al.pdf",
+      "reference": "Kempe and Werner (2003) https://caves.org/pub/journal/PDF/V65/v65n1-Kempe_et_al.pdf",
       "reference": "Werner et al. (2002) NSS News, Dec, p346-353"
     },
 
@@ -25409,16 +25714,6 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California",
-      "state-or-province": "Modoc County",
-      "principal-cave-name": "Water Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=448"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "principal-cave-name": "Water Caves",
       "length": 536,
@@ -25502,9 +25797,10 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Kauai",
-      "principal-cave-name": "Waliweli 85A",
+      "principal-cave-name": "Weliweli 85A",
       "other-cave-name": "Shelter Cave 85A",
       "length": 15,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=970"
     },
@@ -25513,9 +25809,10 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Kauai; Koloa",
-      "principal-cave-name": "Waliweli 85B",
+      "principal-cave-name": "Weliweli 85B",
       "other-cave-name": "Shelter Cave 85B",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=971"
     },
@@ -25524,9 +25821,10 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Kauai; Koloa",
-      "principal-cave-name": "Waliweli 85C",
+      "principal-cave-name": "Weliweli 85C",
       "other-cave-name": "Shelter Cave 85C",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=980"
     },
@@ -25535,9 +25833,10 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Kauai; Koloa",
-      "principal-cave-name": "Waliweli 85D",
+      "principal-cave-name": "Weliweli 85D",
       "other-cave-name": "Shelter Cave 85D",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=981"
     },
@@ -25552,17 +25851,6 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=819"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii; Kauai County",
-      "phys-area-name": "Kauai Island; Koloa",
-      "principal-cave-name": "Weliweli Cave 85A-E",
-      "length": [],
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=827"
     },
 
     {
@@ -25758,7 +26046,8 @@
       "principal-cave-name": "Wind Caves #'s 3,4,5",
       "length": 91,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1314"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1314",
+      "reference": "Knutson (1976) http://www.vulcanospeleology.org/sym01/ISV1x08.pdf"
     },
 
     {
@@ -26392,7 +26681,7 @@
       "rock-type": "limestone",
       "comments": "largest limestone cave in Hawaii; important archeological finds",
       "comments": "sinkhole paleolake",
-      "reference": "www.cavereserve.org/",
+      "reference": "http://www.cavereserve.org",
       "reference": "Burney et al. (2001) doi:10.1890/0012-9615(2001)071[0615:FEFADB]2.0.CO;2",
       "reference": "Burney et al. (2006) doi:10.1007/s10745-006-9015-3",
       "reference": "David Burney (2011) \"Back to the Future in the Caves of Kaua'i\", Yale University Press, 216 pages",

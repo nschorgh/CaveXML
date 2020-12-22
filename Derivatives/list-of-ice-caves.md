@@ -1,17 +1,19 @@
 List of Ice Caves
 =================
-This list of 390 rock-hosted caves with perennial ice was generated from a CaveXML database. - Dec 19, 2020
+This list of 393 rock-hosted caves with perennial ice was generated from a CaveXML database. - Dec 22, 2020
 
 Austria [**Feuertal-Eishöhle** ](allcaves-database.md#AT-6a4b431e01fc8d76d8b52702cc7e22c0) *Part of* Schönberg-Höhlensystem  
-Austria - Hochschwab [**Beilstein Eishöhle** ](allcaves-database.md#AT-c2369e977cf59d9412da3dbb46eea2a5)  
 Austria [**Hundsalm Eis- und Tropfsteinhöhle** ](allcaves-database.md#AT-eaf2df599f9ab8eaeb58177bbc1b7e0d)  
 Austria - Oberösterreich - Dachstein [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
+Austria - Oberösterreich - Dachsteingebirge [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-1547/17)  
+Austria - Oberösterreich - Totes Gebirge [**Schwarzmooskogel-Eishöhle** SMK-Eishöhle 1623/40](allcaves-database.md#AT-1623/40) *Part of* Schwarzmooskogel-Höhlensystem  
 Austria - Salzburg; Grödig - Untersberg [**Kolowrathöhle** ](allcaves-database.md#AT-fce037bdb47bef79ab6306b200041f35) *Part of* Gamslöcher-Kolowrat-Höhlensystem  
 Austria - Salzburg - Tennengebirge [**Eiskogelhöhle** Eiskogel-Tropfsteinhöhle 1511/101](allcaves-database.md#AT-1511/101) *Part of* Eiskogel-Richter-Höhle  
 Austria - Salzburg - Tennengebirge [**Eisriesenwelt** 1511/24](allcaves-database.md#AT-1511/24)  
 Austria - Salzburg - Tennengebirge [**Schneeloch** 1511/7](allcaves-database.md#AT-1511/7)  
 Austria - Sarstein [**Eisgruben-Eishöhle** ](allcaves-database.md#AT-8913a0a7e2f449b62b94285fe849e0d4)  
-Austria - Sengsengebirge [**Kraterschacht** ](allcaves-database.md#AT-c5e03b527452659f2d07e58aba6ca697)  
+Austria - Sengsengebirge [**Kraterschacht** 1651/24](allcaves-database.md#AT-1651/24)  
+Austria - Steiermark - Hochschwab [**Beilstein Eishöhle** 1741/2](allcaves-database.md#AT-1741/2)  
 Austria - Steiermark; Oberösterreich - Totes Gebirge [**Schönberg-Höhlensystem** 1626/300](allcaves-database.md#AT-1626/300)  
 Austria - Steiermark - Schneealpe [**Schneeloch** 1851/7](allcaves-database.md#AT-1851/7)  
 Austria - Tirol - Tennengebirge [**Hundalm Eishöhle** Hundalm Eis- und Tropfsteinhöhle ](allcaves-database.md#AT-59edd1c93f95d518e53cc7030567f60c)  
@@ -73,10 +75,11 @@ Germany - Hochkalter, Berchtesgaden Alps [**Firnkegelhöhle** ](allcaves-databas
 Germany - Hochkalter, Berchtesgaden Alps [**Gipfelhöhle** ](allcaves-database.md#DE-f9b9bd239dc85259bb976898067b3058)  
 Germany - Hochkalter, Berchtesgaden Alps [**Hinterbergkarschlinger** ](allcaves-database.md#DE-321fc0d4165a3250b1d2226577acdef9)  
 Germany - Hoher Göll; Berchtesgaden Alps [**Tabellenführer** ](allcaves-database.md#DE-17c615221c7262d949ade9e7f3cafa00)  
-Germany - Reiteralm; Berchtesgaden Alps [**Eisrohrhöhle** ](allcaves-database.md#DE-a7642ad80d629ce9fd7256817d252d6e) *Part of* Eisrohrhöhle-Bammelschacht-System  
-Germany - Reiteralm, Berchtesgaden Alps [**Schlundeisbergschacht** ](allcaves-database.md#DE-87ebc844828694182f6e7569c7ea174b)  
-Germany - Reiteralm, Berchtesgaden Alps [**Yetischacht** ](allcaves-database.md#DE-5110d917c9dce9fc062c6950b56257f0)  
-Germany - Reiteralm; Berchtesgaden Alps [**Zeller Eishöhle** ](allcaves-database.md#DE-d0cb7627d83246782ce9dad1950ba903)  
+Germany - Reiteralm; Berchtesgaden Alps [**Eisrohrhöhle** 1337/118](allcaves-database.md#DE-1337/118) *Part of* Eisrohrhöhle-Bammelschacht-System  
+Germany - Reiteralm; Berchtesgaden Alps [**Eisrohrhöhle-Bammelschacht-System**](allcaves-database.md#DE-19a7c125749408f2fb6eeaac3b31ad91)  
+Germany - Reiteralm, Berchtesgaden Alps [**Schlundeisbergschacht** 1337/213](allcaves-database.md#DE-1337/213)  
+Germany - Reiteralm, Berchtesgaden Alps [**Yetischacht** 1337/87](allcaves-database.md#DE-1337/87)  
+Germany - Reiteralm; Berchtesgaden Alps [**Zeller Eishöhle** 1337/5](allcaves-database.md#DE-1337/5)  
 Germany - Steineres Meer, Berchtesgaden Alps [**Hocheggerhöhle** ](allcaves-database.md#DE-52fbd035688d68b196b0f0a141e62ae5)  
 Germany - Steineres Meer; Berchtesgaden Alps [**Leiterkopfhöhle** ](allcaves-database.md#DE-9725939a46801da0854829383e89b547)  
 Germany - Steineres Meer; Berchtesgaden Alps [**Sockenschleuder** ](allcaves-database.md#DE-dc292dcb2a795e5b583830bae293fa4d)  
@@ -394,6 +397,7 @@ Uzbekistan - Surxondaryo Province - Baisun region; Hodja-Gur-Gur-Ata [**Festival
 Uzbekistan - Surxondaryo Province - Baisun region; Hodja-Gur-Gur-Ata [**Ledopadnaya** ](allcaves-database.md#UZ-b6a1d24a1d9b2df772f08c109334bd0f) *Part of* Festival'naya-Ledopadnaya  
 
 
+
 List of Volcanic Ice Caves
 ==========================
 List of ice caves that are also lava tubes.
@@ -427,19 +431,3 @@ United States of America - Oregon - Newberry National Monument [**Surveyor's Cav
 United States of America - Washington; Skamania County - Mt. Adams [**Guler Ice Cave** ](allcaves-database.md#US-f3ebfa41578dcd316016a2b8094666ae)  
 United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system [**Hoarfrost Cave** NSS-633-18](allcaves-database.md#US-NSS-633-18)  
 
-
-List of Ice Caves above 3000m a.s.l.
-====================================
-
-Tajikistan - Pamir Mountains **Putnikov Cave**  Rangkulskaya Cave; Matatash  ~4600m  
-Iran - Northern Zagros Mountains **Dena Ice Cave**   3895m  
-India - Lidder Valley **Amarnath Cave**  Holy Cave  3888m  
-Switzerland - Valais (VS) - Jungfraujoch **Jochloch**  VS-150 3470m  
-Uzbekistan - Hodja-Gur-Gur-Ata **Ulug-Bek**  Ulugh Begh  3750m  
-Uzbekistan - Kyzyl-Shavar Plateau **Gissarskaya Cave**   3530m  
-Uzbekistan - Baisun region; Hodja-Gur-Gur-Ata **Dark Star Cave**   ~3500m main entrance   
-Uzbekistan - Baisun region; Hodja-Gur-Gur-Ata **Ledopadnaya**   3445m *Part of* Festival'naya-Ledopadnaya  
-Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide **Cueva de Hielo del Teide**   3400m  
-Canada - Alberta - Jasper National Park **Mount Alberta Cave**   3350m  
-United States of America - Utah - Central Rocky Mountains; Uinta Mountains **Winter Wonderland Cave**   3140m  
-Spain - Pyrenees **Cilindro**   3020–3060m  

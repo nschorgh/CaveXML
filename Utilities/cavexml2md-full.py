@@ -103,7 +103,6 @@ for item in root.findall('record'):
                 googlemaplink = generate_maplink(latitude.text, longitude.text, con.text)
             else:
                 googlemaplink = generate_maplink(latitude.text, longitude.text, None)
-            #googlemaplink = 'https://maps.google.com/?ll=' + latitude.text +',' + longitude.text
             buffer = '*Coordinates:* [' + latitude.text + ', ' + lonstr + '](' + googlemaplink + ') '
             
     alt = item.findall('altitude')
@@ -194,7 +193,7 @@ for item in root.findall('record'):
             refstr = refstr.replace("doi:", "https://doi.org/")
             refstr = refstr.replace("DOI:", "https://doi.org/")
             if "https://www" not in refstr and "http://www." not in refstr:
-                refstr = refstr.replace("www", "http://www") # guess whether server wants http or https
+                refstr = refstr.replace("www", "http://www") # could be http or https
 
             hytxt = extract_hyperlink_from_string(refstr)
             

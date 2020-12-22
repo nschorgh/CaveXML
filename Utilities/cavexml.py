@@ -179,10 +179,10 @@ def get_one_cave_name(item):
 
 def extract_hyperlink_from_string(refstr):
     k = refstr.find("https://")
-    if k<0:
+    if k<0: # not found
         k = refstr.find("http://")
         
-    if k>=0: 
+    if k>=0: # if found
         t = refstr[k:] 
         kend = t.find(" ") 
         if kend>0:
@@ -450,9 +450,13 @@ def country2alpha2(countryname):
         'Yemen': 'YE',
         'Zambia': 'ZM',
         'Zimbabwe': 'ZW',
-
+        # planetary bodies start with X
         'Moon': 'XO',
-        'Mars': 'XA'
+        'Mars': 'XA',
+        'Mercury': 'XE',
+        'Venus': 'XV',
+        'Io': 'XI',
+        'Titan': 'XT'
     }
 
 
@@ -580,23 +584,18 @@ def cross_link_cavsys(i, conlist, pcnlist, cavsys, list_of_lists, uidlist):
 
 def cross_link_branch(i, conlist, pcnlist, bralist, uidlist):
     # link branch-name entries
-    bra_link = []
+    bra_link = [None] * len(bralist)   # [None]*0 = []
     if len(bralist)>0:
         #print(pcnlist[i],'has branches',bralist)
         for k in range(0,len(bralist)):
-            crosslink_made = False
             idxs = find_all_indices(bralist[k], pcnlist)
             for ii in idxs: # go through all records with matching principal name
                 if conlist[i] != conlist[ii]:
                     continue  # skip if not in same country
                 if bralist[k] == pcnlist[ii]:
-                    uid_link = uidlist[ii]
-                    #print('... and branch',uid_link,'points back to cavesys',uidlist[i])
+                    bra_link[k] = uidlist[ii]
+                    #print('... and branch',bra_link[k],'points back to cavesys',uidlist[i])
                     #print('... and branch',bralist[k],'points back to cavesys',pcnlist[i])
-                    bra_link.append(uid_link)
-                    crosslink_made = True
-            if crosslink_made is False:
-                bra_link.append(None)  # bralist and bra_link must have the same length
 
     return bra_link  # a list
                     

@@ -145,8 +145,9 @@ for item in root.findall('record'):
             
             refstr = refstr.replace("doi:", "https://doi.org/")
             refstr = refstr.replace("DOI:", "https://doi.org/")
-            if "https://www" not in refstr and "http://www." not in refstr:
-                refstr = refstr.replace("www", "http://www") # guess whether server wants http or https
+            if 'www' in refstr:
+                if "https://www" not in refstr and "http://www." not in refstr:
+                    refstr = refstr.replace("www", "http://www") # could be http or https
 
             hytxt = extract_hyperlink_from_string(refstr)
             

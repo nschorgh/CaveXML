@@ -28,7 +28,7 @@ Elements within a record are defined as follows:
 **\<country-name\>**  *controlled vocabulary*  
 Country name where the cave entrance is located. This should be the name of the country spelled out and according to the ISO 3166 standard, although a few country names have been simplified. (The precise list is found in the CaveXML Schema Definition `cavexml.xsd`.  
 Similar to UISIC field [SY285](http://www.uisic.uis-speleo.org/exchange/atendefn.html#285)  
-For extraterrestrial caves, this element specifies the planetary body where the cave is located. Allowed terms are "Moon", which refers to Earth's moon, and "Mars". An empty or missing entry implies the cave is located on planet Earth.  
+For extraterrestrial caves, this element specifies the planetary body where the cave is located. Allowed terms are "Moon", which refers to Earth's moon, "Mars", and a few more. An empty or missing entry implies the cave is located on planet Earth.  
 
 **\<state-or-province\>**  *string*  
 State or province where the cave entrance is located. This can also be a county or district. [state-or-province] is intended for politically or organizationally defined areas below country level. For physically/geologically defined units, use [phys-area-name] instead.      
@@ -37,7 +37,7 @@ Generalization of UISIC field [SY287](http://www.uisic.uis-speleo.org/exchange/a
 **\<phys-area-name\>**  *string*  
 Name of mountain, volcano, mountain range, island, geologic unit, or another physically-defined unit. Example: Pyrenees. For politically-defined regions use [state-or-province] instead. Parks also belong in this field.
 
-**\<principal-cave-name\>** *string, maxOccurs=1*    
+**\<principal-cave-name\>**  *string, maxOccurs=1*    
 The current formal agreed name for a cave or karst feature, expressed in the local language. The character set is UTF-8, so characters from many languages can be used.    
 UISIC field [CA70](http://www.uisic.uis-speleo.org/exchange/atendefn.html#70)
 
@@ -45,7 +45,7 @@ UISIC field [CA70](http://www.uisic.uis-speleo.org/exchange/atendefn.html#70)
 Further names which a cave or karst feature has or has had beyond its current name as given in [principal-cave-name].    
 Similar to UISIC field [CA69](http://www.uisic.uis-speleo.org/exchange/atendefn.html#69)
 
-**\<cave-id\>** *(special string)*  
+**\<cave-id\>**  *(special string)*  
 National cave identification number: optional 3-letter or 4-letter organization code + cave registry number, separated by dashes, e.g. HSS-234/7, where HSS stands for Hawaii Speleological Survey. For small countries, this might just be the national cave number, e.g. 1234/5. The [cave-id] is restricted to ASCII characters and must not contain whitespaces. The organization code, if used, must use capital letters.  
 Similar to UISIC field [CA227](http://www.uisic.uis-speleo.org/exchange/atendefn.html#227) and to the "international cave number". A record is allowed to have more than one [cave-id], but different caves within the same country must have different [cave-id]s.  
 
@@ -57,7 +57,7 @@ UISIC fields [CA245](http://www.uisic.uis-speleo.org/exchange/atendefn.html#245)
 The E-W longitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if east of Greenwich, or negative if west of Greenwich. Expressed as a real number, rather than as degrees, minutes, and seconds. If [longitude] is given, [latitude] must also be provided. If both [latitude] and [longitude] have only one or two significant digits after the decimal point, they have been rounded in order not to reveal the exact location. Adding trailing zeros would indicate a coordinate is exact rather than truncated.     
 UISIC fields [CA246](http://www.uisic.uis-speleo.org/exchange/atendefn.html#246) (exact) or [CA22](http://www.uisic.uis-speleo.org/exchange/atendefn.html#22) (coarse)
 
-**\<altitude\>** *(special string)*  
+**\<altitude\>**  *(special string)*  
 Altitude or range of altitudes of cave entrance(s) in meters above sea level, followed by an optional comment that can be used to clarify the nature of the entry. Multiple [altitude] entries are allowed in a single record. Examples: \~2500 main entrance, 2227 lower entrance, 2227-2500. If a range of altitudes is provided, it should represent the altitudes of the lowest and highest entrance of a cave, and not an uncertainty in altitude. The latter should be indicated with a "\~" sign in front of the number.  
 Similar to UISIC fields [CA442](http://www.uisic.uis-speleo.org/exchange/atendefn.html#442) (altitude) and [CA670](http://www.uisic.uis-speleo.org/exchange/atendefn.html#670) (altitude-comment) combined.
 
@@ -85,7 +85,7 @@ List of options: *solution cave, artificial cave, boulder cave, glacier cave, la
 
 **\<contents\>**  *controlled vocabulary*  
 What the cave contains. Similar to UISIC field [CA72](http://www.uisic.uis-speleo.org/exchange/atendefn.html#72).  
-List of options: *permanent ice, periodic ice, perennially submerged, intermittently submerged, extensive guano, many bats, occasional bats, fish, snakes, trogloxenes, accidental trogloxenes, troglophiles, troglobites, charcoal, paintings, minerals, lake(s), waterfall(s), tree roots*. CA72 has [36 allowed options](http://www.uisic.uis-speleo.org/exchange/atencode.html#72), which have been shortened to 17, and the two terms about submersion are borrowed from [CA2](http://www.uisic.uis-speleo.org/exchange/atendefn.html#2). If the desired entry is not available among the list of terms, enter it in [comments] instead.
+List of options: *permanent ice, periodic ice, perennially submerged, intermittently submerged, perennially part-submerged, intermittently part-submerged, extensive guano, many bats, occasional bats, birds, fish, snakes, trogloxenes, accidental trogloxenes, troglophiles, troglobites, charcoal, paintings, minerals, lake(s), waterfall(s), tree roots*. CA72 has [36 allowed options](http://www.uisic.uis-speleo.org/exchange/atencode.html#72), which have been shortened to 18, and the four terms about submersion are borrowed from [CA2](http://www.uisic.uis-speleo.org/exchange/atendefn.html#2). If the desired entry is not available among the list of terms, enter it in [comments] instead.
 
 **\<comments\>**  *string*  
 Comments about a cave or karst feature. This field should be used only when a suitable more specific field is not available. Use semicolons (;) between separate comments, or place them in separate [comments] entries.  
@@ -95,7 +95,7 @@ UISIC field [CA53](http://www.uisic.uis-speleo.org/exchange/atendefn.html#53).
 On occasion, it is discovered that two named caves are connected with one another, and hence form a single cave. The caves keep their individual names and the whole is referred to as a cave system. Another type of cave system is a lava tube with collapsed portions that divide the conduit into segments. A record in the database can be a cave (with one or more branches or segments) or a cave system (of two or more named caves). Entries can link to the system they are part of using the field [cave-system], which should match the [primary-cave-name] of the cave system. Caves can have a [cave-system] element even if a dedicated record for the cave system does not exist in the database. Vice versa, the entry [branch-name] links the cave system to branches or segments that have their own record (and their own entrances).  
 (A group of caves that are not connected and never were connected do not form a cave system and must be represented by individual entries. If they are in close vicinity of one another, it can be indicated in the [phys-area-name] or [comments] fields.)
 
-**\<branch-name\>** *string*    
+**\<branch-name\>**  *string*    
 A [branch-name] is the [principal-cave-name] of named cave branches or cave segments with their own entrances. This field allows a record to be a cave system consisting of named caves that already have their own record in the database. Multiple [branch-name]s should be listed, even if the target records do not exist in the database. The presence of one or more [branch-name] entries identifies a record as a cave system.
 
 **\<reference\>**  *string*  

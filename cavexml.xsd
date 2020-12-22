@@ -283,6 +283,10 @@
 	    <!-- Planetary Bodies -->
 	    <xs:enumeration value="Mars"/>
 	    <xs:enumeration value="Moon"/>
+	    <xs:enumeration value="Mercury"/>
+	    <xs:enumeration value="Venus"/>
+	    <xs:enumeration value="Io"/>
+	    <xs:enumeration value="Titan"/>
 	</xs:restriction>
 	</xs:simpleType>
       </xs:element>
@@ -342,7 +346,7 @@
       <xs:element name = "vertical-extent"     type = "ExtendedUnsignedInteger"
 		  minOccurs="0" maxOccurs="1" default="~0"/>
       <xs:element name = "number-of-entrances" type = "ExtendedUnsignedInteger"
-		  minOccurs="0" maxOccurs="1"/>
+		  minOccurs="0" maxOccurs="1" default="1"/>
 
       <xs:element name = "rock-type" minOccurs="0" maxOccurs="unbounded">
 	<xs:simpleType>
@@ -398,6 +402,7 @@
 	    <xs:enumeration value="extensive guano" />
 	    <xs:enumeration value="many bats" />
 	    <xs:enumeration value="occasional bats" />
+	    <xs:enumeration value="birds" />
 	    <xs:enumeration value="fish" />
 	    <xs:enumeration value="snakes" />
 	    <xs:enumeration value="trogloxenes" />
@@ -414,6 +419,8 @@
 	    <xs:enumeration value="tree roots" />
 	    <xs:enumeration value="perennially submerged" />
 	    <xs:enumeration value="intermittently submerged" />
+	    <xs:enumeration value="perennially part-submerged" />
+	    <xs:enumeration value="intermittently part-submerged" />
 	  </xs:restriction>
 	</xs:simpleType>
       </xs:element> 

@@ -64,8 +64,17 @@ for item in root.findall('record'):
     except:
         pass
 
-
-
+    ref = item.findall('reference')
+    for i in range(0,len(ref)):
+        refstr = ref[i].text
+        if '//doi:' in refstr or 'doi.org:' in refstr: # should be doi: or https://doi.org/
+            print('Malformatted doi', refstr)
+        if 'doi' in refstr.lower():
+            if 'DOI' not in refstr and 'doi' not in refstr:  # excludes comabinations such as DOi, doI
+                print('Use doi or DOI', refstr)
+        if 'www' in refstr:
+            if "https://www" not in refstr and "http://www." not in refstr:
+                print('WARNING: www could be http://www or https://www ', refstr) 
 
 # move on to cross comparisons
 print('... cross comparisons ...')

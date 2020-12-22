@@ -14,12 +14,6 @@ downloaded as a whole. Perhaps the solution is to introduce an augmented XML
 label set, where the cross-liking is already performed and stored in additional
 XML elements.
 
-* I am wondering whether "partially submerged" should be allowed in the 
-contents field, and how this could be combined with perennially and 
-intermittently submerged.
-
-* Plan to write a single function that converts DOIs and potentially hyper-
-linkable references into actual hyperlinks. So far I have patchwork solutions.
 
 
 DONE

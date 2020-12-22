@@ -10,14 +10,19 @@ tree = xml.etree.ElementTree.parse('../allcaves-database.xml')
 
 root = tree.getroot()
 
-excludelist = ['Moon','Mars']
+excludelist = ['Moon','Mars','Mercury','Venus','Io','Titan']
+
+
+# open file for writing
+f = open('tmp.kml', 'w')
+
 
 # print header lines
-print('<?xml version="1.0" encoding="UTF-8"?>')
-print('<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">')
-print('<Document> ')
+f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+f.write('<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">\n')
+f.write('<Document>\n')
 
-    
+
 for item in root.findall('record'):
         
     # Find a cave name
@@ -34,29 +39,32 @@ for item in root.findall('record'):
     # Get latitude, if present
     lat_float = -999
     latitude = item.find('latitude')
-    if latitude is not None:
-        if latitude.text is not None:
-            lat_float = float(latitude.text)
+    if latitude is not None: # Tag present (but could be empty)
+        if latitude.text is not None:  # Tag not empty
+            lat_float = latitude.text
             
     # Get longitude, if present
     lon_float = -999
     longitude = item.find('longitude')
     if longitude is not None: # Tag present (but could be empty)
         if longitude.text is not None:
-            lon_float = float(longitude.text)
+            lon_float = longitude.text
 
             
     # Write KML entry
     if lat_float != -999:
-        print('  <Placemark>')
-        print('    <name>',cavename,'</name>',sep='')
-        print('    <Point>')
-        print('      <coordinates>',lon_float,',',lat_float,',0.0</coordinates>',sep='')
-        print('    </Point>')
-        print('  </Placemark>')
+        f.write('  <Placemark>\n')
+        f.write('    <name>'+cavename+'</name>\n')
+        f.write('    <Point>\n')
+        f.write('      <coordinates>'+lon_float+','+lat_float+',0.0</coordinates>\n')
+        f.write('    </Point>\n')
+        f.write('  </Placemark>\n')
 
 
 
 # close KML file
-print('</Document>')
-print('</kml>')
+f.write('</Document>\n')
+f.write('</kml>\n')
+
+f.close()
+print('Wrote file tmp.kml')

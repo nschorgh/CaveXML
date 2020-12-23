@@ -47,10 +47,11 @@
 
     {
       "country-name": "Austria",
-      "state-or-province": [],
-      "phys-area-name": [],
+      "state-or-province": "Steiermark; Oberösterreich",
+      "phys-area-name": "Totes Gebirge",
       "principal-cave-name": "Feuertal-Eishöhle",
       "other-cave-name": [],
+      "cave-id": "1626/18",
       "latitude": [],
       "longitude": [],
       "altitude": 1718,
@@ -58,7 +59,8 @@
       "vertical-extent": [],
       "contents": "permanent ice",
       "cave-system": "Schönberg-Höhlensystem",
-      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9"
+      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9",
+      "reference": "Jansky (1986) https://www.zobodat.at/pdf/Hoehle_037_0168-0171.pdf"
     },
 
     {
@@ -97,34 +99,20 @@
 
     {
       "country-name": "Austria",
-      "state-or-province": [],
-      "phys-area-name": [],
-      "principal-cave-name": "Hundsalm Eis- und Tropfsteinhöhle",
-      "other-cave-name": [],
-      "latitude": 47.545,
-      "longitude": 12.027,
-      "altitude": [],
-      "length": [],
-      "vertical-extent": [],
-      "contents": "permanent ice",
-      "comments": [],
-      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9"
-    },
-
-    {
-      "country-name": "Austria",
-      "state-or-province": [],
+      "state-or-province": "Oberösterreich",
       "phys-area-name": "Sarstein",
       "principal-cave-name": "Eisgruben-Eishöhle",
       "other-cave-name": [],
+      "cave-id": "1611/39",
       "latitude": [],
       "longitude": [],
       "altitude": "1720 main entrance",
-      "length": [],
-      "vertical-extent": [],
+      "length": 213,
+      "vertical-extent": 97,
       "contents": "permanent ice",
       "comments": [],
-      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9"
+      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9",
+      "reference": "Achleitner (1995) https://www.zobodat.at/pdf/Hoehle_046_0001-0005.pdf"
     },
 
     {
@@ -216,10 +204,12 @@
 
     {
       "country-name": "Austria",
-      "state-or-province": "Tirol",
+      "state-or-province": "Tyrol",
       "phys-area-name": "Tennengebirge",
       "principal-cave-name": "Hundalm Eishöhle",
       "other-cave-name": "Hundalm Eis- und Tropfsteinhöhle",
+      "other-cave-name": "Hundsalm Eishöhle",
+      "cave-id": "1266/1",
       "latitude": 47.5450,
       "longitude": 12.0264,
       "altitude": 1515,
@@ -228,6 +218,7 @@
       "contents": "permanent ice",
       "comments": [],
       "reference": "https://de.wikipedia.org/wiki/Hundalm-Eish%C3%B6hle",
+      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9",
       "cave-use": "guided tourist cave"
     },
 
@@ -237,14 +228,16 @@
       "phys-area-name": "Untersberg",
       "principal-cave-name": "Kolowrathöhle",
       "other-cave-name": [],
+      "cave-id": "1339/1",
       "latitude": 47.72792,
       "longitude": 13.00858,
       "altitude": 1391,
       "length": 38000,
-      "vertical-extent": [],
+      "vertical-extent": 1100,
       "contents": "permanent ice",
       "cave-system": "Gamslöcher-Kolowrat-Höhlensystem",
-      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9"
+      "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9",
+      "reference": "https://de.wikipedia.org/wiki/Kolowratsh%C3%B6hle"
     },
 
     {
@@ -3512,12 +3505,12 @@
       "phys-area-name": "Pyrenees",
       "phys-area-name": "(Arañonera)",
       "principal-cave-name": "Soaso Ice Cave",
-      "other-cave-name": [],
+      "other-cave-name": "Sima de Soaso",
       "latitude": [],
       "longitude": [],
       "altitude": "2259–2400",
       "length": [],
-      "vertical-extent": [],
+      "vertical-extent": 316,
       "contents": "permanent ice",
       "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
     },
@@ -10362,10 +10355,31 @@
       "state-or-province": "Heilongjiang",
       "phys-area-name": [],
       "principal-cave-name": "Chin Fue",
+      "other-cave-name": "Chin Puo",
+      "other-cave-name": "RS-1, RS-2",
       "length": 450,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=996"
+    },
+
+    {
+      "country-name": "China",
+      "state-or-province": [],
+      "phys-area-name": "Tengchong volcanic field",
+      "principal-cave-name": "Jingfudong Lava Tube",
+      "other-cave-name": "Djin Fu Dong Lava Tube Cave",
+      "other-cave-name": "Djin Dong",
+      "latitude": 25.03170,
+      "longitude": 98.43969,
+      "altitude": 1642,
+      "length": 742,
+      "vertical-extent": 94,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "Chen et al. (2016) doi:10.5038/1827-806X.45.3.1987",
+      "reference": "Zhalov (2014) https://digital.lib.usf.edu/content/SF/S0/05/37/18/00001/K26-03269-BSC2014_Proceed.pdf#page=30",
+      "reference": "Zhalov and Bonev (2012) http://neu.agsr.ch/wordpress/wp-content/uploads/093ZhalovuBonevBulgarianChineseExpe.pdf"
     },
 
     {
@@ -13940,6 +13954,7 @@
       "phys-area-name": "North Gorely",
       "principal-cave-name": "Go-9607",
       "cave-id": "5236/15758-4",
+      "altitude": 940,
       "length": 19,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1114"
@@ -13951,6 +13966,7 @@
       "phys-area-name": "North Gorely",
       "principal-cave-name": "Go-9608",
       "cave-id": "5236/15758-3",
+      "altitude": 930,
       "length": 48,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1118"
@@ -13983,9 +13999,10 @@
     {
       "country-name": "Russia",
       "state-or-province": "Kamchatka",
-      "phys-area-name": [],
+      "phys-area-name": "North Gorely",
       "principal-cave-name": "Go-9611",
       "cave-id": "5236/15758-1",
+      "altitude": 915,
       "length": 110,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1119"
@@ -16623,8 +16640,8 @@
       "principal-cave-name": "Ngama Mapoudrou",
       "other-cave-name": [],
       "length": 30,
-      "cave-type": [],
-      "contents": "occasional bats",
+      "cave-type": "lava tunnel",
+      "contents": "many bats",
       "reference": "Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf"
     },
 
@@ -17208,16 +17225,6 @@
     },
 
     {
-      "country-name": "Micronesia",
-      "state-or-province": "Kosrae",
-      "phys-area-name": [],
-      "principal-cave-name": "Kosrae Island tube",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1136"
-    },
-
-    {
       "country-name": "Japan",
       "state-or-province": "Nagasaki",
       "phys-area-name": [],
@@ -17468,16 +17475,6 @@
       "length": 380,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=842"
-    },
-
-    {
-      "country-name": "China",
-      "state-or-province": "Heilungjiang; Wudalianchi County",
-      "phys-area-name": "Wudalianchi volcano",
-      "principal-cave-name": "Laoheishan and Huoshaoshan tubes",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=997"
     },
 
     {
@@ -20625,8 +20622,9 @@
       "principal-cave-name": "Petite Riviere Cave",
       "length": 665,
       "cave-type": "lava tunnel",
+      "contents": "many bats",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=167",
-      "reference": "Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf"
+      "reference": "Middleton (1998) doi:10.5038/1827-806X.27.1.9"
     },
 
     {
@@ -20637,7 +20635,7 @@
       "length": 520,
       "cave-type": "lava tunnel",
       "contents": "many bats",
-      "reference": "Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf"
+      "reference": "Middleton (1998) doi:10.5038/1827-806X.27.1.9"
     },
 
     {
@@ -20648,7 +20646,7 @@
       "length": "~400",
       "cave-type": "lava tunnel",
       "contents": [],
-      "reference": "Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf"
+      "reference": "Middleton (1998) doi:10.5038/1827-806X.27.1.9"
     },
 
     {
@@ -20659,7 +20657,7 @@
       "length": 687,
       "cave-type": "lava tunnel",
       "contents": [],
-      "reference": "Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf",
+      "reference": "Middleton (1998) doi:10.5038/1827-806X.27.1.9",
       "reference": "Middleton (1998) http://vulcanospeleology.org/sym09/ISV9Eal.pdf"
     },
 
@@ -20671,7 +20669,7 @@
       "length": 442,
       "cave-type": "lava tunnel",
       "contents": [],
-      "reference": "Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf"
+      "reference": "Middleton (1998) doi:10.5038/1827-806X.27.1.9"
     },
 
     {
@@ -24368,7 +24366,7 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Mauna Kea",
-      "other-cave-name": "Kukaiau Cave",
+      "principal-cave-name": "Kukaiau Cave",
       "other-cave-name": "This Cave/That Cave",
       "other-cave-name": "Kukaiau Piping Cave",
       "length": 1002,
@@ -24723,10 +24721,22 @@
 
     {
       "country-name": "Micronesia",
+      "state-or-province": "Kosrae",
+      "phys-area-name": [],
+      "principal-cave-name": "Kosrae Island tube",
+      "length": [],
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1136"
+    },
+
+    {
+      "country-name": "Micronesia",
       "state-or-province": "Chuuk",
       "phys-area-name": [],
       "principal-cave-name": "Tol Island tube",
       "length": 30,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=686"
     },

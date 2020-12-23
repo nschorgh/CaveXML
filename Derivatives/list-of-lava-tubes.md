@@ -1,6 +1,6 @@
 List of Lava Tubes
 ==================
-This list of 1765 volcanic caves was generated from a CaveXML formatted database. - Dec 22, 2020  
+This list of 1766 volcanic caves was generated from a CaveXML formatted database. - Dec 22, 2020  
 
 Argentina - Catamarca [**Cueva de San Fransisco** ](allcaves-database.md#AR-f2fbc650814457f91bc4c9138898d1e0)  
 Argentina - La Pampa [**Cueva La Alada** ](allcaves-database.md#AR-b403d0ee8602ed513a356cae6d9af689)  
@@ -118,8 +118,9 @@ Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) [**Ana Te Pora** 
 Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) [**Tunnel No. 2** ](allcaves-database.md#CL-04c502314ff525f7b3fa2877f61f14e7)  
 Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) [**Tunnel No. 3** ](allcaves-database.md#CL-5197a0a8c42c175833b0a433793fe9a9)  
 Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui) [**Tunnel No. 4** ](allcaves-database.md#CL-cc4eaf1269e48e16708d1fa22afd406f)  
-China - Heilongjiang [**Chin Fue** ](allcaves-database.md#CN-ffe5bc3deb1764fad8ca5cdd113c220e)  
-China - Heilungjiang; Wudalianchi County - Wudalianchi volcano [**Laoheishan and Huoshaoshan tubes** ](allcaves-database.md#CN-89bf95ffd4e7cbe5c9d023eabf6635d6)  
+China - Heilongjiang [**Chin Fue** Chin Puo; RS-1, RS-2 ](allcaves-database.md#CN-ffe5bc3deb1764fad8ca5cdd113c220e)  
+China - Tengchong volcanic field [**Jingfudong Lava Tube** Djin Fu Dong Lava Tube Cave; Djin Dong ](allcaves-database.md#CN-88ab9b80b5b7dbd9558285236d7a3861)  
+Comoros - Anjouan Island; Mromagi area [**Ngama Mapoudrou** ](allcaves-database.md#KM-5572ca645f12146c486a5f4b2a17fe1c)  
 Comoros - Anjouan Island [**Ngama Gombeni** ](allcaves-database.md#KM-0a219f8a4c0681993288c41c297ed5b6)  
 Comoros - Grande Comore [**Grotte de Mhamdou** Lava Cave #14 ](allcaves-database.md#KM-efd6fea6514e641fcede895fe34ba390)  
 Comoros - Grande Comore [ HH12-13](allcaves-database.md#KM-HH12-13)  
@@ -525,7 +526,6 @@ Portugal - Azores - Ilha de Terceira [**Branco Opala** ](allcaves-database.md#PT
 Portugal - Azores - Ilha de Terceira [**Gruta do Chocolate** ](allcaves-database.md#PT-52df7954df6f315a4f1d01b78986cac1)  
 Portugal - Azores - Ilha de Terceira [**Gruta do Natal** ](allcaves-database.md#PT-947ae5f840db4d70243be67908d8d6ed)  
 Portugal - Azores - Sao Jorge [**Gruta da Ribeira do Almeida** ](allcaves-database.md#PT-a85f4fccd9bb98b8dbfc8bf4eec89db7)  
-Russia - Kamchatka [**Go-9611** 5236/15758-1](allcaves-database.md#RU-5236/15758-1)  
 Russia - Kamchatka - North Gorely [**Go-9601** 5236/15800-4](allcaves-database.md#RU-5236/15800-4)  
 Russia - Kamchatka - North Gorely [**Go-9602** 5236/15759-5](allcaves-database.md#RU-5236/15759-5)  
 Russia - Kamchatka - North Gorely [**Go-9603** 5236/15759-4](allcaves-database.md#RU-5236/15759-4)  
@@ -535,6 +535,7 @@ Russia - Kamchatka - North Gorely [**Go-9607** 5236/15758-4](allcaves-database.m
 Russia - Kamchatka - North Gorely [**Go-9608** 5236/15758-3](allcaves-database.md#RU-5236/15758-3)  
 Russia - Kamchatka - North Gorely [**Go-9609** 5236/15758-2](allcaves-database.md#RU-5236/15758-2)  
 Russia - Kamchatka - North Gorely [**Go-9610** 5236/15759-1](allcaves-database.md#RU-5236/15759-1)  
+Russia - Kamchatka - North Gorely [**Go-9611** 5236/15758-1](allcaves-database.md#RU-5236/15758-1)  
 Russia - Kamchatka - North Gorely [**Go-9612** 5236/15800-3](allcaves-database.md#RU-5236/15800-3)  
 Russia - Kamchatka - North Gorely [**Go-9613** 5236/15800-2](allcaves-database.md#RU-5236/15800-2)  
 Russia - Kamchatka - North Gorely [**Go-9614** 5236/15800-1](allcaves-database.md#RU-5236/15800-1)  
@@ -1510,7 +1511,7 @@ United States of America - Oregon; Deschutes County [**Johnson Farm 2 Cave** ](a
 United States of America - Oregon; Deschutes County [**Jug Cave** ](allcaves-database.md#US-ed9a4557cda2c5ca71d85e597d911ba4)  
 United States of America - Oregon; Deschutes County [**Karen's Cave** ](allcaves-database.md#US-64a88fde5d66da7bb23d43f36dcf0019)  
 United States of America - Oregon; Deschutes County [**Lavacicle Cave** ](allcaves-database.md#US-a454b88cc488c2710336ad3e3b391491)  
-United States of America - Oregon; Deschutes County [**Lost and Found Cave**](allcaves-database.md#US-c077b7b10428ab8c1620da40feab0dec)  
+United States of America - Oregon; Deschutes County [**Lost and Found Cave** ](allcaves-database.md#US-c077b7b10428ab8c1620da40feab0dec)  
 United States of America - Oregon; Deschutes County [**Lost Cave** ](allcaves-database.md#US-69aeb9574a94658b464e2dacd8f5a1e2)  
 United States of America - Oregon; Deschutes County [**Matz Ice Cave** ](allcaves-database.md#US-caa650c8187a8a696d70f91d5504ddb4)  
 United States of America - Oregon; Deschutes County [**Moss Carpet Cave** ](allcaves-database.md#US-44bef64f9337c8175d4255d92b942da1)  
@@ -1525,7 +1526,7 @@ United States of America - Oregon; Deschutes County [**Skeleton Cave** ](allcave
 United States of America - Oregon; Deschutes County [**Somersault Cave** ](allcaves-database.md#US-45d1c2b3bcab98b1076353ee23d1a160)  
 United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-077de09ed873c37df0563a21580f0209)  
 United States of America - Oregon; Deschutes County [**Twin Skylight Cave** ](allcaves-database.md#US-d8cfea1c1bccc4991b4896c3640d675d)  
-United States of America - Oregon; Deschutes County [**Under the Lake Cave**](allcaves-database.md#US-7485d77c517e1355018801a31ff92025)  
+United States of America - Oregon; Deschutes County [**Under the Lake Cave** ](allcaves-database.md#US-7485d77c517e1355018801a31ff92025)  
 United States of America - Oregon; Deschutes County [**Walk-in-Cave** ](allcaves-database.md#US-3399e53e1c64e0712986211b27aabb2a)  
 United States of America - Oregon; Deschutes County [**Wind Cave** ](allcaves-database.md#US-816745b01ce28a6301ee8b72eaf082f8) *Part of* Arnold Lava Tube System  
 United States of America - Oregon; Deschutes County [**Wind Caves #'s 3,4,5** ](allcaves-database.md#US-44c1ae6fac5427140e36c5abb0472726)  
@@ -1767,4 +1768,3 @@ Viet Nam - Nam Da [**C7** ](allcaves-database.md#VN-9c8957b15d1d30e31c53f8f3ad4e
 Viet Nam - Nam Da [**P10E, P10W** ](allcaves-database.md#VN-835442bf37f073d33a4fa61a182d3966)  
 Viet Nam - Nam Da [**P20** ](allcaves-database.md#VN-332e5988abbce5af77945d02409d3e04)  
 Viet Nam - Nam Da [**P8** ](allcaves-database.md#VN-f449c80ef79fbc48aad94683824745b4)  
-

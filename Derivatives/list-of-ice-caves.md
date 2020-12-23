@@ -1,22 +1,21 @@
 List of Ice Caves
 =================
-This list of 393 rock-hosted caves with perennial ice was generated from a CaveXML database. - Dec 22, 2020
+This list of 392 rock-hosted caves with perennial ice was generated from a CaveXML database. - Dec 22, 2020
 
-Austria [**Feuertal-Eishöhle** ](allcaves-database.md#AT-6a4b431e01fc8d76d8b52702cc7e22c0) *Part of* Schönberg-Höhlensystem  
-Austria [**Hundsalm Eis- und Tropfsteinhöhle** ](allcaves-database.md#AT-eaf2df599f9ab8eaeb58177bbc1b7e0d)  
 Austria - Oberösterreich - Dachstein [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
 Austria - Oberösterreich - Dachsteingebirge [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-1547/17)  
+Austria - Oberösterreich - Sarstein [**Eisgruben-Eishöhle** 1611/39](allcaves-database.md#AT-1611/39)  
 Austria - Oberösterreich - Totes Gebirge [**Schwarzmooskogel-Eishöhle** SMK-Eishöhle 1623/40](allcaves-database.md#AT-1623/40) *Part of* Schwarzmooskogel-Höhlensystem  
-Austria - Salzburg; Grödig - Untersberg [**Kolowrathöhle** ](allcaves-database.md#AT-fce037bdb47bef79ab6306b200041f35) *Part of* Gamslöcher-Kolowrat-Höhlensystem  
+Austria - Salzburg; Grödig - Untersberg [**Kolowrathöhle** 1339/1](allcaves-database.md#AT-1339/1) *Part of* Gamslöcher-Kolowrat-Höhlensystem  
 Austria - Salzburg - Tennengebirge [**Eiskogelhöhle** Eiskogel-Tropfsteinhöhle 1511/101](allcaves-database.md#AT-1511/101) *Part of* Eiskogel-Richter-Höhle  
 Austria - Salzburg - Tennengebirge [**Eisriesenwelt** 1511/24](allcaves-database.md#AT-1511/24)  
 Austria - Salzburg - Tennengebirge [**Schneeloch** 1511/7](allcaves-database.md#AT-1511/7)  
-Austria - Sarstein [**Eisgruben-Eishöhle** ](allcaves-database.md#AT-8913a0a7e2f449b62b94285fe849e0d4)  
 Austria - Sengsengebirge [**Kraterschacht** 1651/24](allcaves-database.md#AT-1651/24)  
 Austria - Steiermark - Hochschwab [**Beilstein Eishöhle** 1741/2](allcaves-database.md#AT-1741/2)  
+Austria - Steiermark; Oberösterreich - Totes Gebirge [**Feuertal-Eishöhle** 1626/18](allcaves-database.md#AT-1626/18) *Part of* Schönberg-Höhlensystem  
 Austria - Steiermark; Oberösterreich - Totes Gebirge [**Schönberg-Höhlensystem** 1626/300](allcaves-database.md#AT-1626/300)  
 Austria - Steiermark - Schneealpe [**Schneeloch** 1851/7](allcaves-database.md#AT-1851/7)  
-Austria - Tirol - Tennengebirge [**Hundalm Eishöhle** Hundalm Eis- und Tropfsteinhöhle ](allcaves-database.md#AT-59edd1c93f95d518e53cc7030567f60c)  
+Austria - Tyrol - Tennengebirge [**Hundalm Eishöhle** Hundalm Eis- und Tropfsteinhöhle; Hundsalm Eishöhle 1266/1](allcaves-database.md#AT-1266/1)  
 Bosnia and Herzegovina - Bobija mountain [**Ledana Pit** ](allcaves-database.md#BA-e162a9a2aaa25b709e3ad2e3011b45d4)  
 Bosnia and Herzegovina - Treskavica mountain [**Ledenica** ](allcaves-database.md#BA-ccffe3d9f1b3bcbb3a83f3e524a694b1)  
 Canada - Alberta - Crowsnest Pass [**Coultard Cave** ](allcaves-database.md#CA-54e25d4b0937e08f2da46a93f681a4db)  
@@ -76,7 +75,7 @@ Germany - Hochkalter, Berchtesgaden Alps [**Gipfelhöhle** ](allcaves-database.m
 Germany - Hochkalter, Berchtesgaden Alps [**Hinterbergkarschlinger** ](allcaves-database.md#DE-321fc0d4165a3250b1d2226577acdef9)  
 Germany - Hoher Göll; Berchtesgaden Alps [**Tabellenführer** ](allcaves-database.md#DE-17c615221c7262d949ade9e7f3cafa00)  
 Germany - Reiteralm; Berchtesgaden Alps [**Eisrohrhöhle** 1337/118](allcaves-database.md#DE-1337/118) *Part of* Eisrohrhöhle-Bammelschacht-System  
-Germany - Reiteralm; Berchtesgaden Alps [**Eisrohrhöhle-Bammelschacht-System**](allcaves-database.md#DE-19a7c125749408f2fb6eeaac3b31ad91)  
+Germany - Reiteralm; Berchtesgaden Alps [**Eisrohrhöhle-Bammelschacht-System** ](allcaves-database.md#DE-19a7c125749408f2fb6eeaac3b31ad91)  
 Germany - Reiteralm, Berchtesgaden Alps [**Schlundeisbergschacht** 1337/213](allcaves-database.md#DE-1337/213)  
 Germany - Reiteralm, Berchtesgaden Alps [**Yetischacht** 1337/87](allcaves-database.md#DE-1337/87)  
 Germany - Reiteralm; Berchtesgaden Alps [**Zeller Eishöhle** 1337/5](allcaves-database.md#DE-1337/5)  
@@ -304,7 +303,7 @@ Spain - Pyrenees [ A69](allcaves-database.md#ES-A69)
 Spain - Pyrenees [ AN118](allcaves-database.md#ES-AN118)  
 Spain - Pyrenees [ AN230](allcaves-database.md#ES-AN230)  
 Spain - Pyrenees; Añelarre [**Sima del Hielo** AN62](allcaves-database.md#ES-AN62)  
-Spain - Pyrenees; (Arañonera) [**Soaso Ice Cave** ](allcaves-database.md#ES-8a004f7367246d35048e79f1f3297adc)  
+Spain - Pyrenees; (Arañonera) [**Soaso Ice Cave** Sima de Soaso ](allcaves-database.md#ES-8a004f7367246d35048e79f1f3297adc)  
 Spain - Pyrenees [**(Avenc de la Neu)** ](allcaves-database.md#ES-9346e5cc6f84be4dc888d923533ca66d)  
 Spain - Pyrenees [**Avenc Sala Gelada** C40](allcaves-database.md#ES-C40)  
 Spain - Pyrenees [ B94](allcaves-database.md#ES-B94)  

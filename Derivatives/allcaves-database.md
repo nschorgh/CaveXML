@@ -27,19 +27,20 @@ Austria - Steiermark; Oberösterreich - Totes Gebirge
 *Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* perennial ice found near entrances of Feuertal-Eishöhle, Raucherkarhöhle, and Altarkögerlhöhle  
-*Branches:* [Feuertal-Eishöhle](#AT-6a4b431e01fc8d76d8b52702cc7e22c0); Raucherkarhöhle; Altarkögerlhöhle;   
+*Branches:* [Feuertal-Eishöhle](#AT-1626/18); Raucherkarhöhle; Altarkögerlhöhle;   
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 [https://hoehle.org/laengste-tiefste](https://hoehle.org/laengste-tiefste)   
 [https://de.wikipedia.org/wiki/Sch%C3%B6nberg-H%C3%B6hlensystem](https://de.wikipedia.org/wiki/Sch%C3%B6nberg-H%C3%B6hlensystem)   
 
 ---  
-<a name="AT-6a4b431e01fc8d76d8b52702cc7e22c0"></a>
-Austria  
-*Cave Name(s):* **Feuertal-Eishöhle**  
+<a name="AT-1626/18"></a>
+Austria - Steiermark; Oberösterreich - Totes Gebirge  
+*Cave Name(s):* **Feuertal-Eishöhle** *Id:* 1626/18  
 *altitude:* 1718  
 *Contents:* permanent ice  
  *Part of* [Schönberg-Höhlensystem](#AT-1626/300)  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
+[Jansky (1986) https://www.zobodat.at/pdf/Hoehle_037_0168-0171.pdf](https://www.zobodat.at/pdf/Hoehle_037_0168-0171.pdf)   
 
 ---  
 <a name="AT-1547/9"></a>
@@ -63,20 +64,14 @@ Austria - Oberösterreich - Dachsteingebirge
 [https://de.wikipedia.org/wiki/Dachstein-Rieseneish%C3%B6hle](https://de.wikipedia.org/wiki/Dachstein-Rieseneish%C3%B6hle)   
 
 ---  
-<a name="AT-eaf2df599f9ab8eaeb58177bbc1b7e0d"></a>
-Austria  
-*Cave Name(s):* **Hundsalm Eis- und Tropfsteinhöhle**  
-*Coordinates:* [47.545, +12.027](https://maps.google.com/?ll=47.545,12.027)   
-*Contents:* permanent ice  
-[Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
-
----  
-<a name="AT-8913a0a7e2f449b62b94285fe849e0d4"></a>
-Austria - Sarstein  
-*Cave Name(s):* **Eisgruben-Eishöhle**  
+<a name="AT-1611/39"></a>
+Austria - Oberösterreich - Sarstein  
+*Cave Name(s):* **Eisgruben-Eishöhle** *Id:* 1611/39  
 *altitude:* 1720 main entrance  
+*Length:* 213m *Vertical extent:* 97m   
 *Contents:* permanent ice  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
+[Achleitner (1995) https://www.zobodat.at/pdf/Hoehle_046_0001-0005.pdf](https://www.zobodat.at/pdf/Hoehle_046_0001-0005.pdf)   
 
 ---  
 <a name="AT-1511/7"></a>
@@ -129,24 +124,26 @@ Austria - Salzburg - Tennengebirge
 *Cave use:* guided tourist cave  
 
 ---  
-<a name="AT-59edd1c93f95d518e53cc7030567f60c"></a>
-Austria - Tirol - Tennengebirge  
-*Cave Name(s):* **Hundalm Eishöhle** Hundalm Eis- und Tropfsteinhöhle  
+<a name="AT-1266/1"></a>
+Austria - Tyrol - Tennengebirge  
+*Cave Name(s):* **Hundalm Eishöhle** Hundalm Eis- und Tropfsteinhöhle; Hundsalm Eishöhle *Id:* 1266/1  
 *Coordinates:* [47.5450, +12.0264](https://maps.google.com/?ll=47.5450,12.0264) *altitude:* 1515  
 *Length:* 264m *Vertical extent:* 55m   
 *Contents:* permanent ice  
 [https://de.wikipedia.org/wiki/Hundalm-Eish%C3%B6hle](https://de.wikipedia.org/wiki/Hundalm-Eish%C3%B6hle)   
+[Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 *Cave use:* guided tourist cave  
 
 ---  
-<a name="AT-fce037bdb47bef79ab6306b200041f35"></a>
+<a name="AT-1339/1"></a>
 Austria - Salzburg; Grödig - Untersberg  
-*Cave Name(s):* **Kolowrathöhle**  
+*Cave Name(s):* **Kolowrathöhle** *Id:* 1339/1  
 *Coordinates:* [47.72792, +13.00858](https://maps.google.com/?ll=47.72792,13.00858) *altitude:* 1391  
-*Length:* 38000m   
+*Length:* 38000m *Vertical extent:* 1100m   
 *Contents:* permanent ice  
  *Part of* [Gamslöcher-Kolowrat-Höhlensystem](#AT-1339/1)  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
+[https://de.wikipedia.org/wiki/Kolowratsh%C3%B6hle](https://de.wikipedia.org/wiki/Kolowratsh%C3%B6hle)   
 
 ---  
 <a name="AT-1339/1"></a>
@@ -154,7 +151,7 @@ Austria - Salzburg - Untersberg
 *Cave Name(s):* **Gamslöcher-Kolowrat-Höhlensystem** *Id:* 1339/1  
 *Length:* 44003m *Vertical extent:* 1130m   
 *Rock type:* limestone   
-*Branches:* [Kolowrathöhle](#AT-fce037bdb47bef79ab6306b200041f35); Gamslöcher; [Salzburgerschacht](#AT-1339/69);   
+*Branches:* [Kolowrathöhle](#AT-1339/1); Gamslöcher; [Salzburgerschacht](#AT-1339/69);   
 Die Höhle 57 (2006)  
 [Die Höhle 61 (2010) https://www.zobodat.at/pdf/Hoehle_061_0102-0108.pdf](https://www.zobodat.at/pdf/Hoehle_061_0102-0108.pdf)   
 Die Höhle 63 (2012)  
@@ -2022,8 +2019,9 @@ Spain - Pyrenees; Tendeñera
 ---  
 <a name="ES-8a004f7367246d35048e79f1f3297adc"></a>
 Spain - Pyrenees; (Arañonera)  
-*Cave Name(s):* **Soaso Ice Cave**  
+*Cave Name(s):* **Soaso Ice Cave** Sima de Soaso  
 *altitude:* 2259–2400  
+*Vertical extent:* 316m   
 *Contents:* permanent ice  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
 
@@ -6407,10 +6405,21 @@ Japan - Mt. Fuji
 ---  
 <a name="CN-ffe5bc3deb1764fad8ca5cdd113c220e"></a>
 China - Heilongjiang  
-*Cave Name(s):* **Chin Fue**  
+*Cave Name(s):* **Chin Fue** Chin Puo; RS-1, RS-2  
 *Length:* 450m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=996](https://rpif.asu.edu/LTdatabase/result.php?RECNO=996)   
+
+---  
+<a name="CN-88ab9b80b5b7dbd9558285236d7a3861"></a>
+China - Tengchong volcanic field  
+*Cave Name(s):* **Jingfudong Lava Tube** Djin Fu Dong Lava Tube Cave; Djin Dong  
+*Coordinates:* [25.03170, +98.43969](https://maps.google.com/?ll=25.03170,98.43969) *altitude:* 1642  
+*Length:* 742m *Vertical extent:* 94m   
+*Rock type:* basalt *Cave type:* lava tunnel  
+[Chen et al. (2016) doi:10.5038/1827-806X.45.3.1987](https://doi.org/10.5038/1827-806X.45.3.1987)   
+[Zhalov (2014) https://digital.lib.usf.edu/content/SF/S0/05/37/18/00001/K26-03269-BSC2014_Proceed.pdf#page=30](https://digital.lib.usf.edu/content/SF/S0/05/37/18/00001/K26-03269-BSC2014_Proceed.pdf#page=30)   
+[Zhalov and Bonev (2012) http://neu.agsr.ch/wordpress/wp-content/uploads/093ZhalovuBonevBulgarianChineseExpe.pdf](http://neu.agsr.ch/wordpress/wp-content/uploads/093ZhalovuBonevBulgarianChineseExpe.pdf)   
 
 ---  
 <a name="US-d440a5e174dbb6f33583cb4c19cdc81b"></a>
@@ -9052,6 +9061,7 @@ Russia - Kamchatka - North Gorely
 <a name="RU-5236/15758-4"></a>
 Russia - Kamchatka - North Gorely  
 *Cave Name(s):* **Go-9607** *Id:* 5236/15758-4  
+*altitude:* 940  
 *Length:* 19m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1114](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1114)   
@@ -9060,6 +9070,7 @@ Russia - Kamchatka - North Gorely
 <a name="RU-5236/15758-3"></a>
 Russia - Kamchatka - North Gorely  
 *Cave Name(s):* **Go-9608** *Id:* 5236/15758-3  
+*altitude:* 930  
 *Length:* 48m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1118](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1118)   
@@ -9083,8 +9094,9 @@ Russia - Kamchatka - North Gorely
 
 ---  
 <a name="RU-5236/15758-1"></a>
-Russia - Kamchatka  
+Russia - Kamchatka - North Gorely  
 *Cave Name(s):* **Go-9611** *Id:* 5236/15758-1  
+*altitude:* 915  
 *Length:* 110m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1119](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1119)   
@@ -11010,7 +11022,8 @@ Comoros - Anjouan Island
 Comoros - Anjouan Island; Mromagi area  
 *Cave Name(s):* **Ngama Mapoudrou**  
 *Length:* 30m   
-*Contents:* occasional bats  
+*Cave type:* lava tunnel  
+*Contents:* many bats  
 [Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf](http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf)   
 
 ---  
@@ -11439,13 +11452,6 @@ Japan - Mt. Fuji
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=77](https://rpif.asu.edu/LTdatabase/result.php?RECNO=77)   
 
 ---  
-<a name="FM-a1bb213e0b62bc3a27cf90e160de43fc"></a>
-Micronesia - Kosrae  
-*Cave Name(s):* **Kosrae Island tube**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1136](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1136)   
-
----  
 <a name="JP-460a9b5f201a362127dcc06f3a88ea13"></a>
 Japan - Nagasaki  
 *Cave Name(s):* **Kotakeno Ana**  
@@ -11625,13 +11631,6 @@ United States of America - Hawaii; North Kona District - Hawaii Island
 *Length:* 380m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=842](https://rpif.asu.edu/LTdatabase/result.php?RECNO=842)   
-
----  
-<a name="CN-89bf95ffd4e7cbe5c9d023eabf6635d6"></a>
-China - Heilungjiang; Wudalianchi County - Wudalianchi volcano  
-*Cave Name(s):* **Laoheishan and Huoshaoshan tubes**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=997](https://rpif.asu.edu/LTdatabase/result.php?RECNO=997)   
 
 ---  
 <a name="US-70312c534832fe0760b04ef04ded2135"></a>
@@ -13923,8 +13922,9 @@ Mauritius
 *Cave Name(s):* **Petite Riviere Cave**  
 *Length:* 665m   
 *Cave type:* lava tunnel  
+*Contents:* many bats  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=167](https://rpif.asu.edu/LTdatabase/result.php?RECNO=167)   
-[Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf](https://core.ac.uk/download/pdf/154473434.pdf)   
+[Middleton (1998) doi:10.5038/1827-806X.27.1.9](https://doi.org/10.5038/1827-806X.27.1.9)   
 
 ---  
 <a name="MU-45016184f394d9e0c2f7244d7fcaf20a"></a>
@@ -13933,7 +13933,7 @@ Mauritius - Plaine des Roches
 *Length:* 520m   
 *Cave type:* lava tunnel  
 *Contents:* many bats  
-[Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf](https://core.ac.uk/download/pdf/154473434.pdf)   
+[Middleton (1998) doi:10.5038/1827-806X.27.1.9](https://doi.org/10.5038/1827-806X.27.1.9)   
 
 ---  
 <a name="MU-f9034ce835d3d00692a0379324781128"></a>
@@ -13941,7 +13941,7 @@ Mauritius
 *Cave Name(s):* **Pont Bon Dieu Jardin Cave**  
 *Length:* ~400m   
 *Cave type:* lava tunnel  
-[Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf](https://core.ac.uk/download/pdf/154473434.pdf)   
+[Middleton (1998) doi:10.5038/1827-806X.27.1.9](https://doi.org/10.5038/1827-806X.27.1.9)   
 
 ---  
 <a name="MU-c3c912acc6777f4b2b3dcf3f15b2ed4e"></a>
@@ -13949,7 +13949,7 @@ Mauritius
 *Cave Name(s):* **Camp Thorel Cave**  
 *Length:* 687m   
 *Cave type:* lava tunnel  
-[Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf](https://core.ac.uk/download/pdf/154473434.pdf)   
+[Middleton (1998) doi:10.5038/1827-806X.27.1.9](https://doi.org/10.5038/1827-806X.27.1.9)   
 [Middleton (1998) http://vulcanospeleology.org/sym09/ISV9Eal.pdf](http://vulcanospeleology.org/sym09/ISV9Eal.pdf)   
 
 ---  
@@ -13958,7 +13958,7 @@ Mauritius
 *Cave Name(s):* **Trou Hirondelle**  
 *Length:* 442m   
 *Cave type:* lava tunnel  
-[Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf](https://core.ac.uk/download/pdf/154473434.pdf)   
+[Middleton (1998) doi:10.5038/1827-806X.27.1.9](https://doi.org/10.5038/1827-806X.27.1.9)   
 
 ---  
 <a name="MU-c5004cc8185ae4688b6965c6c5b25198"></a>
@@ -16632,7 +16632,7 @@ United States of America - Washington; Skamania County - Mount St. Helens
 ---  
 <a name="US-1370f872faf0174bb744aca574458e33"></a>
 United States of America - Hawaii - Mauna Kea  
-*Cave Name(s):*  Kukaiau Cave; This Cave/That Cave; Kukaiau Piping Cave  
+*Cave Name(s):* **Kukaiau Cave** This Cave/That Cave; Kukaiau Piping Cave  
 *Length:* 1002m *Vertical extent:* 105m *Number of entrances:* 7  
 *Branches:* ThisCave; ThatCave;   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=946](https://rpif.asu.edu/LTdatabase/result.php?RECNO=946)   
@@ -16880,11 +16880,18 @@ United States of America - Washington; Skamania County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1683](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1683)   
 
 ---  
+<a name="FM-a1bb213e0b62bc3a27cf90e160de43fc"></a>
+Micronesia - Kosrae  
+*Cave Name(s):* **Kosrae Island tube**  
+*Rock type:* basalt *Cave type:* lava tunnel  
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1136](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1136)   
+
+---  
 <a name="FM-619f9e3c12d4d97894e177de4955f275"></a>
 Micronesia - Chuuk  
 *Cave Name(s):* **Tol Island tube**  
 *Length:* 30m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=686](https://rpif.asu.edu/LTdatabase/result.php?RECNO=686)   
 
 ---  

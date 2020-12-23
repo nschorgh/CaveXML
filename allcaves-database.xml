@@ -46,10 +46,11 @@
    </record>
    <record>
       <country-name>Austria</country-name>
-      <state-or-province/>
-      <phys-area-name/>
+      <state-or-province>Steiermark; Oberösterreich</state-or-province>
+      <phys-area-name>Totes Gebirge</phys-area-name>
       <principal-cave-name>Feuertal-Eishöhle</principal-cave-name>
       <other-cave-name/>
+      <cave-id>1626/18</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1718</altitude>
@@ -58,6 +59,7 @@
       <contents>permanent ice</contents>
       <cave-system>Schönberg-Höhlensystem</cave-system>
       <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
+      <reference>Jansky (1986) https://www.zobodat.at/pdf/Hoehle_037_0168-0171.pdf</reference>
    </record>
    <record>
       <country-name>Austria</country-name>
@@ -93,33 +95,20 @@
    </record>
    <record>
       <country-name>Austria</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Hundsalm Eis- und Tropfsteinhöhle</principal-cave-name>
-      <other-cave-name/>
-      <latitude>47.545</latitude>
-      <longitude>12.027</longitude>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <comments/>
-      <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
-   </record>
-   <record>
-      <country-name>Austria</country-name>
-      <state-or-province/>
+      <state-or-province>Oberösterreich</state-or-province>
       <phys-area-name>Sarstein</phys-area-name>
       <principal-cave-name>Eisgruben-Eishöhle</principal-cave-name>
       <other-cave-name/>
+      <cave-id>1611/39</cave-id>
       <latitude/>
       <longitude/>
       <altitude>1720 main entrance</altitude>
-      <length/>
-      <vertical-extent/>
+      <length>213</length>
+      <vertical-extent>97</vertical-extent>
       <contents>permanent ice</contents>
       <comments/>
       <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
+      <reference>Achleitner (1995) https://www.zobodat.at/pdf/Hoehle_046_0001-0005.pdf</reference>
    </record>
    <record>
       <country-name>Austria</country-name>
@@ -205,10 +194,12 @@
    </record>
    <record>
       <country-name>Austria</country-name>
-      <state-or-province>Tirol</state-or-province>
+      <state-or-province>Tyrol</state-or-province>
       <phys-area-name>Tennengebirge</phys-area-name>
       <principal-cave-name>Hundalm Eishöhle</principal-cave-name>
       <other-cave-name>Hundalm Eis- und Tropfsteinhöhle</other-cave-name>
+      <other-cave-name>Hundsalm Eishöhle</other-cave-name>
+      <cave-id>1266/1</cave-id>
       <latitude>47.5450</latitude>
       <longitude>12.0264</longitude>
       <altitude>1515</altitude>
@@ -217,6 +208,7 @@
       <contents>permanent ice</contents>
       <comments/>
       <reference>https://de.wikipedia.org/wiki/Hundalm-Eish%C3%B6hle</reference>
+      <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -225,14 +217,16 @@
       <phys-area-name>Untersberg</phys-area-name>
       <principal-cave-name>Kolowrathöhle</principal-cave-name>
       <other-cave-name/>
+      <cave-id>1339/1</cave-id>
       <latitude>47.72792</latitude>
       <longitude>13.00858</longitude>
       <altitude>1391</altitude>
       <length>38000</length>
-      <vertical-extent/>
+      <vertical-extent>1100</vertical-extent>
       <contents>permanent ice</contents>
       <cave-system>Gamslöcher-Kolowrat-Höhlensystem</cave-system>
       <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
+      <reference>https://de.wikipedia.org/wiki/Kolowratsh%C3%B6hle</reference>
    </record>
    <record>
       <country-name>Austria</country-name>
@@ -3305,12 +3299,12 @@
       <phys-area-name>Pyrenees</phys-area-name>
       <phys-area-name>(Arañonera)</phys-area-name>
       <principal-cave-name>Soaso Ice Cave</principal-cave-name>
-      <other-cave-name/>
+      <other-cave-name>Sima de Soaso</other-cave-name>
       <latitude/>
       <longitude/>
       <altitude>2259–2400</altitude>
       <length/>
-      <vertical-extent/>
+      <vertical-extent>316</vertical-extent>
       <contents>permanent ice</contents>
       <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
    </record>
@@ -9660,16 +9654,38 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=40</reference>
    </record>
+   
    <record>
       <country-name>China</country-name>
       <state-or-province>Heilongjiang</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Chin Fue</principal-cave-name>
+      <other-cave-name>Chin Puo</other-cave-name>
+      <other-cave-name>RS-1, RS-2</other-cave-name>
       <length>450</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=996</reference>
    </record>
+   <record>
+      <country-name>China</country-name>
+      <state-or-province></state-or-province>
+      <phys-area-name>Tengchong volcanic field</phys-area-name>
+      <principal-cave-name>Jingfudong Lava Tube</principal-cave-name>
+      <other-cave-name>Djin Fu Dong Lava Tube Cave</other-cave-name>
+      <other-cave-name>Djin Dong</other-cave-name>
+      <latitude>25.03170</latitude>
+      <longitude>98.43969</longitude>
+      <altitude>1642</altitude>
+      <length>742</length>
+      <vertical-extent>94</vertical-extent>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Chen et al. (2016) doi:10.5038/1827-806X.45.3.1987</reference>
+      <reference>Zhalov (2014) https://digital.lib.usf.edu/content/SF/S0/05/37/18/00001/K26-03269-BSC2014_Proceed.pdf#page=30</reference>
+      <reference>Zhalov and Bonev (2012) http://neu.agsr.ch/wordpress/wp-content/uploads/093ZhalovuBonevBulgarianChineseExpe.pdf</reference>
+   </record>
+   
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
@@ -12919,6 +12935,7 @@
       <phys-area-name>North Gorely</phys-area-name>
       <principal-cave-name>Go-9607</principal-cave-name>
       <cave-id>5236/15758-4</cave-id>
+      <altitude>940</altitude>
       <length>19</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1114</reference>
@@ -12929,6 +12946,7 @@
       <phys-area-name>North Gorely</phys-area-name>
       <principal-cave-name>Go-9608</principal-cave-name>
       <cave-id>5236/15758-3</cave-id>
+      <altitude>930</altitude>
       <length>48</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1118</reference>
@@ -12958,9 +12976,10 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>North Gorely</phys-area-name>
       <principal-cave-name>Go-9611</principal-cave-name>
       <cave-id>5236/15758-1</cave-id>
+      <altitude>915</altitude>
       <length>110</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1119</reference>
@@ -15369,8 +15388,8 @@
       <principal-cave-name>Ngama Mapoudrou</principal-cave-name>
       <other-cave-name></other-cave-name>
       <length>30</length>
-      <cave-type></cave-type>
-      <contents>occasional bats</contents>
+      <cave-type>lava tunnel</cave-type>
+      <contents>many bats</contents>
       <reference>Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf</reference>
    </record>
 
@@ -15903,15 +15922,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=77</reference>
    </record>
    <record>
-      <country-name>Micronesia</country-name>
-      <state-or-province>Kosrae</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Kosrae Island tube</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1136</reference>
-   </record>
-   <record>
       <country-name>Japan</country-name>
       <state-or-province>Nagasaki</state-or-province>
       <phys-area-name/>
@@ -16141,15 +16151,6 @@
       <length>380</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=842</reference>
-   </record>
-   <record>
-      <country-name>China</country-name>
-      <state-or-province>Heilungjiang; Wudalianchi County</state-or-province>
-      <phys-area-name>Wudalianchi volcano</phys-area-name>
-      <principal-cave-name>Laoheishan and Huoshaoshan tubes</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=997</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -19014,6 +19015,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1736</reference>
    </record>
+
    <record>
       <country-name>Mauritius</country-name>
       <state-or-province/>
@@ -19021,8 +19023,9 @@
       <principal-cave-name>Petite Riviere Cave</principal-cave-name>
       <length>665</length>
       <cave-type>lava tunnel</cave-type>
+      <contents>many bats</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=167</reference>
-      <reference>Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf</reference>
+      <reference>Middleton (1998) doi:10.5038/1827-806X.27.1.9</reference>
    </record>
    <record>
       <country-name>Mauritius</country-name>
@@ -19032,7 +19035,7 @@
       <length>520</length>
       <cave-type>lava tunnel</cave-type>
       <contents>many bats</contents>
-      <reference>Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf</reference>
+      <reference>Middleton (1998) doi:10.5038/1827-806X.27.1.9</reference>
    </record>
    <record>
       <country-name>Mauritius</country-name>
@@ -19042,7 +19045,7 @@
       <length>~400</length>
       <cave-type>lava tunnel</cave-type>
       <contents></contents>
-      <reference>Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf</reference>
+      <reference>Middleton (1998) doi:10.5038/1827-806X.27.1.9</reference>
    </record>
    <record>
       <country-name>Mauritius</country-name>
@@ -19052,7 +19055,7 @@
       <length>687</length>
       <cave-type>lava tunnel</cave-type>
       <contents></contents>
-      <reference>Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf</reference>
+      <reference>Middleton (1998) doi:10.5038/1827-806X.27.1.9</reference>
       <reference>Middleton (1998) http://vulcanospeleology.org/sym09/ISV9Eal.pdf</reference>
    </record>
    <record>
@@ -19063,7 +19066,7 @@
       <length>442</length>
       <cave-type>lava tunnel</cave-type>
       <contents></contents>
-      <reference>Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf</reference>
+      <reference>Middleton (1998) doi:10.5038/1827-806X.27.1.9</reference>
    </record>
    <record>
       <country-name>Mauritius</country-name>
@@ -19086,6 +19089,7 @@
       <contents></contents>
       <reference>Middleton (1998) http://vulcanospeleology.org/sym09/ISV9Eal.pdf</reference>
    </record>
+
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
@@ -22426,7 +22430,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Mauna Kea</phys-area-name>
-      <other-cave-name>Kukaiau Cave</other-cave-name>
+      <principal-cave-name>Kukaiau Cave</principal-cave-name>
       <other-cave-name>This Cave/That Cave</other-cave-name>
       <other-cave-name>Kukaiau Piping Cave</other-cave-name>
       <length>1002</length>
@@ -22748,15 +22752,28 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1683</reference>
    </record>
+
+   <record>
+      <country-name>Micronesia</country-name>
+      <state-or-province>Kosrae</state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Kosrae Island tube</principal-cave-name>
+      <length/>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1136</reference>
+   </record>
    <record>
       <country-name>Micronesia</country-name>
       <state-or-province>Chuuk</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Tol Island tube</principal-cave-name>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=686</reference>
    </record>
+   
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>

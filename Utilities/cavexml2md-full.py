@@ -28,7 +28,6 @@ ff = open("tmp-full.md","w")
 
 ff.write('All entries in allcaves-database.xml  \n')
 ff.write('------------------------------------  \n')
-ff.write('2202 records  \n')
 ff.write('All text and links are automatically generated from the CaveXML database.  \n')
 ff.write('\n')
 ff.write('\n---  \n')

@@ -48,22 +48,24 @@ for item in root.findall('record'):
             pass
         try:
             if len(item.find('branch-name').text.strip())>0:
-                print('WARNING: no principal-cave-name but branches')
+                print('WARNING: no principal-cave-name but branches', count)
         except:
             pass
     
     acavename = get_one_cave_name(item)
     if len(acavename)==0:
-        print('WARNING: Neither principal nor other cave name nor cave id',count)
+        print('WARNING: neither principal nor other cave name nor cave id',count)
 
 
-    try:
-        ref = item.find('reference').text.strip()
+    ref = item.find('reference')
+    if ref is None:
+        print('WARNING: no reference for',acavename)
+    else:
+        ref = ref.text.strip()
         if ref is None:
-            print('WARNING: no reference for ',acavename)
-    except:
-        pass
+            print('WARNING: no reference for',acavename)
 
+            
     ref = item.findall('reference')
     for i in range(0,len(ref)):
         refstr = ref[i].text
@@ -108,7 +110,7 @@ for i in range(0,len(lcav)):
         ii = idxs[k]
         if i<ii and lcou[i]==lcou[ii]:
             if lcid[i]==lcid[ii] and lcid[i]!=' ' and lcid[i] is not None: 
-                print('SAME ID',lcou[i],lcav[i],lcav[ii],lcid[i],sep=':')
+                print('SAME ID:',lcou[i],lcav[i],lcav[ii],lcid[i])
 
 
 

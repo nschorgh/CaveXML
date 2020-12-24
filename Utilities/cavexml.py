@@ -10,13 +10,14 @@ import hashlib  # only used in generate_unique_id
 
 def merge_elements(stuff):
     # merges repeat XML elements, useful for flattenig the database
-    if stuff:  #if stuff is not None and len(stuff)>0:
-        outstr = stuff[0].text
-        for i in range(1,len(stuff)):  # merge multiple entries
+    outstr = ""
+    if stuff:  # if stuff is not None and len(stuff)>0:
+        for i in range(0,len(stuff)):
             if stuff[i].text is not None:
-                outstr = outstr + "; " + stuff[i].text
-    else:
-        outstr = ""
+                if i>0:
+                    outstr += "; "
+                outstr += stuff[i].text
+
     return outstr
 
 
@@ -459,9 +460,7 @@ def country2alpha2(countryname):
         'Titan': 'XT'
     }
 
-
     return dict[countryname]
-
 
 
 
@@ -479,6 +478,11 @@ def generate_unique_id(item):
     try: # use cave-id, if available
         cid = item.find('cave-id')
         uniid = iso2 + '-' + cid.text
+        # adding a suffix if the record has a branch
+        bn = item.find('branch-name') # this only finds the first
+        if bn is not None:
+            if bn.text:
+                uniid += 'S'
     except: # create hash code based on several entries
         mashup = get_one_cave_name(item)
         try:
@@ -501,7 +505,7 @@ def generate_unique_id(item):
 
 
 def generate_maplink(latitude, longitude, country):
-    # generate hyperlink to Google maps
+    # generate hyperlink to Google Maps
     googlemaplink = 'https://maps.google.com/?ll=' + latitude +',' + longitude
     if country == 'Moon':
         googlemaplink = 'https://www.google.com/moon/#lat=' + latitude +'&lon=' + longitude
@@ -585,17 +589,19 @@ def cross_link_cavsys(i, conlist, pcnlist, cavsys, list_of_lists, uidlist):
 def cross_link_branch(i, conlist, pcnlist, bralist, uidlist):
     # link branch-name entries
     bra_link = [None] * len(bralist)   # [None]*0 = []
-    if len(bralist)>0:
-        #print(pcnlist[i],'has branches',bralist)
-        for k in range(0,len(bralist)):
-            idxs = find_all_indices(bralist[k], pcnlist)
-            for ii in idxs: # go through all records with matching principal name
-                if conlist[i] != conlist[ii]:
-                    continue  # skip if not in same country
-                if bralist[k] == pcnlist[ii]:
-                    bra_link[k] = uidlist[ii]
-                    #print('... and branch',bra_link[k],'points back to cavesys',uidlist[i])
-                    #print('... and branch',bralist[k],'points back to cavesys',pcnlist[i])
+    
+    #if len(bralist)>0:
+    #    print(pcnlist[i],'has branches',bralist)
+    for k in range(0,len(bralist)):
+        idxs = find_all_indices(bralist[k], pcnlist)
+        
+        for ii in idxs: # go through all records with matching principal name
+            if conlist[i] != conlist[ii]:
+                continue  # skip if not in same country
+            if bralist[k] == pcnlist[ii]:
+                bra_link[k] = uidlist[ii]
+                #print('... and branch',bra_link[k],'points back to cavesys',uidlist[i])
+                #print('... and branch',bralist[k],'points back to cavesys',pcnlist[i])
 
     return bra_link  # a list
                     

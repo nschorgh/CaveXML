@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 526 rock-hosted caves with perennial ice was generated from a CaveXML database. - Dec 24, 2020
+This list of 521 rock-hosted caves with perennial ice was generated from a CaveXML database. - Dec 25, 2020
 
 Austria - Oberösterreich - Dachstein [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
 Austria - Oberösterreich - Dachstein [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-1547/17)  
@@ -318,11 +318,9 @@ Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario  [**Asopladeru P36*
 Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario  [**C13** ](allcaves-database.md#ES-b07dc7fde64a86f20d6cf55eb2031f80)  
 Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario  [**D2** ](allcaves-database.md#ES-1f758699d2f72308c57f85d12da5247e)  
 Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario  [**E18** ](allcaves-database.md#ES-88f1dfacbf240aff137853cb0ba421df)  
-Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario  [**E20** ](allcaves-database.md#ES-0b407c37c21c1e82b7e41effa7fc1403)  
 Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario  [**E20 La Jayada** ](allcaves-database.md#ES-d5c742cb5ca52b3f5634e8b46755ef2a)  
 Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario  [**E25** ](allcaves-database.md#ES-7c0565bcd6e38dafceaf5d2b73d7f4a4)  
 Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario  [**E26** ](allcaves-database.md#ES-1173b3956fad87b4508c0a1d146f8e55)  
-Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario  [**E9** ](allcaves-database.md#ES-f7edeead0ee808017c9d05d29543cd67)  
 Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario  [**E9** ](allcaves-database.md#ES-f7edeead0ee808017c9d05d29543cd67)  
 Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario  [**F20 L'Redondo** ](allcaves-database.md#ES-8c39fc5c27861cdc6e5048f38c8aeaaa)  
 Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario  [**F2 Las Perdices** ](allcaves-database.md#ES-47bc754a68da8e3e9bc6f0b8af51e3c0)  
@@ -353,7 +351,6 @@ Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos  [**ES01** ](all
 Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos  [**ES13** ](allcaves-database.md#ES-c974e4610c0e4abbd4147e2b70c26cfe)  
 Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos  [**ES17** ](allcaves-database.md#ES-bced7faeb128d66941bfcf84ace7baa2)  
 Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos  [**ES20** ](allcaves-database.md#ES-3254c7222b2e39bab9d5e3b9580fa98d)  
-Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos  [**ES21** ](allcaves-database.md#ES-38886803767399451ff389cab3f16850)  
 Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos  [**ES21** ](allcaves-database.md#ES-38886803767399451ff389cab3f16850)  
 Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos  [**ES22** ](allcaves-database.md#ES-ba3c5969a3da994703b965feaf2253d8)  
 Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos  [**ES38** ](allcaves-database.md#ES-10f09cc87ac653fb6c985df0f17c5452)  
@@ -488,14 +485,12 @@ Turkey [**Buzluk Cave** Ice Cave of Harput ](allcaves-database.md#TR-aa105a68a10
 Turkey [**Ice Cae in Agri** Buz Magarasi ](allcaves-database.md#TR-2d142fe6636cb5a64ca39c097d39f251)  
 United States of America - California - Lava Beds National Monument [**C-270** ](allcaves-database.md#US-2462c816a38bd73ffd6d4662a550cd56)  
 United States of America - California - Lava Beds National Monument [**L-800** ](allcaves-database.md#US-6dcca36d30dfd9bb66692850ca3d1f6f)  
-United States of America - California - Lava Beds National Monument [**M-475** ](allcaves-database.md#US-72c8fca43a70e139abff3f745f8e8cfe)  
 United States of America - California - Lava Beds National Monument [**U-200** ](allcaves-database.md#US-1f19f2c2da18a16986094f6c88a7aeb9)  
-United States of America - California; Siskiyou County - Lava Beds National Monument [**Heppe Ice Cave** Heppe Cave ](allcaves-database.md#US-4ef18b3f7a4b7050882366ba79b6dcec)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands [**Island Ice Cave** Hambone Island Cave M-470](allcaves-database.md#US-M-470)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-4ef18b3f7a4b7050882366ba79b6dcec)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-4ef18b3f7a4b7050882366ba79b6dcec)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Mammoth Crater [**Crystal Cave** Crystal Ice Cave; Blue Crystal Ice Cave ](allcaves-database.md#US-fc5568e5634776f0ae35c2b1315215b3)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater [**Incline Cave** M-340](allcaves-database.md#US-M-340)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater [**Merrill Ice Cave** Merrill Cave ](allcaves-database.md#US-a95329610cec5bae744f3d8235cb1d04)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake; Mammoth Crater [**Indian Well** Indian Wells Ice Cave L-215](allcaves-database.md#US-L-215)  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater [**Skull Ice Cave** Skull Cave ](allcaves-database.md#US-576280d2c58ce17512b5951d295a1e6c)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Modoc Crater [**Big Painted Cave** M-310](allcaves-database.md#US-M-310)  
 United States of America - California; Siskiyou County - Lava Beds National Monument [**Upper Ice Cave** ](allcaves-database.md#US-2c555b1f2263d6c9ab0ff0c5b6033fa1)  
 United States of America - Hawaii - Hawaii Island; Mauna Loa [**Arsia Cave** Arsia Ice Cave ](allcaves-database.md#US-018c11f08faa8198eccd5f59f1d2c52c)  
@@ -511,9 +506,9 @@ United States of America - New Mexico; Cibola County - El Malpais National Monum
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
 United States of America - New Mexico; Cibola County - El Malpais region [**Candelaria Ice Cave** Cerro Candelaria ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
 United States of America - New Mexico - El Malpais National Monument [**Bandera Volcano Ice Cave** Zuni Ice Cave ](allcaves-database.md#US-550d86c03f143647c157dcc9ff53d712)  
+United States of America - Oregon; Deschutes County - Newberry National Monument [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-d81fd19911fc95f7260b1a643df09f29)  
 United States of America - Oregon; Deschutes County - Newberry Volcano [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-c5d7d1ff312ea1bb5ed16dea777d5126) *Part of* Arnold Lava Tube System  
 United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-077de09ed873c37df0563a21580f0209)  
-United States of America - Oregon - Newberry National Monument [**Surveyor's Cave** Surveyor's Ice Cave ](allcaves-database.md#US-a27db873c5a83faa4b9afbc1cadd67e2)  
 United States of America - Utah - Central Rocky Mountains [**Bear Ice Cave** ](allcaves-database.md#US-f9244e4b84013595587462be918605da)  
 United States of America - Utah - Central Rocky Mountains [**Big Brush Creek Cave** ](allcaves-database.md#US-e328d340ccc22180c747d11cb3f14d41)  
 United States of America - Utah - Central Rocky Mountains [**Grandview Ice Cave** ](allcaves-database.md#US-3d77578a218469475de04098e1515a0c)  
@@ -542,11 +537,10 @@ Italy - Sicilia - Sicily; Etna [**Grotta del Gelo** ](allcaves-database.md#IT-b9
 Japan - Mt. Fuji [**Fuji Ice Cave** Fuji Fuketsu (Fuji Wind Cave) ](allcaves-database.md#JP-e26bc9c6698824529baa6da0bf5bb393)  
 Japan - Mt. Fuji [**Motosu Fuketsu No. 2 Cave** ](allcaves-database.md#JP-2a709c7095c14ead38bd702c895e40d9)  
 Japan - Yamanashi - Mt. Fuji [**Narusawa Hyoketsu Cave** Narusawa Ice Cave; Narusawa Wind Cave; Narusawa Fuketsu ](allcaves-database.md#JP-6d8a263701cde5196f0357254dcdb677)  
-United States of America - California; Siskiyou County - Lava Beds National Monument [**Heppe Ice Cave** Heppe Cave ](allcaves-database.md#US-4ef18b3f7a4b7050882366ba79b6dcec)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands [**Island Ice Cave** Hambone Island Cave M-470](allcaves-database.md#US-M-470)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-4ef18b3f7a4b7050882366ba79b6dcec)  
+United States of America - California; Siskiyou County - Lava Beds National Monument [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-4ef18b3f7a4b7050882366ba79b6dcec)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Mammoth Crater [**Crystal Cave** Crystal Ice Cave; Blue Crystal Ice Cave ](allcaves-database.md#US-fc5568e5634776f0ae35c2b1315215b3)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater [**Merrill Ice Cave** Merrill Cave ](allcaves-database.md#US-a95329610cec5bae744f3d8235cb1d04)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake; Mammoth Crater [**Indian Well** Indian Wells Ice Cave L-215](allcaves-database.md#US-L-215)  
+United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater [**Skull Ice Cave** Skull Cave ](allcaves-database.md#US-576280d2c58ce17512b5951d295a1e6c)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Modoc Crater [**Big Painted Cave** M-310](allcaves-database.md#US-M-310)  
 United States of America - California; Siskiyou County - Lava Beds National Monument [**Upper Ice Cave** ](allcaves-database.md#US-2c555b1f2263d6c9ab0ff0c5b6033fa1)  
 United States of America - Hawaii - Hawaii Island; Mauna Loa [**Arsia Cave** Arsia Ice Cave ](allcaves-database.md#US-018c11f08faa8198eccd5f59f1d2c52c)  
@@ -557,10 +551,8 @@ United States of America - New Mexico; Cibola County - El Malpais National Monum
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
 United States of America - New Mexico; Cibola County - El Malpais region [**Candelaria Ice Cave** Cerro Candelaria ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
 United States of America - New Mexico - El Malpais National Monument [**Bandera Volcano Ice Cave** Zuni Ice Cave ](allcaves-database.md#US-550d86c03f143647c157dcc9ff53d712)  
+United States of America - Oregon; Deschutes County - Newberry National Monument [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-d81fd19911fc95f7260b1a643df09f29)  
 United States of America - Oregon; Deschutes County - Newberry Volcano [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-c5d7d1ff312ea1bb5ed16dea777d5126) *Part of* Arnold Lava Tube System  
 United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-077de09ed873c37df0563a21580f0209)  
-United States of America - Oregon - Newberry National Monument [**Surveyor's Cave** Surveyor's Ice Cave ](allcaves-database.md#US-a27db873c5a83faa4b9afbc1cadd67e2)  
 United States of America - Washington; Skamania County - Mt. Adams [**Guler Ice Cave** ](allcaves-database.md#US-f3ebfa41578dcd316016a2b8094666ae)  
 United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system [**Hoarfrost Cave** NSS-633-18](allcaves-database.md#US-NSS-633-18)  
-
-

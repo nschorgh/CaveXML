@@ -1017,7 +1017,7 @@
       "rock-type": [],
       "contents": "permanent ice",
       "comments": "impressive hoar frost",
-      "comments": "large hoar frost crystals",
+      "comments": "large hoar frost crystals; 30cm across",
       "reference": "Moseley et al. (2020) Cave and Karst Sci. 47, 74-87",
       "reference": "Barton et al. (2020) Cave and Karst Sci. 47, 93-99"
     },
@@ -1035,6 +1035,23 @@
       "rock-type": [],
       "contents": "permanent ice",
       "comments": "impressive hoar frost, ice stalagmites",
+      "comments": [],
+      "reference": "Moseley et al. (2020) Cave and Karst Sci. 47, 74-87",
+      "reference": "Barton et al. (2020) Cave and Karst Sci. 47, 93-99"
+    },
+
+    {
+      "country-name": "Greenland",
+      "phys-area-name": "northeastern Greenland",
+      "principal-cave-name": "Swirly Cave",
+      "other-cave-name": "Sangujoraartoq Qaarusussuaq",
+      "latitude": "+80.38846",
+      "longitude": -21.78788,
+      "altitude": 554,
+      "length": 96,
+      "rock-type": [],
+      "contents": "permanent ice",
+      "comments": [],
       "comments": [],
       "reference": "Moseley et al. (2020) Cave and Karst Sci. 47, 74-87",
       "reference": "Barton et al. (2020) Cave and Karst Sci. 47, 93-99"
@@ -3047,15 +3064,19 @@
       "phys-area-name": "Canary Islands",
       "phys-area-name": "Mount Teide",
       "principal-cave-name": "Cueva de Hielo del Teide",
-      "other-cave-name": [],
+      "other-cave-name": "Cueva del Hielo",
+      "other-cave-name": "Teide Ice Cave",
+      "other-cave-name": "Altavista Ice Cave",
+      "other-cave-name": "Cueva de Salitre",
       "latitude": [],
       "longitude": [],
       "altitude": 3400,
-      "length": [],
-      "vertical-extent": [],
+      "length": 50,
+      "vertical-extent": 14,
       "cave-type": "lava tunnel",
-      "contents": "permanent ice",
-      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+      "contents": "periodic ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0",
+      "reference": "Rosales (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf"
     },
 
     {
@@ -3095,7 +3116,7 @@
       "state-or-province": "Santa Cruz de Tenerife",
       "phys-area-name": "Canary Islands",
       "phys-area-name": "Mount Teide",
-      "principal-cave-name": "Sima de Hielo Montaña",
+      "principal-cave-name": "Sima de Hielo Montaña Rajada",
       "other-cave-name": [],
       "latitude": [],
       "longitude": [],
@@ -3128,15 +3149,16 @@
       "phys-area-name": "Pyrenees",
       "phys-area-name": "Monte Perdido-Marboré",
       "principal-cave-name": "Casteret",
-      "other-cave-name": [],
+      "other-cave-name": "Gruta Helada de Casteret",
       "latitude": 42.68514,
       "longitude": -0.032455,
       "altitude": 2640,
-      "length": [],
+      "length": "~500",
       "vertical-extent": 80,
+      "number-of-entrances": 3,
       "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "ponded",
+      "comments": "Cretaceous; large frozen lake (Gran Sala) 2,000m^2",
       "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0",
       "reference": "https://en.wikipedia.org/wiki/Grotto_of_Casteret"
     },
@@ -3626,20 +3648,22 @@
 
     {
       "country-name": "Spain",
-      "state-or-province": [],
+      "state-or-province": "Huesca province",
       "phys-area-name": "Pyrenees",
       "phys-area-name": "Cotiella",
-      "principal-cave-name": "A294",
+      "principal-cave-name": [],
       "cave-id": "A294",
-      "latitude": [],
-      "longitude": [],
+      "latitude": 42.5,
+      "longitude": "0.3",
       "altitude": 2238,
       "length": [],
-      "vertical-extent": [],
+      "vertical-extent": "~40",
+      "number-of-entrances": 2,
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "ice volume of 250 m^3, mainly composed of firn ice",
-      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0",
-      "reference": "Belmonte et al. (2014) DOI:10.4461/GFDQ.2014.37.12"
+      "comments": "ice volume of 250 m^3, mainly composed of firn ice, some congelation ice and seasonal ice stalagmites",
+      "reference": "Belmonte et al. (2014) DOI:10.4461/GFDQ.2014.37.12",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
     },
 
     {
@@ -3732,6 +3756,1709 @@
       "altitude": 2700,
       "length": [],
       "vertical-extent": [],
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Vega Huerta ",
+      "principal-cave-name": "Llastral B3",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Vega Huerta ",
+      "principal-cave-name": "Alfa 31",
+      "altitude": 2000,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Vega Huerta ",
+      "principal-cave-name": "Alfa 68",
+      "altitude": 2000,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Vega Huerta ",
+      "principal-cave-name": "K-9010",
+      "altitude": 1945,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Vega Huerta ",
+      "principal-cave-name": "I32",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Vega Huerta ",
+      "principal-cave-name": "K6",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Vega Huerta ",
+      "principal-cave-name": "I8 Vega Huerta",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "A26",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "E9",
+      "altitude": 2000,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "E18",
+      "altitude": 1962,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "F7H",
+      "altitude": 1940,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "F38",
+      "altitude": 1950,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "F45",
+      "altitude": 1990,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "5/4",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "La Jayada",
+      "altitude": 1750,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "7/9",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "5/9",
+      "altitude": 1870,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "C13",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "D2",
+      "altitude": 1778,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "Jorcada",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "13/9",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "G3",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "A1 Juriazu",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "E20 La Jayada",
+      "altitude": 1979,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "Asopladeru P36",
+      "altitude": 1369,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "Pozu la Nieve",
+      "altitude": 1311,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "F5",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "F57 C. del Arco",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "F60",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "F80",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "F90",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "E9",
+      "altitude": 2000,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "E20",
+      "altitude": 1979,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "E25",
+      "altitude": 1980,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "E26",
+      "altitude": 1980,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "F6 Paso Doble",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "F2 Las Perdices",
+      "altitude": 1866,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Junjumia Ario ",
+      "principal-cave-name": "F20 L'Redondo",
+      "altitude": 1937,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "Torca 54",
+      "altitude": 1580,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "Verónica",
+      "altitude": 2230,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "Altaiz",
+      "altitude": 2190,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "HS4",
+      "altitude": 2350,
+      "vertical-extent": 260,
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "Castil",
+      "altitude": 2095,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "ES9",
+      "altitude": 2055,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "Tiro Llago",
+      "altitude": 2300,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "Abisu l'Xelu",
+      "altitude": 1819,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "P9",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "H5",
+      "altitude": 2321,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "ES22",
+      "altitude": 2087,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "ES20",
+      "altitude": 2047,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "ES21",
+      "altitude": 2045,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "P1",
+      "altitude": 1955,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "N43",
+      "altitude": 2143,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "N3",
+      "altitude": 2040,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "CV13",
+      "altitude": 2352,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "CV22",
+      "altitude": 2352,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "CV5",
+      "altitude": 2384,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "M5",
+      "altitude": 2310,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "Torca Daniel",
+      "altitude": 1440,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "T14",
+      "altitude": 2345,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "HR10",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "V6",
+      "altitude": 2211,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "T1",
+      "altitude": 2420,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "V40",
+      "altitude": 2278,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "P5",
+      "altitude": 2025,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "CV11",
+      "altitude": 2365,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "HR7",
+      "altitude": 2354,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "ES01",
+      "altitude": 2032,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "HS13",
+      "altitude": 2291,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "N24",
+      "altitude": 2063,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "V35",
+      "altitude": 2270,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "P20",
+      "altitude": 1981,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "CV27",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "N12A",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "V4",
+      "altitude": 2140,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "V15",
+      "altitude": 2329,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "JO17",
+      "altitude": 2226,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "N12",
+      "altitude": 2088,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "PV2",
+      "altitude": 2313,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "P30",
+      "altitude": 2081,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "TA22",
+      "altitude": 2058,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "N19",
+      "altitude": 2092,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "ES21",
+      "altitude": 2045,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "TA20",
+      "altitude": 2051,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "HR4",
+      "altitude": 2313,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "TA5",
+      "altitude": 2094,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "JO38",
+      "altitude": 2169,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "P13",
+      "altitude": 1955,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "JO26",
+      "altitude": 2168,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "T12",
+      "altitude": 2338,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "JO37",
+      "altitude": 2178,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "T13",
+      "altitude": 2338,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "V36",
+      "altitude": 2288,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "PV4",
+      "altitude": 2241,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "TA9",
+      "altitude": 1989,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "ES13",
+      "altitude": 2003,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "ES38",
+      "altitude": 2041,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "JO28",
+      "altitude": 2175,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "PV3",
+      "altitude": 2318,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "Tiro llagu",
+      "altitude": 2300,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "V1",
+      "altitude": 2290,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "ES17",
+      "altitude": 2027,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "N26",
+      "altitude": 2044,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "ST01",
+      "altitude": 2192,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "TA19",
+      "altitude": 2080,
+      "vertical-extent": 110,
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "2N",
+      "altitude": 2042,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "JO58",
+      "altitude": 2209,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "N8",
+      "altitude": 2068,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "TA51",
+      "altitude": 2109,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "TA53",
+      "altitude": 2092,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "V17",
+      "altitude": 2242,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "V22",
+      "altitude": 2225,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "N11",
+      "altitude": 2031,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "P16",
+      "altitude": 2058,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "T11",
+      "altitude": 2341,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "CV23",
+      "altitude": 2050,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "JO39",
+      "altitude": 2171,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "TA13",
+      "altitude": 2032,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "N5",
+      "altitude": 2091,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Picos de Europa; Ondón Urriellos ",
+      "principal-cave-name": "TA16",
+      "altitude": 2051,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Montañas de Burgos; Castro Valnera ",
+      "principal-cave-name": "Torca de La Grajera",
+      "altitude": 1490,
+      "vertical-extent": [],
+      "rock-type": [],
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Montaña Palentina; Espigüete ",
+      "principal-cave-name": "Las Chovas",
+      "altitude": 1910,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Montaña Palentina; Espigüete ",
+      "principal-cave-name": "Ves CV-1",
+      "altitude": 2045,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Montaña Palentina; Espigüete ",
+      "principal-cave-name": "S2",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Montaña Palentina; Espigüete ",
+      "principal-cave-name": "ENO-86",
+      "altitude": [],
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Montaña Palentina; Espigüete ",
+      "principal-cave-name": "ENO13",
+      "altitude": 2000,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Montaña Palentina; Espigüete ",
+      "principal-cave-name": "ENO-101",
+      "altitude": 2140,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Montaña Palentina; Espigüete ",
+      "principal-cave-name": "ENO-30",
+      "altitude": 2000,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Montaña Palentina; Espigüete ",
+      "principal-cave-name": "S6",
+      "altitude": 2000,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Montaña Palentina; Espigüete ",
+      "principal-cave-name": "ENO-107",
+      "altitude": 2140,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
+    },
+
+    {
+      "country-name": "Spain",
+      "state-or-province": [],
+      "phys-area-name": "Cantabrian Mountains",
+      "phys-area-name": "Basque Mountains; Aitzgorri ",
+      "principal-cave-name": "Aitzgaizto 12",
+      "altitude": 1280,
+      "vertical-extent": [],
+      "rock-type": [],
       "contents": "permanent ice",
       "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
     },
@@ -4466,48 +6193,104 @@
       "vertical-extent": 1,
       "rock-type": "limestone",
       "contents": "permanent ice",
-      "reference": "Lauritzen (2006) doi:10.5038/1827-806X.35.1.5"
+      "reference": "Lauritzen (2006) doi:10.5038/1827-806X.35.1.5",
+      "reference": "Lauritzen (2011) doi:10.5038/1827-806X.35.1.5"
     },
 
     {
       "country-name": "Svalbard and Jan Mayen",
       "phys-area-name": "Spitsbergen; Blomstrandsøya",
-      "principal-cave-name": "Portalgrotta",
-      "other-cave-name": "G5",
+      "principal-cave-name": "G5 Portalgrotta",
+      "other-cave-name": [],
       "altitude": 72,
       "length": 39,
       "vertical-extent": 2,
       "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "ground ice and hoarfrost",
-      "reference": "Lauritzen (2006) doi:10.5038/1827-806X.35.1.5"
+      "reference": "Lauritzen (2006) doi:10.5038/1827-806X.35.1.5",
+      "reference": "Lauritzen (2011) doi:10.5038/1827-806X.35.1.5"
     },
 
     {
       "country-name": "Svalbard and Jan Mayen",
       "phys-area-name": "Spitsbergen; Blomstrandsøya",
-      "principal-cave-name": "Fissurgrotta",
-      "other-cave-name": "G17",
+      "principal-cave-name": "Portalgrotta",
+      "other-cave-name": "G15 Rundsvagrotte 1",
+      "altitude": 72,
+      "length": 3,
+      "vertical-extent": 1,
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Lauritzen (2011) doi:10.5038/1827-806X.35.1.5"
+    },
+
+    {
+      "country-name": "Svalbard and Jan Mayen",
+      "phys-area-name": "Spitsbergen; Blomstrandsøya",
+      "principal-cave-name": "G17 Fissurgrotta",
+      "other-cave-name": [],
       "altitude": 60,
       "length": 9,
       "vertical-extent": 1,
       "rock-type": "limestone",
       "comments": "ends in hoarfrost and frozen sediment fill",
-      "reference": "Lauritzen (2006) doi:10.5038/1827-806X.35.1.5"
+      "reference": "Lauritzen (2006) doi:10.5038/1827-806X.35.1.5",
+      "reference": "Lauritzen (2011) doi:10.5038/1827-806X.35.1.5"
     },
 
     {
       "country-name": "Svalbard and Jan Mayen",
       "phys-area-name": "Spitsbergen; Blomstrandsøya",
-      "principal-cave-name": "Takrørgrotta",
-      "other-cave-name": "G22",
+      "principal-cave-name": "G21 Sørvåggrotta",
+      "other-cave-name": [],
+      "altitude": 77,
+      "length": 40,
+      "vertical-extent": 15,
+      "rock-type": "limestone",
+      "comments": [],
+      "reference": "Lauritzen (2011) doi:10.5038/1827-806X.35.1.5"
+    },
+
+    {
+      "country-name": "Svalbard and Jan Mayen",
+      "phys-area-name": "Spitsbergen; Blomstrandsøya",
+      "principal-cave-name": "G22 Takrørgrotta",
+      "other-cave-name": [],
       "altitude": 226,
       "length": 18,
       "vertical-extent": 4,
       "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "hoarfrosted scallops; ice, snow, and hoarfrost",
-      "reference": "Lauritzen (2006) doi:10.5038/1827-806X.35.1.5"
+      "reference": "Lauritzen (2006) doi:10.5038/1827-806X.35.1.5",
+      "reference": "Lauritzen (2011) doi:10.5038/1827-806X.35.1.5"
+    },
+
+    {
+      "country-name": "Svalbard and Jan Mayen",
+      "phys-area-name": "Spitsbergen; Blomstrandsøya",
+      "principal-cave-name": "G25 Bratlirør III",
+      "other-cave-name": [],
+      "altitude": 243,
+      "length": 8,
+      "vertical-extent": 3,
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Lauritzen (2011) doi:10.5038/1827-806X.35.1.5"
+    },
+
+    {
+      "country-name": "Svalbard and Jan Mayen",
+      "phys-area-name": "Spitsbergen; Blomstrandsøya",
+      "principal-cave-name": "G27 Kronegrotta",
+      "other-cave-name": [],
+      "altitude": 263,
+      "length": 8,
+      "vertical-extent": 3,
+      "rock-type": "limestone",
+      "contents": "permanent ice",
+      "reference": "Lauritzen (2011) doi:10.5038/1827-806X.35.1.5"
     },
 
     {
@@ -4605,7 +6388,7 @@
 
     {
       "country-name": "Switzerland",
-      "state-or-province": [],
+      "state-or-province": "Vaud (VD)",
       "phys-area-name": "Swiss Jura mountains",
       "principal-cave-name": "Glacière de Saint-George",
       "other-cave-name": [],
@@ -7010,7 +8793,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Mauna Loa",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "Arsia Cave",
       "other-cave-name": "Arsia Ice Cave",
       "latitude": [],
@@ -7423,171 +9206,6 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
-      "principal-cave-name": 1,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=266"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 2,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=274"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 4,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=278"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "06 & 07",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=280"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 11,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=267"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 12,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=268"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 13,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=269"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 14,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=270"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 15,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=271"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 17,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=272"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 19,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=273"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 20,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=275"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 3,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=276"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 30,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=277"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": 5,
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=279"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
       "principal-cave-name": "A",
       "length": 31,
       "cave-type": "lava tunnel",
@@ -7604,28 +9222,6 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1756"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "AA",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=282"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "AB",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=283"
     },
 
     {
@@ -7763,14 +9359,15 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Hualalai",
+      "phys-area-name": "Hawaii Island; Hualalai; Puuwaawaa",
       "principal-cave-name": "Ambigua Cave",
       "length": 1764,
       "vertical-extent": 293,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=941",
       "reference": "Medville (2003) The survey of Ambigua Cave, Haw. Spel. Surv. Newsletter 14, 10-11",
-      "reference": "Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf"
+      "reference": "Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf",
+      "reference": "https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf"
     },
 
     {
@@ -7867,13 +9464,24 @@
       "other-cave-name": "Cave of the Sun's Inclination",
       "length": 400,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=220"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=220",
+      "reference": "Steiner (2016) doi:10.1353/rnj.2016.0018"
     },
 
     {
       "country-name": "Chile",
       "state-or-province": "Aconcagua",
       "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui)",
+      "principal-cave-name": "Ana More Mata Puka",
+      "length": [],
+      "cave-type": [],
+      "reference": "Steiner (2016) doi:10.1353/rnj.2016.0018"
+    },
+
+    {
+      "country-name": "Chile",
+      "state-or-province": "Aconcagua",
+      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow",
       "principal-cave-name": "Ana Roa",
       "altitude": 35,
       "length": [],
@@ -7885,19 +9493,20 @@
     {
       "country-name": "Chile",
       "state-or-province": "Aconcagua",
-      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui)",
+      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow",
       "principal-cave-name": "Ana Te Pahu",
       "altitude": 108,
       "length": 540,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=222"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=222",
+      "reference": "Miller et al. (2014) doi:10.1080/01490451.2013.827762"
     },
 
     {
       "country-name": "Chile",
       "state-or-province": "Aconcagua",
-      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui)",
+      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow",
       "principal-cave-name": "Ana Te Pora",
       "altitude": 35,
       "length": [],
@@ -7907,13 +9516,16 @@
     },
 
     {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
-      "principal-cave-name": "Ananaluawahine Cave",
+      "country-name": "Chile",
+      "state-or-province": "Aconcagua",
+      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow",
+      "principal-cave-name": "Ana Heva",
+      "altitude": [],
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=828"
+      "contents": "intermittently submerged",
+      "reference": "Miller et al. (2014) doi:10.1080/01490451.2013.827762"
     },
 
     {
@@ -8000,17 +9612,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "AP",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=284"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "phys-area-name": "Mount St. Helens",
@@ -8093,7 +9694,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Archies Cave",
       "length": 348,
@@ -8288,8 +9889,10 @@
       "phys-area-name": "Pisgah",
       "principal-cave-name": "B",
       "length": 166,
+      "vertical-extent": "~6",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=285"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=285",
+      "reference": "Harter (1972) Proc. 1st Int. Symp. Volcanospel."
     },
 
     {
@@ -8628,28 +10231,6 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "BB",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=286"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "BE",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=287"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Beaconlight Cave",
@@ -8774,17 +10355,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "BG",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=288"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Hawaii; North Hilo District",
       "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Big Black Cave",
@@ -8841,7 +10411,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Mauna Loa",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "Big Red Cave",
       "length": 3606,
       "vertical-extent": 232,
@@ -8978,7 +10548,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Black Pellet Cave",
       "length": 2378,
@@ -9426,18 +10996,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Breakin",
-      "other-cave-name": "BI",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=289"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
       "phys-area-name": "El Malpais; Bandera Flow",
@@ -9481,17 +11039,6 @@
       "length": 45,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=470"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "BT",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=290"
     },
 
     {
@@ -9551,6 +11098,7 @@
       "state-or-province": "Malheur County",
       "principal-cave-name": "Burns Cave",
       "length": 341,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1220"
     },
@@ -9570,7 +11118,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
+      "phys-area-name": "Pisgah; C Tube",
       "principal-cave-name": "C10",
       "length": [],
       "cave-type": "lava tunnel",
@@ -9584,31 +11132,9 @@
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
       "principal-cave-name": "C11",
-      "length": [],
+      "length": "~10",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=293"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "C12",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=294"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "C13North",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=295",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=293",
       "reference": "Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf"
     },
 
@@ -9616,11 +11142,26 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "C13W",
+      "phys-area-name": "Pisgah; C Tube",
+      "principal-cave-name": "C12",
+      "length": "~80",
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=294",
+      "reference": "Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "California",
+      "state-or-province": "San Bernardino",
+      "phys-area-name": "Pisgah; C Tube",
+      "principal-cave-name": "C13North",
+      "other-cave-name": "C13N",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=296"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=295",
+      "reference": "Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf",
+      "reference": "Harter (1972) Proc. 1st Int. Symp. Volcanospel."
     },
 
     {
@@ -9777,7 +11318,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Can Cave",
       "length": 216,
@@ -10154,39 +11695,6 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CC",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=308"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CD",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=309"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CE",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=310"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "principal-cave-name": "Cellar Cave",
       "length": 67,
@@ -10207,7 +11715,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Centashaft",
       "length": 173,
@@ -10243,39 +11751,6 @@
       "length": 500,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1192"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CF",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=311"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CG",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=312"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CH",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=313"
     },
 
     {
@@ -10492,34 +11967,13 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CJ",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=314"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CK",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=315"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Hualalai",
       "principal-cave-name": "Clague's Cave",
       "length": 1390,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=911"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=911",
+      "reference": "Kempe and Oberwinder (1997) Proc. 12th Int. Congr. Spel."
     },
 
     {
@@ -10588,39 +12042,6 @@
       "length": 15,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1600"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CLST",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=316"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CM",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=317"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CN",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=318"
     },
 
     {
@@ -10793,39 +12214,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CP",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=319"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CQ",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=320"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CR",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=321"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
       "phys-area-name": "Horse Lava Tube System",
@@ -10907,17 +12295,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CS",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=322"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Hawaii; Ka'u District",
       "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "CSH Site 17 Cave",
@@ -10935,17 +12312,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=838"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CT",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=323"
     },
 
     {
@@ -11784,7 +13150,7 @@
 
     {
       "country-name": "Ecuador",
-      "state-or-province": "Islas Galapagos",
+      "state-or-province": "Galapagos",
       "phys-area-name": "Santa Cruz Island",
       "principal-cave-name": "Cueva del Cascajo",
       "length": 3010,
@@ -12311,17 +13677,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "CW",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=324"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii (Big Island); Mauna Kea",
       "principal-cave-name": "Cyrtandra Makai Cave",
@@ -12758,6 +14113,7 @@
       "principal-cave-name": "Doc Bellou Cave",
       "length": [],
       "cave-type": "lava tunnel",
+      "cave-system": "Kazumura Cave",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=758",
       "reference": "Hoch and Howarth (1993) http://hdl.handle.net/10125/1860"
     },
@@ -12811,7 +14167,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Donkey Cave",
       "length": 150,
@@ -13069,17 +14425,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Entryway",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=325"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Epperson's Cave",
@@ -13282,6 +14627,8 @@
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
       "principal-cave-name": "Finis",
+      "other-cave-name": "F",
+      "other-cave-name": "Double Loop Cave #1",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=326",
@@ -13703,39 +15050,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "G Too",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=327"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "GA",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=328"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "GAH",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=329"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
       "phys-area-name": [],
       "principal-cave-name": "Gail Cave",
@@ -13801,28 +15115,6 @@
       "length": 594,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=739"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "GB",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=330"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "GC",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=331"
     },
 
     {
@@ -13919,10 +15211,13 @@
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah; Mojave Desert",
       "principal-cave-name": "Glove Cave",
+      "other-cave-name": "Pisgah Lava Tube #1",
       "length": 335,
+      "number-of-entrances": 3,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=332",
-      "reference": "Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf"
+      "reference": "Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf",
+      "reference": "Harter (1972) Proc. 1st Int. Symp. Volcanospel."
     },
 
     {
@@ -14102,7 +15397,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Goatskull Puka",
       "length": 787,
@@ -14678,17 +15973,6 @@
     },
 
     {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "GS",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=333"
-    },
-
-    {
       "country-name": "Indonesia",
       "state-or-province": "Java",
       "phys-area-name": "Java",
@@ -14814,17 +16098,6 @@
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1586",
       "reference": "ASF database"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "HA",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=334"
     },
 
     {
@@ -15070,28 +16343,18 @@
       "principal-cave-name": "Hawaiian Acres Cave #1",
       "length": [],
       "cave-type": "lava tunnel",
+      "cave-system": "Kazumura Cave",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=759"
     },
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; South Kona District",
+      "state-or-province": "Hawaii; South Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Hayes Tube Shelter",
       "length": 220,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=749"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "HB",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=335"
     },
 
     {
@@ -15234,18 +16497,6 @@
     },
 
     {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "High Calorie",
-      "other-cave-name": "HC",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=336"
-    },
-
-    {
       "country-name": "Japan",
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
@@ -15263,17 +16514,6 @@
       "length": 310,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=14"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "HL",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=337"
     },
 
     {
@@ -15419,17 +16659,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Horseshoe",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=338"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Butte County",
       "phys-area-name": "Craters of the Moon",
@@ -15489,7 +16718,8 @@
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii (Big Island); Hualalai",
       "principal-cave-name": "Hualalai Ranch Cave",
-      "length": 16093,
+      "length": 27400,
+      "vertical-extent": 452,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=934",
       "reference": "Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf"
@@ -15760,17 +16990,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=530"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Incinerator",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=339"
     },
 
     {
@@ -16121,39 +17340,6 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Jackrabbit 1",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=340"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Jackrabbit 2",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=341"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Jackrabbit 3",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=342"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "principal-cave-name": "James Brothers Cave",
       "length": 1230,
@@ -16266,6 +17452,7 @@
       "principal-cave-name": "John Martin Cave",
       "length": 4158,
       "cave-type": "lava tunnel",
+      "cave-system": "John Martin-Pukalani Cave System",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=784"
     },
 
@@ -16391,6 +17578,7 @@
       "state-or-province": "Siskiyou County",
       "principal-cave-name": "Juniper Pole Cave",
       "length": 151,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=599"
     },
@@ -16473,17 +17661,6 @@
       "length": 1481,
       "cave-type": "lava tunnel",
       "reference": "Pint (2009) http://vulcanospeleology.org/articles/jirsan.pdf"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Hualalai",
-      "principal-cave-name": "Kailua-Kona Airport Caves",
-      "length": "4000+",
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=920"
     },
 
     {
@@ -16855,14 +18032,25 @@
       "state-or-province": "Hawaii; Puna District",
       "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Kazumura Cave",
+      "altitude": "29-1128",
       "length": 65500,
       "vertical-extent": 1098,
+      "number-of-entrances": 101,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "flow occurred 350-500 BP",
+      "branch-name": "Lower Kazumura",
+      "branch-name": "Old Kazumura",
+      "branch-name": "Upper Kazumura",
+      "branch-name": "Paradise Park Cave",
+      "branch-name": "Doc Bellou Cave",
+      "branch-name": "Hawaiian Acres Cave #1",
+      "branch-name": "Sexton's Cave",
+      "branch-name": "Ola'a Cave",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=787",
       "reference": "Allred and Allred (1997) J. Cave Karst Stds. 59, 67-80",
-      "reference": "Allred (2019) doi:10.1016/B978-0-12-814124-3.00073-X"
+      "reference": "Allred (2019) doi:10.1016/B978-0-12-814124-3.00073-X",
+      "reference": "https://en.wikipedia.org/wiki/Kazumura_Cave"
     },
 
     {
@@ -17079,7 +18267,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
+      "phys-area-name": "Kauai; Koloa",
       "principal-cave-name": "Knudsen Cave #1",
       "length": 100,
       "cave-type": "lava tunnel",
@@ -17089,7 +18277,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Kauai",
+      "phys-area-name": "Kauai; Koloa",
       "principal-cave-name": "Knudsen Cave #2",
       "length": 50,
       "cave-type": "lava tunnel",
@@ -17319,7 +18507,8 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Mauna Loa; Kipuka Kanohina Cave Preserve",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Kipuka Kanohina Cave Preserve",
       "principal-cave-name": "Kipuka Kanohina",
       "length": " >32000",
       "vertical-extent": 208,
@@ -17405,17 +18594,6 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=180"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "LA",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=343"
     },
 
     {
@@ -17539,7 +18717,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Laniakea Cave",
       "length": 380,
@@ -17723,39 +18901,6 @@
       "length": 23,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1654"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "LB",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=344"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "LD",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=345"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "LE",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=346"
     },
 
     {
@@ -18150,18 +19295,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Low Calorie",
-      "other-cave-name": "LC",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=347"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "phys-area-name": "Mount St. Helens",
@@ -18218,7 +19351,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Lower Uilani Cave",
       "length": 2804,
       "cave-type": "lava tunnel",
@@ -18290,17 +19423,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "M Hole",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=348"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
       "principal-cave-name": "Mabbutt Cave",
@@ -18362,7 +19484,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Lama Lua Cave",
       "length": 5523,
@@ -18374,7 +19496,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Pueo Cave",
       "length": " >6500",
@@ -18751,33 +19873,11 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "MB",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=349"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "principal-cave-name": "McCloud Ice Caves",
       "length": 137,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=500"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "MD",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=580"
     },
 
     {
@@ -18879,17 +19979,6 @@
       "length": 442,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1658"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "MG",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=581"
     },
 
     {
@@ -19066,17 +20155,6 @@
       "length": 15,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1141"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "MM",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=582"
     },
 
     {
@@ -19317,17 +20395,6 @@
     },
 
     {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "MS",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=583"
-    },
-
-    {
       "country-name": "Australia",
       "state-or-province": "Victoria",
       "phys-area-name": "Western Volcanic Plains",
@@ -19485,28 +20552,6 @@
       "length": 118,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=91"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "N Hole",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=584"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "NA",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=350"
     },
 
     {
@@ -19744,17 +20789,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "NN",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=351"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
       "phys-area-name": "Horse Lava Tube System",
@@ -19776,17 +20810,6 @@
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1166",
       "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "No. 1",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=265"
     },
 
     {
@@ -19831,6 +20854,18 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=142"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "California",
+      "state-or-province": "San Bernardino",
+      "phys-area-name": "Pisgah",
+      "principal-cave-name": "N Hole",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=584",
+      "reference": "Harter (1972) Proc. 1st Int. Symp. Volcanospel."
     },
 
     {
@@ -19909,39 +20944,6 @@
     },
 
     {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Nothing Hole",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=352"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "NP",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=353"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "NS",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=354"
-    },
-
-    {
       "country-name": "Congo, Democratic Republic of the",
       "state-or-province": "Kivu",
       "phys-area-name": [],
@@ -20016,7 +21018,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Ohia Cave",
       "length": 3200,
@@ -20255,39 +21257,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Owl 1",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=355"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Owl 2",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=356"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Owl 3",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=357"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Owl Cave",
@@ -20346,10 +21315,12 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
       "phys-area-name": "Hawaii Island; Kilauea",
-      "principal-cave-name": "Pahoa Caves",
-      "length": " 16000+",
+      "principal-cave-name": "Pahoa Cave",
+      "other-cave-name": "Middle Tube System",
+      "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=747"
+      "comments": "major archaeology"
     },
 
     {
@@ -20414,16 +21385,6 @@
     },
 
     {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": [],
-      "principal-cave-name": "Paradise Park Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=993"
-    },
-
-    {
       "country-name": "Australia",
       "state-or-province": "Victoria",
       "phys-area-name": "Newer Volcanics",
@@ -20457,28 +21418,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1217"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "PB",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=358"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "PE",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=359"
     },
 
     {
@@ -20545,25 +21484,17 @@
     {
       "country-name": "Samoa",
       "state-or-province": [],
-      "phys-area-name": "Savaii Island",
-      "principal-cave-name": "Aopo Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "contents": "birds",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=170",
-      "reference": "Tarburton (2011) https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf"
-    },
-
-    {
-      "country-name": "Samoa",
-      "state-or-province": [],
       "phys-area-name": "Savaii Island; Aopo Conservation Area",
       "principal-cave-name": "La'auolola Cave",
       "other-cave-name": "Laauoleola Cave",
+      "other-cave-name": "Aopo Cave",
       "other-cave-name": "Aopo Lava Tube",
       "length": 5047,
       "vertical-extent": 170,
       "cave-type": "lava tunnel",
+      "contents": "birds",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=170",
+      "reference": "Tarburton (2011) https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf",
       "reference": "https://www.showcaves.com/english/other/caves/Laauolola.html",
       "cave-use": "self-guided tourist cave"
     },
@@ -20607,17 +21538,6 @@
       "contents": "lake(s)",
       "comments": "entrance is 100m diameter sinkhole",
       "reference": "Iliffe et al. (2000) https://oceancolor.gsfc.nasa.gov/staff/gene/IMAGES/iliffe.pdf"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Pear Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=360"
     },
 
     {
@@ -20962,12 +21882,13 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": [],
+      "state-or-province": "Hawaii; Maui County",
+      "phys-area-name": "Haleakala",
       "principal-cave-name": "Polipoli Cave",
       "length": 914,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=793"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=793",
+      "reference": "Sorenson et al. (1999) doi:10.1098/rspb.1999.0907"
     },
 
     {
@@ -21169,10 +22090,11 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Kilauea",
       "principal-cave-name": "Pukalani Cave",
       "length": 2048,
       "cave-type": "lava tunnel",
+      "cave-system": "John Martin-Pukalani Cave System",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=940"
     },
 
@@ -21257,8 +22179,8 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Hualalai",
-      "principal-cave-name": "Puu Waa waa Ranch Cave #1",
+      "phys-area-name": "Hawaii (Big Island); Hualalai; Henahena lava tubes",
+      "principal-cave-name": "Puu Waawaa Ranch Cave #1",
       "altitude": 1250,
       "length": 100,
       "cave-type": "lava tunnel",
@@ -21268,8 +22190,8 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Hualalai",
-      "principal-cave-name": "Puu Waa waa Ranch Cave #2",
+      "phys-area-name": "Hawaii (Big Island); Hualalai; Henahena lava tubes",
+      "principal-cave-name": "Puu Waawaa Ranch Cave #2",
       "altitude": 1250,
       "length": 30,
       "cave-type": "lava tunnel",
@@ -21288,17 +22210,6 @@
     },
 
     {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QA",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=579"
-    },
-
-    {
       "country-name": "Fiji",
       "state-or-province": "Northern",
       "phys-area-name": "Taveuni Island",
@@ -21306,116 +22217,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1215"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QB",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=361"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QC",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=362"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QD",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=363"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QE",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=364"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QF",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=365"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QG",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=366"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QH",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=367"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QJ",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=368"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QK",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=369"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QL",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=370"
     },
 
     {
@@ -21437,61 +22238,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1278"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QN",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=372"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QP",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=373"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QR",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=374"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QS",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=375"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "QT",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=376"
     },
 
     {
@@ -21756,11 +22502,12 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
+      "phys-area-name": "Pisgah; C Tube",
       "principal-cave-name": "RC1",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=380"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=380",
+      "reference": "Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf"
     },
 
     {
@@ -21778,11 +22525,14 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
+      "phys-area-name": "Pisgah; C Tube",
       "principal-cave-name": "RC3",
       "length": [],
+      "number-of-entrances": 2,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=383"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=383",
+      "reference": "Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf",
+      "reference": "Harter (1972) Proc. 1st Int. Symp. Volcanospel."
     },
 
     {
@@ -21891,7 +22641,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Refuge Cave Feature 2077",
       "length": 10,
@@ -21901,7 +22651,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Refuge Cave Site 262",
       "length": 125,
@@ -21911,7 +22661,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; South Kona District",
+      "state-or-province": "Hawaii; South Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Refuge Cave Site 3707",
       "length": [],
@@ -21921,7 +22671,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Refuge Cave Site 900",
       "length": [],
@@ -21941,7 +22691,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; South Kona District",
+      "state-or-province": "Hawaii; South Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Refuge Cave Site C14-1",
       "length": [],
@@ -21951,7 +22701,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Refuge Cave Site D7-27",
       "length": [],
@@ -21961,7 +22711,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Refuge Cave Site D8-2",
       "length": [],
@@ -21971,7 +22721,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Refuge Cave Site D8-33",
       "length": 330,
@@ -22094,7 +22844,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona District",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Roadcut Caves",
       "length": 234,
@@ -22286,11 +23036,13 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
+      "phys-area-name": "Pisgah; C Tube",
       "principal-cave-name": "Russell Stewart",
+      "other-cave-name": "RS",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=387"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=387",
+      "reference": "Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf"
     },
 
     {
@@ -22515,18 +23267,6 @@
       "length": 920,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1211"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Salt Cave",
-      "other-cave-name": "S",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=388"
     },
 
     {
@@ -23008,17 +23748,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "SI",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=389"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "New Mexico; Union County",
       "phys-area-name": [],
       "principal-cave-name": "Sierra Negras Ice Caves",
@@ -23440,11 +24169,14 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
+      "phys-area-name": "Pisgah; C Tube",
       "principal-cave-name": "SPJ",
+      "other-cave-name": "C13W",
       "length": 396,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=390"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=390",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=296",
+      "reference": "Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf"
     },
 
     {
@@ -23475,18 +24207,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=672"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "SSSTSS",
-      "other-cave-name": "SS",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=391"
     },
 
     {
@@ -23539,77 +24259,35 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Station 10 Cave",
+      "phys-area-name": "Pisgah; C Tube",
+      "principal-cave-name": "Station 7C Cave",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=392"
+      "reference": "Harter (1972) Proc. 1st Int. Symp. Volcanospel."
     },
 
     {
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Station 11 Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=393"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Station 4 Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=394"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Station 6 Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=395"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Station 7 Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=396"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
+      "phys-area-name": "Pisgah; C Tube",
       "principal-cave-name": "Station 7A",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=397"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=397",
+      "reference": "Harter (1972) Proc. 1st Int. Symp. Volcanospel."
     },
 
     {
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
+      "phys-area-name": "Pisgah; C Tube",
       "principal-cave-name": "Station 7B",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=398"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=398",
+      "reference": "Harter (1972) Proc. 1st Int. Symp. Volcanospel."
     },
 
     {
@@ -24023,17 +24701,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TA",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=400"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "phys-area-name": "Mount St. Helens",
@@ -24095,68 +24762,13 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
-      "principal-cave-name": "TB",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=401"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TC",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=402"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TD",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=403"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TE",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=404"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
       "principal-cave-name": "Tea Cave",
       "other-cave-name": "T",
       "length": 79,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=405",
-      "reference": "Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Tea Too",
-      "other-cave-name": "TT",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=406"
+      "reference": "Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf",
+      "reference": "Harter (1972) Proc. 1st Int. Symp. Volcanospel."
     },
 
     {
@@ -24254,39 +24866,6 @@
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1406",
       "reference": "Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TF",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=407"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TG",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=408"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TH",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=409"
     },
 
     {
@@ -24515,17 +25094,6 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TI",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=410"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "principal-cave-name": "Tick City Cave",
       "length": [],
@@ -24597,50 +25165,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1271"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TJ",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=411"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TK",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=412"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TL",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=413"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TM",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=414"
     },
 
     {
@@ -24882,57 +25406,12 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Oregon",
-      "state-or-province": "Malheur County",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Tooth Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1218"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Tooth Cave",
       "length": 335,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1685"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Toothsome",
-      "other-cave-name": "TS",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=415"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TP",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=416"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "TQ",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=417"
     },
 
     {
@@ -24956,17 +25435,6 @@
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=864",
       "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Trapezoidal",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=418"
     },
 
     {
@@ -25072,7 +25540,7 @@
     {
       "country-name": "Chile",
       "state-or-province": "Aconcagua",
-      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui)",
+      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow",
       "principal-cave-name": "Tunnel No. 2",
       "altitude": 118,
       "length": [],
@@ -25085,7 +25553,7 @@
     {
       "country-name": "Chile",
       "state-or-province": "Aconcagua",
-      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui)",
+      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow",
       "principal-cave-name": "Tunnel No. 3",
       "altitude": 108,
       "length": [],
@@ -25098,7 +25566,7 @@
     {
       "country-name": "Chile",
       "state-or-province": "Aconcagua",
-      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui)",
+      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow",
       "principal-cave-name": "Tunnel No. 4",
       "altitude": 100,
       "length": [],
@@ -25187,17 +25655,6 @@
     },
 
     {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "U",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=419"
-    },
-
-    {
       "country-name": "Japan",
       "state-or-province": [],
       "phys-area-name": "Mt. Fuji",
@@ -25237,15 +25694,76 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": [],
-      "principal-cave-name": "Umi'i Manu System",
+      "phys-area-name": "Hualalai; Pu'u Wa'awa'a",
+      "principal-cave-name": "Umi'i Manu (Bird Trap)",
       "length": 3887,
       "vertical-extent": 570,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=936",
       "reference": "Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf",
-      "reference": "Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf"
+      "reference": "Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf",
+      "reference": "https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Hualalai; Pu'u Wa'awa'a",
+      "principal-cave-name": "Shangri-la Cave System",
+      "length": [],
+      "vertical-extent": [],
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Hualalai; Pu'u Wa'awa'a",
+      "principal-cave-name": "Petrel Cave",
+      "length": [],
+      "vertical-extent": [],
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Hualalai; Pu'u Wa'awa'a",
+      "principal-cave-name": "Yellowjacket Cave",
+      "length": [],
+      "vertical-extent": [],
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Hualalai; Pu'u Wa'awa'a",
+      "principal-cave-name": "Hapuu Cave System",
+      "length": [],
+      "vertical-extent": [],
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Hualalai; Pu'u Wa'awa'a",
+      "principal-cave-name": "Olapa cave system",
+      "length": [],
+      "vertical-extent": [],
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf"
     },
 
     {
@@ -25418,7 +25936,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Upper Uilani Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -25509,9 +26027,11 @@
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
       "principal-cave-name": "(Vent)",
+      "other-cave-name": "V",
       "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=420"
+      "cave-type": "lava vent",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=420",
+      "reference": "Harter (1972) Proc. 1st Int. Symp. Volcanospel."
     },
 
     {
@@ -25568,17 +26088,6 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1328"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "W",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=421"
     },
 
     {
@@ -25853,7 +26362,7 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Kauai",
-      "principal-cave-name": "Shelter Cave (Kukui-Îula 57)",
+      "principal-cave-name": "Shelter Cave (Kukui'ula 57)",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=951"
@@ -26179,17 +26688,6 @@
       "state-or-province": "California",
       "state-or-province": "San Bernardino",
       "phys-area-name": "Pisgah",
-      "principal-cave-name": "WOE",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=422"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
       "principal-cave-name": "Woodsy Owl",
       "length": 137,
       "cave-type": "lava tunnel",
@@ -26228,17 +26726,6 @@
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1209",
       "cave-use": "self-guided tourist cave"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Y",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=424"
     },
 
     {
@@ -26330,18 +26817,6 @@
       "length": 41,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1172"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "San Bernardino",
-      "phys-area-name": "Pisgah",
-      "principal-cave-name": "Ze Hole",
-      "other-cave-name": "Z",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=425"
     },
 
     {
@@ -26647,13 +27122,14 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Pu'u Wa'awa'a; Henahena lava tubes",
       "principal-cave-name": "Delissea Cave System",
       "length": " >64700",
       "vertical-extent": " >1500",
       "cave-type": "lava tunnel",
       "reference": "http://www.vulcanospeleology.org/newsletters/Vulcano76%20July%202020%20Hi%20ResV2.pdf",
-      "reference": "Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf"
+      "reference": "Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf",
+      "reference": "https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf"
     },
 
     {
@@ -26671,6 +27147,7 @@
       "reference": "Burney et al. (2001) doi:10.1890/0012-9615(2001)071[0615:FEFADB]2.0.CO;2",
       "reference": "Burney et al. (2006) doi:10.1007/s10745-006-9015-3",
       "reference": "David Burney (2011) \"Back to the Future in the Caves of Kaua'i\", Yale University Press, 216 pages",
+      "reference": "Porch (2020) doi:10.11646/zootaxa.4868.1.8",
       "cave-use": "guided tourist cave"
     },
 
@@ -26694,7 +27171,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Mauna Loa",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "Keokeo Cave System",
       "length": " ~40600",
       "vertical-extent": " ~2200",
@@ -26768,12 +27245,26 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii (Big Island); Kilauea",
-      "principal-cave-name": "Olaa Cave",
-      "length": 6070,
-      "vertical-extent": 221,
+      "principal-cave-name": "Ola'a Cave",
+      "length": 11751,
+      "vertical-extent": [],
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "Bunnell and Liebman (1992) http://www.vulcanospeleology.org/sym06/ISV6x06.pdf"
+      "cave-system": "Kazumura Cave",
+      "reference": "Bunnell and Liebman (1992) http://www.vulcanospeleology.org/sym06/ISV6x06.pdf",
+      "reference": "Allred and Allred (1997) J. Cave Karst Stds. 59, 67-80"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii; Maui County",
+      "phys-area-name": "Molokai",
+      "principal-cave-name": "Ananaluawahine Cave",
+      "cave-id": "60-03-290",
+      "length": [],
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=828",
+      "reference": "McCoy (2008) doi:10.2984/1534-6188(2008)62[21:HLHIHP]2.0.CO;2"
     },
 
     {
@@ -26827,22 +27318,6 @@
       "state-or-province": "Hawaii",
       "state-or-province": "Maui County",
       "phys-area-name": "Molokai",
-      "principal-cave-name": "Kaupikiawa Cave System",
-      "other-cave-name": [],
-      "length": [],
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "contents": [],
-      "reference": "Coombs et al. (1990) http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1990LPSC...20..195C",
-      "reference": "Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32",
-      "curation": "this might just be a group of caves rather than connected caves"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "state-or-province": "Maui County",
-      "phys-area-name": "Molokai",
       "principal-cave-name": "Old Ladies' Cave",
       "other-cave-name": "Old Lady Cave",
       "altitude": 15,
@@ -26857,18 +27332,22 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "state-or-province": "Maui County; Kalaupapa Natl. Hist. Park",
+      "state-or-province": "Maui County",
       "phys-area-name": "Molokai; Kaupikiawa Cave Sytem",
-      "principal-cave-name": "Fisherman's Shack Cave #1",
-      "other-cave-name": "Kaupikiawa Cave",
+      "phys-area-name": "Kalaupapa Natl. Hist. Park",
+      "principal-cave-name": "Kaupikiawa Cave",
+      "other-cave-name": "Fisherman's Shack Cave #1",
       "other-cave-name": "Cave #312",
+      "cave-id": "60-03-312",
       "length": [],
       "rock-type": [],
       "cave-type": "lava tunnel",
       "contents": [],
       "reference": "Howarth et al. (2020) http://hbs.bishopmuseum.org/pubs-online/pdf/op129p37-54.pdf",
       "reference": "Hoch and Howarth (1999) doi:10.1111/j.1096-3642.1999.tb01381.x",
-      "reference": "Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32"
+      "reference": "Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32",
+      "reference": "McCoy (2005) http://hdl.handle.net/10125/2931",
+      "reference": "McCoy (2008) doi:10.2984/1534-6188(2008)62[21:HLHIHP]2.0.CO;2"
     },
 
     {

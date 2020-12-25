@@ -588,7 +588,7 @@ Greenland - northeastern Greenland
 *Coordinates:* [+80.41238, -21.6819](https://maps.google.com/?ll=+80.41238,-21.6819) *altitude:* 825  
 *Length:* 87m   
 *Contents:* permanent ice  
-*Comments:* impressive hoar frost; large hoar frost crystals  
+*Comments:* impressive hoar frost; large hoar frost crystals; 30cm across  
 Moseley et al. (2020) Cave and Karst Sci. 47, 74-87  
 Barton et al. (2020) Cave and Karst Sci. 47, 93-99  
 
@@ -600,6 +600,16 @@ Greenland - northeastern Greenland
 *Length:* 103m   
 *Contents:* permanent ice  
 *Comments:* impressive hoar frost, ice stalagmites  
+Moseley et al. (2020) Cave and Karst Sci. 47, 74-87  
+Barton et al. (2020) Cave and Karst Sci. 47, 93-99  
+
+---  
+<a name="GL-1206312da12984805334f9c8a3de08b7"></a>
+Greenland - northeastern Greenland  
+*Cave Name(s):* **Swirly Cave** Sangujoraartoq Qaarusussuaq  
+*Coordinates:* [+80.38846, -21.78788](https://maps.google.com/?ll=+80.38846,-21.78788) *altitude:* 554  
+*Length:* 96m   
+*Contents:* permanent ice  
 Moseley et al. (2020) Cave and Karst Sci. 47, 74-87  
 Barton et al. (2020) Cave and Karst Sci. 47, 93-99  
 
@@ -1785,11 +1795,13 @@ Serbia - Kamena Gora village
 ---  
 <a name="ES-d89cacafdd7645ce69e3c7c01abcf6a0"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide  
-*Cave Name(s):* **Cueva de Hielo del Teide**  
+*Cave Name(s):* **Cueva de Hielo del Teide** Cueva del Hielo; Teide Ice Cave; Altavista Ice Cave; Cueva de Salitre  
 *altitude:* 3400  
+*Length:* 50m *Vertical extent:* 14m   
 *Cave type:* lava tunnel  
-*Contents:* permanent ice  
+*Contents:* periodic ice  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+[Rosales (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-f030f5ce3db1f97639ca7b7904c4c8cc"></a>
@@ -1806,9 +1818,9 @@ Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
 
 ---  
-<a name="ES-870c99b8511e02a314ad5bce3a930fbe"></a>
+<a name="ES-adeea1d09424bfa224fa7c7c704d6658"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide  
-*Cave Name(s):* **Sima de Hielo Montaña**  
+*Cave Name(s):* **Sima de Hielo Montaña Rajada**  
 *Contents:* permanent ice  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
 
@@ -1822,12 +1834,12 @@ Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide
 ---  
 <a name="ES-6d7c3e74ee48380c871cde7d8c573843"></a>
 Spain - Aragon - Pyrenees; Monte Perdido-Marboré  
-*Cave Name(s):* **Casteret**  
+*Cave Name(s):* **Casteret** Gruta Helada de Casteret  
 *Coordinates:* [42.68514, -0.032455](https://maps.google.com/?ll=42.68514,-0.032455) *altitude:* 2640  
-*Vertical extent:* 80m   
+*Length:* ~500m *Vertical extent:* 80m *Number of entrances:* 3  
 *Rock type:* limestone   
 *Contents:* permanent ice  
-*Comments:* ponded  
+*Comments:* Cretaceous; large frozen lake (Gran Sala) 2,000m^2  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
 [https://en.wikipedia.org/wiki/Grotto_of_Casteret](https://en.wikipedia.org/wiki/Grotto_of_Casteret)   
 
@@ -2083,13 +2095,15 @@ Spain - Pyrenees
 
 ---  
 <a name="ES-A294"></a>
-Spain - Pyrenees; Cotiella  
-*Cave Name(s):* **A294** *Id:* A294  
-*altitude:* 2238  
+Spain - Huesca province - Pyrenees; Cotiella  
+*Cave Name(s):*  *Id:* A294  
+*Coordinates:* [42.5, +0.3](https://maps.google.com/?ll=42.5,0.3) *altitude:* 2238  
+*Vertical extent:* ~40m *Number of entrances:* 2  
+*Rock type:* limestone   
 *Contents:* permanent ice  
-*Comments:* ice volume of 250 m^3, mainly composed of firn ice  
-[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+*Comments:* ice volume of 250 m^3, mainly composed of firn ice, some congelation ice and seasonal ice stalagmites  
 [Belmonte et al. (2014) DOI:10.4461/GFDQ.2014.37.12](https://doi.org/10.4461/GFDQ.2014.37.12)   
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
 
 ---  
 <a name="ES-A69"></a>
@@ -2136,6 +2150,1161 @@ Spain - Pyrenees
 Spain - Pyrenees  
 *Cave Name(s):* **Helada Brecha Brujas**  
 *altitude:* 2700  
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-a50c09c21f95bb98e1779f6d1af8fb30"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Vega Huerta   
+*Cave Name(s):* **Llastral B3**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-527dfe8021355a604303213f44b434d3"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Vega Huerta   
+*Cave Name(s):* **Alfa 31**  
+*altitude:* 2000  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-169baec182bea2314a80978f2642e094"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Vega Huerta   
+*Cave Name(s):* **Alfa 68**  
+*altitude:* 2000  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-df7e3d9cb7b21a1878c883e2ed86978d"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Vega Huerta   
+*Cave Name(s):* **K-9010**  
+*altitude:* 1945  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-03077e3d8b8eb243673720574e819521"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Vega Huerta   
+*Cave Name(s):* **I32**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-612aea6395010799578220e1223cfc26"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Vega Huerta   
+*Cave Name(s):* **K6**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-d30bbe0a9a89ac4204b13665bfc68981"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Vega Huerta   
+*Cave Name(s):* **I8 Vega Huerta**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-af671b7d75dfcc3e0bb64395bf028f3b"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **A26**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-f7edeead0ee808017c9d05d29543cd67"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **E9**  
+*altitude:* 2000  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-88f1dfacbf240aff137853cb0ba421df"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **E18**  
+*altitude:* 1962  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-410a8c3e8727751e7e7c7fe5a63021a4"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **F7H**  
+*altitude:* 1940  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-926516987038d751296cf11e166bd441"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **F38**  
+*altitude:* 1950  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-8a7bf233a24ff4f7f4a3c8755a4f36c0"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **F45**  
+*altitude:* 1990  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-eae0ee0318fc61357e02febf86c81fd8"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **5/4**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-4d1703700d886a7e5b26be0d05d16b84"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **La Jayada**  
+*altitude:* 1750  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-ea75d62963388e76b44b0c252322fa14"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **7/9**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-8d4e2990681d9281984c4b8507b60f16"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **5/9**  
+*altitude:* 1870  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-b07dc7fde64a86f20d6cf55eb2031f80"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **C13**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-1f758699d2f72308c57f85d12da5247e"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **D2**  
+*altitude:* 1778  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-f41f8911c1b38feb2101497948a8be21"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **Jorcada**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-b97b7e3308cae72050fd668d6bd41d14"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **13/9**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-67a28e075a12bc83d4793744d9decd45"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **G3**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-a8461c4cd8dc1db8cc72b0d086922871"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **A1 Juriazu**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-d5c742cb5ca52b3f5634e8b46755ef2a"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **E20 La Jayada**  
+*altitude:* 1979  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-46aaf30443306a12435d756f9cc70589"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **Asopladeru P36**  
+*altitude:* 1369  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-178425c9c48c15e36b9ae301a89adc75"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **Pozu la Nieve**  
+*altitude:* 1311  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-b1b3b9dc4cfd0006f5bc96bed99dd45c"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **F5**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-f02b766c5488cf5158cf3009ae727098"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **F57 C. del Arco**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-cc102489541545ee9ac23feb6b98e588"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **F60**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-907f440a4469c43e43bc1cc8500df5a4"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **F80**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-16866274375c31b39fc03a069a703650"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **F90**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-f7edeead0ee808017c9d05d29543cd67"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **E9**  
+*altitude:* 2000  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-0b407c37c21c1e82b7e41effa7fc1403"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **E20**  
+*altitude:* 1979  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-7c0565bcd6e38dafceaf5d2b73d7f4a4"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **E25**  
+*altitude:* 1980  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-1173b3956fad87b4508c0a1d146f8e55"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **E26**  
+*altitude:* 1980  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-5aaa3db46bb2054be403707f09c90528"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **F6 Paso Doble**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-47bc754a68da8e3e9bc6f0b8af51e3c0"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **F2 Las Perdices**  
+*altitude:* 1866  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-8c39fc5c27861cdc6e5048f38c8aeaaa"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
+*Cave Name(s):* **F20 L'Redondo**  
+*altitude:* 1937  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-cc0d4921a7abe819c5a43a048bb90fdd"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **Torca 54**  
+*altitude:* 1580  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-ad6cb6986aa1cc80355e08be4bbc4428"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **Verónica**  
+*altitude:* 2230  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-6b1cfaf61c4944c9ec6fa4be39ff6377"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **Altaiz**  
+*altitude:* 2190  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-29254f3e8a6e55eb31b873277074f841"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **HS4**  
+*altitude:* 2350  
+*Vertical extent:* 260m   
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-25d4bc4d3c5b199ec9b914951f91cb9d"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **Castil**  
+*altitude:* 2095  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-b959dfd59fb164e67fc288461a807295"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **ES9**  
+*altitude:* 2055  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-1210a81f6df00fb385bd4c2bdc82ca46"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **Tiro Llago**  
+*altitude:* 2300  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-df4064e179dd66b0607e8fe8e97a749b"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **Abisu l'Xelu**  
+*altitude:* 1819  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-90968794dc2fa77f7c82b3a80125b799"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **P9**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-0e238a04d9c27be58bfb5e6402a70ad4"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **H5**  
+*altitude:* 2321  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-ba3c5969a3da994703b965feaf2253d8"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **ES22**  
+*altitude:* 2087  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-3254c7222b2e39bab9d5e3b9580fa98d"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **ES20**  
+*altitude:* 2047  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-38886803767399451ff389cab3f16850"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **ES21**  
+*altitude:* 2045  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-1e138fa94fc7586a1d4821099fddeaa9"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **P1**  
+*altitude:* 1955  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-e243ebb7afeca29ee7d2ba76a482a6b9"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **N43**  
+*altitude:* 2143  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-dada6f35d83f02d4e2b5b55482bb712d"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **N3**  
+*altitude:* 2040  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-940b36d919d258d97f934ca065cbf22c"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **CV13**  
+*altitude:* 2352  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-d56b701c03a884c76dd08aec1cf821aa"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **CV22**  
+*altitude:* 2352  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-a92ff744a79e1106bf0093c40574f9c8"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **CV5**  
+*altitude:* 2384  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-58ab0e86989714f5a15de13c3fbdfcd8"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **M5**  
+*altitude:* 2310  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-94a88e2940cf9751bcff3e998d65c849"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **Torca Daniel**  
+*altitude:* 1440  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-db1236d14b8ec8433bfb9f4c3bcf4f23"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **T14**  
+*altitude:* 2345  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-fc028d2d4101e65b8ba95502bbfbca61"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **HR10**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-a43676a0e519b394cd4fcb52d5a78644"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **V6**  
+*altitude:* 2211  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-38c70a939143630c686b5ea8e28409df"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **T1**  
+*altitude:* 2420  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-58fdf476b31951ed95947d94f8cf40be"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **V40**  
+*altitude:* 2278  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-e4f5d8d89736a57ab8a9a607322a8f61"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **P5**  
+*altitude:* 2025  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-e29ab37c1201ee15009003f3e33c9768"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **CV11**  
+*altitude:* 2365  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-bd394a0333808fd4da50a8a75cd33d32"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **HR7**  
+*altitude:* 2354  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-2737f284c539cdc4bcd69e39e59096b6"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **ES01**  
+*altitude:* 2032  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-5a8fca27f5567db11d290928af3bc143"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **HS13**  
+*altitude:* 2291  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-7dd2e5520c04831c93d1c9fbb5faa4de"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **N24**  
+*altitude:* 2063  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-3762944768a2e0715cbcb1b5d8b52fe4"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **V35**  
+*altitude:* 2270  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-3190168f2b3ef79043ce6b6c06969277"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **P20**  
+*altitude:* 1981  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-96d0e7f18c35ae62b4e84556d407aac6"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **CV27**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-b97aa1a4001c204c070bbd8c90826857"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **N12A**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-04dc3dce044ada5a42743b9a6f5f81c4"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **V4**  
+*altitude:* 2140  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-837bbed899259d51d4a3fceac97e4f4c"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **V15**  
+*altitude:* 2329  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-5f9cd3b0fd216ceb44f37c140c962fac"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **JO17**  
+*altitude:* 2226  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-b254f3fb3d75ad00685627708899036a"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **N12**  
+*altitude:* 2088  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-de00b86f6e337134579a7df930238fde"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **PV2**  
+*altitude:* 2313  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-2f2d95f0bfba93ce93b910fcf7e7d887"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **P30**  
+*altitude:* 2081  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-2f47f9d1c4fc4900e2aeb9ace8aa5333"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **TA22**  
+*altitude:* 2058  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-68157a7bd03dc737b295f434372f01ef"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **N19**  
+*altitude:* 2092  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-38886803767399451ff389cab3f16850"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **ES21**  
+*altitude:* 2045  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-dae22f84c9bf1a4cd09681c6967017fe"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **TA20**  
+*altitude:* 2051  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-4b250dc33adb81e1b6460512b4896067"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **HR4**  
+*altitude:* 2313  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-2ddfc5025f16ef748b2746cf28113ae7"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **TA5**  
+*altitude:* 2094  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-1b4b07b2eb460688818ff34be112356a"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **JO38**  
+*altitude:* 2169  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-cbf1937753fb8e2115b4ffa6c771e167"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **P13**  
+*altitude:* 1955  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-8f6747e9fbddcfd9690f40f5859f7fb2"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **JO26**  
+*altitude:* 2168  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-0e0de4881b8deba388b98c3886312dd7"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **T12**  
+*altitude:* 2338  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-7a5f58d263cf3a4784f0da99496ff471"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **JO37**  
+*altitude:* 2178  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-889533fba623e7051fffdf3a4116e4c4"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **T13**  
+*altitude:* 2338  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-710a508338ff564e11cb1f119aa4c710"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **V36**  
+*altitude:* 2288  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-af6064a8dd702eeb9dfc060cce6ff48a"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **PV4**  
+*altitude:* 2241  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-a980c3d952fb2cbeec5656a90892d6db"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **TA9**  
+*altitude:* 1989  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-c974e4610c0e4abbd4147e2b70c26cfe"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **ES13**  
+*altitude:* 2003  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-10f09cc87ac653fb6c985df0f17c5452"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **ES38**  
+*altitude:* 2041  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-b606fc28f250bc3401ead9677ef7ebbe"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **JO28**  
+*altitude:* 2175  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-9b09274e79df292c0df651827208d3f0"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **PV3**  
+*altitude:* 2318  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-df41ab6cf7338b2a842a88d3e5448ef8"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **Tiro llagu**  
+*altitude:* 2300  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-5dde7a7d91749d8f8b0f4c160f2f14de"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **V1**  
+*altitude:* 2290  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-bced7faeb128d66941bfcf84ace7baa2"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **ES17**  
+*altitude:* 2027  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-c39fd4ec682ae9f621a1e22c49dcadad"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **N26**  
+*altitude:* 2044  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-3ee04b8e011441b670dba4ed82cfc2f4"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **ST01**  
+*altitude:* 2192  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-5a024b8680b90beda66ba6d95cef51be"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **TA19**  
+*altitude:* 2080  
+*Vertical extent:* 110m   
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-aa887b1e84122d97b0f0f329e463e415"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **2N**  
+*altitude:* 2042  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-b0139e631b7efe6c5d2a05ea51391e40"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **JO58**  
+*altitude:* 2209  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-2bf02e3a5fd87c62cca9a4d45d480358"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **N8**  
+*altitude:* 2068  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-fb1ea2ef5b31aa970d9d434c08963144"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **TA51**  
+*altitude:* 2109  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-948b62296dea4059a456ff786ed4ee05"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **TA53**  
+*altitude:* 2092  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-8eb6bba41ce4a127a8e9a215bc052950"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **V17**  
+*altitude:* 2242  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-8954e9dfbf05a14a5fa55f79ae178158"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **V22**  
+*altitude:* 2225  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-e58820b64a24e4099b7aa51a1b281c9f"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **N11**  
+*altitude:* 2031  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-1c0f1655f1ed191b726146d5778e7565"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **P16**  
+*altitude:* 2058  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-432dc2faad056eb03784ae1e3c712d2a"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **T11**  
+*altitude:* 2341  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-c70a6807f6e6896f64f9207309d1a206"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **CV23**  
+*altitude:* 2050  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-a1624e20a5fc59e0875997ebd5c7b48d"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **JO39**  
+*altitude:* 2171  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-c67bcd25a421635190c330775d02c4c4"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **TA13**  
+*altitude:* 2032  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-c2c2de641fbd4a16f37e62904d45c592"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **N5**  
+*altitude:* 2091  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-dd2157b2a3221a545de7a3c3d989d645"></a>
+Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
+*Cave Name(s):* **TA16**  
+*altitude:* 2051  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-80acdb7ac6521d69006ea8686d8f965e"></a>
+Spain - Cantabrian Mountains; Montañas de Burgos; Castro Valnera   
+*Cave Name(s):* **Torca de La Grajera**  
+*altitude:* 1490  
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-2c3c60ea913189316b5b210c3cf6c3e4"></a>
+Spain - Cantabrian Mountains; Montaña Palentina; Espigüete   
+*Cave Name(s):* **Las Chovas**  
+*altitude:* 1910  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-ad75fe7ca3b27aa2aac0556c23156e07"></a>
+Spain - Cantabrian Mountains; Montaña Palentina; Espigüete   
+*Cave Name(s):* **Ves CV-1**  
+*altitude:* 2045  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-9ac479b6cee0e5306ffbef617bdbbf9a"></a>
+Spain - Cantabrian Mountains; Montaña Palentina; Espigüete   
+*Cave Name(s):* **S2**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-c5b0eaa48df5cd33c35a26f78794be0e"></a>
+Spain - Cantabrian Mountains; Montaña Palentina; Espigüete   
+*Cave Name(s):* **ENO-86**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-baa2eb5fd3edc3b4012ecf5f94e9e2af"></a>
+Spain - Cantabrian Mountains; Montaña Palentina; Espigüete   
+*Cave Name(s):* **ENO13**  
+*altitude:* 2000  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-d8819aeb8a25314dd62803df3f83eb40"></a>
+Spain - Cantabrian Mountains; Montaña Palentina; Espigüete   
+*Cave Name(s):* **ENO-101**  
+*altitude:* 2140  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-d03789f0142af884db51292fc705e759"></a>
+Spain - Cantabrian Mountains; Montaña Palentina; Espigüete   
+*Cave Name(s):* **ENO-30**  
+*altitude:* 2000  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-54d99a3673bb378331e035377efd762b"></a>
+Spain - Cantabrian Mountains; Montaña Palentina; Espigüete   
+*Cave Name(s):* **S6**  
+*altitude:* 2000  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-da88252f5ffecd3249e1b6ab16e45809"></a>
+Spain - Cantabrian Mountains; Montaña Palentina; Espigüete   
+*Cave Name(s):* **ENO-107**  
+*altitude:* 2140  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-f49f7b6557deacdb72eb55776f016155"></a>
+Spain - Cantabrian Mountains; Basque Mountains; Aitzgorri   
+*Cave Name(s):* **Aitzgaizto 12**  
+*altitude:* 1280  
 *Contents:* permanent ice  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
 
@@ -2580,38 +3749,81 @@ Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya
 *Rock type:* limestone   
 *Contents:* permanent ice  
 [Lauritzen (2006) doi:10.5038/1827-806X.35.1.5](https://doi.org/10.5038/1827-806X.35.1.5)   
+[Lauritzen (2011) doi:10.5038/1827-806X.35.1.5](https://doi.org/10.5038/1827-806X.35.1.5)   
 
 ---  
-<a name="SJ-bc85caf438657d68a79169dc0ebf84fa"></a>
+<a name="SJ-09ae54ea30c213bdcb8f81d7e90f7239"></a>
 Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya  
-*Cave Name(s):* **Portalgrotta** G5  
+*Cave Name(s):* **G5 Portalgrotta**  
 *altitude:* 72  
 *Length:* 39m *Vertical extent:* 2m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* ground ice and hoarfrost  
 [Lauritzen (2006) doi:10.5038/1827-806X.35.1.5](https://doi.org/10.5038/1827-806X.35.1.5)   
+[Lauritzen (2011) doi:10.5038/1827-806X.35.1.5](https://doi.org/10.5038/1827-806X.35.1.5)   
 
 ---  
-<a name="SJ-fb7e929effca511d53b65a5f4e14bd17"></a>
+<a name="SJ-bc85caf438657d68a79169dc0ebf84fa"></a>
 Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya  
-*Cave Name(s):* **Fissurgrotta** G17  
+*Cave Name(s):* **Portalgrotta** G15 Rundsvagrotte 1  
+*altitude:* 72  
+*Length:* 3m *Vertical extent:* 1m   
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Lauritzen (2011) doi:10.5038/1827-806X.35.1.5](https://doi.org/10.5038/1827-806X.35.1.5)   
+
+---  
+<a name="SJ-1f478f382894ad84e3bc4728ed4def80"></a>
+Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya  
+*Cave Name(s):* **G17 Fissurgrotta**  
 *altitude:* 60  
 *Length:* 9m *Vertical extent:* 1m   
 *Rock type:* limestone   
 *Comments:* ends in hoarfrost and frozen sediment fill  
 [Lauritzen (2006) doi:10.5038/1827-806X.35.1.5](https://doi.org/10.5038/1827-806X.35.1.5)   
+[Lauritzen (2011) doi:10.5038/1827-806X.35.1.5](https://doi.org/10.5038/1827-806X.35.1.5)   
 
 ---  
-<a name="SJ-47b971e458efba53628f463f6ae06ffb"></a>
+<a name="SJ-e0aee00e9c972030129f943ffcea52d7"></a>
 Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya  
-*Cave Name(s):* **Takrørgrotta** G22  
+*Cave Name(s):* **G21 Sørvåggrotta**  
+*altitude:* 77  
+*Length:* 40m *Vertical extent:* 15m   
+*Rock type:* limestone   
+[Lauritzen (2011) doi:10.5038/1827-806X.35.1.5](https://doi.org/10.5038/1827-806X.35.1.5)   
+
+---  
+<a name="SJ-51fec55c5b30f22d6194c043f5de71fd"></a>
+Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya  
+*Cave Name(s):* **G22 Takrørgrotta**  
 *altitude:* 226  
 *Length:* 18m *Vertical extent:* 4m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* hoarfrosted scallops; ice, snow, and hoarfrost  
 [Lauritzen (2006) doi:10.5038/1827-806X.35.1.5](https://doi.org/10.5038/1827-806X.35.1.5)   
+[Lauritzen (2011) doi:10.5038/1827-806X.35.1.5](https://doi.org/10.5038/1827-806X.35.1.5)   
+
+---  
+<a name="SJ-68184bf408eba36144d47d044b21f9a5"></a>
+Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya  
+*Cave Name(s):* **G25 Bratlirør III**  
+*altitude:* 243  
+*Length:* 8m *Vertical extent:* 3m   
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Lauritzen (2011) doi:10.5038/1827-806X.35.1.5](https://doi.org/10.5038/1827-806X.35.1.5)   
+
+---  
+<a name="SJ-d271c4411637ad1251946789ef0ff07c"></a>
+Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya  
+*Cave Name(s):* **G27 Kronegrotta**  
+*altitude:* 263  
+*Length:* 8m *Vertical extent:* 3m   
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Lauritzen (2011) doi:10.5038/1827-806X.35.1.5](https://doi.org/10.5038/1827-806X.35.1.5)   
 
 ---  
 <a name="SE-a93e97253a2a738fd1851f092d3c160e"></a>
@@ -2666,8 +3878,8 @@ Switzerland - Vaud (VD) - Swiss Jura mountains
 [Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3](https://doi.org/10.1016/B978-0-12-811739-2.00010-3)   
 
 ---  
-<a name="CH-b3a2f2cd79e0010899350bb0796a93e0"></a>
-Switzerland - Swiss Jura mountains  
+<a name="CH-2f0954b99b584fe73bd2745664705b11"></a>
+Switzerland - Vaud (VD) - Swiss Jura mountains  
 *Cave Name(s):* **Glacière de Saint-George**  
 *altitude:* 1290  
 *Contents:* permanent ice  
@@ -4052,8 +5264,8 @@ United States of America - Hawaii - Hawaii Island; Mauna Loa
 [Teehera et al. (2018) doi:10.1080/01490451.2017.1362079](https://doi.org/10.1080/01490451.2017.1362079)   
 
 ---  
-<a name="US-e8d141037ddc1466cab9ae2c54f077bb"></a>
-United States of America - Hawaii - Mauna Loa  
+<a name="US-018c11f08faa8198eccd5f59f1d2c52c"></a>
+United States of America - Hawaii - Hawaii Island; Mauna Loa  
 *Cave Name(s):* **Arsia Cave** Arsia Ice Cave  
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* permanent ice  
@@ -4297,111 +5509,6 @@ United States of America - Idaho; Blaine County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1013](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1013)   
 
 ---  
-<a name="US-9c647550162929ce69c50dcc4db05533"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **1**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=266](https://rpif.asu.edu/LTdatabase/result.php?RECNO=266)   
-
----  
-<a name="US-b4db351a79f1bc80ff5c34eb7629c293"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **2**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=274](https://rpif.asu.edu/LTdatabase/result.php?RECNO=274)   
-
----  
-<a name="US-ddd93c2de12110f37dd7f95eb6e920b4"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **4**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=278](https://rpif.asu.edu/LTdatabase/result.php?RECNO=278)   
-
----  
-<a name="US-aafc177e5a2fc63e295caca794a5a32c"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **06 & 07**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=280](https://rpif.asu.edu/LTdatabase/result.php?RECNO=280)   
-
----  
-<a name="US-015949c8b9076cfa2a898795a72f7191"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **11**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=267](https://rpif.asu.edu/LTdatabase/result.php?RECNO=267)   
-
----  
-<a name="US-706a90bc0434b4a3db608d3d0b87f956"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **12**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=268](https://rpif.asu.edu/LTdatabase/result.php?RECNO=268)   
-
----  
-<a name="US-e86af1ed95e890138e79eac8d00bd979"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **13**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=269](https://rpif.asu.edu/LTdatabase/result.php?RECNO=269)   
-
----  
-<a name="US-cbf364851a90c37b5c9462f88ff2a0c2"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **14**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=270](https://rpif.asu.edu/LTdatabase/result.php?RECNO=270)   
-
----  
-<a name="US-4961d6d3f1a1b01a2e4d86c36d199456"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **15**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=271](https://rpif.asu.edu/LTdatabase/result.php?RECNO=271)   
-
----  
-<a name="US-36f3bca2334205daddefe168088353a7"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **17**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=272](https://rpif.asu.edu/LTdatabase/result.php?RECNO=272)   
-
----  
-<a name="US-6353141c363b7c9f8251e6c24dbdbcbd"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **19**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=273](https://rpif.asu.edu/LTdatabase/result.php?RECNO=273)   
-
----  
-<a name="US-b386f7f2516340ba0a18b5270e551fc8"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **20**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=275](https://rpif.asu.edu/LTdatabase/result.php?RECNO=275)   
-
----  
-<a name="US-e7c1b73c6c25f893d3650cca963a1367"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **3**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=276](https://rpif.asu.edu/LTdatabase/result.php?RECNO=276)   
-
----  
-<a name="US-be4fbd5fe091bdceca74f4dc69a32c15"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **30**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=277](https://rpif.asu.edu/LTdatabase/result.php?RECNO=277)   
-
----  
-<a name="US-acec5daf8fb6c459d37efaaf6884ee6b"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **5**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=279](https://rpif.asu.edu/LTdatabase/result.php?RECNO=279)   
-
----  
 <a name="US-27bcab35b484e108a2e9f19f677c0378"></a>
 United States of America - California; San Bernardino - Pisgah  
 *Cave Name(s):* **A**  
@@ -4415,20 +5522,6 @@ United States of America - Washington; Skamania County - Mount St. Helens
 *Cave Name(s):* **A.M. Cave**  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1756](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1756)   
-
----  
-<a name="US-59fec8a516a89cbed4ab5e69cdb864dc"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **AA**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=282](https://rpif.asu.edu/LTdatabase/result.php?RECNO=282)   
-
----  
-<a name="US-4d45574eaba15e79fc1ff5f547f1d388"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **AB**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=283](https://rpif.asu.edu/LTdatabase/result.php?RECNO=283)   
 
 ---  
 <a name="US-e92b8fe3f737e3d57f63569f28a1286a"></a>
@@ -4527,14 +5620,15 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=438](https://rpif.asu.edu/LTdatabase/result.php?RECNO=438)   
 
 ---  
-<a name="US-fcdaa0ceeeb1ef9e60098c26a19c351b"></a>
-United States of America - Hawaii - Hawaii Island; Hualalai  
+<a name="US-5497ee1a5d74daf06b3cf9b9712ebf42"></a>
+United States of America - Hawaii - Hawaii Island; Hualalai; Puuwaawaa  
 *Cave Name(s):* **Ambigua Cave**  
 *Length:* 1764m *Vertical extent:* 293m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=941](https://rpif.asu.edu/LTdatabase/result.php?RECNO=941)   
 Medville (2003) The survey of Ambigua Cave, Haw. Spel. Surv. Newsletter 14, 10-11  
 [Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf](https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf)   
+[https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf](https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf)   
 
 ---  
 <a name="US-d42569773734a7a5c2b968dc54b2675b"></a>
@@ -4603,38 +5697,47 @@ Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui)
 *Length:* 400m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=220](https://rpif.asu.edu/LTdatabase/result.php?RECNO=220)   
+[Steiner (2016) doi:10.1353/rnj.2016.0018](https://doi.org/10.1353/rnj.2016.0018)   
 
 ---  
-<a name="CL-48c51eefeec09af61f5393ae2b174b7a"></a>
+<a name="CL-e87410165ec6639e6cc15683d443cb0c"></a>
 Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui)  
+*Cave Name(s):* **Ana More Mata Puka**  
+[Steiner (2016) doi:10.1353/rnj.2016.0018](https://doi.org/10.1353/rnj.2016.0018)   
+
+---  
+<a name="CL-d85fac409ff568525321d7fa34aafe5c"></a>
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow  
 *Cave Name(s):* **Ana Roa**  
 *altitude:* 35  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=221](https://rpif.asu.edu/LTdatabase/result.php?RECNO=221)   
 
 ---  
-<a name="CL-3e62001432cb3c881b6362a2332ceacc"></a>
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui)  
+<a name="CL-76282f93453b76fa8752a72d730f4c81"></a>
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow  
 *Cave Name(s):* **Ana Te Pahu**  
 *altitude:* 108  
 *Length:* 540m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=222](https://rpif.asu.edu/LTdatabase/result.php?RECNO=222)   
+[Miller et al. (2014) doi:10.1080/01490451.2013.827762](https://doi.org/10.1080/01490451.2013.827762)   
 
 ---  
-<a name="CL-1f087896f740776c964eb42ddf5d6c71"></a>
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui)  
+<a name="CL-c90e5f583b44a268bea8142d95435985"></a>
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow  
 *Cave Name(s):* **Ana Te Pora**  
 *altitude:* 35  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=218](https://rpif.asu.edu/LTdatabase/result.php?RECNO=218)   
 
 ---  
-<a name="US-a2d184d3c14ce725bcf1f24154351b03"></a>
-United States of America - Hawaii - Maui  
-*Cave Name(s):* **Ananaluawahine Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=828](https://rpif.asu.edu/LTdatabase/result.php?RECNO=828)   
+<a name="CL-81f6c511ac409f968f8deee4af3103ad"></a>
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow  
+*Cave Name(s):* **Ana Heva**  
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Contents:* intermittently submerged  
+[Miller et al. (2014) doi:10.1080/01490451.2013.827762](https://doi.org/10.1080/01490451.2013.827762)   
 
 ---  
 <a name="MG-677cdee02a24a073697840748c450915"></a>
@@ -4699,13 +5802,6 @@ Japan - Mt. Fuji
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=36](https://rpif.asu.edu/LTdatabase/result.php?RECNO=36)   
 
 ---  
-<a name="US-cdc7350350e64fa8b22efebab188785e"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **AP**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=284](https://rpif.asu.edu/LTdatabase/result.php?RECNO=284)   
-
----  
 <a name="US-50f7b2ff9f755d97d2fa869dc2e1e569"></a>
 United States of America - Washington; Skamania County - Mount St. Helens  
 *Cave Name(s):* **Ape Cave**  
@@ -4766,8 +5862,8 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=543](https://rpif.asu.edu/LTdatabase/result.php?RECNO=543)   
 
 ---  
-<a name="US-7ce8161eb0a9a86e5f7c1ea554527b65"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-ae907d62d421299357d05209d8c89edc"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Archies Cave**  
 *Length:* 348m   
 *Cave type:* lava tunnel  
@@ -4911,9 +6007,10 @@ Iceland
 <a name="US-9abd6520cd630f30e61004c8dc7d031e"></a>
 United States of America - California; San Bernardino - Pisgah  
 *Cave Name(s):* **B**  
-*Length:* 166m   
+*Length:* 166m *Vertical extent:* ~6m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=285](https://rpif.asu.edu/LTdatabase/result.php?RECNO=285)   
+Harter (1972) Proc. 1st Int. Symp. Volcanospel.  
 
 ---  
 <a name="US-3a389b7ff92b69cde137802211c286f7"></a>
@@ -5162,20 +6259,6 @@ Australia - Queensland - Undara
 [Stone (2010) http://www.vulcanospeleology.org/sym14/papers/Stone.pdf](http://www.vulcanospeleology.org/sym14/papers/Stone.pdf)   
 
 ---  
-<a name="US-9d1c23d91352013db60e088cc5eda2fe"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **BB**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=286](https://rpif.asu.edu/LTdatabase/result.php?RECNO=286)   
-
----  
-<a name="US-7f5114c017b805a8ccb6060764146cbc"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **BE**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=287](https://rpif.asu.edu/LTdatabase/result.php?RECNO=287)   
-
----  
 <a name="US-2f141bd7e95bf021593aaa5770b73181"></a>
 United States of America - California; Siskiyou County - Lava Beds National Monument  
 *Cave Name(s):* **Beaconlight Cave**  
@@ -5262,13 +6345,6 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=637](https://rpif.asu.edu/LTdatabase/result.php?RECNO=637)   
 
 ---  
-<a name="US-dc6b90959f5fc51d5fccba2e29170441"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **BG**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=288](https://rpif.asu.edu/LTdatabase/result.php?RECNO=288)   
-
----  
 <a name="US-5fc3c67e2099f3e6fe78f061c4b334eb"></a>
 United States of America - Hawaii; North Hilo District - Hawaii (Big Island); Mauna Loa  
 *Cave Name(s):* **Big Black Cave**  
@@ -5312,8 +6388,8 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=544](https://rpif.asu.edu/LTdatabase/result.php?RECNO=544)   
 
 ---  
-<a name="US-1062176be82b87c330bfdff56979c482"></a>
-United States of America - Hawaii - Mauna Loa  
+<a name="US-5417b6d8eb44f5e67983ec44ddc7dda0"></a>
+United States of America - Hawaii - Hawaii Island; Mauna Loa  
 *Cave Name(s):* **Big Red Cave**  
 *Length:* 3606m *Vertical extent:* 232m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -5413,8 +6489,8 @@ Australia - Queensland
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1415](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1415)   
 
 ---  
-<a name="US-cde496ddfccdb432eef72016ab19be66"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-b9ea902008341657ea70ba5e7136bcd8"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Black Pellet Cave**  
 *Length:* 2378m   
 *Cave type:* lava tunnel  
@@ -5739,13 +6815,6 @@ United States of America - Washington; Skamania County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1626](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1626)   
 
 ---  
-<a name="US-5aa53e299ca21d995a6a46b554f8052c"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Breakin** BI  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=289](https://rpif.asu.edu/LTdatabase/result.php?RECNO=289)   
-
----  
 <a name="US-7608ba093b85b57e9f80afeaab199a2d"></a>
 United States of America - New Mexico; Cibola County - El Malpais; Bandera Flow  
 *Cave Name(s):* **Brewer's Cave**  
@@ -5777,13 +6846,6 @@ United States of America - California; Siskiyou County
 *Length:* 45m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=470](https://rpif.asu.edu/LTdatabase/result.php?RECNO=470)   
-
----  
-<a name="US-d18025dc5300d73eb3ecd9f9177c9ffc"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **BT**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=290](https://rpif.asu.edu/LTdatabase/result.php?RECNO=290)   
 
 ---  
 <a name="IS-3a26b7367ebe6ffab59b9fa3b25c441e"></a>
@@ -5827,7 +6889,7 @@ United States of America - Oregon; Lake County
 United States of America - Oregon; Malheur County  
 *Cave Name(s):* **Burns Cave**  
 *Length:* 341m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1220](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1220)   
 
 ---  
@@ -5838,8 +6900,8 @@ United States of America - California; San Bernardino - Pisgah
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=291](https://rpif.asu.edu/LTdatabase/result.php?RECNO=291)   
 
 ---  
-<a name="US-9ed38abf37a4f61b24fc9df3dd37a4c1"></a>
-United States of America - California; San Bernardino - Pisgah  
+<a name="US-04ac32a58d117339bbf3285de92a28c3"></a>
+United States of America - California; San Bernardino - Pisgah; C Tube  
 *Cave Name(s):* **C10**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=292](https://rpif.asu.edu/LTdatabase/result.php?RECNO=292)   
@@ -5849,30 +6911,28 @@ United States of America - California; San Bernardino - Pisgah
 <a name="US-77d8d8b0b27f46f7e0ef966f5036dc38"></a>
 United States of America - California; San Bernardino - Pisgah  
 *Cave Name(s):* **C11**  
+*Length:* ~10m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=293](https://rpif.asu.edu/LTdatabase/result.php?RECNO=293)   
-
----  
-<a name="US-4a210f8aa6342f6efc18c651ed217c17"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **C12**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=294](https://rpif.asu.edu/LTdatabase/result.php?RECNO=294)   
-
----  
-<a name="US-8547834fd3ec0b140c227f128474a008"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **C13North**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=295](https://rpif.asu.edu/LTdatabase/result.php?RECNO=295)   
 [Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf](http://www.vulcanospeleology.org/articles/pisgah.pdf)   
 
 ---  
-<a name="US-93f9b9e49528ee94502f71ff4924354e"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **C13W**  
+<a name="US-0979233aeda514eedcc09f29394957e6"></a>
+United States of America - California; San Bernardino - Pisgah; C Tube  
+*Cave Name(s):* **C12**  
+*Length:* ~80m   
 *Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=296](https://rpif.asu.edu/LTdatabase/result.php?RECNO=296)   
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=294](https://rpif.asu.edu/LTdatabase/result.php?RECNO=294)   
+[Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf](http://www.vulcanospeleology.org/articles/pisgah.pdf)   
+
+---  
+<a name="US-8da7c1cea5615cb76e0b5d25a2f58020"></a>
+United States of America - California; San Bernardino - Pisgah; C Tube  
+*Cave Name(s):* **C13North** C13N  
+*Cave type:* lava tunnel  
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=295](https://rpif.asu.edu/LTdatabase/result.php?RECNO=295)   
+[Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf](http://www.vulcanospeleology.org/articles/pisgah.pdf)   
+Harter (1972) Proc. 1st Int. Symp. Volcanospel.  
 
 ---  
 <a name="US-2f60b9f908ae884392b4ff1391b825a3"></a>
@@ -5975,8 +7035,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=471](https://rpif.asu.edu/LTdatabase/result.php?RECNO=471)   
 
 ---  
-<a name="US-383608229d5b3c014a1aaf3ebf1f12f0"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-5d6faf536320e56755cc528bf5f081ce"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Can Cave**  
 *Length:* 216m   
 *Cave type:* lava tunnel  
@@ -6253,27 +7313,6 @@ France - Reunion - Reunion Island
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1438](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1438)   
 
 ---  
-<a name="US-1dbdc35987de20c4cd87d914fde48baf"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CC**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=308](https://rpif.asu.edu/LTdatabase/result.php?RECNO=308)   
-
----  
-<a name="US-fdc34a26910d75ba14637769ec0aaf48"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CD**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=309](https://rpif.asu.edu/LTdatabase/result.php?RECNO=309)   
-
----  
-<a name="US-0165418eea77efeaa5b4224ef7f165fe"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CE**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=310](https://rpif.asu.edu/LTdatabase/result.php?RECNO=310)   
-
----  
 <a name="US-2415d483cb85f98853dde43963b9ac04"></a>
 United States of America - California; Siskiyou County  
 *Cave Name(s):* **Cellar Cave**  
@@ -6290,8 +7329,8 @@ United States of America - Washington
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1744](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1744)   
 
 ---  
-<a name="US-5290b4aecaaad7e3f8c397325a0f2fef"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-c2f2926c11d24883628dcd249af95273"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Centashaft**  
 *Length:* 173m   
 *Cave type:* lava tunnel  
@@ -6319,27 +7358,6 @@ United States of America - New Mexico; Cibola County
 *Length:* 500m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1192](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1192)   
-
----  
-<a name="US-1f1c57edd0bc430c460c3534097c1026"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CF**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=311](https://rpif.asu.edu/LTdatabase/result.php?RECNO=311)   
-
----  
-<a name="US-2f05dc3377459598cc1c8aa424b6a46f"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CG**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=312](https://rpif.asu.edu/LTdatabase/result.php?RECNO=312)   
-
----  
-<a name="US-83d969e8764565d6dba302278d16808b"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CH**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=313](https://rpif.asu.edu/LTdatabase/result.php?RECNO=313)   
 
 ---  
 <a name="US-42f66b6b0513245840dc1243a517a25c"></a>
@@ -6494,26 +7512,13 @@ United States of America - California; San Bernardino
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=450](https://rpif.asu.edu/LTdatabase/result.php?RECNO=450)   
 
 ---  
-<a name="US-2587720d2699aef0c208d5acae1ce2f7"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CJ**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=314](https://rpif.asu.edu/LTdatabase/result.php?RECNO=314)   
-
----  
-<a name="US-c6d14bcb751b6dba1c34b972f12c5222"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CK**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=315](https://rpif.asu.edu/LTdatabase/result.php?RECNO=315)   
-
----  
-<a name="US-30bf9c4d2ce63fa47cb20672f5370af3"></a>
-United States of America - Hawaii - Hawaii (Big Island)  
+<a name="US-23f2aa084652ebed2947f3ad5eeed9b4"></a>
+United States of America - Hawaii - Hawaii (Big Island); Hualalai  
 *Cave Name(s):* **Clague's Cave**  
 *Length:* 1390m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=911](https://rpif.asu.edu/LTdatabase/result.php?RECNO=911)   
+Kempe and Oberwinder (1997) Proc. 12th Int. Congr. Spel.  
 
 ---  
 <a name="US-9a4176029e4e5f9f22c32cf28276911c"></a>
@@ -6564,27 +7569,6 @@ United States of America - Washington; Cowlitz County - Mount St. Helens
 *Length:* 15m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1600](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1600)   
-
----  
-<a name="US-4baa27a469ce7c64ef210cd4af13cc3e"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CLST**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=316](https://rpif.asu.edu/LTdatabase/result.php?RECNO=316)   
-
----  
-<a name="US-fddf905544162f8742594138fc2b6e6f"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CM**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=317](https://rpif.asu.edu/LTdatabase/result.php?RECNO=317)   
-
----  
-<a name="US-c57a14922f7ad3243198ce02387c13c4"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CN**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=318](https://rpif.asu.edu/LTdatabase/result.php?RECNO=318)   
 
 ---  
 <a name="US-5a614f381d34b74b8347257d3d0e6051"></a>
@@ -6709,27 +7693,6 @@ United States of America - Oregon; Malheur County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1228](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1228)   
 
 ---  
-<a name="US-2d5e28498e6108950ef1fc31425d6dda"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CP**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=319](https://rpif.asu.edu/LTdatabase/result.php?RECNO=319)   
-
----  
-<a name="US-962ffef6b59369e4c881fc05de65c777"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CQ**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=320](https://rpif.asu.edu/LTdatabase/result.php?RECNO=320)   
-
----  
-<a name="US-eedd809b9f924660d11a76a04b6edd08"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CR**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=321](https://rpif.asu.edu/LTdatabase/result.php?RECNO=321)   
-
----  
 <a name="US-2a2dd851ccae1c7458aca194842ad6bf"></a>
 United States of America - Oregon; Deschutes County - Horse Lava Tube System  
 *Cave Name(s):* **Crab Walk Cave**  
@@ -6785,13 +7748,6 @@ United States of America - Hawaii - Maui; Haleakala; Manawainaui Gulch
 [Olson and James (1991) DOI:10.2307/40166794](https://doi.org/10.2307/40166794)   
 
 ---  
-<a name="US-2e387262fab56487339f9229722c10c6"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CS**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=322](https://rpif.asu.edu/LTdatabase/result.php?RECNO=322)   
-
----  
 <a name="US-1980c98ca2c56ef4d04af9931644c7ee"></a>
 United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea  
 *Cave Name(s):* **CSH Site 17 Cave**  
@@ -6805,13 +7761,6 @@ United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea
 *Cave Name(s):* **CSH Site 96 Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=838](https://rpif.asu.edu/LTdatabase/result.php?RECNO=838)   
-
----  
-<a name="US-4b6e77add118fd7bdc73561d78f2dc3f"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CT**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=323](https://rpif.asu.edu/LTdatabase/result.php?RECNO=323)   
 
 ---  
 <a name="EC-548db637ddbf693e7e2d9a080545cb59"></a>
@@ -7462,8 +8411,8 @@ Spain - Santa Cruz de Tenerife - Tenerife
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1509](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1509)   
 
 ---  
-<a name="EC-d7dfd3c7ac587bc22c662b38bd4c5d6d"></a>
-Ecuador - Islas Galapagos - Santa Cruz Island  
+<a name="EC-d239c4df468fb170fe51422b9ad6ec69"></a>
+Ecuador - Galapagos - Santa Cruz Island  
 *Cave Name(s):* **Cueva del Cascajo**  
 *Length:* 3010m   
 *Cave type:* lava tunnel  
@@ -7866,13 +8815,6 @@ Italy - Sicilia - Sicily; Etna
 [Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf)   
 
 ---  
-<a name="US-80f361bae3a3c5ce15365f6839d676b0"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **CW**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=324](https://rpif.asu.edu/LTdatabase/result.php?RECNO=324)   
-
----  
 <a name="US-0395f4c21d30c778b05763b7134c89eb"></a>
 United States of America - Hawaii - Hawaii (Big Island); Mauna Kea  
 *Cave Name(s):* **Cyrtandra Makai Cave**  
@@ -8190,6 +9132,7 @@ United States of America - Washington; Klickitat County
 United States of America - Hawaii - Hawaii (Big Island); Kilauea  
 *Cave Name(s):* **Doc Bellou Cave**  
 *Cave type:* lava tunnel  
+ *Part of* [Kazumura Cave](#US-de4bd354b15708182d9f1c5c0a532ca6)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=758](https://rpif.asu.edu/LTdatabase/result.php?RECNO=758)   
 [Hoch and Howarth (1993) http://hdl.handle.net/10125/1860](http://hdl.handle.net/10125/1860)   
 
@@ -8227,8 +9170,8 @@ United States of America - Washington; Skamania County - Mount St. Helens
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1698](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1698)   
 
 ---  
-<a name="US-abfefc0ab0e35a2dd5da4e2c2504524b"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-df6e5ef086326167148242c8c265fb2c"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Donkey Cave**  
 *Length:* 150m   
 *Cave type:* lava tunnel  
@@ -8420,13 +9363,6 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 [https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf](https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf)   
 
 ---  
-<a name="US-4022f8873611bc0c84ae8d8ba48deb59"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Entryway**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=325](https://rpif.asu.edu/LTdatabase/result.php?RECNO=325)   
-
----  
 <a name="US-28797bad02b93c143981774b38b5524d"></a>
 United States of America - Hawaii; Puna District - Hawaii Island  
 *Cave Name(s):* **Epperson's Cave**  
@@ -8568,7 +9504,7 @@ United States of America - Utah; Millard County
 ---  
 <a name="US-70bdba384b0278751d567ae01d6ca26b"></a>
 United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Finis**  
+*Cave Name(s):* **Finis** F; Double Loop Cave #1  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=326](https://rpif.asu.edu/LTdatabase/result.php?RECNO=326)   
 [Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf](http://www.vulcanospeleology.org/articles/pisgah.pdf)   
@@ -8878,27 +9814,6 @@ United States of America - Washington; Skamania County - Mount St. Helens
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1758](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1758)   
 
 ---  
-<a name="US-aaa5d0c1bb3e30b89f6aff6941a976a8"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **G Too**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=327](https://rpif.asu.edu/LTdatabase/result.php?RECNO=327)   
-
----  
-<a name="US-7fa516948fde1d73eab0a789f2b2b8a0"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **GA**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=328](https://rpif.asu.edu/LTdatabase/result.php?RECNO=328)   
-
----  
-<a name="US-3a3b2a3ed97c85afea5777f40b217222"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **GAH**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=329](https://rpif.asu.edu/LTdatabase/result.php?RECNO=329)   
-
----  
 <a name="US-2e35bdd8cf0544b7cde7a714916bfd87"></a>
 United States of America - California; Siskiyou County  
 *Cave Name(s):* **Gail Cave**  
@@ -8948,20 +9863,6 @@ United States of America - Hawaii; Puna District - Hawaii Island
 *Length:* 594m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=739](https://rpif.asu.edu/LTdatabase/result.php?RECNO=739)   
-
----  
-<a name="US-bcf3e052849b0587440224a6707b49e0"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **GB**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=330](https://rpif.asu.edu/LTdatabase/result.php?RECNO=330)   
-
----  
-<a name="US-c2b305ea09fb511e846b28cfa091f781"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **GC**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=331](https://rpif.asu.edu/LTdatabase/result.php?RECNO=331)   
 
 ---  
 <a name="US-322d3cc3705c6010986ac1255281514b"></a>
@@ -9028,11 +9929,12 @@ Iceland - Arnessysla
 ---  
 <a name="US-c4c0f3f57b45cdd7f6661021399a5fbb"></a>
 United States of America - California; San Bernardino - Pisgah; Mojave Desert  
-*Cave Name(s):* **Glove Cave**  
-*Length:* 335m   
+*Cave Name(s):* **Glove Cave** Pisgah Lava Tube #1  
+*Length:* 335m *Number of entrances:* 3  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=332](https://rpif.asu.edu/LTdatabase/result.php?RECNO=332)   
 [Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf](http://www.vulcanospeleology.org/articles/pisgah.pdf)   
+Harter (1972) Proc. 1st Int. Symp. Volcanospel.  
 
 ---  
 <a name="RU-5236/15800-4"></a>
@@ -9160,8 +10062,8 @@ Russia - Kamchatka - North Gorely
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1121](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1121)   
 
 ---  
-<a name="US-1dd3c0775311d895b09a1b9bb5f8d1ca"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-06c648730ca98439cb162b56d232538e"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Goatskull Puka**  
 *Length:* 787m   
 *Cave type:* lava tunnel  
@@ -9584,13 +10486,6 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=487](https://rpif.asu.edu/LTdatabase/result.php?RECNO=487)   
 
 ---  
-<a name="US-4798f33a9c2084916162ea1be8a27487"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **GS**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=333](https://rpif.asu.edu/LTdatabase/result.php?RECNO=333)   
-
----  
 <a name="ID-620d5be2ffccdbbd1e643caafe2539be"></a>
 Indonesia - Java - Java  
 *Cave Name(s):* **Gua Lawa**  
@@ -9678,13 +10573,6 @@ Australia - Victoria - Mt. Napier
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1586](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1586)   
 ASF database  
-
----  
-<a name="US-c153d7ee54575b217262e57f9b9574e2"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **HA**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=334](https://rpif.asu.edu/LTdatabase/result.php?RECNO=334)   
 
 ---  
 <a name="JP-abab840666375df0acc9a2ed8a95a30b"></a>
@@ -9864,22 +10752,16 @@ United States of America - Arizona; Graham County
 United States of America - Hawaii; Puna District - Hawaii Island; Kilauea  
 *Cave Name(s):* **Hawaiian Acres Cave #1**  
 *Cave type:* lava tunnel  
+ *Part of* [Kazumura Cave](#US-de4bd354b15708182d9f1c5c0a532ca6)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=759](https://rpif.asu.edu/LTdatabase/result.php?RECNO=759)   
 
 ---  
-<a name="US-d74f6ab7446569d37087fa17e92268d3"></a>
-United States of America - Hawaii; South Kona District - Hawaii Island  
+<a name="US-40ae94ff3a96e3128b53cffe85bc67ff"></a>
+United States of America - Hawaii; South Kona - Hawaii Island  
 *Cave Name(s):* **Hayes Tube Shelter**  
 *Length:* 220m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=749](https://rpif.asu.edu/LTdatabase/result.php?RECNO=749)   
-
----  
-<a name="US-4ad551e5984e8d1d264bf62772f1becb"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **HB**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=335](https://rpif.asu.edu/LTdatabase/result.php?RECNO=335)   
 
 ---  
 <a name="NZ-5eb8403fac98cbe67e1f99935e880032"></a>
@@ -9985,13 +10867,6 @@ United States of America - Idaho; Ada County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=998](https://rpif.asu.edu/LTdatabase/result.php?RECNO=998)   
 
 ---  
-<a name="US-b7e85fb3e2953e17d88c6a5441074bc2"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **High Calorie** HC  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=336](https://rpif.asu.edu/LTdatabase/result.php?RECNO=336)   
-
----  
 <a name="JP-03d5b893d5f3c8fe74a09b8d30439f1a"></a>
 Japan - Mt. Fuji  
 *Cave Name(s):* **Hito Ana Cave**  
@@ -10006,13 +10881,6 @@ Iceland - Austur-Hunavatnssysla
 *Length:* 310m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=14](https://rpif.asu.edu/LTdatabase/result.php?RECNO=14)   
-
----  
-<a name="US-dda50511168b85ada1bf43de99a85964"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **HL**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=337](https://rpif.asu.edu/LTdatabase/result.php?RECNO=337)   
 
 ---  
 <a name="IS-68e3b5a79b89aebc13f8c2db4678897d"></a>
@@ -10121,13 +10989,6 @@ Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"
 [Knutson (1976) http://www.vulcanospeleology.org/sym01/ISV1x08.pdf](http://www.vulcanospeleology.org/sym01/ISV1x08.pdf)   
 
 ---  
-<a name="US-7d39bca35a0a62be36ac2f43713d6485"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Horseshoe**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=338](https://rpif.asu.edu/LTdatabase/result.php?RECNO=338)   
-
----  
 <a name="US-0af9c4f10a6774c696745c84fdbad151"></a>
 United States of America - Idaho; Butte County - Craters of the Moon  
 *Cave Name(s):* **Horseshoe Cave**  
@@ -10171,7 +11032,7 @@ Iceland
 <a name="US-1e7d3fadb59f0f88dd4aea14baa6f758"></a>
 United States of America - Hawaii - Hawaii (Big Island); Hualalai  
 *Cave Name(s):* **Hualalai Ranch Cave**  
-*Length:* 16093m   
+*Length:* 27400m *Vertical extent:* 452m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=934](https://rpif.asu.edu/LTdatabase/result.php?RECNO=934)   
 [Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf](http://www.cavepics.com/IVS17/MEDVILLE.pdf)   
@@ -10370,13 +11231,6 @@ United States of America - California; Siskiyou County
 *Cave Name(s):* **Impossible Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=530](https://rpif.asu.edu/LTdatabase/result.php?RECNO=530)   
-
----  
-<a name="US-6d947a2b05970dd152c26074cfe79c46"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Incinerator**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=339](https://rpif.asu.edu/LTdatabase/result.php?RECNO=339)   
 
 ---  
 <a name="US-57c82916e4c1a294602599c3c5d69c65"></a>
@@ -10632,27 +11486,6 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=491](https://rpif.asu.edu/LTdatabase/result.php?RECNO=491)   
 
 ---  
-<a name="US-b4469aba16fa1e9ed8bbe5e2f77bb613"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Jackrabbit 1**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=340](https://rpif.asu.edu/LTdatabase/result.php?RECNO=340)   
-
----  
-<a name="US-b17706060095bb16b389dad8856e51ba"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Jackrabbit 2**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=341](https://rpif.asu.edu/LTdatabase/result.php?RECNO=341)   
-
----  
-<a name="US-51daee4e2acaf599fd4a633598ccd848"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Jackrabbit 3**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=342](https://rpif.asu.edu/LTdatabase/result.php?RECNO=342)   
-
----  
 <a name="US-ee228badf05c5f57d1c3623200a84316"></a>
 United States of America - California; Siskiyou County  
 *Cave Name(s):* **James Brothers Cave**  
@@ -10737,6 +11570,7 @@ United States of America - Hawaii; Puna District - Hawaii Island; Kilauea
 *Cave Name(s):* **John Martin Cave**  
 *Length:* 4158m   
 *Cave type:* lava tunnel  
+ *Part of* John Martin-Pukalani Cave System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=784](https://rpif.asu.edu/LTdatabase/result.php?RECNO=784)   
 
 ---  
@@ -10828,7 +11662,7 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 United States of America - California; Siskiyou County  
 *Cave Name(s):* **Juniper Pole Cave**  
 *Length:* 151m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=599](https://rpif.asu.edu/LTdatabase/result.php?RECNO=599)   
 
 ---  
@@ -10891,14 +11725,6 @@ Saudi Arabia - Harrat Khaybar lava field
 *Length:* 1481m   
 *Cave type:* lava tunnel  
 [Pint (2009) http://vulcanospeleology.org/articles/jirsan.pdf](http://vulcanospeleology.org/articles/jirsan.pdf)   
-
----  
-<a name="US-4755e00c4d42493188f01492989c73b2"></a>
-United States of America - Hawaii - Hawaii (Big Island); Hualalai  
-*Cave Name(s):* **Kailua-Kona Airport Caves**  
-*Length:* 4000+m   
-*Rock type:* basalt *Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=920](https://rpif.asu.edu/LTdatabase/result.php?RECNO=920)   
 
 ---  
 <a name="US-93f1d1d496a823c622170ca8ad6a8e5e"></a>
@@ -11176,12 +12002,15 @@ Japan - Mt. Fuji
 <a name="US-de4bd354b15708182d9f1c5c0a532ca6"></a>
 United States of America - Hawaii; Puna District - Hawaii Island; Kilauea  
 *Cave Name(s):* **Kazumura Cave**  
-*Length:* 65500m *Vertical extent:* 1098m   
+*altitude:* 29-1128  
+*Length:* 65500m *Vertical extent:* 1098m *Number of entrances:* 101  
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Comments:* flow occurred 350-500 BP  
+*Branches:* Lower Kazumura; Old Kazumura; Upper Kazumura; Paradise Park Cave; [Doc Bellou Cave](#US-53ffb948e751ac92916ff1ca508f2318); [Hawaiian Acres Cave #1](#US-17f8551b63d890d640cc92af0dfc172b); Sexton's Cave; [Ola'a Cave](#US-8cd53eb0dcdc447321aac82d1bfe253c);   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=787](https://rpif.asu.edu/LTdatabase/result.php?RECNO=787)   
 Allred and Allred (1997) J. Cave Karst Stds. 59, 67-80  
 [Allred (2019) doi:10.1016/B978-0-12-814124-3.00073-X](https://doi.org/10.1016/B978-0-12-814124-3.00073-X)   
+[https://en.wikipedia.org/wiki/Kazumura_Cave](https://en.wikipedia.org/wiki/Kazumura_Cave)   
 
 ---  
 <a name="US-c7af44e4719d3be9f7cc7998485b7957"></a>
@@ -11332,16 +12161,16 @@ United States of America - Oregon; Deschutes County - Horse Lava Tube System
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1291](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1291)   
 
 ---  
-<a name="US-118a5111d6908a9f27eb29c164ff0dc7"></a>
-United States of America - Hawaii - Kauai  
+<a name="US-310a2b7494e071b53d23612d2d260296"></a>
+United States of America - Hawaii - Kauai; Koloa  
 *Cave Name(s):* **Knudsen Cave #1**  
 *Length:* 100m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=885](https://rpif.asu.edu/LTdatabase/result.php?RECNO=885)   
 
 ---  
-<a name="US-34ecad28dbfd79bd1889164cb2bccd37"></a>
-United States of America - Hawaii - Kauai  
+<a name="US-052af727adc4893e394cecb87457561b"></a>
+United States of America - Hawaii - Kauai; Koloa  
 *Cave Name(s):* **Knudsen Cave #2**  
 *Length:* 50m   
 *Cave type:* lava tunnel  
@@ -11503,13 +12332,13 @@ Japan - Nagasaki
 United States of America - Hawaii - Hawaii Island; Mauna Loa  
 *Cave Name(s):* **Kula Kai Caverns**  
 *Rock type:* basalt *Cave type:* lava tunnel  
- *Part of* [Kipuka Kanohina](#US-7964f1c4e54a6550c79189ebfd3ea0cb)  
+ *Part of* [Kipuka Kanohina](#US-e965fbae8a4e3fc73db4b5da353fad3e)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=949](https://rpif.asu.edu/LTdatabase/result.php?RECNO=949)   
 *Cave use:* guided tourist cave  
 
 ---  
-<a name="US-7964f1c4e54a6550c79189ebfd3ea0cb"></a>
-United States of America - Hawaii - Mauna Loa; Kipuka Kanohina Cave Preserve  
+<a name="US-e965fbae8a4e3fc73db4b5da353fad3e"></a>
+United States of America - Hawaii - Hawaii Island; Mauna Loa; Kipuka Kanohina Cave Preserve  
 *Cave Name(s):* **Kipuka Kanohina**  
 *Length:*  >32000m *Vertical extent:* 208m   
 *Cave type:* lava tunnel  
@@ -11573,13 +12402,6 @@ Iceland
 *Length:* 80m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=180](https://rpif.asu.edu/LTdatabase/result.php?RECNO=180)   
-
----  
-<a name="US-ea196c0adf33c50d5c3cf9d53f3302bd"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **LA**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=343](https://rpif.asu.edu/LTdatabase/result.php?RECNO=343)   
 
 ---  
 <a name="MX-ca00c7da68ddd9a3fbb3b8b394224522"></a>
@@ -11665,8 +12487,8 @@ Iceland
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=5](https://rpif.asu.edu/LTdatabase/result.php?RECNO=5)   
 
 ---  
-<a name="US-12bffd8e3d64c4e7f85cbb49faf5c520"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-4c18bef6b121a25ac99eb24b0a92e56c"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Laniakea Cave**  
 *Length:* 380m   
 *Cave type:* lava tunnel  
@@ -11801,27 +12623,6 @@ United States of America - Washington; Skamania County
 *Length:* 23m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1654](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1654)   
-
----  
-<a name="US-6446758b590465e7cf150413f41b859e"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **LB**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=344](https://rpif.asu.edu/LTdatabase/result.php?RECNO=344)   
-
----  
-<a name="US-cc06b1b798d6e2cafd4d4af06c93aeaf"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **LD**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=345](https://rpif.asu.edu/LTdatabase/result.php?RECNO=345)   
-
----  
-<a name="US-6b6e6b7f8bcb0285e7041f665c8e8ea1"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **LE**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=346](https://rpif.asu.edu/LTdatabase/result.php?RECNO=346)   
 
 ---  
 <a name="US-68a9388d529d9ff7f8aac1f48e9a011f"></a>
@@ -12108,13 +12909,6 @@ Australia - Queensland - Undara
 [Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf](http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf)   
 
 ---  
-<a name="US-3301373ab75c22ac8b0aa5cf766251ec"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Low Calorie** LC  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=347](https://rpif.asu.edu/LTdatabase/result.php?RECNO=347)   
-
----  
 <a name="US-9e36119c9238731b288ecb9af163d5fd"></a>
 United States of America - Washington; Skamania County - Mount St. Helens  
 *Cave Name(s):* **Low Cave**  
@@ -12156,8 +12950,8 @@ Australia - Queensland - Undara
 [Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf](http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf)   
 
 ---  
-<a name="US-1d0ce88ab676c436ff61868ba1c8ee25"></a>
-United States of America - Hawaii; Puna District - Hawaii Island  
+<a name="US-f8f26ce2d28d59c2c5763c7500419f9d"></a>
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea  
 *Cave Name(s):* **Lower Uilani Cave**  
 *Length:* 2804m   
 *Cave type:* lava tunnel  
@@ -12212,13 +13006,6 @@ Iceland - Laufbalavatn cave area
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=202](https://rpif.asu.edu/LTdatabase/result.php?RECNO=202)   
 
 ---  
-<a name="US-8275ccc009786a806e13f3d5bc3e0b46"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **M Hole**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=348](https://rpif.asu.edu/LTdatabase/result.php?RECNO=348)   
-
----  
 <a name="US-f4713b05ba8295bd2a943bdf26fd33dc"></a>
 United States of America - Idaho; Lincoln County  
 *Cave Name(s):* **Mabbutt Cave**  
@@ -12265,8 +13052,8 @@ United States of America - Hawaii; Puna District - Hawaii Island
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=763](https://rpif.asu.edu/LTdatabase/result.php?RECNO=763)   
 
 ---  
-<a name="US-465ed26edd047a3ff7a8def6a1d2efb3"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-05ed147ad2783283b7762b2999976781"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Lama Lua Cave**  
 *Length:* 5523m   
 *Cave type:* lava tunnel  
@@ -12275,8 +13062,8 @@ White (2010) J. Cave Karst Std. 72(2), 75-85
 [Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf](http://www.cavepics.com/IVS17/MEDVILLE.pdf)   
 
 ---  
-<a name="US-3a89173ba7e60ae430601accb59b8e0e"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-76be25631f8989060da1c14cb6b8af3a"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Pueo Cave**  
 *Length:*  >6500m   
 *Cave type:* lava tunnel  
@@ -12547,26 +13334,12 @@ United States of America - Idaho; Lincoln County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1091](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1091)   
 
 ---  
-<a name="US-6cc0449fa4d8812f28dd0f7ea329c5a7"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **MB**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=349](https://rpif.asu.edu/LTdatabase/result.php?RECNO=349)   
-
----  
 <a name="US-121ac6efd29fcce5526ca8f8ec17d949"></a>
 United States of America - California; Siskiyou County  
 *Cave Name(s):* **McCloud Ice Caves**  
 *Length:* 137m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=500](https://rpif.asu.edu/LTdatabase/result.php?RECNO=500)   
-
----  
-<a name="US-f591f0ffcd2839b9d1e93bb71fed80c2"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **MD**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=580](https://rpif.asu.edu/LTdatabase/result.php?RECNO=580)   
 
 ---  
 <a name="US-aa9090a696900d374c18f86fb2e6676d"></a>
@@ -12641,13 +13414,6 @@ United States of America - Washington; Skamania County
 *Length:* 442m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1658](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1658)   
-
----  
-<a name="US-2d6986abd7e7821df9478694d1e02e90"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **MG**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=581](https://rpif.asu.edu/LTdatabase/result.php?RECNO=581)   
 
 ---  
 <a name="KR-16c365e178caf91d671616aa15913122"></a>
@@ -12780,13 +13546,6 @@ Japan - Kumamoto
 *Length:* 15m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1141](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1141)   
-
----  
-<a name="US-d825441f943f22d7f210be4df9e2e8ea"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **MM**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=582](https://rpif.asu.edu/LTdatabase/result.php?RECNO=582)   
 
 ---  
 <a name="NZ-4dc0372b9c8afa2836a53c426b4fd5be"></a>
@@ -12966,13 +13725,6 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=627](https://rpif.asu.edu/LTdatabase/result.php?RECNO=627)   
 
 ---  
-<a name="US-2c3c5c68875b4971318af33ce9061996"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **MS**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=583](https://rpif.asu.edu/LTdatabase/result.php?RECNO=583)   
-
----  
 <a name="AU-ASF-3H-2"></a>
 Australia - Victoria - Western Volcanic Plains  
 *Cave Name(s):* **Mt. Hamilton Cave** *Id:* ASF-3H-2  
@@ -13084,20 +13836,6 @@ Japan - Mt. Fuji
 *Length:* 118m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=91](https://rpif.asu.edu/LTdatabase/result.php?RECNO=91)   
-
----  
-<a name="US-899105ec1b9a149c64754efdf9115b11"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **N Hole**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=584](https://rpif.asu.edu/LTdatabase/result.php?RECNO=584)   
-
----  
-<a name="US-ddace679df72ac94838032aa140b94cf"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **NA**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=350](https://rpif.asu.edu/LTdatabase/result.php?RECNO=350)   
 
 ---  
 <a name="AU-876fdd02f33b58a3cb40d98b23a0f2b9"></a>
@@ -13274,13 +14012,6 @@ United States of America - Hawaii - Oahu; Koolau
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=814](https://rpif.asu.edu/LTdatabase/result.php?RECNO=814)   
 
 ---  
-<a name="US-3647d4a620a908df62ab3235405ee8f4"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **NN**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=351](https://rpif.asu.edu/LTdatabase/result.php?RECNO=351)   
-
----  
 <a name="US-63fc12e5f3dfa30f58ce825b590b604c"></a>
 United States of America - Oregon; Deschutes County - Horse Lava Tube System  
 *Cave Name(s):* **No Account Redmond Cave** Redmond Cave no. 2  
@@ -13297,13 +14028,6 @@ Japan - Nagasaki - Fukue Island
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1166](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1166)   
 [http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf](http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf)   
-
----  
-<a name="US-06058008a30c0c7477c696d3e61264de"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **No. 1**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=265](https://rpif.asu.edu/LTdatabase/result.php?RECNO=265)   
 
 ---  
 <a name="JP-0d09d9d11248497b6da5ef443fd495f0"></a>
@@ -13338,6 +14062,14 @@ New Zealand - Auckland City
 *Cave Name(s):* **No. 81 Mt. Royal Ave.**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=142](https://rpif.asu.edu/LTdatabase/result.php?RECNO=142)   
+
+---  
+<a name="US-899105ec1b9a149c64754efdf9115b11"></a>
+United States of America - California; San Bernardino - Pisgah  
+*Cave Name(s):* **N Hole**  
+*Cave type:* lava tunnel  
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=584](https://rpif.asu.edu/LTdatabase/result.php?RECNO=584)   
+Harter (1972) Proc. 1st Int. Symp. Volcanospel.  
 
 ---  
 <a name="US-89553e9cffbf46bb7348cf9d64ae58f1"></a>
@@ -13396,27 +14128,6 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=502](https://rpif.asu.edu/LTdatabase/result.php?RECNO=502)   
 
 ---  
-<a name="US-c01c7591c86aa72b5c3e99b27d4deff6"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Nothing Hole**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=352](https://rpif.asu.edu/LTdatabase/result.php?RECNO=352)   
-
----  
-<a name="US-e3f9d148acaddfec33ad089e8763892a"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **NP**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=353](https://rpif.asu.edu/LTdatabase/result.php?RECNO=353)   
-
----  
-<a name="US-b28d0ff82264462d3c674a6019cb5a3e"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **NS**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=354](https://rpif.asu.edu/LTdatabase/result.php?RECNO=354)   
-
----  
 <a name="CD-ad679c5f84a103abc12438b737ed3d40"></a>
 Congo, Democratic Republic of the - Kivu  
 *Cave Name(s):* **Nyamulagira**  
@@ -13472,8 +14183,8 @@ Japan - Kumamoto
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1137](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1137)   
 
 ---  
-<a name="US-55a89bbad7e476eaf0606eb86f074f91"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-3f79e37723ad3634d73b8ef2258d4123"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Ohia Cave**  
 *Length:* 3200m   
 *Cave type:* lava tunnel  
@@ -13652,27 +14363,6 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave use:* self-guided tourist cave  
 
 ---  
-<a name="US-1d947d3e15b78d02befa4c81baea6325"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Owl 1**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=355](https://rpif.asu.edu/LTdatabase/result.php?RECNO=355)   
-
----  
-<a name="US-e06eca22176d97336afab336321edc35"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Owl 2**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=356](https://rpif.asu.edu/LTdatabase/result.php?RECNO=356)   
-
----  
-<a name="US-b1ebea71645dd7d846f83690fb03baed"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Owl 3**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=357](https://rpif.asu.edu/LTdatabase/result.php?RECNO=357)   
-
----  
 <a name="US-c7dd2f4e5692b54c5dc6b3c7fb64d076"></a>
 United States of America - Hawaii - Maui; Haleakala  
 *Cave Name(s):* **Owl Cave**  
@@ -13715,12 +14405,11 @@ United States of America - California; Lassen County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=443](https://rpif.asu.edu/LTdatabase/result.php?RECNO=443)   
 
 ---  
-<a name="US-6ecc6749a270705d2182fe4443a1af36"></a>
+<a name="US-762723bcd1eabebd23fc57d3cd76ed94"></a>
 United States of America - Hawaii; Puna District - Hawaii Island; Kilauea  
-*Cave Name(s):* **Pahoa Caves**  
-*Length:*  16000+m   
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=747](https://rpif.asu.edu/LTdatabase/result.php?RECNO=747)   
+*Cave Name(s):* **Pahoa Cave** Middle Tube System  
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Comments:* major archaeology  
 
 ---  
 <a name="US-98c686c7457f181159609b46d0059c6e"></a>
@@ -13767,13 +14456,6 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 *Cave use:* self-guided tourist cave  
 
 ---  
-<a name="US-e752aa6560618a8e657cb181062a6fa4"></a>
-United States of America - Hawaii; Puna District  
-*Cave Name(s):* **Paradise Park Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=993](https://rpif.asu.edu/LTdatabase/result.php?RECNO=993)   
-
----  
 <a name="AU-ASF-3H-4"></a>
 Australia - Victoria - Newer Volcanics  
 *Cave Name(s):* **Parwan Cave** *Id:* ASF-3H-4  
@@ -13796,20 +14478,6 @@ United States of America - Oregon; Malheur County
 *Cave Name(s):* **Patton's Arch**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1217](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1217)   
-
----  
-<a name="US-a30f0f4f85248fcdc6c24830c9556d51"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **PB**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=358](https://rpif.asu.edu/LTdatabase/result.php?RECNO=358)   
-
----  
-<a name="US-081cd5aa22fce157f06e63c43231bd88"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **PE**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=359](https://rpif.asu.edu/LTdatabase/result.php?RECNO=359)   
 
 ---  
 <a name="WS-664b779d2e35983d905e062a90732133"></a>
@@ -13858,20 +14526,14 @@ Samoa - Upolu Island
 [Tarburton (2011) https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf](https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf)   
 
 ---  
-<a name="WS-888fa0403195aa14a2e84c65f6f5ffc3"></a>
-Samoa - Savaii Island  
-*Cave Name(s):* **Aopo Cave**  
+<a name="WS-285e6f9e104593c0905c274ff748cdc2"></a>
+Samoa - Savaii Island; Aopo Conservation Area  
+*Cave Name(s):* **La'auolola Cave** Laauoleola Cave; Aopo Cave; Aopo Lava Tube  
+*Length:* 5047m *Vertical extent:* 170m   
 *Cave type:* lava tunnel  
 *Contents:* birds  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=170](https://rpif.asu.edu/LTdatabase/result.php?RECNO=170)   
 [Tarburton (2011) https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf](https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf)   
-
----  
-<a name="WS-285e6f9e104593c0905c274ff748cdc2"></a>
-Samoa - Savaii Island; Aopo Conservation Area  
-*Cave Name(s):* **La'auolola Cave** Laauoleola Cave; Aopo Lava Tube  
-*Length:* 5047m *Vertical extent:* 170m   
-*Cave type:* lava tunnel  
 [https://www.showcaves.com/english/other/caves/Laauolola.html](https://www.showcaves.com/english/other/caves/Laauolola.html)   
 *Cave use:* self-guided tourist cave  
 
@@ -13901,13 +14563,6 @@ Samoa - Savaii Island
 *Contents:* birds; lake(s)  
 *Comments:* entrance is 100m diameter sinkhole  
 [Iliffe et al. (2000) https://oceancolor.gsfc.nasa.gov/staff/gene/IMAGES/iliffe.pdf](https://oceancolor.gsfc.nasa.gov/staff/gene/IMAGES/iliffe.pdf)   
-
----  
-<a name="US-dd3ebc4a30f24d5bcda11a233400ff9e"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Pear Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=360](https://rpif.asu.edu/LTdatabase/result.php?RECNO=360)   
 
 ---  
 <a name="MX-9d4dd73585d9fd56e521b45e19a1831e"></a>
@@ -14157,12 +14812,13 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=504](https://rpif.asu.edu/LTdatabase/result.php?RECNO=504)   
 
 ---  
-<a name="US-ede3bd0a4d9ceb86ae7f8615d6bcf7c6"></a>
-United States of America - Hawaii  
+<a name="US-bb7790f914bc66730c5c4819e0f444ba"></a>
+United States of America - Hawaii; Maui County - Haleakala  
 *Cave Name(s):* **Polipoli Cave**  
 *Length:* 914m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=793](https://rpif.asu.edu/LTdatabase/result.php?RECNO=793)   
+[Sorenson et al. (1999) doi:10.1098/rspb.1999.0907](https://doi.org/10.1098/rspb.1999.0907)   
 
 ---  
 <a name="US-5f02dea6f31ad817b933dc0afd0d4be3"></a>
@@ -14309,11 +14965,12 @@ United States of America - Oregon; Deschutes County - Horse Lava Tube System
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1353](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1353)   
 
 ---  
-<a name="US-9dfaa224fe947e7571334b92a2f4002c"></a>
-United States of America - Hawaii - Hawaii (Big Island)  
+<a name="US-827a6da08b783e484136a0a31cb48ac7"></a>
+United States of America - Hawaii - Hawaii (Big Island); Kilauea  
 *Cave Name(s):* **Pukalani Cave**  
 *Length:* 2048m   
 *Cave type:* lava tunnel  
+ *Part of* John Martin-Pukalani Cave System  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=940](https://rpif.asu.edu/LTdatabase/result.php?RECNO=940)   
 
 ---  
@@ -14376,18 +15033,18 @@ United States of America - Hawaii - Maui; Haleakala
 [Olson and James (1991) DOI:10.2307/40166794](https://doi.org/10.2307/40166794)   
 
 ---  
-<a name="US-b7d52855b52ec822f14db60e0cac9095"></a>
-United States of America - Hawaii - Hawaii (Big Island); Hualalai  
-*Cave Name(s):* **Puu Waa waa Ranch Cave #1**  
+<a name="US-e400d37e09352b90cad1bf0850729341"></a>
+United States of America - Hawaii - Hawaii (Big Island); Hualalai; Henahena lava tubes  
+*Cave Name(s):* **Puu Waawaa Ranch Cave #1**  
 *altitude:* 1250  
 *Length:* 100m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=869](https://rpif.asu.edu/LTdatabase/result.php?RECNO=869)   
 
 ---  
-<a name="US-448f31ddad713e6077a8378f788b39ee"></a>
-United States of America - Hawaii - Hawaii (Big Island); Hualalai  
-*Cave Name(s):* **Puu Waa waa Ranch Cave #2**  
+<a name="US-afa3ca293278f827bcfb90d4054442ba"></a>
+United States of America - Hawaii - Hawaii (Big Island); Hualalai; Henahena lava tubes  
+*Cave Name(s):* **Puu Waawaa Ranch Cave #2**  
 *altitude:* 1250  
 *Length:* 30m   
 *Cave type:* lava tunnel  
@@ -14402,88 +15059,11 @@ Iceland - Laufbalavatn cave area
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=204](https://rpif.asu.edu/LTdatabase/result.php?RECNO=204)   
 
 ---  
-<a name="US-8339cbc2c3309f69454e2641dd45a4ab"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QA**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=579](https://rpif.asu.edu/LTdatabase/result.php?RECNO=579)   
-
----  
 <a name="FJ-944bf58895d7408d6096b4ab94bbc816"></a>
 Fiji - Northern - Taveuni Island  
 *Cave Name(s):* **Qara Tabu**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1215](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1215)   
-
----  
-<a name="US-440cc8da9df3318d5b7171555c4f4ee3"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QB**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=361](https://rpif.asu.edu/LTdatabase/result.php?RECNO=361)   
-
----  
-<a name="US-3df137a798548b973ecc2ac1806a93d6"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QC**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=362](https://rpif.asu.edu/LTdatabase/result.php?RECNO=362)   
-
----  
-<a name="US-072f9e4009d736763f14bdf61b4d8d93"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QD**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=363](https://rpif.asu.edu/LTdatabase/result.php?RECNO=363)   
-
----  
-<a name="US-1d6821db5ff1aaec2ad896cfdf7f7fe6"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QE**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=364](https://rpif.asu.edu/LTdatabase/result.php?RECNO=364)   
-
----  
-<a name="US-621442e52c6656a5abc9a4577c16fb3a"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QF**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=365](https://rpif.asu.edu/LTdatabase/result.php?RECNO=365)   
-
----  
-<a name="US-2918510376d8f7530c351ec01aabf18b"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QG**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=366](https://rpif.asu.edu/LTdatabase/result.php?RECNO=366)   
-
----  
-<a name="US-07e8f561a91bedffc76670c1b10aa2ea"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QH**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=367](https://rpif.asu.edu/LTdatabase/result.php?RECNO=367)   
-
----  
-<a name="US-e2644caa9fe4923fc63caf366b5a3fed"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QJ**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=368](https://rpif.asu.edu/LTdatabase/result.php?RECNO=368)   
-
----  
-<a name="US-76ccc8846949bad227bd7956f480c01a"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QK**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=369](https://rpif.asu.edu/LTdatabase/result.php?RECNO=369)   
-
----  
-<a name="US-95c000105bf3e13d3239b2d76062582a"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QL**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=370](https://rpif.asu.edu/LTdatabase/result.php?RECNO=370)   
 
 ---  
 <a name="US-1d5269168791f265f675311542663958"></a>
@@ -14499,41 +15079,6 @@ United States of America - Oregon
 *Cave Name(s):* **QMC Lower Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1278](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1278)   
-
----  
-<a name="US-d3474fc26a83778b89c20416ce543376"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QN**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=372](https://rpif.asu.edu/LTdatabase/result.php?RECNO=372)   
-
----  
-<a name="US-75147b8d87df2dcd530ab3001acc3c00"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QP**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=373](https://rpif.asu.edu/LTdatabase/result.php?RECNO=373)   
-
----  
-<a name="US-f17897301ca96bfe41323ba0882ffd5d"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QR**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=374](https://rpif.asu.edu/LTdatabase/result.php?RECNO=374)   
-
----  
-<a name="US-fb813f4f8d850fadff941af58e495416"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QS**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=375](https://rpif.asu.edu/LTdatabase/result.php?RECNO=375)   
-
----  
-<a name="US-74ed4dfa489605ead8065e867e02b6ba"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **QT**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=376](https://rpif.asu.edu/LTdatabase/result.php?RECNO=376)   
 
 ---  
 <a name="US-8d55db1c1d0f7b5ead114385fa6f2980"></a>
@@ -14718,11 +15263,12 @@ United States of America - California; San Bernardino - Pisgah
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=381](https://rpif.asu.edu/LTdatabase/result.php?RECNO=381)   
 
 ---  
-<a name="US-d43938134451fc7b474d9e6f50958571"></a>
-United States of America - California; San Bernardino - Pisgah  
+<a name="US-0d0500874407a7e197ebda9d619d5570"></a>
+United States of America - California; San Bernardino - Pisgah; C Tube  
 *Cave Name(s):* **RC1**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=380](https://rpif.asu.edu/LTdatabase/result.php?RECNO=380)   
+[Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf](http://www.vulcanospeleology.org/articles/pisgah.pdf)   
 
 ---  
 <a name="US-1c2c431d2489c63be35cdeea2de8770a"></a>
@@ -14732,11 +15278,14 @@ United States of America - California; San Bernardino - Pisgah
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=382](https://rpif.asu.edu/LTdatabase/result.php?RECNO=382)   
 
 ---  
-<a name="US-1e37c80a4356bd2e9c1741f7867393a6"></a>
-United States of America - California; San Bernardino - Pisgah  
+<a name="US-a41b2b3cf460fe1df44710f574dca5b8"></a>
+United States of America - California; San Bernardino - Pisgah; C Tube  
 *Cave Name(s):* **RC3**  
+*Number of entrances:* 2  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=383](https://rpif.asu.edu/LTdatabase/result.php?RECNO=383)   
+[Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf](http://www.vulcanospeleology.org/articles/pisgah.pdf)   
+Harter (1972) Proc. 1st Int. Symp. Volcanospel.  
 
 ---  
 <a name="US-bbccad09b0e8152a72c7daa333a29254"></a>
@@ -14813,31 +15362,31 @@ United States of America - Oregon; Deschutes County - Horse Lava Tube System
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1360](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1360)   
 
 ---  
-<a name="US-db2eb7abf802111519fde4ad9f134727"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-4086725047938f2e130fe729a76fdac9"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Refuge Cave Feature 2077**  
 *Length:* 10m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=845](https://rpif.asu.edu/LTdatabase/result.php?RECNO=845)   
 
 ---  
-<a name="US-814f92aa82025cd2ff7a1225baab9278"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-0b1fd6f9855a545eceae702dfeaebc8f"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Refuge Cave Site 262**  
 *Length:* 125m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=840](https://rpif.asu.edu/LTdatabase/result.php?RECNO=840)   
 
 ---  
-<a name="US-454238ddb7111822215d81667b0521e4"></a>
-United States of America - Hawaii; South Kona District - Hawaii Island  
+<a name="US-c43b04e428396838fae65d81aeae4a2b"></a>
+United States of America - Hawaii; South Kona - Hawaii Island  
 *Cave Name(s):* **Refuge Cave Site 3707**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=848](https://rpif.asu.edu/LTdatabase/result.php?RECNO=848)   
 
 ---  
-<a name="US-3aaf4bfd48a8eb4b7ebca5efa1b64338"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-d37802c39dcf61c1afeaa8661971a0f5"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Refuge Cave Site 900**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=839](https://rpif.asu.edu/LTdatabase/result.php?RECNO=839)   
@@ -14851,29 +15400,29 @@ United States of America - Hawaii; Ka'u District - Hawaii Island
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=849](https://rpif.asu.edu/LTdatabase/result.php?RECNO=849)   
 
 ---  
-<a name="US-3141df36bcf19a884bfd1b84e6aa1dda"></a>
-United States of America - Hawaii; South Kona District - Hawaii Island  
+<a name="US-928ce71c4a7335f394fd819a74943e98"></a>
+United States of America - Hawaii; South Kona - Hawaii Island  
 *Cave Name(s):* **Refuge Cave Site C14-1**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=847](https://rpif.asu.edu/LTdatabase/result.php?RECNO=847)   
 
 ---  
-<a name="US-2f0970b7173d10e7367e8468804d1c7b"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-9779103522c4a6c4ae71796aa8d106b7"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Refuge Cave Site D7-27**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=844](https://rpif.asu.edu/LTdatabase/result.php?RECNO=844)   
 
 ---  
-<a name="US-99c8b26ad149811b8a9be82dd0ddb937"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-1a2666f8d63704b29a16b68cec710640"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Refuge Cave Site D8-2**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=843](https://rpif.asu.edu/LTdatabase/result.php?RECNO=843)   
 
 ---  
-<a name="US-1ef7fe0116cbe9a87241845615107378"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-846376718c3438c18575e67259ece0c5"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Refuge Cave Site D8-33**  
 *Length:* 330m   
 *Cave type:* lava tunnel  
@@ -14960,8 +15509,8 @@ Australia - Queensland - Undara
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1426](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1426)   
 
 ---  
-<a name="US-6f7d8beb26b64a702dc7ee64d66da193"></a>
-United States of America - Hawaii; North Kona District - Hawaii Island  
+<a name="US-908af977956196cedc6bb175987ff1c6"></a>
+United States of America - Hawaii; North Kona - Hawaii Island  
 *Cave Name(s):* **Roadcut Caves**  
 *Length:* 234m   
 *Cave type:* lava tunnel  
@@ -15100,11 +15649,12 @@ Japan - Mt. Fuji
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=101](https://rpif.asu.edu/LTdatabase/result.php?RECNO=101)   
 
 ---  
-<a name="US-3949f7f9104f5d87c05356cd56284725"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Russell Stewart**  
+<a name="US-2511ea52f6754960aaeaf0c481038763"></a>
+United States of America - California; San Bernardino - Pisgah; C Tube  
+*Cave Name(s):* **Russell Stewart** RS  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=387](https://rpif.asu.edu/LTdatabase/result.php?RECNO=387)   
+[Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf](http://www.vulcanospeleology.org/articles/pisgah.pdf)   
 
 ---  
 <a name="US-63f97395b959003bfeed3485091978b3"></a>
@@ -15277,13 +15827,6 @@ Fiji - Northern - Taveuni Island
 *Length:* 920m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1211](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1211)   
-
----  
-<a name="US-b8c136ad92023c3a80805be2f79a9588"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Salt Cave** S  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=388](https://rpif.asu.edu/LTdatabase/result.php?RECNO=388)   
 
 ---  
 <a name="IS-0467ce2094b588c24d6918d14ef1c20c"></a>
@@ -15638,13 +16181,6 @@ Saudi Arabia - Western - Harrat Ithnayn
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1765](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1765)   
 
 ---  
-<a name="US-9150ed3498ae78ddc397bcd3e2e2950c"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **SI**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=389](https://rpif.asu.edu/LTdatabase/result.php?RECNO=389)   
-
----  
 <a name="US-071208f9381eff1d00771f463ddac6f6"></a>
 United States of America - New Mexico; Union County  
 *Cave Name(s):* **Sierra Negras Ice Caves**  
@@ -15954,12 +16490,14 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=633](https://rpif.asu.edu/LTdatabase/result.php?RECNO=633)   
 
 ---  
-<a name="US-b2deced977fcdd3fd4fa4bcbe39e8ee7"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **SPJ**  
+<a name="US-ba33eae9863b49ac633a8f8b311a7884"></a>
+United States of America - California; San Bernardino - Pisgah; C Tube  
+*Cave Name(s):* **SPJ** C13W  
 *Length:* 396m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=390](https://rpif.asu.edu/LTdatabase/result.php?RECNO=390)   
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=296](https://rpif.asu.edu/LTdatabase/result.php?RECNO=296)   
+[Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf](http://www.vulcanospeleology.org/articles/pisgah.pdf)   
 
 ---  
 <a name="US-f5e44eb7ca09dc273f49c45a71880f09"></a>
@@ -15982,13 +16520,6 @@ Korea, Republic of - Jeju
 *Cave Name(s):* **Ssang Ryong Gul**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=672](https://rpif.asu.edu/LTdatabase/result.php?RECNO=672)   
-
----  
-<a name="US-83f5503069d89184627c03bb3879fb67"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **SSSTSS** SS  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=391](https://rpif.asu.edu/LTdatabase/result.php?RECNO=391)   
 
 ---  
 <a name="AU-ASF-4U-5"></a>
@@ -16023,53 +16554,27 @@ United States of America - Washington; Cowlitz County - Mount St. Helens
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1610](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1610)   
 
 ---  
-<a name="US-21329928aad48ec5c9723559874a8716"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Station 10 Cave**  
+<a name="US-109df0323fc6095c37e1f0fe8c71a9b8"></a>
+United States of America - California; San Bernardino - Pisgah; C Tube  
+*Cave Name(s):* **Station 7C Cave**  
 *Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=392](https://rpif.asu.edu/LTdatabase/result.php?RECNO=392)   
+Harter (1972) Proc. 1st Int. Symp. Volcanospel.  
 
 ---  
-<a name="US-6fd7bfe9a29b58566920d08bfeccca81"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Station 11 Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=393](https://rpif.asu.edu/LTdatabase/result.php?RECNO=393)   
-
----  
-<a name="US-b294b599eee71cb3aad475bb67538163"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Station 4 Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=394](https://rpif.asu.edu/LTdatabase/result.php?RECNO=394)   
-
----  
-<a name="US-cd66202ee2d2b1fb6f9b074ed94cb56f"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Station 6 Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=395](https://rpif.asu.edu/LTdatabase/result.php?RECNO=395)   
-
----  
-<a name="US-deb841169e72e69504714d0a7f877d3c"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Station 7 Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=396](https://rpif.asu.edu/LTdatabase/result.php?RECNO=396)   
-
----  
-<a name="US-5f1833102f631e0bc339108d8fc73f6a"></a>
-United States of America - California; San Bernardino - Pisgah  
+<a name="US-d4573cb9513725603475b910c3f1c88c"></a>
+United States of America - California; San Bernardino - Pisgah; C Tube  
 *Cave Name(s):* **Station 7A**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=397](https://rpif.asu.edu/LTdatabase/result.php?RECNO=397)   
+Harter (1972) Proc. 1st Int. Symp. Volcanospel.  
 
 ---  
-<a name="US-f5f80cae46979c31ca778212f8e4ab6f"></a>
-United States of America - California; San Bernardino - Pisgah  
+<a name="US-1a61418f3784575e81302ade3fdb3147"></a>
+United States of America - California; San Bernardino - Pisgah; C Tube  
 *Cave Name(s):* **Station 7B**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=398](https://rpif.asu.edu/LTdatabase/result.php?RECNO=398)   
+Harter (1972) Proc. 1st Int. Symp. Volcanospel.  
 
 ---  
 <a name="US-49425beb424a25172193846950205bfa"></a>
@@ -16377,13 +16882,6 @@ United States of America - Hawaii - Hawaii Island; Kilauea
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=799](https://rpif.asu.edu/LTdatabase/result.php?RECNO=799)   
 
 ---  
-<a name="US-dfae7fde2f296cbf793911599be00158"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TA**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=400](https://rpif.asu.edu/LTdatabase/result.php?RECNO=400)   
-
----  
 <a name="US-4753e29926a30f3773cd880ed7464f1a"></a>
 United States of America - Washington; Skamania County - Mount St. Helens  
 *Cave Name(s):* **Tadpole Cave**  
@@ -16426,34 +16924,6 @@ Japan - Nagasaki
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1164](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1164)   
 
 ---  
-<a name="US-016235dda4861afb193f033432b223da"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TB**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=401](https://rpif.asu.edu/LTdatabase/result.php?RECNO=401)   
-
----  
-<a name="US-e6d3b90a09dded36f4c715af4dc24dd5"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TC**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=402](https://rpif.asu.edu/LTdatabase/result.php?RECNO=402)   
-
----  
-<a name="US-44b7a046f3d40658d2d05eff26e1cc5f"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TD**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=403](https://rpif.asu.edu/LTdatabase/result.php?RECNO=403)   
-
----  
-<a name="US-1690842dc1fa3ddf592f2caeff07c9dd"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TE**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=404](https://rpif.asu.edu/LTdatabase/result.php?RECNO=404)   
-
----  
 <a name="US-49c39c7291a3b41c4118f188c709e0db"></a>
 United States of America - California; San Bernardino - Pisgah  
 *Cave Name(s):* **Tea Cave** T  
@@ -16461,13 +16931,7 @@ United States of America - California; San Bernardino - Pisgah
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=405](https://rpif.asu.edu/LTdatabase/result.php?RECNO=405)   
 [Harter (2009) http://www.vulcanospeleology.org/articles/pisgah.pdf](http://www.vulcanospeleology.org/articles/pisgah.pdf)   
-
----  
-<a name="US-bb77701d005c881aa5fe8411fbee0389"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Tea Too** TT  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=406](https://rpif.asu.edu/LTdatabase/result.php?RECNO=406)   
+Harter (1972) Proc. 1st Int. Symp. Volcanospel.  
 
 ---  
 <a name="US-6bd461b5295e276bad435512a23ea052"></a>
@@ -16541,27 +17005,6 @@ Australia - Queensland - Undara
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1406](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1406)   
 [Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf](http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf)   
-
----  
-<a name="US-5a942dc11df358a54c8574f3109ddf6a"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TF**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=407](https://rpif.asu.edu/LTdatabase/result.php?RECNO=407)   
-
----  
-<a name="US-c60ea2d0cccb5caa6d76fb8d22df1fa2"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TG**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=408](https://rpif.asu.edu/LTdatabase/result.php?RECNO=408)   
-
----  
-<a name="US-3b071bdff1fdcbfea242f42847cb8bbf"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TH**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=409](https://rpif.asu.edu/LTdatabase/result.php?RECNO=409)   
 
 ---  
 <a name="US-810be617b7be73d49ec731abcdcae09a"></a>
@@ -16726,13 +17169,6 @@ United States of America - Hawaii - Hawaii Island; Kilauea
 *Cave use:* self-guided tourist cave  
 
 ---  
-<a name="US-94ae8a524251cb50bb0e485cf339d729"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TI**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=410](https://rpif.asu.edu/LTdatabase/result.php?RECNO=410)   
-
----  
 <a name="US-30d9b4f2a2583e55fb061d28a6017878"></a>
 United States of America - California; Siskiyou County  
 *Cave Name(s):* **Tick City Cave**  
@@ -16786,34 +17222,6 @@ United States of America - Oregon; Malheur County
 *Cave Name(s):* **Tire Tube Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1271](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1271)   
-
----  
-<a name="US-f4fe51e177721c3f300f43c6a9b911ec"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TJ**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=411](https://rpif.asu.edu/LTdatabase/result.php?RECNO=411)   
-
----  
-<a name="US-bc6b88bf4f01869f7800cf379593930a"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TK**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=412](https://rpif.asu.edu/LTdatabase/result.php?RECNO=412)   
-
----  
-<a name="US-e693c6574fa366490bb1635e9d5a88f1"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TL**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=413](https://rpif.asu.edu/LTdatabase/result.php?RECNO=413)   
-
----  
-<a name="US-cbf524a385bd5efecc83ab6ce1aef78d"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TM**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=414](https://rpif.asu.edu/LTdatabase/result.php?RECNO=414)   
 
 ---  
 <a name="RU-5536/16010-11"></a>
@@ -16983,40 +17391,12 @@ United States of America - Washington; Skamania County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1684](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1684)   
 
 ---  
-<a name="US-bfaa8cae60e1494349674686dfc87ff1"></a>
-United States of America - Oregon; Malheur County - Pisgah  
-*Cave Name(s):* **Tooth Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1218](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1218)   
-
----  
 <a name="US-f4d1bb8d2fb4082562b6528997c66d5e"></a>
 United States of America - Washington; Skamania County  
 *Cave Name(s):* **Tooth Cave**  
 *Length:* 335m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1685](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1685)   
-
----  
-<a name="US-b2a0fe18e39edf254fd4477b38cf3ed9"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Toothsome** TS  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=415](https://rpif.asu.edu/LTdatabase/result.php?RECNO=415)   
-
----  
-<a name="US-169406af9f15a0753942a70403bbd08f"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TP**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=416](https://rpif.asu.edu/LTdatabase/result.php?RECNO=416)   
-
----  
-<a name="US-ac62d1a81b3699b14d978e519b43362d"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **TQ**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=417](https://rpif.asu.edu/LTdatabase/result.php?RECNO=417)   
 
 ---  
 <a name="US-714d62824b77635014165bffa2b0fe96"></a>
@@ -17034,13 +17414,6 @@ United States of America - Hawaii; Kilauea Forest Reserve - Hawaii (Big Island);
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=864](https://rpif.asu.edu/LTdatabase/result.php?RECNO=864)   
 [Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf](http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf)   
-
----  
-<a name="US-4ecc4d3cef526c68cc04370fa061b057"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Trapezoidal**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=418](https://rpif.asu.edu/LTdatabase/result.php?RECNO=418)   
 
 ---  
 <a name="US-b70345b76abef2c5ee296aed0614fed6"></a>
@@ -17115,8 +17488,8 @@ Australia - Victoria - Mt. Napier
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1592](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1592)   
 
 ---  
-<a name="CL-04c502314ff525f7b3fa2877f61f14e7"></a>
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui)  
+<a name="CL-a2aff3f2edb2a466a71928433fe45eea"></a>
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow  
 *Cave Name(s):* **Tunnel No. 2**  
 *altitude:* 118  
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -17124,8 +17497,8 @@ Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui)
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=223](https://rpif.asu.edu/LTdatabase/result.php?RECNO=223)   
 
 ---  
-<a name="CL-5197a0a8c42c175833b0a433793fe9a9"></a>
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui)  
+<a name="CL-74c94758ca09e70f64f193f86ed904e6"></a>
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow  
 *Cave Name(s):* **Tunnel No. 3**  
 *altitude:* 108  
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -17133,8 +17506,8 @@ Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui)
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=224](https://rpif.asu.edu/LTdatabase/result.php?RECNO=224)   
 
 ---  
-<a name="CL-cc4eaf1269e48e16708d1fa22afd406f"></a>
-Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui)  
+<a name="CL-587461b6d86f577d3db8e4f44b866f51"></a>
+Chile - Aconcagua - Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow  
 *Cave Name(s):* **Tunnel No. 4**  
 *altitude:* 100  
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -17198,13 +17571,6 @@ United States of America - Washington; Skamania County - Mount St. Helens
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1726](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1726)   
 
 ---  
-<a name="US-d6c772a208fc68ba9a78dd33edf2dace"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **U**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=419](https://rpif.asu.edu/LTdatabase/result.php?RECNO=419)   
-
----  
 <a name="JP-a5010c967b19184939fd430730433fe6"></a>
 Japan - Mt. Fuji  
 *Cave Name(s):* **Uba Ana Cave**  
@@ -17232,14 +17598,50 @@ Rwanda - Ruhengueri - Kanisimbi
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1455](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1455)   
 
 ---  
-<a name="US-d957019db1b14efe328e96e11d808dcc"></a>
-United States of America - Hawaii  
-*Cave Name(s):* **Umi'i Manu System**  
+<a name="US-18e99ce9a816e595a218bc84cd4d09e5"></a>
+United States of America - Hawaii - Hualalai; Pu'u Wa'awa'a  
+*Cave Name(s):* **Umi'i Manu (Bird Trap)**  
 *Length:* 3887m *Vertical extent:* 570m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=936](https://rpif.asu.edu/LTdatabase/result.php?RECNO=936)   
 [Gulden (2006) https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf](https://caves.org/pub/journal/PDF/V68/v68n1-Long_Deep_Caves.pdf)   
 [Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf](http://www.cavepics.com/IVS17/MEDVILLE.pdf)   
+[https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf](https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf)   
+
+---  
+<a name="US-121f7e5b69929625ded98b8a85ae7ed7"></a>
+United States of America - Hawaii - Hualalai; Pu'u Wa'awa'a  
+*Cave Name(s):* **Shangri-la Cave System**  
+*Rock type:* basalt *Cave type:* lava tunnel  
+[https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf](https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf)   
+
+---  
+<a name="US-dc9b8f1a0fb083efa3ad21902342ad56"></a>
+United States of America - Hawaii - Hualalai; Pu'u Wa'awa'a  
+*Cave Name(s):* **Petrel Cave**  
+*Rock type:* basalt *Cave type:* lava tunnel  
+[https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf](https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf)   
+
+---  
+<a name="US-93e14192c63c483938fda65e0317641d"></a>
+United States of America - Hawaii - Hualalai; Pu'u Wa'awa'a  
+*Cave Name(s):* **Yellowjacket Cave**  
+*Rock type:* basalt *Cave type:* lava tunnel  
+[https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf](https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf)   
+
+---  
+<a name="US-06fffd568fe3c4fa3fd28576d3c91d1e"></a>
+United States of America - Hawaii - Hualalai; Pu'u Wa'awa'a  
+*Cave Name(s):* **Hapuu Cave System**  
+*Rock type:* basalt *Cave type:* lava tunnel  
+[https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf](https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf)   
+
+---  
+<a name="US-7e220d65634ac85f205762d79fa7ad34"></a>
+United States of America - Hawaii - Hualalai; Pu'u Wa'awa'a  
+*Cave Name(s):* **Olapa cave system**  
+*Rock type:* basalt *Cave type:* lava tunnel  
+[https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf](https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf)   
 
 ---  
 <a name="US-1f3f335edff05e2d537ffe5c3572338a"></a>
@@ -17363,8 +17765,8 @@ Australia - Queensland - Undara
 [Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf](http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf)   
 
 ---  
-<a name="US-f72a60d4e4c5b74a74184e7474099bb2"></a>
-United States of America - Hawaii; Puna District - Hawaii Island  
+<a name="US-af7664f4f0b5d680d18ec8f020409692"></a>
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea  
 *Cave Name(s):* **Upper Uilani Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=765](https://rpif.asu.edu/LTdatabase/result.php?RECNO=765)   
@@ -17432,9 +17834,10 @@ Iceland
 ---  
 <a name="US-82dd07b0e74ac66010d1cf76e4a4d060"></a>
 United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **(Vent)**  
-*Cave type:* lava tunnel  
+*Cave Name(s):* **(Vent)** V  
+*Cave type:* lava vent  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=420](https://rpif.asu.edu/LTdatabase/result.php?RECNO=420)   
+Harter (1972) Proc. 1st Int. Symp. Volcanospel.  
 
 ---  
 <a name="US-9230055fb4bed7a95ec95d8bf2504f50"></a>
@@ -17474,13 +17877,6 @@ United States of America - Oregon; Deschutes County - Horse Lava Tube System
 *Length:* 18m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1328](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1328)   
-
----  
-<a name="US-40b4ee17f18dfefa08de09c4d686665f"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **W**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=421](https://rpif.asu.edu/LTdatabase/result.php?RECNO=421)   
 
 ---  
 <a name="KR-c2df8ff4972a656aa05f7cabcd28e14e"></a>
@@ -17682,9 +18078,9 @@ United States of America - Idaho; Blaine County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1016](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1016)   
 
 ---  
-<a name="US-d0ac5bad5ebaebc302e83e7d000e39a4"></a>
+<a name="US-7774f6648130a7c4ad55c5cc238c48ff"></a>
 United States of America - Hawaii - Kauai  
-*Cave Name(s):* **Shelter Cave (Kukui-Îula 57)**  
+*Cave Name(s):* **Shelter Cave (Kukui'ula 57)**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=951](https://rpif.asu.edu/LTdatabase/result.php?RECNO=951)   
 
@@ -17910,13 +18306,6 @@ Australia - Queensland - Undara
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1431](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1431)   
 
 ---  
-<a name="US-a2a270c670b668617988566bf49d2362"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **WOE**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=422](https://rpif.asu.edu/LTdatabase/result.php?RECNO=422)   
-
----  
 <a name="US-b201575b57f09a2299295df8eb08ea7d"></a>
 United States of America - California; San Bernardino - Pisgah  
 *Cave Name(s):* **Woodsy Owl**  
@@ -17946,13 +18335,6 @@ United States of America - New Mexico; Cibola County - El Malpais; El Calderon a
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1209](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1209)   
 *Cave use:* self-guided tourist cave  
-
----  
-<a name="US-9a2fccd8313be7aec700091edc02ad9a"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Y**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=424](https://rpif.asu.edu/LTdatabase/result.php?RECNO=424)   
 
 ---  
 <a name="US-9557d057b2bf7ba0386947c45ba29c80"></a>
@@ -18020,13 +18402,6 @@ Japan - Nagasaki
 *Length:* 41m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1172](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1172)   
-
----  
-<a name="US-658c5c00df9ea89f1f67cb30ccb2cf31"></a>
-United States of America - California; San Bernardino - Pisgah  
-*Cave Name(s):* **Ze Hole** Z  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=425](https://rpif.asu.edu/LTdatabase/result.php?RECNO=425)   
 
 ---  
 <a name="JP-c31f2fd9a70aa7124077a1aa34bab918"></a>
@@ -18264,13 +18639,14 @@ United States of America - Hawaii - Hawaii Island
 [Kensley et al. (1986) doi:10.1163/193724086X00271](https://doi.org/10.1163/193724086X00271)   
 
 ---  
-<a name="US-bd0b15c0158d2be868cede8ca9cb5463"></a>
-United States of America - Hawaii - Hawaii Island  
+<a name="US-4b9e88e3766cc7fdc5842b659931da16"></a>
+United States of America - Hawaii - Hawaii Island; Pu'u Wa'awa'a; Henahena lava tubes  
 *Cave Name(s):* **Delissea Cave System**  
 *Length:*  >64700m *Vertical extent:*  >1500m   
 *Cave type:* lava tunnel  
 [http://www.vulcanospeleology.org/newsletters/Vulcano76%20July%202020%20Hi%20ResV2.pdf](http://www.vulcanospeleology.org/newsletters/Vulcano76%20July%202020%20Hi%20ResV2.pdf)   
 [Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf](http://www.cavepics.com/IVS17/MEDVILLE.pdf)   
+[https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf](https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf)   
 
 ---  
 <a name="US-292ddf24a5d30b3d7cfcefbf1fd23f81"></a>
@@ -18282,6 +18658,7 @@ United States of America - Hawaii; Kauai
 [Burney et al. (2001) doi:10.1890/0012-9615(2001)071[0615:FEFADB]2.0.CO;2](https://doi.org/10.1890/0012-9615(2001)071[0615:FEFADB]2.0.CO;2)   
 [Burney et al. (2006) doi:10.1007/s10745-006-9015-3](https://doi.org/10.1007/s10745-006-9015-3)   
 David Burney (2011) "Back to the Future in the Caves of Kaua'i", Yale University Press, 216 pages  
+[Porch (2020) doi:10.11646/zootaxa.4868.1.8](https://doi.org/10.11646/zootaxa.4868.1.8)   
 *Cave use:* guided tourist cave  
 
 ---  
@@ -18295,8 +18672,8 @@ United States of America - Hawaii; Kau District - Hawaii Island; South Point; Ma
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=798](https://rpif.asu.edu/LTdatabase/result.php?RECNO=798)   
 
 ---  
-<a name="US-4f5129e77586035ac81fb3040e392806"></a>
-United States of America - Hawaii - Mauna Loa  
+<a name="US-2cbeff699b818aed956c5d94c75c9896"></a>
+United States of America - Hawaii - Hawaii Island; Mauna Loa  
 *Cave Name(s):* **Keokeo Cave System**  
 *Length:*  ~40600m *Vertical extent:*  ~2200m *Number of entrances:* >500  
 *Cave type:* lava tunnel  
@@ -18343,12 +18720,22 @@ United States of America - Hawaii - Hawaii Island; Hualalai
 [Halliday (1994) http://www.vulcanospeleology.org/sym07/ISV7x08.pdf](http://www.vulcanospeleology.org/sym07/ISV7x08.pdf)   
 
 ---  
-<a name="US-bf5a3b222a3a4d3294509e6d85efe06f"></a>
+<a name="US-8cd53eb0dcdc447321aac82d1bfe253c"></a>
 United States of America - Hawaii - Hawaii (Big Island); Kilauea  
-*Cave Name(s):* **Olaa Cave**  
-*Length:* 6070m *Vertical extent:* 221m   
+*Cave Name(s):* **Ola'a Cave**  
+*Length:* 11751m   
 *Rock type:* basalt *Cave type:* lava tunnel  
+ *Part of* [Kazumura Cave](#US-de4bd354b15708182d9f1c5c0a532ca6)  
 [Bunnell and Liebman (1992) http://www.vulcanospeleology.org/sym06/ISV6x06.pdf](http://www.vulcanospeleology.org/sym06/ISV6x06.pdf)   
+Allred and Allred (1997) J. Cave Karst Stds. 59, 67-80  
+
+---  
+<a name="US-60-03-290"></a>
+United States of America - Hawaii; Maui County - Molokai  
+*Cave Name(s):* **Ananaluawahine Cave** *Id:* 60-03-290  
+*Cave type:* lava tunnel  
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=828](https://rpif.asu.edu/LTdatabase/result.php?RECNO=828)   
+[McCoy (2008) doi:10.2984/1534-6188(2008)62[21:HLHIHP]2.0.CO;2](https://doi.org/10.2984/1534-6188(2008)62[21:HLHIHP]2.0.CO;2)   
 
 ---  
 <a name="US-deaf2078baa72eeb63c58e0fd5629d08"></a>
@@ -18380,15 +18767,6 @@ United States of America - Hawaii; Maui County - Molokai; Pakaupapa peninsula
 Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32  
 
 ---  
-<a name="US-94918da5a3d248b2b5bdbb7eb6cff6b9"></a>
-United States of America - Hawaii; Maui County - Molokai  
-*Cave Name(s):* **Kaupikiawa Cave System**  
-*Rock type:* basalt *Cave type:* lava tunnel  
-[Coombs et al. (1990) http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1990LPSC...20..195C](http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1990LPSC...20..195C)   
-Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32  
-  *Data curation:* this might just be a group of caves rather than connected caves  
-
----  
 <a name="US-4943ec739c38e2605e805713a1a23861"></a>
 United States of America - Hawaii; Maui County - Molokai  
 *Cave Name(s):* **Old Ladies' Cave** Old Lady Cave  
@@ -18398,13 +18776,15 @@ United States of America - Hawaii; Maui County - Molokai
 Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32  
 
 ---  
-<a name="US-5f1011bfbc5c3e6a1290fbffa6562014"></a>
-United States of America - Hawaii; Maui County; Kalaupapa Natl. Hist. Park - Molokai; Kaupikiawa Cave Sytem  
-*Cave Name(s):* **Fisherman's Shack Cave #1** Kaupikiawa Cave; Cave #312  
+<a name="US-60-03-312"></a>
+United States of America - Hawaii; Maui County - Molokai; Kaupikiawa Cave Sytem; Kalaupapa Natl. Hist. Park  
+*Cave Name(s):* **Kaupikiawa Cave** Fisherman's Shack Cave #1; Cave #312 *Id:* 60-03-312  
 *Cave type:* lava tunnel  
 [Howarth et al. (2020) http://hbs.bishopmuseum.org/pubs-online/pdf/op129p37-54.pdf](http://hbs.bishopmuseum.org/pubs-online/pdf/op129p37-54.pdf)   
 [Hoch and Howarth (1999) doi:10.1111/j.1096-3642.1999.tb01381.x](https://doi.org/10.1111/j.1096-3642.1999.tb01381.x)   
 Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32  
+[McCoy (2005) http://hdl.handle.net/10125/2931](http://hdl.handle.net/10125/2931)   
+[McCoy (2008) doi:10.2984/1534-6188(2008)62[21:HLHIHP]2.0.CO;2](https://doi.org/10.2984/1534-6188(2008)62[21:HLHIHP]2.0.CO;2)   
 
 ---  
 <a name="VN-e4e0b8742911bfff10e7cd340a14435e"></a>

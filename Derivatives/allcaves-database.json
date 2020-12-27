@@ -6622,7 +6622,7 @@
       "altitude": "~1045",
       "length": 165,
       "vertical-extent": 81,
-      "rock-type": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": [],
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
@@ -6633,13 +6633,15 @@
       "state-or-province": [],
       "phys-area-name": "Crimea",
       "principal-cave-name": "Tryekhglazka Cave",
-      "other-cave-name": "Ledovaya Vorontsovskaya Cave",
+      "other-cave-name": "Ledovaya",
+      "other-cave-name": "Vorontsovskaya Cave",
       "latitude": 44.453,
       "longitude": 34.054,
       "altitude": "~1200",
       "length": [],
       "vertical-extent": [],
-      "rock-type": [],
+      "number-of-entrances": 3,
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": [],
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
@@ -6837,24 +6839,7 @@
     {
       "country-name": "Russia",
       "state-or-province": [],
-      "phys-area-name": "Urals",
-      "principal-cave-name": "Eranka",
-      "other-cave-name": [],
-      "latitude": [],
-      "longitude": [],
-      "altitude": [],
-      "length": 500,
-      "vertical-extent": [],
-      "rock-type": [],
-      "contents": "permanent ice",
-      "comments": [],
-      "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
-    },
-
-    {
-      "country-name": "Russia",
-      "state-or-province": [],
-      "phys-area-name": "Urals",
+      "phys-area-name": "Ural Mountains",
       "principal-cave-name": "Ylasyn",
       "other-cave-name": [],
       "latitude": [],
@@ -6871,7 +6856,7 @@
     {
       "country-name": "Russia",
       "state-or-province": [],
-      "phys-area-name": "Urals",
+      "phys-area-name": "Ural Mountains",
       "principal-cave-name": "Oktyabr'skaya",
       "other-cave-name": [],
       "latitude": [],
@@ -6888,7 +6873,7 @@
     {
       "country-name": "Russia",
       "state-or-province": [],
-      "phys-area-name": "Urals",
+      "phys-area-name": "Northern Ural",
       "principal-cave-name": "Ordinskaya",
       "other-cave-name": [],
       "latitude": [],
@@ -6905,7 +6890,7 @@
     {
       "country-name": "Russia",
       "state-or-province": [],
-      "phys-area-name": "Urals",
+      "phys-area-name": "Northern Ural",
       "principal-cave-name": "Uinskaya Ledyanaya",
       "other-cave-name": [],
       "latitude": [],
@@ -6976,13 +6961,13 @@
       "state-or-province": [],
       "phys-area-name": "Northern Ural",
       "principal-cave-name": "Yeranka Cave",
-      "other-cave-name": [],
+      "other-cave-name": "Eranka Cave",
       "latitude": [],
       "longitude": [],
       "altitude": [],
       "length": 500,
       "vertical-extent": [],
-      "rock-type": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": [],
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
@@ -6999,9 +6984,9 @@
       "altitude": [],
       "length": 60,
       "vertical-extent": [],
-      "rock-type": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": [],
+      "comments": "Lower Permian",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -7018,7 +7003,7 @@
       "vertical-extent": 7,
       "rock-type": [],
       "contents": "permanent ice",
-      "comments": [],
+      "comments": "mineral ikaite found",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -7031,11 +7016,11 @@
       "latitude": [],
       "longitude": [],
       "altitude": 275,
-      "length": 1000,
-      "vertical-extent": [],
-      "rock-type": [],
+      "length": "~1000",
+      "vertical-extent": "~47",
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": [],
+      "comments": "Lower Carboniferous",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
     },
 
@@ -7050,29 +7035,32 @@
       "altitude": [],
       "length": "~5700",
       "vertical-extent": [],
-      "rock-type": [],
+      "rock-type": "gypsum",
       "contents": "permanent ice",
       "comments": "ice stalagmites, perennial sublimation crystals, ice curtain-flags",
-      "comments": [],
+      "comments": "host rock consits mainly of gypsums and anhydrites",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7",
       "reference": "https://en.wikipedia.org/wiki/Kungur_Ice_Cave"
     },
 
     {
       "country-name": "Russia",
-      "state-or-province": [],
-      "phys-area-name": "Northern Ural",
+      "state-or-province": "Bashkortostan",
+      "phys-area-name": "Southern Ural; Askin River Valley",
       "principal-cave-name": "Askinskaya Cave",
-      "other-cave-name": [],
+      "other-cave-name": "Askyn Ice Cave",
+      "other-cave-name": "Askynskaya Ice Cave",
       "latitude": [],
       "longitude": [],
-      "altitude": [],
-      "length": 230,
-      "vertical-extent": [],
+      "altitude": "~200",
+      "length": 206,
+      "vertical-extent": 34,
       "rock-type": [],
       "contents": "permanent ice",
       "comments": [],
-      "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
+      "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7",
+      "reference": "Sokolov (2020) DOI:10.31084/2619-0087/2020-3-11",
+      "reference": "Chervyatsova et al. (2019) Cave and Karst Sci. 46(1), 13-24"
     },
 
     {
@@ -7094,13 +7082,13 @@
 
     {
       "country-name": "Russia",
-      "state-or-province": [],
+      "state-or-province": "Bashkortostan",
       "phys-area-name": "Southern Ural",
       "principal-cave-name": "Kutukskaya-1",
       "other-cave-name": [],
       "latitude": [],
       "longitude": [],
-      "altitude": [],
+      "altitude": 610,
       "length": 520,
       "vertical-extent": [],
       "rock-type": [],
@@ -7291,7 +7279,8 @@
       "altitude": [],
       "length": 5700,
       "vertical-extent": 77,
-      "rock-type": [],
+      "rock-type": "limestone",
+      "rock-type": "dolomite",
       "contents": "permanent ice",
       "comments": [],
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
@@ -7333,7 +7322,7 @@
 
     {
       "country-name": "Russia",
-      "state-or-province": [],
+      "state-or-province": "Primorskij",
       "phys-area-name": "Far East of Russia",
       "principal-cave-name": "Priiskovaya Cave",
       "other-cave-name": "Sinegorskaya-2",
@@ -7385,7 +7374,7 @@
 
     {
       "country-name": "Russia",
-      "state-or-province": [],
+      "state-or-province": "Primorskij",
       "phys-area-name": "Far East of Russia",
       "principal-cave-name": "Ledyanaya Malyutka Cave",
       "other-cave-name": [],
@@ -7402,7 +7391,7 @@
 
     {
       "country-name": "Russia",
-      "state-or-province": [],
+      "state-or-province": "Khabarovskij",
       "phys-area-name": "Far East of Russia",
       "principal-cave-name": "Cave Abagy-Dzhe",
       "other-cave-name": "Zhilishche Chyerta",
@@ -7420,7 +7409,7 @@
 
     {
       "country-name": "Russia",
-      "state-or-province": [],
+      "state-or-province": "Khabarovskij",
       "phys-area-name": "Far East of Russia",
       "principal-cave-name": "Steregushee Kop'ye Cave",
       "other-cave-name": [],
@@ -7429,7 +7418,7 @@
       "altitude": 220,
       "length": 1100,
       "vertical-extent": 35,
-      "rock-type": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "icings; snow; sublimation crystals",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7"
@@ -7678,7 +7667,7 @@
       "branch-name": "Ledopadnaya",
       "branch-name": "Festival'naya",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
-      "reference": "Tsurikhin et al. (2014) Cave and Karst Sci. 41(1), 36"
+      "reference": "Tsurikhin et al. (2014) DOI:10.1002/CaKS.2639"
     },
 
     {
@@ -7696,7 +7685,8 @@
       "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "numerous frozen lakes, frozen streams, frozen waterfalls, sublimation crystals",
-      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
+      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
+      "reference": "Tsurikhin et al. (2014) DOI:10.1002/CaKS.2639"
     },
 
     {
@@ -7712,7 +7702,8 @@
       "vertical-extent": [],
       "contents": "permanent ice",
       "comments": [],
-      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
+      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
+      "reference": "Tsurikhin et al. (2014) DOI:10.1002/CaKS.2639"
     },
 
     {
@@ -8570,9 +8561,11 @@
       "phys-area-name": "El Malpais region",
       "principal-cave-name": "Candelaria Ice Cave",
       "other-cave-name": "Cerro Candelaria",
+      "other-cave-name": "Bandera Volcano Ice Cave",
+      "other-cave-name": "Zuni Ice Cave",
       "latitude": [],
       "longitude": [],
-      "altitude": "~2400",
+      "altitude": 2393,
       "length": 12300,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -8580,23 +8573,7 @@
       "comments": "ice deposit estimated to be 3kyr old",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1193",
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
-      "reference": "Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "New Mexico",
-      "phys-area-name": "El Malpais National Monument",
-      "principal-cave-name": "Bandera Volcano Ice Cave",
-      "other-cave-name": "Zuni Ice Cave",
-      "latitude": [],
-      "longitude": [],
-      "altitude": [],
-      "length": [],
-      "vertical-extent": [],
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "contents": "permanent ice",
+      "reference": "Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156",
       "reference": "https://en.wikipedia.org/wiki/Bandera_Volcano_Ice_Cave"
     },
 
@@ -8618,7 +8595,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Lava Beds National Monument",
+      "phys-area-name": "Lava Beds National Monument; Mammoth Crater",
       "principal-cave-name": "Heppe Ice Cave",
       "other-cave-name": "Heppe Caves",
       "altitude": 1609,
@@ -9616,11 +9593,12 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea; Mauna Ulu",
       "principal-cave-name": "Apua Cave",
       "length": 1340,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
+      "comments": "1973 lava",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=783"
     },
 
@@ -10564,7 +10542,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Blami Cave",
       "other-cave-name": "Blue Mineral Cave",
       "length": 913,
@@ -10588,7 +10566,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Blindgtuhellir",
       "other-cave-name": "Blind Cave",
       "other-cave-name": "Blindgata",
@@ -10926,10 +10904,17 @@
       "state-or-province": "Azores",
       "phys-area-name": "Ilha de Terceira",
       "principal-cave-name": "Gruta do Natal",
+      "other-cave-name": "Gruta do Cavalo",
+      "other-cave-name": "Galeria Negra",
+      "latitude": 38.79111,
+      "longitude": -27.29917,
       "altitude": 551,
       "length": 697,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "Riquelme et al. (2015) doi:10.1093/femsec/fiv141"
+      "reference": "Riquelme et al. (2015) doi:10.1093/femsec/fiv141",
+      "reference": "https://en.wikipedia.org/wiki/Gruta_do_Natal",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -12189,6 +12174,7 @@
       "state-or-province": "Malheur County",
       "principal-cave-name": "Coyote Trap Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1228"
     },
@@ -12808,7 +12794,7 @@
     {
       "country-name": "Spain",
       "state-or-province": "Las Palmas",
-      "phys-area-name": "Lanzarote",
+      "phys-area-name": "Canary Islands; Lanzarote",
       "principal-cave-name": "Cueva de las Palomas",
       "length": [],
       "cave-type": "lava tunnel",
@@ -12848,7 +12834,7 @@
     {
       "country-name": "Spain",
       "state-or-province": "Las Palmas",
-      "phys-area-name": "Lanzarote",
+      "phys-area-name": "Canary Islands; Lanzarote",
       "principal-cave-name": "Cueva de los Naturalistas",
       "length": 2250,
       "cave-type": "lava tunnel",
@@ -12907,7 +12893,7 @@
 
     {
       "country-name": "Spain",
-      "state-or-province": "La Palmas",
+      "state-or-province": "Las Palmas",
       "phys-area-name": "Canary Islands; Lanzarote",
       "principal-cave-name": "Cueva de los Verdes",
       "other-cave-name": "Corona Lava Tube",
@@ -13217,7 +13203,7 @@
     {
       "country-name": "Spain",
       "state-or-province": "Las Palmas",
-      "phys-area-name": "Fuertoventura",
+      "phys-area-name": "Canary Islands; Fuerteventura",
       "principal-cave-name": "Cueva del Llano",
       "length": 488,
       "cave-type": "lava tunnel",
@@ -13986,10 +13972,12 @@
       "state-or-province": "Oregon",
       "state-or-province": "Lake County",
       "principal-cave-name": "Derrick Cave",
-      "length": [],
+      "length": "~370",
+      "vertical-extent": 16,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1250"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1250",
+      "reference": "https://en.wikipedia.org/wiki/Derrick_Cave"
     },
 
     {
@@ -14119,6 +14107,7 @@
       "phys-area-name": "Hawaii (Big Island)",
       "principal-cave-name": "Dodge cave",
       "length": 760,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=855"
     },
@@ -14224,8 +14213,8 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
-      "principal-cave-name": "Drlahellir",
+      "phys-area-name": "Eldhraun",
+      "principal-cave-name": "Drílahellir",
       "other-cave-name": "Driblet Cave",
       "length": 225,
       "rock-type": "basalt",
@@ -14683,8 +14672,8 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
-      "principal-cave-name": "Fldhellir",
+      "phys-area-name": "Eldhraun",
+      "principal-cave-name": "Flóðhellir",
       "other-cave-name": "Flood Cave",
       "length": 982,
       "rock-type": "basalt",
@@ -15811,11 +15800,106 @@
     {
       "country-name": "Tanzania",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Kilimanjaro; Kibo Tubes",
       "principal-cave-name": "Grotte H. Meyer Supenieur",
+      "other-cave-name": "Obere H. Meyer Höhle",
+      "altitude": "~5250",
       "length": 9,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=162"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=162",
+      "reference": "Bernasconi (1969) Abh. 5. Int. Kongr. Spel. Stuttgart, Bd. 2, S21"
+    },
+
+    {
+      "country-name": "Tanzania",
+      "state-or-province": [],
+      "phys-area-name": "Kilimanjaro; Kibo Tubes",
+      "principal-cave-name": "KT 011",
+      "altitude": 4598,
+      "length": 17,
+      "cave-type": "lava tunnel",
+      "reference": "Kilimanjaro Caving 2011: Expedition Report https://vincentcheville.files.wordpress.com/2013/02/report_kilimanjaro_caving2011.pdf"
+    },
+
+    {
+      "country-name": "Tanzania",
+      "state-or-province": [],
+      "phys-area-name": "Kilimanjaro; Kibo Tubes",
+      "principal-cave-name": "KT 016",
+      "altitude": 4763,
+      "length": 50,
+      "cave-type": "lava tunnel",
+      "reference": "Kilimanjaro Caving 2011: Expedition Report https://vincentcheville.files.wordpress.com/2013/02/report_kilimanjaro_caving2011.pdf"
+    },
+
+    {
+      "country-name": "Tanzania",
+      "state-or-province": [],
+      "phys-area-name": "Kilimanjaro; Kibo Tubes",
+      "principal-cave-name": "KT 017",
+      "altitude": 4686,
+      "length": 40,
+      "cave-type": "lava tunnel",
+      "reference": "Kilimanjaro Caving 2011: Expedition Report https://vincentcheville.files.wordpress.com/2013/02/report_kilimanjaro_caving2011.pdf"
+    },
+
+    {
+      "country-name": "Tanzania",
+      "state-or-province": [],
+      "phys-area-name": "Kilimanjaro; Kibo Tubes",
+      "principal-cave-name": "KT 018",
+      "altitude": 4728,
+      "length": 30,
+      "cave-type": "lava tunnel",
+      "reference": "Kilimanjaro Caving 2011: Expedition Report https://vincentcheville.files.wordpress.com/2013/02/report_kilimanjaro_caving2011.pdf"
+    },
+
+    {
+      "country-name": "Tanzania",
+      "state-or-province": [],
+      "phys-area-name": "Kilimanjaro; Mawenzi Tubes",
+      "principal-cave-name": "Tube M",
+      "altitude": "4391 upper entrance",
+      "altitude": "4378 lower entrance",
+      "length": 49,
+      "number-of-entrances": 2,
+      "cave-type": "lava tunnel",
+      "reference": "Kilimanjaro Caving 2011: Expedition Report https://vincentcheville.files.wordpress.com/2013/02/report_kilimanjaro_caving2011.pdf"
+    },
+
+    {
+      "country-name": "Tanzania",
+      "state-or-province": [],
+      "phys-area-name": "Kilimanjaro; Mawenzi Tubes",
+      "principal-cave-name": "Tube N",
+      "altitude": 4323,
+      "length": 50,
+      "cave-type": "lava tunnel",
+      "reference": "Kilimanjaro Caving 2011: Expedition Report https://vincentcheville.files.wordpress.com/2013/02/report_kilimanjaro_caving2011.pdf"
+    },
+
+    {
+      "country-name": "Tanzania",
+      "state-or-province": [],
+      "phys-area-name": "Kilimanjaro; Mawenzi Tubes",
+      "principal-cave-name": "Lava Tube A",
+      "altitude": 4230,
+      "altitude": 4282,
+      "length": 41,
+      "cave-type": "lava tunnel",
+      "reference": "Ward (1998) doi:10.5038/1827-806X.27.1.5"
+    },
+
+    {
+      "country-name": "Tanzania",
+      "state-or-province": [],
+      "phys-area-name": "Kilimanjaro; Mawenzi Tubes",
+      "principal-cave-name": "Lava Tube D",
+      "altitude": 4230,
+      "altitude": 4280,
+      "length": 80,
+      "cave-type": "lava tunnel",
+      "reference": "Ward (1998) doi:10.5038/1827-806X.27.1.5"
     },
 
     {
@@ -15874,7 +15958,7 @@
     {
       "country-name": "Portugal",
       "state-or-province": "Azores",
-      "phys-area-name": "Sao Jorge",
+      "phys-area-name": "Sao Jorge Island",
       "principal-cave-name": "Gruta da Ribeira do Almeida",
       "length": [],
       "cave-type": "lava tunnel",
@@ -15911,13 +15995,17 @@
     {
       "country-name": "Portugal",
       "state-or-province": "Azores",
-      "phys-area-name": [],
+      "phys-area-name": "Ilha de Terceira",
       "principal-cave-name": "Gruta dos Balcoes",
+      "other-cave-name": "Gruta dos Balcões",
+      "latitude": 38.76,
+      "longitude": -27.25,
       "altitude": 422,
       "length": 4421,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=261",
-      "reference": "Riquelme et al. (2015) doi:10.1093/femsec/fiv141"
+      "reference": "Riquelme et al. (2015) doi:10.1093/femsec/fiv141",
+      "reference": "http://ropewiki.com/Gruta_dos_Balcoes"
     },
 
     {
@@ -15967,14 +16055,17 @@
     {
       "country-name": "Indonesia",
       "state-or-province": "Java",
-      "phys-area-name": "Java",
+      "phys-area-name": "Java; Mount Slamet",
       "principal-cave-name": "Gua Lawa",
+      "other-cave-name": "Bat Cave",
       "latitude": -7.2314,
       "longitude": 109.3175,
       "altitude": 936,
-      "length": [],
+      "length": 1300,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1107"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1107",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -16147,7 +16238,8 @@
       "other-cave-name": "Cave of Refuge",
       "length": 206,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=737"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=737",
+      "reference": "Kempe et al. (1993) Pacific Studies 16(2), 133-146"
     },
 
     {
@@ -16940,7 +17032,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
-      "phys-area-name": [],
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Iceberg Cave #2",
       "length": [],
       "cave-type": "lava tunnel",
@@ -19817,6 +19909,7 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "near Chain of Craters Road; flow of 1971",
+      "comments": "Three caves that are remnants of a tube",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=785"
     },
 
@@ -19828,6 +19921,7 @@
       "length": 780,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
+      "comments": "1974 lava",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=782"
     },
 
@@ -19868,6 +19962,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands; Mammoth Crater",
       "principal-cave-name": "Maze Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -19898,6 +19993,7 @@
       "country-name": "United States of America",
       "state-or-province": "Arizona",
       "state-or-province": "Coconino County",
+      "phys-area-name": "San Franciscan",
       "principal-cave-name": "Medicine Cave",
       "length": 56,
       "cave-type": "lava tunnel",
@@ -20188,6 +20284,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Shasta",
       "principal-cave-name": "Moon Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -21861,11 +21958,13 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Shasta",
       "principal-cave-name": "Pluto's Cave",
       "length": 805,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=619"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=619",
+      "reference": "https://en.wikipedia.org/wiki/Pluto%27s_Cave"
     },
 
     {
@@ -22623,7 +22722,7 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii Island",
-      "principal-cave-name": "Refuge Cave Feature 2077",
+      "principal-cave-name": "Refuge Cave Site 2077",
       "length": 10,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=845"
@@ -22641,62 +22740,12 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; South Kona",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
-      "principal-cave-name": "Refuge Cave Site 3707",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=848"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona",
-      "phys-area-name": "Hawaii Island",
-      "principal-cave-name": "Refuge Cave Site 900",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=839"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Hawaii; Ka'u District",
       "phys-area-name": "Hawaii Island",
       "principal-cave-name": "Refuge Cave Site B17-8",
       "length": 430,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=849"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii; South Kona",
-      "phys-area-name": "Hawaii Island",
-      "principal-cave-name": "Refuge Cave Site C14-1",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=847"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona",
-      "phys-area-name": "Hawaii Island",
-      "principal-cave-name": "Refuge Cave Site D7-27",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=844"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona",
-      "phys-area-name": "Hawaii Island",
-      "principal-cave-name": "Refuge Cave Site D8-2",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=843"
     },
 
     {
@@ -22790,6 +22839,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Shasta",
       "principal-cave-name": "Road Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -22984,7 +23034,7 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
-      "phys-area-name": [],
+      "phys-area-name": "Pukeiti",
       "principal-cave-name": "Rubbish Pit Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -23039,51 +23089,67 @@
     {
       "country-name": "Iceland",
       "state-or-province": "Vestmannaeyjar",
-      "phys-area-name": "Surtsey Jarhraun",
+      "phys-area-name": "Surtsey Island",
       "principal-cave-name": "S-1",
+      "other-cave-name": "SU-01",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=31"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=31",
+      "reference": "Jonsson et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x20.pdf"
     },
 
     {
       "country-name": "Iceland",
       "state-or-province": "Vestmannaeyjar",
-      "phys-area-name": "Surtsey Jarhraun",
+      "phys-area-name": "Surtsey Island",
       "principal-cave-name": "S-2",
-      "length": [],
+      "other-cave-name": "SU-02",
+      "length": 7,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=32"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=32",
+      "reference": "Jonsson et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x20.pdf",
+      "curation": "The name SU-02 was also used for another cave, now destroyed"
     },
 
     {
       "country-name": "Iceland",
       "state-or-province": "Vestmannaeyjar",
-      "phys-area-name": "Surtsey Jarhraun",
+      "phys-area-name": "Surtsey Island",
       "principal-cave-name": "S-3",
+      "other-cave-name": "SU-03",
       "length": 181,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=34"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=34",
+      "reference": "Jonsson et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x20.pdf"
     },
 
     {
       "country-name": "Iceland",
       "state-or-province": "Vestmannaeyjar",
-      "phys-area-name": [],
-      "principal-cave-name": "S-4",
+      "phys-area-name": "Surtsey Island",
+      "principal-cave-name": "Grillid (Cave S-4)",
+      "other-cave-name": "SU-04",
+      "latitude": 63.30000,
+      "longitude": -20.58333,
       "length": 137,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=33"
+      "contents": "minerals",
+      "reference": "https://www.mindat.org/loc-204560.html",
+      "reference": "Forti (2005) https://caves.org/pub/journal/PDF/V67/v67n1-Forti.pdf",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=33",
+      "reference": "Jonsson et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x20.pdf"
     },
 
     {
       "country-name": "Iceland",
       "state-or-province": "Vestmannaeyjar",
-      "phys-area-name": "Surtsey Jarhraun",
+      "phys-area-name": "Surtsey Island",
       "principal-cave-name": "S-6",
+      "other-cave-name": "SU-06",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=35"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=35",
+      "reference": "Jonsson et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x20.pdf"
     },
 
     {
@@ -23287,16 +23353,6 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1720"
-    },
-
-    {
-      "country-name": "New Zealand",
-      "state-or-province": "Auckland City",
-      "phys-area-name": [],
-      "principal-cave-name": "Sanders Quarry Caves",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=145"
     },
 
     {
@@ -24829,6 +24885,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Shasta",
       "principal-cave-name": "Temple Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -25205,7 +25262,7 @@
     {
       "country-name": "Russia",
       "state-or-province": "Kamchatka",
-      "phys-area-name": "South Tolbachik",
+      "phys-area-name": "Tolbachik",
       "principal-cave-name": "To-9607",
       "cave-id": "5536/16010-6",
       "latitude": 55.60438,
@@ -25222,6 +25279,7 @@
       "state-or-province": "Kamchatka",
       "phys-area-name": "Tolbachik",
       "principal-cave-name": "To-9608",
+      "cave-id": "5536/16010-5",
       "length": 23,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1128"
@@ -25470,7 +25528,7 @@
     {
       "country-name": "Spain",
       "state-or-province": "Las Palmas",
-      "phys-area-name": "Lanzarote; Canary Islands",
+      "phys-area-name": "Canary Islands; Lanzarote",
       "principal-cave-name": "Tunel de la Atlantida",
       "length": 1570,
       "cave-type": "lava tunnel",
@@ -25784,7 +25842,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Uppáhellir",
       "other-cave-name": "Brew Cave",
       "length": 380,
@@ -25808,7 +25866,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Lava Beds National Monument",
+      "phys-area-name": "Lava Beds National Monument; Mammoth Crater",
       "principal-cave-name": "Upper Ice Cave",
       "length": [],
       "rock-type": "basalt",
@@ -26589,6 +26647,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Shasta",
       "principal-cave-name": "Wind Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -26919,19 +26978,6 @@
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=137",
       "reference": "http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf"
-    },
-
-    {
-      "country-name": "Iceland",
-      "state-or-province": [],
-      "phys-area-name": "Surtsey Island",
-      "principal-cave-name": "Grillid (Cave S-4)",
-      "latitude": 63.30000,
-      "longitude": -20.58333,
-      "cave-type": "lava tunnel",
-      "contents": "minerals",
-      "reference": "https://www.mindat.org/loc-204560.html",
-      "reference": "Forti (2005) https://caves.org/pub/journal/PDF/V67/v67n1-Forti.pdf"
     },
 
     {
@@ -27344,6 +27390,37 @@
       "reference": "Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32",
       "reference": "McCoy (2005) http://hdl.handle.net/10125/2931",
       "reference": "McCoy (2008) doi:10.2984/1534-6188(2008)62[21:HLHIHP]2.0.CO;2"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Hawaii Island; Kilauea; 17 Mile Crack",
+      "principal-cave-name": "Pit H Cave",
+      "other-cave-name": [],
+      "altitude": [],
+      "length": 600,
+      "vertical-extent": 183,
+      "rock-type": "basalt",
+      "cave-type": "misc. type",
+      "contents": [],
+      "reference": "Halliday (2002) AMCS Bull. 19, 57-63"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Hawaii Island; Kilauea; 17 Mile Crack",
+      "principal-cave-name": "Wood Valley Pit Crater Complex",
+      "other-cave-name": [],
+      "altitude": [],
+      "length": [],
+      "vertical-extent": "~90",
+      "rock-type": "basalt",
+      "cave-type": "misc. type",
+      "contents": [],
+      "comments": "includes tube segments",
+      "reference": "Halliday (2002) AMCS Bull. 19, 57-63"
     },
 
     {

@@ -20,6 +20,7 @@
       <reference>Obleitner and Spötl (2011) doi:10.5194/tc-5-245-2011</reference>
       <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
       <reference>Margesin et al. (2004) doi:10.1099/ijs.0.63124-0</reference>
+      <reference>Schöner et al. (2011) doi:10.5194/tc-5-603-2011</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -412,7 +413,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province>Myrasysla County</state-or-province>
-      <phys-area-name>Hallmundahraun lava flow</phys-area-name>
+      <phys-area-name>Hallmundarhraun</phys-area-name>
       <principal-cave-name>Surtshellir</principal-cave-name>
       <other-cave-name>Surtshellir-Stefanshellir Cave System</other-cave-name>
       <latitude/>
@@ -430,7 +431,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province>Myrasysla County</state-or-province>
-      <phys-area-name>Hallmundahraun lava flow</phys-area-name>
+      <phys-area-name>Hallmundarhraun</phys-area-name>
       <principal-cave-name>Víðgelmir</principal-cave-name>
       <other-cave-name/>
       <latitude>64.75028</latitude>
@@ -450,7 +451,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Ketildyngjuhraun</phys-area-name>
       <principal-cave-name>Lofthellir</principal-cave-name>
       <other-cave-name>Lofthellir Ice Cave</other-cave-name>
       <cave-id>KED-01</cave-id>
@@ -5891,12 +5892,12 @@
    </record>
    <record>
       <country-name>Switzerland</country-name>
-      <state-or-province/>
+      <state-or-province></state-or-province>
       <phys-area-name>Vanil Noir massif</phys-area-name>
       <principal-cave-name>Diablotins Ice Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude>45.50639</latitude>
-      <longitude>13.61</longitude>
+      <other-cave-name>Gouffre des Diablotins</other-cave-name>
+      <latitude></latitude>
+      <longitude></longitude>
       <altitude>2092 upper entrance</altitude>
       <altitude>2007 lower entrance</altitude>
       <length/>
@@ -7538,7 +7539,7 @@
       <country-name>Canada</country-name>
       <state-or-province>Alberta</state-or-province>
       <phys-area-name>Crowsnest Pass</phys-area-name>
-      <principal-cave-name>Serendipity</principal-cave-name>
+      <principal-cave-name>Serendipity Cave</principal-cave-name>
       <other-cave-name/>
       <latitude/>
       <longitude/>
@@ -7547,9 +7548,9 @@
       <vertical-extent/>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments>Extrusion ice</comments>
-      <comments>permafrost</comments>
+      <comments>Extrusion ice; permafrost</comments>
       <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
+      <reference>Yonge and MacDonald (2014) Proc. Int. Wrkshp. Ice Caves VI https://core.ac.uk/download/pdf/154463994.pdf#page=42</reference>
    </record>
    <record>
       <country-name>Canada</country-name>
@@ -7753,7 +7754,7 @@
    </record>
    <record>
       <country-name>Canada</country-name>
-      <state-or-province/>
+      <state-or-province>British Columbia</state-or-province>
       <phys-area-name>Mount Bisaro</phys-area-name>
       <principal-cave-name>Supermans Glittering Ice Palace (SGIP)</principal-cave-name>
       <other-cave-name/>
@@ -8118,30 +8119,6 @@
       <cave-type></cave-type>
       <comments>spatter cone adjacent to Heppe Cave</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=650</reference>
-   </record>
-
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <principal-cave-name>Heppe Ice Cave</principal-cave-name>
-      <other-cave-name>Heppe Caves</other-cave-name>
-      <altitude>1609</altitude>
-      <length>52</length>
-      <vertical-extent>29</vertical-extent>
-      <number-of-entrances>2</number-of-entrances>
-      <rock-type>basalt</rock-type>
-      <cave-type>lava tunnel</cave-type>
-      <contents>permanent ice</contents>
-      <branch-name>Upper Heppe Cave</branch-name>
-      <branch-name>Lower Heppe Cave</branch-name>
-      <branch-name>Heppe Grotto</branch-name>
-      <branch-name>Heppe Bridge</branch-name>
-      <branch-name>Heppe Chimney</branch-name>
-      <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=570</reference>
-      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -8809,9 +8786,11 @@
       <phys-area-name>Mt. Mangere</phys-area-name>
       <principal-cave-name>Ambury Rd. Cave</principal-cave-name>
       <other-cave-name/>
-      <length/>
+      <altitude>20</altitude>
+      <length>140</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=143</reference>
+      <reference>Kermode (1994) doi:10.14945/00000324</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -9253,7 +9232,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Eldhraun</phys-area-name>
       <principal-cave-name>Óbrennishólahellir</principal-cave-name>
       <other-cave-name>Kipuka Cave</other-cave-name>
       <length>411</length>
@@ -13072,9 +13051,11 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Eldhraun</phys-area-name>
       <principal-cave-name>Dirfskuhellir</principal-cave-name>
+      <other-cave-name>Plucky Cave</other-cave-name>
       <length>170</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=197</reference>
    </record>
@@ -13765,9 +13746,11 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Eldhraun</phys-area-name>
       <principal-cave-name>Framhaldshellir</principal-cave-name>
+      <other-cave-name>Continuation Cave</other-cave-name>
       <length>40</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=196</reference>
    </record>
@@ -15175,11 +15158,13 @@
    <record>
       <country-name>New Zealand</country-name>
       <state-or-province>Auckland City</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>One Tree Hill</phys-area-name>
       <principal-cave-name>Helena Rubinstein Cave</principal-cave-name>
+      <altitude>10</altitude>
       <length>320</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=146</reference>
+      <reference>Kermode (1994) doi:10.14945/00000324</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -15311,9 +15296,11 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Eldhraun</phys-area-name>
       <principal-cave-name>Hnullungur</principal-cave-name>
+      <other-cave-name>Boulder Cave</other-cave-name>
       <length>30</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=190</reference>
    </record>
@@ -15480,7 +15467,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Eldhraun</phys-area-name>
       <principal-cave-name>Hraunbrarhellir</principal-cave-name>
       <other-cave-name>Rock Bridge Cave</other-cave-name>
       <length>70</length>
@@ -15965,7 +15952,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name>Snaefellsnes og Hnappadal</phys-area-name>
+      <phys-area-name>Snaefellsnes og Hnappadal; Gullborgarhraun</phys-area-name>
       <principal-cave-name>Irihellir</principal-cave-name>
       <length>365</length>
       <cave-type>lava tunnel</cave-type>
@@ -18191,8 +18178,11 @@
       <state-or-province>French Polynesia</state-or-province>
       <phys-area-name>Tahiti</phys-area-name>
       <principal-cave-name>Maraa Grotto</principal-cave-name>
+      <other-cave-name>Fern Grotto</other-cave-name>
+      <other-cave-name>Paro Cave</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
+      <contents>perennially submerged</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=703</reference>
    </record>
    <record>
@@ -20181,7 +20171,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Eldhraun</phys-area-name>
       <principal-cave-name>Pjhnappahellir</principal-cave-name>
       <other-cave-name>Buttocks Cave</other-cave-name>
       <length>274</length>
@@ -20430,11 +20420,13 @@
    <record>
       <country-name>New Zealand</country-name>
       <state-or-province>Auckland City</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Pukeiti Lino Cave</principal-cave-name>
-      <length/>
+      <phys-area-name>Pukeiti</phys-area-name>
+      <principal-cave-name>Lino Cave</principal-cave-name>
+      <altitude>20</altitude>
+      <length>90</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=140</reference>
+      <reference>Kermode (1994) doi:10.14945/00000324</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -20723,7 +20715,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Edlhraun</phys-area-name>
       <principal-cave-name>Rauðbogahellir</principal-cave-name>
       <other-cave-name>Red Arch Cave</other-cave-name>
       <length>203</length>
@@ -20734,7 +20726,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Eldhraun</phys-area-name>
       <principal-cave-name>Rauðsteinshellir</principal-cave-name>
       <other-cave-name>Red Cave</other-cave-name>
       <length>730</length>
@@ -21027,7 +21019,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Eldhraun</phys-area-name>
       <principal-cave-name>Risahellir</principal-cave-name>
       <other-cave-name>Giant Cave</other-cave-name>
       <length>70</length>
@@ -21456,7 +21448,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Eldhraun</phys-area-name>
       <principal-cave-name>Samrunahellir</principal-cave-name>
       <other-cave-name>Samruni</other-cave-name>
       <other-cave-name>Confluence Cave</other-cave-name>
@@ -21482,6 +21474,7 @@
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
       <principal-cave-name>Sand Cave</principal-cave-name>
+      <other-cave-name>New Cave</other-cave-name>
       <length>302</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -21548,11 +21541,13 @@
    <record>
       <country-name>New Zealand</country-name>
       <state-or-province>Auckland City</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>One Tree Hill</phys-area-name>
       <principal-cave-name>Scotlands Lava Cave</principal-cave-name>
-      <length/>
+      <altitude>40</altitude>
+      <length>160</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=147</reference>
+      <reference>Kermode (1994) doi:10.14945/00000324</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -22464,9 +22459,11 @@
       <phys-area-name>Three Kings</phys-area-name>
       <principal-cave-name>Stewart's Cave</principal-cave-name>
       <other-cave-name/>
+      <altitude>70</altitude>
       <length>183</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=159</reference>
+      <reference>Kermode (1994) doi:10.14945/00000324</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -22528,9 +22525,11 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Eldhraun</phys-area-name>
       <principal-cave-name>Stubur</principal-cave-name>
+      <other-cave-name>Short Cave</other-cave-name>
       <length>15</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=192</reference>
    </record>
@@ -23106,9 +23105,11 @@
       <other-cave-name>Nahuku</other-cave-name>
       <altitude>1200</altitude>
       <length>593</length>
+      <vertical-extent>20</vertical-extent>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=779</reference>
+      <reference>Kempe and Henschel (2009) Proc. 15th Congr. Speleology</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
@@ -23952,7 +23953,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name>Snaefellsnes og Hnappadal</phys-area-name>
+      <phys-area-name>Snaefellsnes og Hnappadal; Gullbongarhraun</phys-area-name>
       <principal-cave-name>Vegghellir</principal-cave-name>
       <length>320</length>
       <cave-type>lava tunnel</cave-type>
@@ -23961,7 +23962,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Eldhraun</phys-area-name>
       <principal-cave-name>Veltingur</principal-cave-name>
       <other-cave-name>Seesaw Cave</other-cave-name>
       <length>155</length>
@@ -24004,7 +24005,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Eldhraun</phys-area-name>
       <principal-cave-name>Vonbrigdahellir</principal-cave-name>
       <other-cave-name>Disappointment Cave</other-cave-name>
       <length>155</length>
@@ -24192,10 +24193,12 @@
       <state-or-province>Auckland City</state-or-province>
       <phys-area-name>Rangitote</phys-area-name>
       <principal-cave-name>Wallaby Cave</principal-cave-name>
-      <length/>
+      <altitude>140</altitude>
+      <length>112</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=152</reference>
+      <reference>Kermode (1994) doi:10.14945/00000324</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
@@ -24559,11 +24562,23 @@
       <state-or-province>Auckland City</state-or-province>
       <phys-area-name>Manurewa</phys-area-name>
       <principal-cave-name>Wiri Lava Cave</principal-cave-name>
+      <altitude>38</altitude>
       <length>280</length>
       <cave-type>lava tunnel</cave-type>
       <comments>estuarine sediments as substrate</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=141</reference>
       <reference>https://en.wikipedia.org/wiki/Wiri_Lava_Cave</reference>
+      <reference>Kermode (1994) doi:10.14945/00000324</reference>
+   </record>
+   <record>
+      <country-name>New Zealand</country-name>
+      <state-or-province>Auckland City</state-or-province>
+      <phys-area-name>Three Kings</phys-area-name>
+      <principal-cave-name>Motor Holidays</principal-cave-name>
+      <altitude>30</altitude>
+      <length>114</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Kermode (1994) doi:10.14945/00000324</reference>
    </record>
    <record>
       <country-name>Australia</country-name>

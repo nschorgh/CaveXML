@@ -16,6 +16,7 @@ Austria - Salzburg - Tennengebirge
 [Obleitner and Spötl (2011) doi:10.5194/tc-5-245-2011](https://doi.org/10.5194/tc-5-245-2011)   
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 [Margesin et al. (2004) doi:10.1099/ijs.0.63124-0](https://doi.org/10.1099/ijs.0.63124-0)   
+[Schöner et al. (2011) doi:10.5194/tc-5-603-2011](https://doi.org/10.5194/tc-5-603-2011)   
 *Cave use:* guided tourist cave  
 
 ---  
@@ -239,8 +240,8 @@ Finland - Korkia-Maura Island
 [Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1](https://doi.org/10.1016/B978-0-12-811739-2.00023-1)   
 
 ---  
-<a name="IS-a74fa1b8d025c528e690ee46f3f67910"></a>
-Iceland - Myrasysla County - Hallmundahraun lava flow  
+<a name="IS-cfd58b66d7080bc2f98c4a0c695ec018"></a>
+Iceland - Myrasysla County - Hallmundarhraun  
 *Cave Name(s):* **Surtshellir** Surtshellir-Stefanshellir Cave System  
 *Length:* 3500m   
 *Cave type:* lava tunnel  
@@ -251,8 +252,8 @@ Iceland - Myrasysla County - Hallmundahraun lava flow
 [Hroarsson and Jonsson (1992) http://www.vulcanospeleology.org/sym06/ISV6x19.pdf](http://www.vulcanospeleology.org/sym06/ISV6x19.pdf)   
 
 ---  
-<a name="IS-97aec2fc7be4b04fad92127368040deb"></a>
-Iceland - Myrasysla County - Hallmundahraun lava flow  
+<a name="IS-8b2fdd9758744f258da5018ced142dc7"></a>
+Iceland - Myrasysla County - Hallmundarhraun  
 *Cave Name(s):* **Víðgelmir**  
 *Coordinates:* [64.75028, -20.80170](https://maps.google.com/?ll=64.75028,-20.80170) *altitude:* 250  
 *Length:* 1585m   
@@ -266,7 +267,7 @@ Iceland - Myrasysla County - Hallmundahraun lava flow
 
 ---  
 <a name="IS-KED-01"></a>
-Iceland  
+Iceland - Ketildyngjuhraun  
 *Cave Name(s):* **Lofthellir** Lofthellir Ice Cave *Id:* KED-01  
 *Length:* 370m   
 *Cave type:* lava tunnel  
@@ -3822,8 +3823,8 @@ Switzerland - Valais (VS) - Jungfraujoch
 ---  
 <a name="CH-fd82c6acdd7fc5471dfd02b6a8ad7fc6"></a>
 Switzerland - Vanil Noir massif  
-*Cave Name(s):* **Diablotins Ice Cave**  
-*Coordinates:* [45.50639, +13.61](https://maps.google.com/?ll=45.50639,13.61) *altitude:* 2092 upper entrance; 2007 lower entrance  
+*Cave Name(s):* **Diablotins Ice Cave** Gouffre des Diablotins  
+*altitude:* 2092 upper entrance; 2007 lower entrance  
 *Vertical extent:* 650m *Number of entrances:* 2  
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -4795,15 +4796,16 @@ Canada - Alberta - Crowsnest Pass
 [Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2](https://doi.org/10.1016/B978-0-12-811739-2.00015-2)   
 
 ---  
-<a name="CA-e2dc6efbbb85f88ccda9229218e2a74e"></a>
+<a name="CA-dc7d544eda6058f9a59982e485878d63"></a>
 Canada - Alberta - Crowsnest Pass  
-*Cave Name(s):* **Serendipity**  
+*Cave Name(s):* **Serendipity Cave**  
 *altitude:* 2165  
 *Length:* 473m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* Extrusion ice; permafrost  
 [Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2](https://doi.org/10.1016/B978-0-12-811739-2.00015-2)   
+[Yonge and MacDonald (2014) Proc. Int. Wrkshp. Ice Caves VI https://core.ac.uk/download/pdf/154463994.pdf#page=42](https://core.ac.uk/download/pdf/154463994.pdf#page=42)   
 
 ---  
 <a name="CA-f975fb8b0e096783fcf836c87e9efeeb"></a>
@@ -4937,8 +4939,8 @@ Canada - British Columbia - Inverted Ridge
 [Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2](https://doi.org/10.1016/B978-0-12-811739-2.00015-2)   
 
 ---  
-<a name="CA-70d50dfeb233531b33a208735e1bb9d3"></a>
-Canada - Mount Bisaro  
+<a name="CA-c33b8d2f9e850daea3aae9c3bef2da55"></a>
+Canada - British Columbia - Mount Bisaro  
 *Cave Name(s):* **Supermans Glittering Ice Palace (SGIP)**  
 *Coordinates:* [49.6, -115.6](https://maps.google.com/?ll=49.6,-115.6) *altitude:* 2250  
 *Length:* 21m   
@@ -5166,19 +5168,6 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 *Rock type:* basalt   
 *Comments:* spatter cone adjacent to Heppe Cave  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=650](https://rpif.asu.edu/LTdatabase/result.php?RECNO=650)   
-
----  
-<a name="US-4ef18b3f7a4b7050882366ba79b6dcec"></a>
-United States of America - California; Siskiyou County - Lava Beds National Monument  
-*Cave Name(s):* **Heppe Ice Cave** Heppe Caves  
-*altitude:* 1609  
-*Length:* 52m *Vertical extent:* 29m *Number of entrances:* 2  
-*Rock type:* basalt *Cave type:* lava tunnel  
-*Contents:* permanent ice  
-*Branches:* Upper Heppe Cave; Lower Heppe Cave; Heppe Grotto; Heppe Bridge; [Heppe Chimney](#US-491d775d9eafafa367521cf6c9738608);   
-[Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14](https://doi.org/10.4461/GFDQ.2014.37.14)   
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=570](https://rpif.asu.edu/LTdatabase/result.php?RECNO=570)   
-*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="US-576280d2c58ce17512b5951d295a1e6c"></a>
@@ -5636,8 +5625,11 @@ United States of America - California; San Bernardino
 <a name="NZ-a6e9c00b9298b41ad2b4746943e65f2b"></a>
 New Zealand - Auckland City - Mt. Mangere  
 *Cave Name(s):* **Ambury Rd. Cave**  
+*altitude:* 20  
+*Length:* 140m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=143](https://rpif.asu.edu/LTdatabase/result.php?RECNO=143)   
+[Kermode (1994) doi:10.14945/00000324](https://doi.org/10.14945/00000324)   
 
 ---  
 <a name="US-ff019cbe696749afa77c3e2ba8dd7e7a"></a>
@@ -5992,8 +5984,8 @@ United States of America - Idaho; Bingham County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1001](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1001)   
 
 ---  
-<a name="IS-cf2b3ba9e5c0434e24e9afb585ff21e5"></a>
-Iceland  
+<a name="IS-1655b931921852b116a3f38de83c3347"></a>
+Iceland - Eldhraun  
 *Cave Name(s):* **Óbrennishólahellir** Kipuka Cave  
 *Length:* 411m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -9092,11 +9084,11 @@ United States of America - Idaho; Elmore County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1041](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1041)   
 
 ---  
-<a name="IS-48f612851b878bfa6e8312d5067fc119"></a>
-Iceland  
-*Cave Name(s):* **Dirfskuhellir**  
+<a name="IS-7ea1c2626928fff50d917bd1258baf50"></a>
+Iceland - Eldhraun  
+*Cave Name(s):* **Dirfskuhellir** Plucky Cave  
 *Length:* 170m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=197](https://rpif.asu.edu/LTdatabase/result.php?RECNO=197)   
 
 ---  
@@ -9643,11 +9635,11 @@ United States of America - New Mexico; Cibola County - El Malpais; Big Tubes are
 *Cave use:* self-guided tourist cave  
 
 ---  
-<a name="IS-6dcf8a4de3ebc409bfa14563d2054198"></a>
-Iceland  
-*Cave Name(s):* **Framhaldshellir**  
+<a name="IS-6f867b88f757749f9001961046ac5687"></a>
+Iceland - Eldhraun  
+*Cave Name(s):* **Framhaldshellir** Continuation Cave  
 *Length:* 40m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=196](https://rpif.asu.edu/LTdatabase/result.php?RECNO=196)   
 
 ---  
@@ -10765,12 +10757,14 @@ United States of America - Hawaii; South Kona - Hawaii Island
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=749](https://rpif.asu.edu/LTdatabase/result.php?RECNO=749)   
 
 ---  
-<a name="NZ-5eb8403fac98cbe67e1f99935e880032"></a>
-New Zealand - Auckland City  
+<a name="NZ-5384705a8645ed8b5c49e19058ae37c5"></a>
+New Zealand - Auckland City - One Tree Hill  
 *Cave Name(s):* **Helena Rubinstein Cave**  
+*altitude:* 10  
 *Length:* 320m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=146](https://rpif.asu.edu/LTdatabase/result.php?RECNO=146)   
+[Kermode (1994) doi:10.14945/00000324](https://doi.org/10.14945/00000324)   
 
 ---  
 <a name="US-NSS-631-17A,B"></a>
@@ -10877,11 +10871,11 @@ Iceland - Austur-Hunavatnssysla
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=14](https://rpif.asu.edu/LTdatabase/result.php?RECNO=14)   
 
 ---  
-<a name="IS-68e3b5a79b89aebc13f8c2db4678897d"></a>
-Iceland  
-*Cave Name(s):* **Hnullungur**  
+<a name="IS-8138dac821251996989bd6542f740841"></a>
+Iceland - Eldhraun  
+*Cave Name(s):* **Hnullungur** Boulder Cave  
 *Length:* 30m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=190](https://rpif.asu.edu/LTdatabase/result.php?RECNO=190)   
 
 ---  
@@ -11015,8 +11009,8 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=536](https://rpif.asu.edu/LTdatabase/result.php?RECNO=536)   
 
 ---  
-<a name="IS-90a3ce90e6a73c24a1eae3fe3a03f65a"></a>
-Iceland  
+<a name="IS-16a2bd525082a8344f1d3ca081737a42"></a>
+Iceland - Eldhraun  
 *Cave Name(s):* **Hraunbrarhellir** Rock Bridge Cave  
 *Length:* 70m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -11407,8 +11401,8 @@ Japan - Nagasaki
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1173](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1173)   
 
 ---  
-<a name="IS-8257d448abe04a0d2ea6365ca2c4b683"></a>
-Iceland - Snaefellsnes og Hnappadal  
+<a name="IS-a0b28b710811a04a588edd683265a5cd"></a>
+Iceland - Snaefellsnes og Hnappadal; Gullborgarhraun  
 *Cave Name(s):* **Irihellir**  
 *Length:* 365m   
 *Cave type:* lava tunnel  
@@ -13176,8 +13170,9 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 ---  
 <a name="FR-38dc81f49cd3331a222da3e713376933"></a>
 France - French Polynesia - Tahiti  
-*Cave Name(s):* **Maraa Grotto**  
+*Cave Name(s):* **Maraa Grotto** Fern Grotto; Paro Cave  
 *Cave type:* lava tunnel  
+*Contents:* perennially submerged  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=703](https://rpif.asu.edu/LTdatabase/result.php?RECNO=703)   
 
 ---  
@@ -14777,8 +14772,8 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=503](https://rpif.asu.edu/LTdatabase/result.php?RECNO=503)   
 
 ---  
-<a name="IS-2297fd4170c6875291d7ef9472fcb616"></a>
-Iceland  
+<a name="IS-60d0ed26a179ee218af857704f85bce1"></a>
+Iceland - Eldhraun  
 *Cave Name(s):* **Pjhnappahellir** Buttocks Cave  
 *Length:* 274m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -14976,11 +14971,14 @@ United States of America - Hawaii - Hawaii (Big Island); Kilauea
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=940](https://rpif.asu.edu/LTdatabase/result.php?RECNO=940)   
 
 ---  
-<a name="NZ-2f231bbf3eec071fc916da576d1364c8"></a>
-New Zealand - Auckland City  
-*Cave Name(s):* **Pukeiti Lino Cave**  
+<a name="NZ-c33ab6a68f8699c4cc4c0a041bf3db80"></a>
+New Zealand - Auckland City - Pukeiti  
+*Cave Name(s):* **Lino Cave**  
+*altitude:* 20  
+*Length:* 90m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=140](https://rpif.asu.edu/LTdatabase/result.php?RECNO=140)   
+[Kermode (1994) doi:10.14945/00000324](https://doi.org/10.14945/00000324)   
 
 ---  
 <a name="US-94811dc3a45f509ebe24e3754d1d1257"></a>
@@ -15211,16 +15209,16 @@ United States of America - Oregon; Malheur County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1221](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1221)   
 
 ---  
-<a name="IS-9ce5e770b9c48a89c7b275105c8059a6"></a>
-Iceland  
+<a name="IS-bb415b4806f6cf094871ed7489a8c39f"></a>
+Iceland - Edlhraun  
 *Cave Name(s):* **Rauðbogahellir** Red Arch Cave  
 *Length:* 203m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=189](https://rpif.asu.edu/LTdatabase/result.php?RECNO=189)   
 
 ---  
-<a name="IS-cb02be935e64460f7dd13c78f965f498"></a>
-Iceland  
+<a name="IS-8c87c683fd56b6de0ba22d6294de32d1"></a>
+Iceland - Eldhraun  
 *Cave Name(s):* **Rauðsteinshellir** Red Cave  
 *Length:* 730m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -15452,8 +15450,8 @@ United States of America - Hawaii; Puna District - Hawaii Island; Kilauea
 [Halliday (1998) doi:10.5038/1827-806X.27.1.11](https://doi.org/10.5038/1827-806X.27.1.11)   
 
 ---  
-<a name="IS-83b143e1261cf717b5214dd2fa374807"></a>
-Iceland  
+<a name="IS-94b187d486bc40fcc500de4e1466482d"></a>
+Iceland - Eldhraun  
 *Cave Name(s):* **Risahellir** Giant Cave  
 *Length:* 70m   
 *Cave type:* lava tunnel  
@@ -15803,8 +15801,8 @@ Fiji - Northern - Taveuni Island
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1211](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1211)   
 
 ---  
-<a name="IS-0467ce2094b588c24d6918d14ef1c20c"></a>
-Iceland  
+<a name="IS-3e538c8b8cb776b5b161f8f43e94e4d1"></a>
+Iceland - Eldhraun  
 *Cave Name(s):* **Samrunahellir** Samruni; Confluence Cave  
 *Length:* 220m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -15822,7 +15820,7 @@ Australia - Queensland - Undara
 ---  
 <a name="US-794aea744848c675a9e674a152841c6b"></a>
 United States of America - California; Siskiyou County  
-*Cave Name(s):* **Sand Cave**  
+*Cave Name(s):* **Sand Cave** New Cave  
 *Length:* 302m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=509](https://rpif.asu.edu/LTdatabase/result.php?RECNO=509)   
@@ -15873,11 +15871,14 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=592](https://rpif.asu.edu/LTdatabase/result.php?RECNO=592)   
 
 ---  
-<a name="NZ-651b570c7d5c0225079ae95562e984f0"></a>
-New Zealand - Auckland City  
+<a name="NZ-4d77926afbff7cf87d01fce1e53440ea"></a>
+New Zealand - Auckland City - One Tree Hill  
 *Cave Name(s):* **Scotlands Lava Cave**  
+*altitude:* 40  
+*Length:* 160m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=147](https://rpif.asu.edu/LTdatabase/result.php?RECNO=147)   
+[Kermode (1994) doi:10.14945/00000324](https://doi.org/10.14945/00000324)   
 
 ---  
 <a name="US-a212c8285c83c0313f41559dfb29d313"></a>
@@ -16612,9 +16613,11 @@ Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"
 <a name="NZ-0d7cf811032cb43b5438718648970247"></a>
 New Zealand - Auckland City - Three Kings  
 *Cave Name(s):* **Stewart's Cave**  
+*altitude:* 70  
 *Length:* 183m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=159](https://rpif.asu.edu/LTdatabase/result.php?RECNO=159)   
+[Kermode (1994) doi:10.14945/00000324](https://doi.org/10.14945/00000324)   
 
 ---  
 <a name="US-71651475d919bf0707c0f81b90b794a1"></a>
@@ -16662,11 +16665,11 @@ United States of America - Washington; Cowlitz County - Mount St. Helens
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1611](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1611)   
 
 ---  
-<a name="IS-9447c651d85d45c1f47a1ad7ad6c050b"></a>
-Iceland  
-*Cave Name(s):* **Stubur**  
+<a name="IS-8dabbc37a59e0b4df12a7a677d6ed372"></a>
+Iceland - Eldhraun  
+*Cave Name(s):* **Stubur** Short Cave  
 *Length:* 15m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=192](https://rpif.asu.edu/LTdatabase/result.php?RECNO=192)   
 
 ---  
@@ -17131,9 +17134,10 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 United States of America - Hawaii - Hawaii Island; Kilauea  
 *Cave Name(s):* **Thurston Lava Tube** Nahuku  
 *altitude:* 1200  
-*Length:* 593m   
+*Length:* 593m *Vertical extent:* 20m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=779](https://rpif.asu.edu/LTdatabase/result.php?RECNO=779)   
+Kempe and Henschel (2009) Proc. 15th Congr. Speleology  
 *Cave use:* self-guided tourist cave  
 
 ---  
@@ -17785,16 +17789,16 @@ Iceland - Snaefellsnes og Hnappadal
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=30](https://rpif.asu.edu/LTdatabase/result.php?RECNO=30)   
 
 ---  
-<a name="IS-416285729c8a09d624d3e1c18153db1b"></a>
-Iceland - Snaefellsnes og Hnappadal  
+<a name="IS-d30e8e8ecd7bf6865c4f709589a113cf"></a>
+Iceland - Snaefellsnes og Hnappadal; Gullbongarhraun  
 *Cave Name(s):* **Vegghellir**  
 *Length:* 320m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=26](https://rpif.asu.edu/LTdatabase/result.php?RECNO=26)   
 
 ---  
-<a name="IS-c8183ceaf2c082fac0123ee53bb27d28"></a>
-Iceland  
+<a name="IS-9956829a34603d7ce97920cbfeb47b83"></a>
+Iceland - Eldhraun  
 *Cave Name(s):* **Veltingur** Seesaw Cave  
 *Length:* 155m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -17824,8 +17828,8 @@ United States of America - Washington; Skamania County - Mt. Adams
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1739](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1739)   
 
 ---  
-<a name="IS-fd4013f7ab1c921c8c7cdccef256a818"></a>
-Iceland  
+<a name="IS-82bad3d8a8a90fa2cd3ab69f4b462d28"></a>
+Iceland - Eldhraun  
 *Cave Name(s):* **Vonbrigdahellir** Disappointment Cave  
 *Length:* 155m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -17979,8 +17983,11 @@ United States of America - Oregon; Deschutes County
 <a name="NZ-5d53cd0a20b14ca518cfca4503359ef6"></a>
 New Zealand - Auckland City - Rangitote  
 *Cave Name(s):* **Wallaby Cave**  
+*altitude:* 140  
+*Length:* 112m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=152](https://rpif.asu.edu/LTdatabase/result.php?RECNO=152)   
+[Kermode (1994) doi:10.14945/00000324](https://doi.org/10.14945/00000324)   
 
 ---  
 <a name="AU-ASF-U55"></a>
@@ -18260,11 +18267,22 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 <a name="NZ-4c6965e28e0475ea1867439530f66238"></a>
 New Zealand - Auckland City - Manurewa  
 *Cave Name(s):* **Wiri Lava Cave**  
+*altitude:* 38  
 *Length:* 280m   
 *Cave type:* lava tunnel  
 *Comments:* estuarine sediments as substrate  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=141](https://rpif.asu.edu/LTdatabase/result.php?RECNO=141)   
 [https://en.wikipedia.org/wiki/Wiri_Lava_Cave](https://en.wikipedia.org/wiki/Wiri_Lava_Cave)   
+[Kermode (1994) doi:10.14945/00000324](https://doi.org/10.14945/00000324)   
+
+---  
+<a name="NZ-bc578804fad2ab3fcbf5ec2432cdf066"></a>
+New Zealand - Auckland City - Three Kings  
+*Cave Name(s):* **Motor Holidays**  
+*altitude:* 30  
+*Length:* 114m   
+*Cave type:* lava tunnel  
+[Kermode (1994) doi:10.14945/00000324](https://doi.org/10.14945/00000324)   
 
 ---  
 <a name="AU-16673bc0fa17a708c51a47409e431d8d"></a>

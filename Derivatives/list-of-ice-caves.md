@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 521 rock-hosted caves with perennial ice was generated from a CaveXML database. - Dec 25, 2020
+This list of 520 rock-hosted caves with perennial ice was generated from a CaveXML database. - Dec 26, 2020
 
 Austria - Oberösterreich - Dachstein [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
 Austria - Oberösterreich - Dachstein [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-1547/17)  
@@ -25,7 +25,7 @@ Canada - Alberta - Crowsnest Pass [**Glittering Ice Palace** ](allcaves-database
 Canada - Alberta - Crowsnest Pass [**Ice Chest** ](allcaves-database.md#CA-4b3428fada048fa888741b11348e8dc2)  
 Canada - Alberta - Crowsnest Pass [**Ice Hall** ](allcaves-database.md#CA-68fd9030b28d72cc1d1c99e5a91a1e1d)  
 Canada - Alberta - Crowsnest Pass; Rocky Mountains [**Booming Ice Chasm** ](allcaves-database.md#CA-2b37cadafcda9fcc0b489ca2f542074c)  
-Canada - Alberta - Crowsnest Pass [**Serendipity** ](allcaves-database.md#CA-e2dc6efbbb85f88ccda9229218e2a74e)  
+Canada - Alberta - Crowsnest Pass [**Serendipity Cave** ](allcaves-database.md#CA-dc7d544eda6058f9a59982e485878d63)  
 Canada - Alberta - Jasper National Park; Columbia Icefield [**Castleguard Cave** ](allcaves-database.md#CA-e3f914ff17f96f58de0d411ed3fc95dd)  
 Canada - Alberta - Jasper National Park [**Disaster Point Ice Cave** ](allcaves-database.md#CA-437cedd66adb093bdf7a2ff20baf9861)  
 Canada - Alberta - Jasper National Park [**Ice Trap** ](allcaves-database.md#CA-f313f2b3e7d347e60b341a8c1c489eb7)  
@@ -37,11 +37,11 @@ Canada - British Columbia - Crowsnest Pass [**Rats Hole** ](allcaves-database.md
 Canada - British Columbia - Glacier National Park [**Nakimu Cave** ](allcaves-database.md#CA-383229b124ce49892d2c96fada86c410)  
 Canada - British Columbia - Inverted Ridge [**Global Cooling** ](allcaves-database.md#CA-7959f67bebf7e51d72c402da3a60a9b8)  
 Canada - British Columbia - Inverted Ridge [**Inverted Fridge** ](allcaves-database.md#CA-e4754c6c58abc3d84b44914d9d5e4a66)  
+Canada - British Columbia - Mount Bisaro [**Supermans Glittering Ice Palace (SGIP)** ](allcaves-database.md#CA-c33b8d2f9e850daea3aae9c3bef2da55)  
 Canada - British Columbia - Mt. Sinwa, Taku, Stikine [**Icy Hope** ](allcaves-database.md#CA-bdc992815b6397d93f2faee8c58e6366)  
 Canada - British Columbia - Top of the World Provincial Park [**Wedge Cave** ](allcaves-database.md#CA-bbbb6a8346e90f9cd9c28b49232d1e07)  
 Canada - British Columbia - White Ridges Provincial Park; Vancouver Island [**Projects Cave** ](allcaves-database.md#CA-8efdd6f5c801962fa1845759065c2eec)  
 Canada - British Columbia - White Ridges Provincial Park; Vancouver Island [ Q5 ](allcaves-database.md#CA-0d08a5e72a515b358655ecd0ad6cd3fd)  
-Canada - Mount Bisaro [**Supermans Glittering Ice Palace (SGIP)** ](allcaves-database.md#CA-70d50dfeb233531b33a208735e1bb9d3)  
 Canada - Northwest Territories - Nahanni Canyon [**Grotte Mickey** ](allcaves-database.md#CA-c292943f25d6fe31e21a10b0871d59c2)  
 Canada - Northwest Territories - Nahanni Canyon [**Grotte Valerie Ice Cave** ](allcaves-database.md#CA-54521c7169403ad92fa588a455f44ebb)  
 Canada - Northwest Territories - Nahanni Karst / Lafferty Creek [**Andree** ](allcaves-database.md#CA-0cbf935fdd2b51384794025a36f4e74f)  
@@ -99,9 +99,9 @@ Greenland - northeastern Greenland [**Crystal Kingdom Cave** Aligoq Kunngeqarfik
 Greenland - northeastern Greenland [**Crystal Palace Cave** Aligoq Illussaarsuaq Qaarusussuaq ](allcaves-database.md#GL-543c469522433c5eb6b09a4195a61e7e)  
 Greenland - northeastern Greenland [**Lemming Cave** Narlumukaap Qaarusussuaq; Stig Strikes Again ](allcaves-database.md#GL-f78e93a3578859f603206486524083ad)  
 Greenland - northeastern Greenland [**Swirly Cave** Sangujoraartoq Qaarusussuaq ](allcaves-database.md#GL-1206312da12984805334f9c8a3de08b7)  
-Iceland [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-KED-01)  
-Iceland - Myrasysla County - Hallmundahraun lava flow [**Surtshellir** Surtshellir-Stefanshellir Cave System ](allcaves-database.md#IS-a74fa1b8d025c528e690ee46f3f67910)  
-Iceland - Myrasysla County - Hallmundahraun lava flow [**Víðgelmir** ](allcaves-database.md#IS-97aec2fc7be4b04fad92127368040deb)  
+Iceland - Ketildyngjuhraun [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-KED-01)  
+Iceland - Myrasysla County - Hallmundarhraun [**Surtshellir** Surtshellir-Stefanshellir Cave System ](allcaves-database.md#IS-cfd58b66d7080bc2f98c4a0c695ec018)  
+Iceland - Myrasysla County - Hallmundarhraun [**Víðgelmir** ](allcaves-database.md#IS-8b2fdd9758744f258da5018ced142dc7)  
 India - Lidder Valley [**Amarnath Cave** Holy Cave ](allcaves-database.md#IN-5177da2464799e48c9e4fc269aef5e6c)  
 Iran - Alborz province - Alborz Mountains; Lar Formation [**Ghar Yakh-Morad** Yakh-Morad Ice Cave ](allcaves-database.md#IR-fac51e19eec91adebc71a052e75aaaa3)  
 Iran - Northern Zagros Mountains [**Dena Ice Cave** Ghar Yakh Dena ](allcaves-database.md#IR-19714e6a881106ade7501e575ba34763)  
@@ -476,7 +476,7 @@ Sweden [**Iskristallgrottan** Ice Crystal Cave ](allcaves-database.md#SE-a93e972
 Switzerland - Neuchâtel (NE) - Swiss Jura mountains [**Monlesi Ice Cave** Glacière de Monlési NE-137](allcaves-database.md#CH-NE-137)  
 Switzerland - Swiss Jura mountains [**Greux-de-Glace** ](allcaves-database.md#CH-f970d41882d51e4df0d963dd77e28ae9)  
 Switzerland - Valais (VS) - Jungfraujoch [**Jochloch** VS-150](allcaves-database.md#CH-VS-150)  
-Switzerland - Vanil Noir massif [**Diablotins Ice Cave** ](allcaves-database.md#CH-fd82c6acdd7fc5471dfd02b6a8ad7fc6)  
+Switzerland - Vanil Noir massif [**Diablotins Ice Cave** Gouffre des Diablotins ](allcaves-database.md#CH-fd82c6acdd7fc5471dfd02b6a8ad7fc6)  
 Switzerland - Vaud (VD) - Swiss Jura mountains [**Glacière de Saint-George** ](allcaves-database.md#CH-2f0954b99b584fe73bd2745664705b11)  
 Switzerland - Vaud (VD) - Swiss Jura mountains [**St-Livres Ice Cave** Glacière de St-Livres VD-257](allcaves-database.md#CH-VD-257)  
 Tajikistan - Pamir Mountains [**Putnikov Cave** Rangkulskaya Cave; Matatash ](allcaves-database.md#TJ-6f9c29ef7300aa64a65fa122d62e1199)  
@@ -486,7 +486,6 @@ Turkey [**Ice Cae in Agri** Buz Magarasi ](allcaves-database.md#TR-2d142fe6636cb
 United States of America - California - Lava Beds National Monument [**C-270** ](allcaves-database.md#US-2462c816a38bd73ffd6d4662a550cd56)  
 United States of America - California - Lava Beds National Monument [**L-800** ](allcaves-database.md#US-6dcca36d30dfd9bb66692850ca3d1f6f)  
 United States of America - California - Lava Beds National Monument [**U-200** ](allcaves-database.md#US-1f19f2c2da18a16986094f6c88a7aeb9)  
-United States of America - California; Siskiyou County - Lava Beds National Monument [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-4ef18b3f7a4b7050882366ba79b6dcec)  
 United States of America - California; Siskiyou County - Lava Beds National Monument [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-4ef18b3f7a4b7050882366ba79b6dcec)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Mammoth Crater [**Crystal Cave** Crystal Ice Cave; Blue Crystal Ice Cave ](allcaves-database.md#US-fc5568e5634776f0ae35c2b1315215b3)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater [**Incline Cave** M-340](allcaves-database.md#US-M-340)  
@@ -530,14 +529,13 @@ List of Volcanic Ice Caves
 ==========================
 List of ice caves that are also lava tubes.
 
-Iceland [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-KED-01)  
-Iceland - Myrasysla County - Hallmundahraun lava flow [**Surtshellir** Surtshellir-Stefanshellir Cave System ](allcaves-database.md#IS-a74fa1b8d025c528e690ee46f3f67910)  
-Iceland - Myrasysla County - Hallmundahraun lava flow [**Víðgelmir** ](allcaves-database.md#IS-97aec2fc7be4b04fad92127368040deb)  
+Iceland - Ketildyngjuhraun [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-KED-01)  
+Iceland - Myrasysla County - Hallmundarhraun [**Surtshellir** Surtshellir-Stefanshellir Cave System ](allcaves-database.md#IS-cfd58b66d7080bc2f98c4a0c695ec018)  
+Iceland - Myrasysla County - Hallmundarhraun [**Víðgelmir** ](allcaves-database.md#IS-8b2fdd9758744f258da5018ced142dc7)  
 Italy - Sicilia - Sicily; Etna [**Grotta del Gelo** ](allcaves-database.md#IT-b94660e81c51db8b325344b25b4d85ec)  
 Japan - Mt. Fuji [**Fuji Ice Cave** Fuji Fuketsu (Fuji Wind Cave) ](allcaves-database.md#JP-e26bc9c6698824529baa6da0bf5bb393)  
 Japan - Mt. Fuji [**Motosu Fuketsu No. 2 Cave** ](allcaves-database.md#JP-2a709c7095c14ead38bd702c895e40d9)  
 Japan - Yamanashi - Mt. Fuji [**Narusawa Hyoketsu Cave** Narusawa Ice Cave; Narusawa Wind Cave; Narusawa Fuketsu ](allcaves-database.md#JP-6d8a263701cde5196f0357254dcdb677)  
-United States of America - California; Siskiyou County - Lava Beds National Monument [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-4ef18b3f7a4b7050882366ba79b6dcec)  
 United States of America - California; Siskiyou County - Lava Beds National Monument [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-4ef18b3f7a4b7050882366ba79b6dcec)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Mammoth Crater [**Crystal Cave** Crystal Ice Cave; Blue Crystal Ice Cave ](allcaves-database.md#US-fc5568e5634776f0ae35c2b1315215b3)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater [**Skull Ice Cave** Skull Cave ](allcaves-database.md#US-576280d2c58ce17512b5951d295a1e6c)  

@@ -19,6 +19,7 @@
       "reference": "Obleitner and Spötl (2011) doi:10.5194/tc-5-245-2011",
       "reference": "Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9",
       "reference": "Margesin et al. (2004) doi:10.1099/ijs.0.63124-0",
+      "reference": "Schöner et al. (2011) doi:10.5194/tc-5-603-2011",
       "cave-use": "guided tourist cave"
     },
 
@@ -432,7 +433,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": "Myrasysla County",
-      "phys-area-name": "Hallmundahraun lava flow",
+      "phys-area-name": "Hallmundarhraun",
       "principal-cave-name": "Surtshellir",
       "other-cave-name": "Surtshellir-Stefanshellir Cave System",
       "latitude": [],
@@ -451,7 +452,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": "Myrasysla County",
-      "phys-area-name": "Hallmundahraun lava flow",
+      "phys-area-name": "Hallmundarhraun",
       "principal-cave-name": "Víðgelmir",
       "other-cave-name": [],
       "latitude": 64.75028,
@@ -472,7 +473,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Ketildyngjuhraun",
       "principal-cave-name": "Lofthellir",
       "other-cave-name": "Lofthellir Ice Cave",
       "cave-id": "KED-01",
@@ -6295,9 +6296,9 @@
       "state-or-province": [],
       "phys-area-name": "Vanil Noir massif",
       "principal-cave-name": "Diablotins Ice Cave",
-      "other-cave-name": [],
-      "latitude": 45.50639,
-      "longitude": 13.61,
+      "other-cave-name": "Gouffre des Diablotins",
+      "latitude": [],
+      "longitude": [],
       "altitude": "2092 upper entrance",
       "altitude": "2007 lower entrance",
       "length": [],
@@ -8031,7 +8032,7 @@
       "country-name": "Canada",
       "state-or-province": "Alberta",
       "phys-area-name": "Crowsnest Pass",
-      "principal-cave-name": "Serendipity",
+      "principal-cave-name": "Serendipity Cave",
       "other-cave-name": [],
       "latitude": [],
       "longitude": [],
@@ -8040,9 +8041,9 @@
       "vertical-extent": [],
       "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "Extrusion ice",
-      "comments": "permafrost",
-      "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2"
+      "comments": "Extrusion ice; permafrost",
+      "reference": "Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2",
+      "reference": "Yonge and MacDonald (2014) Proc. Int. Wrkshp. Ice Caves VI https://core.ac.uk/download/pdf/154463994.pdf#page=42"
     },
 
     {
@@ -8259,7 +8260,7 @@
 
     {
       "country-name": "Canada",
-      "state-or-province": [],
+      "state-or-province": "British Columbia",
       "phys-area-name": "Mount Bisaro",
       "principal-cave-name": "Supermans Glittering Ice Palace (SGIP)",
       "other-cave-name": [],
@@ -8647,30 +8648,6 @@
       "cave-type": [],
       "comments": "spatter cone adjacent to Heppe Cave",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=650"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "Siskiyou County",
-      "phys-area-name": "Lava Beds National Monument",
-      "principal-cave-name": "Heppe Ice Cave",
-      "other-cave-name": "Heppe Caves",
-      "altitude": 1609,
-      "length": 52,
-      "vertical-extent": 29,
-      "number-of-entrances": 2,
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "contents": "permanent ice",
-      "branch-name": "Upper Heppe Cave",
-      "branch-name": "Lower Heppe Cave",
-      "branch-name": "Heppe Grotto",
-      "branch-name": "Heppe Bridge",
-      "branch-name": "Heppe Chimney",
-      "reference": "Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=570",
-      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -9388,9 +9365,11 @@
       "phys-area-name": "Mt. Mangere",
       "principal-cave-name": "Ambury Rd. Cave",
       "other-cave-name": [],
-      "length": [],
+      "altitude": 20,
+      "length": 140,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=143"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=143",
+      "reference": "Kermode (1994) doi:10.14945/00000324"
     },
 
     {
@@ -9875,7 +9854,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Óbrennishólahellir",
       "other-cave-name": "Kipuka Cave",
       "length": 411,
@@ -14070,9 +14049,11 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Dirfskuhellir",
+      "other-cave-name": "Plucky Cave",
       "length": 170,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=197"
     },
@@ -14830,9 +14811,11 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Framhaldshellir",
+      "other-cave-name": "Continuation Cave",
       "length": 40,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=196"
     },
@@ -16370,11 +16353,13 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
-      "phys-area-name": [],
+      "phys-area-name": "One Tree Hill",
       "principal-cave-name": "Helena Rubinstein Cave",
+      "altitude": 10,
       "length": 320,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=146"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=146",
+      "reference": "Kermode (1994) doi:10.14945/00000324"
     },
 
     {
@@ -16519,9 +16504,11 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Hnullungur",
+      "other-cave-name": "Boulder Cave",
       "length": 30,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=190"
     },
@@ -16704,7 +16691,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Hraunbrarhellir",
       "other-cave-name": "Rock Bridge Cave",
       "length": 70,
@@ -17238,7 +17225,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": "Snaefellsnes og Hnappadal",
+      "phys-area-name": "Snaefellsnes og Hnappadal; Gullborgarhraun",
       "principal-cave-name": "Irihellir",
       "length": 365,
       "cave-type": "lava tunnel",
@@ -19670,8 +19657,11 @@
       "state-or-province": "French Polynesia",
       "phys-area-name": "Tahiti",
       "principal-cave-name": "Maraa Grotto",
+      "other-cave-name": "Fern Grotto",
+      "other-cave-name": "Paro Cave",
       "length": [],
       "cave-type": "lava tunnel",
+      "contents": "perennially submerged",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=703"
     },
 
@@ -21847,7 +21837,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Pjhnappahellir",
       "other-cave-name": "Buttocks Cave",
       "length": 274,
@@ -22121,11 +22111,13 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
-      "phys-area-name": [],
-      "principal-cave-name": "Pukeiti Lino Cave",
-      "length": [],
+      "phys-area-name": "Pukeiti",
+      "principal-cave-name": "Lino Cave",
+      "altitude": 20,
+      "length": 90,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=140"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=140",
+      "reference": "Kermode (1994) doi:10.14945/00000324"
     },
 
     {
@@ -22442,7 +22434,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Edlhraun",
       "principal-cave-name": "Rauðbogahellir",
       "other-cave-name": "Red Arch Cave",
       "length": 203,
@@ -22454,7 +22446,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Rauðsteinshellir",
       "other-cave-name": "Red Cave",
       "length": 730,
@@ -22776,7 +22768,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Risahellir",
       "other-cave-name": "Giant Cave",
       "length": 70,
@@ -23249,7 +23241,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Samrunahellir",
       "other-cave-name": "Samruni",
       "other-cave-name": "Confluence Cave",
@@ -23277,6 +23269,7 @@
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "principal-cave-name": "Sand Cave",
+      "other-cave-name": "New Cave",
       "length": 302,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
@@ -23350,11 +23343,13 @@
     {
       "country-name": "New Zealand",
       "state-or-province": "Auckland City",
-      "phys-area-name": [],
+      "phys-area-name": "One Tree Hill",
       "principal-cave-name": "Scotlands Lava Cave",
-      "length": [],
+      "altitude": 40,
+      "length": 160,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=147"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=147",
+      "reference": "Kermode (1994) doi:10.14945/00000324"
     },
 
     {
@@ -24354,9 +24349,11 @@
       "phys-area-name": "Three Kings",
       "principal-cave-name": "Stewart's Cave",
       "other-cave-name": [],
+      "altitude": 70,
       "length": 183,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=159"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=159",
+      "reference": "Kermode (1994) doi:10.14945/00000324"
     },
 
     {
@@ -24424,9 +24421,11 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Stubur",
+      "other-cave-name": "Short Cave",
       "length": 15,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=192"
     },
@@ -25058,9 +25057,11 @@
       "other-cave-name": "Nahuku",
       "altitude": 1200,
       "length": 593,
+      "vertical-extent": 20,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=779",
+      "reference": "Kempe and Henschel (2009) Proc. 15th Congr. Speleology",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -25981,7 +25982,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": "Snaefellsnes og Hnappadal",
+      "phys-area-name": "Snaefellsnes og Hnappadal; Gullbongarhraun",
       "principal-cave-name": "Vegghellir",
       "length": 320,
       "cave-type": "lava tunnel",
@@ -25991,7 +25992,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Veltingur",
       "other-cave-name": "Seesaw Cave",
       "length": 155,
@@ -26038,7 +26039,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Vonbrigdahellir",
       "other-cave-name": "Disappointment Cave",
       "length": 155,
@@ -26244,10 +26245,12 @@
       "state-or-province": "Auckland City",
       "phys-area-name": "Rangitote",
       "principal-cave-name": "Wallaby Cave",
-      "length": [],
+      "altitude": 140,
+      "length": 112,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=152"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=152",
+      "reference": "Kermode (1994) doi:10.14945/00000324"
     },
 
     {
@@ -26645,11 +26648,24 @@
       "state-or-province": "Auckland City",
       "phys-area-name": "Manurewa",
       "principal-cave-name": "Wiri Lava Cave",
+      "altitude": 38,
       "length": 280,
       "cave-type": "lava tunnel",
       "comments": "estuarine sediments as substrate",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=141",
-      "reference": "https://en.wikipedia.org/wiki/Wiri_Lava_Cave"
+      "reference": "https://en.wikipedia.org/wiki/Wiri_Lava_Cave",
+      "reference": "Kermode (1994) doi:10.14945/00000324"
+    },
+
+    {
+      "country-name": "New Zealand",
+      "state-or-province": "Auckland City",
+      "phys-area-name": "Three Kings",
+      "principal-cave-name": "Motor Holidays",
+      "altitude": 30,
+      "length": 114,
+      "cave-type": "lava tunnel",
+      "reference": "Kermode (1994) doi:10.14945/00000324"
     },
 
     {

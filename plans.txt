@@ -1,4 +1,4 @@
-PLANS as of Dec 23, 2020
+PLANS as of Dec 27, 2020
 
 Currently, I plan to find solutions to the following issues:
 
@@ -14,19 +14,28 @@ downloaded as a whole. Perhaps the solution is to introduce an augmented XML
 label set, where the cross-linking is already performed and stored in additional
 XML elements.
 
-* Non-unique cave-id for systems: Sometimes a system inherits its cave-id from 
-a branch, for example Kolowrathöhle and the Gamslöcher-Kolowrat-Höhlensystem 
-both have cadastre number 1339/1, because that number of is based on entrances. 
-I will have to nudge the standard and programs to deal with non-unique cave ids.
-
 * Systems of systems: Feuertalhöhle is part of the Feuertalsystem, which is 
 part of the Schönberg cavesystem. There is no reason cross-linking shouldn't
-work here, but I have to think about whether a branch can connect to a system
-more than one level of hierarchy up, and so on.
+work here, but I have to think about whether a branch can and should connect
+to a system more than one level of hierarchy up, and so on.
+
+* Rock types: The list of options for [rock-type] could need some revision.
+The options 'basalt' and 'lava' overlap considerably and there is no option
+for 'anhydrite', which I occasionally see in descriptions of the host rock of
+caves. But I am not a geologist, and would rather leave this to someone who
+knows more.
 
 
 
 DONE
+
+* Non-unique cave-id for systems: Sometimes a system inherits its cave-id from 
+a branch, for example Kolowrathöhle and the Gamslöcher-Kolowrat-Höhlensystem 
+both have cadastre number 1339/1, because that number is based on entrances.
+I decided to drop the requirement that each cave must have a different cave-id,
+and record identifiers are now always generated from hash codes, even when a
+cave-id is available. There is some discussion of this in the cavexml.md
+document.
 
 * Earlier in December, I decided to use a hash function to create unique record
 identifiers. I implemented this using the MD5 hashlib function in Python. As a

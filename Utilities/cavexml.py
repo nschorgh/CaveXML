@@ -475,30 +475,36 @@ def generate_unique_id(item):
     if len(iso2) != 2:
         iso2 = 'XX'
 
-    try: # use cave-id, if available
+    #try: # use cave-id, if available
+    #    cid = item.find('cave-id')
+    #    uniid = iso2 + '-' + cid.text
+    #    # adding a suffix if the record has a branch
+    #    bn = item.find('branch-name') # this only finds the first
+    #    if bn is not None:
+    #        if bn.text:
+    #            uniid += 'S'
+    
+    # create hash code based on several entries
+    mashup = get_one_cave_name(item)
+    try:
         cid = item.find('cave-id')
-        uniid = iso2 + '-' + cid.text
-        # adding a suffix if the record has a branch
-        bn = item.find('branch-name') # this only finds the first
-        if bn is not None:
-            if bn.text:
-                uniid += 'S'
-    except: # create hash code based on several entries
-        mashup = get_one_cave_name(item)
-        try:
-            province = item.findall('state-or-province')
-            prostr = merge_elements(province)
-            mashup += prostr
-        except:
-            pass
-        try:
-            area = item.findall('phys-area-name')
-            outstr = merge_elements(area)
-            mashup += outstr
-        except:
-            pass
-        hashcode = hashlib.md5(mashup.encode('utf-8')).hexdigest()
-        uniid = iso2 + '-' + hashcode
+        mashup += cid.text
+    except:
+        pass
+    try:
+        province = item.findall('state-or-province')
+        prostr = merge_elements(province)
+        mashup += prostr
+    except:
+        pass
+    try:
+        area = item.findall('phys-area-name')
+        outstr = merge_elements(area)
+        mashup += outstr
+    except:
+        pass
+    hashcode = hashlib.md5(mashup.encode('utf-8')).hexdigest()
+    uniid = iso2 + '-' + hashcode
         
     return uniid
 

@@ -31,11 +31,11 @@ Similar to UISIC field [SY285](http://www.uisic.uis-speleo.org/exchange/atendefn
 For extraterrestrial caves, this element specifies the planetary body where the cave is located. Allowed terms are "Moon", which refers to Earth's moon, "Mars", and a few more. An empty or missing entry implies the cave is located on planet Earth.  
 
 **\<state-or-province\>**  *string*  
-State or province where the cave entrance is located. This can also be a county or district. [state-or-province] is intended for politically or organizationally defined areas below country level. For physically/geologically defined units, use [phys-area-name] instead.      
+State or province where the cave entrance is located. This can also be a county or district. [state-or-province] is intended for politically or organizationally defined areas below country level. For physically/geologically defined units, use [phys-area-name] instead. If more than one region is entered, it is recommended that they be ordered from large to small, e.g. first 'California' then 'Lassen county', and not the other way round.      
 Generalization of UISIC field [SY287](http://www.uisic.uis-speleo.org/exchange/atendefn.html#287)
 
 **\<phys-area-name\>**  *string*  
-Name of mountain, volcano, mountain range, island, geologic unit, or another physically-defined unit. Example: Pyrenees. For politically-defined regions use [state-or-province] instead. Parks also belong in this field.
+Name of mountain, volcano, mountain range, island, geologic unit, or another physically-defined unit. Example: Pyrenees. For politically-defined regions use [state-or-province] instead. Parks also belong in this field. If more than one region is entered, it is recommended that they be ordered from large to small, e.g. first 'Canary Islands' then 'Mount Teide'.
 
 **\<principal-cave-name\>**  *string, maxOccurs=1*    
 The current formal agreed name for a cave or karst feature, expressed in the local language. The character set is UTF-8, so characters from many languages can be used.    
@@ -46,8 +46,8 @@ Further names which a cave or karst feature has or has had beyond its current na
 Similar to UISIC field [CA69](http://www.uisic.uis-speleo.org/exchange/atendefn.html#69)
 
 **\<cave-id\>**  *(special string)*  
-National cave identification number: optional 3-letter or 4-letter organization code + cave registry number, separated by dashes, e.g. HSS-234/7, where HSS stands for Hawaii Speleological Survey. For small countries, this might just be the national cave number, e.g. 1234/5. The [cave-id] is restricted to ASCII characters and must not contain whitespaces. The organization code, if used, must use capital letters.  
-Similar to UISIC field [CA227](http://www.uisic.uis-speleo.org/exchange/atendefn.html#227) and to the "international cave number". A record is allowed to have more than one [cave-id], but different caves within the same country must have different [cave-id]s.  
+National cave identification number: optional 3-letter or 4-letter organization code + cave registry number, separated by dashes, e.g. HSS-234/7, where HSS stands for Hawaii Speleological Survey. For small countries, this might just be the national cave identification number or cadastral number, e.g. 1234/5. The [cave-id] is restricted to ASCII characters and must not contain whitespaces. The organization code, if used, must use capital letters.  
+Similar to UISIC field [CA227](http://www.uisic.uis-speleo.org/exchange/atendefn.html#227) and to the "international cave number". A record is allowed to have more than one [cave-id]. Different caves within the same country are meant to have different [cave-id]s, but this is not required by the CaveXML standard.  
 
 **\<latitude\>**  *-90 ≤ decimal ≤ +90, maxOccurs=1*  
 The N-S latitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if north of the equator, negative if south of the equator. Expressed as a real number, rather than as degrees, minutes, and seconds. If [latitude] is given, [longitude] must also be provided. If both [latitude] and [longitude] have only one or two significant digits after the decimal point, they have been rounded in order not to reveal the exact location. Adding trailing zeros would indicate a coordinate is exact rather than truncated.   
@@ -85,7 +85,7 @@ List of options: *solution cave, artificial cave, boulder cave, glacier cave, la
 
 **\<contents\>**  *controlled vocabulary*  
 What the cave contains. Similar to UISIC field [CA72](http://www.uisic.uis-speleo.org/exchange/atendefn.html#72).  
-List of options: *permanent ice, periodic ice, perennially submerged, intermittently submerged, perennially part-submerged, intermittently part-submerged, extensive guano, many bats, occasional bats, birds, fish, snakes, trogloxenes, accidental trogloxenes, troglophiles, troglobites, charcoal, paintings, minerals, lake(s), waterfall(s), tree roots*. CA72 has [36 allowed options](http://www.uisic.uis-speleo.org/exchange/atencode.html#72), which have been shortened to 18, and the four terms about submersion are borrowed from [CA2](http://www.uisic.uis-speleo.org/exchange/atendefn.html#2). If the desired entry is not available among the list of terms, enter it in [comments] instead.
+List of options: *permanent ice, periodic ice, extensive guano, many bats, occasional bats, birds, fish, snakes, trogloxenes, accidental trogloxenes, troglophiles, troglobites, charcoal, paintings, minerals, lake(s), waterfall(s), tree roots, perennially submerged, intermittently submerged, perennially part-submerged, intermittently part-submerged*. CA72 has [36 allowed options](http://www.uisic.uis-speleo.org/exchange/atencode.html#72), which have been shortened to 18, and the four terms about submersion are borrowed from [CA2](http://www.uisic.uis-speleo.org/exchange/atendefn.html#2). If the desired entry is not available among the list of terms, enter it in [comments] instead.
 
 **\<comments\>**  *string*  
 Comments about a cave or karst feature. This field should be used only when a suitable more specific field is not available. Use semicolons (;) between separate comments, or place them in separate [comments] entries.  
@@ -187,19 +187,21 @@ Further Discussion
   
 **Unique record identifier**
 
-CaveXML does not include a catalog number that would uniquely identify a record.
-The country name (or its ISO letter abbreviation) plus the national cave id identify a record uniquely. A record may have more than one cave-id and, in principle, could even have more than one [country-name], but the national cave id is required to be unique to the cave.
-However, many records will not have a cave-id.  In this case, a hash code can be generated from the totality of entries in the record. The hash function is a deterministic procedure that turns an input of arbitrary length into a short fixed-lengh output.
-For example, the MD5 hash generates a 32-character hexadecimal code, and the probability that the same MD5 hash is produced from different inputs is essentially zero. 
-The same record always results in the same hash. When the record is edited, the hash code changes.
-Practically, the hash code could be generated based on a limited number of entries, such as [state-or-province], [phys-area-name], and cave names (principal and other). The strings are merged and input to a hash code generator. Two caves in close vicinity of each other should not have the same name, so they ought to differ in one of those fields. And if location information is omitted from the record and the cave name is not unique, the ambiguity is fundamental.
-Hence, unique record identifiers can be generated automatically from CaveXML data records, although they are not permanent unless [cave-id] is present.   
+CaveXML does not include a catalog number that would uniquely identify a record. This is intentional. There is no fundamental reason data records would require catalog numbers, something that is not a physical property of the cave. And there will be many CaveXML-formatted databases, rather than a single central database, so there would be multiple catalog numbers for the same cave.  
+
+A unique record identifier can be generated in form of a hash code based on the totality of entries in the record. The hash function is a deterministic procedure that turns an input of arbitrary length into an output of fixed length. For example, the MD5 hash generates a 32-character hexadecimal code, and the probability that the same MD5 hash is produced from different inputs is essentially zero. The same record always results in the same hash. When the record is edited, the hash code changes.
+Practically, the hash code could be generated based on a limited number of entries, such as [state-or-province], [phys-area-name], and cave names (principal and other). The strings are merged into a single long string that serves as input for a hash code generator. Two caves in close vicinity of each other should not have the same name, so they ought to differ in one of those fields. And if location information is omitted from the record and the cave name is not unique, the ambiguity is fundamental.
+Hence, unique record identifiers can be generated automatically from CaveXML data records. They are not permanent, because they change with even minor edits.   
+
+Another approach to generating unique record identifiers would have been to use the country name (or its ISO letter abbreviation) plus the national cave id, if available. Cave ids, such as cave numbers and cadastral numbers, are meant to be unique for each cave. A record may have more than one cave-id and, in principle, could even have more than one [country-name], but as long as a national cave id is available and unique to the cave, it could be used as unique record identifier. There is one infrequent, but serious flaw to this approach, namely that sometimes a cave system inherits its id number from one of its branches, namely when the system of assigning identification numbers is based on entrances.
+For example, Eisrohrhöhle and the Eisrohrhöhle-Bammelschacht-System in Germany both have the cadastral number 1337/118. This introduces fundamental ambiguities. Solving this problem is no different than introducing an international cave identification number that would identify every cave in the world uniquely. This is a problem that should be solved at a level beyond the CaveXML interchange format definitions.  
+ 
+In other words, for CaveXML data the [cave-id] field is not required to be unique and record identifiers are cryptic codes that occasionally change (so they are not suitable for permalinks, unfortunately).
+There is another aspect to this choice of solution. Whereas a data interchange standard can require whatever it deems desirable, an XML-validator considers the content of one record at a time and does not perform cross-comparisons to find out whether a [cave-id] entry is also used in another record. This allows to perfectly align the interchange standard with what can be implemented in an XML schema definition, a technically elegant solution, because nothing else but a single XML validation is necessary to verify that a database follows the standard completely.  
 
 
 **Automated cross-linking between cave systems and their branches**
 
 When a cave system consists of several branches that have their own record in the database, they can be cross-linked. The elements [cave-system] and [branch-name] point to a [principal-cave-name], but cave names might not be unique, even within the same country, so a more sophisticated approach is needed to unambiguously cross-link a cave system with its branches.  When [cave-system] points to a [principal-cave-name], that record should include a [branch-name] that points back to the [principal-cave-name] of the referring record. This two-way reference guarantees that correct cross links have been identified, and this identification can be performed automatically.  
-
-
 
 

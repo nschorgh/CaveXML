@@ -23,7 +23,7 @@ to a system more than one level of hierarchy up, and so on.
 The options 'basalt' and 'lava' overlap considerably and there is no option
 for 'anhydrite', which I occasionally see in descriptions of the host rock of
 caves. But I am not a geologist, and would rather leave this to someone who
-knows more.
+knows.
 
 
 

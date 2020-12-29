@@ -8,7 +8,8 @@ import xml.etree.ElementTree as ET
 import csv
 import re
 from cavexml import parse_ExtendedUnsignedInteger, parse_AltitudeEntry
-import unicodedata
+#import unicodedata
+import unidecode
 
 tree = ET.parse('../allcaves-database.xml')
 root = tree.getroot()
@@ -41,10 +42,9 @@ for item in root.findall('record'):
     pcn = item.find('principal-cave-name') # maxOccurs=1
     try:
         #record_nr.append(pcn.text)
-        nfkd_form = unicodedata.normalize('NFKD', pcn.text)
-        only_ascii = nfkd_form.encode('ASCII', 'ignore')
-        back_to_native = str(only_ascii,'utf-8')
-        record_nr.append(back_to_native)
+        normname = unidecode.unidecode(pcn.text)
+        normname = re.sub(r'\W+', '', normname).lower() # \W = [^a-zA-Z0-9_]
+        record_nr.append(normname)
     except:
         record_nr.append("")
     

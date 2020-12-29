@@ -205,7 +205,7 @@
 
     {
       "country-name": "Austria",
-      "state-or-province": "Tyrol",
+      "state-or-province": "Tirol",
       "phys-area-name": "Tennengebirge",
       "principal-cave-name": "Hundalm Eishöhle",
       "other-cave-name": "Hundalm Eis- und Tropfsteinhöhle",
@@ -9431,7 +9431,7 @@
       "state-or-province": "Aconcagua",
       "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui)",
       "principal-cave-name": "Ana More Mata Puka",
-      "length": [],
+      "length": 6,
       "cave-type": [],
       "reference": "Steiner (2016) doi:10.1353/rnj.2016.0018"
     },
@@ -9720,8 +9720,8 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; Ka'u District; Hilina Pali; Charcoal cave system",
-      "phys-area-name": "Hawaii Island",
+      "state-or-province": "Hawaii; Ka'u District",
+      "phys-area-name": "Hawaii Island; Hilina Pali; Charcoal cave system",
       "principal-cave-name": "Ash Crawl Cave",
       "length": 117,
       "cave-type": "lava tunnel",
@@ -10701,7 +10701,7 @@
       "country-name": "United States of America",
       "state-or-province": "Arizona",
       "state-or-province": "Coconino County",
-      "phys-area-name": "San Franciscan (Sunset Crater)",
+      "phys-area-name": "San Franciscan; Sunset Crater",
       "principal-cave-name": "Bonito Flow Ice Cave",
       "other-cave-name": "Sunset Crater Ice Cave",
       "length": 69,
@@ -11802,6 +11802,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands; Mammoth Crater",
       "principal-cave-name": "Chest Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -12034,16 +12035,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": [],
-      "principal-cave-name": "Coffee Cave",
-      "length": 1135,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=944"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "C.O.G. Cave",
@@ -12254,7 +12245,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui; Haleakala; Manawainaui Gulch",
+      "phys-area-name": "Maui; Haleakala; Manawainui Gulch",
       "principal-cave-name": "Crystal Cave",
       "altitude": 183,
       "length": [],
@@ -12272,16 +12263,6 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=837"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii; Ka'u District",
-      "phys-area-name": "Hawaii Island; Kilauea",
-      "principal-cave-name": "CSH Site 96 Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=838"
     },
 
     {
@@ -14314,7 +14295,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Ka'u District",
-      "phys-area-name": "Hawaii Island; Hilini Pali; Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea; Hilina Pali",
       "principal-cave-name": "Earthquake Cave",
       "length": 338,
       "cave-type": "lava tunnel",
@@ -14570,17 +14551,6 @@
       "length": 1129,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=740"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
-      "principal-cave-name": "Field 38 Cave",
-      "other-cave-name": "Offal Cave",
-      "length": 682,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=831"
     },
 
     {
@@ -17683,6 +17653,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Juniper Pole Cave",
       "length": 151,
       "rock-type": "basalt",
@@ -17719,6 +17690,7 @@
       "length": 2852,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=732",
+      "reference": "Richards and Szukalsk (2016) http://www.cavepics.com/IVS17/RICHARDS.pdf",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -17731,7 +17703,20 @@
       "length": 1000,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=890",
-      "reference": "Olson and James (1991) DOI:10.2307/40166794"
+      "reference": "Olson and James (1991) DOI:10.2307/40166794",
+      "reference": "Richards and Szukalsk (2016) http://www.cavepics.com/IVS17/RICHARDS.pdf"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Hawaii",
+      "phys-area-name": "Maui; Haleakala",
+      "principal-cave-name": "Mahiehie Cave",
+      "altitude": [],
+      "length": [],
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "Richards and Szukalsk (2016) http://www.cavepics.com/IVS17/RICHARDS.pdf"
     },
 
     {
@@ -18001,7 +17986,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
+      "phys-area-name": "Hawaii Island; Mauna Loa",
       "principal-cave-name": "Kau Cave #2",
       "length": 600,
       "cave-type": "lava tunnel",
@@ -18058,7 +18043,7 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii (Big Island); Hualalai",
-      "principal-cave-name": "Kaupulehu System",
+      "principal-cave-name": "Kaʻūpūlehu Cave",
       "length": 4952,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=935"
@@ -18402,7 +18387,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; Kaui County",
+      "state-or-province": "Hawaii; Kauai County",
       "phys-area-name": "Kauai; Koloa",
       "principal-cave-name": "Koloa Cave #4",
       "length": 20,
@@ -18984,7 +18969,8 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Kau District",
-      "phys-area-name": "Hawaii Island; Hilina Pali Area; Charcoal cave system",
+      "phys-area-name": "Hawaii Island; Kilauea",
+      "phys-area-name": "Hilina Pali; Charcoal cave system",
       "principal-cave-name": "Ledge Cave",
       "length": 185,
       "cave-type": "lava tunnel",
@@ -19206,9 +19192,11 @@
       "principal-cave-name": "Long Cave",
       "altitude": "~2000",
       "length": 500,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=832",
-      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf",
+      "reference": "Richards and Szukalsk (2016) http://www.cavepics.com/IVS17/RICHARDS.pdf"
     },
 
     {
@@ -21096,10 +21084,14 @@
       "state-or-province": "Hawaii",
       "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Offal Cave",
-      "length": 3400,
+      "other-cave-name": "Field 38 Cave",
+      "length": 682,
       "cave-type": "lava tunnel",
+      "contents": "troglophiles",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=876",
-      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=831",
+      "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf",
+      "curation": "references put length at 682m or 3400m"
     },
 
     {
@@ -22125,16 +22117,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
-      "phys-area-name": [],
-      "principal-cave-name": "Prairie Dog Cave",
-      "length": 1452,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=942"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Idaho; Elmore County",
       "phys-area-name": [],
       "principal-cave-name": "Prairie Ice Caves",
@@ -22518,7 +22500,7 @@
     {
       "country-name": "Iceland",
       "state-or-province": [],
-      "phys-area-name": "Edlhraun",
+      "phys-area-name": "Eldhraun",
       "principal-cave-name": "Rauðbogahellir",
       "other-cave-name": "Red Arch Cave",
       "length": 203,
@@ -22730,16 +22712,6 @@
       "length": 1039,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1737"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Washington",
-      "state-or-province": "Skamania County",
-      "principal-cave-name": "Ribbit Hole Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1749"
     },
 
     {
@@ -23490,6 +23462,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Sheet Cave",
       "length": 57,
       "cave-type": "lava tunnel",
@@ -23677,6 +23650,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands; Giant Crater",
       "principal-cave-name": "Short Caves",
       "length": 100,
       "cave-type": "lava tunnel",
@@ -24006,6 +23980,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands; Giant Crater",
       "principal-cave-name": "So What Cave",
       "length": 61,
       "cave-type": "lava tunnel",
@@ -24059,6 +24034,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands; Giant Crater",
       "principal-cave-name": "Sonja Wagit Cave",
       "length": 122,
       "cave-type": "lava tunnel",
@@ -24104,6 +24080,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands; Mammoth Crater",
       "principal-cave-name": "South Labyrinth Cave",
       "length": 1134,
       "cave-type": "lava tunnel",
@@ -24159,6 +24136,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands; Giant Crater",
       "principal-cave-name": "Spider Moth Annex",
       "length": 139,
       "cave-type": "lava tunnel",
@@ -24485,6 +24463,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands; Giant Crater",
       "principal-cave-name": "Sunbeam Annex Cave",
       "length": 46,
       "cave-type": "lava tunnel",
@@ -24495,6 +24474,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands; Giant Crater",
       "principal-cave-name": "Sunbeam Pit",
       "length": 147,
       "cave-type": "lava tunnel",
@@ -24515,6 +24495,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Sunnyside Tick Cave",
       "length": 44,
       "cave-type": "lava tunnel",
@@ -25038,6 +25019,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands; Giant Crater",
       "principal-cave-name": "Three Way",
       "length": 133,
       "cave-type": "lava tunnel",
@@ -25048,6 +25030,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands; Double Hole Crater",
       "principal-cave-name": "Throughway Cave",
       "length": 60,
       "cave-type": "lava tunnel",
@@ -25072,7 +25055,7 @@
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Thurston Lava Tube",
-      "other-cave-name": "Nahuku",
+      "other-cave-name": "Nāhuku",
       "altitude": 1200,
       "length": 593,
       "vertical-extent": 20,
@@ -25600,6 +25583,7 @@
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "principal-cave-name": "Twin Caves",
+      "other-cave-name": "Twin Crater Ice Caves",
       "length": 20,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=519"
@@ -25833,7 +25817,7 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii (Big Island); Hualalai",
-      "principal-cave-name": "Upper Kaupulehu System",
+      "principal-cave-name": "Upper Kaʻūpūlehu System",
       "length": 5547,
       "vertical-extent": 188,
       "rock-type": "basalt",

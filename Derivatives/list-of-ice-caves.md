@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 518 rock-hosted caves with perennial ice was generated from a CaveXML database. - Dec 28, 2020
+This list of 518 rock-hosted caves with perennial ice was generated from a CaveXML database. - Dec 29, 2020
 
 Austria - Oberösterreich - Dachstein [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-09ce958d127174017149d8adf1a2db30)  
 Austria - Oberösterreich - Dachstein [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-8cc53615b4bc61060a96e8087ea79ae4)  
@@ -465,12 +465,12 @@ Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide [**Cuevas Heladas d
 Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide [**Ice cave 2 Pico Viejo** ](allcaves-database.md#ES-f030f5ce3db1f97639ca7b7904c4c8cc)  
 Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide [**Rajada** ](allcaves-database.md#ES-4faff8075e1825a1afc5198eb8650e54)  
 Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide [**Sima de Hielo Montaña Rajada** ](allcaves-database.md#ES-adeea1d09424bfa224fa7c7c704d6658)  
+Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya [**G15 Rundsvagrotte ** ](allcaves-database.md#SJ-fb821f7292691c3eafc0a8d148a0f619)  
 Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya [**G22 Takrørgrotta** ](allcaves-database.md#SJ-51fec55c5b30f22d6194c043f5de71fd)  
 Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya [**G25 Bratlirør III** ](allcaves-database.md#SJ-68184bf408eba36144d47d044b21f9a5)  
 Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya [**G27 Kronegrotta** ](allcaves-database.md#SJ-d271c4411637ad1251946789ef0ff07c)  
 Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya [ G4 ](allcaves-database.md#SJ-18ab12f05333eb96b50ff941aa0bd412)  
 Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya [**G5 Portalgrotta** ](allcaves-database.md#SJ-09ae54ea30c213bdcb8f81d7e90f7239)  
-Svalbard and Jan Mayen - Spitsbergen; Blomstrandsøya [**Portalgrotta** G15 Rundsvagrotte 1 ](allcaves-database.md#SJ-bc85caf438657d68a79169dc0ebf84fa)  
 Sweden [**Iskristallgrottan** Ice Crystal Cave ](allcaves-database.md#SE-a93e97253a2a738fd1851f092d3c160e)  
 Switzerland - Neuchâtel (NE) - Swiss Jura mountains [**Monlesi Ice Cave** Glacière de Monlési NE-137](allcaves-database.md#CH-aedde6ba095996d1b9e4f1c36f28c3da)  
 Switzerland - Swiss Jura mountains [**Greux-de-Glace** ](allcaves-database.md#CH-f970d41882d51e4df0d963dd77e28ae9)  
@@ -486,11 +486,11 @@ United States of America - California - Lava Beds National Monument [**C-270** ]
 United States of America - California - Lava Beds National Monument [**L-800** ](allcaves-database.md#US-6dcca36d30dfd9bb66692850ca3d1f6f)  
 United States of America - California - Lava Beds National Monument [**U-200** ](allcaves-database.md#US-1f19f2c2da18a16986094f6c88a7aeb9)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Mammoth Crater [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-62ed7a87bf9d524a3e25db98ae2a7334)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Mammoth Crater [**Upper Ice Cave** ](allcaves-database.md#US-5e2a2bc1d95bdda69492ad5e255b29ce)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Mammoth Crater [**Crystal Cave** Crystal Ice Cave; Blue Crystal Ice Cave ](allcaves-database.md#US-fc5568e5634776f0ae35c2b1315215b3)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater [**Incline Cave** M-340](allcaves-database.md#US-4be431346b34f7f10b54fdd5b8eb793a)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater [**Skull Ice Cave** Skull Cave ](allcaves-database.md#US-576280d2c58ce17512b5951d295a1e6c)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Modoc Crater [**Big Painted Cave** M-310](allcaves-database.md#US-7064c646cfcc1918723ab1cce50bbe0d)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Crystal Cave** Crystal Ice Cave; Blue Crystal Ice Cave ](allcaves-database.md#US-6ba6c59dd42aa1cdbaadfd0b880831a2)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Upper Ice Cave** ](allcaves-database.md#US-a50eecca7d83813c7a7a09db3ac17b1d)  
 United States of America - Hawaii - Hawaii Island; Mauna Loa [**Arsia Cave** Arsia Ice Cave ](allcaves-database.md#US-018c11f08faa8198eccd5f59f1d2c52c)  
 United States of America - Hawaii - Hawaii Island; Mauna Loa [**Mauna Loa Ice Cave** ](allcaves-database.md#US-2cc407ff6a2f066da4b7916191650039)  
 United States of America - Idaho - Northern Rocky Mountains; Craters of the Moon National Monument [**Snow Cone** ](allcaves-database.md#US-9c34793586092e16b66cfb8a7655fb35)  
@@ -503,8 +503,8 @@ United States of America - New Mexico; Cibola County - El Malpais [**Frozen Matt
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Navajo Cave** Navajo Ice Cave; Cave 29 ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
 United States of America - New Mexico; Cibola County - El Malpais region [**Candelaria Ice Cave** Cerro Candelaria; Bandera Volcano Ice Cave; Zuni Ice Cave ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
+United States of America - Oregon; Deschutes County - Arnold Lava Tube System; Newberry Volcano [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-b9513e9db4a84c47e0d0057c42022592)  
 United States of America - Oregon; Deschutes County - Newberry National Monument [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-d81fd19911fc95f7260b1a643df09f29)  
-United States of America - Oregon; Deschutes County - Newberry Volcano [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-c5d7d1ff312ea1bb5ed16dea777d5126) *Part of* Arnold Lava Tube System  
 United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-077de09ed873c37df0563a21580f0209)  
 United States of America - Utah - Central Rocky Mountains [**Bear Ice Cave** ](allcaves-database.md#US-f9244e4b84013595587462be918605da)  
 United States of America - Utah - Central Rocky Mountains [**Big Brush Creek Cave** ](allcaves-database.md#US-e328d340ccc22180c747d11cb3f14d41)  
@@ -534,10 +534,10 @@ Japan - Mt. Fuji [**Fuji Ice Cave** Fuji Fuketsu (Fuji Wind Cave) ](allcaves-dat
 Japan - Mt. Fuji [**Motosu Fuketsu No. 2 Cave** ](allcaves-database.md#JP-2a709c7095c14ead38bd702c895e40d9)  
 Japan - Yamanashi - Mt. Fuji [**Narusawa Hyoketsu Cave** Narusawa Ice Cave; Narusawa Wind Cave; Narusawa Fuketsu ](allcaves-database.md#JP-6d8a263701cde5196f0357254dcdb677)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Mammoth Crater [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-62ed7a87bf9d524a3e25db98ae2a7334)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Mammoth Crater [**Upper Ice Cave** ](allcaves-database.md#US-5e2a2bc1d95bdda69492ad5e255b29ce)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Mammoth Crater [**Crystal Cave** Crystal Ice Cave; Blue Crystal Ice Cave ](allcaves-database.md#US-fc5568e5634776f0ae35c2b1315215b3)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater [**Skull Ice Cave** Skull Cave ](allcaves-database.md#US-576280d2c58ce17512b5951d295a1e6c)  
 United States of America - California; Siskiyou County - Lava Beds National Monument; Modoc Crater [**Big Painted Cave** M-310](allcaves-database.md#US-7064c646cfcc1918723ab1cce50bbe0d)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Crystal Cave** Crystal Ice Cave; Blue Crystal Ice Cave ](allcaves-database.md#US-6ba6c59dd42aa1cdbaadfd0b880831a2)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Upper Ice Cave** ](allcaves-database.md#US-a50eecca7d83813c7a7a09db3ac17b1d)  
 United States of America - Hawaii - Hawaii Island; Mauna Loa [**Arsia Cave** Arsia Ice Cave ](allcaves-database.md#US-018c11f08faa8198eccd5f59f1d2c52c)  
 United States of America - Hawaii - Hawaii Island; Mauna Loa [**Mauna Loa Ice Cave** ](allcaves-database.md#US-2cc407ff6a2f066da4b7916191650039)  
 United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area [**Giant Ice Cave** ](allcaves-database.md#US-06b3ec167f699a4da47cc445ea15d22d)  
@@ -545,8 +545,8 @@ United States of America - New Mexico; Cibola County - El Malpais [**Frozen Matt
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Navajo Cave** Navajo Ice Cave; Cave 29 ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
 United States of America - New Mexico; Cibola County - El Malpais region [**Candelaria Ice Cave** Cerro Candelaria; Bandera Volcano Ice Cave; Zuni Ice Cave ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
+United States of America - Oregon; Deschutes County - Arnold Lava Tube System; Newberry Volcano [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-b9513e9db4a84c47e0d0057c42022592)  
 United States of America - Oregon; Deschutes County - Newberry National Monument [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-d81fd19911fc95f7260b1a643df09f29)  
-United States of America - Oregon; Deschutes County - Newberry Volcano [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-c5d7d1ff312ea1bb5ed16dea777d5126) *Part of* Arnold Lava Tube System  
 United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-077de09ed873c37df0563a21580f0209)  
 United States of America - Washington; Skamania County - Mt. Adams [**Guler Ice Cave** ](allcaves-database.md#US-f3ebfa41578dcd316016a2b8094666ae)  
 United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system [**Hoarfrost Cave** NSS-633-18](allcaves-database.md#US-151253683e3a14b5f500d68384630664)  

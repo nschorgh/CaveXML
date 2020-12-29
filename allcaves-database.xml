@@ -2008,20 +2008,6 @@
       <country-name>Poland</country-name>
       <state-or-province/>
       <phys-area-name/>
-      <principal-cave-name>Zimny Aven</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude>1650</altitude>
-      <length>4</length>
-      <vertical-extent>1</vertical-extent>
-      <comments>recrystallized snow</comments>
-      <reference>Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3</reference>
-   </record>
-   <record>
-      <country-name>Poland</country-name>
-      <state-or-province/>
-      <phys-area-name/>
       <principal-cave-name>Jaskinia Lodowa w Twardych Spadach</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5782,8 +5768,8 @@
    <record>
       <country-name>Svalbard and Jan Mayen</country-name>
       <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
-      <principal-cave-name>Portalgrotta</principal-cave-name>
-      <other-cave-name>G15 Rundsvagrotte 1</other-cave-name>
+      <principal-cave-name>G15 Rundsvagrotte </principal-cave-name>
+      <other-cave-name></other-cave-name>
       <altitude>72</altitude>
       <length>3</length>
       <vertical-extent>1</vertical-extent>
@@ -8740,7 +8726,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Hualalai; Pu'uwa'awa'a</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai; Pu'uwa'awa'a</phys-area-name>
       <principal-cave-name>Ambigua Cave</principal-cave-name>
       <length>1764</length>
       <vertical-extent>293</vertical-extent>
@@ -8920,6 +8906,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Angleworm cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -9018,6 +9005,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Arch Cave</principal-cave-name>
       <length>100</length>
@@ -9042,6 +9030,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Arch Sunk Cave</principal-cave-name>
       <length>46</length>
       <cave-type>lava tunnel</cave-type>
@@ -9078,14 +9067,13 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Oregon; Deschutes County</state-or-province>
-      <phys-area-name>Newberry Volcano</phys-area-name>
+      <phys-area-name>Arnold Lava Tube System; Newberry Volcano</phys-area-name>
       <principal-cave-name>Arnold Ice Cave</principal-cave-name>
       <other-cave-name>Crook County Ice Cave</other-cave-name>
       <altitude>1381</altitude>
       <length>49</length>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
-      <cave-system>Arnold Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1285</reference>
       <reference>Knutson (1976) http://www.vulcanospeleology.org/sym01/ISV1x08.pdf</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
@@ -9276,6 +9264,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Balcony Cave</principal-cave-name>
       <length>885</length>
@@ -9288,6 +9277,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <principal-cave-name>Balcony Chamber Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -9463,13 +9453,12 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Oregon</state-or-province>
-      <phys-area-name/>
+      <state-or-province>Oregon; Deschutes County</state-or-province>
+      <phys-area-name>Arnold Lava Tube System</phys-area-name>
       <principal-cave-name>Bat Cave</principal-cave-name>
       <length>166</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Arnold Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1281</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
@@ -9517,6 +9506,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <principal-cave-name>Battered Sherman</principal-cave-name>
       <length>16</length>
       <cave-type>lava tunnel</cave-type>
@@ -9540,6 +9530,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Beaconlight Cave</principal-cave-name>
       <length>127</length>
@@ -9571,6 +9562,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <phys-area-name>Modoc Crater</phys-area-name>
       <principal-cave-name>Bearpaw Cave</principal-cave-name>
@@ -9666,6 +9658,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Big Block</principal-cave-name>
       <length>31</length>
       <cave-type>lava tunnel</cave-type>
@@ -9695,6 +9688,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Big Deal Cave</principal-cave-name>
       <length>31</length>
       <cave-type>lava tunnel</cave-type>
@@ -9802,7 +9796,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands; Double-Hole Crater</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Double Hole Crater</phys-area-name>
       <principal-cave-name>Birdnest Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -9914,6 +9908,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Blue Grotto</principal-cave-name>
       <length>470</length>
@@ -9949,6 +9944,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Bobcat Cave</principal-cave-name>
       <length>1566</length>
       <cave-type>lava tunnel</cave-type>
@@ -10035,6 +10031,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Boulevard Caves</principal-cave-name>
       <length/>
@@ -10050,6 +10047,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Boulevard Cave</principal-cave-name>
       <cave-id>B200</cave-id>
@@ -10064,6 +10062,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>East Boulevard Cave</principal-cave-name>
       <cave-id>B210</cave-id>
@@ -10076,6 +10075,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Boulevard Bridge</principal-cave-name>
       <cave-id>B190</cave-id>
@@ -10087,6 +10087,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Pango Ndogo Cave</principal-cave-name>
       <cave-id>B140</cave-id>
@@ -10097,17 +10098,9 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Maui; Haleakala; Polipoli State Recreation Area</phys-area-name>
-      <principal-cave-name>Boundry Line Cave</principal-cave-name>
-      <length>9</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=835</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Bowers Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -10666,6 +10659,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Catacombs Cave</principal-cave-name>
       <length>2104</length>
@@ -10681,6 +10675,7 @@
       <phys-area-name/>
       <principal-cave-name>Catlin Gabel System (collapsed)</principal-cave-name>
       <length>2700</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1252</reference>
    </record>
@@ -10962,24 +10957,22 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Oregon</state-or-province>
-      <phys-area-name/>
+      <state-or-province>Oregon; Deschutes County</state-or-province>
+      <phys-area-name>Arnold Lava Tube System</phys-area-name>
       <principal-cave-name>Charcoal Cave #2</principal-cave-name>
       <length>144</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Arnold Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1283</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Oregon</state-or-province>
-      <phys-area-name/>
+      <state-or-province>Oregon; Deschutes County</state-or-province>
+      <phys-area-name>Arnold Lava Tube System</phys-area-name>
       <principal-cave-name>Charcoal Cave</principal-cave-name>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Arnold Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1286</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
@@ -10989,6 +10982,7 @@
       <state-or-province>Deschutes County</state-or-province>
       <principal-cave-name>Charlie-the-Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1232</reference>
    </record>
@@ -11360,8 +11354,8 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Craig Cave</principal-cave-name>
       <other-cave-name>Craig Ice Cave</other-cave-name>
       <length>550</length>
@@ -11393,8 +11387,8 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Crystal Cave</principal-cave-name>
       <other-cave-name>Crystal Ice Cave</other-cave-name>
       <other-cave-name>Blue Crystal Ice Cave</other-cave-name>
@@ -12896,7 +12890,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands; Double-Hole Crater</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Double Hole Crater</phys-area-name>
       <principal-cave-name>Deep Ice Cave</principal-cave-name>
       <other-cave-name>Bailey's Bailiwick</other-cave-name>
       <length>45</length>
@@ -12934,13 +12928,12 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Oregon</state-or-province>
-      <phys-area-name/>
+      <state-or-province>Oregon; Deschutes County</state-or-province>
+      <phys-area-name>Arnold Lava Tube System</phys-area-name>
       <principal-cave-name>Deg Cave</principal-cave-name>
       <length>187</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Arnold Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1290</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
@@ -12981,6 +12974,7 @@
       <phys-area-name>Shasta</phys-area-name>
       <principal-cave-name>Devil's Kitchen Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=617</reference>
    </record>
@@ -13078,6 +13072,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Doc Yock Cave</principal-cave-name>
       <length>20</length>
@@ -13178,7 +13173,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <principal-cave-name>Dragon's Head Cave</principal-cave-name>
       <length>315</length>
       <cave-type>lava tunnel</cave-type>
@@ -13257,7 +13252,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Dynamited Cave</principal-cave-name>
       <cave-id>NSS-633-50</cave-id>
       <length>3763</length>
@@ -13306,7 +13301,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Puna District</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Eldon English Cave</principal-cave-name>
       <length>204</length>
       <rock-type>basalt</rock-type>
@@ -13327,7 +13322,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Elmer's Bridge</principal-cave-name>
       <length>52</length>
       <cave-type>lava tunnel</cave-type>
@@ -13336,6 +13331,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Elmer's Lower Bridge</principal-cave-name>
       <cave-id>E450</cave-id>
@@ -13347,6 +13343,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Elmer's Upper Bridge</principal-cave-name>
       <cave-id>E440</cave-id>
@@ -13506,7 +13503,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Puna District</state-or-province>
-      <phys-area-name>Hawaii Island</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Fern's Cave</principal-cave-name>
       <length>1129</length>
       <cave-type>lava tunnel</cave-type>
@@ -13575,7 +13572,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Flat Arch Cave</principal-cave-name>
       <length>114</length>
       <cave-type>lava tunnel</cave-type>
@@ -13607,7 +13604,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <principal-cave-name>Fleener Chimneys</principal-cave-name>
       <length>66</length>
       <rock-type>basalt</rock-type>
@@ -13683,7 +13680,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Fossil Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -13692,7 +13689,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Four Pit Balcony Cave</principal-cave-name>
       <length>465</length>
       <rock-type>basalt</rock-type>
@@ -13925,9 +13922,10 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <principal-cave-name>Gail Cave</principal-cave-name>
       <length>120</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=656</reference>
    </record>
@@ -13968,6 +13966,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Garden Bridges Cave</principal-cave-name>
       <length/>
@@ -13988,7 +13987,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Gelsie's Grotto</principal-cave-name>
       <length>777</length>
       <rock-type>basalt</rock-type>
@@ -14263,6 +14262,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Golden Dome Cave</principal-cave-name>
       <length>679</length>
@@ -14395,7 +14395,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Greeley's Pit</principal-cave-name>
       <length>20</length>
       <cave-type>lava tunnel</cave-type>
@@ -14857,7 +14857,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Gruta Huella de Pollo Pequena</principal-cave-name>
       <length>26</length>
       <cave-type>lava tunnel</cave-type>
@@ -15277,6 +15277,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Hercules Leg Cave</principal-cave-name>
       <length>594</length>
@@ -15456,8 +15457,8 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <phys-area-name/>
       <principal-cave-name>Hopkins Chocolate Cave</principal-cave-name>
       <length>428</length>
       <cave-type>lava tunnel</cave-type>
@@ -15523,7 +15524,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Medicine Lake Highlands; Double Crater</phys-area-name>
       <principal-cave-name>Hourglass Cave</principal-cave-name>
       <length>884</length>
       <cave-type>lava tunnel</cave-type>
@@ -15729,7 +15730,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Ice Plug Cave</principal-cave-name>
       <length>270</length>
       <cave-type>lava tunnel</cave-type>
@@ -15749,7 +15750,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Ice River Cave</principal-cave-name>
       <length>317</length>
       <rock-type>basalt</rock-type>
@@ -15786,7 +15787,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name>Laufbalavatn cave area</phys-area-name>
+      <phys-area-name>Eldhraun/Laki; Laufbalavatn cave area</phys-area-name>
       <principal-cave-name>Iðrafossar</principal-cave-name>
       <other-cave-name>Cascade Cave</other-cave-name>
       <length>1100</length>
@@ -16045,7 +16046,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <principal-cave-name>Irish Bridge</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
@@ -16055,7 +16056,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Irish Catwalk Cave</principal-cave-name>
       <length>300</length>
       <cave-type>lava tunnel</cave-type>
@@ -16083,8 +16084,8 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Island Ice Cave</principal-cave-name>
       <other-cave-name>Hambone Island Cave</other-cave-name>
       <cave-id>M-470</cave-id>
@@ -16280,7 +16281,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Double Hole Crater</phys-area-name>
       <principal-cave-name>Jot Dean Ice Cave</principal-cave-name>
       <length>34</length>
       <rock-type>basalt</rock-type>
@@ -16334,6 +16335,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Juniper Cave</principal-cave-name>
       <length>720</length>
@@ -16347,6 +16349,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>      	    
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Juniper Pole Cave</principal-cave-name>
       <length>151</length>
@@ -16934,8 +16937,8 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Kirk White's Cave</principal-cave-name>
       <length>73</length>
       <rock-type>basalt</rock-type>
@@ -17229,15 +17232,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1175</reference>
    </record>
    <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii; Puna District</state-or-province>
-      <phys-area-name>Hawaii Island</phys-area-name>
-      <principal-cave-name>Kurtistown Civil Defense Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=801</reference>
-   </record>
-   <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
@@ -17281,8 +17275,8 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Labyrinth Cave System</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -17298,6 +17292,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Labyrinth Cave</principal-cave-name>
       <length>378</length>
@@ -17401,6 +17396,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Lava Brook Cave</principal-cave-name>
       <length>262</length>
@@ -17516,6 +17512,7 @@
       <state-or-province>Deschutes County</state-or-province>
       <principal-cave-name>Lavacicle Cave</principal-cave-name>
       <length>1235</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1274</reference>
    </record>
@@ -17551,7 +17548,7 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii; Kau District</state-or-province>
+      <state-or-province>Hawaii; Ka'u District</state-or-province>
       <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <phys-area-name>Hilina Pali; Charcoal cave system</phys-area-name>
       <principal-cave-name>Ledge Cave</principal-cave-name>
@@ -17723,6 +17720,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Liverwort Cave</principal-cave-name>
       <length>36</length>
       <cave-type>lava tunnel</cave-type>
@@ -17766,7 +17764,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Long First Step Cave</principal-cave-name>
       <length>15</length>
       <cave-type>lava tunnel</cave-type>
@@ -17785,6 +17783,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Looping Route</principal-cave-name>
       <length>528</length>
       <cave-type>lava tunnel</cave-type>
@@ -17994,17 +17993,9 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Maui</phys-area-name>
-      <principal-cave-name>Lua Manu Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=898</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Lucky Star Cave</principal-cave-name>
       <length>78</length>
       <cave-type>lava tunnel</cave-type>
@@ -18013,7 +18004,7 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name>Laufbalavatn cave area</phys-area-name>
+      <phys-area-name>Eldhraun/Laki; Laufbalavatn cave area</phys-area-name>
       <principal-cave-name>Lykkjuhellir</principal-cave-name>
       <other-cave-name>Link Cave</other-cave-name>
       <length>340</length>
@@ -18052,6 +18043,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <principal-cave-name>Mahogany Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -18079,7 +18071,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; North Kona</state-or-province>
-      <phys-area-name>Hawaii Island; Hualalai</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Lama Lua Cave</principal-cave-name>
       <length>5523</length>
       <cave-type>lava tunnel</cave-type>
@@ -18090,7 +18082,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; North Kona</state-or-province>
-      <phys-area-name>Hawaii Island; Hualalai</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Pueo Cave</principal-cave-name>
       <length> >6500</length>
       <rock-type>basalt</rock-type>
@@ -18100,7 +18092,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; North Kona</state-or-province>
-      <phys-area-name>Hawaii Island; Hualalai</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Two Owl Cave</principal-cave-name>
       <length> >5000</length>
       <rock-type>basalt</rock-type>
@@ -18110,7 +18102,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; North Kona</state-or-province>
-      <phys-area-name>Hawaii Island; Hualalai</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Aluminum Ladder Cave</principal-cave-name>
       <length> >3500</length>
       <rock-type>basalt</rock-type>
@@ -18120,7 +18112,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; North Kona</state-or-province>
-      <phys-area-name>Hawaii Island; Hualalai</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Manu Nui Cave System (Big Bird)</principal-cave-name>
       <length>3700</length>
       <vertical-extent>352</vertical-extent>
@@ -18293,8 +18285,9 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name>Eldhraun/Laki</phys-area-name>
+      <phys-area-name>Eldhraun/Laki; Laufbalavatn cave area</phys-area-name>
       <principal-cave-name>Matargat</principal-cave-name>
+      <other-cave-name>Lunch Cave</other-cave-name>
       <length>135</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -18524,8 +18517,8 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <phys-area-name>Medicine Lake Highlands; Modoc Crater</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Merrill Ice Cave</principal-cave-name>
       <other-cave-name>Merrill Cave</other-cave-name>
       <altitude>1487</altitude>
@@ -18744,6 +18737,7 @@
       <phys-area-name>Shasta</phys-area-name>
       <principal-cave-name>Moon Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=618</reference>
    </record>
@@ -19033,6 +19027,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Mushpot Cave</principal-cave-name>
       <length>235</length>
@@ -19195,7 +19190,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <principal-cave-name>Natural Bridge</principal-cave-name>
       <length>47</length>
       <rock-type>basalt</rock-type>
@@ -19722,6 +19717,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Ovis Cave</principal-cave-name>
       <length>66</length>
@@ -19839,6 +19835,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Paradise Alleys Cave</principal-cave-name>
       <length>300</length>
@@ -20181,10 +20178,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Arnold Lava Tube System</phys-area-name>
       <principal-cave-name>Pictograph Cave</principal-cave-name>
       <length>549</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Arnold Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1284</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
@@ -20313,12 +20310,14 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Maui; Haleakala</phys-area-name>
+      <phys-area-name>Maui; Haleakala; Polipoli State Recreation Area</phys-area-name>
       <principal-cave-name>Polipoli Cave</principal-cave-name>
+      <other-cave-name>Boundary Line Cave</other-cave-name>
       <length>914</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=793</reference>
       <reference>Sorenson et al. (1999) doi:10.1098/rspb.1999.0907</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=835</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -20381,6 +20380,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Post Office Cave</principal-cave-name>
       <other-cave-name>Postoffice Cave</other-cave-name>
@@ -20591,10 +20591,11 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name>Laufbalavatn cave area</phys-area-name>
+      <phys-area-name>Eldhraun/Laki; Laufbalavatn cave area</phys-area-name>
       <principal-cave-name>Þvæluhellir</principal-cave-name>
       <other-cave-name>Muddle Cave</other-cave-name>
       <length>522</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=204</reference>
    </record>
@@ -21107,6 +21108,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Roadside Cave System</principal-cave-name>
       <length>248</length>
@@ -21447,9 +21449,11 @@
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
       <principal-cave-name>Salamander Cave</principal-cave-name>
+      <cave-id>NSS-633-201</cave-id>
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1673</reference>
+      <reference>https://www.oregongrotto.com/troutlake.shtml</reference>
    </record>
    <record>
       <country-name>Fiji</country-name>
@@ -21522,6 +21526,7 @@
       <phys-area-name/>
       <principal-cave-name>Santiam Pit Lava Tube</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1253</reference>
    </record>
@@ -21582,6 +21587,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Sentinel Cave</principal-cave-name>
       <length>1228</length>
@@ -21613,6 +21619,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Sharks Mouth Cave</principal-cave-name>
       <cave-id>B120</cave-id>
@@ -21627,6 +21634,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Nirvana Cave</principal-cave-name>
       <cave-id>B130</cave-id>
@@ -21639,6 +21647,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Purgatory Cave</principal-cave-name>
       <cave-id>B150</cave-id>
@@ -21945,6 +21954,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Silver Cave</principal-cave-name>
       <length>600</length>
@@ -22476,6 +22486,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Stinking Cave</principal-cave-name>
       <length>39</length>
@@ -22498,12 +22509,11 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Oregon</state-or-province>
-      <phys-area-name/>
+      <state-or-province>Oregon; Deschutes County</state-or-province>
+      <phys-area-name>Arnold Lava Tube System</phys-area-name>
       <principal-cave-name>Stookey Ranch Cave</principal-cave-name>
       <length>186</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Arnold Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1282</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
@@ -22638,6 +22648,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Sunshine Cave</principal-cave-name>
       <length>142</length>
@@ -22745,6 +22756,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Symbol Bridge</principal-cave-name>
       <length>45</length>
@@ -23102,6 +23114,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Thunderbolt Cave</principal-cave-name>
       <length>781</length>
@@ -23138,6 +23151,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Tickner Cave</principal-cave-name>
       <length>442</length>
@@ -23149,6 +23163,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Tickner Chimneys</principal-cave-name>
       <length>800</length>
@@ -23440,6 +23455,7 @@
       <state-or-province>Hawaii; Kilauea Forest Reserve</state-or-province>
       <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Transect 1 Cave</principal-cave-name>
+      <altitude>1650</altitude>
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=864</reference>
@@ -23674,7 +23690,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hualalai; Pu'u Wa'awa'a</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a</phys-area-name>
       <principal-cave-name>Umi'i Manu (Bird Trap)</principal-cave-name>
       <length>3887</length>
       <vertical-extent>570</vertical-extent>
@@ -23688,7 +23704,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hualalai; Pu'u Wa'awa'a</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a</phys-area-name>
       <principal-cave-name>Shangri-la Cave System</principal-cave-name>
       <length></length>
       <vertical-extent></vertical-extent>
@@ -23699,7 +23715,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hualalai; Pu'u Wa'awa'a</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a</phys-area-name>
       <principal-cave-name>Petrel Cave</principal-cave-name>
       <length></length>
       <vertical-extent></vertical-extent>
@@ -23710,7 +23726,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hualalai; Pu'u Wa'awa'a</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a</phys-area-name>
       <principal-cave-name>Yellowjacket Cave</principal-cave-name>
       <length></length>
       <vertical-extent></vertical-extent>
@@ -23721,7 +23737,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hualalai; Pu'u Wa'awa'a</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a</phys-area-name>
       <principal-cave-name>Hapuu Cave System</principal-cave-name>
       <length></length>
       <vertical-extent></vertical-extent>
@@ -23732,7 +23748,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hualalai; Pu'u Wa'awa'a</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a</phys-area-name>
       <principal-cave-name>Olapa cave system</principal-cave-name>
       <length></length>
       <vertical-extent></vertical-extent>
@@ -23801,7 +23817,8 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Lava Beds National Monument; Mammoth Crater</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Upper Ice Cave</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
@@ -23835,18 +23852,20 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Maui</phys-area-name>
+      <phys-area-name>Maui; Haleakala</phys-area-name>
       <phys-area-name>Upper Kipahulu Valley</phys-area-name>
       <principal-cave-name>Lua Mano</principal-cave-name>
+      <other-cave-name>Lua Manu Cave</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=953</reference>
       <reference>Olson and James (1991) DOI:10.2307/40166794</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=898</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Maui</phys-area-name>
+      <phys-area-name>Maui; Haleakala</phys-area-name>
       <phys-area-name>Upper Kipahulu Valley</phys-area-name>
       <principal-cave-name>Puka Moa</principal-cave-name>
       <length/>
@@ -23931,6 +23950,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Valentine Cave</principal-cave-name>
       <length>498</length>
@@ -23942,10 +23962,11 @@
    <record>
       <country-name>Iceland</country-name>
       <state-or-province/>
-      <phys-area-name>Laufbalavatn cave area</phys-area-name>
+      <phys-area-name>Eldhraun/Laki; Laufbalavatn cave area</phys-area-name>
       <principal-cave-name>Völundur</principal-cave-name>
       <other-cave-name>Labyrinth Cave</other-cave-name>
       <length>700</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=201</reference>
    </record>
@@ -24081,7 +24102,7 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii; Kauai County</state-or-province>
+      <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Kauai; Na Pali Coast</phys-area-name>
       <principal-cave-name>Waialoha Cave</principal-cave-name>
       <other-cave-name>Thankful Water Cave</other-cave-name>
@@ -24103,7 +24124,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Maui</phys-area-name>
+      <phys-area-name>Maui; Haleakala</phys-area-name>
       <principal-cave-name>Waihou Spring Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -24512,10 +24533,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Arnold Lava Tube System</phys-area-name>
       <principal-cave-name>Wind Cave</principal-cave-name>
       <length>1170</length>
       <cave-type>lava tunnel</cave-type>
-      <cave-system>Arnold Lava Tube System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1280</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
@@ -24981,7 +25002,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hualalai</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <phys-area-name>Pu'u Wa'awa'a; Henahena lava tubes</phys-area-name>
       <principal-cave-name>Delissea Cave System</principal-cave-name>
       <length> >64700</length>
@@ -25011,7 +25032,7 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii; Kau District</state-or-province>
+      <state-or-province>Hawaii; Ka'u District</state-or-province>
       <phys-area-name>Hawaii Island; South Point; Mauna Loa</phys-area-name>
       <principal-cave-name>Kamakalepo Cave System</principal-cave-name>
       <length>998</length>
@@ -25040,7 +25061,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Hualalai</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Pink Pistillaria Cave</principal-cave-name>
       <altitude>800</altitude>
       <length/>
@@ -25083,7 +25104,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Hualalai</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Na One Pit</principal-cave-name>
       <other-cave-name>Pelee's Abyss</other-cave-name>
       <other-cave-name>Pit 6083</other-cave-name>

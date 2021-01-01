@@ -108,24 +108,17 @@ CA41 allows [32 predefined terms](http://www.uisic.uis-speleo.org/exchange/atenc
 **\<curation\>**  *string*  
 Comments about the curation of database entries. This is a free-form entry, but data curators can choose to use their own standardized terminology or codes.  
 
-Comments
---------
+
+Syntax rules (in support of parsing and querying)
+-------------------------------------------------
 
 -   All fields are optional *(minOccurs=0)*.
 
 -   Elements with *maxOccurs=1* can appear at most once within a record, whereas the default is *maxOccurs=unbounded*. (The UISIC refers to this as multi-valued, as opposed to single-valued.)
 
--   The elements must appear in the order listed above.
-
 -   CaveXML defines only these 21 elements, although additional elements may be added in future. No other elements are allowed, but there may be ways of adding a second namespace.
 
--   CaveXML records do not have a catalog number, because CaveXML is designed to work with a distributed collection of databases rather than with a single central database. (Unique record identifiers can be generated automatically, when needed.)
-
--   All of the requirements for the data exchange standard can be implemented with an XML schema definition. Verifying that a database is consistent with the CaveXML exchange standard requires nothing but an XML validation. More specifically, the requirements can be verified within version 1.0 of XML schema definitions, and do not require the extended capabilities of version 1.1.
-
-
-Syntax rules (in support of parsing and querying)
--------------------------------------------------
+-   The elements must appear in the order listed above.
 
 -   Text uses the UTF-8 character set, so characters from many languages can be used.
 
@@ -137,6 +130,24 @@ Syntax rules (in support of parsing and querying)
 
 -   A Digital Object Identifier **(doi)** in [reference] can be automatically converted to a hyperlink by replacing "doi:" with "https://doi.org:" followed by the doi number. The character sequence the parser will look for is "doi:", in all lower or all upper case.
 
+Design Principles
+-----------------
+
+CaveXML is designed to provide convenience for data entry, while also being strict and logical enough to allow for a great deal of automated data processing. CaveXML brings the power of automation and algorithms to data organization. Here are a few examples:
+- A number can be entered as "~500" to mean "approximately 500" or "10+" to mean "10 or more", but only a few specific symbols are allowed in front and after the number to ensure every entry can be successfully parsed and understood.
+- Records for caves that are connected with one another can be linked so they can be automatically treated as a single record (cave), if desired.
+- For references to the published literature, a doi (digital object identifier) suffices to automatically generate a hyperlink. Even the bibliographic information can be automatically pulled off the internet based purely on the doi, so there is no need for the user to enter this information.
+- CaveXML records do not have a catalog number. Unique record identifiers can be generated automatically, when needed.
+
+Another fundamental design choice is the following: *All of the requirements of the data exchange standard can be implemented with an XML schema definition.* More specifically, the requirements can be verified within version 1.0 of XML schema definitions, and do not require the extended capabilities of version 1.1.
+For example, if the [cave-id] was required to be unique among records, this could not be verified with an XML schema, because it would require cross-comparisons between records.
+Another example are requirements conditioned on other fields. For example, if the data exchange standard required that either [principal-cave-name] or [other-cave-name] must be present (which it does not), it is not within the capabilities of XML 1.0 to verify that (although it would be possible with XML 1.1). 
+This design choice, that the CaveXML data exchange standard can be fully verified with an XML schema definition, has two practical consequences.
+First, verifying that a database is consistent with the CaveXML exchange standard requires nothing but an XML validation. No additional software or validation step are necessary.
+Second, *all* of the specifications can be verified during the XML validation. Hence, any software used to process CaveXML data can rely on the specifications being followed completely.
+This design choice leads to simplicity and rigor. There is a profound and mutual relation between the standard and its implementation.   
+
+
 CaveXML data types
 ------------------
 
@@ -144,7 +155,7 @@ The use of well-defined data types facilitates storage and querying of the data.
 
 XML allows the writers of Schema to add restrictions to a built-in data type. One type of restriction for a string or token is a pre-defined list of strings, for example the list of all countries in the world. The use of pre-defined terms (a controlled vocabulary) is obviously helpful for queries. Entries that are not on the list of pre-defined strings are not valid within CaveXML (i.e., an error will occur when the XML database entries are validated against the XML Schema) and will therefore already be identified during the data compilation stage.
 
-For quantities such as length or vertical extent, it is desirable to allow entries such as \>5000, \~100, and 7+. The cave is at least 5000 meters long; it is approximately 100 meter deep, and has 7 or more entrances. A purely numerical data type would be too restrictive. For this purpose, CaveXML defines the user-derived data type `ExtendedUnsignedInteger`, which can represent such patterns. An ExtendedUnsignedInteger allows one of two symbols in front of the number: \~ (approximate) or \> (larger than). The number is an integer of any length, without commas or periods. This choice was made because commas and periods can lead to ambiguities, such as "2,007", which could be interpreted as approximately 2&nbsp;km or approximately 2&nbsp;m. In some countries the decimal point is a period, in others it is a comma. Lengths and depths can rarely be defined more accurately than one meter, e.g., one can ponder to what extent the diameter of the cave should be part of its length. Hence, integers suffice to represent length, vertical extent, and, in any case, the number of cave entrances. In accordance with the UISIC recommendation, CaveXML defines the vertical extent as positive, so an unsigned representation is perfect. Technically, an ExtendedUnsignedInteger is defined within the CaveXML Schema as token restricted by a RegEx pattern, namely `[~>]?[0-9]+[+]?`. Those familiar with RegEx understand that this pattern is consistent with expressions such as \>5000, \~100, 7+, and with all integers. Examples of non-matching patterns are: 123.4, \>\~2000, 100-200, and anything that contains a letter. Note that for a floating-point number \>\~2000 is practically equivalent to \~2000+, and the latter is a valid ExtendedUnsignedInteger.
+For quantities such as length or vertical extent, it is desirable to allow entries such as \>5000, \~100, and 7+. The cave is at least 5000 meters long; it is approximately 100 meter deep, and has 7 or more entrances. A purely numerical data type would be too restrictive. For this purpose, CaveXML defines the user-derived data type ExtendedUnsignedInteger, which can represent such patterns. An ExtendedUnsignedInteger allows one of two symbols in front of the number: \~ (approximate) or \> (larger than). The number is an integer of any length, without commas or periods. This choice was made because commas and periods can lead to ambiguities, such as "2,007", which could be interpreted as approximately 2&nbsp;km or approximately 2&nbsp;m. In some countries the decimal point is a period, in others it is a comma. Lengths and depths can rarely be defined more accurately than one meter, e.g., one can ponder to what extent the diameter of the cave should be part of its length. Hence, integers suffice to represent length, vertical extent, and, in any case, the number of cave entrances. In accordance with the UISIC recommendation, CaveXML defines the vertical extent as positive, so an unsigned representation is perfect. Technically, an ExtendedUnsignedInteger is defined within the CaveXML Schema as token restricted by a RegEx pattern, namely `[~>]?[0-9]+[+]?`. Those familiar with RegEx understand that this pattern is consistent with expressions such as \>5000, \~100, 7+, and with all integers. Examples of non-matching patterns are: 123.4, \>\~2000, 100-200, and anything that contains a letter. Note that for a floating-point number \>\~2000 is practically equivalent to \~2000+, and the latter is a valid ExtendedUnsignedInteger.
 
 Entries for altitude (elevation) can be even more varied, e.g., "1220-1570" to indicate the range of altitudes from the lowest to the highest entrance. The UISIC recommends an element [altitude-comment] so the meaning of the numerical value for the altitude could be clarified, e.g. "1220 lower entrance", or "2500 coarse" to indicate the altitude is approximate. For caves with more than one entrance, multiple altitude entries might be needed. The altitude must be queryable numerically, e.g., the user would search for caves with altitudes above 4000 m a.s.l. It can be decided later whether \~4000 and \>3000 should be compatible with this condition or not. After considering various options, the implementation chosen for CaveXML was to have a single [altitude] element which can hold specific patterns of numbers and strings. Two types of entries are allowed:
 i) An unsigned integer or an ExtendedUnsignedInteger optionally followed by a comment. These comments may be be ignored during a query, so few restrictions are placed on their form.
@@ -194,8 +205,8 @@ A unique record identifier can be generated in form of a hash code based on the 
 Practically, the hash code could be generated based on a limited number of entries, such as [state-or-province], [phys-area-name], and cave names (principal and other). The strings are merged into a single long string that serves as input for a hash code generator. Two caves in close vicinity of each other should not have the same name, so they ought to differ in one of those fields. And if location information is omitted from the record and the cave name is not unique, the ambiguity is fundamental.
 Hence, unique record identifiers can be generated automatically from CaveXML data records. They are not permanent, because they change with even minor edits.   
 
-Another approach to generating unique record identifiers would have been to use the country name (or its ISO letter abbreviation) plus the national cave id, if available. Cave ids, such as cave numbers and cadastral numbers, are meant to be unique for each cave. A record may have more than one cave-id and, in principle, could even have more than one [country-name], but as long as a national cave id is available and unique to the cave, it could be used as unique record identifier. There is one infrequent, but serious flaw to this approach, namely that sometimes a cave system inherits its id number from one of its branches, namely when the system of assigning identification numbers is based on entrances.
-For example, Eisrohrhöhle and the Eisrohrhöhle-Bammelschacht-System in Germany both have the cadastral number 1337/118. This introduces fundamental ambiguities. Solving this problem is no different than introducing an international cave identification number that would identify every cave in the world uniquely. This is a problem that should be solved at a level beyond the CaveXML interchange format definitions.  
+Another approach to generating unique record identifiers would have been to use the country name (or its ISO letter abbreviation) plus the national cave id, if available. Cave ids, such as cave numbers and cadastral numbers, are meant to be unique for each cave. A record may have more than one cave-id and, in principle, could even have more than one [country-name], but as long as a national cave id is available and unique to the cave, it could be used as unique record identifier. There is one infrequent, but serious flaw to this approach, namely that sometimes a cave system inherits its id number from one of its branches, namely when the system of assigning identification numbers is based on entrances. For example, Eisrohrhöhle and the Eisrohrhöhle-Bammelschacht-System both have the cadastral number 1337/118. This introduces fundamental ambiguities, which should be resolved at a level beyond the CaveXML interchange format definitions. An international cave identification number would identify every cave in the world uniquely. 
+
  
 In other words, for CaveXML data the [cave-id] field is not required to be unique and record identifiers are cryptic codes that occasionally change (so they are not suitable for permalinks, unfortunately).
 There is another aspect to this choice of solution. Whereas a data interchange standard can require whatever it deems desirable, an XML-validator considers the content of one record at a time and does not perform cross-comparisons to find out whether a [cave-id] entry is also used in another record. This allows to perfectly align the interchange standard with what can be implemented in an XML schema definition, a technically elegant solution, because nothing else but a single XML validation is necessary to verify that a database follows the standard completely.  
@@ -210,10 +221,20 @@ When a cave system consists of several branches that have their own record in th
 
 Cave names are ideally written with the characters of the local language, and use of the UTF-8 character set makes this possible. For searches, however, we may prefer to use a more restricted character set, perhaps only the 26 letters of the English alphabet that are contained in the ASCII character set. For example, Scărişoara Cave in Romania should be found in the database by just typing Scarisoara. In Hawaii there is a cave named Kaʻūpūlehu, which one would want to find by just typing Kaupulehu. For this purpose, a function is needed that reduces words written with the UTF-8 character set to an ASCII character set. (In CaveXML, variations in spelling can be entered in the field [other-cave-name], but entering all conceivable variants would be onerous and unnecessary.)  
 
-The transcription of symbols into ASCII characters depends on the language. For example, the German Umlaut 'ü' is properly transcribed as 'ue', but the same character is also used in Azerbaijani, Basque, and Hungarian, where it is better transcribed simply as 'u'. So far, CaveXML provides no mechanism for specifying the language a cave name is written in; a language attribute for cave names would be a welcome upgrade.  
+The ideal transcription of symbols into ASCII characters depends on the language. For example, the German Umlaut 'ü' is properly transcribed as 'ue', but the same character is also used in Azerbaijani, Basque, and Hungarian, where it is better transcribed simply as 'u'. So far, CaveXML provides no mechanism for specifying the language a cave name is written in; a language attribute for cave names would be a welcome upgrade.  
 
 Within the scope of language-independent transcriptions, the Python function 'unidecode' provides lossy ASCII transliterations of Unicode text, and it can serve as a case study for the reduction of cave names into the ASCII character set. Two such Python modules are available: text-unidecode and unidecode. The unidecode function converts 'Scărişoara' into 'Scarisoara'. It also works with non-Latin alphabets. The Korean cave name '쌍용굴' is translated by unidecode to 'sangyonggul', which is indeed a name that is also used for this cave, although it is more often written with a second 'S' in front as 'Ssangyonggul'.
 Unidecode does not remove spaces, dashes, or apostrophes. Certainly, we would want to find Alladin's Cave with or without typing the apostrophe. Hence additional simplifications should be made after applying the unidecode function, including setting all letters to lower case. One possibility is to omit all characters that are not alphanumerical Latin characters, but obviously only after and not before the unidecode function is applied, otherwise there would be nothing left of '쌍용굴'.  
 
-The same function can also be applied to the user input. In that case the database entry "Kaʻūpūlehu" will turn into "kaupulehu", and when the user types "Ka'upulehu", where incidentally a straight single quotation mark is used instead of the curled single quotation mark (the Okina symbol used in some Polynesian languages), it will also be converted into kaupulehu and match the database entry.
+The same function can also be applied to the user input. In that case the database entry "Kaʻūpūlehu" will turn into "kaupulehu", and when the user types "Ka'upulehu", where incidentally a straight single quotation mark is used instead of a curled single quotation mark (the Okina symbol used in some Polynesian languages), it will also be converted into kaupulehu and match the database entry.
 Of course this is not perfect. 'Hoehle' will not match 'Höhle'. However, the case study demonstrates that names can be normalized reasonably well automatically, without placing any constraints on the characters allowed in the cave name field.  
+
+
+**Scalability**
+
+How many caves are there? The answer will depend on the definition of what constitutes a cave worth cataloging. The Russian Speleological Atlas lists 5,034 caves. A caving enthusiast in Thailand has compiled a list of 4,749 caves in that country. The US state of Tennessee has over 10,000 caves, more than any other US state. The lava tube data base at Arizona State University contains about 1,755 entries. From these numbers, one might guess that a worldwide database of natural caves significant enough to be worth cataloging would contain on the order of 100,000 records, and national databases will be much smaller. 
+This means that a CaveXML database fits easily in memory, whether it be desktop computer, laptop, or cell phone. CaveXML records consist only of text, not photos, maps, or videos, which can only be linked to.  
+
+From a computational point of view, going through a list of this length is lightning fast, so it can be done on-the-fly and basic linear-time search methods suffice. To link records of cave branches that belong to the same cave, cross-comparisons have to be made. Only a fraction of records potentially have interconnections (i.e., either [cave-system] or [branch-name] is present and not empty), so even these cross-comparisons can be performed quickly. CaveXML data can be pre-processed to generate auxiliary entries. This may be convenient, but from a computational point of view, this is not necessary.
+In conclusion, simple methods of storing and searching data are expected to scale up to the expected size of a global CaveXML database.  
+

@@ -5143,8 +5143,8 @@ United States of America - California - Lava Beds National Monument
 [Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14](https://doi.org/10.4461/GFDQ.2014.37.14)   
 
 ---  
-<a name="US-62ed7a87bf9d524a3e25db98ae2a7334"></a>
-United States of America - California; Siskiyou County - Lava Beds National Monument; Mammoth Crater  
+<a name="US-fe01323083807fd96e757a0331f63ae8"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument; Mammoth Crater  
 *Cave Name(s):* **Heppe Ice Cave** Heppe Caves  
 *altitude:* 1609  
 *Length:* 52m *Vertical extent:* 29m *Number of entrances:* 2  
@@ -5164,8 +5164,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=650](https://rpif.asu.edu/LTdatabase/result.php?RECNO=650)   
 
 ---  
-<a name="US-576280d2c58ce17512b5951d295a1e6c"></a>
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater  
+<a name="US-ee75f790b179d55268f574c051df0a82"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater; Lava Beds National Monument  
 *Cave Name(s):* **Skull Ice Cave** Skull Cave  
 *altitude:* 1388  
 *Length:* 177m *Vertical extent:* 37m *Number of entrances:* 1  
@@ -5175,8 +5175,8 @@ United States of America - California; Siskiyou County - Lava Beds National Monu
 [Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14](https://doi.org/10.4461/GFDQ.2014.37.14)   
 
 ---  
-<a name="US-6dcca36d30dfd9bb66692850ca3d1f6f"></a>
-United States of America - California - Lava Beds National Monument  
+<a name="US-7e10145f772b47a455f8e85a2a98aa4f"></a>
+United States of America - California - Medicine Lake Highlands; Lava Beds National Monument  
 *Cave Name(s):* **L-800**  
 *altitude:* 1390  
 *Length:* 45m *Vertical extent:* 23m *Number of entrances:* 1  
@@ -5185,8 +5185,8 @@ United States of America - California - Lava Beds National Monument
 [Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14](https://doi.org/10.4461/GFDQ.2014.37.14)   
 
 ---  
-<a name="US-7064c646cfcc1918723ab1cce50bbe0d"></a>
-United States of America - California; Siskiyou County - Lava Beds National Monument; Modoc Crater  
+<a name="US-489e8be499aa853aba9a3626f94beb27"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater; Lava Beds National Monument  
 *Cave Name(s):* **Big Painted Cave** *Id:* M-310  
 *altitude:* 1412  
 *Length:* 81m *Vertical extent:* 20m   
@@ -5889,13 +5889,6 @@ United States of America - Idaho
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1105](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1105)   
 
 ---  
-<a name="US-a3a6b30f86ea63f4477815f384769911"></a>
-United States of America - Hawaii - Hawaii (Big Island)  
-*Cave Name(s):* **Ash Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=802](https://rpif.asu.edu/LTdatabase/result.php?RECNO=802)   
-
----  
 <a name="US-66eb869caf85b6484020afce812b2955"></a>
 United States of America - Hawaii; Ka'u District - Hawaii Island; Hilina Pali; Charcoal cave system  
 *Cave Name(s):* **Ash Crawl Cave**  
@@ -6542,7 +6535,7 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 *Cave Name(s):* **Blue Grotto**  
 *Length:* 470m   
 *Cave type:* lava tunnel  
- *Part of* [Labyrinth Cave System](#US-8702d2d0b8c659e62dbb631c6c147790)  
+ *Part of* [Labyrinth Cave System](#US-8abccf65ded63bc3b15bf6321d3bcf11)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=559](https://rpif.asu.edu/LTdatabase/result.php?RECNO=559)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -6868,6 +6861,7 @@ United States of America - Oregon; Malheur County
 *Length:* 341m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1220](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1220)   
+[Ciesel and Wagner (1969) https://www.oregongeology.org/pubs/og/OBv31n08.pdf](https://www.oregongeology.org/pubs/og/OBv31n08.pdf)   
 
 ---  
 <a name="US-ae67948b7fa62e2e16468ce523ad6c96"></a>
@@ -7116,7 +7110,6 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 *Cave Name(s):* **Catacombs Cave**  
 *Length:* 2104m   
 *Cave type:* lava tunnel  
- *Part of* Paradise Alleys-Catacombs Cave system  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=560](https://rpif.asu.edu/LTdatabase/result.php?RECNO=560)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -7371,7 +7364,7 @@ Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"
 ---  
 <a name="US-90cfb199ce40c314bf5037be809016d2"></a>
 United States of America - Oregon; Deschutes County - Arnold Lava Tube System  
-*Cave Name(s):* **Charcoal Cave**  
+*Cave Name(s):* **Charcoal Cave** Charcoal Cave #1  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1286](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1286)   
 Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"  
@@ -7656,8 +7649,10 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 <a name="US-17209a72c603355847a2f20d1d0a166a"></a>
 United States of America - Oregon; Malheur County  
 *Cave Name(s):* **Coyote Trap Cave**  
+*Length:*  >45m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1228](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1228)   
+[Ciesel and Wagner (1969) https://www.oregongeology.org/pubs/og/OBv31n08.pdf](https://www.oregongeology.org/pubs/og/OBv31n08.pdf)   
 
 ---  
 <a name="US-2a2dd851ccae1c7458aca194842ad6bf"></a>
@@ -8547,6 +8542,31 @@ Mexico - Veracruz
 *Length:* 685m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1569](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1569)   
+[Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf](http://www.vulcanospeleology.org/sym12/ISV12p05.pdf)   
+
+---  
+<a name="MX-5dd0297c30a1f7475f354944fdea6037"></a>
+Mexico - Veracruz  
+*Cave Name(s):* **Cueva del Rio Huichila**  
+*Length:* 625m   
+*Cave type:* lava tunnel  
+[Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf](http://www.vulcanospeleology.org/sym12/ISV12p05.pdf)   
+
+---  
+<a name="MX-49e8255aa947289b398c57f4c51ff4dd"></a>
+Mexico - Veracruz  
+*Cave Name(s):* **Cueva de El Tirantes**  
+*Length:* 278m   
+*Cave type:* lava tunnel  
+[Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf](http://www.vulcanospeleology.org/sym12/ISV12p05.pdf)   
+
+---  
+<a name="MX-685a535467c220afe8643480f768d975"></a>
+Mexico - Veracruz  
+*Cave Name(s):* **Cueva de Tengonapa**  
+*Length:*  >477m   
+*Cave type:* lava tunnel  
+[Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf](http://www.vulcanospeleology.org/sym12/ISV12p05.pdf)   
 
 ---  
 <a name="AR-2c91de573a95747d231f45cc52af428c"></a>
@@ -9099,12 +9119,22 @@ United States of America - Hawaii - Hawaii (Big Island); Kilauea
 [Hoch and Howarth (1993) http://hdl.handle.net/10125/1860](http://hdl.handle.net/10125/1860)   
 
 ---  
-<a name="US-57ffa5bfec032cb33a4a14bb8a1d956b"></a>
+<a name="US-11d8ab4817d890274c2a758f799de1e2"></a>
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
-*Cave Name(s):* **Doc Yock Cave**  
+*Cave Name(s):* **Doc Yoc Cave**  
 *Length:* 20m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=566](https://rpif.asu.edu/LTdatabase/result.php?RECNO=566)   
+[Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
+
+---  
+<a name="US-d181a78cb37ec4cb649d7e5c873ac864"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument  
+*Cave Name(s):* **Indian Well Cave** Indian Well Ice Cave  
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Contents:* lake(s)  
+*Comments:* named after its ephemeral water pool  
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=572](https://rpif.asu.edu/LTdatabase/result.php?RECNO=572)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 
 ---  
@@ -9772,8 +9802,8 @@ United States of America - Washington; Skamania County - Mount St. Helens
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1758](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1758)   
 
 ---  
-<a name="US-67cd5939543e2dcccb375d911d8ac1d9"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater  
+<a name="US-7ffddb50e1326bfe42b577c39404bfcb"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument  
 *Cave Name(s):* **Gail Cave**  
 *Length:* 120m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -9810,7 +9840,7 @@ Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
 *Cave Name(s):* **Garden Bridges Cave**  
 *Cave type:* lava tunnel  
- *Part of* [Labyrinth Cave System](#US-8702d2d0b8c659e62dbb631c6c147790)  
+ *Part of* [Labyrinth Cave System](#US-8abccf65ded63bc3b15bf6321d3bcf11)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=568](https://rpif.asu.edu/LTdatabase/result.php?RECNO=568)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 
@@ -10043,7 +10073,7 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 *Cave Name(s):* **Golden Dome Cave**  
 *Length:* 679m   
 *Cave type:* lava tunnel  
- *Part of* [Labyrinth Cave System](#US-8702d2d0b8c659e62dbb631c6c147790)  
+ *Part of* [Labyrinth Cave System](#US-8abccf65ded63bc3b15bf6321d3bcf11)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=569](https://rpif.asu.edu/LTdatabase/result.php?RECNO=569)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -10999,7 +11029,7 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 *Cave Name(s):* **Hopkins Chocolate Cave**  
 *Length:* 428m   
 *Cave type:* lava tunnel  
- *Part of* [Labyrinth Cave System](#US-8702d2d0b8c659e62dbb631c6c147790)  
+ *Part of* [Labyrinth Cave System](#US-8abccf65ded63bc3b15bf6321d3bcf11)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=562](https://rpif.asu.edu/LTdatabase/result.php?RECNO=562)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -11727,8 +11757,8 @@ Iceland - Kerlingarholahraun
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=2](https://rpif.asu.edu/LTdatabase/result.php?RECNO=2)   
 
 ---  
-<a name="US-219180b1f8c8c0e3a14e276008f86f5f"></a>
-United States of America - Hawaii - Maui  
+<a name="US-d5287cb178aa2aa51afd5cd608f64f00"></a>
+United States of America - Hawaii - Maui; Haleakala  
 *Cave Name(s):* **Ka'eleku Cavern** Hana Lava Tube  
 *Length:* 2852m   
 *Cave type:* lava tunnel  
@@ -12438,21 +12468,21 @@ United States of America - New Mexico; Cibola County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1202](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1202)   
 
 ---  
-<a name="US-8702d2d0b8c659e62dbb631c6c147790"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
+<a name="US-8abccf65ded63bc3b15bf6321d3bcf11"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument  
 *Cave Name(s):* **Labyrinth Cave System**  
-*Cave type:* lava tunnel  
-*Branches:* [Garden Bridges Cave](#US-8d61cf0280ce7303b45b95a70bdc5e44); [Blue Grotto](#US-65922ad010454ef0b24b18b676f457fb); [Hopkins Chocolate Cave](#US-564725eed248fb6cf06c0405c60de66b); [Golden Dome Cave](#US-535076f1e1bd0845fe512b5dc1b580b2); [Labyrinth Cave](#US-16f2d604c667768d8e891cc760d7a43b);   
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Branches:* [Garden Bridges Cave](#US-8d61cf0280ce7303b45b95a70bdc5e44); [Blue Grotto](#US-65922ad010454ef0b24b18b676f457fb); [Hopkins Chocolate Cave](#US-564725eed248fb6cf06c0405c60de66b); [Golden Dome Cave](#US-535076f1e1bd0845fe512b5dc1b580b2); [Labyrinth Cave](#US-a8bfc409a3e4a58d0a9425bc44015249);   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=573](https://rpif.asu.edu/LTdatabase/result.php?RECNO=573)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 
 ---  
-<a name="US-16f2d604c667768d8e891cc760d7a43b"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
+<a name="US-a8bfc409a3e4a58d0a9425bc44015249"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument  
 *Cave Name(s):* **Labyrinth Cave**  
 *Length:* 378m   
-*Cave type:* lava tunnel  
- *Part of* [Labyrinth Cave System](#US-8702d2d0b8c659e62dbb631c6c147790)  
+*Rock type:* basalt *Cave type:* lava tunnel  
+ *Part of* [Labyrinth Cave System](#US-8abccf65ded63bc3b15bf6321d3bcf11)  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=573](https://rpif.asu.edu/LTdatabase/result.php?RECNO=573)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -13626,7 +13656,7 @@ United States of America - Washington; Skamania County - Mount St. Helens
 <a name="US-44bef64f9337c8175d4255d92b942da1"></a>
 United States of America - Oregon; Deschutes County  
 *Cave Name(s):* **Moss Carpet Cave**  
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1276](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1276)   
 
 ---  
@@ -14401,8 +14431,10 @@ United States of America - Hawaii - Maui; Haleakala
 <a name="US-90645aec81f7257c316633803d304358"></a>
 United States of America - Oregon; Malheur County - Saddle Butte  
 *Cave Name(s):* **Owyhee River Cave**  
-*Cave type:* lava tunnel  
+*Length:* 472m   
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1219](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1219)   
+[Ciesel and Wagner (1969) https://www.oregongeology.org/pubs/og/OBv31n08.pdf](https://www.oregongeology.org/pubs/og/OBv31n08.pdf)   
 
 ---  
 <a name="US-a9025cefd1ef8b3f10f18771b5c393e1"></a>
@@ -14476,7 +14508,6 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 *Cave Name(s):* **Paradise Alleys Cave**  
 *Length:* 300m   
 *Rock type:* basalt *Cave type:* lava tunnel  
- *Part of* Paradise Alleys-Catacombs Cave system  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=657](https://rpif.asu.edu/LTdatabase/result.php?RECNO=657)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 *Cave use:* self-guided tourist cave  
@@ -15210,11 +15241,13 @@ United States of America - Idaho; Bingham County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1010](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1010)   
 
 ---  
-<a name="US-c4b841b65b68356f0128ec4b599bcfb7"></a>
+<a name="US-c4b5c5eb8fd8fd4ae15effa1458d3db8"></a>
 United States of America - Oregon; Malheur County  
-*Cave Name(s):* **Rattlesnake Cave No. 2**  
-*Cave type:* lava tunnel  
+*Cave Name(s):* **Rattlesnake Cave**  
+*Length:* 269m   
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1221](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1221)   
+[Ciesel and Wagner (1969) https://www.oregongeology.org/pubs/og/OBv31n08.pdf](https://www.oregongeology.org/pubs/og/OBv31n08.pdf)   
 
 ---  
 <a name="IS-4515300796a16b6303ea6e9c5c5aa333"></a>
@@ -15342,8 +15375,8 @@ United States of America - Oregon; Deschutes County - Horse Lava Tube System
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1360](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1360)   
 
 ---  
-<a name="US-0b1fd6f9855a545eceae702dfeaebc8f"></a>
-United States of America - Hawaii; North Kona - Hawaii Island  
+<a name="US-add2392483863c4376a409a70026dc8d"></a>
+United States of America - Hawaii; North Kona - Hawaii (Big Island); Hualalai  
 *Cave Name(s):* **Refuge Cave Site 262**  
 *Length:* 125m   
 *Cave type:* lava tunnel  
@@ -16181,6 +16214,7 @@ United States of America - Oregon; Deschutes County
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1319](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1319)   
 Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"  
+guided tourist cave  
 
 ---  
 <a name="US-d500c95813c6ad153e2cfe0b7fcbefb4"></a>
@@ -16361,8 +16395,8 @@ United States of America - New Mexico; Union County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1181](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1181)   
 
 ---  
-<a name="US-077de09ed873c37df0563a21580f0209"></a>
-United States of America - Oregon; Deschutes County  
+<a name="US-b609714acdf55b42801dfad47a17fdc4"></a>
+United States of America - Oregon; Deschutes County - Newberry volcano  
 *Cave Name(s):* **South Ice Cave**  
 *altitude:* 1530  
 *Length:* 280m   
@@ -17140,8 +17174,18 @@ United States of America - California; Inyo County - Crater Mountain
 <a name="US-03de49036a09c39cdaac362064e212ea"></a>
 United States of America - Oregon; Malheur County  
 *Cave Name(s):* **Tire Tube Cave**  
-*Cave type:* lava tunnel  
+*Length:* 520m   
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1271](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1271)   
+[Ciesel and Wagner (1969) https://www.oregongeology.org/pubs/og/OBv31n08.pdf](https://www.oregongeology.org/pubs/og/OBv31n08.pdf)   
+
+---  
+<a name="US-7b3f029c776aa3274348d9aa60d3c0af"></a>
+United States of America - Oregon; Malheur County  
+*Cave Name(s):* **40-Mile Cave**  
+*Length:* 1470m   
+*Rock type:* basalt *Cave type:* lava tunnel  
+[Ciesel and Wagner (1969) https://www.oregongeology.org/pubs/og/OBv31n08.pdf](https://www.oregongeology.org/pubs/og/OBv31n08.pdf)   
 
 ---  
 <a name="RU-ab0ac38d0e3f6a0ed546c076ee2b1ef2"></a>
@@ -17327,8 +17371,8 @@ United States of America - Washington; Skamania County - Mount St. Helens
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1725](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1725)   
 
 ---  
-<a name="US-8343d5d33b5ac2877d2bbf8b044d2423"></a>
-United States of America - Hawaii; Kilauea Forest Reserve - Hawaii (Big Island); Mauna Loa  
+<a name="US-e8ca4e59a1f4ebcfc6144a74c8a742a7"></a>
+United States of America - Hawaii - Hawaii (Big Island); Mauna Loa; Kilauea Forest Reserve  
 *Cave Name(s):* **Transect 1 Cave**  
 *altitude:* 1650  
 *Length:* 30m   
@@ -18244,8 +18288,8 @@ United States of America - Oregon; Deschutes County - Horse Lava Tube System
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1299](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1299)   
 
 ---  
-<a name="US-f700645fa91dedfe0efa5d4aa01765a4"></a>
-United States of America - New Mexico; Cibola County - El Malpais; El Calderon area  
+<a name="US-3f699a79ab8c7ceb6cbe86fe7ea5cd64"></a>
+United States of America - New Mexico; Cibola County - El Malpais National Monument; El Calderon area  
 *Cave Name(s):* **Xenolith Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1209](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1209)   
@@ -18567,14 +18611,25 @@ David Burney (2011) "Back to the Future in the Caves of Kaua'i", Yale University
 *Cave use:* guided tourist cave  
 
 ---  
-<a name="US-f98cbfea795659d279e4dd4d20dd6340"></a>
-United States of America - Hawaii; Ka'u District - Hawaii Island; South Point; Mauna Loa  
+<a name="US-d1c0805b90c1786bda96dedaf9c93417"></a>
+United States of America - Hawaii; Ka'u District - Hawaii Island; Mauna Loa; South Point  
 *Cave Name(s):* **Kamakalepo Cave System**  
 *Length:* 998m   
 *Rock type:* basalt *Cave type:* lava tunnel  
-*Branches:* Lua Nunu o Kamakalepo Mauka; Lua Nunu Central Cave; Lua Nunu o Kamakalepo Makai; Waipouli Mauka; Waipouli Makai;   
-[Kempe et al. (2007) http://www.vulcanospeleology.org/sym12/ISV12p13.pdf](http://www.vulcanospeleology.org/sym12/ISV12p13.pdf)   
+*Branches:* Lua Nunu o Kamakalepo Mauka; Lua Nunu Central Cave; Lua Nunu o Kamakalepo Makai; [Waipouli Mauka](#US-c87ce137818c4f4198cd0453089a62a4); Waipouli Makai;   
+[Kempe et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p13.pdf](http://www.vulcanospeleology.org/sym12/ISV12p13.pdf)   
+[Kempe et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p14.pdf](http://www.vulcanospeleology.org/sym12/ISV12p14.pdf)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=798](https://rpif.asu.edu/LTdatabase/result.php?RECNO=798)   
+
+---  
+<a name="US-c87ce137818c4f4198cd0453089a62a4"></a>
+United States of America - Hawaii; Ka'u District - Hawaii Island; Mauna Loa; South Point  
+*Cave Name(s):* **Waipouli Mauka** Dark Water Cave  
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Contents:* perennially part-submerged  
+ *Part of* [Kamakalepo Cave System](#US-d1c0805b90c1786bda96dedaf9c93417)  
+[Kempe et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p13.pdf](http://www.vulcanospeleology.org/sym12/ISV12p13.pdf)   
+[Kempe et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p14.pdf](http://www.vulcanospeleology.org/sym12/ISV12p14.pdf)   
 
 ---  
 <a name="US-2cbeff699b818aed956c5d94c75c9896"></a>

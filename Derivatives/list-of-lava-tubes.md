@@ -1,6 +1,6 @@
 List of Lava Tubes
 ==================
-This list of 1619 volcanic caves was generated from a CaveXML formatted database. - Dec 29, 2020  
+This list of 1624 volcanic caves was generated from a CaveXML formatted database. - Dec 31, 2020  
 
 Argentina - Catamarca [**Cueva de San Fransisco** ](allcaves-database.md#AR-f2fbc650814457f91bc4c9138898d1e0)  
 Argentina - La Pampa [**Cueva La Alada** ](allcaves-database.md#AR-b403d0ee8602ed513a356cae6d9af689)  
@@ -485,7 +485,10 @@ Mexico - San Luis Potos [**Cueva del Salvial** Cueva de los Vampiros ](allcaves-
 Mexico - San Luis Potos [**La Cueva-Mina del Real de Catorce** ](allcaves-database.md#MX-ca00c7da68ddd9a3fbb3b8b394224522)  
 Mexico - Sonora [**Cuevo Labertina Lava** ](allcaves-database.md#MX-803786c6ad6cdabc19d4eab8197c12de)  
 Mexico - Tamaulipas [**Sierra Partida** ](allcaves-database.md#MX-d6274ea9d64fcc3bea616179a8c3b477)  
+Mexico - Veracruz [**Cueva de El Tirantes** ](allcaves-database.md#MX-49e8255aa947289b398c57f4c51ff4dd)  
+Mexico - Veracruz [**Cueva del Rio Huichila** ](allcaves-database.md#MX-5dd0297c30a1f7475f354944fdea6037)  
 Mexico - Veracruz [**Cueva del Volcancillo** ](allcaves-database.md#MX-24474df5b07803fad19717af8abc131f)  
+Mexico - Veracruz [**Cueva de Tengonapa** ](allcaves-database.md#MX-685a535467c220afe8643480f768d975)  
 Micronesia - Chuuk [**Tol Island tube** ](allcaves-database.md#FM-619f9e3c12d4d97894e177de4955f275)  
 Micronesia - Kosrae [**Kosrae Island tube** ](allcaves-database.md#FM-a1bb213e0b62bc3a27cf90e160de43fc)  
 Moon [**Gruithuisen** ](allcaves-database.md#XO-f6ad8dd2e96a835f0462047b498156ca)  
@@ -761,9 +764,6 @@ United States of America - California; Siskiyou County [**Jack Jones Ice Cave** 
 United States of America - California; Siskiyou County [**James Brothers Cave** ](allcaves-database.md#US-ee228badf05c5f57d1c3623200a84316)  
 United States of America - California; Siskiyou County [**Jerome Ice Cave** ](allcaves-database.md#US-b1d423a9d48b58737a0802a4df46516f)  
 United States of America - California; Siskiyou County [**Kathy's Tube** ](allcaves-database.md#US-dbda4350769e645aa84278bc09f62b52)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Mammoth Crater [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-62ed7a87bf9d524a3e25db98ae2a7334)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Medicine Lake Highlands; Modoc Crater [**Skull Ice Cave** Skull Cave ](allcaves-database.md#US-576280d2c58ce17512b5951d295a1e6c)  
-United States of America - California; Siskiyou County - Lava Beds National Monument; Modoc Crater [**Big Painted Cave** M-310](allcaves-database.md#US-7064c646cfcc1918723ab1cce50bbe0d)  
 United States of America - California; Siskiyou County [**Left-of-Center** ](allcaves-database.md#US-17e181a1b94514ef5bcb0156aa389779)  
 United States of America - California; Siskiyou County [**Left Pass. Freudian Complex** ](allcaves-database.md#US-970a77bf408b6b48d193e28c52f8645f)  
 United States of America - California; Siskiyou County [**Lewis Crater Cave** Ice Cave ](allcaves-database.md#US-9879af2da002bb4e6554352ae981a7f2)  
@@ -827,8 +827,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Boulevard Bridge** B190](allcaves-database.md#US-500f4d103bf195ba725e894b61d92f33) *Part of* Boulevard Caves  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Boulevard Cave** B200](allcaves-database.md#US-9dcf95a5b47912bdb26fa1cbe090a6b0) *Part of* Boulevard Caves  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Boulevard Caves** ](allcaves-database.md#US-5d1667c9ca5c6a1b65f556d71d227487)  
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Catacombs Cave** ](allcaves-database.md#US-60b2a6a561dacbe4affb9184551890ee) *Part of* Paradise Alleys-Catacombs Cave system  
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Doc Yock Cave** ](allcaves-database.md#US-57ffa5bfec032cb33a4a14bb8a1d956b)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Catacombs Cave** ](allcaves-database.md#US-60b2a6a561dacbe4affb9184551890ee)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Doc Yoc Cave** ](allcaves-database.md#US-11d8ab4817d890274c2a758f799de1e2)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**East Boulevard Cave** B210](allcaves-database.md#US-444bac3c747dfd1a3a40173302217497) *Part of* Boulevard Caves  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Elmer's Lower Bridge** E450](allcaves-database.md#US-6a4d1be585ad0ae060412a96791a9c25)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Elmer's Upper Bridge** E440](allcaves-database.md#US-3c19d78d39569374c79de2a2fab0998b)  
@@ -840,15 +840,14 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Juniper Cave** ](allcaves-database.md#US-25d535c0bef6b4b1d0887654df526108) *Part of* Hercules Leg-Juniper Cave  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Juniper Pole Cave** ](allcaves-database.md#US-23aafd970b274987b2ad8c1f7cfa34b1)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Kirk White's Cave** ](allcaves-database.md#US-0fd1e531f7e8859fab9dbe1dd59c471a)  
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Labyrinth Cave** ](allcaves-database.md#US-16f2d604c667768d8e891cc760d7a43b) *Part of* Labyrinth Cave System  
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Labyrinth Cave System** ](allcaves-database.md#US-8702d2d0b8c659e62dbb631c6c147790)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Lava Brook Cave** ](allcaves-database.md#US-9d4707fed0c1811bc523a475d4809ee6) *Part of* Labyrinth Cave System  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument; Mammoth Crater [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-fe01323083807fd96e757a0331f63ae8)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument; Modoc Crater [**Bearpaw Cave** ](allcaves-database.md#US-e79a8e8ae30b2568cff5c7995420831c)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Mushpot Cave** ](allcaves-database.md#US-b1c068660894b67708c116cab0d9b037)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Nirvana Cave** B130](allcaves-database.md#US-6fecd0bd2cf98adfd347f5c2db95bc9f) *Part of* Purgatory-Nirvana  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Ovis Cave** ](allcaves-database.md#US-32adff602ecd9c2a0d5235025bc1bccf)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Pango Ndogo Cave** B140](allcaves-database.md#US-b3011d703641b883a7540c009e8d19cb)  
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Paradise Alleys Cave** ](allcaves-database.md#US-3bc0906df27241896337276cba9808ac) *Part of* Paradise Alleys-Catacombs Cave system  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Paradise Alleys Cave** ](allcaves-database.md#US-3bc0906df27241896337276cba9808ac)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Post Office Cave** Postoffice Cave ](allcaves-database.md#US-5e443ad2b8b4501df95fe6fadd19656b)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Purgatory Cave** B150](allcaves-database.md#US-8e2711007beec479d1b3acf06adb9b62) *Part of* Purgatory-Nirvana  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument [**Roadside Cave System** ](allcaves-database.md#US-7ecb8aa52185a8c0e819a77df64b42b7)  
@@ -871,12 +870,15 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater [**Cox Ice Cave** ](allcaves-database.md#US-9d8123638664b61a02059f4662132bf3)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater [**Dragon's Head Cave** ](allcaves-database.md#US-daeaff5489a04f878a7ea92c6df4dfc4)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater [**Fleener Chimneys** ](allcaves-database.md#US-449b821473bb87ec5d6b3998f00e61d7)  
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater [**Gail Cave** ](allcaves-database.md#US-67cd5939543e2dcccb375d911d8ac1d9)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater [**Igloo cave** ](allcaves-database.md#US-04b8c05ade351b222aa2c86fb1f03fa5)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater [**Irish Bridge** ](allcaves-database.md#US-b33866780187d7016c0e1e9ebabe9141)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Balcony Cave** ](allcaves-database.md#US-0e075d1d9f25276c3aeec626350d6504)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Craig Cave** Craig Ice Cave ](allcaves-database.md#US-fa2662fcbff239c66838cb9d27c2cc16)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Crystal Cave** Crystal Ice Cave; Blue Crystal Ice Cave ](allcaves-database.md#US-6ba6c59dd42aa1cdbaadfd0b880831a2)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Gail Cave** ](allcaves-database.md#US-7ffddb50e1326bfe42b577c39404bfcb)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Indian Well Cave** Indian Well Ice Cave ](allcaves-database.md#US-d181a78cb37ec4cb649d7e5c873ac864)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Labyrinth Cave** ](allcaves-database.md#US-a8bfc409a3e4a58d0a9425bc44015249) *Part of* Labyrinth Cave System  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Labyrinth Cave System** ](allcaves-database.md#US-8abccf65ded63bc3b15bf6321d3bcf11)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Ovis Annex Cave** ](allcaves-database.md#US-9e0c51704283b0a5e87d07054eea2b55)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Ovis Bridge** ](allcaves-database.md#US-d900cd64eed5275843133c0660f91c18)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument [**Upper Ice Cave** ](allcaves-database.md#US-a50eecca7d83813c7a7a09db3ac17b1d)  
@@ -896,7 +898,9 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Coyote Cave** ](allcaves-database.md#US-d8d55f08daa85070e14cbc4d87e601c8)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Frozen River Cave** ](allcaves-database.md#US-845d757710d62903599417b8affaa237)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Iceberg Cave #1** ](allcaves-database.md#US-8e0cbde910190d8fa49ea2d6bb0122d7)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater; Lava Beds National Monument [**Big Painted Cave** M-310](allcaves-database.md#US-489e8be499aa853aba9a3626f94beb27)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater; Lava Beds National Monument [**Merrill Ice Cave** Merrill Cave ](allcaves-database.md#US-b2b51b008a2d7d9d93ab48a3127eb67d)  
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater; Lava Beds National Monument [**Skull Ice Cave** Skull Cave ](allcaves-database.md#US-ee75f790b179d55268f574c051df0a82)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**North Bend Cave** ](allcaves-database.md#US-89553e9cffbf46bb7348cf9d64ae58f1)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Robin Cave** ](allcaves-database.md#US-5a705ba6b36f9885ac8ae7f3fc9c3b28)  
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater [**Ship Cavern** ](allcaves-database.md#US-724f108ab769a1ccc8955702e340e230)  
@@ -939,7 +943,6 @@ United States of America - California; Siskiyou County [**Twin Caves** Twin Crat
 United States of America - California; Siskiyou County [**Water Caves** ](allcaves-database.md#US-f068d144c85fbc801e7fca6b4d277dcc)  
 United States of America - California; Tehama County [**Inskip Cave** Inskip Hill Cave; Cottonwood Cave ](allcaves-database.md#US-5d02dc8f7e3f4f26e81b9862fc9c11e3)  
 United States of America - California; Tehama County [**Wilson Lake Ice Cave** ](allcaves-database.md#US-fef51ebdad399637bff16abbe6b7f0db)  
-United States of America - Hawaii - Hawaii (Big Island) [**Ash Cave** ](allcaves-database.md#US-a3a6b30f86ea63f4477815f384769911)  
 United States of America - Hawaii - Hawaii (Big Island) [**Dodge cave** ](allcaves-database.md#US-117c940517a451900a0776bf02724d61)  
 United States of America - Hawaii - Hawaii (Big Island); Hualalai [**Clague's Cave** ](allcaves-database.md#US-23f2aa084652ebed2947f3ad5eeed9b4)  
 United States of America - Hawaii - Hawaii (Big Island); Hualalai; Henahena lava tubes [**Pu'u Wa'awa'a Ranch Cave #1** ](allcaves-database.md#US-c1480e796dc731f4e50d984e5f667b01)  
@@ -982,6 +985,7 @@ United States of America - Hawaii - Hawaii (Big Island); Mauna Kea [**Debbie And
 United States of America - Hawaii - Hawaii (Big Island); Mauna Kea [**Hamakua Forest Reserve Cave #1** ](allcaves-database.md#US-0bfa928241747ea0751d4da0e13aa93f)  
 United States of America - Hawaii - Hawaii (Big Island); Mauna Kea [**Hamakua Forest Reserve Cave #2** ](allcaves-database.md#US-efd3a985d51e1a6c1144686d586d227f)  
 United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Kilauea Forest Reserve #2** ](allcaves-database.md#US-3a12c04cc7fde360e9dc56b191ff124d)  
+United States of America - Hawaii - Hawaii (Big Island); Mauna Loa; Kilauea Forest Reserve [**Transect 1 Cave** ](allcaves-database.md#US-e8ca4e59a1f4ebcfc6144a74c8a742a7)  
 United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Makai Cinder Cone Cave** ](allcaves-database.md#US-65815f608ae9d6f2f51b22112f6ae4c4)  
 United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Mauka Cinder Cone Cave** ](allcaves-database.md#US-a08e111458c9800e05998f6f64f88c7c)  
 United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Pigeon Cave** ](allcaves-database.md#US-8ab45a98192a06a9bc5df518dc6ec018)  
@@ -1049,10 +1053,10 @@ United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea [**CSH
 United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea; Hilina Pali; Charcoal cave system [**Ledge Cave** ](allcaves-database.md#US-df6898c5b368775d6cc44c7d10055025)  
 United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea; Hilina Pali [**Earthquake Cave** ](allcaves-database.md#US-0b43449ceb6fcdef1403504d4c69fcf0)  
 United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea [**Palima Point Area Caves** CSH Site 91 Cave ](allcaves-database.md#US-98c686c7457f181159609b46d0059c6e)  
+United States of America - Hawaii; Ka'u District - Hawaii Island; Mauna Loa; South Point [**Kamakalepo Cave System** ](allcaves-database.md#US-d1c0805b90c1786bda96dedaf9c93417)  
+United States of America - Hawaii; Ka'u District - Hawaii Island; Mauna Loa; South Point [**Waipouli Mauka** Dark Water Cave ](allcaves-database.md#US-c87ce137818c4f4198cd0453089a62a4) *Part of* Kamakalepo Cave System  
 United States of America - Hawaii; Ka'u District - Hawaii Island [**Palahemo Lava Tube** ](allcaves-database.md#US-75d63e8383cd3d1700e0cdf026f7b646)  
 United States of America - Hawaii; Ka'u District - Hawaii Island [**Refuge Cave Site B17-8** ](allcaves-database.md#US-fcbb05b6ee4a27c3412d541904a980e7)  
-United States of America - Hawaii; Ka'u District - Hawaii Island; South Point; Mauna Loa [**Kamakalepo Cave System** ](allcaves-database.md#US-f98cbfea795659d279e4dd4d20dd6340)  
-United States of America - Hawaii; Kilauea Forest Reserve - Hawaii (Big Island); Mauna Loa [**Transect 1 Cave** ](allcaves-database.md#US-8343d5d33b5ac2877d2bbf8b044d2423)  
 United States of America - Hawaii - Maui [**Cape Kinau Lava Tube** ](allcaves-database.md#US-3b6258c151729026ab9e57da4c8c7375)  
 United States of America - Hawaii; Maui County - Lanai Island [**Kealiakapu Cave** ](allcaves-database.md#US-e6a365db6dd5732c8886566304731353)  
 United States of America - Hawaii; Maui County - Molokai [**Ananaluawahine Cave** 60-03-290](allcaves-database.md#US-480d2a10b416cb7359bb1a077806ec8c)  
@@ -1063,6 +1067,7 @@ United States of America - Hawaii - Maui; Haleakala [**Auwahi Cave** ](allcaves-
 United States of America - Hawaii - Maui; Haleakala [**Bishop's Cave** ](allcaves-database.md#US-a51408472e3a41df7b4f857f972aacd9)  
 United States of America - Hawaii - Maui; Haleakala [**Holoinawawai Stream Cave** ](allcaves-database.md#US-e61802ff769efbdff3da15c938c11129)  
 United States of America - Hawaii - Maui; Haleakala [**Hukihuki Cave** ](allcaves-database.md#US-6760c673241cb664af04dd3581c46a3d)  
+United States of America - Hawaii - Maui; Haleakala [**Ka'eleku Cavern** Hana Lava Tube ](allcaves-database.md#US-d5287cb178aa2aa51afd5cd608f64f00)  
 United States of America - Hawaii - Maui; Haleakala [**Kahawaihapapa Cave** ](allcaves-database.md#US-730365202e110f38d3bf3c767a8493f9)  
 United States of America - Hawaii - Maui; Haleakala [**Kalua O Lapa Cave** Skull Cave ](allcaves-database.md#US-1c1ba489d6cbd97098767d9787e419d8)  
 United States of America - Hawaii - Maui; Haleakala [**Long Cave** ](allcaves-database.md#US-dc549500a4d2f72c018bdbebcd113220)  
@@ -1084,7 +1089,6 @@ United States of America - Hawaii - Maui; Haleakala; Upper Kipahulu Valley [**Pu
 United States of America - Hawaii - Maui; Haleakala [**Upper Wananalua Cave** ](allcaves-database.md#US-c4b95e514a309e064d5c4cd297389477)  
 United States of America - Hawaii - Maui; Haleakala [**Wahoi Valley Trench Cave** ](allcaves-database.md#US-8032e350fb2a88c6ff2f8c08ba551d64)  
 United States of America - Hawaii - Maui; Haleakala [**Waihou Spring Cave** ](allcaves-database.md#US-e24b8d690401a6237b8bb4bd79a9fa4d)  
-United States of America - Hawaii - Maui [**Ka'eleku Cavern** Hana Lava Tube ](allcaves-database.md#US-219180b1f8c8c0e3a14e276008f86f5f)  
 United States of America - Hawaii - Maui [**Lower Kipahulu Valley** ](allcaves-database.md#US-d7c2354e4cf5dd03aa644558ac1433e8)  
 United States of America - Hawaii - Maui [**Lower Nahiko Road Cave** ](allcaves-database.md#US-06598bf34b85fef4a11780a552b74102)  
 United States of America - Hawaii - Maui [**Mount 'Eke Sinkholes** ](allcaves-database.md#US-165af86ffed00ca5594b6987febee9ba)  
@@ -1107,6 +1111,7 @@ United States of America - Hawaii; North Kona - Hawaii (Big Island); Hualalai [*
 United States of America - Hawaii; North Kona - Hawaii (Big Island); Hualalai [**Lama Lua Cave** ](allcaves-database.md#US-a9bc28b1b2d6191d995faf1d2cdb7653)  
 United States of America - Hawaii; North Kona - Hawaii (Big Island); Hualalai [**Manu Nui Cave System (Big Bird)** ](allcaves-database.md#US-c0f5b755978f70bd0f6b930f4ecd620f)  
 United States of America - Hawaii; North Kona - Hawaii (Big Island); Hualalai [**Pueo Cave** ](allcaves-database.md#US-3b7e7593b48b5035b20127e079343fdf)  
+United States of America - Hawaii; North Kona - Hawaii (Big Island); Hualalai [**Refuge Cave Site 262** ](allcaves-database.md#US-add2392483863c4376a409a70026dc8d)  
 United States of America - Hawaii; North Kona - Hawaii (Big Island); Hualalai [**Two Owl Cave** ](allcaves-database.md#US-8e766548c12ccae4a3dcf321bf147a5f)  
 United States of America - Hawaii; North Kona - Hawaii (Big Island) [**Little Wall Cave** ](allcaves-database.md#US-7315f4cdc2bd3255e56743e75c868dcd)  
 United States of America - Hawaii; North Kona - Hawaii (Big Island) [**Old Mamalahoa Trail Makai Cave** ](allcaves-database.md#US-5782b9ddb5c0718fecc5b432cb9c63a4)  
@@ -1120,7 +1125,6 @@ United States of America - Hawaii; North Kona - Hawaii Island [**Goatskull Puka*
 United States of America - Hawaii; North Kona - Hawaii Island; Kilauea [**Central Passage** ](allcaves-database.md#US-5d5dc9a1e25b0a51a7aef89c9dd63334)  
 United States of America - Hawaii; North Kona - Hawaii Island [**Laniakea Cave** ](allcaves-database.md#US-4c18bef6b121a25ac99eb24b0a92e56c)  
 United States of America - Hawaii; North Kona - Hawaii Island [**Ohia Cave** Refuge Cave Site D4-22 ](allcaves-database.md#US-3f79e37723ad3634d73b8ef2258d4123)  
-United States of America - Hawaii; North Kona - Hawaii Island [**Refuge Cave Site 262** ](allcaves-database.md#US-0b1fd6f9855a545eceae702dfeaebc8f)  
 United States of America - Hawaii; North Kona - Hawaii Island [**Refuge Cave Site D8-33** ](allcaves-database.md#US-846376718c3438c18575e67259ece0c5)  
 United States of America - Hawaii; North Kona - Hawaii Island [**Roadcut Caves** ](allcaves-database.md#US-908af977956196cedc6bb175987ff1c6)  
 United States of America - Hawaii - Oahu [**Judd Street Cave** ](allcaves-database.md#US-c03e5c5b19b9ff7bde8b60601aa3c8dd)  
@@ -1282,11 +1286,11 @@ United States of America - New Mexico; Cibola County - El Malpais; Big Tubes are
 United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area [**Giant Ice Cave** ](allcaves-database.md#US-06b3ec167f699a4da47cc445ea15d22d)  
 United States of America - New Mexico; Cibola County - El Malpais [**Deer Mountain** ](allcaves-database.md#US-3d8763e5118ce6320f755596a5ff2be9)  
 United States of America - New Mexico; Cibola County - El Malpais; El Calderon area [**Junction Cave** ](allcaves-database.md#US-344b8213c2eed1a5807b1d48939559c4)  
-United States of America - New Mexico; Cibola County - El Malpais; El Calderon area [**Xenolith Cave** ](allcaves-database.md#US-f700645fa91dedfe0efa5d4aa01765a4)  
 United States of America - New Mexico; Cibola County - El Malpais [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  
 United States of America - New Mexico; Cibola County - El Malpais [**Lava Wall Cave** Peel Bark Cave ](allcaves-database.md#US-88bf3b0eb0ff0fa2ed87501c0238d82d)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Braided Cave** ](allcaves-database.md#US-384919ad3aa53fcbab4fc86cc596d154)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Classic Cave** ](allcaves-database.md#US-9a4176029e4e5f9f22c32cf28276911c)  
+United States of America - New Mexico; Cibola County - El Malpais National Monument; El Calderon area [**Xenolith Cave** ](allcaves-database.md#US-3f699a79ab8c7ceb6cbe86fe7ea5cd64)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Navajo Cave** Navajo Ice Cave; Cave 29 ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
 United States of America - New Mexico; Cibola County - El Malpais region [**Candelaria Ice Cave** Cerro Candelaria; Bandera Volcano Ice Cave; Zuni Ice Cave ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
@@ -1306,7 +1310,7 @@ United States of America - New Mexico; Union County [**South Black Jack Cave** ]
 United States of America - Oregon [**Cody Borehole** ](allcaves-database.md#US-e26a520bea3a73a8408f4620c7b6bd16)  
 United States of America - Oregon; Deschutes County - Arnold Lava Tube System [**Bat Cave** ](allcaves-database.md#US-1a20b54a19e3b5d6ca5c4714384b1cf5)  
 United States of America - Oregon; Deschutes County - Arnold Lava Tube System [**Charcoal Cave #2** ](allcaves-database.md#US-207e4fa9c2e3be1c1957ab989fb5bece)  
-United States of America - Oregon; Deschutes County - Arnold Lava Tube System [**Charcoal Cave** ](allcaves-database.md#US-90cfb199ce40c314bf5037be809016d2)  
+United States of America - Oregon; Deschutes County - Arnold Lava Tube System [**Charcoal Cave** Charcoal Cave #1 ](allcaves-database.md#US-90cfb199ce40c314bf5037be809016d2)  
 United States of America - Oregon; Deschutes County - Arnold Lava Tube System [**Deg Cave** ](allcaves-database.md#US-f7c044b3d073e0ecb1a92faade996a96)  
 United States of America - Oregon; Deschutes County - Arnold Lava Tube System; Newberry Volcano [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-b9513e9db4a84c47e0d0057c42022592)  
 United States of America - Oregon; Deschutes County - Arnold Lava Tube System [**Pictograph Cave** ](allcaves-database.md#US-c6ed3cf6d3ae62a585211853a06a268f)  
@@ -1378,12 +1382,12 @@ United States of America - Oregon; Deschutes County [**Moss Carpet Cave** ](allc
 United States of America - Oregon; Deschutes County [**Mushroom Cave No. 2** ](allcaves-database.md#US-35253515dbae7cabcd3d84d5b7954844)  
 United States of America - Oregon; Deschutes County - Newberry National Monument [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-d81fd19911fc95f7260b1a643df09f29)  
 United States of America - Oregon; Deschutes County - Newberry National Volcanic Monument [**Lava River Cave** ](allcaves-database.md#US-260118d73b176efe7dcbdb0524569fce)  
+United States of America - Oregon; Deschutes County - Newberry volcano [**South Ice Cave** ](allcaves-database.md#US-b609714acdf55b42801dfad47a17fdc4)  
 United States of America - Oregon; Deschutes County [**Nice Cave** ](allcaves-database.md#US-c124712cfd1f3ff9df9740dd954ca5b3)  
 United States of America - Oregon; Deschutes County [**P Line Ice Cave** ](allcaves-database.md#US-a9025cefd1ef8b3f10f18771b5c393e1)  
 United States of America - Oregon; Deschutes County [**Round Mountain Lava Cave** ](allcaves-database.md#US-55a27ae27bbfb95d33c016130168a1fc)  
 United States of America - Oregon; Deschutes County [**Skeleton Cave** ](allcaves-database.md#US-47702b1199f0abca04de48596cb25229)  
 United States of America - Oregon; Deschutes County [**Somersault Cave** NSS-611-97](allcaves-database.md#US-b6fa64aedbf22dff42b94c6f5752fbfb)  
-United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-077de09ed873c37df0563a21580f0209)  
 United States of America - Oregon; Deschutes County [**Twin Skylight Cave** North Siah Butte #8 NSS-611-106](allcaves-database.md#US-eaa26e73453ddf1eb813c8c618dae5b9)  
 United States of America - Oregon; Deschutes County [**Under the Lake Cave** ](allcaves-database.md#US-7485d77c517e1355018801a31ff92025)  
 United States of America - Oregon; Deschutes County [**Walk-in-Cave** ](allcaves-database.md#US-3399e53e1c64e0712986211b27aabb2a)  
@@ -1409,6 +1413,7 @@ United States of America - Oregon; Lane County [**Not Much Cave** NSS-611-67](al
 United States of America - Oregon; Lane County [**Obsidian Flake Ice Cave** ](allcaves-database.md#US-1f0f9174718c20e98fc09bb08c49b563)  
 United States of America - Oregon [**Lava Top Butte Ice Cave** ](allcaves-database.md#US-36ff5636a91d91486ca185370eb1669e)  
 United States of America - Oregon [**Log Crib Cave** ](allcaves-database.md#US-29028c69d69ae60010129ee4713af8a7)  
+United States of America - Oregon; Malheur County [**40-Mile Cave** ](allcaves-database.md#US-7b3f029c776aa3274348d9aa60d3c0af)  
 United States of America - Oregon; Malheur County [**Baker Cave** ](allcaves-database.md#US-a61017f37369e2d24b487dd05bd7bce5)  
 United States of America - Oregon; Malheur County [**Barn Swallow Cave** ](allcaves-database.md#US-93b3100272526fc520d15effe91f95f6)  
 United States of America - Oregon; Malheur County [**Bogus Creek Cave** ](allcaves-database.md#US-e4d125259fc0bcba7ea9a27c4353c5b4)  
@@ -1422,7 +1427,7 @@ United States of America - Oregon; Malheur County [**Garbage Cave** ](allcaves-d
 United States of America - Oregon; Malheur County [**Ghost Rock Cave** ](allcaves-database.md#US-7e12217ec6c5f235540f20db92fc7653)  
 United States of America - Oregon; Malheur County [**One Station Cave** ](allcaves-database.md#US-454f184436a237ee1eca9d8f649b81c4)  
 United States of America - Oregon; Malheur County [**Patton's Arch** ](allcaves-database.md#US-7434ca925512531c8cc0fa09eed4f025)  
-United States of America - Oregon; Malheur County [**Rattlesnake Cave No. 2** ](allcaves-database.md#US-c4b841b65b68356f0128ec4b599bcfb7)  
+United States of America - Oregon; Malheur County [**Rattlesnake Cave** ](allcaves-database.md#US-c4b5c5eb8fd8fd4ae15effa1458d3db8)  
 United States of America - Oregon; Malheur County [**Raven Pit** ](allcaves-database.md#US-715417258cb4d130344a5caf109b40cb)  
 United States of America - Oregon; Malheur County - Saddle Butte [**Kitty Pooh II Cave** ](allcaves-database.md#US-06990a7a914083d2b4dcf1d6225193aa)  
 United States of America - Oregon; Malheur County - Saddle Butte [**Owyhee River Cave** ](allcaves-database.md#US-90645aec81f7257c316633803d304358)  
@@ -1621,9 +1626,3 @@ Viet Nam - Nam Da [**C7** ](allcaves-database.md#VN-9c8957b15d1d30e31c53f8f3ad4e
 Viet Nam - Nam Da [**P10E, P10W** ](allcaves-database.md#VN-835442bf37f073d33a4fa61a182d3966)  
 Viet Nam - Nam Da [**P20** ](allcaves-database.md#VN-332e5988abbce5af77945d02409d3e04)  
 Viet Nam - Nam Da [**P8** ](allcaves-database.md#VN-f449c80ef79fbc48aad94683824745b4)  
-
-
-
-
-
-

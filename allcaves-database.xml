@@ -2936,21 +2936,6 @@
    </record>
    <record>
       <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Canary Islands</phys-area-name>
-      <phys-area-name>Mount Teide</phys-area-name>
-      <principal-cave-name>Rajada</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
-      <length/>
-      <vertical-extent/>
-      <contents>permanent ice</contents>
-      <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
-   </record>
-   <record>
-      <country-name>Spain</country-name>
       <state-or-province>Aragon</state-or-province>
       <phys-area-name>Pyrenees</phys-area-name>
       <phys-area-name>Monte Perdido-Marboré</phys-area-name>
@@ -5080,7 +5065,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Biele Karpaty, Vršatské bradlá, Vysoké Vršatce</phys-area-name>
+      <phys-area-name>Biele Karpaty; Vršatské bradlá; Vysoké Vršatce</phys-area-name>
       <principal-cave-name>Ľadnica</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5094,7 +5079,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Hornádska kotlina, Medvedie chrbty</phys-area-name>
+      <phys-area-name>Hornádska kotlina; Medvedie chrbty</phys-area-name>
       <principal-cave-name>Ľadová jaskyňa na Dreveníku</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5108,7 +5093,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Hornádska kotlina; Medvedie chrbty</phys-area-name>
       <principal-cave-name>Malá ľadová jaskyňa</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5122,7 +5107,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Kremnické vrchy, Flochovský chrbát</phys-area-name>
+      <phys-area-name>Kremnické vrchy; Flochovský chrbát</phys-area-name>
       <principal-cave-name>Snežná rozsadlina</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5136,7 +5121,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Nízke Tatry, Ďumbierske Tatry, Demänovské vrchy</phys-area-name>
+      <phys-area-name>Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy</phys-area-name>
       <principal-cave-name>Demänovská ľadová jaskyňa (Demänová Ice Cave)</principal-cave-name>
       <other-cave-name/>
       <latitude>48.99861</latitude>
@@ -5151,7 +5136,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy</phys-area-name>
       <principal-cave-name>Havrania priepasť</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5165,7 +5150,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy</phys-area-name>
       <principal-cave-name>Jelenia priepasť (Závrtová priepasť)</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5179,7 +5164,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy</phys-area-name>
       <principal-cave-name>Studená diera</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5193,7 +5178,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy</phys-area-name>
       <principal-cave-name>Veľká ľadová priepať na Ohništi</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5208,7 +5193,8 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Nízke Tatry, Ďumbierske</phys-area-name>
+      <phys-area-name>Nízke Tatry; Ďumbierske Tatry; Ďumbier
+</phys-area-name>
       <principal-cave-name>Jaskyňa studeného vetra</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5222,7 +5208,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Slovenský kras, Horný vrch</phys-area-name>
+      <phys-area-name>Slovenský kras; Horný vrch</phys-area-name>
       <principal-cave-name>Ľadová jaskyňa v Havranej skale</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5250,7 +5236,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Slovenský kras, Silická planina</phys-area-name>
+      <phys-area-name>Slovenský kras; Silická planina</phys-area-name>
       <principal-cave-name>Silická ľadnica</principal-cave-name>
       <other-cave-name>Silica Ice Cave</other-cave-name>
       <latitude/>
@@ -5266,7 +5252,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Spišsko-gemerský kras,</phys-area-name>
+      <phys-area-name>Spišsko-gemerský kras; Muránska planina</phys-area-name>
       <principal-cave-name>Bodolová</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5280,7 +5266,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Muránska planina</phys-area-name>
+      <phys-area-name>Spišsko-gemerský kras; Muránska planina</phys-area-name>
       <principal-cave-name>Čurička</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5294,7 +5280,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Spišsko-gemerský kras; Muránska planina</phys-area-name>
       <principal-cave-name>Studňa (Ľadová jama na Muráni)</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5308,7 +5294,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Spišsko-gemerský kras; Muránska planina</phys-area-name>
       <principal-cave-name>Šingliarka (Ľadová jama)</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5322,7 +5308,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Spišsko-gemerský kras; Muránska planina</phys-area-name>
       <principal-cave-name>Veľká Stožka</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5336,7 +5322,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Spišsko-gemerský kras; Muránska planina</phys-area-name>
       <principal-cave-name>Vrbiarka (Priepasť na Kubičkovej)</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5350,7 +5336,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Spišsko-gemerský kras, Slovenský raj</phys-area-name>
+      <phys-area-name>Spišsko-gemerský kras; Slovenský raj</phys-area-name>
       <principal-cave-name>Dobšinská ľadová jaskyňa (Dobšiná Ice Cave)</principal-cave-name>
       <other-cave-name/>
       <latitude>48.87194</latitude>
@@ -5369,7 +5355,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Spišsko-gemerský kras; Slovenský raj</phys-area-name>
       <principal-cave-name>Duča</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5397,7 +5383,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Tatry, Východné Tatry, Belianske Tatry</phys-area-name>
+      <phys-area-name>Tatry; Východné Tatry; Belianske Tatry</phys-area-name>
       <principal-cave-name>Jaskyňa v Škaredom žľabe</principal-cave-name>
       <other-cave-name>Ľadová piecka</other-cave-name>
       <latitude/>
@@ -5411,7 +5397,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry; Východné Tatry; Belianske Tatry</phys-area-name>
       <principal-cave-name>Ľadová pivnica</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5425,7 +5411,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry; Východné Tatry; Belianske Tatry</phys-area-name>
       <principal-cave-name>Priepasť v Hlúpom vrchu</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5439,7 +5425,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Tatry, Východné Tatry, Vysoké Tatry</phys-area-name>
+      <phys-area-name>Tatry; Východné Tatry; Vysoké Tatry</phys-area-name>
       <principal-cave-name>A-1 (Svišťová dolinka 1)</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5453,7 +5439,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry; Východné Tatry</phys-area-name>
       <principal-cave-name>A-2 (Svišťová dolinka 2)</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5467,7 +5453,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry; Východné Tatry</phys-area-name>
       <principal-cave-name>A-5 (Svišťová dolinka 4)</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5481,7 +5467,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry</phys-area-name>
       <principal-cave-name>Kostolík</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5495,7 +5481,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry</phys-area-name>
       <principal-cave-name>Ľadová jaskyňa pod Košiarom</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5509,7 +5495,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry</phys-area-name>
       <principal-cave-name>Ľadová kamzíčia jaskyňa</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5523,7 +5509,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry</phys-area-name>
       <principal-cave-name>Nižná svišťová jaskyňa (Kovalova priepasť)</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5537,7 +5523,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry</phys-area-name>
       <principal-cave-name>Spišmichalova jaskyňa (Ľadová jaskyňa)</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5551,7 +5537,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry</phys-area-name>
       <principal-cave-name>Tichá diera (Snežná jaskyňa)</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5565,7 +5551,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry</phys-area-name>
       <principal-cave-name>Veľká ľadová puklina</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5579,7 +5565,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Tatry, Západné Tatry, Červené vrchy</phys-area-name>
+      <phys-area-name>Tatry; Západné Tatry; Červené vrchy</phys-area-name>
       <principal-cave-name>Harišňa</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5593,7 +5579,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry; Západné Tatry</phys-area-name>
       <principal-cave-name>Ľadová morňa</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5607,7 +5593,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Kresanica</phys-area-name>
+      <phys-area-name>Tatry; Západné Tatry; Mt. Kresanica</phys-area-name>
       <principal-cave-name>Ľadová priepasť</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5621,7 +5607,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry; Západné Tatry</phys-area-name>
       <principal-cave-name>Ľadové okno</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5635,7 +5621,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Tatry; Západné Tatry</phys-area-name>
       <principal-cave-name>Snežná priepasť</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5649,7 +5635,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Tatry, Západné Tatry, Osobitá</phys-area-name>
+      <phys-area-name>Tatry; Západné Tatry; Osobitá</phys-area-name>
       <principal-cave-name>Ľadová jaskyňa v Okolíku</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5663,7 +5649,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Tatry, Západné Tatry, Sivý vrch</phys-area-name>
+      <phys-area-name>Tatry; Západné Tatry; Sivý vrch</phys-area-name>
       <principal-cave-name>Košiarec</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -5693,10 +5679,11 @@
       <country-name>Slovenia</country-name>
       <state-or-province/>
       <phys-area-name/>
-      <principal-cave-name>Paradani</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
+      <principal-cave-name>Paradana Ice Cave</principal-cave-name>
+      <other-cave-name>Great Ice Cave in Paradana</other-cave-name>
+      <other-cave-name>Velika ledena jama v Paradani</other-cave-name>
+      <latitude>45.98881</latitude>
+      <longitude>13.84451</longitude>
       <altitude>1130</altitude>
       <length>6534</length>
       <vertical-extent>858</vertical-extent>
@@ -5708,33 +5695,47 @@
    <record>
       <country-name>Slovenia</country-name>
       <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Smrekova draga</principal-cave-name>
-      <other-cave-name/>
-      <latitude>45.98752</latitude>
-      <longitude>13.86777</longitude>
-      <altitude/>
-      <length>~1500</length>
-      <vertical-extent> >150</vertical-extent>
-      <rock-type/>
-      <contents>permanent ice</contents>
-      <comments>two dolines</comments>
-      <reference>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</reference>
-   </record>
-   <record>
-      <country-name>Slovenia</country-name>
-      <state-or-province/>
-      <phys-area-name>Raduha Mountain</phys-area-name>
+      <phys-area-name>Southern Alps; Raduha Mountain</phys-area-name>
       <principal-cave-name>Snežna jama cave</principal-cave-name>
       <other-cave-name/>
       <latitude>46.39825</latitude>
       <longitude>14.74209</longitude>
       <altitude>1514</altitude>
-      <length/>
+      <length> >1600</length>
       <vertical-extent/>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <comments>collapse dolina</comments>
+      <comments>collapse dolina; frozen lake</comments>
+      <reference>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</reference>
+   </record>
+   <record>
+      <country-name>Slovenia</country-name>
+      <state-or-province/>
+      <phys-area-name></phys-area-name>
+      <principal-cave-name>Ledena jama pri Pgraji</principal-cave-name>
+      <other-cave-name/>
+      <latitude></latitude>
+      <longitude></longitude>
+      <altitude>530</altitude>
+      <length></length>
+      <vertical-extent/>
+      <rock-type>limestone</rock-type>
+      <contents>periodic ice</contents>
+      <reference>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</reference>
+   </record>
+   <record>
+      <country-name>Slovenia</country-name>
+      <state-or-province/>
+      <phys-area-name></phys-area-name>
+      <principal-cave-name>Laniško brezno</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>645</altitude>
+      <length></length>
+      <vertical-extent>70</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
       <reference>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</reference>
    </record>
 
@@ -5768,7 +5769,7 @@
    <record>
       <country-name>Svalbard and Jan Mayen</country-name>
       <phys-area-name>Spitsbergen; Blomstrandsøya</phys-area-name>
-      <principal-cave-name>G15 Rundsvagrotte </principal-cave-name>
+      <principal-cave-name>G15 Rundsvagrotte</principal-cave-name>
       <other-cave-name></other-cave-name>
       <altitude>72</altitude>
       <length>3</length>
@@ -7109,7 +7110,7 @@
       <latitude/>
       <longitude/>
       <altitude>~4600</altitude>
-      <length/>
+      <length>2050</length>
       <vertical-extent>240</vertical-extent>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
@@ -7880,6 +7881,7 @@
       <other-cave-name/>
       <latitude/>
       <longitude/>
+      <altitude>2904</altitude>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <comments>Carobniferous age; layered ice</comments>
@@ -8055,8 +8057,8 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
-      <phys-area-name>Lava Beds National Monument; Mammoth Crater</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Heppe Ice Cave</principal-cave-name>
       <other-cave-name>Heppe Caves</other-cave-name>
       <altitude>1609</altitude>
@@ -8182,7 +8184,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Mauna Loa Ice Cave</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -8201,7 +8203,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Arsia Cave</principal-cave-name>
       <other-cave-name>Arsia Ice Cave</other-cave-name>
       <latitude/>
@@ -8936,7 +8938,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Puna District</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Anthurium Sink Cave</principal-cave-name>
       <length>183</length>
       <cave-type>lava tunnel</cave-type>
@@ -8974,9 +8976,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Apple Cave</principal-cave-name>
       <cave-id>NSS-633-24</cave-id>
       <length>61</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1621</reference>
    </record>
@@ -9123,10 +9127,17 @@
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
       <principal-cave-name>Asher's Cave</principal-cave-name>
-      <other-cave-name>Prince Charming Cave</other-cave-name>
       <length>213</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1623</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Washington</state-or-province>
+      <state-or-province>Skamania County</state-or-province>
+      <principal-cave-name>Prince Charming Cave</principal-cave-name>
+      <length>213</length>
+      <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1668</reference>
    </record>
    <record>
@@ -9438,6 +9449,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>New Mexico</state-or-province>
       <state-or-province>Cibola County</state-or-province>
+      <phys-area-name>El Malpais; El Calderon flow</phys-area-name>
       <principal-cave-name>Bat Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -9555,9 +9567,8 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Modoc Crater</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
-      <phys-area-name>Modoc Crater</phys-area-name>
       <principal-cave-name>Bearpaw Cave</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
@@ -9601,6 +9612,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Lincoln County</state-or-province>
+      <phys-area-name>Black Butte</phys-area-name>
       <principal-cave-name>Belly Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -9690,7 +9702,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Big Red Cave</principal-cave-name>
       <length>3606</length>
       <vertical-extent>232</vertical-extent>
@@ -9702,7 +9714,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Big Room cave</principal-cave-name>
       <length>37</length>
       <cave-type>lava tunnel</cave-type>
@@ -9836,7 +9848,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Blair Cave</principal-cave-name>
       <length>1110</length>
       <rock-type>basalt</rock-type>
@@ -10915,8 +10927,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>New Mexico</state-or-province>
       <state-or-province>Cibola County</state-or-province>
+      <phys-area-name>El Malpais</phys-area-name>
       <principal-cave-name>Cerro Encierro</principal-cave-name>
       <length>500</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1192</reference>
    </record>
@@ -10974,6 +10988,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Arnold Lava Tube System</phys-area-name>
       <principal-cave-name>Charlie-the-Cave</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
@@ -11045,7 +11060,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Christmas Cave</principal-cave-name>
       <length>632</length>
       <rock-type>basalt</rock-type>
@@ -11058,6 +11073,7 @@
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
       <principal-cave-name>Chubby Bunny Cave</principal-cave-name>
+      <other-cave-name>Fat Rabbit Cave</other-cave-name>
       <length>2205</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1630</reference>
@@ -12633,6 +12649,7 @@
       <state-or-province>Skamania County</state-or-province>
       <principal-cave-name>Curly Creek Cave</principal-cave-name>
       <length>373</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1635</reference>
    </record>
@@ -12829,16 +12846,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Klickitat County</state-or-province>
-      <principal-cave-name>David's Den</principal-cave-name>
-      <length>335</length>
-      <rock-type>basalt</rock-type>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1738</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Washington</state-or-province>
-      <state-or-province>Klickitat County</state-or-province>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Dead Bear Cave</principal-cave-name>
       <length>1063</length>
       <cave-type>lava tunnel</cave-type>
@@ -13015,6 +13023,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Lincoln County</state-or-province>
+      <phys-area-name>Black Butte</phys-area-name>
       <principal-cave-name>Diamond Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -13076,6 +13085,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Klickitat County</state-or-province>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Ditch Cave</principal-cave-name>
       <length>100</length>
       <cave-type>lava tunnel</cave-type>
@@ -13084,7 +13094,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Doc Bellou Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -13197,17 +13207,9 @@
       <state-or-province>Deschutes County</state-or-province>
       <principal-cave-name>Double Cave</principal-cave-name>
       <length>176</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1317</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Washington</state-or-province>
-      <state-or-province>Skamania County</state-or-province>
-      <principal-cave-name>Dqucaking Pika Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1751</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -13236,6 +13238,7 @@
       <principal-cave-name>Dripping Lava Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1203</reference>
    </record>
    <record>
@@ -13699,8 +13702,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Forest Sink Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1761</reference>
    </record>
@@ -14077,13 +14082,15 @@
       <principal-cave-name>Gim Nyeong</principal-cave-name>
       <other-cave-name>김녕굴</other-cave-name>
       <other-cave-name>Gimnyeonggul</other-cave-name>
-      <other-cave-name>Gimyong Cave</other-cave-name>
       <other-cave-name>Sagul Cave</other-cave-name>
       <other-cave-name>Snake Cave</other-cave-name>
+      <other-cave-name>Kimyŏnggul</other-cave-name>
       <length>705</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=673</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=680</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=681</reference>
       <reference>https://en.wikipedia.org/wiki/Gimnyeonggul</reference>
    </record>
    <record>
@@ -15133,12 +15140,14 @@
    <record>
       <country-name>Korea, Republic of</country-name>
       <state-or-province>Jeju province</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Handeul-kunyeong</principal-cave-name>
+      <other-cave-name>Handul Kul</other-cave-name>
       <altitude>35</altitude>
       <length>1400</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=683</reference>
+      <reference>Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -15225,7 +15234,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Puna District</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Harry Fox's Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -15555,7 +15564,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Puna District</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Hot Tub Cave</principal-cave-name>
       <length>91</length>
       <cave-type>lava tunnel</cave-type>
@@ -15677,10 +15686,12 @@
       <other-cave-name>Ssangyonggul</other-cave-name>
       <other-cave-name>Two Dragons</other-cave-name>
       <other-cave-name>쌍용굴</other-cave-name>
-      <length>~400</length>
+      <altitude>15</altitude>
+      <length>380</length>
       <number-of-entrances>2</number-of-entrances>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=672</reference>
+      <reference>Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -15780,9 +15791,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Ice Rink Cave</principal-cave-name>
       <cave-id>NSS-633-22</cave-id>
       <length>470</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1653</reference>
       <reference>https://www.oregongrotto.com/troutlake.shtml</reference>
@@ -16192,6 +16205,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>J.a.R. Cave</principal-cave-name>
       <cave-id>NSS-633-43</cave-id>
       <length>1043</length>
@@ -16211,7 +16225,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Jen's Puka</principal-cave-name>
       <length>402</length>
       <rock-type>basalt</rock-type>
@@ -16221,7 +16235,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Jen's Puka Mauka Cave</principal-cave-name>
       <length>26</length>
       <rock-type>basalt</rock-type>
@@ -16241,9 +16255,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Klickitat County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Jenning's Cave</principal-cave-name>
       <length>116</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1615</reference>
    </record>
@@ -16282,6 +16297,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Johnson Farm 1 Cave</principal-cave-name>
       <length>335</length>
       <rock-type>basalt</rock-type>
@@ -16292,6 +16308,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Johnson Farm 2 Cave</principal-cave-name>
       <length>91</length>
       <rock-type>basalt</rock-type>
@@ -16697,7 +16714,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Kau Cave #2</principal-cave-name>
       <length>600</length>
       <cave-type>lava tunnel</cave-type>
@@ -16724,7 +16741,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; North Hilo District</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Kaumana Cave</principal-cave-name>
       <length>2198</length>
       <rock-type>basalt</rock-type>
@@ -16736,7 +16753,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; North Hilo District</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Emesine Cave</principal-cave-name>
       <length>20744</length>
       <vertical-extent>437</vertical-extent>
@@ -16859,7 +16876,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Keauhou Coconut Cave</principal-cave-name>
       <length>177</length>
       <rock-type>basalt</rock-type>
@@ -16869,7 +16886,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Keauhou Organ Cave</principal-cave-name>
       <length>862</length>
       <rock-type>basalt</rock-type>
@@ -16879,7 +16896,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Keauhou Petroglyph Cave</principal-cave-name>
       <length>165</length>
       <rock-type>basalt</rock-type>
@@ -16962,16 +16979,6 @@
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1066</reference>
-   </record>
-   <record>
-      <country-name>Korea, Republic of</country-name>
-      <state-or-province>Jeju province</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Kimnyong Cave</principal-cave-name>
-      <length>500</length>
-      <rock-type>basalt</rock-type>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=681</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -17218,7 +17225,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Kula Kai Caverns</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
@@ -17230,7 +17237,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <phys-area-name>Kipuka Kanohina Cave Preserve</phys-area-name>
       <principal-cave-name>Kipuka Kanohina</principal-cave-name>
       <length> >32000</length>
@@ -17959,7 +17966,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Lower Bird Park Cave</principal-cave-name>
       <length>400</length>
       <cave-type>lava tunnel</cave-type>
@@ -17968,7 +17975,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Lower Keauhou Trail Cave</principal-cave-name>
       <length>1217</length>
       <rock-type>basalt</rock-type>
@@ -18067,6 +18074,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Klickitat County</state-or-province>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Madison's Cave</principal-cave-name>
       <length>114</length>
       <cave-type>lava tunnel</cave-type>
@@ -18232,6 +18240,7 @@
       <other-cave-name>만장굴</other-cave-name>
       <other-cave-name>Manjanggul</other-cave-name>
       <other-cave-name>Red Dragon Cave</other-cave-name>
+      <altitude>120</altitude>
       <length>8928</length>
       <number-of-entrances>3</number-of-entrances>
       <rock-type>basalt</rock-type>
@@ -18426,7 +18435,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Mauna Ulu Cave Group A</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
@@ -18438,7 +18447,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Mauna Ulu Cave Group B</principal-cave-name>
       <length>780</length>
       <rock-type>basalt</rock-type>
@@ -18449,7 +18458,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Mauna Ulu Cave Group C</principal-cave-name>
       <length>468</length>
       <rock-type>basalt</rock-type>
@@ -18605,6 +18614,7 @@
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Michon Gul</principal-cave-name>
+      <altitude>100</altitude>
       <length>1714</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=679</reference>
@@ -19096,6 +19106,7 @@
       <state-or-province>Deschutes County</state-or-province>
       <principal-cave-name>Mushroom Cave No. 2</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1237</reference>
    </record>
@@ -19804,7 +19815,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Kea</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Kea</phys-area-name>
       <principal-cave-name>Pa'auhau Civil Defense Cave</principal-cave-name>
       <length>1001</length>
       <rock-type>basalt</rock-type>
@@ -20405,8 +20416,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Klickitat County</state-or-province>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Porcupine Cave</principal-cave-name>
       <length>35</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1618</reference>
    </record>
@@ -20540,7 +20553,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Pukalani Cave</principal-cave-name>
       <length>2048</length>
       <cave-type>lava tunnel</cave-type>
@@ -21252,7 +21265,7 @@
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Victoria</state-or-province>
-      <phys-area-name>Mt. Porndon</phys-area-name>
+      <phys-area-name>Western Volcanic Plains; Mt. Porndon</phys-area-name>
       <principal-cave-name>Rubbish Cave</principal-cave-name>
       <length>100</length>
       <rock-type>basalt</rock-type>
@@ -21920,8 +21933,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Lincoln County</state-or-province>
+      <phys-area-name>Black Butte</phys-area-name>
       <principal-cave-name>Shoshone Indian Ice Cave</principal-cave-name>
       <length>213</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1079</reference>
    </record>
@@ -22044,6 +22059,7 @@
       <phys-area-name/>
       <principal-cave-name>Skeleton Cave</principal-cave-name>
       <length>43</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1561</reference>
    </record>
@@ -22098,7 +22114,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; North Hilo District</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Skylight Cave</principal-cave-name>
       <length>~550</length>
       <rock-type>basalt</rock-type>
@@ -22181,10 +22197,15 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Klickitat County</state-or-province>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Snowpatch Cave</principal-cave-name>
+      <other-cave-name>Sawmill Cave</other-cave-name>
+      <other-cave-name>David's Den</other-cave-name>
       <length>360</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1619</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1738</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -22511,6 +22532,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
+      <state-or-province>Deschutes County</state-or-province>
       <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Stevens Road Cave</principal-cave-name>
       <length>31</length>
@@ -22989,6 +23011,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Klickitat County</state-or-province>
+      <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Thanks Cave</principal-cave-name>
       <other-cave-name>Thanksgiving Cave</other-cave-name>
       <length>915</length>
@@ -23027,6 +23050,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Lincoln County</state-or-province>
+      <phys-area-name>Black Butte</phys-area-name>
       <principal-cave-name>The One Dave Missed</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -23045,6 +23069,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Lincoln County</state-or-province>
+      <phys-area-name>Black Butte</phys-area-name>
       <principal-cave-name>The One That Goes</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -23104,7 +23129,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Mauna Kea</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Kea</phys-area-name>
       <principal-cave-name>Kukaiau Cave</principal-cave-name>
       <other-cave-name>This Cave/That Cave</other-cave-name>
       <other-cave-name>Kukaiau Piping Cave</other-cave-name>
@@ -23866,7 +23891,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Upper Bird Park Cave</principal-cave-name>
       <other-cave-name>Kipuka Puaula Cave</other-cave-name>
       <length>150</length>
@@ -23902,7 +23927,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Upper Keauhou Trail Cave</principal-cave-name>
       <length>579</length>
       <rock-type>basalt</rock-type>
@@ -24128,6 +24153,7 @@
       <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Wa Hol Gul</principal-cave-name>
       <other-cave-name>Waful Kul</other-cave-name>
+      <other-cave-name>Wahul Kul</other-cave-name>
       <altitude>200</altitude>
       <length>2066</length>
       <rock-type>basalt</rock-type>
@@ -24308,6 +24334,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Water Caves</principal-cave-name>
       <length>536</length>
       <cave-type>lava tunnel</cave-type>
@@ -24534,6 +24561,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Lincoln County</state-or-province>
+      <phys-area-name>Black Butte</phys-area-name>
       <principal-cave-name>Will's Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -25093,7 +25121,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Ka'u District</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa; South Point</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa; South Point</phys-area-name>
       <principal-cave-name>Kamakalepo Cave System</principal-cave-name>
       <length>998</length>
       <rock-type>basalt</rock-type>
@@ -25110,7 +25138,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Ka'u District</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa; South Point</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa; South Point</phys-area-name>
       <principal-cave-name>Waipouli Mauka</principal-cave-name>
       <other-cave-name>Dark Water Cave</other-cave-name>
       <length></length>
@@ -25124,7 +25152,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Keokeo Cave System</principal-cave-name>
       <length> ~40600</length>
       <vertical-extent> ~2200</vertical-extent>
@@ -25147,7 +25175,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Whitney's Cave</principal-cave-name>
       <length>652</length>
       <rock-type>basalt</rock-type>
@@ -25191,7 +25219,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii (Big Island); Kilauea</phys-area-name>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Ola'a Cave</principal-cave-name>
       <length>11751</length>
       <vertical-extent></vertical-extent>

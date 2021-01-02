@@ -3115,22 +3115,6 @@
 
     {
       "country-name": "Spain",
-      "state-or-province": "Santa Cruz de Tenerife",
-      "phys-area-name": "Canary Islands",
-      "phys-area-name": "Mount Teide",
-      "principal-cave-name": "Rajada",
-      "other-cave-name": [],
-      "latitude": [],
-      "longitude": [],
-      "altitude": [],
-      "length": [],
-      "vertical-extent": [],
-      "contents": "permanent ice",
-      "reference": "Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0"
-    },
-
-    {
-      "country-name": "Spain",
       "state-or-province": "Aragon",
       "phys-area-name": "Pyrenees",
       "phys-area-name": "Monte Perdido-Marboré",
@@ -5428,7 +5412,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Biele Karpaty, Vršatské bradlá, Vysoké Vršatce",
+      "phys-area-name": "Biele Karpaty; Vršatské bradlá; Vysoké Vršatce",
       "principal-cave-name": "Ľadnica",
       "other-cave-name": [],
       "latitude": [],
@@ -5443,7 +5427,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Hornádska kotlina, Medvedie chrbty",
+      "phys-area-name": "Hornádska kotlina; Medvedie chrbty",
       "principal-cave-name": "Ľadová jaskyňa na Dreveníku",
       "other-cave-name": [],
       "latitude": [],
@@ -5458,7 +5442,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Hornádska kotlina; Medvedie chrbty",
       "principal-cave-name": "Malá ľadová jaskyňa",
       "other-cave-name": [],
       "latitude": [],
@@ -5473,7 +5457,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Kremnické vrchy, Flochovský chrbát",
+      "phys-area-name": "Kremnické vrchy; Flochovský chrbát",
       "principal-cave-name": "Snežná rozsadlina",
       "other-cave-name": [],
       "latitude": [],
@@ -5488,7 +5472,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Nízke Tatry, Ďumbierske Tatry, Demänovské vrchy",
+      "phys-area-name": "Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy",
       "principal-cave-name": "Demänovská ľadová jaskyňa (Demänová Ice Cave)",
       "other-cave-name": [],
       "latitude": 48.99861,
@@ -5504,7 +5488,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy",
       "principal-cave-name": "Havrania priepasť",
       "other-cave-name": [],
       "latitude": [],
@@ -5519,7 +5503,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy",
       "principal-cave-name": "Jelenia priepasť (Závrtová priepasť)",
       "other-cave-name": [],
       "latitude": [],
@@ -5534,7 +5518,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy",
       "principal-cave-name": "Studená diera",
       "other-cave-name": [],
       "latitude": [],
@@ -5549,7 +5533,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy",
       "principal-cave-name": "Veľká ľadová priepať na Ohništi",
       "other-cave-name": [],
       "latitude": [],
@@ -5565,7 +5549,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Nízke Tatry, Ďumbierske",
+      "phys-area-name": "Nízke Tatry; Ďumbierske Tatry; Ďumbier\n",
       "principal-cave-name": "Jaskyňa studeného vetra",
       "other-cave-name": [],
       "latitude": [],
@@ -5580,7 +5564,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Slovenský kras, Horný vrch",
+      "phys-area-name": "Slovenský kras; Horný vrch",
       "principal-cave-name": "Ľadová jaskyňa v Havranej skale",
       "other-cave-name": [],
       "latitude": [],
@@ -5610,7 +5594,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Slovenský kras, Silická planina",
+      "phys-area-name": "Slovenský kras; Silická planina",
       "principal-cave-name": "Silická ľadnica",
       "other-cave-name": "Silica Ice Cave",
       "latitude": [],
@@ -5627,7 +5611,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Spišsko-gemerský kras,",
+      "phys-area-name": "Spišsko-gemerský kras; Muránska planina",
       "principal-cave-name": "Bodolová",
       "other-cave-name": [],
       "latitude": [],
@@ -5642,7 +5626,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Muránska planina",
+      "phys-area-name": "Spišsko-gemerský kras; Muránska planina",
       "principal-cave-name": "Čurička",
       "other-cave-name": [],
       "latitude": [],
@@ -5657,7 +5641,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Spišsko-gemerský kras; Muránska planina",
       "principal-cave-name": "Studňa (Ľadová jama na Muráni)",
       "other-cave-name": [],
       "latitude": [],
@@ -5672,7 +5656,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Spišsko-gemerský kras; Muránska planina",
       "principal-cave-name": "Šingliarka (Ľadová jama)",
       "other-cave-name": [],
       "latitude": [],
@@ -5687,7 +5671,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Spišsko-gemerský kras; Muránska planina",
       "principal-cave-name": "Veľká Stožka",
       "other-cave-name": [],
       "latitude": [],
@@ -5702,7 +5686,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Spišsko-gemerský kras; Muránska planina",
       "principal-cave-name": "Vrbiarka (Priepasť na Kubičkovej)",
       "other-cave-name": [],
       "latitude": [],
@@ -5717,7 +5701,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Spišsko-gemerský kras, Slovenský raj",
+      "phys-area-name": "Spišsko-gemerský kras; Slovenský raj",
       "principal-cave-name": "Dobšinská ľadová jaskyňa (Dobšiná Ice Cave)",
       "other-cave-name": [],
       "latitude": 48.87194,
@@ -5737,7 +5721,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Spišsko-gemerský kras; Slovenský raj",
       "principal-cave-name": "Duča",
       "other-cave-name": [],
       "latitude": [],
@@ -5767,7 +5751,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Tatry, Východné Tatry, Belianske Tatry",
+      "phys-area-name": "Tatry; Východné Tatry; Belianske Tatry",
       "principal-cave-name": "Jaskyňa v Škaredom žľabe",
       "other-cave-name": "Ľadová piecka",
       "latitude": [],
@@ -5782,7 +5766,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry; Východné Tatry; Belianske Tatry",
       "principal-cave-name": "Ľadová pivnica",
       "other-cave-name": [],
       "latitude": [],
@@ -5797,7 +5781,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry; Východné Tatry; Belianske Tatry",
       "principal-cave-name": "Priepasť v Hlúpom vrchu",
       "other-cave-name": [],
       "latitude": [],
@@ -5812,7 +5796,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Tatry, Východné Tatry, Vysoké Tatry",
+      "phys-area-name": "Tatry; Východné Tatry; Vysoké Tatry",
       "principal-cave-name": "A-1 (Svišťová dolinka 1)",
       "other-cave-name": [],
       "latitude": [],
@@ -5827,7 +5811,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry; Východné Tatry",
       "principal-cave-name": "A-2 (Svišťová dolinka 2)",
       "other-cave-name": [],
       "latitude": [],
@@ -5842,7 +5826,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry; Východné Tatry",
       "principal-cave-name": "A-5 (Svišťová dolinka 4)",
       "other-cave-name": [],
       "latitude": [],
@@ -5857,7 +5841,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry",
       "principal-cave-name": "Kostolík",
       "other-cave-name": [],
       "latitude": [],
@@ -5872,7 +5856,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry",
       "principal-cave-name": "Ľadová jaskyňa pod Košiarom",
       "other-cave-name": [],
       "latitude": [],
@@ -5887,7 +5871,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry",
       "principal-cave-name": "Ľadová kamzíčia jaskyňa",
       "other-cave-name": [],
       "latitude": [],
@@ -5902,7 +5886,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry",
       "principal-cave-name": "Nižná svišťová jaskyňa (Kovalova priepasť)",
       "other-cave-name": [],
       "latitude": [],
@@ -5917,7 +5901,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry",
       "principal-cave-name": "Spišmichalova jaskyňa (Ľadová jaskyňa)",
       "other-cave-name": [],
       "latitude": [],
@@ -5932,7 +5916,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry",
       "principal-cave-name": "Tichá diera (Snežná jaskyňa)",
       "other-cave-name": [],
       "latitude": [],
@@ -5947,7 +5931,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry",
       "principal-cave-name": "Veľká ľadová puklina",
       "other-cave-name": [],
       "latitude": [],
@@ -5962,7 +5946,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Tatry, Západné Tatry, Červené vrchy",
+      "phys-area-name": "Tatry; Západné Tatry; Červené vrchy",
       "principal-cave-name": "Harišňa",
       "other-cave-name": [],
       "latitude": [],
@@ -5977,7 +5961,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry; Západné Tatry",
       "principal-cave-name": "Ľadová morňa",
       "other-cave-name": [],
       "latitude": [],
@@ -5992,7 +5976,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Mt. Kresanica",
+      "phys-area-name": "Tatry; Západné Tatry; Mt. Kresanica",
       "principal-cave-name": "Ľadová priepasť",
       "other-cave-name": [],
       "latitude": [],
@@ -6007,7 +5991,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry; Západné Tatry",
       "principal-cave-name": "Ľadové okno",
       "other-cave-name": [],
       "latitude": [],
@@ -6022,7 +6006,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Tatry; Západné Tatry",
       "principal-cave-name": "Snežná priepasť",
       "other-cave-name": [],
       "latitude": [],
@@ -6037,7 +6021,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Tatry, Západné Tatry, Osobitá",
+      "phys-area-name": "Tatry; Západné Tatry; Osobitá",
       "principal-cave-name": "Ľadová jaskyňa v Okolíku",
       "other-cave-name": [],
       "latitude": [],
@@ -6052,7 +6036,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Tatry, Západné Tatry, Sivý vrch",
+      "phys-area-name": "Tatry; Západné Tatry; Sivý vrch",
       "principal-cave-name": "Košiarec",
       "other-cave-name": [],
       "latitude": [],
@@ -6083,10 +6067,11 @@
       "country-name": "Slovenia",
       "state-or-province": [],
       "phys-area-name": [],
-      "principal-cave-name": "Paradani",
-      "other-cave-name": [],
-      "latitude": [],
-      "longitude": [],
+      "principal-cave-name": "Paradana Ice Cave",
+      "other-cave-name": "Great Ice Cave in Paradana",
+      "other-cave-name": "Velika ledena jama v Paradani",
+      "latitude": 45.98881,
+      "longitude": 13.84451,
       "altitude": 1130,
       "length": 6534,
       "vertical-extent": 858,
@@ -6099,34 +6084,49 @@
     {
       "country-name": "Slovenia",
       "state-or-province": [],
-      "phys-area-name": [],
-      "principal-cave-name": "Smrekova draga",
+      "phys-area-name": "Southern Alps; Raduha Mountain",
+      "principal-cave-name": "Snežna jama cave",
       "other-cave-name": [],
-      "latitude": 45.98752,
-      "longitude": 13.86777,
-      "altitude": [],
-      "length": "~1500",
-      "vertical-extent": " >150",
-      "rock-type": [],
+      "latitude": 46.39825,
+      "longitude": 14.74209,
+      "altitude": 1514,
+      "length": " >1600",
+      "vertical-extent": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "two dolines",
+      "comments": "collapse dolina; frozen lake",
       "reference": "Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9"
     },
 
     {
       "country-name": "Slovenia",
       "state-or-province": [],
-      "phys-area-name": "Raduha Mountain",
-      "principal-cave-name": "Snežna jama cave",
+      "phys-area-name": [],
+      "principal-cave-name": "Ledena jama pri Pgraji",
       "other-cave-name": [],
-      "latitude": 46.39825,
-      "longitude": 14.74209,
-      "altitude": 1514,
+      "latitude": [],
+      "longitude": [],
+      "altitude": 530,
       "length": [],
       "vertical-extent": [],
       "rock-type": "limestone",
+      "contents": "periodic ice",
+      "reference": "Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9"
+    },
+
+    {
+      "country-name": "Slovenia",
+      "state-or-province": [],
+      "phys-area-name": [],
+      "principal-cave-name": "Laniško brezno",
+      "other-cave-name": [],
+      "latitude": [],
+      "longitude": [],
+      "altitude": 645,
+      "length": [],
+      "vertical-extent": 70,
+      "rock-type": "limestone",
       "contents": "permanent ice",
-      "comments": "collapse dolina",
       "reference": "Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9"
     },
 
@@ -6162,7 +6162,7 @@
     {
       "country-name": "Svalbard and Jan Mayen",
       "phys-area-name": "Spitsbergen; Blomstrandsøya",
-      "principal-cave-name": "G15 Rundsvagrotte ",
+      "principal-cave-name": "G15 Rundsvagrotte",
       "other-cave-name": [],
       "altitude": 72,
       "length": 3,
@@ -7578,7 +7578,7 @@
       "latitude": [],
       "longitude": [],
       "altitude": "~4600",
-      "length": [],
+      "length": 2050,
       "vertical-extent": 240,
       "rock-type": "limestone",
       "contents": "permanent ice",
@@ -8393,6 +8393,7 @@
       "other-cave-name": [],
       "latitude": [],
       "longitude": [],
+      "altitude": 2904,
       "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "Carobniferous age; layered ice",
@@ -8580,8 +8581,8 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Medicine Lake Highlands",
-      "phys-area-name": "Lava Beds National Monument; Mammoth Crater",
+      "phys-area-name": "Medicine Lake Highlands; Mammoth Crater",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Heppe Ice Cave",
       "other-cave-name": "Heppe Caves",
       "altitude": 1609,
@@ -8715,7 +8716,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Mauna Loa Ice Cave",
       "other-cave-name": [],
       "latitude": [],
@@ -8735,7 +8736,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Arsia Cave",
       "other-cave-name": "Arsia Ice Cave",
       "latitude": [],
@@ -9529,7 +9530,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Anthurium Sink Cave",
       "length": 183,
       "cave-type": "lava tunnel",
@@ -9571,9 +9572,11 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Mt. Adams",
       "principal-cave-name": "Apple Cave",
       "cave-id": "NSS-633-24",
       "length": 61,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1621"
     },
@@ -9734,10 +9737,18 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Asher's Cave",
-      "other-cave-name": "Prince Charming Cave",
       "length": 213,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1623",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1623"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Washington",
+      "state-or-province": "Skamania County",
+      "principal-cave-name": "Prince Charming Cave",
+      "length": 213,
+      "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1668"
     },
 
@@ -10079,6 +10090,7 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais; El Calderon flow",
       "principal-cave-name": "Bat Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -10207,9 +10219,8 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Medicine Lake Highlands",
+      "phys-area-name": "Medicine Lake Highlands; Modoc Crater",
       "phys-area-name": "Lava Beds National Monument",
-      "phys-area-name": "Modoc Crater",
       "principal-cave-name": "Bearpaw Cave",
       "length": [],
       "rock-type": "basalt",
@@ -10257,6 +10268,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Black Butte",
       "principal-cave-name": "Belly Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -10355,7 +10367,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Big Red Cave",
       "length": 3606,
       "vertical-extent": 232,
@@ -10368,7 +10380,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Big Room cave",
       "length": 37,
       "cave-type": "lava tunnel",
@@ -10515,7 +10527,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Blair Cave",
       "length": 1110,
       "rock-type": "basalt",
@@ -11699,8 +11711,10 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais",
       "principal-cave-name": "Cerro Encierro",
       "length": 500,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1192"
     },
@@ -11764,6 +11778,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
+      "phys-area-name": "Arnold Lava Tube System",
       "principal-cave-name": "Charlie-the-Cave",
       "length": [],
       "rock-type": "basalt",
@@ -11839,7 +11854,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Christmas Cave",
       "length": 632,
       "rock-type": "basalt",
@@ -11853,6 +11868,7 @@
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
       "principal-cave-name": "Chubby Bunny Cave",
+      "other-cave-name": "Fat Rabbit Cave",
       "length": 2205,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1630"
@@ -13587,6 +13603,7 @@
       "state-or-province": "Skamania County",
       "principal-cave-name": "Curly Creek Cave",
       "length": 373,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1635"
     },
@@ -13801,17 +13818,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Klickitat County",
-      "principal-cave-name": "David's Den",
-      "length": 335,
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1738"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Washington",
-      "state-or-province": "Klickitat County",
+      "phys-area-name": "Mt. Adams",
       "principal-cave-name": "Dead Bear Cave",
       "length": 1063,
       "cave-type": "lava tunnel",
@@ -14006,6 +14013,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Black Butte",
       "principal-cave-name": "Diamond Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -14073,6 +14081,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Klickitat County",
+      "phys-area-name": "Mt. Adams",
       "principal-cave-name": "Ditch Cave",
       "length": 100,
       "cave-type": "lava tunnel",
@@ -14082,7 +14091,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Doc Bellou Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -14205,18 +14214,9 @@
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Double Cave",
       "length": 176,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1317"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Washington",
-      "state-or-province": "Skamania County",
-      "principal-cave-name": "Dqucaking Pika Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1751"
     },
 
     {
@@ -14248,6 +14248,7 @@
       "principal-cave-name": "Dripping Lava Cave",
       "length": [],
       "cave-type": "lava tunnel",
+      "contents": "permanent ice",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1203"
     },
 
@@ -14755,8 +14756,10 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Mount St. Helens",
       "principal-cave-name": "Forest Sink Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1761"
     },
@@ -15169,13 +15172,15 @@
       "principal-cave-name": "Gim Nyeong",
       "other-cave-name": "김녕굴",
       "other-cave-name": "Gimnyeonggul",
-      "other-cave-name": "Gimyong Cave",
       "other-cave-name": "Sagul Cave",
       "other-cave-name": "Snake Cave",
+      "other-cave-name": "Kimyŏnggul",
       "length": 705,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=673",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=680",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=681",
       "reference": "https://en.wikipedia.org/wiki/Gimnyeonggul"
     },
 
@@ -16319,12 +16324,14 @@
     {
       "country-name": "Korea, Republic of",
       "state-or-province": "Jeju province",
-      "phys-area-name": [],
+      "phys-area-name": "Jeju Island",
       "principal-cave-name": "Handeul-kunyeong",
+      "other-cave-name": "Handul Kul",
       "altitude": 35,
       "length": 1400,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=683"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=683",
+      "reference": "Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf"
     },
 
     {
@@ -16419,7 +16426,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Harry Fox's Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -16780,7 +16787,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Hot Tub Cave",
       "length": 91,
       "cave-type": "lava tunnel",
@@ -16913,10 +16920,12 @@
       "other-cave-name": "Ssangyonggul",
       "other-cave-name": "Two Dragons",
       "other-cave-name": "쌍용굴",
-      "length": "~400",
+      "altitude": 15,
+      "length": 380,
       "number-of-entrances": 2,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=672"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=672",
+      "reference": "Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf"
     },
 
     {
@@ -17026,9 +17035,11 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Mt. Adams",
       "principal-cave-name": "Ice Rink Cave",
       "cave-id": "NSS-633-22",
       "length": 470,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1653",
       "reference": "https://www.oregongrotto.com/troutlake.shtml"
@@ -17480,6 +17491,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Mt. Adams",
       "principal-cave-name": "J.a.R. Cave",
       "cave-id": "NSS-633-43",
       "length": 1043,
@@ -17501,7 +17513,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Jen's Puka",
       "length": 402,
       "rock-type": "basalt",
@@ -17512,7 +17524,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Jen's Puka Mauka Cave",
       "length": 26,
       "rock-type": "basalt",
@@ -17534,9 +17546,10 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Klickitat County",
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Adams",
       "principal-cave-name": "Jenning's Cave",
       "length": 116,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1615"
     },
@@ -17579,6 +17592,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
+      "phys-area-name": "Horse Lava Tube System",
       "principal-cave-name": "Johnson Farm 1 Cave",
       "length": 335,
       "rock-type": "basalt",
@@ -17590,6 +17604,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
+      "phys-area-name": "Horse Lava Tube System",
       "principal-cave-name": "Johnson Farm 2 Cave",
       "length": 91,
       "rock-type": "basalt",
@@ -18030,7 +18045,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Kau Cave #2",
       "length": 600,
       "cave-type": "lava tunnel",
@@ -18060,7 +18075,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; North Hilo District",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Kaumana Cave",
       "length": 2198,
       "rock-type": "basalt",
@@ -18073,7 +18088,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; North Hilo District",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Emesine Cave",
       "length": 20744,
       "vertical-extent": 437,
@@ -18207,7 +18222,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Keauhou Coconut Cave",
       "length": 177,
       "rock-type": "basalt",
@@ -18218,7 +18233,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Keauhou Organ Cave",
       "length": 862,
       "rock-type": "basalt",
@@ -18229,7 +18244,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Keauhou Petroglyph Cave",
       "length": 165,
       "rock-type": "basalt",
@@ -18319,17 +18334,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1066"
-    },
-
-    {
-      "country-name": "Korea, Republic of",
-      "state-or-province": "Jeju province",
-      "phys-area-name": [],
-      "principal-cave-name": "Kimnyong Cave",
-      "length": 500,
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=681"
     },
 
     {
@@ -18600,7 +18604,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Kula Kai Caverns",
       "length": [],
       "rock-type": "basalt",
@@ -18613,7 +18617,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "phys-area-name": "Kipuka Kanohina Cave Preserve",
       "principal-cave-name": "Kipuka Kanohina",
       "length": " >32000",
@@ -19408,7 +19412,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Lower Bird Park Cave",
       "length": 400,
       "cave-type": "lava tunnel",
@@ -19418,7 +19422,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Lower Keauhou Trail Cave",
       "length": 1217,
       "rock-type": "basalt",
@@ -19527,6 +19531,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Klickitat County",
+      "phys-area-name": "Mt. Adams",
       "principal-cave-name": "Madison's Cave",
       "length": 114,
       "cave-type": "lava tunnel",
@@ -19708,6 +19713,7 @@
       "other-cave-name": "만장굴",
       "other-cave-name": "Manjanggul",
       "other-cave-name": "Red Dragon Cave",
+      "altitude": 120,
       "length": 8928,
       "number-of-entrances": 3,
       "rock-type": "basalt",
@@ -19919,7 +19925,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Mauna Ulu Cave Group A",
       "length": [],
       "rock-type": "basalt",
@@ -19932,7 +19938,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Mauna Ulu Cave Group B",
       "length": 780,
       "rock-type": "basalt",
@@ -19944,7 +19950,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Mauna Ulu Cave Group C",
       "length": 468,
       "rock-type": "basalt",
@@ -20114,6 +20120,7 @@
       "state-or-province": "Jeju province",
       "phys-area-name": "Jeju Island",
       "principal-cave-name": "Michon Gul",
+      "altitude": 100,
       "length": 1714,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=679",
@@ -20652,6 +20659,7 @@
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Mushroom Cave No. 2",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1237"
     },
@@ -21429,7 +21437,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Mauna Kea",
+      "phys-area-name": "Hawaii (Big Island); Mauna Kea",
       "principal-cave-name": "Pa'auhau Civil Defense Cave",
       "length": 1001,
       "rock-type": "basalt",
@@ -22081,8 +22089,10 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Klickitat County",
+      "phys-area-name": "Mt. Adams",
       "principal-cave-name": "Porcupine Cave",
       "length": 35,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1618"
     },
@@ -22229,7 +22239,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Pukalani Cave",
       "length": 2048,
       "cave-type": "lava tunnel",
@@ -23009,7 +23019,7 @@
     {
       "country-name": "Australia",
       "state-or-province": "Victoria",
-      "phys-area-name": "Mt. Porndon",
+      "phys-area-name": "Western Volcanic Plains; Mt. Porndon",
       "principal-cave-name": "Rubbish Cave",
       "length": 100,
       "rock-type": "basalt",
@@ -23740,8 +23750,10 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Black Butte",
       "principal-cave-name": "Shoshone Indian Ice Cave",
       "length": 213,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1079"
     },
@@ -23876,6 +23888,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Skeleton Cave",
       "length": 43,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1561"
     },
@@ -23935,7 +23948,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; North Hilo District",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Skylight Cave",
       "length": "~550",
       "rock-type": "basalt",
@@ -24026,10 +24039,15 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Klickitat County",
+      "phys-area-name": "Mt. Adams",
       "principal-cave-name": "Snowpatch Cave",
+      "other-cave-name": "Sawmill Cave",
+      "other-cave-name": "David's Den",
       "length": 360,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1619"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1619",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1738"
     },
 
     {
@@ -24387,6 +24405,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Oregon",
+      "state-or-province": "Deschutes County",
       "phys-area-name": "Horse Lava Tube System",
       "principal-cave-name": "Stevens Road Cave",
       "length": 31,
@@ -24910,6 +24929,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Klickitat County",
+      "phys-area-name": "Mt. Adams",
       "principal-cave-name": "Thanks Cave",
       "other-cave-name": "Thanksgiving Cave",
       "length": 915,
@@ -24952,6 +24972,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Black Butte",
       "principal-cave-name": "The One Dave Missed",
       "length": [],
       "cave-type": "lava tunnel",
@@ -24972,6 +24993,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Black Butte",
       "principal-cave-name": "The One That Goes",
       "length": [],
       "cave-type": "lava tunnel",
@@ -25037,7 +25059,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Mauna Kea",
+      "phys-area-name": "Hawaii (Big Island); Mauna Kea",
       "principal-cave-name": "Kukaiau Cave",
       "other-cave-name": "This Cave/That Cave",
       "other-cave-name": "Kukaiau Piping Cave",
@@ -25866,7 +25888,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Upper Bird Park Cave",
       "other-cave-name": "Kipuka Puaula Cave",
       "length": 150,
@@ -25905,7 +25927,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Upper Keauhou Trail Cave",
       "length": 579,
       "rock-type": "basalt",
@@ -26152,6 +26174,7 @@
       "phys-area-name": "Jeju Island",
       "principal-cave-name": "Wa Hol Gul",
       "other-cave-name": "Waful Kul",
+      "other-cave-name": "Wahul Kul",
       "altitude": 200,
       "length": 2066,
       "rock-type": "basalt",
@@ -26349,6 +26372,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands",
       "principal-cave-name": "Water Caves",
       "length": 536,
       "cave-type": "lava tunnel",
@@ -26595,6 +26619,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Black Butte",
       "principal-cave-name": "Will's Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -27200,7 +27225,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Ka'u District",
-      "phys-area-name": "Hawaii Island; Mauna Loa; South Point",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa; South Point",
       "principal-cave-name": "Kamakalepo Cave System",
       "length": 998,
       "rock-type": "basalt",
@@ -27218,7 +27243,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Ka'u District",
-      "phys-area-name": "Hawaii Island; Mauna Loa; South Point",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa; South Point",
       "principal-cave-name": "Waipouli Mauka",
       "other-cave-name": "Dark Water Cave",
       "length": [],
@@ -27233,7 +27258,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Keokeo Cave System",
       "length": " ~40600",
       "vertical-extent": " ~2200",
@@ -27258,7 +27283,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii Island; Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Whitney's Cave",
       "length": 652,
       "rock-type": "basalt",
@@ -27306,7 +27331,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Kilauea",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Ola'a Cave",
       "length": 11751,
       "vertical-extent": [],

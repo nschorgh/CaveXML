@@ -418,16 +418,18 @@
       "country-name": "Finland",
       "state-or-province": [],
       "phys-area-name": "Korkia-Maura Island",
-      "principal-cave-name": [],
+      "principal-cave-name": "Korkia-Mauran Jääluola",
       "other-cave-name": "Ice Cave",
-      "latitude": [],
-      "longitude": [],
+      "latitude": 68.8,
+      "longitude": 27.6,
       "altitude": "~125",
       "length": [],
       "vertical-extent": [],
       "contents": "permanent ice",
       "comments": "ice block level with Lake Inari",
-      "reference": "Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1"
+      "comments": "15m long ice lake; 2008 report says it melted",
+      "reference": "Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -5579,7 +5581,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Slovenský kras; Horný vrch",
       "principal-cave-name": "Snežná diera",
       "other-cave-name": [],
       "latitude": [],
@@ -5841,7 +5843,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Tatry",
+      "phys-area-name": "Tatry; Východné Tatry",
       "principal-cave-name": "Kostolík",
       "other-cave-name": [],
       "latitude": [],
@@ -5856,7 +5858,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Tatry",
+      "phys-area-name": "Tatry; Východné Tatry",
       "principal-cave-name": "Ľadová jaskyňa pod Košiarom",
       "other-cave-name": [],
       "latitude": [],
@@ -5871,7 +5873,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Tatry",
+      "phys-area-name": "Tatry; Východné Tatry",
       "principal-cave-name": "Ľadová kamzíčia jaskyňa",
       "other-cave-name": [],
       "latitude": [],
@@ -5886,7 +5888,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Tatry",
+      "phys-area-name": "Tatry; Východné Tatry",
       "principal-cave-name": "Nižná svišťová jaskyňa (Kovalova priepasť)",
       "other-cave-name": [],
       "latitude": [],
@@ -5901,7 +5903,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Tatry",
+      "phys-area-name": "Tatry; Východné Tatry",
       "principal-cave-name": "Spišmichalova jaskyňa (Ľadová jaskyňa)",
       "other-cave-name": [],
       "latitude": [],
@@ -5916,7 +5918,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Tatry",
+      "phys-area-name": "Tatry; Východné Tatry",
       "principal-cave-name": "Tichá diera (Snežná jaskyňa)",
       "other-cave-name": [],
       "latitude": [],
@@ -5931,7 +5933,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Tatry",
+      "phys-area-name": "Tatry; Východné Tatry",
       "principal-cave-name": "Veľká ľadová puklina",
       "other-cave-name": [],
       "latitude": [],
@@ -6493,10 +6495,11 @@
 
     {
       "country-name": "India",
-      "state-or-province": [],
+      "state-or-province": "Jammu and Kashmir",
       "phys-area-name": "Lidder Valley",
       "principal-cave-name": "Amarnath Cave",
       "other-cave-name": "Holy Cave",
+      "other-cave-name": "Shri Amarnath Cave",
       "latitude": 34.2149,
       "longitude": 75.5008,
       "altitude": 3888,
@@ -6505,6 +6508,7 @@
       "contents": "permanent ice",
       "comments": "cave entrance is blocked by snow most parts of the year; known for about 5000 years; three ice stalagmites",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
+      "reference": "https://en.wikipedia.org/wiki/Amarnath_Temple",
       "cave-use": "temple"
     },
 
@@ -7642,7 +7646,7 @@
       "state-or-province": "Surxondaryo Province",
       "phys-area-name": "Baisun region; Hodja-Gur-Gur-Ata",
       "principal-cave-name": "Festival'naya-Ledopadnaya",
-      "other-cave-name": [],
+      "other-cave-name": "Western Karst System of Hodja Gur Gur Ata",
       "altitude": [],
       "length": " >16000",
       "vertical-extent": 800,
@@ -7660,7 +7664,7 @@
       "state-or-province": [],
       "phys-area-name": "Baisun region; Hodja-Gur-Gur-Ata",
       "principal-cave-name": "Dark Star Cave",
-      "other-cave-name": [],
+      "other-cave-name": "Central Karst System of Hodja Gur Gur Ata",
       "latitude": 38.39639,
       "longitude": 67.28694,
       "altitude": "~3500 main entrance",
@@ -7685,6 +7689,7 @@
       "altitude": 3750,
       "length": [],
       "vertical-extent": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": [],
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
@@ -7702,6 +7707,7 @@
       "altitude": [],
       "length": [],
       "vertical-extent": [],
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": [],
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
@@ -7709,10 +7715,11 @@
 
     {
       "country-name": "Uzbekistan",
-      "state-or-province": [],
+      "state-or-province": "Qashqadaryo Region; Yakkabog District",
       "phys-area-name": "Kyzyl-Shavar Plateau",
       "principal-cave-name": "Gissarskaya Cave",
-      "other-cave-name": [],
+      "other-cave-name": "Hissar Cave",
+      "cave-id": "T21",
       "latitude": [],
       "longitude": [],
       "altitude": 3530,
@@ -7720,7 +7727,8 @@
       "vertical-extent": 204,
       "contents": "permanent ice",
       "comments": "sublimation crystals, ice stalactites and stalagmites, meander at bottom covered by thick ice layer",
-      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
+      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
+      "reference": "https://centralasia-adventures.com/en/uzbekistan/uzbekistan_sights/gissarskaya_cave.html"
     },
 
     {
@@ -8355,6 +8363,7 @@
       "other-cave-name": [],
       "latitude": [],
       "longitude": [],
+      "number-of-entrances": 2,
       "contents": "permanent ice",
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0"
     },
@@ -8410,7 +8419,8 @@
       "longitude": [],
       "contents": "permanent ice",
       "comments": "single room with a large block of ice dated to several hundred years",
-      "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0"
+      "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
+      "reference": "Munroe et al. (2018) doi:10.1130/B31776.1"
     },
 
     {
@@ -8503,7 +8513,7 @@
       "longitude": [],
       "altitude": [],
       "length": [],
-      "vertical-extent": [],
+      "vertical-extent": 96,
       "contents": "permanent ice",
       "comments": "cold air trap, massive block of perennial ice",
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0"
@@ -8542,6 +8552,23 @@
 
     {
       "country-name": "United States of America",
+      "state-or-province": "Utah",
+      "phys-area-name": [],
+      "principal-cave-name": "Duck Creek Ice Cave",
+      "other-cave-name": [],
+      "latitude": [],
+      "longitude": [],
+      "altitude": [],
+      "length": 24,
+      "vertical-extent": [],
+      "rock-type": "limestone",
+      "comments": [],
+      "reference": [],
+      "cave-use": "self-guided tourist cave"
+    },
+
+    {
+      "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
       "phys-area-name": "El Malpais region",
@@ -8557,6 +8584,7 @@
       "cave-type": "lava tunnel",
       "contents": "permanent ice",
       "comments": "ice deposit estimated to be 3kyr old",
+      "comments": "entrance faces south",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1193",
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
       "reference": "Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156",
@@ -9003,6 +9031,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Helen's Hidden Hideaway",
       "other-cave-name": "Railroad Cave",
       "length": 415,
@@ -9137,7 +9166,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Idaho; Blaine County",
-      "phys-area-name": [],
+      "phys-area-name": "Wedge Butte",
       "principal-cave-name": "97 Mile Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -9214,6 +9243,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Chimney",
       "principal-cave-name": "Air Passage",
       "length": [],
       "cave-type": "lava tunnel",
@@ -9521,6 +9551,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Chimney",
       "principal-cave-name": "Ant Farm",
       "length": [],
       "cave-type": "lava tunnel",
@@ -9599,7 +9630,7 @@
       "phys-area-name": "Undara",
       "principal-cave-name": "Arch",
       "cave-id": "ASF-U22",
-      "length": 11,
+      "length": "~11",
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1370",
@@ -9725,6 +9756,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Smoky Creek",
       "principal-cave-name": "Ash Hole Cave",
       "cave-id": "NSS-633-11",
       "length": 18,
@@ -9736,6 +9768,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Smoky Creek",
       "principal-cave-name": "Asher's Cave",
       "length": 213,
       "cave-type": "lava tunnel",
@@ -9772,18 +9805,6 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1371"
-    },
-
-    {
-      "country-name": "Australia",
-      "state-or-province": "Queensland",
-      "phys-area-name": "Undara",
-      "principal-cave-name": "(Unknown Name)",
-      "cave-id": "ASF-4U-21",
-      "length": 160,
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "reference": "ASF cave database"
     },
 
     {
@@ -9848,6 +9869,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
+      "phys-area-name": "Siah Butte",
       "principal-cave-name": "Back Flip Cave",
       "length": 36,
       "cave-type": "lava tunnel",
@@ -9881,11 +9903,15 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "Baker Cave",
+      "other-cave-name": "Forty-Mile Cave",
       "length": 1496,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1216",
-      "reference": "Knutson (1976) http://www.vulcanospeleology.org/sym01/ISV1x08.pdf"
+      "reference": "Knutson (1976) http://www.vulcanospeleology.org/sym01/ISV1x08.pdf",
+      "reference": "Ciesel and Wagner (1969) https://www.oregongeology.org/pubs/og/OBv31n08.pdf"
     },
 
     {
@@ -9971,7 +9997,8 @@
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1417",
       "reference": "Atkinson et al. (1975) doi:10.1007/BF02597832",
-      "reference": "Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf"
+      "reference": "Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf",
+      "reference": "Webb et al. (1993) http://www.vulcanospeleology.org/sym03/ISV3x12.pdf"
     },
 
     {
@@ -10136,6 +10163,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
+      "phys-area-name": "Siah Butte",
       "principal-cave-name": "Bat Crack",
       "length": 274,
       "cave-type": "lava tunnel",
@@ -10440,9 +10468,10 @@
       "country-name": "Korea, Republic of",
       "state-or-province": "Jeju province",
       "phys-area-name": "Jeju Island",
-      "principal-cave-name": "Bilemot Gul",
+      "principal-cave-name": "Billemot Gul",
       "other-cave-name": "Rock Pond Cave",
-      "other-cave-name": "Billemot Gul",
+      "other-cave-name": "Bilemot Gul",
+      "other-cave-name": "Billemotdonggul Lava Tube",
       "altitude": 70,
       "length": 11749,
       "cave-type": "lava tunnel",
@@ -10464,6 +10493,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Deadhorse",
       "principal-cave-name": "Bill's Cave",
       "cave-id": "NSS-633-03",
       "length": 31,
@@ -10516,16 +10546,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Idaho; Lincoln County",
-      "phys-area-name": [],
-      "principal-cave-name": "Black Ridge Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1068"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Blair Cave",
@@ -10571,16 +10591,6 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=193"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "Siskiyou County",
-      "principal-cave-name": "BLM Cave",
-      "length": 9,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=467"
     },
 
     {
@@ -11028,8 +11038,10 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "Bullet Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1230"
     },
@@ -11040,7 +11052,7 @@
       "state-or-province": "Lincoln County",
       "principal-cave-name": "Burley Wind Cave",
       "length": [],
-      "cave-type": "lava tunnel",
+      "cave-type": [],
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1069"
     },
 
@@ -11058,6 +11070,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "Burns Cave",
       "length": 341,
       "rock-type": "basalt",
@@ -11293,6 +11306,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "Can Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -11303,6 +11317,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Smoky Creek",
       "principal-cave-name": "Candle Cave",
       "length": 188,
       "cave-type": "lava tunnel",
@@ -11390,8 +11405,10 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "Cat Box Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1226"
     },
@@ -11412,6 +11429,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Cat Skull Cave",
       "length": 962,
       "cave-type": "lava tunnel",
@@ -11440,7 +11458,8 @@
       "length": 2700,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1252"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1252",
+      "reference": "Allen (1993) http://www.vulcanospeleology.org/sym03/ISV3x06.pdf"
     },
 
     {
@@ -11723,7 +11742,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Blaine County",
-      "phys-area-name": [],
+      "phys-area-name": "Wedge Butte",
       "principal-cave-name": "Chalk Cave",
       "length": 792,
       "cave-type": "lava tunnel",
@@ -11878,6 +11897,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
+      "phys-area-name": "Siah Butte; North Siah",
       "principal-cave-name": "Chuck Hole Cave",
       "other-cave-name": "North Siah Butte #9",
       "cave-id": "NSS-611-105",
@@ -11897,6 +11917,7 @@
       "vertical-extent": 20,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1578",
+      "reference": "Webb et al. (1993) http://www.vulcanospeleology.org/sym03/ISV3x12.pdf",
       "reference": "ASF database"
     },
 
@@ -12018,6 +12039,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Chimney",
       "principal-cave-name": "Cnt. Pass. Freudian Complex",
       "length": [],
       "cave-type": "lava tunnel",
@@ -12166,6 +12188,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "Coyote Trap Cave",
       "length": " >45",
       "rock-type": "basalt",
@@ -12252,6 +12275,7 @@
       "altitude": 183,
       "length": [],
       "cave-type": "lava tunnel",
+      "comments": "roofed by snow-white crystal stalactites",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=891",
       "reference": "Olson and James (1991) DOI:10.2307/40166794"
     },
@@ -13703,6 +13727,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Dalles Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1277"
     },
@@ -13880,6 +13905,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Deadhorse",
       "principal-cave-name": "Deadhorse Cave",
       "length": 4402,
       "cave-type": "lava tunnel",
@@ -14201,7 +14227,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
-      "phys-area-name": [],
+      "phys-area-name": "Chimney",
       "principal-cave-name": "Double Barrel Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -14245,11 +14271,14 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais",
       "principal-cave-name": "Dripping Lava Cave",
-      "length": [],
+      "length": "~600",
       "cave-type": "lava tunnel",
       "contents": "permanent ice",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1203"
+      "comments": "perpetual ice pond",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1203",
+      "reference": "S. Robinson, \"El Malpais, Mt. Taylor, and the Zuni Mountains: A Hiking Guide and History\" 1994"
     },
 
     {
@@ -14295,16 +14324,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=481"
-    },
-
-    {
-      "country-name": "Australia",
-      "state-or-province": "Queensland",
-      "phys-area-name": [],
-      "principal-cave-name": "Dundurrah Lava Tube",
-      "length": 50,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1413"
     },
 
     {
@@ -14464,7 +14483,7 @@
       "principal-cave-name": "Ewamin",
       "other-cave-name": "Arch 3",
       "cave-id": "ASF-U23",
-      "length": 162,
+      "length": "~162",
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1377",
@@ -14537,7 +14556,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
-      "phys-area-name": [],
+      "phys-area-name": "Chimney",
       "principal-cave-name": "Far L.Pass. Freudian Complex",
       "length": [],
       "cave-type": "lava tunnel",
@@ -14629,6 +14648,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "Fire Pit Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -14828,10 +14848,11 @@
       "phys-area-name": "Undara",
       "principal-cave-name": "Frances",
       "cave-id": "ASF-4U-13",
-      "length": 14,
+      "length": "~14",
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1382"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1382",
+      "reference": "Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf"
     },
 
     {
@@ -15058,6 +15079,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "Garbage Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -15149,6 +15171,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Giant Arch",
       "length": [],
       "cave-type": "lava tunnel",
@@ -15168,7 +15191,7 @@
     {
       "country-name": "Korea, Republic of",
       "state-or-province": "Jeju province",
-      "phys-area-name": "Jeju Island; Mt. Halla",
+      "phys-area-name": "Jeju Island; Mt. Halla; Geomunereum",
       "principal-cave-name": "Gim Nyeong",
       "other-cave-name": "김녕굴",
       "other-cave-name": "Gimnyeonggul",
@@ -15444,6 +15467,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Smoky Creek",
       "principal-cave-name": "Goose Cave",
       "cave-id": "NSS-633-10",
       "altitude": 1001,
@@ -15528,7 +15552,7 @@
     {
       "country-name": "Cameroon",
       "state-or-province": "Sud-Oeust",
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Cameroon",
       "principal-cave-name": "Grand Tunnel",
       "length": 590,
       "cave-type": "lava tunnel",
@@ -15758,7 +15782,7 @@
     {
       "country-name": "Cameroon",
       "state-or-province": "Sud-Oeust",
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Cameroon",
       "principal-cave-name": "Grotte d'Ebongue",
       "length": 314,
       "cave-type": "lava tunnel",
@@ -15798,7 +15822,7 @@
     {
       "country-name": "Cameroon",
       "state-or-province": "Sud-Oeust",
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Cameroon",
       "principal-cave-name": "Grotte des diffluences",
       "length": 80,
       "cave-type": "lava tunnel",
@@ -15924,7 +15948,7 @@
     {
       "country-name": "Cameroon",
       "state-or-province": "Sud-Oeust",
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Cameroon",
       "principal-cave-name": "Grotte Isabella",
       "length": 50,
       "cave-type": "lava tunnel",
@@ -15934,7 +15958,7 @@
     {
       "country-name": "Cameroon",
       "state-or-province": "Sud-Oeust",
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Cameroon",
       "principal-cave-name": "Grotte Lointaine",
       "length": 93,
       "cave-type": "lava tunnel",
@@ -15957,7 +15981,7 @@
     {
       "country-name": "Cameroon",
       "state-or-province": "Sud-Oeust",
-      "phys-area-name": [],
+      "phys-area-name": "Mt. Cameroon",
       "principal-cave-name": "Grotte Superieure",
       "length": 160,
       "cave-type": "lava tunnel",
@@ -15988,7 +16012,7 @@
     {
       "country-name": "Portugal",
       "state-or-province": "Azores",
-      "phys-area-name": "Ilha de Pico",
+      "phys-area-name": "Ilha de Pico (Pico Island)",
       "principal-cave-name": "Gruta das Torres (Grotto of Towers)",
       "latitude": 38.4943,
       "longitude": -28.5024,
@@ -16103,6 +16127,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Gwen",
       "length": [],
       "cave-type": "lava tunnel",
@@ -16113,6 +16138,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Gwen Extension",
       "length": [],
       "cave-type": "lava tunnel",
@@ -16133,10 +16159,13 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Gypsum  Cave",
+      "other-cave-name": "Cocaine Cave",
       "length": 4316,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1088"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1088",
+      "reference": "Ireton (1993) http://www.vulcanospeleology.org/sym03/ISV3x05.pdf"
     },
 
     {
@@ -16399,7 +16428,8 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "ASF database",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1593"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1593",
+      "reference": "Webb et al. (1993) http://www.vulcanospeleology.org/sym03/ISV3x12.pdf"
     },
 
     {
@@ -16696,8 +16726,10 @@
       "cave-id": "ASF-4BM-1",
       "altitude": 880,
       "length": 60,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1416"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1416",
+      "reference": "Webb et al. (1993) http://www.vulcanospeleology.org/sym03/ISV3x12.pdf"
     },
 
     {
@@ -17113,6 +17145,7 @@
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
       "phys-area-name": [],
+      "phys-area-name": "Chimney",
       "principal-cave-name": "Impossible Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -17190,11 +17223,12 @@
     {
       "country-name": "Australia",
       "state-or-province": "Victoria",
-      "phys-area-name": [],
+      "phys-area-name": "Western Volcanic Plains",
       "principal-cave-name": "Insect Cave",
       "length": 58,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1572"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1572",
+      "reference": "Webb et al. (1993) http://www.vulcanospeleology.org/sym03/ISV3x12.pdf"
     },
 
     {
@@ -18958,7 +18992,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Oregon",
-      "phys-area-name": [],
+      "phys-area-name": "Lava Top Butte",
       "principal-cave-name": "Lava Top Butte Ice Cave",
       "length": 55,
       "cave-type": "lava tunnel",
@@ -19026,6 +19060,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Chimney",
       "principal-cave-name": "Left Pass. Freudian Complex",
       "length": [],
       "cave-type": "lava tunnel",
@@ -19036,6 +19071,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Chimney",
       "principal-cave-name": "Left-of-Center",
       "length": [],
       "cave-type": "lava tunnel",
@@ -19330,6 +19366,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
+      "phys-area-name": "Siah Butte; North Siah",
       "principal-cave-name": "Lost Cave",
       "cave-id": "NSS-611-6",
       "length": [],
@@ -19675,6 +19712,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Mammoth Cave",
       "other-cave-name": "Mushroom Cave",
       "length": 408,
@@ -19995,6 +20033,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Maze Cave",
       "length": 549,
       "cave-type": "lava tunnel",
@@ -20356,6 +20395,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
+      "phys-area-name": "Siah Butte; North Siah",
       "principal-cave-name": "Moss Carpet Cave",
       "length": [],
       "rock-type": "basalt",
@@ -20546,6 +20586,7 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1573",
+      "reference": "Webb et al. (1993) http://www.vulcanospeleology.org/sym03/ISV3x12.pdf",
       "reference": "ASF database"
     },
 
@@ -20561,7 +20602,8 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "ASF database",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1574"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1574",
+      "reference": "Webb et al. (1993) http://www.vulcanospeleology.org/sym03/ISV3x12.pdf"
     },
 
     {
@@ -21266,6 +21308,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "One Station Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -21312,6 +21355,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Chimney",
       "principal-cave-name": "Original Discovery Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -21354,6 +21398,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Smoky Creek",
       "principal-cave-name": "Overlook Cave",
       "length": 122,
       "cave-type": "lava tunnel",
@@ -21561,6 +21606,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "Patton's Arch",
       "length": [],
       "cave-type": "lava tunnel",
@@ -21920,6 +21966,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Pigeon Hole",
       "length": [],
       "cave-type": "lava tunnel",
@@ -22138,10 +22185,12 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Pot O' Gold",
       "length": 2250,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1093"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1093",
+      "reference": "Ireton (1993) http://www.vulcanospeleology.org/sym03/ISV3x05.pdf"
     },
 
     {
@@ -22396,6 +22445,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
+      "phys-area-name": "Deadhorse",
       "principal-cave-name": "Quill Cave",
       "length": 70,
       "cave-type": "lava tunnel",
@@ -22545,6 +22595,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "Rattlesnake Cave",
       "length": 269,
       "rock-type": "basalt",
@@ -22594,10 +22645,13 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "Raven Pit",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1231"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1231",
+      "reference": "Larson (1993) http://www.vulcanospeleology.org/sym03/ISV3x05.pdf"
     },
 
     {
@@ -22774,6 +22828,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Chimney",
       "principal-cave-name": "Right Pass. Freudian Complex",
       "length": [],
       "cave-type": "lava tunnel",
@@ -23365,13 +23420,14 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Oregon",
+      "state-or-province": "Oregon; Linn County",
       "phys-area-name": [],
       "principal-cave-name": "Santiam Pit Lava Tube",
       "length": [],
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1253"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1253",
+      "reference": "Skinner (1993) http://www.vulcanospeleology.org/sym03/ISV3x02.pdf"
     },
 
     {
@@ -23515,6 +23571,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Shasta County",
+      "phys-area-name": "Lassen",
       "principal-cave-name": "Shave Head Cave",
       "length": 251,
       "rock-type": "basalt",
@@ -23914,6 +23971,7 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1596",
+      "reference": "Webb et al. (1993) http://www.vulcanospeleology.org/sym03/ISV3x12.pdf",
       "reference": "ASF database"
     },
 
@@ -24084,6 +24142,7 @@
       "state-or-province": "Jeju province",
       "phys-area-name": "Jeju Island",
       "principal-cave-name": "Susan Gul",
+      "other-cave-name": "Susandonggul Lava Tube",
       "altitude": 110,
       "length": 4675,
       "rock-type": "basalt",
@@ -24370,11 +24429,15 @@
     {
       "country-name": "Australia",
       "state-or-province": "Queensland",
-      "phys-area-name": [],
+      "phys-area-name": "Undara",
       "principal-cave-name": "Stephenson",
-      "length": 156,
+      "other-cave-name": "(U21) Arch 1",
+      "cave-id": "ASF-4U-21",
+      "length": "~156",
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1404"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1404",
+      "reference": "ASF cave database"
     },
 
     {
@@ -24851,6 +24914,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Tee Cave",
       "length": 1006,
       "cave-type": "lava tunnel",
@@ -24983,6 +25047,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "The One Frank Missed",
       "length": [],
       "cave-type": "lava tunnel",
@@ -25188,7 +25253,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Oregon",
-      "phys-area-name": [],
+      "phys-area-name": "Lava Top Butte",
       "principal-cave-name": "Tie Cave",
       "length": 24,
       "cave-type": "lava tunnel",
@@ -25221,22 +25286,12 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
       "principal-cave-name": "Tire Tube Cave",
       "length": 520,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1271",
-      "reference": "Ciesel and Wagner (1969) https://www.oregongeology.org/pubs/og/OBv31n08.pdf"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Oregon",
-      "state-or-province": "Malheur County",
-      "principal-cave-name": "40-Mile Cave",
-      "length": 1470,
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
       "reference": "Ciesel and Wagner (1969) https://www.oregongeology.org/pubs/og/OBv31n08.pdf"
     },
 
@@ -25428,18 +25483,9 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "Siskiyou County",
-      "principal-cave-name": "Tom's Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=517"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Tomb North",
       "length": [],
       "cave-type": "lava tunnel",
@@ -25450,6 +25496,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Tee-Maze cave system",
       "principal-cave-name": "Tomb South",
       "length": [],
       "cave-type": "lava tunnel",
@@ -25476,6 +25523,18 @@
       "length": 91,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1684"
+    },
+
+    {
+      "country-name": "United States of America",
+      "state-or-province": "Oregon",
+      "state-or-province": "Malheur County",
+      "phys-area-name": "Saddle Butte",
+      "principal-cave-name": "Tooth Cave",
+      "length": [],
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1218"
     },
 
     {
@@ -25589,7 +25648,8 @@
       "length": 45,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1571"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1571",
+      "reference": "Webb et al. (1993) http://www.vulcanospeleology.org/sym03/ISV3x12.pdf"
     },
 
     {
@@ -25701,6 +25761,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
+      "phys-area-name": "Siah Butte; North Siah",
       "principal-cave-name": "Twin Skylight Cave",
       "other-cave-name": "North Siah Butte #8",
       "cave-id": "NSS-611-106",
@@ -26417,7 +26478,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Idaho; Blaine County",
-      "phys-area-name": [],
+      "phys-area-name": "Wedge Butte",
       "principal-cave-name": "Wedge Butte Cave #1/West",
       "length": [],
       "cave-type": "lava tunnel",
@@ -26427,7 +26488,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Idaho; Blaine County",
-      "phys-area-name": [],
+      "phys-area-name": "Wedge Butte",
       "principal-cave-name": "Wedge Butte Cave #2/East",
       "length": [],
       "cave-type": "lava tunnel",
@@ -27105,7 +27166,7 @@
     {
       "country-name": "Korea, Republic of",
       "state-or-province": "Jeju province",
-      "phys-area-name": "Jeju Island",
+      "phys-area-name": "Jeju Island; Geomunereum",
       "principal-cave-name": "Dangcheomul Cave",
       "length": 110,
       "rock-type": "basalt",
@@ -27465,7 +27526,8 @@
       "cave-type": "misc. type",
       "contents": [],
       "comments": "includes tube segments",
-      "reference": "Halliday (2002) AMCS Bull. 19, 57-63"
+      "reference": "Halliday (2002) AMCS Bull. 19, 57-63",
+      "reference": "Favre (1993) http://www.vulcanospeleology.org/sym03/ISV3x08.pdf"
     },
 
     {

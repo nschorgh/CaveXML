@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 518 rock-hosted caves with perennial ice was generated from a CaveXML database. - Jan 1, 2021
+This list of 518 rock-hosted caves with perennial ice was generated from a CaveXML database. - Jan 2, 2021
 
 Austria - Oberösterreich - Dachstein [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-09ce958d127174017149d8adf1a2db30)  
 Austria - Oberösterreich - Dachstein [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-8cc53615b4bc61060a96e8087ea79ae4)  
@@ -64,7 +64,7 @@ Croatia [**Ledenica Cave** ](allcaves-database.md#HR-59e8ec5a259a07f062a3c705fd9
 Croatia [**Lukina jama-Trojama system** ](allcaves-database.md#HR-96408a1ebf531785b2ac2dba2bfe6014)  
 Croatia - Velebit Mt. [**Puhaljka Cave** ](allcaves-database.md#HR-5f9eca7e842ee5186254a7851395bc6a)  
 Croatia - Velebit Mt. [**Snjeguljac Cave** ](allcaves-database.md#HR-33106ec4fe619387c246bf1b458644ca)  
-Finland - Korkia-Maura Island [ Ice Cave ](allcaves-database.md#FI-6258b9e0d9ee3a5be65d5ed2bc1313f6)  
+Finland - Korkia-Maura Island [**Korkia-Mauran Jääluola** Ice Cave ](allcaves-database.md#FI-3bacd764cccfcdca855f79037da8fe2e)  
 Germany - Bayern - Hagengebirge; Berchtesgaden Alps [**Enttäuschungsloch** 1335/195](allcaves-database.md#DE-bcebfc2ff7af926308f82d38e7d72552) *Part of* Wildpalfensystem  
 Germany - Bayern - Hagengebirge; Berchtesgaden Alps [**Regenhöhle** ](allcaves-database.md#DE-581ca8a902bb4268acceb6de53243834)  
 Germany - Bayern - Hagengebirge, Berchtesgaden Alps [**Rutschbahn** ](allcaves-database.md#DE-f33dac72b65a7adcedd00b1bf9c5e4a6)  
@@ -102,7 +102,7 @@ Greenland - northeastern Greenland [**Swirly Cave** Sangujoraartoq Qaarusussuaq 
 Iceland - Ketildyngjuhraun [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-821cd9d6657c9e9ee20d802b697c3ee7)  
 Iceland - Myrasysla County - Hallmundarhraun [**Surtshellir** Surtshellir-Stefanshellir Cave System ](allcaves-database.md#IS-cfd58b66d7080bc2f98c4a0c695ec018)  
 Iceland - Myrasysla County - Hallmundarhraun [**Víðgelmir** ](allcaves-database.md#IS-8b2fdd9758744f258da5018ced142dc7)  
-India - Lidder Valley [**Amarnath Cave** Holy Cave ](allcaves-database.md#IN-5177da2464799e48c9e4fc269aef5e6c)  
+India - Jammu and Kashmir - Lidder Valley [**Amarnath Cave** Holy Cave; Shri Amarnath Cave ](allcaves-database.md#IN-c3334d72ff01cbf0863f11bc62801729)  
 Iran - Alborz province - Alborz Mountains; Lar Formation [**Ghar Yakh-Morad** Yakh-Morad Ice Cave ](allcaves-database.md#IR-fac51e19eec91adebc71a052e75aaaa3)  
 Iran - Northern Zagros Mountains [**Dena Ice Cave** Ghar Yakh Dena ](allcaves-database.md#IR-19714e6a881106ade7501e575ba34763)  
 Italy - Lombardy - Moncodeno-Grigna Settentrionale [**Abisso dei Marons Glaces** LOLC-1809](allcaves-database.md#IT-453d95ae8ab4e72e896b528eae4cd53e)  
@@ -261,8 +261,8 @@ Slovakia - Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy [**Studená diera
 Slovakia - Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy [**Veľká ľadová priepať na Ohništi** ](allcaves-database.md#SK-fa7fe4bc0c820cec9d6280ca5bd6d95c)  
 Slovakia - Nízke Tatry; Ďumbierske Tatry; Ďumbier
 Slovakia - Slovenský kras; Horný vrch [**Ľadová jaskyňa v Havranej skale** ](allcaves-database.md#SK-2b447a66e55b11c70121e5a894e0efa7)  
+Slovakia - Slovenský kras; Horný vrch [**Snežná diera** ](allcaves-database.md#SK-d0f0ad3e2cacb4cc1eb08d072d4c51ff)  
 Slovakia - Slovenský kras; Silická planina [**Silická ľadnica** Silica Ice Cave ](allcaves-database.md#SK-62a77cb4626640d595a45e5d090a4cfd)  
-Slovakia [**Snežná diera** ](allcaves-database.md#SK-d1b93306b7d0e00e8f1bea94a5e7e906)  
 Slovakia - Spišsko-gemerský kras; Muránska planina [**Bodolová** ](allcaves-database.md#SK-3dd938f00731120b4822b1733695f8c6)  
 Slovakia - Spišsko-gemerský kras; Muránska planina [**Čurička** ](allcaves-database.md#SK-ad6fbf93ffc75f0f7c4d39c9b5d715d1)  
 Slovakia - Spišsko-gemerský kras; Muránska planina [**Šingliarka (Ľadová jama)** ](allcaves-database.md#SK-af6f86a2c4f18d77526b672564b726a0)  
@@ -272,18 +272,18 @@ Slovakia - Spišsko-gemerský kras; Muránska planina [**Vrbiarka (Priepasť na 
 Slovakia - Spišsko-gemerský kras; Slovenský raj [**Dobšinská ľadová jaskyňa (Dobšiná Ice Cave)** ](allcaves-database.md#SK-7ea50ffbdbbfdcce40956400bdf9573e)  
 Slovakia - Spišsko-gemerský kras; Slovenský raj [**Duča** ](allcaves-database.md#SK-7fb1e1fe3eec1d22b44bd76fc2fe6765)  
 Slovakia - Strážovské vrchy, Zliechovská hornatina, Baske [**Ľadová jama v Nárožnej (Ľadová diera)** ](allcaves-database.md#SK-4ded169390d07fec9f10e1aeca0a4876)  
-Slovakia - Tatry [**Kostolík** ](allcaves-database.md#SK-0d886a139f23d2d5049a6a2624d99217)  
-Slovakia - Tatry [**Ľadová jaskyňa pod Košiarom** ](allcaves-database.md#SK-b6d7d693def9a23767a1595e35246910)  
-Slovakia - Tatry [**Ľadová kamzíčia jaskyňa** ](allcaves-database.md#SK-a2da1b4aafd751f4da743e572614c19e)  
-Slovakia - Tatry [**Nižná svišťová jaskyňa (Kovalova priepasť)** ](allcaves-database.md#SK-5640e4da5bad176c0188ac9912104af2)  
-Slovakia - Tatry [**Spišmichalova jaskyňa (Ľadová jaskyňa)** ](allcaves-database.md#SK-4a7172877528a4d6ddb8558f8eae849b)  
-Slovakia - Tatry [**Tichá diera (Snežná jaskyňa)** ](allcaves-database.md#SK-b7aa60ba8d8b541bd1ffc2ef3f9c24bd)  
-Slovakia - Tatry [**Veľká ľadová puklina** ](allcaves-database.md#SK-988eadbcdafda4d91703501858539737)  
 Slovakia - Tatry; Východné Tatry [**A-2 (Svišťová dolinka 2)** ](allcaves-database.md#SK-8f9ab350d17aa92e8f8ccf43d31ec3b6)  
 Slovakia - Tatry; Východné Tatry [**A-5 (Svišťová dolinka 4)** ](allcaves-database.md#SK-e525d30801bfae831746413ed4eb696a)  
 Slovakia - Tatry; Východné Tatry; Belianske Tatry [**Jaskyňa v Škaredom žľabe** Ľadová piecka ](allcaves-database.md#SK-9e0fbbb4b435f74629f21d238be15889)  
 Slovakia - Tatry; Východné Tatry; Belianske Tatry [**Ľadová pivnica** ](allcaves-database.md#SK-2066f8abf0a7ac190423b96e50af2f7c)  
 Slovakia - Tatry; Východné Tatry; Belianske Tatry [**Priepasť v Hlúpom vrchu** ](allcaves-database.md#SK-d6f9c4964ddf2b11f19090339f5ae228)  
+Slovakia - Tatry; Východné Tatry [**Kostolík** ](allcaves-database.md#SK-62bc9bb23a8c98213c08e7fc3c4f13ef)  
+Slovakia - Tatry; Východné Tatry [**Ľadová jaskyňa pod Košiarom** ](allcaves-database.md#SK-5a86221f2b4e4579fd4ab9be13f7da47)  
+Slovakia - Tatry; Východné Tatry [**Ľadová kamzíčia jaskyňa** ](allcaves-database.md#SK-5155a5263c3ad114b2458b1d04b9ba6c)  
+Slovakia - Tatry; Východné Tatry [**Nižná svišťová jaskyňa (Kovalova priepasť)** ](allcaves-database.md#SK-a76cc77ac7d607842a55750f2f5e162c)  
+Slovakia - Tatry; Východné Tatry [**Spišmichalova jaskyňa (Ľadová jaskyňa)** ](allcaves-database.md#SK-fea58c7dd618cdf4944bab58d08dac53)  
+Slovakia - Tatry; Východné Tatry [**Tichá diera (Snežná jaskyňa)** ](allcaves-database.md#SK-1563f949bdbbb0651ed9f2d06c96bced)  
+Slovakia - Tatry; Východné Tatry [**Veľká ľadová puklina** ](allcaves-database.md#SK-47caf36b79e39aaaba0917e3fa6f035d)  
 Slovakia - Tatry; Východné Tatry; Vysoké Tatry [**A-1 (Svišťová dolinka 1)** ](allcaves-database.md#SK-3f40671842b14becf5084332784b1781)  
 Slovakia - Tatry; Západné Tatry; Červené vrchy [**Harišňa** ](allcaves-database.md#SK-5026f1c238e67bd89fed1d1747528deb)  
 Slovakia - Tatry; Západné Tatry [**Ľadová morňa** ](allcaves-database.md#SK-9f75742a6663719163af02f6571d5525)  
@@ -498,8 +498,8 @@ United States of America - Idaho - Northern Rocky Mountains [**Strickler Cavern*
 United States of America - Montana - Northern Rocky Mountains [**Crater Ice Cave** ](allcaves-database.md#US-e5adad7e773ba261bf30f78657233988)  
 United States of America - Montana - Northern Rocky Mountains; Pryor Mountains [**Little Ice Cave** ](allcaves-database.md#US-9c79920aa69179302b2f199c404aa5bc)  
 United States of America - Montana - Northern Rocky Mountains [**Red Pryor Ice Cave** ](allcaves-database.md#US-04d44dbdba122281b1bf5c0de4b25dbd)  
-United States of America - New Mexico; Cibola County [**Dripping Lava Cave** ](allcaves-database.md#US-74cbaa49b0d6530eb2bab738cfb7ff58)  
 United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area [**Giant Ice Cave** ](allcaves-database.md#US-06b3ec167f699a4da47cc445ea15d22d)  
+United States of America - New Mexico; Cibola County - El Malpais [**Dripping Lava Cave** ](allcaves-database.md#US-c87f5433fb645e7fc29ae96e9e076a7f)  
 United States of America - New Mexico; Cibola County - El Malpais [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Navajo Cave** Navajo Ice Cave; Cave 29 ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
@@ -515,12 +515,13 @@ United States of America - Utah - Central Rocky Mountains; Uinta Mountains [**Wi
 United States of America - Washington; Skamania County - Mt. Adams [**Guler Ice Cave** ](allcaves-database.md#US-f3ebfa41578dcd316016a2b8094666ae)  
 United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system [**Hoarfrost Cave** NSS-633-18](allcaves-database.md#US-151253683e3a14b5f500d68384630664)  
 United States of America - Wyoming - Northern Rocky Mountains; Teton Mountains [**Fossil Mountain Ice Cave** ](allcaves-database.md#US-6480a0e044cdf5829797075d6a672a5a)  
-Uzbekistan - Baisun region; Hodja-Gur-Gur-Ata [**Dark Star Cave** ](allcaves-database.md#UZ-1e39ac295c6033724a203e08970146e6)  
+Uzbekistan - Baisun region; Hodja-Gur-Gur-Ata [**Dark Star Cave** Central Karst System of Hodja Gur Gur Ata ](allcaves-database.md#UZ-1e39ac295c6033724a203e08970146e6)  
 Uzbekistan - Hodja-Gur-Gur-Ata [**Morning Star** ](allcaves-database.md#UZ-8bafd719dd226c39c1cba5faa51921ee)  
 Uzbekistan - Hodja-Gur-Gur-Ata [**Ulug-Bek** Ulugh Begh ](allcaves-database.md#UZ-fa57d54912096b4b9b35b3c46c8742d5)  
-Uzbekistan - Kyzyl-Shavar Plateau [**Gissarskaya Cave** ](allcaves-database.md#UZ-d37b7123f5f867740bab1e2a3e1b0ba5)  
-Uzbekistan - Surxondaryo Province - Baisun region; Hodja-Gur-Gur-Ata [**Festival'naya-Ledopadnaya** ](allcaves-database.md#UZ-a4a49f658eed269c81d80dfdd7d05aef)  
+Uzbekistan - Qashqadaryo Region; Yakkabog District - Kyzyl-Shavar Plateau [**Gissarskaya Cave** Hissar Cave T21](allcaves-database.md#UZ-3aeb26bfac3ffc5dec2c2b30833199c3)  
+Uzbekistan - Surxondaryo Province - Baisun region; Hodja-Gur-Gur-Ata [**Festival'naya-Ledopadnaya** Western Karst System of Hodja Gur Gur Ata ](allcaves-database.md#UZ-a4a49f658eed269c81d80dfdd7d05aef)  
 Uzbekistan - Surxondaryo Province - Baisun region; Hodja-Gur-Gur-Ata [**Ledopadnaya** ](allcaves-database.md#UZ-b6a1d24a1d9b2df772f08c109334bd0f) *Part of* Festival'naya-Ledopadnaya  
+
 
 
 List of Volcanic Ice Caves
@@ -541,8 +542,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater; Lava Beds National Monument [**Skull Ice Cave** Skull Cave ](allcaves-database.md#US-ee75f790b179d55268f574c051df0a82)  
 United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Arsia Cave** Arsia Ice Cave ](allcaves-database.md#US-c27a141b3ed15774f8fce43ce9287ed0)  
 United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Mauna Loa Ice Cave** ](allcaves-database.md#US-b06fbb3d2b569e50f6cddc95cfb1b0f7)  
-United States of America - New Mexico; Cibola County [**Dripping Lava Cave** ](allcaves-database.md#US-74cbaa49b0d6530eb2bab738cfb7ff58)  
 United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area [**Giant Ice Cave** ](allcaves-database.md#US-06b3ec167f699a4da47cc445ea15d22d)  
+United States of America - New Mexico; Cibola County - El Malpais [**Dripping Lava Cave** ](allcaves-database.md#US-c87f5433fb645e7fc29ae96e9e076a7f)  
 United States of America - New Mexico; Cibola County - El Malpais [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Navajo Cave** Navajo Ice Cave; Cave 29 ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  

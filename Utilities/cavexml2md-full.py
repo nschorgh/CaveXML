@@ -187,7 +187,8 @@ for item in root.findall('record'):
 
         for j in range(0,len(ref)):
             rawstr = ref[j].text
-
+            if rawstr is None:
+                continue
             refstr = rawstr
             refstr = refstr.replace("doi:", "https://doi.org/")
             refstr = refstr.replace("DOI:", "https://doi.org/")

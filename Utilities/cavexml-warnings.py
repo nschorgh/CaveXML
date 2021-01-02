@@ -58,21 +58,22 @@ for item in root.findall('record'):
 
 
     ref = item.find('reference')
-    if ref is None:
-        print('WARNING: no reference for',acavename)
-    else:
+    try:
         ref = ref.text.strip()
         if ref is None:
             print('WARNING: no reference for',acavename)
-
-            
+    except:
+        print('WARNING: no reference for',acavename)
+        
     ref = item.findall('reference')
     for i in range(0,len(ref)):
         refstr = ref[i].text
+        if refstr is None:
+            continue
         if '//doi:' in refstr or 'doi.org:' in refstr: # should be doi: or https://doi.org/
             print('Malformatted doi', refstr)
         if 'doi' in refstr.lower():
-            if 'DOI' not in refstr and 'doi' not in refstr:  # excludes comabinations such as DOi, doI
+            if 'DOI' not in refstr and 'doi' not in refstr:  # excludes combinations such as DOi, doI
                 print('Use doi or DOI', refstr)
         if 'www' in refstr:
             if "https://www" not in refstr and "http://www." not in refstr:

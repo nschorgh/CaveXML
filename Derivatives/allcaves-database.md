@@ -5146,15 +5146,16 @@ United States of America - Utah
 ---  
 <a name="US-5ea7e414ce897fe0f7cd21f7699f3b40"></a>
 United States of America - New Mexico; Cibola County - El Malpais region  
-*Cave Name(s):* **Candelaria Ice Cave** Cerro Candelaria; Bandera Volcano Ice Cave; Zuni Ice Cave  
+*Cave Name(s):* **Candelaria Ice Cave** Bandera Volcano Ice Cave; Zuni Ice Cave  
 *altitude:* 2393  
 *Length:* 12300m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* permanent ice  
-*Comments:* ice deposit estimated to be 3kyr old; entrance faces south  
+*Comments:* ice deposit estimated to be 3kyr old; Holocene lava flow; entrance faces south  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1193](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1193)   
 [Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0](https://doi.org/10.1016/B978-0-12-811739-2.00031-0)   
 Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156  
+[Dickfoss, MS Thesis (1996) http://rave.ohiolink.edu/etdc/view?acc_num=osu1210350383](http://rave.ohiolink.edu/etdc/view?acc_num=osu1210350383)   
 [https://en.wikipedia.org/wiki/Bandera_Volcano_Ice_Cave](https://en.wikipedia.org/wiki/Bandera_Volcano_Ice_Cave)   
 
 ---  
@@ -5955,14 +5956,6 @@ United States of America - Washington; Skamania County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1668](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1668)   
 
 ---  
-<a name="US-c83172def51d19bc8eecbabb384528b8"></a>
-United States of America - California; Siskiyou County  
-*Cave Name(s):* **Astro Tuff Cave**  
-*Length:* 275m   
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=462](https://rpif.asu.edu/LTdatabase/result.php?RECNO=462)   
-
----  
 <a name="AU-deb24579e8dd929b76ab9586905ece1d"></a>
 Australia - Queensland - Undara  
 *Cave Name(s):* **Atkinson Cave** *Id:* ASF-4U-20  
@@ -6623,13 +6616,6 @@ United States of America - Arizona; Coconino County - San Franciscan; Sunset Cra
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=247](https://rpif.asu.edu/LTdatabase/result.php?RECNO=247)   
 
 ---  
-<a name="US-7d0e5489f91813ac5f40d7adaabe040d"></a>
-United States of America - Hawaii; Puna District - Hawaii (Big Island)  
-*Cave Name(s):* **Bordello Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=745](https://rpif.asu.edu/LTdatabase/result.php?RECNO=745)   
-
----  
 <a name="IS-860c1624d296eaa25af74e888773c825"></a>
 Iceland - Snaefellsnes og Hnappadal  
 *Cave Name(s):* **Borgarhellir**  
@@ -6713,7 +6699,7 @@ United States of America - Idaho; Butte County - Craters of the Moon
 United States of America - Oregon; Deschutes County  
 *Cave Name(s):* **Boyd Cave**  
 *Length:* 600m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1318](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1318)   
 Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"  
 
@@ -6858,8 +6844,8 @@ United States of America - Idaho; Lincoln County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1069](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1069)   
 
 ---  
-<a name="US-7b90e6798dfdd2fa46eb2dd8802e1c06"></a>
-United States of America - Oregon; Lake County  
+<a name="US-a70777d21b98b5dc74ef9167fe3f2ee7"></a>
+United States of America - Oregon; Lake County - Squaw Ridge lava field  
 *Cave Name(s):* **Burnout Cave**  
 *Length:* 9m   
 *Cave type:* lava tunnel  
@@ -7003,11 +6989,13 @@ Australia - Heard Island
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=994](https://rpif.asu.edu/LTdatabase/result.php?RECNO=994)   
 
 ---  
-<a name="US-f0e76d84bbd901c159da365be8889b87"></a>
-United States of America - Oregon; Lake County  
+<a name="US-9f11480f8b3b1abf86c9e6065f4b9c0c"></a>
+United States of America - Oregon; Lake County - Squaw Ridge lava field  
 *Cave Name(s):* **Cairn Cave**  
-*Cave type:* lava tunnel  
+*Length:* ~90m   
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1240](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1240)   
+[Skinner (1982) http://www.deschutesmeridian.com/vitae/speleograph_18_8.pdf](http://www.deschutesmeridian.com/vitae/speleograph_18_8.pdf)   
 
 ---  
 <a name="US-aec5b807defcfedcad2c163b1457802f"></a>
@@ -7065,15 +7053,15 @@ United States of America - Hawaii - Maui
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=834](https://rpif.asu.edu/LTdatabase/result.php?RECNO=834)   
 
 ---  
-<a name="US-67b38be2d8cc030c60c37bd61551aebf"></a>
-United States of America - California; Siskiyou County  
+<a name="US-0670d9da021d98f596aa298e16eb71e0"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument  
 *Cave Name(s):* **Captain Jack's Bridge**  
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=653](https://rpif.asu.edu/LTdatabase/result.php?RECNO=653)   
 
 ---  
-<a name="US-eacca9f244d4f7c6f4ce9ca5a64d84cf"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater  
+<a name="US-94338ae2f62ee4b330c57730560dcda0"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument  
 *Cave Name(s):* **Captain Jack's Ice Cave** Captain Jack's Cave  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=604](https://rpif.asu.edu/LTdatabase/result.php?RECNO=604)   
@@ -7087,8 +7075,8 @@ United States of America - Washington; Klickitat County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1743](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1743)   
 
 ---  
-<a name="US-fcc4f2ea6cd990211cc38530c3072feb"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater  
+<a name="US-081389f21a5fa59718b005404214512e"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater; Lava Beds National Monument  
 *Cave Name(s):* **Castle Cave**  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=605](https://rpif.asu.edu/LTdatabase/result.php?RECNO=605)   
@@ -7320,8 +7308,8 @@ United States of America - Hawaii; North Kona - Hawaii Island
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=766](https://rpif.asu.edu/LTdatabase/result.php?RECNO=766)   
 
 ---  
-<a name="US-5d5dc9a1e25b0a51a7aef89c9dd63334"></a>
-United States of America - Hawaii; North Kona - Hawaii Island; Kilauea  
+<a name="US-4a2e3cd78c0231e5a1ff57070db3c374"></a>
+United States of America - Hawaii - Hawaii Island; Kilauea  
 *Cave Name(s):* **Central Passage**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=786](https://rpif.asu.edu/LTdatabase/result.php?RECNO=786)   
@@ -7970,9 +7958,11 @@ Ecuador - Galapagos - Santa Cruz Island
 ---  
 <a name="EC-f93a5086dde97526bab114cb0392bf8a"></a>
 Ecuador - Galapagos - Isla de Santa Cruz  
-*Cave Name(s):* **Cueva de Kubler** Kübler Cave  
+*Cave Name(s):* **Cueva de Kubler** Kübler Cave; El Mirador  
+*Coordinates:* [-0.732103, -90.328113](https://maps.google.com/?ll=-0.732103,-90.328113)   
 *Length:* 914m *Vertical extent:* 70m   
 *Cave type:* lava tunnel  
+*Contents:* troglophiles  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=715](https://rpif.asu.edu/LTdatabase/result.php?RECNO=715)   
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf](http://www.vulcanospeleology.org/sym06/ISV6x33.pdf)   
 [Espinasa et al. (2015) doi:10.3897/subtbiol.15.8468](https://doi.org/10.3897/subtbiol.15.8468)   
@@ -9386,8 +9376,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf](https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf)   
 
 ---  
-<a name="US-28797bad02b93c143981774b38b5524d"></a>
-United States of America - Hawaii; Puna District - Hawaii Island  
+<a name="US-d122f8e7f95671898f6d619902a8787c"></a>
+United States of America - Hawaii; Puna District - Hawaii Island; Kilauea  
 *Cave Name(s):* **Epperson's Cave** Lower Epperson's Cave  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=742](https://rpif.asu.edu/LTdatabase/result.php?RECNO=742)   
@@ -9700,8 +9690,8 @@ United States of America - Oregon; Deschutes County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1241](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1241)   
 
 ---  
-<a name="US-845d757710d62903599417b8affaa237"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater  
+<a name="US-ea717b0284a7befe83bf6ef8452cc9d1"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater; Lava Beds National Monument  
 *Cave Name(s):* **Frozen River Cave**  
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Comments:* had a long frozen river in the 1920's, but not anymore  
@@ -10151,6 +10141,7 @@ United States of America - Arizona; Coconino County - San Franciscan
 *Length:* 1250m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=243](https://rpif.asu.edu/LTdatabase/result.php?RECNO=243)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="US-ff9002a0f16ff71d30f3e23fba6e3525"></a>
@@ -10918,7 +10909,7 @@ New Zealand
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
 *Cave Name(s):* **Hercules Leg Cave**  
 *Length:* 594m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
  *Part of* Hercules Leg-Juniper Cave  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=571](https://rpif.asu.edu/LTdatabase/result.php?RECNO=571)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
@@ -11219,14 +11210,6 @@ Japan - Nagasaki
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1171](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1171)   
 
 ---  
-<a name="US-282e7caf19e7ec11b031bb9700606137"></a>
-United States of America - Arizona; Navajo County - Blue Ridge Mountain  
-*Cave Name(s):* **Ice Cave** Blue Ridge Cave  
-*Rock type:* basalt *Cave type:* lava tunnel  
-*Comments:* simply a whole in the ground  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=253](https://rpif.asu.edu/LTdatabase/result.php?RECNO=253)   
-
----  
 <a name="US-7543837436be0bf178e8251adac592e0"></a>
 United States of America - California; Shasta County  
 *Cave Name(s):* **Ice Cave**  
@@ -11324,8 +11307,8 @@ Iceland - Eldhraun/Laki; Laufbalavatn cave area
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=199](https://rpif.asu.edu/LTdatabase/result.php?RECNO=199)   
 
 ---  
-<a name="US-04b8c05ade351b222aa2c86fb1f03fa5"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater  
+<a name="US-e25a48f8058cef2b77ef0ccc9293ce20"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Mammoth Crater; Lava Beds National Monument  
 *Cave Name(s):* **Igloo cave**  
 *Length:* 11m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -11759,7 +11742,7 @@ United States of America - New Mexico; Cibola County - El Malpais; El Calderon a
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
 *Cave Name(s):* **Juniper Cave**  
 *Length:* 720m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
  *Part of* Hercules Leg-Juniper Cave  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=658](https://rpif.asu.edu/LTdatabase/result.php?RECNO=658)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
@@ -12121,6 +12104,7 @@ United States of America - Hawaii; Puna District - Hawaii Island; Kilauea
 *Cave Name(s):* **Keala Cave**  
 *Length:* 8707m *Vertical extent:* 186m   
 *Rock type:* basalt *Cave type:* lava tunnel  
+*Contents:* troglophiles  
 *Comments:* parallel to Kazumura  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=807](https://rpif.asu.edu/LTdatabase/result.php?RECNO=807)   
 Kempe and Henschel (2009) Proc. 15th Int. Congress Speleology  
@@ -12280,6 +12264,7 @@ United States of America - Hawaii; Kauai County - Kauai; Koloa
 *Cave Name(s):* **McBryde Boundary Cave** McBryde Boundary Road Cave; Koloa Cave #2; Koloa Pasture Cave  
 *Length:* 187m   
 *Cave type:* lava tunnel  
+*Contents:* troglophiles; troglobites  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=823](https://rpif.asu.edu/LTdatabase/result.php?RECNO=823)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=882](https://rpif.asu.edu/LTdatabase/result.php?RECNO=882)   
 [Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf](http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf)   
@@ -12486,11 +12471,14 @@ Mexico - San Luis Potosí
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1457](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1457)   
 
 ---  
-<a name="US-6c4498d1a32df414d3601ca27983dc7a"></a>
-United States of America - New Mexico; Cibola County  
+<a name="US-dccb515ae4b4ee9f391c7af975b72e8e"></a>
+United States of America - New Mexico; Cibola County - El Malpais region  
 *Cave Name(s):* **La Marchantia Cave**  
-*Cave type:* lava tunnel  
+*altitude:* 2350  
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Contents:* permanent ice  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1202](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1202)   
+[Dickfoss, MS Thesis (1996) http://rave.ohiolink.edu/etdc/view?acc_num=osu1210350383](http://rave.ohiolink.edu/etdc/view?acc_num=osu1210350383)   
 
 ---  
 <a name="US-8abccf65ded63bc3b15bf6321d3bcf11"></a>
@@ -12573,7 +12561,7 @@ United States of America - Hawaii; North Kona - Hawaii Island
 United States of America - Idaho; Lincoln County  
 *Cave Name(s):* **Lariat Cave**  
 *Length:* 280m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1098](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1098)   
 
 ---  
@@ -12787,6 +12775,7 @@ United States of America - Hawaii; North Kona - Hawaii (Big Island)
 United States of America - Hawaii - Kauai; Koloa  
 *Cave Name(s):* **Limestone Quarry Cave**  
 *Length:* 150m   
+*Contents:* troglophiles  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=982](https://rpif.asu.edu/LTdatabase/result.php?RECNO=982)   
 [Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf](http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf)   
 
@@ -12849,8 +12838,8 @@ United States of America - Washington; Skamania County - Mount St. Helens
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1707](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1707)   
 
 ---  
-<a name="US-29028c69d69ae60010129ee4713af8a7"></a>
-United States of America - Oregon  
+<a name="US-1f1f9f0271983f9be185e9ec89796534"></a>
+United States of America - Oregon - Lava Top Butte  
 *Cave Name(s):* **Log Crib Cave**  
 *Length:* 40m   
 *Cave type:* lava tunnel  
@@ -13002,8 +12991,8 @@ United States of America - Hawaii - Hawaii Island; Kilauea
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=916](https://rpif.asu.edu/LTdatabase/result.php?RECNO=916)   
 
 ---  
-<a name="US-06598bf34b85fef4a11780a552b74102"></a>
-United States of America - Hawaii - Maui  
+<a name="US-60f8c8a30f26c5c7af7f11a964921984"></a>
+United States of America - Hawaii - Maui; Haleakala  
 *Cave Name(s):* **Lower Nahiko Road Cave**  
 *Length:* 18m   
 *Cave type:* lava tunnel  
@@ -13066,13 +13055,6 @@ Iceland - Eldhraun/Laki; Laufbalavatn cave area
 *Length:* 340m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=202](https://rpif.asu.edu/LTdatabase/result.php?RECNO=202)   
-
----  
-<a name="US-f4713b05ba8295bd2a943bdf26fd33dc"></a>
-United States of America - Idaho; Lincoln County  
-*Cave Name(s):* **Mabbutt Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1071](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1071)   
 
 ---  
 <a name="US-7fa2094cd9dad60c237de94375864d4a"></a>
@@ -13309,10 +13291,11 @@ Australia - Queensland - Undara
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1390](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1390)   
 
 ---  
-<a name="US-caa650c8187a8a696d70f91d5504ddb4"></a>
-United States of America - Oregon; Deschutes County  
+<a name="US-405863381bcf8832abd98334737a4a4f"></a>
+United States of America - Oregon; Deschutes County - Newberry volcano  
 *Cave Name(s):* **Matz Ice Cave**  
 *Cave type:* lava tunnel  
+*Comments:* not an ice cave  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1300](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1300)   
 
 ---  
@@ -13691,7 +13674,7 @@ United States of America - Idaho; Butte County - Craters of the Moon
 United States of America - Idaho; Power County  
 *Cave Name(s):* **Moss Cave**  
 *Length:* 390m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1099](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1099)   
 
 ---  
@@ -14302,16 +14285,16 @@ Japan - Mt. Fuji
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=100](https://rpif.asu.edu/LTdatabase/result.php?RECNO=100)   
 
 ---  
-<a name="US-5782b9ddb5c0718fecc5b432cb9c63a4"></a>
-United States of America - Hawaii; North Kona - Hawaii (Big Island)  
+<a name="US-03d6a0f5e7d6a1735849d1864c7e9da6"></a>
+United States of America - Hawaii; North Kona - Hawaii (Big Island); Hualalai  
 *Cave Name(s):* **Old Mamalahoa Trail Makai Cave**  
 *Length:* 34m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=905](https://rpif.asu.edu/LTdatabase/result.php?RECNO=905)   
 
 ---  
-<a name="US-0aa7b8c55fa0f7da6eb3d7c0146d58a9"></a>
-United States of America - Hawaii; North Kona - Hawaii (Big Island)  
+<a name="US-c4fb03584eedca156e062cbf1fe9b077"></a>
+United States of America - Hawaii; North Kona - Hawaii (Big Island); Hualalai  
 *Cave Name(s):* **Old Mamalahoa Trail Mauka Cave**  
 *Length:* 66m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -15009,13 +14992,6 @@ United States of America - Washington; Skamania County - Mount St. Helens
 *Length:* 760m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1716](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1716)   
-
----  
-<a name="US-017211813dcfa2da857399d4df2fe34c"></a>
-United States of America - Idaho; Lincoln County  
-*Cave Name(s):* **Proctor Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1073](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1073)   
 
 ---  
 <a name="US-797385e5a5d3232c348f9a04076906f7"></a>
@@ -16010,8 +15986,8 @@ Japan - Shizuoka - Hachijo Island
 [http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf](http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf)   
 
 ---  
-<a name="US-724f108ab769a1ccc8955702e340e230"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater  
+<a name="US-88248d928d5bb79d044b68ec542ee46d"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater; Lava Beds National Monument  
 *Cave Name(s):* **Ship Cavern**  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=613](https://rpif.asu.edu/LTdatabase/result.php?RECNO=613)   
@@ -16426,8 +16402,8 @@ United States of America - New Mexico; Union County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1181](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1181)   
 
 ---  
-<a name="US-b609714acdf55b42801dfad47a17fdc4"></a>
-United States of America - Oregon; Deschutes County - Newberry volcano  
+<a name="US-fc31747e0f12f877b7feb2c56dbe48c9"></a>
+United States of America - Oregon; Deschutes County - Newberry Volcano  
 *Cave Name(s):* **South Ice Cave**  
 *altitude:* 1530  
 *Length:* 280m   
@@ -16730,8 +16706,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=553](https://rpif.asu.edu/LTdatabase/result.php?RECNO=553)   
 
 ---  
-<a name="US-92fd811c5ad322378d6eaf46233fcd1b"></a>
-United States of America - Idaho; Butte County  
+<a name="US-ebee43b74efbb7d66ce5563188bacf42"></a>
+United States of America - Idaho; Butte County - Craters of the Moon  
 *Cave Name(s):* **Sunbear  Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1035](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1035)   
@@ -16797,8 +16773,8 @@ United States of America - Idaho; Gooding County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1054](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1054)   
 
 ---  
-<a name="US-d81fd19911fc95f7260b1a643df09f29"></a>
-United States of America - Oregon; Deschutes County - Newberry National Monument  
+<a name="US-0aefe1c8bb5fb60a31e99240d97c2a55"></a>
+United States of America - Oregon; Deschutes County - Newberry National Volcanic Monument  
 *Cave Name(s):* **Surveyors Ice Cave** Surveyor's Cave  
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* permanent ice  
@@ -17162,8 +17138,8 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=516](https://rpif.asu.edu/LTdatabase/result.php?RECNO=516)   
 
 ---  
-<a name="US-f778a5dc9310290830d0323dbf457ca4"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
+<a name="US-601274dfc4397b0cd0b650046fe920e4"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands  
 *Cave Name(s):* **Tickner Cave**  
 *Length:* 442m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -17172,8 +17148,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf](http://www.vulcanospeleology.org/sym06/ISV6x18.pdf)   
 
 ---  
-<a name="US-060c4d87a323f962fa4812e47ebe1cd2"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
+<a name="US-c8dad7208ddefa579c2ab06e0abbd94e"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands  
 *Cave Name(s):* **Tickner Chimneys**  
 *Length:* 800m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -17717,15 +17693,15 @@ United States of America - Hawaii - Maui; Haleakala; Upper Kipahulu Valley
 [Olson and James (1991) DOI:10.2307/40166794](https://doi.org/10.2307/40166794)   
 
 ---  
-<a name="US-d7c2354e4cf5dd03aa644558ac1433e8"></a>
-United States of America - Hawaii - Maui  
-*Cave Name(s):* **Lower Kipahulu Valley**  
+<a name="US-24bd8f5aa74a90050ce50d2bf0ecbd73"></a>
+United States of America - Hawaii - Maui; Haleakala  
+*Cave Name(s):* **Lower Kīpahulu Valley**  
 *Cave type:* lava tunnel  
 [Olson and James (1991) DOI:10.2307/40166794](https://doi.org/10.2307/40166794)   
 
 ---  
-<a name="US-3091da8e10eec934f9f7376104ae9257"></a>
-United States of America - Hawaii - Maui  
+<a name="US-09477995cf96ca987af0e43c26933627"></a>
+United States of America - Hawaii - Maui; Haleakala  
 *Cave Name(s):* **Upper Nahiko Road Cave**  
 *altitude:* 710  
 *Length:* 23m   
@@ -18123,10 +18099,10 @@ United States of America - Washington; Skamania County - Mount St. Helens
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1728](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1728)   
 
 ---  
-<a name="US-d5bac678bd5ab6f725189be5cb20205c"></a>
-United States of America - Oregon; Lake County  
+<a name="US-bd41312cfc7fa7d5067cef77359155c3"></a>
+United States of America - Oregon; Lake County - Squaw Ridge lava field  
 *Cave Name(s):* **West Vent Cave**  
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1239](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1239)   
 
 ---  
@@ -18152,18 +18128,20 @@ United States of America - Arizona; Coconino County - San Franciscan
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=252](https://rpif.asu.edu/LTdatabase/result.php?RECNO=252)   
 
 ---  
-<a name="US-25112f3ab97014f8988ea8fa00f45999"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater  
+<a name="US-5d183ac92de6dfdb49fd659547de1989"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater; Lava Beds National Monument  
 *Cave Name(s):* **White Lace Cave**  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=616](https://rpif.asu.edu/LTdatabase/result.php?RECNO=616)   
 
 ---  
-<a name="US-e3a1768a077a0ebf819b5658ae211af3"></a>
-United States of America - Arizona  
-*Cave Name(s):* **White Mountain Ice Cave**  
-*Cave type:* lava tunnel  
+<a name="US-ad4595874a91e4d2f6ff4986a53e32b4"></a>
+United States of America - Arizona; Navajo County - White Mountains; Blue Ridge Mountain  
+*Cave Name(s):* **White Mountain Ice Cave** Blue Ridge Cave  
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Comments:* not an ice cave  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=255](https://rpif.asu.edu/LTdatabase/result.php?RECNO=255)   
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=253](https://rpif.asu.edu/LTdatabase/result.php?RECNO=253)   
 
 ---  
 <a name="US-b43452e275b0f38c335a0dc48126e244"></a>
@@ -18324,8 +18302,8 @@ United States of America - New Mexico; Cibola County - El Malpais National Monum
 *Cave use:* self-guided tourist cave  
 
 ---  
-<a name="US-9557d057b2bf7ba0386947c45ba29c80"></a>
-United States of America - Washington; Skamania County - Pisgah  
+<a name="US-dd4ecc7f912373e4bfbf3fc923a557f7"></a>
+United States of America - Washington; Skamania County - Mt. Adams  
 *Cave Name(s):* **Y Cave**  
 *Length:* 300m   
 *Rock type:* basalt *Cave type:* lava tunnel  

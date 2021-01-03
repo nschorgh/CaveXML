@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 518 rock-hosted caves with perennial ice was generated from a CaveXML database. - Jan 2, 2021
+This list of 519 rock-hosted caves with perennial ice was generated from a CaveXML database. - Jan 3, 2021
 
 Austria - Oberösterreich - Dachstein [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-09ce958d127174017149d8adf1a2db30)  
 Austria - Oberösterreich - Dachstein [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-8cc53615b4bc61060a96e8087ea79ae4)  
@@ -502,10 +502,11 @@ United States of America - New Mexico; Cibola County - El Malpais [**Dripping La
 United States of America - New Mexico; Cibola County - El Malpais [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Navajo Cave** Navajo Ice Cave; Cave 29 ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
-United States of America - New Mexico; Cibola County - El Malpais region [**Candelaria Ice Cave** Cerro Candelaria; Bandera Volcano Ice Cave; Zuni Ice Cave ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
+United States of America - New Mexico; Cibola County - El Malpais region [**Candelaria Ice Cave** Bandera Volcano Ice Cave; Zuni Ice Cave ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
+United States of America - New Mexico; Cibola County - El Malpais region [**La Marchantia Cave** ](allcaves-database.md#US-dccb515ae4b4ee9f391c7af975b72e8e)  
 United States of America - Oregon; Deschutes County - Arnold Lava Tube System; Newberry Volcano [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-b9513e9db4a84c47e0d0057c42022592)  
-United States of America - Oregon; Deschutes County - Newberry National Monument [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-d81fd19911fc95f7260b1a643df09f29)  
-United States of America - Oregon; Deschutes County - Newberry volcano [**South Ice Cave** ](allcaves-database.md#US-b609714acdf55b42801dfad47a17fdc4)  
+United States of America - Oregon; Deschutes County - Newberry National Volcanic Monument [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-0aefe1c8bb5fb60a31e99240d97c2a55)  
+United States of America - Oregon; Deschutes County - Newberry Volcano [**South Ice Cave** ](allcaves-database.md#US-fc31747e0f12f877b7feb2c56dbe48c9)  
 United States of America - Utah - Central Rocky Mountains [**Bear Ice Cave** ](allcaves-database.md#US-f9244e4b84013595587462be918605da)  
 United States of America - Utah - Central Rocky Mountains [**Big Brush Creek Cave** ](allcaves-database.md#US-e328d340ccc22180c747d11cb3f14d41)  
 United States of America - Utah - Central Rocky Mountains [**Grandview Ice Cave** ](allcaves-database.md#US-3d77578a218469475de04098e1515a0c)  
@@ -545,9 +546,10 @@ United States of America - New Mexico; Cibola County - El Malpais [**Dripping La
 United States of America - New Mexico; Cibola County - El Malpais [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Navajo Cave** Navajo Ice Cave; Cave 29 ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
-United States of America - New Mexico; Cibola County - El Malpais region [**Candelaria Ice Cave** Cerro Candelaria; Bandera Volcano Ice Cave; Zuni Ice Cave ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
+United States of America - New Mexico; Cibola County - El Malpais region [**Candelaria Ice Cave** Bandera Volcano Ice Cave; Zuni Ice Cave ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
+United States of America - New Mexico; Cibola County - El Malpais region [**La Marchantia Cave** ](allcaves-database.md#US-dccb515ae4b4ee9f391c7af975b72e8e)  
 United States of America - Oregon; Deschutes County - Arnold Lava Tube System; Newberry Volcano [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-b9513e9db4a84c47e0d0057c42022592)  
-United States of America - Oregon; Deschutes County - Newberry National Monument [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-d81fd19911fc95f7260b1a643df09f29)  
-United States of America - Oregon; Deschutes County - Newberry volcano [**South Ice Cave** ](allcaves-database.md#US-b609714acdf55b42801dfad47a17fdc4)  
+United States of America - Oregon; Deschutes County - Newberry National Volcanic Monument [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-0aefe1c8bb5fb60a31e99240d97c2a55)  
+United States of America - Oregon; Deschutes County - Newberry Volcano [**South Ice Cave** ](allcaves-database.md#US-fc31747e0f12f877b7feb2c56dbe48c9)  
 United States of America - Washington; Skamania County - Mt. Adams [**Guler Ice Cave** ](allcaves-database.md#US-f3ebfa41578dcd316016a2b8094666ae)  
 United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system [**Hoarfrost Cave** NSS-633-18](allcaves-database.md#US-151253683e3a14b5f500d68384630664)  

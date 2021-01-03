@@ -8574,7 +8574,6 @@
       "state-or-province": "Cibola County",
       "phys-area-name": "El Malpais region",
       "principal-cave-name": "Candelaria Ice Cave",
-      "other-cave-name": "Cerro Candelaria",
       "other-cave-name": "Bandera Volcano Ice Cave",
       "other-cave-name": "Zuni Ice Cave",
       "latitude": [],
@@ -8584,11 +8583,12 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "contents": "permanent ice",
-      "comments": "ice deposit estimated to be 3kyr old",
+      "comments": "ice deposit estimated to be 3kyr old; Holocene lava flow",
       "comments": "entrance faces south",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1193",
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
       "reference": "Dickfoss et al. (1997) New Mexico Bureau of Mines and Mineral Res. Bull. 156",
+      "reference": "Dickfoss, MS Thesis (1996) http://rave.ohiolink.edu/etdc/view?acc_num=osu1210350383",
       "reference": "https://en.wikipedia.org/wiki/Bandera_Volcano_Ice_Cave"
     },
 
@@ -9787,16 +9787,6 @@
     },
 
     {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "Siskiyou County",
-      "principal-cave-name": "Astro Tuff Cave",
-      "length": 275,
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=462"
-    },
-
-    {
       "country-name": "Australia",
       "state-or-province": "Queensland",
       "phys-area-name": "Undara",
@@ -10722,16 +10712,6 @@
     },
 
     {
-      "country-name": "United States of America",
-      "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii (Big Island)",
-      "principal-cave-name": "Bordello Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=745"
-    },
-
-    {
       "country-name": "Iceland",
       "state-or-province": [],
       "phys-area-name": "Snaefellsnes og Hnappadal",
@@ -10853,6 +10833,7 @@
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Boyd Cave",
       "length": 600,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1318",
       "reference": "Greeley (1971) \"Geology of Selected Lava Tubes in the Bend Area, Oregon\""
@@ -11062,6 +11043,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Lake County",
+      "phys-area-name": "Squaw Ridge lava field",
       "principal-cave-name": "Burnout Cave",
       "length": 9,
       "cave-type": "lava tunnel",
@@ -11276,10 +11258,13 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Lake County",
+      "phys-area-name": "Squaw Ridge lava field",
       "principal-cave-name": "Cairn Cave",
-      "length": [],
+      "length": "~90",
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1240"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1240",
+      "reference": "Skinner (1982) http://www.deschutesmeridian.com/vitae/speleograph_18_8.pdf"
     },
 
     {
@@ -11364,8 +11349,11 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
+      "phys-area-name": "Medicine Lake Highlands; Mammoth Crater",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Captain Jack's Bridge",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=653"
     },
@@ -11374,7 +11362,8 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Medicine Lake Highlands; Modoc Crater",
+      "phys-area-name": "Medicine Lake Highlands; Mammoth Crater",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Captain Jack's Ice Cave",
       "other-cave-name": "Captain Jack's Cave",
       "length": [],
@@ -11398,6 +11387,7 @@
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "phys-area-name": "Medicine Lake Highlands; Modoc Crater",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Castle Cave",
       "length": [],
       "rock-type": "basalt",
@@ -11712,7 +11702,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii; North Kona",
+      "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Central Passage",
       "length": [],
@@ -12608,9 +12598,13 @@
       "phys-area-name": "Isla de Santa Cruz",
       "principal-cave-name": "Cueva de Kubler",
       "other-cave-name": "Kübler Cave",
+      "other-cave-name": "El Mirador",
+      "latitude": -0.732103,
+      "longitude": -90.328113,
       "length": 914,
       "vertical-extent": 70,
       "cave-type": "lava tunnel",
+      "contents": "troglophiles",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=715",
       "reference": "Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf",
       "reference": "Espinasa et al. (2015) doi:10.3897/subtbiol.15.8468"
@@ -14506,7 +14500,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Puna District",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Epperson's Cave",
       "other-cave-name": "Lower Epperson's Cave",
       "length": [],
@@ -14959,6 +14953,7 @@
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
       "phys-area-name": "Medicine Lake Highlands; Modoc Crater",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Frozen River Cave",
       "length": [],
       "rock-type": "basalt",
@@ -15577,7 +15572,8 @@
       "length": 1250,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=243"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=243",
+      "cave-use": "self-guided tourist cave"
     },
 
     {
@@ -16627,6 +16623,7 @@
       "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Hercules Leg Cave",
       "length": 594,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "cave-system": "Hercules Leg-Juniper Cave",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=571",
@@ -17038,20 +17035,6 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Arizona; Navajo County",
-      "phys-area-name": "Blue Ridge Mountain",
-      "principal-cave-name": "Ice Cave",
-      "other-cave-name": "Blue Ridge Cave",
-      "altitude": [],
-      "length": [],
-      "rock-type": "basalt",
-      "cave-type": "lava tunnel",
-      "comments": "simply a whole in the ground",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=253"
-    },
-
-    {
-      "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Shasta County",
       "principal-cave-name": "Ice Cave",
@@ -17190,6 +17173,7 @@
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
       "phys-area-name": "Medicine Lake Highlands; Mammoth Crater",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Igloo cave",
       "length": 11,
       "rock-type": "basalt",
@@ -17790,6 +17774,7 @@
       "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Juniper Cave",
       "length": 720,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "cave-system": "Hercules Leg-Juniper Cave",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=658",
@@ -18283,6 +18268,7 @@
       "vertical-extent": 186,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
+      "contents": "troglophiles",
       "comments": "parallel to Kazumura",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=807",
       "reference": "Kempe and Henschel (2009) Proc. 15th Int. Congress Speleology"
@@ -18507,6 +18493,8 @@
       "other-cave-name": "Koloa Pasture Cave",
       "length": 187,
       "cave-type": "lava tunnel",
+      "contents": "troglophiles",
+      "contents": "troglobites",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=823",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=882",
       "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
@@ -18790,10 +18778,15 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Cibola County",
+      "phys-area-name": "El Malpais region",
       "principal-cave-name": "La Marchantia Cave",
+      "altitude": 2350,
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1202"
+      "contents": "permanent ice",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1202",
+      "reference": "Dickfoss, MS Thesis (1996) http://rave.ohiolink.edu/etdc/view?acc_num=osu1210350383"
     },
 
     {
@@ -18915,6 +18908,7 @@
       "state-or-province": "Lincoln County",
       "principal-cave-name": "Lariat Cave",
       "length": 280,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1098"
     },
@@ -19212,6 +19206,7 @@
       "phys-area-name": "Kauai; Koloa",
       "principal-cave-name": "Limestone Quarry Cave",
       "length": 150,
+      "contents": "troglophiles",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=982",
       "reference": "Howarth (1973) http://hbs.bishopmuseum.org/pi/pdf/15(1)-139.pdf"
     },
@@ -19303,7 +19298,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Oregon",
-      "phys-area-name": [],
+      "phys-area-name": "Lava Top Butte",
       "principal-cave-name": "Log Crib Cave",
       "length": 40,
       "cave-type": "lava tunnel",
@@ -19516,7 +19511,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Lower Nahiko Road Cave",
       "length": 18,
       "cave-type": "lava tunnel",
@@ -19598,16 +19593,6 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=202"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Idaho",
-      "state-or-province": "Lincoln County",
-      "principal-cave-name": "Mabbutt Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1071"
     },
 
     {
@@ -19945,9 +19930,11 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
+      "phys-area-name": "Newberry volcano",
       "principal-cave-name": "Matz Ice Cave",
       "length": [],
       "cave-type": "lava tunnel",
+      "comments": "not an ice cave",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1300"
     },
 
@@ -20467,6 +20454,7 @@
       "phys-area-name": [],
       "principal-cave-name": "Moss Cave",
       "length": 390,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1099"
     },
@@ -21295,7 +21283,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; North Kona",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Hualalai",
       "principal-cave-name": "Old Mamalahoa Trail Makai Cave",
       "length": 34,
       "rock-type": "basalt",
@@ -21306,7 +21294,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; North Kona",
-      "phys-area-name": "Hawaii (Big Island)",
+      "phys-area-name": "Hawaii (Big Island); Hualalai",
       "principal-cave-name": "Old Mamalahoa Trail Mauka Cave",
       "length": 66,
       "rock-type": "basalt",
@@ -21767,7 +21755,6 @@
       "country-name": "Samoa",
       "state-or-province": [],
       "phys-area-name": "Savaii Island",
-      "phys-area-name": [],
       "principal-cave-name": "Ana Pe'ape'a Tapuele'ele",
       "other-cave-name": "O le ana o le nuu te tau",
       "length": 370,
@@ -22286,16 +22273,6 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1716"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "Idaho",
-      "state-or-province": "Lincoln County",
-      "principal-cave-name": "Proctor Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1073"
     },
 
     {
@@ -23679,6 +23656,7 @@
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "phys-area-name": "Medicine Lake Highlands; Modoc Crater",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Ship Cavern",
       "length": [],
       "rock-type": "basalt",
@@ -24250,7 +24228,7 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Deschutes County",
-      "phys-area-name": "Newberry volcano",
+      "phys-area-name": "Newberry Volcano",
       "principal-cave-name": "South Ice Cave",
       "altitude": 1530,
       "length": 280,
@@ -24676,6 +24654,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho",
       "state-or-province": "Butte County",
+      "phys-area-name": "Craters of the Moon",
       "principal-cave-name": "Sunbear  Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -24769,7 +24748,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Oregon; Deschutes County",
-      "phys-area-name": "Newberry National Monument",
+      "phys-area-name": "Newberry National Volcanic Monument",
       "principal-cave-name": "Surveyors Ice Cave",
       "other-cave-name": "Surveyor's Cave",
       "length": [],
@@ -25280,7 +25259,6 @@
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "phys-area-name": "Medicine Lake Highlands",
-      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Tickner Cave",
       "length": 442,
       "rock-type": "basalt",
@@ -25295,7 +25273,6 @@
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "phys-area-name": "Medicine Lake Highlands",
-      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Tickner Chimneys",
       "length": 800,
       "rock-type": "basalt",
@@ -26081,8 +26058,8 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
-      "principal-cave-name": "Lower Kipahulu Valley",
+      "phys-area-name": "Maui; Haleakala",
+      "principal-cave-name": "Lower Kīpahulu Valley",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "Olson and James (1991) DOI:10.2307/40166794"
@@ -26091,7 +26068,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Maui",
+      "phys-area-name": "Maui; Haleakala",
       "principal-cave-name": "Upper Nahiko Road Cave",
       "altitude": 710,
       "length": 23,
@@ -26650,8 +26627,10 @@
       "country-name": "United States of America",
       "state-or-province": "Oregon",
       "state-or-province": "Lake County",
+      "phys-area-name": "Squaw Ridge lava field",
       "principal-cave-name": "West Vent Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1239"
     },
@@ -26694,6 +26673,7 @@
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "phys-area-name": "Medicine Lake Highlands; Modoc Crater",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "White Lace Cave",
       "length": [],
       "rock-type": "basalt",
@@ -26704,11 +26684,16 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Arizona",
-      "phys-area-name": [],
+      "state-or-province": "Navajo County",
+      "phys-area-name": "White Mountains; Blue Ridge Mountain",
       "principal-cave-name": "White Mountain Ice Cave",
+      "other-cave-name": "Blue Ridge Cave",
       "length": [],
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=255"
+      "comments": "not an ice cave",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=255",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=253"
     },
 
     {
@@ -26931,7 +26916,7 @@
       "country-name": "United States of America",
       "state-or-province": "Washington",
       "state-or-province": "Skamania County",
-      "phys-area-name": "Pisgah",
+      "phys-area-name": "Mt. Adams",
       "principal-cave-name": "Y Cave",
       "length": 300,
       "rock-type": "basalt",

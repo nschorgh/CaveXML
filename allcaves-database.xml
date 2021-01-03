@@ -1028,8 +1028,8 @@
       <latitude/>
       <longitude/>
       <altitude>1823</altitude>
-      <length/>
-      <vertical-extent/>
+      <length>143</length>
+      <vertical-extent>126</vertical-extent>
       <contents>permanent ice</contents>
       <reference>Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X</reference>
    </record>
@@ -1148,8 +1148,8 @@
       <latitude/>
       <longitude/>
       <altitude>2120</altitude>
-      <length/>
-      <vertical-extent/>
+      <length>162</length>
+      <vertical-extent>95</vertical-extent>
       <contents>permanent ice</contents>
       <reference>Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X</reference>
    </record>
@@ -1163,10 +1163,11 @@
       <latitude/>
       <longitude/>
       <altitude>2144</altitude>
-      <length/>
-      <vertical-extent/>
+      <length>70</length>
+      <vertical-extent>48</vertical-extent>
       <contents>permanent ice</contents>
       <reference>Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X</reference>
+      <reference>Il Grottesco anno 2004</reference>
    </record>
    <record>
       <country-name>Italy</country-name>
@@ -1178,8 +1179,8 @@
       <latitude/>
       <longitude/>
       <altitude>2780</altitude>
-      <length/>
-      <vertical-extent/>
+      <length>39</length>
+      <vertical-extent>20</vertical-extent>
       <contents>permanent ice</contents>
       <reference>Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X</reference>
    </record>
@@ -5195,8 +5196,7 @@
    <record>
       <country-name>Slovakia</country-name>
       <state-or-province/>
-      <phys-area-name>Nízke Tatry; Ďumbierske Tatry; Ďumbier
-</phys-area-name>
+      <phys-area-name>Nízke Tatry; Ďumbierske Tatry; Ďumbier</phys-area-name>
       <principal-cave-name>Jaskyňa studeného vetra</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -8839,7 +8839,7 @@
    <record>
       <country-name>Chile</country-name>
       <state-or-province>Aconcagua</state-or-province>
-      <phys-area-name>Isla de Pascua (Easter Island or Rapa Nui)</phys-area-name>
+      <phys-area-name>Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow</phys-area-name>
       <principal-cave-name>Ana Kakena</principal-cave-name>
       <altitude>30</altitude>
       <length>55</length>
@@ -9507,7 +9507,7 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>New Mexico; Socorro County</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Jornada del Muerto</phys-area-name>
       <principal-cave-name>Bat Caves</principal-cave-name>
       <length>3800</length>
       <cave-type>lava tunnel</cave-type>
@@ -9602,6 +9602,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=603</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
+      <reference>Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -10543,11 +10544,13 @@
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
       <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Caldwell Ice Caves</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=471</reference>
+      <reference>Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -11537,13 +11540,15 @@
    </record>
    <record>
       <country-name>Mexico</country-name>
-      <state-or-province>San Luis Potos</state-or-province>
+      <state-or-province>San Luis Potosí</state-or-province>
       <phys-area-name/>
-      <principal-cave-name>Cueva de Caada de los Pastores</principal-cave-name>
+      <principal-cave-name>Cueva de Cañada de los Pastores</principal-cave-name>
       <other-cave-name>Caada de los Pastores</other-cave-name>
       <length>1882</length>
+      <vertical-extent>43</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1458</reference>
+      <reference>http://www.mexicancaves.org/maps/0530.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -11560,8 +11565,10 @@
       <phys-area-name/>
       <principal-cave-name>Cueva de Chimalacatepec</principal-cave-name>
       <length>1388</length>
+      <vertical-extent>201</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1151</reference>
+      <reference>Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -11601,20 +11608,36 @@
       <state-or-province>Morelos</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Cueva de Don Marcelo</principal-cave-name>
+      <other-cave-name>Cueva de Marcelo</other-cave-name>
       <length>1268</length>
+      <vertical-extent>62</vertical-extent>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1154</reference>
+      <reference>Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
       <state-or-province>Morelos</state-or-province>
       <phys-area-name/>
-      <principal-cave-name>Cueva de Dona Macaria</principal-cave-name>
-      <length>500</length>
+      <principal-cave-name>Cueva de Doña Macaria</principal-cave-name>
+      <length>420</length>
+      <vertical-extent>27</vertical-extent>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1153</reference>
+      <reference>http://www.mexicancaves.org/maps/1952.pdf</reference>
+   </record>
+   <record>
+      <country-name>Mexico</country-name>
+      <state-or-province>Morelos</state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Cueva Chica de Macaria</principal-cave-name>
+      <length>126</length>
+      <vertical-extent>9</vertical-extent>
+      <rock-type></rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>http://www.mexicancaves.org/maps/1952.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -11637,6 +11660,7 @@
       <cave-type>lava tunnel</cave-type>
       <contents>many bats</contents>
       <reference>Pint et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p04.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/1965.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -11648,6 +11672,8 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>Pint et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p04.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/1966.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/1708.pdf</reference>
    </record>
    
    <record>
@@ -11815,10 +11841,14 @@
       <country-name>Mexico</country-name>
       <state-or-province>Morelos</state-or-province>
       <phys-area-name/>
-      <principal-cave-name>Cueva de la Iglesia</principal-cave-name>
+      <principal-cave-name>Sistema Inglesia-Mina Superior</principal-cave-name>
       <length>5145</length>
+      <vertical-extent>54</vertical-extent>
+      <number-of-entrances>4</number-of-entrances>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1157</reference>
+      <reference>http://www.mexicancaves.org/maps/3400.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -11880,7 +11910,7 @@
    </record>
    <record>
       <country-name>Mexico</country-name>
-      <state-or-province>San Luis Potos</state-or-province>
+      <state-or-province>San Luis Potosí</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Cueva de la Ventana</principal-cave-name>
       <length>268</length>
@@ -11912,8 +11942,10 @@
       <phys-area-name/>
       <principal-cave-name>Cueva de las Huesitos</principal-cave-name>
       <length>1792</length>
+      <vertical-extent>18</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=687</reference>
+      <reference>Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -11954,12 +11986,14 @@
    </record>
    <record>
       <country-name>Mexico</country-name>
-      <state-or-province>San Luis Potos</state-or-province>
+      <state-or-province>San Luis Potosí</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Cueva de los Cuicillos</principal-cave-name>
       <length>976</length>
+      <vertical-extent>14</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1460</reference>
+      <reference>http://www.mexicancaves.org/maps/0529.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12176,12 +12210,14 @@
    </record>
    <record>
       <country-name>Mexico</country-name>
-      <state-or-province/>
+      <state-or-province>Distrito Federal</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Cueva del Aire</principal-cave-name>
       <length>1038</length>
+      <vertical-extent>87</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=206</reference>
+      <reference>http://www.mexicancaves.org/maps/2905.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12189,8 +12225,10 @@
       <phys-area-name/>
       <principal-cave-name>Cueva del Arbol</principal-cave-name>
       <length>1480</length>
+      <vertical-extent>118</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1161</reference>
+      <reference>Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12264,17 +12302,27 @@
       <phys-area-name/>
       <principal-cave-name>Cueva del Diablo</principal-cave-name>
       <length>2020</length>
+      <vertical-extent>70</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1152</reference>
+      <reference>http://www.mexicancaves.org/maps/3366.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/3367.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
       <state-or-province>Morelos</state-or-province>
       <phys-area-name/>
-      <principal-cave-name>Cueva del Ferrocarril</principal-cave-name>
-      <length>6197</length>
+      <principal-cave-name>Cueva del Ferrocarril-Mina Inferior</principal-cave-name>
+      <other-cave-name>Sistema Ferrocarril-Mina Inferior</other-cave-name>
+      <length>6538</length>
+      <vertical-extent>90</vertical-extent>
+      <number-of-entrances>10</number-of-entrances>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1156</reference>
+      <reference>Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/1954.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/3399.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12324,12 +12372,14 @@
    </record>
    <record>
       <country-name>Mexico</country-name>
-      <state-or-province>San Luis Potos</state-or-province>
+      <state-or-province>San Luis Potosí</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Cueva del Novillo</principal-cave-name>
       <length>136</length>
+      <vertical-extent>13</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1462</reference>
+      <reference>http://www.mexicancaves.org/maps/0878.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -12351,6 +12401,7 @@
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1159</reference>
+      <reference>http://www.mexicancaves.org/maps/2660.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12372,13 +12423,16 @@
    </record>
    <record>
       <country-name>Mexico</country-name>
-      <state-or-province>San Luis Potos</state-or-province>
+      <state-or-province>San Luis Potosí</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Cueva del Salvial</principal-cave-name>
-      <other-cave-name>Cueva de los Vampiros</other-cave-name>
       <length>796</length>
+      <vertical-extent>14</vertical-extent>
       <cave-type>lava tunnel</cave-type>
+      <branch-name>Cueva de los Vampiros</branch-name>
+      <branch-name>Cueva del Baile</branch-name>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1459</reference>
+      <reference>http://www.mexicancaves.org/maps/0876.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12421,18 +12475,24 @@
       <phys-area-name/>
       <principal-cave-name>Cueva del Volcancillo</principal-cave-name>
       <length>685</length>
+      <vertical-extent>139</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1569</reference>
       <reference>Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf</reference>
+      <reference>Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/1968.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
       <state-or-province>Veracruz</state-or-province>
       <phys-area-name/>
-      <principal-cave-name>Cueva del Rio Huichila</principal-cave-name>
+      <principal-cave-name>Cueva del Río Huichila</principal-cave-name>
+      <other-cave-name>Cueva Huichila</other-cave-name>
       <length>625</length>
       <cave-type>lava tunnel</cave-type>
       <reference>Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/3653.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/1969.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12449,8 +12509,10 @@
       <phys-area-name/>
       <principal-cave-name>Cueva de Tengonapa</principal-cave-name>
       <length> >477</length>
+      <vertical-extent>62</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/1972.pdf</reference>
    </record>
    <record>
       <country-name>Argentina</country-name>
@@ -13669,6 +13731,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
       <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
+      <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Fleener Chimneys</principal-cave-name>
       <length>66</length>
       <rock-type>basalt</rock-type>
@@ -13676,6 +13739,7 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=651</reference>
       <reference>http://www.vulcanospeleology.org/newsletters/Vulcano13-17.pdf</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
+      <reference>Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf</reference>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -15752,15 +15816,6 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
-      <state-or-province>Modoc County</state-or-province>
-      <principal-cave-name>Ice Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=444</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
       <state-or-province>Shasta County</state-or-province>
       <principal-cave-name>Ice Cave</principal-cave-name>
       <length/>
@@ -17338,7 +17393,7 @@
    </record>
    <record>
       <country-name>Mexico</country-name>
-      <state-or-province>San Luis Potos</state-or-province>
+      <state-or-province>San Luis Potosí</state-or-province>
       <phys-area-name/>
       <principal-cave-name>La Cueva-Mina del Real de Catorce</principal-cave-name>
       <length>600</length>
@@ -17519,15 +17574,6 @@
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=257</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <state-or-province>Modoc County</state-or-province>
-      <principal-cave-name>Lava Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=445</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -18665,6 +18711,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>New Mexico</state-or-province>
       <state-or-province>Lincoln County</state-or-province>
+      <phys-area-name>Carrizozo</phys-area-name>
       <principal-cave-name>Midden Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -20101,8 +20148,10 @@
       <phys-area-name/>
       <principal-cave-name>Pedro el Negro</principal-cave-name>
       <length>1132</length>
+      <vertical-extent>35</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=688</reference>
+      <reference>Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -20198,7 +20247,7 @@
       <principal-cave-name>Trou Hirondelle</principal-cave-name>
       <length>442</length>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents>birds</contents>
       <reference>Middleton (1998) doi:10.5038/1827-806X.27.1.9</reference>
    </record>
    <record>
@@ -20208,13 +20257,13 @@
       <principal-cave-name>Surinam Cave</principal-cave-name>
       <length></length>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents>birds</contents>
       <reference>Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf</reference>
    </record>
    <record>
       <country-name>Mauritius</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Plaine des Roches</phys-area-name>
       <principal-cave-name>Twilight Cavern</principal-cave-name>
       <cave-id>PR18-30-31</cave-id>
       <length>570</length>
@@ -22035,9 +22084,12 @@
       <state-or-province>Tamaulipas</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Sierra Partida</principal-cave-name>
+      <other-cave-name>Cueva de la Sierra Partida</other-cave-name>
       <length>850</length>
+      <vertical-extent>62</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1558</reference>
+      <reference>http://www.mexicancaves.org/maps/0034.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -23294,9 +23346,11 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Tickner Cave</principal-cave-name>
       <length>442</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=639</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
+      <reference>Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -23974,6 +24028,7 @@
       <comments>small lava tube</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=649</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
+      <reference>Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -24104,6 +24159,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=640</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
+      <reference>Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>

@@ -1086,8 +1086,8 @@
       "latitude": [],
       "longitude": [],
       "altitude": 1823,
-      "length": [],
-      "vertical-extent": [],
+      "length": 143,
+      "vertical-extent": 126,
       "contents": "permanent ice",
       "reference": "Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X"
     },
@@ -1214,8 +1214,8 @@
       "latitude": [],
       "longitude": [],
       "altitude": 2120,
-      "length": [],
-      "vertical-extent": [],
+      "length": 162,
+      "vertical-extent": 95,
       "contents": "permanent ice",
       "reference": "Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X"
     },
@@ -1230,10 +1230,11 @@
       "latitude": [],
       "longitude": [],
       "altitude": 2144,
-      "length": [],
-      "vertical-extent": [],
+      "length": 70,
+      "vertical-extent": 48,
       "contents": "permanent ice",
-      "reference": "Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X"
+      "reference": "Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X",
+      "reference": "Il Grottesco anno 2004"
     },
 
     {
@@ -1246,8 +1247,8 @@
       "latitude": [],
       "longitude": [],
       "altitude": 2780,
-      "length": [],
-      "vertical-extent": [],
+      "length": 39,
+      "vertical-extent": 20,
       "contents": "permanent ice",
       "reference": "Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X"
     },
@@ -5551,7 +5552,7 @@
     {
       "country-name": "Slovakia",
       "state-or-province": [],
-      "phys-area-name": "Nízke Tatry; Ďumbierske Tatry; Ďumbier\n",
+      "phys-area-name": "Nízke Tatry; Ďumbierske Tatry; Ďumbier",
       "principal-cave-name": "Jaskyňa studeného vetra",
       "other-cave-name": [],
       "latitude": [],
@@ -9422,7 +9423,7 @@
     {
       "country-name": "Chile",
       "state-or-province": "Aconcagua",
-      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui)",
+      "phys-area-name": "Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow",
       "principal-cave-name": "Ana Kakena",
       "altitude": 30,
       "length": 55,
@@ -10152,7 +10153,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "New Mexico; Socorro County",
-      "phys-area-name": [],
+      "phys-area-name": "Jornada del Muerto",
       "principal-cave-name": "Bat Caves",
       "length": 3800,
       "cave-type": "lava tunnel",
@@ -10254,7 +10255,8 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=603",
-      "reference": "Waters et al. (1990) doi:10.3133/b1673"
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
+      "reference": "Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf"
     },
 
     {
@@ -11285,11 +11287,13 @@
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
       "phys-area-name": "Medicine Lake Highlands",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Caldwell Ice Caves",
       "length": [],
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=471"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=471",
+      "reference": "Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf"
     },
 
     {
@@ -12374,13 +12378,15 @@
 
     {
       "country-name": "Mexico",
-      "state-or-province": "San Luis Potos",
+      "state-or-province": "San Luis Potosí",
       "phys-area-name": [],
-      "principal-cave-name": "Cueva de Caada de los Pastores",
+      "principal-cave-name": "Cueva de Cañada de los Pastores",
       "other-cave-name": "Caada de los Pastores",
       "length": 1882,
+      "vertical-extent": 43,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1458"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1458",
+      "reference": "http://www.mexicancaves.org/maps/0530.pdf"
     },
 
     {
@@ -12399,8 +12405,10 @@
       "phys-area-name": [],
       "principal-cave-name": "Cueva de Chimalacatepec",
       "length": 1388,
+      "vertical-extent": 201,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1151"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1151",
+      "reference": "Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf"
     },
 
     {
@@ -12444,21 +12452,38 @@
       "state-or-province": "Morelos",
       "phys-area-name": [],
       "principal-cave-name": "Cueva de Don Marcelo",
+      "other-cave-name": "Cueva de Marcelo",
       "length": 1268,
+      "vertical-extent": 62,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1154"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1154",
+      "reference": "Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf"
     },
 
     {
       "country-name": "Mexico",
       "state-or-province": "Morelos",
       "phys-area-name": [],
-      "principal-cave-name": "Cueva de Dona Macaria",
-      "length": 500,
+      "principal-cave-name": "Cueva de Doña Macaria",
+      "length": 420,
+      "vertical-extent": 27,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1153"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1153",
+      "reference": "http://www.mexicancaves.org/maps/1952.pdf"
+    },
+
+    {
+      "country-name": "Mexico",
+      "state-or-province": "Morelos",
+      "phys-area-name": [],
+      "principal-cave-name": "Cueva Chica de Macaria",
+      "length": 126,
+      "vertical-extent": 9,
+      "rock-type": [],
+      "cave-type": "lava tunnel",
+      "reference": "http://www.mexicancaves.org/maps/1952.pdf"
     },
 
     {
@@ -12482,7 +12507,8 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "contents": "many bats",
-      "reference": "Pint et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p04.pdf"
+      "reference": "Pint et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p04.pdf",
+      "reference": "http://www.mexicancaves.org/maps/1965.pdf"
     },
 
     {
@@ -12494,7 +12520,9 @@
       "length": "~100",
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "Pint et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p04.pdf"
+      "reference": "Pint et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p04.pdf",
+      "reference": "http://www.mexicancaves.org/maps/1966.pdf",
+      "reference": "http://www.mexicancaves.org/maps/1708.pdf"
     },
 
     {
@@ -12678,10 +12706,14 @@
       "country-name": "Mexico",
       "state-or-province": "Morelos",
       "phys-area-name": [],
-      "principal-cave-name": "Cueva de la Iglesia",
+      "principal-cave-name": "Sistema Inglesia-Mina Superior",
       "length": 5145,
+      "vertical-extent": 54,
+      "number-of-entrances": 4,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1157"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1157",
+      "reference": "http://www.mexicancaves.org/maps/3400.pdf"
     },
 
     {
@@ -12750,7 +12782,7 @@
 
     {
       "country-name": "Mexico",
-      "state-or-province": "San Luis Potos",
+      "state-or-province": "San Luis Potosí",
       "phys-area-name": [],
       "principal-cave-name": "Cueva de la Ventana",
       "length": 268,
@@ -12785,8 +12817,10 @@
       "phys-area-name": [],
       "principal-cave-name": "Cueva de las Huesitos",
       "length": 1792,
+      "vertical-extent": 18,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=687"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=687",
+      "reference": "Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf"
     },
 
     {
@@ -12832,12 +12866,14 @@
 
     {
       "country-name": "Mexico",
-      "state-or-province": "San Luis Potos",
+      "state-or-province": "San Luis Potosí",
       "phys-area-name": [],
       "principal-cave-name": "Cueva de los Cuicillos",
       "length": 976,
+      "vertical-extent": 14,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1460"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1460",
+      "reference": "http://www.mexicancaves.org/maps/0529.pdf"
     },
 
     {
@@ -13077,12 +13113,14 @@
 
     {
       "country-name": "Mexico",
-      "state-or-province": [],
+      "state-or-province": "Distrito Federal",
       "phys-area-name": [],
       "principal-cave-name": "Cueva del Aire",
       "length": 1038,
+      "vertical-extent": 87,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=206"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=206",
+      "reference": "http://www.mexicancaves.org/maps/2905.pdf"
     },
 
     {
@@ -13091,8 +13129,10 @@
       "phys-area-name": [],
       "principal-cave-name": "Cueva del Arbol",
       "length": 1480,
+      "vertical-extent": 118,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1161"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1161",
+      "reference": "Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf"
     },
 
     {
@@ -13174,18 +13214,28 @@
       "phys-area-name": [],
       "principal-cave-name": "Cueva del Diablo",
       "length": 2020,
+      "vertical-extent": 70,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1152"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1152",
+      "reference": "http://www.mexicancaves.org/maps/3366.pdf",
+      "reference": "http://www.mexicancaves.org/maps/3367.pdf"
     },
 
     {
       "country-name": "Mexico",
       "state-or-province": "Morelos",
       "phys-area-name": [],
-      "principal-cave-name": "Cueva del Ferrocarril",
-      "length": 6197,
+      "principal-cave-name": "Cueva del Ferrocarril-Mina Inferior",
+      "other-cave-name": "Sistema Ferrocarril-Mina Inferior",
+      "length": 6538,
+      "vertical-extent": 90,
+      "number-of-entrances": 10,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1156"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1156",
+      "reference": "Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf",
+      "reference": "http://www.mexicancaves.org/maps/1954.pdf",
+      "reference": "http://www.mexicancaves.org/maps/3399.pdf"
     },
 
     {
@@ -13241,12 +13291,14 @@
 
     {
       "country-name": "Mexico",
-      "state-or-province": "San Luis Potos",
+      "state-or-province": "San Luis Potosí",
       "phys-area-name": [],
       "principal-cave-name": "Cueva del Novillo",
       "length": 136,
+      "vertical-extent": 13,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1462"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1462",
+      "reference": "http://www.mexicancaves.org/maps/0878.pdf"
     },
 
     {
@@ -13269,7 +13321,8 @@
       "principal-cave-name": "Cueva del Potrero",
       "length": [],
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1159"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1159",
+      "reference": "http://www.mexicancaves.org/maps/2660.pdf"
     },
 
     {
@@ -13294,13 +13347,16 @@
 
     {
       "country-name": "Mexico",
-      "state-or-province": "San Luis Potos",
+      "state-or-province": "San Luis Potosí",
       "phys-area-name": [],
       "principal-cave-name": "Cueva del Salvial",
-      "other-cave-name": "Cueva de los Vampiros",
       "length": 796,
+      "vertical-extent": 14,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1459"
+      "branch-name": "Cueva de los Vampiros",
+      "branch-name": "Cueva del Baile",
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1459",
+      "reference": "http://www.mexicancaves.org/maps/0876.pdf"
     },
 
     {
@@ -13347,19 +13403,25 @@
       "phys-area-name": [],
       "principal-cave-name": "Cueva del Volcancillo",
       "length": 685,
+      "vertical-extent": 139,
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1569",
-      "reference": "Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf"
+      "reference": "Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf",
+      "reference": "Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf",
+      "reference": "http://www.mexicancaves.org/maps/1968.pdf"
     },
 
     {
       "country-name": "Mexico",
       "state-or-province": "Veracruz",
       "phys-area-name": [],
-      "principal-cave-name": "Cueva del Rio Huichila",
+      "principal-cave-name": "Cueva del Río Huichila",
+      "other-cave-name": "Cueva Huichila",
       "length": 625,
       "cave-type": "lava tunnel",
-      "reference": "Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf"
+      "reference": "Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf",
+      "reference": "http://www.mexicancaves.org/maps/3653.pdf",
+      "reference": "http://www.mexicancaves.org/maps/1969.pdf"
     },
 
     {
@@ -13378,8 +13440,10 @@
       "phys-area-name": [],
       "principal-cave-name": "Cueva de Tengonapa",
       "length": " >477",
+      "vertical-extent": 62,
       "cave-type": "lava tunnel",
-      "reference": "Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf"
+      "reference": "Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf",
+      "reference": "http://www.mexicancaves.org/maps/1972.pdf"
     },
 
     {
@@ -14716,13 +14780,15 @@
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
       "phys-area-name": "Medicine Lake Highlands; Mammoth Crater",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Fleener Chimneys",
       "length": 66,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=651",
       "reference": "http://www.vulcanospeleology.org/newsletters/Vulcano13-17.pdf",
-      "reference": "Waters et al. (1990) doi:10.3133/b1673"
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
+      "reference": "Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf"
     },
 
     {
@@ -16987,16 +17053,6 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California",
-      "state-or-province": "Modoc County",
-      "principal-cave-name": "Ice Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=444"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
       "state-or-province": "Shasta County",
       "principal-cave-name": "Ice Cave",
       "length": [],
@@ -18722,7 +18778,7 @@
 
     {
       "country-name": "Mexico",
-      "state-or-province": "San Luis Potos",
+      "state-or-province": "San Luis Potosí",
       "phys-area-name": [],
       "principal-cave-name": "La Cueva-Mina del Real de Catorce",
       "length": 600,
@@ -18919,16 +18975,6 @@
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=257"
-    },
-
-    {
-      "country-name": "United States of America",
-      "state-or-province": "California",
-      "state-or-province": "Modoc County",
-      "principal-cave-name": "Lava Cave",
-      "length": [],
-      "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=445"
     },
 
     {
@@ -20170,6 +20216,7 @@
       "country-name": "United States of America",
       "state-or-province": "New Mexico",
       "state-or-province": "Lincoln County",
+      "phys-area-name": "Carrizozo",
       "principal-cave-name": "Midden Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -21739,8 +21786,10 @@
       "phys-area-name": [],
       "principal-cave-name": "Pedro el Negro",
       "length": 1132,
+      "vertical-extent": 35,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=688"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=688",
+      "reference": "Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf"
     },
 
     {
@@ -21844,7 +21893,7 @@
       "principal-cave-name": "Trou Hirondelle",
       "length": 442,
       "cave-type": "lava tunnel",
-      "contents": [],
+      "contents": "birds",
       "reference": "Middleton (1998) doi:10.5038/1827-806X.27.1.9"
     },
 
@@ -21855,14 +21904,14 @@
       "principal-cave-name": "Surinam Cave",
       "length": [],
       "cave-type": "lava tunnel",
-      "contents": [],
+      "contents": "birds",
       "reference": "Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf"
     },
 
     {
       "country-name": "Mauritius",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Plaine des Roches",
       "principal-cave-name": "Twilight Cavern",
       "cave-id": "PR18-30-31",
       "length": 570,
@@ -23855,9 +23904,12 @@
       "state-or-province": "Tamaulipas",
       "phys-area-name": [],
       "principal-cave-name": "Sierra Partida",
+      "other-cave-name": "Cueva de la Sierra Partida",
       "length": 850,
+      "vertical-extent": 62,
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1558"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1558",
+      "reference": "http://www.mexicancaves.org/maps/0034.pdf"
     },
 
     {
@@ -25231,9 +25283,11 @@
       "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Tickner Cave",
       "length": 442,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=639",
-      "reference": "Waters et al. (1990) doi:10.3133/b1673"
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
+      "reference": "Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf"
     },
 
     {
@@ -25970,7 +26024,8 @@
       "contents": "permanent ice",
       "comments": "small lava tube",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=649",
-      "reference": "Waters et al. (1990) doi:10.3133/b1673"
+      "reference": "Waters et al. (1990) doi:10.3133/b1673",
+      "reference": "Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf"
     },
 
     {
@@ -26113,6 +26168,7 @@
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=640",
       "reference": "Waters et al. (1990) doi:10.3133/b1673",
+      "reference": "Larson (1992) http://www.vulcanospeleology.org/sym06/ISV6x18.pdf",
       "cave-use": "self-guided tourist cave"
     },
 

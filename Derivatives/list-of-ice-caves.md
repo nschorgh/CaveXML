@@ -121,7 +121,6 @@ Italy - Sicilia - Sicily; Etna [**Grotta del Gelo** ](allcaves-database.md#IT-b9
 Japan - Mt. Fuji [**Fuji Ice Cave** Fuji Fuketsu (Fuji Wind Cave) ](allcaves-database.md#JP-e26bc9c6698824529baa6da0bf5bb393)  
 Japan - Mt. Fuji [**Motosu Fuketsu No. 2 Cave** ](allcaves-database.md#JP-2a709c7095c14ead38bd702c895e40d9)  
 Japan - Yamanashi - Mt. Fuji [**Narusawa Hyoketsu Cave** Narusawa Ice Cave; Narusawa Wind Cave; Narusawa Fuketsu ](allcaves-database.md#JP-6d8a263701cde5196f0357254dcdb677)  
- [**Jaskyňa studeného vetra** ](allcaves-database.md#SK-975455b136f2e45b3874463449ca3242)  
 Kazakhstan [**Ledyanoj Paportnik Cave** ](allcaves-database.md#KZ-bc6b94277248a413f3aaaa5470f9ec68)  
 Mongolia - Hubsugulskij National Park [**Uguul aguj** ](allcaves-database.md#MN-02916ee048c50f907a19d830f135c274)  
 Montenegro - Prokletije Mountains [**03061** 03061](allcaves-database.md#ME-5b97afc976c6eb59896f371f32f69849) *Part of* 03061-T5 Cave system  
@@ -259,7 +258,7 @@ Slovakia - Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy [**Havrania priep
 Slovakia - Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy [**Jelenia priepasť (Závrtová priepasť)** ](allcaves-database.md#SK-0ebe3587d29a345d7ca7f16f0828936d)  
 Slovakia - Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy [**Studená diera** ](allcaves-database.md#SK-ca9a196e1c9eaf33e1c2d54b3d3735cc)  
 Slovakia - Nízke Tatry; Ďumbierske Tatry; Demänovské vrchy [**Veľká ľadová priepať na Ohništi** ](allcaves-database.md#SK-fa7fe4bc0c820cec9d6280ca5bd6d95c)  
-Slovakia - Nízke Tatry; Ďumbierske Tatry; Ďumbier
+Slovakia - Nízke Tatry; Ďumbierske Tatry; Ďumbier [**Jaskyňa studeného vetra** ](allcaves-database.md#SK-bce4bbf2c7f2db776c34db7f1d5413b0)  
 Slovakia - Slovenský kras; Horný vrch [**Ľadová jaskyňa v Havranej skale** ](allcaves-database.md#SK-2b447a66e55b11c70121e5a894e0efa7)  
 Slovakia - Slovenský kras; Horný vrch [**Snežná diera** ](allcaves-database.md#SK-d0f0ad3e2cacb4cc1eb08d072d4c51ff)  
 Slovakia - Slovenský kras; Silická planina [**Silická ľadnica** Silica Ice Cave ](allcaves-database.md#SK-62a77cb4626640d595a45e5d090a4cfd)  
@@ -521,7 +520,6 @@ Uzbekistan - Hodja-Gur-Gur-Ata [**Ulug-Bek** Ulugh Begh ](allcaves-database.md#U
 Uzbekistan - Qashqadaryo Region; Yakkabog District - Kyzyl-Shavar Plateau [**Gissarskaya Cave** Hissar Cave T21](allcaves-database.md#UZ-3aeb26bfac3ffc5dec2c2b30833199c3)  
 Uzbekistan - Surxondaryo Province - Baisun region; Hodja-Gur-Gur-Ata [**Festival'naya-Ledopadnaya** Western Karst System of Hodja Gur Gur Ata ](allcaves-database.md#UZ-a4a49f658eed269c81d80dfdd7d05aef)  
 Uzbekistan - Surxondaryo Province - Baisun region; Hodja-Gur-Gur-Ata [**Ledopadnaya** ](allcaves-database.md#UZ-b6a1d24a1d9b2df772f08c109334bd0f) *Part of* Festival'naya-Ledopadnaya  
-
 
 
 List of Volcanic Ice Caves

@@ -1,7 +1,7 @@
 README
 ======
 
-CaveXML is a data interchange format for the purpose of facilitating scientific research on caves. This repository provides: CaveXML element and data type definitions, an example database, and a few tools to work with CaveXML-formatted data.  
+CaveXML is a data interchange format for the purpose of facilitating scientific research on caves. This repository provides: CaveXML element and data type definitions, an example database, and tools to work with CaveXML-formatted data.  
 
 
    [`cavexml.md`](./cavexml.md)	  (explains the CaveXML standard)  
@@ -13,12 +13,13 @@ CaveXML is a data interchange format for the purpose of facilitating scientific 
    `cavexml-db-table.css`	  (minimalist Style Sheet so the XML database can be viewed in a webbrowser)  
    `Utilities/cavexml2csv.py`     (converts database to comma-separated-values using Python)  
    `Utilities/cavexml2kml.py`	  (converts coordinates in CaveXML entries into KML format)  
-   `Utilities/cavexml2md.py`      (creates list of entries in Markdown format)  
+   `Utilities/cavexml2md.py`      (creates filtered list of entries in Markdown format)  
    `Utilities/cavexml2md-full.py` (creates allcaves-database.md)  
    `Utilities/cavexml2web.py`     (outputs full records in HTML format)  
    `Utilities/cavexml-numeric.py` (parses and outputs quasi-numerical entries)  
-   `Utilities/cavexml.py`	  (useful Python functions for CaveXML)  
-   `Utilities/cavexml-warnings.py`   (Python program that issues informative warnings)   
+   `Utilities/cavexml.py`	  (Python functions for CaveXML)  
+   `Utilities/cavexml-warnings.py`   (issues informative warnings)   
+   `Utilities/cavesystemfinder.py`   (auxiliary program that connects branches with systems)   
    `Utilities/reorder.xslt`    	  (sorts elements within each record)  
        
 

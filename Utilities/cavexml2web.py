@@ -142,7 +142,8 @@ for item in root.findall('record'):
 
         for i in range(0,len(ref)):
             refstr = ref[i].text
-            
+            if refstr is None:
+                continue
             refstr = refstr.replace("doi:", "https://doi.org/")
             refstr = refstr.replace("DOI:", "https://doi.org/")
             if 'www' in refstr:
@@ -183,5 +184,5 @@ for item in root.findall('record'):
 f.write('</body></html>')
 f.close()
 print('Wrote tmp.html')
-print('<p>Number of records:', count)
+print('Number of records:', count)
 

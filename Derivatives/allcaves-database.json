@@ -1359,7 +1359,7 @@
       "country-name": "Montenegro",
       "state-or-province": [],
       "phys-area-name": "Prokletije Mountains",
-      "principal-cave-name": "Alladin's Cave",
+      "principal-cave-name": "Aladdin's Cave",
       "cave-id": "03149",
       "latitude": [],
       "longitude": [],
@@ -2218,7 +2218,7 @@
       "length": 400,
       "vertical-extent": 69,
       "contents": "permanent ice",
-      "comments": "congelation ice",
+      "comments": "congelation ice; hoarfrost",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -2529,7 +2529,7 @@
       "length": 360,
       "vertical-extent": 53,
       "contents": "permanent ice",
-      "comments": "congelation ice",
+      "comments": "congelation ice; hoarfrost",
       "reference": "Gradziński et al. (2018) doi:10.1016/B978-0-12-811739-2.00024-3"
     },
 
@@ -6136,8 +6136,8 @@
     {
       "country-name": "Svalbard and Jan Mayen",
       "phys-area-name": "Spitsbergen; Blomstrandsøya",
-      "principal-cave-name": [],
-      "other-cave-name": "G4",
+      "principal-cave-name": "G4",
+      "other-cave-name": [],
       "altitude": 70,
       "length": 12,
       "vertical-extent": 1,
@@ -7539,6 +7539,7 @@
       "other-cave-name": [],
       "length": "~522",
       "vertical-extent": 25,
+      "rock-type": "limestone",
       "contents": "permanent ice",
       "comments": "atmogenic crystalline hoarfrost",
       "reference": "Chervyatsova (2005) http://arhiv.rgo-speleo.ru/rgo/books/glacier_karst7/chervyatsova_93_97.pdf"
@@ -7552,6 +7553,7 @@
       "length": 21,
       "vertical-extent": 8,
       "contents": "permanent ice",
+      "comments": "includes atmogenic crystalline hoarfrost",
       "reference": "Chervyatsova (2005) http://arhiv.rgo-speleo.ru/rgo/books/glacier_karst7/chervyatsova_93_97.pdf"
     },
 
@@ -7593,23 +7595,24 @@
 
     {
       "country-name": "Turkey",
-      "state-or-province": [],
+      "state-or-province": "Ağri province",
       "phys-area-name": [],
-      "principal-cave-name": "Ice Cae in Agri",
-      "other-cave-name": "Buz Magarasi",
+      "principal-cave-name": "Ice Cave in Ağri",
+      "other-cave-name": "Buzluk Mağarası",
       "latitude": [],
       "longitude": [],
       "altitude": "~2000",
-      "length": "~100",
+      "length": 110,
       "vertical-extent": [],
       "contents": "permanent ice",
       "comments": "50m wide",
-      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8"
+      "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
+      "reference": "http://www.gezimedya.com/en/buzluk-magarasi"
     },
 
     {
       "country-name": "Turkey",
-      "state-or-province": [],
+      "state-or-province": "Elazığ province",
       "phys-area-name": [],
       "principal-cave-name": "Buzluk Cave",
       "other-cave-name": "Ice Cave of Harput",
@@ -8595,6 +8598,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California",
+      "phys-area-name": "Medicine Lake Highlands",
       "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "C-270",
       "altitude": 1396,
@@ -8699,8 +8703,8 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
-      "phys-area-name": "Lava Beds National Monument",
       "phys-area-name": "Medicine Lake Highlands; Modoc Crater",
+      "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "Incline Cave",
       "cave-id": "M-340",
       "altitude": 1400,
@@ -8716,6 +8720,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California",
+      "phys-area-name": "Medicine Lake Highlands",
       "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "M-475",
       "altitude": 1342,
@@ -8731,6 +8736,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California",
+      "phys-area-name": "Medicine Lake Highlands",
       "phys-area-name": "Lava Beds National Monument",
       "principal-cave-name": "U-200",
       "altitude": 1554,
@@ -9235,9 +9241,11 @@
       "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Ainahou Ranch Cave",
       "length": 7110,
+      "vertical-extent": 352,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=777"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=777",
+      "reference": "Wood (1993) http://www.vulcanospeleology.org/sym03/ISV3x09.pdf"
     },
 
     {
@@ -9622,7 +9630,8 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "comments": "1973 lava",
-      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=783"
+      "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=783",
+      "reference": "Wood (1993) http://www.vulcanospeleology.org/sym03/ISV3x09.pdf"
     },
 
     {
@@ -10403,6 +10412,7 @@
       "phys-area-name": "Hawaii Island; Kilauea",
       "principal-cave-name": "Big Room cave",
       "length": 37,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=852"
     },
@@ -16913,7 +16923,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii (Big Island); Hualalai",
       "principal-cave-name": "Hualalai Ranch Cave",
       "length": 27400,
@@ -16925,9 +16935,9 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii (Big Island); Hualalai",
-      "principal-cave-name": "Huehue Cave",
+      "principal-cave-name": "Hu'ehu'e Cave",
       "altitude": 540,
       "length": 10800,
       "vertical-extent": 495,
@@ -18681,7 +18691,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; Ka'u District",
       "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "principal-cave-name": "Kula Kai Caverns",
       "length": [],
@@ -18694,7 +18704,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; Ka'u District",
       "phys-area-name": "Hawaii (Big Island); Mauna Loa",
       "phys-area-name": "Kipuka Kanohina Cave Preserve",
       "principal-cave-name": "Kipuka Kanohina",
@@ -18894,11 +18904,12 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; North Kona",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii (Big Island); Hualalai",
       "principal-cave-name": "Laniakea Cave",
       "length": 380,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
+      "contents": "charcoal",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=842"
     },
 
@@ -21230,7 +21241,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; North Kona",
-      "phys-area-name": "Hawaii Island",
+      "phys-area-name": "Hawaii (Big Island); Hualalai",
       "principal-cave-name": "Ohia Cave",
       "other-cave-name": "Refuge Cave Site D4-22",
       "length": 3200,
@@ -21516,7 +21527,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; Hamakua",
       "phys-area-name": "Hawaii (Big Island); Mauna Kea",
       "principal-cave-name": "Pa'auhau Civil Defense Cave",
       "length": 1001,
@@ -21866,17 +21877,18 @@
       "state-or-province": [],
       "phys-area-name": [],
       "principal-cave-name": "Camp Thorel Cave",
-      "length": 687,
+      "length": 1015,
       "cave-type": "lava tunnel",
       "contents": [],
       "reference": "Middleton (1998) doi:10.5038/1827-806X.27.1.9",
-      "reference": "Middleton (1998) http://vulcanospeleology.org/sym09/ISV9Eal.pdf"
+      "reference": "Middleton (1998) http://vulcanospeleology.org/sym09/ISV9Eal.pdf",
+      "reference": "Middleton (1999) http://st1.asflib.net/MEDIA/ASF-CD/ASF-M-00185/ackcd/journal/36mauritius.html"
     },
 
     {
       "country-name": "Mauritius",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mont Blanc",
       "principal-cave-name": "Trou Hirondelle",
       "length": 442,
       "cave-type": "lava tunnel",
@@ -21887,7 +21899,7 @@
     {
       "country-name": "Mauritius",
       "state-or-province": [],
-      "phys-area-name": [],
+      "phys-area-name": "Mont Blanc",
       "principal-cave-name": "Surinam Cave",
       "length": [],
       "cave-type": "lava tunnel",
@@ -21981,7 +21993,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
-      "phys-area-name": "Hawaii (Big Island); Mauna Loa",
+      "phys-area-name": "Hawaii (Big Island); Mauna Loa; Puu Waa Waa",
       "principal-cave-name": "Pigeon Cave",
       "length": 300,
       "cave-type": "lava tunnel",
@@ -25154,7 +25166,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; Hamakua",
       "phys-area-name": "Hawaii (Big Island); Mauna Kea",
       "principal-cave-name": "Kukaiau Cave",
       "other-cave-name": "This Cave/That Cave",
@@ -25853,7 +25865,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Hawaii",
+      "state-or-province": "Hawaii; North Kona",
       "phys-area-name": "Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a",
       "principal-cave-name": "Umi'i Manu (Bird Trap)",
       "length": 3887,
@@ -26032,7 +26044,7 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Maui; Haleakala",
-      "phys-area-name": "Upper Kipahulu Valley",
+      "phys-area-name": "Upper Kīpahulu Valley",
       "principal-cave-name": "Lua Mano",
       "other-cave-name": "Lua Manu Cave",
       "length": [],
@@ -26046,7 +26058,7 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Maui; Haleakala",
-      "phys-area-name": "Upper Kipahulu Valley",
+      "phys-area-name": "Upper Kīpahulu Valley",
       "principal-cave-name": "Puka Moa",
       "length": [],
       "cave-type": "lava tunnel",
@@ -27386,7 +27398,8 @@
       "country-name": "United States of America",
       "state-or-province": "Hawaii",
       "phys-area-name": "Hawaii (Big Island); Mauna Loa",
-      "principal-cave-name": "Whitney's Cave",
+      "principal-cave-name": "Whitneys Cave",
+      "other-cave-name": "Whitneys Dolphin Cave",
       "length": 652,
       "rock-type": "basalt",
       "cave-type": "lava tunnel",

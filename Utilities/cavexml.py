@@ -64,11 +64,13 @@ def parse_AltitudeEntry(alt):
     for i in range(0,len(alt)):
         outstr = alt[i].text
         if outstr is not None:
-            if "-" in outstr or "–" in outstr: # altitude range
-                if "-" in outstr:
+            if "-" in outstr or "–" in outstr or "—" in outstr: # altitude range
+                if "-" in outstr: # hyphen-minus (ASCII)
                     hyphen = '-'
-                if "–" in outstr:
+                if "–" in outstr: # en-dash
                     hyphen = '–'
+                if "—" in outstr: # em-dash
+                    hyphen = '—'
                 minalt = int(outstr.split(hyphen)[0])
                 maxalt = int(outstr.split(hyphen)[1])
                 if minalt<lownumber:

@@ -21,14 +21,30 @@ f = open("tmp.html","w")
 
 f.write('<html><body>')
 
+
+# load data for cross-linking of branches and systems
+pcnlist, conlist, uidlist, syslist, list_of_lists = cross_load_data(root)
+
+
 for item in root.findall('record'):
     
-    count += 1  # count number of records
+    # link cave-system entry
+    sys_link = cross_link_cavsys(count, conlist, pcnlist, syslist[count], list_of_lists, uidlist)
+    
+    # link branch-name entries
+    bra_link = cross_link_branch(count, conlist, pcnlist, list_of_lists[count], uidlist)
 
+    count += 1  # count number of records
+    
+    f.write('\n<p>')
+    
+    uid = generate_unique_id(item)
+    f.write('<a name="' + uid + '"></a>\n')
+    
     con = item.find('country-name')
     if con is not None:
         con = con.text
-        f.write('<p>' + con)
+        f.write(con)
 
     province = item.findall('state-or-province')
     prostr = merge_elements(province)
@@ -131,10 +147,27 @@ for item in root.findall('record'):
 
     cavsys = item.find('cave-system')
     try:
-        f.write('<br><i>Part of</i> ' + cavsys.text.strip())
+        if sys_link:
+            f.write('<br><i>Part of</i> <a href="#' + sys_link + '">' + cavsys.text.strip() + '</a>')
+        else:
+            f.write('<br><i>Part of</i> ' + cavsys.text.strip())
     except:
         pass
-    
+
+    branch = item.findall('branch-name')
+    if len(branch)>0:
+        buffer = '<br><i>Branches:</i> '
+        for j in range(0,len(branch)):
+            brastr = branch[j].text
+            if brastr:
+                if bra_link[j]:
+                    buffer += '<a href="#' + bra_link[j] + '"</a>' + brastr + '</a>; '
+                else:
+                    buffer += brastr + '; '
+
+        f.write(buffer + '\n')
+            
+        
     ref = item.findall('reference')
     if ref:
         #if len(ref)>0:
@@ -158,13 +191,6 @@ for item in root.findall('record'):
                 htmllink = "<a href=" + hytxt + ">" + refstr + "</a>"
                 f.write('<br>' + htmllink)
 
-
-
-    branch = item.findall('branch-name')
-    brastr = merge_elements(branch)
-    if brastr:
-        f.write('<br><i>Branches:</i> ' + brastr)
-    
     caveuse = item.findall('cave-use')
     outstr = merge_elements(caveuse)
     if outstr:
@@ -176,7 +202,7 @@ for item in root.findall('record'):
         f.write('<br><i>Data curation:</i> ' + outstr)
         
 
-    f.write('<hr>')
+    f.write('\n<hr>')
 
     
 

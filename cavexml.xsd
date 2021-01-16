@@ -333,9 +333,11 @@
 	<xs:simpleType>
 	  <xs:restriction base='xs:token'>
 	    <xs:pattern value="[~&#62;]?[0-9]{1,5}[+]?[ ,()\w]*"/>
-	    <xs:pattern value="[0-9]{1,5}[-–][0-9]{1,5}"/>
+	    <xs:pattern value="[0-9]{1,5}[-–—][0-9]{1,5}"/>
 	    <!-- matches ExtendedUnsignedInteger plus optional comment OR integer range 
 		 Examples of matching patterns: 4258, ~300 main entrance, 100-200
+		 Three dash-like symbols are allowed as range delimiter: 
+		 hyphen-minus (x002D, ASCII), en-dash (x2011), and em-dash (x2012)
 	    -->
 	  </xs:restriction>
 	</xs:simpleType>

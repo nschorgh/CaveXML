@@ -153,9 +153,9 @@ Austria - Salzburg - Untersberg
 *Length:* 44003m *Vertical extent:* 1130m   
 *Rock type:* limestone   
 *Branches:* [Kolowrathöhle](#AT-61ca9d312608c7cee94783a2c8fea431); Gamslöcher; [Salzburgerschacht](#AT-6fae67d3f8d09039102ef7b4f7d5d9ac);   
-Die Höhle 57 (2006)  
+[Die Höhle 57 (2006) https://www.zobodat.at/pdf/Hoehle_057_0090-0102.pdf](https://www.zobodat.at/pdf/Hoehle_057_0090-0102.pdf)   
 [Die Höhle 61 (2010) https://www.zobodat.at/pdf/Hoehle_061_0102-0108.pdf](https://www.zobodat.at/pdf/Hoehle_061_0102-0108.pdf)   
-Die Höhle 63 (2012)  
+[Die Höhle 63 (2012) https://www.zobodat.at/pdf/Hoehle_063_0032-0037.pdf](https://www.zobodat.at/pdf/Hoehle_063_0032-0037.pdf)   
 [Neubauer (2010) DOI:10.5038/1827-806X.40.2.4](https://doi.org/10.5038/1827-806X.40.2.4)   
 [https://hoehle.org/laengste-tiefste](https://hoehle.org/laengste-tiefste)   
 [Bieniok et al. (2011) doi:10.5038/1827-806X.40.2.4](https://doi.org/10.5038/1827-806X.40.2.4)   
@@ -3466,6 +3466,8 @@ Slovakia - Spišsko-gemerský kras; Slovenský raj
 [Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2](https://doi.org/10.1016/B978-0-12-811739-2.00029-2)   
 [http://www.ssj.sk/en/jaskyna/6-dobsinska-ice-cave](http://www.ssj.sk/en/jaskyna/6-dobsinska-ice-cave)   
 [Gradzinski et al. doi:10.14241/asgp.2016.016](https://doi.org/10.14241/asgp.2016.016)   
+[Pflitsch et al. (2006) http://www.ssj.sk/en/user_files/IWIC_2_38.pdf](http://www.ssj.sk/en/user_files/IWIC_2_38.pdf)   
+[Bella (2006) http://www.ssj.sk/en/user_files/IWIC_2_15.pdf](http://www.ssj.sk/en/user_files/IWIC_2_15.pdf)   
 *Cave use:* guided tourist cave  
 
 ---  
@@ -3902,34 +3904,38 @@ China - Heilongjiang province - Wudalianchi National Geological Park
 [Yang and Shi (2019) DOI:10.5772/intechopen.89178](https://doi.org/10.5772/intechopen.89178)   
 
 ---  
-<a name="CN-8b26f301da3320b3f89e49bd34203978"></a>
-China - Heilongjiang province  
+<a name="CN-1ecd2083a556393ea79c285e27bc46be"></a>
+China - Heilongjiang province - East Jiaodebushan volcano  
 *Cave Name(s):* **Underground Ice Cave**  
 *Coordinates:* [48.7364, +126.0996](https://maps.google.com/?ll=48.7364,126.0996) *altitude:* 300  
 *Length:* 515m   
-*Rock type:* basalt   
+*Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* permanent ice  
-*Comments:* lava dated 0.512Myr  
+*Comments:* lava dated 0.512Myr; about 1m thick sheet of ice covers floor  
 [Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8](https://doi.org/10.1016/B978-0-12-811739-2.00021-8)   
-Wood and Zhang (2010) Proc. 14th Int. Symp. Vulcanospeleology  
+[Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf](http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf)   
 
 ---  
-<a name="CN-6bb237902ba119c469156da702148fb6"></a>
-China - Heilongjiang province  
+<a name="CN-84bd5ee330b2dae6b6bc29e1578a3527"></a>
+China - Heilongjiang province - East Jiaodebushan volcano  
 *Cave Name(s):* **Ice Cave**  
 *Length:*  >150m *Vertical extent:* 23m   
+*Cave type:* lava tunnel  
 *Contents:* permanent ice  
+*Comments:* walls are covered with ice crystals  
 [Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8](https://doi.org/10.1016/B978-0-12-811739-2.00021-8)   
-Wood and Zhang (2010) Proc. 14th Int. Symp. Vulcanospeleology  
+[Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf](http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf)   
 
 ---  
-<a name="CN-46be722a2420e9e67e2a9f3032a72dde"></a>
-China - Heilongjiang province  
-*Cave Name(s):* **Gubingdong Cave** Ancient Ice Cave  
+<a name="CN-cfb7065cacd98c2c40fbb5ffeca329b6"></a>
+China - Heilongjiang province; Mudanjiang district  
+*Cave Name(s):* **Gubingdong Cave** Ancient Ice Cave *Id:* N44E128C-005  
 *Coordinates:* [43.8488, +129.8488](https://maps.google.com/?ll=43.8488,129.8488) *altitude:* 800  
+*Cave type:* lava tunnel  
 *Contents:* permanent ice  
 [Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8](https://doi.org/10.1016/B978-0-12-811739-2.00021-8)   
-Wood and Zhang (2010) Proc. 14th Int. Symp. Vulcanospeleology  
+[Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf](http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf)   
+[Steiner and Laumanns (2019) https://www.vdhk.de/fileadmin/pdf/mitteilungen/Mitteilungen-2019-3-4.pdf](https://www.vdhk.de/fileadmin/pdf/mitteilungen/Mitteilungen-2019-3-4.pdf)   
 
 ---  
 <a name="CN-b5a880813a354dc11e07fae198a73830"></a>
@@ -4324,7 +4330,7 @@ Russia - Pribaikalye and Transbaikalia; Lake Baikal
 *Contents:* permanent ice  
 *Comments:* congelation ice, sublimation ice, snow banks  
 [Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7](https://doi.org/10.1016/B978-0-12-811739-2.00026-7)   
-Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves  
+[Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf](http://www.ssj.sk/en/user_files/IWIC_2_77.pdf)   
 
 ---  
 <a name="RU-1bd37ca9e225fad9a823963fae3ac8d4"></a>
@@ -4463,7 +4469,7 @@ Russia - Lake Baikal
 *Length:* 45m *Vertical extent:* 11m   
 *Contents:* permanent ice  
 *Comments:* congelation ice, sublimated ice  
-Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves  
+[Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf](http://www.ssj.sk/en/user_files/IWIC_2_77.pdf)   
 [Trofimova (2019) doi:10.1007/s12665-019-8116-4](https://doi.org/10.1007/s12665-019-8116-4)   
 
 ---  
@@ -4472,7 +4478,7 @@ Russia - Lake Baikal
 *Cave Name(s):* **Malaya Baidinskaya**  
 *Length:* 55m *Vertical extent:* 8m   
 *Contents:* permanent ice  
-Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves  
+[Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf](http://www.ssj.sk/en/user_files/IWIC_2_77.pdf)   
 
 ---  
 <a name="RU-1536e4b797c5bc3fe112134370c5c5ca"></a>
@@ -4480,7 +4486,7 @@ Russia - Lake Baikal
 *Cave Name(s):* **Iya**  
 *Length:* 578m *Vertical extent:* 32m   
 *Contents:* permanent ice  
-Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves  
+[Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf](http://www.ssj.sk/en/user_files/IWIC_2_77.pdf)   
 
 ---  
 <a name="RU-413f521bc1e11d3678374b8218bf9836"></a>
@@ -4489,7 +4495,7 @@ Russia - Lake Baikal
 *Length:* 450m *Vertical extent:* 57m   
 *Contents:* permanent ice  
  *Part of* Cave System Aya-Ryadovaya  
-Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves  
+[Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf](http://www.ssj.sk/en/user_files/IWIC_2_77.pdf)   
 
 ---  
 <a name="RU-cabd97893ec2c931a7ca245b5f1e6300"></a>
@@ -4497,7 +4503,7 @@ Russia - Lake Baikal
 *Cave Name(s):* **Vologodskogo**  
 *Length:* 46m *Vertical extent:* 17m   
 *Contents:* permanent ice  
-Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves  
+[Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf](http://www.ssj.sk/en/user_files/IWIC_2_77.pdf)   
 
 ---  
 <a name="RU-04a015bd4490f50ec6d1e33518126496"></a>
@@ -4505,7 +4511,7 @@ Russia - Lake Baikal
 *Cave Name(s):* **Zagadai**  
 *Length:* 600m *Vertical extent:* 20m   
 *Contents:* permanent ice  
-Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves  
+[Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf](http://www.ssj.sk/en/user_files/IWIC_2_77.pdf)   
 
 ---  
 <a name="RU-0e059b6765f68158021dfee44cc87217"></a>
@@ -4513,7 +4519,7 @@ Russia - Lake Baikal
 *Cave Name(s):* **Ice Burun**  
 *Length:* 67m *Vertical extent:* 45m   
 *Contents:* permanent ice  
-Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves  
+[Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf](http://www.ssj.sk/en/user_files/IWIC_2_77.pdf)   
 
 ---  
 <a name="RU-c7af2a69f9f84e0c36c9332cb3245d08"></a>
@@ -5578,8 +5584,8 @@ United States of America - Oregon; Deschutes County - Horse Lava Tube System
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1365](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1365)   
 
 ---  
-<a name="US-2b454c94e4b54877038c4ba386cbd146"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands  
+<a name="US-6af2815a8f4a1eaf25f4646a46c0998f"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Double Crater  
 *Cave Name(s):* **Alarming Extension**  
 *Length:* 508m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -5620,8 +5626,8 @@ United States of America - Idaho; Gooding County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1049](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1049)   
 
 ---  
-<a name="US-86ac224ff5e81c876c8e1734d02acec8"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands  
+<a name="US-ca280801e715191ddbcf8276db182421"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Double Hole Crater  
 *Cave Name(s):* **Amazing Pits Cave**  
 *Length:* 132m   
 *Cave type:* lava tunnel  
@@ -5775,8 +5781,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=460](https://rpif.asu.edu/LTdatabase/result.php?RECNO=460)   
 
 ---  
-<a name="US-2f643ee77728e22d269564e46926897b"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands  
+<a name="US-2d8f1d14a89bed00813da3e31da6502c"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Double Hole Crater  
 *Cave Name(s):* **Animal Track Cave**  
 *Length:* 46m   
 *Cave type:* lava tunnel  
@@ -5920,8 +5926,8 @@ United States of America - Idaho
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1105](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1105)   
 
 ---  
-<a name="US-66eb869caf85b6484020afce812b2955"></a>
-United States of America - Hawaii; Ka'u District - Hawaii Island; Hilina Pali; Charcoal cave system  
+<a name="US-d0be8ec3e03f6e0be2e05c63b9eeb6f2"></a>
+United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea; Hilina Pali; Charcoal cave system  
 *Cave Name(s):* **Ash Crawl Cave**  
 *Length:* 117m   
 *Cave type:* lava tunnel  
@@ -7424,6 +7430,61 @@ China - Tengchong volcanic field
 [Chen et al. (2016) doi:10.5038/1827-806X.45.3.1987](https://doi.org/10.5038/1827-806X.45.3.1987)   
 [Zhalov (2014) https://digital.lib.usf.edu/content/SF/S0/05/37/18/00001/K26-03269-BSC2014_Proceed.pdf#page=30](https://digital.lib.usf.edu/content/SF/S0/05/37/18/00001/K26-03269-BSC2014_Proceed.pdf#page=30)   
 [Zhalov and Bonev (2012) http://neu.agsr.ch/wordpress/wp-content/uploads/093ZhalovuBonevBulgarianChineseExpe.pdf](http://neu.agsr.ch/wordpress/wp-content/uploads/093ZhalovuBonevBulgarianChineseExpe.pdf)   
+
+---  
+<a name="CN-513e1fcc39a66c8637c4b4f79221c83c"></a>
+China - Heilongjiang - Wudalianchi volanic field; Loaheishan volcano  
+*Cave Name(s):* **Fairy Palace Cave** Fairy Maiden Palace Cave  
+*Length:* 226m   
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Comments:* flow of 1720-21  
+[Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf](http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf)   
+
+---  
+<a name="CN-b2d2004128e4b573f2e9cd8a61784eff"></a>
+China - Heilongjiang - Wudalianchi volanic field; Loaheishan volcano  
+*Cave Name(s):* **Waterfall Palace Cave**  
+*Length:* 26m   
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Comments:* flow of 1720-21  
+[Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf](http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf)   
+
+---  
+<a name="CN-c3e5d33da69b96825faf66b7795a0ba8"></a>
+China - Heilongjiang province; Mudanjiang district - Jingpohu Global Geopark  
+*Cave Name(s):* **Weihuting Cave (Tiger Hall Cave)** *Id:* N44E128C-003  
+*Length:* ~50m   
+*Cave type:* lava tunnel  
+[Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf](http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf)   
+[Steiner and Laumanns (2019) https://www.vdhk.de/fileadmin/pdf/mitteilungen/Mitteilungen-2019-3-4.pdf](https://www.vdhk.de/fileadmin/pdf/mitteilungen/Mitteilungen-2019-3-4.pdf)   
+
+---  
+<a name="CN-c62a7e437e39cebb969f09d6ba142890"></a>
+China - Heilongjiang province  
+*Cave Name(s):* **Longyandongtian Cave (Dragon Rock Cave)**  
+*Cave type:* lava tunnel  
+[Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf](http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf)   
+
+---  
+<a name="CN-f1ace17cbfa7d1aaf8b5c0dd4d8cc9eb"></a>
+China - Heilongjiang province  
+*Cave Name(s):* **Shenshui Cave (Driven Water Cave)**  
+*Cave type:* lava tunnel  
+[Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf](http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf)   
+
+---  
+<a name="CN-3092c522ed350783a2098465eee514c2"></a>
+China - Heilongjiang province  
+*Cave Name(s):* **Jimei Cave (Sisters Cave)**  
+*Cave type:* lava tunnel  
+[Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf](http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf)   
+
+---  
+<a name="CN-fd17bd82340c1bbe27b4213d2b6d1724"></a>
+China - Heilongjiang province  
+*Cave Name(s):* **Kanlianmiying Cave**  
+*Cave type:* lava tunnel  
+[Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf](http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf)   
 
 ---  
 <a name="US-dbb97e5ed9ada45856aa0e039a6c2ed0"></a>
@@ -10198,8 +10259,8 @@ Australia - Queensland - Undara
 [Atkinson et al. (1975) doi:10.1007/BF02597832](https://doi.org/10.1007/BF02597832)   
 
 ---  
-<a name="US-bd8cab02f7da8ecf892cb9a7f17bf3da"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands  
+<a name="US-db41c99bba6e9dc5cef6b96d3454622c"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Giant Crater  
 *Cave Name(s):* **Greeley's Pit**  
 *Length:* 20m   
 *Cave type:* lava tunnel  
@@ -12653,8 +12714,8 @@ United States of America - Washington; Skamania County - Mount St. Helens
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1704](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1704)   
 
 ---  
-<a name="US-b22ae8552666b6804e5b5af38ec293a2"></a>
-United States of America - Oregon - Lava Top Butte  
+<a name="US-72382f8a8ab6a76451577d12f8018012"></a>
+United States of America - Oregon; Deschutes County - Lava Top Butte  
 *Cave Name(s):* **Lava Top Butte Ice Cave**  
 *Length:* 55m   
 *Cave type:* lava tunnel  
@@ -12844,8 +12905,8 @@ United States of America - Washington; Skamania County - Mount St. Helens
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1707](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1707)   
 
 ---  
-<a name="US-1f1f9f0271983f9be185e9ec89796534"></a>
-United States of America - Oregon - Lava Top Butte  
+<a name="US-4426085c501b05cee19d20cd779488f4"></a>
+United States of America - Oregon; Deschutes County - Lava Top Butte  
 *Cave Name(s):* **Log Crib Cave**  
 *Length:* 40m   
 *Cave type:* lava tunnel  
@@ -13468,7 +13529,7 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0](https://doi.org/10.1016/B978-0-12-811739-2.00031-0)   
 [Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14](https://doi.org/10.4461/GFDQ.2014.37.14)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=610](https://rpif.asu.edu/LTdatabase/result.php?RECNO=610)   
-Fuhrmann (2007) J. Cave Karst Studie, 69(2), 256-265  
+Fuhrmann (2007) J. Cave Karst Studies 69(2), 256-265  
 [Smith (2014) https://scholarcommons.usf.edu/iwic/Proceedings/Climate_Microclimates_Cave_Ice/6/](https://scholarcommons.usf.edu/iwic/Proceedings/Climate_Microclimates_Cave_Ice/6/)   
 *Cave use:* self-guided tourist cave  
 
@@ -14031,7 +14092,7 @@ United States of America - Idaho; Butte County - Craters of the Moon
 United States of America - Washington; Skamania County  
 *Cave Name(s):* **New Cave**  
 *Length:* 2179m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1746](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1746)   
 
 ---  
@@ -15580,7 +15641,7 @@ United States of America - Idaho; Lincoln County
 United States of America - Oregon; Deschutes County  
 *Cave Name(s):* **Round Mountain Lava Cave**  
 *Length:* 12m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1254](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1254)   
 
 ---  
@@ -16139,8 +16200,8 @@ United States of America - Idaho; Lincoln County - Black Butte
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1079](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1079)   
 
 ---  
-<a name="US-6c8bc1ab2cbed53010c28258a07171aa"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands  
+<a name="US-64d1cfe1951bbe43f83687a7b5e1261d"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Giant Crater  
 *Cave Name(s):* **Shovel Cave** Arch Sink  
 *Length:* 393m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -16955,7 +17016,7 @@ Syria
 *Length:* 562m   
 *Cave type:* lava tunnel  
 *Comments:* less than 4kyr old  
-Tawk et al. (2009) Proc. 15th Intern. Congress Speleology, p724-729  
+Tawk et al. (2009) Proc. 15th Int. Congress Speleology, p724-729  
 
 ---  
 <a name="SY-ba5df02d0ad9fec7f757591fd60bc22c"></a>
@@ -16963,7 +17024,7 @@ Syria
 *Cave Name(s):* **Umm ar Rumman**  
 *Length:* 1615m   
 *Cave type:* lava tunnel  
-Tawk et al. (2009) Proc. 15th Intern. Congress Speleology, p724-729  
+Tawk et al. (2009) Proc. 15th Int. Congress Speleology, p724-729  
 
 ---  
 <a name="US-23728e6758db047d289a5466a55b8b31"></a>
@@ -17134,7 +17195,7 @@ United States of America - Hawaii - Hawaii Island; Kilauea
 *Length:* 593m *Vertical extent:* 20m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=779](https://rpif.asu.edu/LTdatabase/result.php?RECNO=779)   
-Kempe and Henschel (2009) Proc. 15th Congr. Speleology  
+Kempe and Henschel (2009) Proc. 15th Int. Congr. Speleology  
 *Cave use:* self-guided tourist cave  
 
 ---  
@@ -17164,8 +17225,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 
 ---  
-<a name="US-d4fa7d94479ce9ec2672c71142ff9bca"></a>
-United States of America - Oregon - Lava Top Butte  
+<a name="US-2399b50b34ee21eb23ca6923fcb01109"></a>
+United States of America - Oregon; Deschutes County - Lava Top Butte  
 *Cave Name(s):* **Tie Cave**  
 *Length:* 24m   
 *Cave type:* lava tunnel  
@@ -18031,16 +18092,16 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=542](https://rpif.asu.edu/LTdatabase/result.php?RECNO=542)   
 
 ---  
-<a name="US-d9c7071c056c485e2c2303c99b075aca"></a>
+<a name="US-c7d3d44f543e5649e329c4d0b04a5c2d"></a>
 United States of America - Idaho; Blaine County - Wedge Butte  
-*Cave Name(s):* **Wedge Butte Cave #1/West**  
+*Cave Name(s):* **Wedge Butte Cave West**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1015](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1015)   
 
 ---  
-<a name="US-a5cd0a97b5c41ce51c6c574709b04c13"></a>
+<a name="US-e78163d559f35e4bc56eebe38db7ce27"></a>
 United States of America - Idaho; Blaine County - Wedge Butte  
-*Cave Name(s):* **Wedge Butte Cave #2/East**  
+*Cave Name(s):* **Wedge Butte Cave East**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1016](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1016)   
 
@@ -18241,8 +18302,8 @@ Australia - Queensland - Undara
 [Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf](http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf)   
 
 ---  
-<a name="US-6c0f448536d5d82ca855b501f1662faa"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands  
+<a name="US-c4b372e88c6e9c2b10ecd9503a57c148"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Giant Crater  
 *Cave Name(s):* **Winding Sidewalk Cave**  
 *Length:* 245m   
 *Cave type:* lava tunnel  
@@ -18604,11 +18665,13 @@ United States of America - Hawaii; Ka'u District - Hawaii Island
 <a name="US-2fe4578a1aaf2189753e0ddfdd6ad29a"></a>
 United States of America - Hawaii - Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a; Henahena lava tubes  
 *Cave Name(s):* **Delissea Cave System**  
+*altitude:* 820-2200  
 *Length:*  >64700m *Vertical extent:*  >1500m   
 *Cave type:* lava tunnel  
 [http://www.vulcanospeleology.org/newsletters/Vulcano76%20July%202020%20Hi%20ResV2.pdf](http://www.vulcanospeleology.org/newsletters/Vulcano76%20July%202020%20Hi%20ResV2.pdf)   
 [Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf](http://www.cavepics.com/IVS17/MEDVILLE.pdf)   
 [https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf](https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf)   
+[Richards et al. (2018) http://www.vulcanospeleology.org/sym18/Proceedings/Richards.pdf](http://www.vulcanospeleology.org/sym18/Proceedings/Richards.pdf)   
 
 ---  
 <a name="US-292ddf24a5d30b3d7cfcefbf1fd23f81"></a>
@@ -18785,8 +18848,8 @@ United States of America - Hawaii; Kaui County - Ka'ula Island
 [https://en.wikipedia.org/wiki/Ka%CA%BBula](https://en.wikipedia.org/wiki/Ka%CA%BBula)   
 
 ---  
-<a name="VN-e4e0b8742911bfff10e7cd340a14435e"></a>
-Viet Nam - Dak Sor  
+<a name="VN-f389729e7c7038e5e44ad429d6cc498c"></a>
+Viet Nam - Đắk Nông; Dak Sor  
 *Cave Name(s):* **C0**  
 *Coordinates:* [12.52186, +107.89246](https://maps.google.com/?ll=12.52186,107.89246)   
 *Length:* 476m *Vertical extent:* 15m   
@@ -18796,16 +18859,17 @@ Viet Nam - Dak Sor
 [Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf](http://www.cavepics.com/IVS17/HONDAIII.pdf)   
 
 ---  
-<a name="VN-4f38624c74a105874977af7af0deee98"></a>
-Viet Nam - Dak Sor  
+<a name="VN-95294be47834d825de40a616dcc80f66"></a>
+Viet Nam - Đắk Nông; Dak Sor  
 *Cave Name(s):* **C1, C2**  
 *Length:* 402m *Vertical extent:* 4m   
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
+[Honda et al. (2018) http://www.vulcanospeleology.org/sym18/Proceedings/Honda_V.pdf](http://www.vulcanospeleology.org/sym18/Proceedings/Honda_V.pdf)   
 
 ---  
-<a name="VN-ef16277508651e74ba260f711e85b185"></a>
-Viet Nam - Dak Sor  
+<a name="VN-25a95bae476fbe026a2cf8d83367d1c2"></a>
+Viet Nam - Đắk Nông; Dak Sor  
 *Cave Name(s):* **C3**  
 *Coordinates:* [12.51732, +107.89646](https://maps.google.com/?ll=12.51732,107.89646)   
 *Length:* 716m *Vertical extent:* 7m   
@@ -18814,8 +18878,8 @@ Viet Nam - Dak Sor
 [Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf](http://www.cavepics.com/IVS17/HONDAIII.pdf)   
 
 ---  
-<a name="VN-282b48e06e319e5b3cd4daafd11145a6"></a>
-Viet Nam - Dak Sor  
+<a name="VN-bdf39a2f5b830e516ed006675d638ea6"></a>
+Viet Nam - Đắk Nông; Dak Sor  
 *Cave Name(s):* **C4**  
 *Length:* 252m *Vertical extent:* 9m   
 *Cave type:* lava tunnel  
@@ -18823,8 +18887,8 @@ Viet Nam - Dak Sor
 [Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf](http://www.cavepics.com/IVS17/HONDAIII.pdf)   
 
 ---  
-<a name="VN-d7befb214f67c6d32ccc9f3c7196c820"></a>
-Viet Nam - Dak Sor  
+<a name="VN-5b2ca85406df419155865b994f589ab5"></a>
+Viet Nam - Đắk Nông; Dak Sor  
 *Cave Name(s):* **C6**  
 *Length:* 180m *Vertical extent:* 4m   
 *Cave type:* lava tunnel  
@@ -18832,8 +18896,8 @@ Viet Nam - Dak Sor
 [Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf](http://www.cavepics.com/IVS17/HONDAIII.pdf)   
 
 ---  
-<a name="VN-e29e335ed0cf4891122c022dda23ca53"></a>
-Viet Nam - Nam Da  
+<a name="VN-c54e0a4c833e5ed8c606cf7242d5c897"></a>
+Viet Nam - Đắk Nông; Nam Da  
 *Cave Name(s):* **C6.1**  
 *Length:* 294m *Vertical extent:* 5m   
 *Cave type:* lava tunnel  
@@ -18841,8 +18905,8 @@ Viet Nam - Nam Da
 [Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf](http://www.cavepics.com/IVS17/HONDAIII.pdf)   
 
 ---  
-<a name="VN-9c8957b15d1d30e31c53f8f3ad4ecf33"></a>
-Viet Nam - Nam Da  
+<a name="VN-d55999c1be1dcbb42091185c490f26b5"></a>
+Viet Nam - Đắk Nông; Nam Da  
 *Cave Name(s):* **C7**  
 *Coordinates:* [12.51423, +107.90976](https://maps.google.com/?ll=12.51423,107.90976)   
 *Length:* 1067m *Vertical extent:* ~15m   
@@ -18850,8 +18914,8 @@ Viet Nam - Nam Da
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
 
 ---  
-<a name="VN-70d57f34c70fe5560144c7aa4c75a40e"></a>
-Viet Nam - Buon Choa'h  
+<a name="VN-68dd1fc0ddcda738ffddff78fc2ef7cf"></a>
+Viet Nam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **C8**  
 *Length:* 791m *Vertical extent:* 24m   
 *Cave type:* lava tunnel  
@@ -18859,8 +18923,8 @@ Viet Nam - Buon Choa'h
 [Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf](http://www.cavepics.com/IVS17/HONDAIII.pdf)   
 
 ---  
-<a name="VN-ff9825ccccbe980c6711a67d222afde7"></a>
-Viet Nam - Buon Choa'h  
+<a name="VN-d2ba36e10b09951202efe66cd008de8b"></a>
+Viet Nam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **C9**  
 *Length:* 217m *Vertical extent:* 23m   
 *Cave type:* lava tunnel  
@@ -18868,40 +18932,40 @@ Viet Nam - Buon Choa'h
 [Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf](http://www.cavepics.com/IVS17/HONDAIII.pdf)   
 
 ---  
-<a name="VN-9ce0d6d339cca65d27e4ec3f492c5ded"></a>
-Viet Nam - Buon Choa'h  
+<a name="VN-7732b52f03903fc987f77dde19d382b3"></a>
+Viet Nam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **P1, P2**  
 *Length:* 531m *Vertical extent:* ~15m   
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
 
 ---  
-<a name="VN-f449c80ef79fbc48aad94683824745b4"></a>
-Viet Nam - Nam Da  
+<a name="VN-16db1dcd245e800ed1c6d26f2bbf36f2"></a>
+Viet Nam - Đắk Nông; Nam Da  
 *Cave Name(s):* **P8**  
 *Length:* 344m *Vertical extent:* 26m   
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
 
 ---  
-<a name="VN-ae83368ba3972f2c01c69f823fcdef5e"></a>
-Viet Nam - Buon Choa'h  
+<a name="VN-4dca015d0354db421a528bbb8d03f870"></a>
+Viet Nam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **P11**  
 *Length:* 498m *Vertical extent:* ~8m   
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
 
 ---  
-<a name="VN-332e5988abbce5af77945d02409d3e04"></a>
-Viet Nam - Nam Da  
+<a name="VN-9765576d832e719995d97f727bb2b0c7"></a>
+Viet Nam - Đắk Nông; Nam Da  
 *Cave Name(s):* **P20**  
 *Length:* 568m *Vertical extent:* 25m   
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
 
 ---  
-<a name="VN-06d1131036092ff5a5af76bddf608b7f"></a>
-Viet Nam - Buon Choa'h  
+<a name="VN-2b8d234bd84c1b49615d5f5cf4f309e6"></a>
+Viet Nam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **A1**  
 *Length:* 439m *Vertical extent:* 10m   
 *Cave type:* lava tunnel  
@@ -18909,40 +18973,40 @@ Viet Nam - Buon Choa'h
 [Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf](http://www.cavepics.com/IVS17/HONDAIII.pdf)   
 
 ---  
-<a name="VN-c60c188b9ded679d492426add1fddaf5"></a>
-Viet Nam - Buon Choa'h  
+<a name="VN-7b821d59458ca858cea1ff4b6cf642da"></a>
+Viet Nam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **P3**  
 *Length:* 81m *Vertical extent:* 5m   
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
 
 ---  
-<a name="VN-2d6b3ae46e129ac79b479c3d5540d3a6"></a>
-Viet Nam - Buon Choa'h  
+<a name="VN-be3ad1093a6701e009bb7c49a0595471"></a>
+Viet Nam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **P5 (PT07)**  
 *Length:* 204m *Vertical extent:* 4m   
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
 
 ---  
-<a name="VN-835442bf37f073d33a4fa61a182d3966"></a>
-Viet Nam - Nam Da  
+<a name="VN-a06310ea728f1ed7fa1c5fd64276aee1"></a>
+Viet Nam - Đắk Nông; Nam Da  
 *Cave Name(s):* **P10E, P10W**  
 *Length:* 160m *Vertical extent:* 5m   
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
 
 ---  
-<a name="VN-91a30f2b8bc2c6e7e7dc4f2a5f7be624"></a>
-Viet Nam - Dak Dro  
+<a name="VN-932941365516bf3c11fc17663a0376ac"></a>
+Viet Nam - Đắk Nông; Dak Dro  
 *Cave Name(s):* **PT06**  
 *Length:* 200m *Vertical extent:* 5m   
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
 
 ---  
-<a name="VN-a03236f81547b12146796f262b7e0a57"></a>
-Viet Nam - Buon Choa'h  
+<a name="VN-39c6d104bc3e95298c9ac1a6d9efc9a4"></a>
+Viet Nam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **T1W**  
 *Length:* 303m *Vertical extent:* 16m   
 *Cave type:* lava tunnel  

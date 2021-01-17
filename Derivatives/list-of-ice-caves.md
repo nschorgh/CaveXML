@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 519 rock-hosted caves with perennial ice was generated from a CaveXML database. - Jan 3, 2021
+This list of 519 rock-hosted caves with perennial ice was generated from a CaveXML database. - Jan 17, 2021
 
 Austria - Oberösterreich - Dachstein [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-09ce958d127174017149d8adf1a2db30)  
 Austria - Oberösterreich - Dachstein [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-8cc53615b4bc61060a96e8087ea79ae4)  
@@ -53,9 +53,9 @@ Canada - Yukon - Ni’iinlii Njik; Old Crow [**Caverne ‘85** ](allcaves-databa
 Canada - Yukon - Ni’iinlii Njik; Old Crow [**Caverne des Meandres** ](allcaves-database.md#CA-f7be733469fe8b52102fdfa342af3672)  
 Canada - Yukon - Ni’iinlii Njik; Old Crow [**Grande Caverne Glacee** ](allcaves-database.md#CA-20c195e3498e7164f7f7edebc89e7e16)  
 Canada - Yukon - Ni’iinlii Njik; Old Crow [**Tsi Tse Han Cave** ](allcaves-database.md#CA-2736bb0b914caab976236f8e4eed89ac)  
-China - Heilongjiang province [**Gubingdong Cave** Ancient Ice Cave ](allcaves-database.md#CN-46be722a2420e9e67e2a9f3032a72dde)  
-China - Heilongjiang province [**Ice Cave** ](allcaves-database.md#CN-6bb237902ba119c469156da702148fb6)  
-China - Heilongjiang province [**Underground Ice Cave** ](allcaves-database.md#CN-8b26f301da3320b3f89e49bd34203978)  
+China - Heilongjiang province - East Jiaodebushan volcano [**Ice Cave** ](allcaves-database.md#CN-84bd5ee330b2dae6b6bc29e1578a3527)  
+China - Heilongjiang province - East Jiaodebushan volcano [**Underground Ice Cave** ](allcaves-database.md#CN-1ecd2083a556393ea79c285e27bc46be)  
+China - Heilongjiang province; Mudanjiang district [**Gubingdong Cave** Ancient Ice Cave N44E128C-005](allcaves-database.md#CN-cfb7065cacd98c2c40fbb5ffeca329b6)  
 China - Heilongjiang province - Wudalianchi National Geological Park [**Bailong (White Dragon)** Ice Cave Vudalyanchi; Wudalianchi Ice Cave; Lava ice cave of Heihe ](allcaves-database.md#CN-a47d5d1f2a34e3d0cee97b86efcb443c)  
 China - Heilongjiang province - Wudalianchi National Geological Park [**Shuijinggong (Crystal Palace)** Ice Cave Vudalyanchi; Wudalianchi Ice Cave; Lava ice cave of Heihe ](allcaves-database.md#CN-c3eb92fe1890843fa309649739ea5459)  
 China - Shanxi Province - Guancen Mountain [**Cave Ningwu** ](allcaves-database.md#CN-28b908226b2c3637814b6b68d8c3da57)  
@@ -527,6 +527,9 @@ List of Volcanic Ice Caves
 ==========================
 List of ice caves that are also lava tubes.
 
+China - Heilongjiang province - East Jiaodebushan volcano [**Ice Cave** ](allcaves-database.md#CN-84bd5ee330b2dae6b6bc29e1578a3527)  
+China - Heilongjiang province - East Jiaodebushan volcano [**Underground Ice Cave** ](allcaves-database.md#CN-1ecd2083a556393ea79c285e27bc46be)  
+China - Heilongjiang province; Mudanjiang district [**Gubingdong Cave** Ancient Ice Cave N44E128C-005](allcaves-database.md#CN-cfb7065cacd98c2c40fbb5ffeca329b6)  
 Iceland - Ketildyngjuhraun [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-821cd9d6657c9e9ee20d802b697c3ee7)  
 Iceland - Myrasysla County - Hallmundarhraun [**Surtshellir** Surtshellir-Stefanshellir Cave System ](allcaves-database.md#IS-cfd58b66d7080bc2f98c4a0c695ec018)  
 Iceland - Myrasysla County - Hallmundarhraun [**Víðgelmir** ](allcaves-database.md#IS-8b2fdd9758744f258da5018ced142dc7)  

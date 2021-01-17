@@ -255,9 +255,9 @@
       "branch-name": "Kolowrathöhle",
       "branch-name": "Gamslöcher",
       "branch-name": "Salzburgerschacht",
-      "reference": "Die Höhle 57 (2006)",
+      "reference": "Die Höhle 57 (2006) https://www.zobodat.at/pdf/Hoehle_057_0090-0102.pdf",
       "reference": "Die Höhle 61 (2010) https://www.zobodat.at/pdf/Hoehle_061_0102-0108.pdf",
-      "reference": "Die Höhle 63 (2012)",
+      "reference": "Die Höhle 63 (2012) https://www.zobodat.at/pdf/Hoehle_063_0032-0037.pdf",
       "reference": "Neubauer (2010) DOI:10.5038/1827-806X.40.2.4",
       "reference": "https://hoehle.org/laengste-tiefste",
       "reference": "Bieniok et al. (2011) doi:10.5038/1827-806X.40.2.4"
@@ -5718,6 +5718,8 @@
       "reference": "Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2",
       "reference": "http://www.ssj.sk/en/jaskyna/6-dobsinska-ice-cave",
       "reference": "Gradzinski et al. doi:10.14241/asgp.2016.016",
+      "reference": "Pflitsch et al. (2006) http://www.ssj.sk/en/user_files/IWIC_2_38.pdf",
+      "reference": "Bella (2006) http://www.ssj.sk/en/user_files/IWIC_2_15.pdf",
       "cave-use": "guided tourist cave"
     },
 
@@ -6427,7 +6429,7 @@
     {
       "country-name": "China",
       "state-or-province": "Heilongjiang province",
-      "phys-area-name": [],
+      "phys-area-name": "East Jiaodebushan volcano",
       "principal-cave-name": "Underground Ice Cave",
       "other-cave-name": [],
       "latitude": 48.7364,
@@ -6436,16 +6438,17 @@
       "length": 515,
       "vertical-extent": [],
       "rock-type": "basalt",
+      "cave-type": "lava tunnel",
       "contents": "permanent ice",
-      "comments": "lava dated 0.512Myr",
+      "comments": "lava dated 0.512Myr; about 1m thick sheet of ice covers floor",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
-      "reference": "Wood and Zhang (2010) Proc. 14th Int. Symp. Vulcanospeleology"
+      "reference": "Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf"
     },
 
     {
       "country-name": "China",
       "state-or-province": "Heilongjiang province",
-      "phys-area-name": [],
+      "phys-area-name": "East Jiaodebushan volcano",
       "principal-cave-name": "Ice Cave",
       "other-cave-name": [],
       "latitude": [],
@@ -6453,27 +6456,31 @@
       "altitude": [],
       "length": " >150",
       "vertical-extent": 23,
+      "cave-type": "lava tunnel",
       "contents": "permanent ice",
-      "comments": [],
+      "comments": "walls are covered with ice crystals",
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
-      "reference": "Wood and Zhang (2010) Proc. 14th Int. Symp. Vulcanospeleology"
+      "reference": "Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf"
     },
 
     {
       "country-name": "China",
-      "state-or-province": "Heilongjiang province",
+      "state-or-province": "Heilongjiang province; Mudanjiang district",
       "phys-area-name": [],
       "principal-cave-name": "Gubingdong Cave",
       "other-cave-name": "Ancient Ice Cave",
+      "cave-id": "N44E128C-005",
       "latitude": 43.8488,
       "longitude": 129.8488,
       "altitude": 800,
       "length": [],
       "vertical-extent": [],
+      "cave-type": "lava tunnel",
       "contents": "permanent ice",
       "comments": [],
       "reference": "Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8",
-      "reference": "Wood and Zhang (2010) Proc. 14th Int. Symp. Vulcanospeleology"
+      "reference": "Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf",
+      "reference": "Steiner and Laumanns (2019) https://www.vdhk.de/fileadmin/pdf/mitteilungen/Mitteilungen-2019-3-4.pdf"
     },
 
     {
@@ -7204,7 +7211,7 @@
       "contents": "permanent ice",
       "comments": "congelation ice, sublimation ice, snow banks",
       "reference": "Mavlyudov and Kadebskaya (2018) doi:10.1016/B978-0-12-811739-2.00026-7",
-      "reference": "Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves"
+      "reference": "Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf"
     },
 
     {
@@ -7454,7 +7461,7 @@
       "vertical-extent": 11,
       "contents": "permanent ice",
       "comments": "congelation ice, sublimated ice",
-      "reference": "Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves",
+      "reference": "Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf",
       "reference": "Trofimova (2019) doi:10.1007/s12665-019-8116-4"
     },
 
@@ -7467,7 +7474,7 @@
       "length": 55,
       "vertical-extent": 8,
       "contents": "permanent ice",
-      "reference": "Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves"
+      "reference": "Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf"
     },
 
     {
@@ -7479,7 +7486,7 @@
       "length": 578,
       "vertical-extent": 32,
       "contents": "permanent ice",
-      "reference": "Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves"
+      "reference": "Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf"
     },
 
     {
@@ -7492,7 +7499,7 @@
       "vertical-extent": 57,
       "contents": "permanent ice",
       "cave-system": "Cave System Aya-Ryadovaya",
-      "reference": "Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves"
+      "reference": "Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf"
     },
 
     {
@@ -7504,7 +7511,7 @@
       "length": 46,
       "vertical-extent": 17,
       "contents": "permanent ice",
-      "reference": "Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves"
+      "reference": "Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf"
     },
 
     {
@@ -7516,7 +7523,7 @@
       "length": 600,
       "vertical-extent": 20,
       "contents": "permanent ice",
-      "reference": "Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves"
+      "reference": "Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf"
     },
 
     {
@@ -7528,7 +7535,7 @@
       "length": 67,
       "vertical-extent": 45,
       "contents": "permanent ice",
-      "reference": "Trofimova (2006) Proc. 2nd Intern. Workshop on Ice Caves"
+      "reference": "Trofimova (2006) Proc. 2nd Int. Workshop on Ice Caves http://www.ssj.sk/en/user_files/IWIC_2_77.pdf"
     },
 
     {
@@ -9275,7 +9282,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Medicine Lake Highlands",
+      "phys-area-name": "Medicine Lake Highlands; Double Crater",
       "principal-cave-name": "Alarming Extension",
       "length": 508,
       "rock-type": "basalt",
@@ -9332,7 +9339,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Medicine Lake Highlands",
+      "phys-area-name": "Medicine Lake Highlands; Double Hole Crater",
       "principal-cave-name": "Amazing Pits Cave",
       "length": 132,
       "cave-type": "lava tunnel",
@@ -9549,7 +9556,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Medicine Lake Highlands",
+      "phys-area-name": "Medicine Lake Highlands; Double Hole Crater",
       "principal-cave-name": "Animal Track Cave",
       "length": 46,
       "cave-type": "lava tunnel",
@@ -9744,7 +9751,8 @@
     {
       "country-name": "United States of America",
       "state-or-province": "Hawaii; Ka'u District",
-      "phys-area-name": "Hawaii Island; Hilina Pali; Charcoal cave system",
+      "phys-area-name": "Hawaii Island; Kilauea",
+      "phys-area-name": "Hilina Pali; Charcoal cave system",
       "principal-cave-name": "Ash Crawl Cave",
       "length": 117,
       "cave-type": "lava tunnel",
@@ -11872,6 +11880,104 @@
       "reference": "Chen et al. (2016) doi:10.5038/1827-806X.45.3.1987",
       "reference": "Zhalov (2014) https://digital.lib.usf.edu/content/SF/S0/05/37/18/00001/K26-03269-BSC2014_Proceed.pdf#page=30",
       "reference": "Zhalov and Bonev (2012) http://neu.agsr.ch/wordpress/wp-content/uploads/093ZhalovuBonevBulgarianChineseExpe.pdf"
+    },
+
+    {
+      "country-name": "China",
+      "state-or-province": "Heilongjiang",
+      "phys-area-name": "Wudalianchi volanic field; Loaheishan volcano",
+      "principal-cave-name": "Fairy Palace Cave",
+      "other-cave-name": "Fairy Maiden Palace Cave",
+      "length": 226,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "comments": "flow of 1720-21",
+      "reference": "Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf"
+    },
+
+    {
+      "country-name": "China",
+      "state-or-province": "Heilongjiang",
+      "phys-area-name": "Wudalianchi volanic field; Loaheishan volcano",
+      "principal-cave-name": "Waterfall Palace Cave",
+      "other-cave-name": [],
+      "length": 26,
+      "rock-type": "basalt",
+      "cave-type": "lava tunnel",
+      "comments": "flow of 1720-21",
+      "reference": "Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf"
+    },
+
+    {
+      "country-name": "China",
+      "state-or-province": "Heilongjiang province; Mudanjiang district",
+      "phys-area-name": "Jingpohu Global Geopark",
+      "principal-cave-name": "Weihuting Cave (Tiger Hall Cave)",
+      "other-cave-name": [],
+      "cave-id": "N44E128C-003",
+      "altitude": [],
+      "length": "~50",
+      "vertical-extent": [],
+      "cave-type": "lava tunnel",
+      "contents": [],
+      "reference": "Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf",
+      "reference": "Steiner and Laumanns (2019) https://www.vdhk.de/fileadmin/pdf/mitteilungen/Mitteilungen-2019-3-4.pdf"
+    },
+
+    {
+      "country-name": "China",
+      "state-or-province": "Heilongjiang province",
+      "phys-area-name": [],
+      "principal-cave-name": "Longyandongtian Cave (Dragon Rock Cave)",
+      "other-cave-name": [],
+      "altitude": [],
+      "length": [],
+      "vertical-extent": [],
+      "cave-type": "lava tunnel",
+      "contents": [],
+      "reference": "Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf"
+    },
+
+    {
+      "country-name": "China",
+      "state-or-province": "Heilongjiang province",
+      "phys-area-name": [],
+      "principal-cave-name": "Shenshui Cave (Driven Water Cave)",
+      "other-cave-name": [],
+      "altitude": [],
+      "length": [],
+      "vertical-extent": [],
+      "cave-type": "lava tunnel",
+      "contents": [],
+      "reference": "Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf"
+    },
+
+    {
+      "country-name": "China",
+      "state-or-province": "Heilongjiang province",
+      "phys-area-name": [],
+      "principal-cave-name": "Jimei Cave (Sisters Cave)",
+      "other-cave-name": [],
+      "altitude": [],
+      "length": [],
+      "vertical-extent": [],
+      "cave-type": "lava tunnel",
+      "contents": [],
+      "reference": "Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf"
+    },
+
+    {
+      "country-name": "China",
+      "state-or-province": "Heilongjiang province",
+      "phys-area-name": [],
+      "principal-cave-name": "Kanlianmiying Cave",
+      "other-cave-name": [],
+      "altitude": [],
+      "length": [],
+      "vertical-extent": [],
+      "cave-type": "lava tunnel",
+      "contents": [],
+      "reference": "Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf"
     },
 
     {
@@ -15660,7 +15766,7 @@
     {
       "country-name": "United States of America",
       "state-or-province": "California; Siskiyou County",
-      "phys-area-name": "Medicine Lake Highlands",
+      "phys-area-name": "Medicine Lake Highlands; Giant Crater",
       "principal-cave-name": "Greeley's Pit",
       "length": 20,
       "cave-type": "lava tunnel",
@@ -19042,7 +19148,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Oregon",
+      "state-or-province": "Oregon; Deschutes County",
       "phys-area-name": "Lava Top Butte",
       "principal-cave-name": "Lava Top Butte Ice Cave",
       "length": 55,
@@ -19308,7 +19414,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Oregon",
+      "state-or-province": "Oregon; Deschutes County",
       "phys-area-name": "Lava Top Butte",
       "principal-cave-name": "Log Crib Cave",
       "length": 40,
@@ -20169,7 +20275,7 @@
       "reference": "Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0",
       "reference": "Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=610",
-      "reference": "Fuhrmann (2007) J. Cave Karst Studie, 69(2), 256-265",
+      "reference": "Fuhrmann (2007) J. Cave Karst Studies 69(2), 256-265",
       "reference": "Smith (2014) https://scholarcommons.usf.edu/iwic/Proceedings/Climate_Microclimates_Cave_Ice/6/",
       "cave-use": "self-guided tourist cave"
     },
@@ -20944,6 +21050,7 @@
       "state-or-province": "Skamania County",
       "principal-cave-name": "New Cave",
       "length": 2179,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1746"
     },
@@ -23095,6 +23202,7 @@
       "state-or-province": "Deschutes County",
       "principal-cave-name": "Round Mountain Lava Cave",
       "length": 12,
+      "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1254"
     },
@@ -23858,7 +23966,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Medicine Lake Highlands",
+      "phys-area-name": "Medicine Lake Highlands; Giant Crater",
       "principal-cave-name": "Shovel Cave",
       "other-cave-name": "Arch Sink",
       "length": 393,
@@ -24994,7 +25102,7 @@
       "length": 562,
       "cave-type": "lava tunnel",
       "comments": "less than 4kyr old",
-      "reference": "Tawk et al. (2009) Proc. 15th Intern. Congress Speleology, p724-729"
+      "reference": "Tawk et al. (2009) Proc. 15th Int. Congress Speleology, p724-729"
     },
 
     {
@@ -25005,7 +25113,7 @@
       "length": 1615,
       "cave-type": "lava tunnel",
       "comments": [],
-      "reference": "Tawk et al. (2009) Proc. 15th Intern. Congress Speleology, p724-729"
+      "reference": "Tawk et al. (2009) Proc. 15th Int. Congress Speleology, p724-729"
     },
 
     {
@@ -25252,7 +25360,7 @@
       "rock-type": "basalt",
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=779",
-      "reference": "Kempe and Henschel (2009) Proc. 15th Congr. Speleology",
+      "reference": "Kempe and Henschel (2009) Proc. 15th Int. Congr. Speleology",
       "cave-use": "self-guided tourist cave"
     },
 
@@ -25295,7 +25403,7 @@
 
     {
       "country-name": "United States of America",
-      "state-or-province": "Oregon",
+      "state-or-province": "Oregon; Deschutes County",
       "phys-area-name": "Lava Top Butte",
       "principal-cave-name": "Tie Cave",
       "length": 24,
@@ -26524,7 +26632,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho; Blaine County",
       "phys-area-name": "Wedge Butte",
-      "principal-cave-name": "Wedge Butte Cave #1/West",
+      "principal-cave-name": "Wedge Butte Cave West",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1015"
@@ -26534,7 +26642,7 @@
       "country-name": "United States of America",
       "state-or-province": "Idaho; Blaine County",
       "phys-area-name": "Wedge Butte",
-      "principal-cave-name": "Wedge Butte Cave #2/East",
+      "principal-cave-name": "Wedge Butte Cave East",
       "length": [],
       "cave-type": "lava tunnel",
       "reference": "https://rpif.asu.edu/LTdatabase/result.php?RECNO=1016"
@@ -26836,7 +26944,7 @@
       "country-name": "United States of America",
       "state-or-province": "California",
       "state-or-province": "Siskiyou County",
-      "phys-area-name": "Medicine Lake Highlands",
+      "phys-area-name": "Medicine Lake Highlands; Giant Crater",
       "principal-cave-name": "Winding Sidewalk Cave",
       "length": 245,
       "cave-type": "lava tunnel",
@@ -27309,12 +27417,14 @@
       "phys-area-name": "Hawaii (Big Island); Hualalai",
       "phys-area-name": "Pu'u Wa'awa'a; Henahena lava tubes",
       "principal-cave-name": "Delissea Cave System",
+      "altitude": "820-2200",
       "length": " >64700",
       "vertical-extent": " >1500",
       "cave-type": "lava tunnel",
       "reference": "http://www.vulcanospeleology.org/newsletters/Vulcano76%20July%202020%20Hi%20ResV2.pdf",
       "reference": "Medville (2016) http://www.cavepics.com/IVS17/MEDVILLE.pdf",
-      "reference": "https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf"
+      "reference": "https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf",
+      "reference": "Richards et al. (2018) http://www.vulcanospeleology.org/sym18/Proceedings/Richards.pdf"
     },
 
     {
@@ -27596,7 +27706,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Dak Sor",
+      "state-or-province": "Đắk Nông; Dak Sor",
       "phys-area-name": [],
       "principal-cave-name": "C0",
       "latitude": 12.52186,
@@ -27611,18 +27721,19 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Dak Sor",
+      "state-or-province": "Đắk Nông; Dak Sor",
       "phys-area-name": [],
       "principal-cave-name": "C1, C2",
       "length": 402,
       "vertical-extent": 4,
       "cave-type": "lava tunnel",
-      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101"
+      "reference": "Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101",
+      "reference": "Honda et al. (2018) http://www.vulcanospeleology.org/sym18/Proceedings/Honda_V.pdf"
     },
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Dak Sor",
+      "state-or-province": "Đắk Nông; Dak Sor",
       "phys-area-name": [],
       "principal-cave-name": "C3",
       "latitude": 12.51732,
@@ -27636,7 +27747,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Dak Sor",
+      "state-or-province": "Đắk Nông; Dak Sor",
       "phys-area-name": [],
       "principal-cave-name": "C4",
       "length": 252,
@@ -27648,7 +27759,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Dak Sor",
+      "state-or-province": "Đắk Nông; Dak Sor",
       "phys-area-name": [],
       "principal-cave-name": "C6",
       "length": 180,
@@ -27660,7 +27771,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Nam Da",
+      "state-or-province": "Đắk Nông; Nam Da",
       "phys-area-name": [],
       "principal-cave-name": "C6.1",
       "length": 294,
@@ -27672,7 +27783,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Nam Da",
+      "state-or-province": "Đắk Nông; Nam Da",
       "phys-area-name": [],
       "principal-cave-name": "C7",
       "latitude": 12.51423,
@@ -27685,7 +27796,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Buon Choa'h",
+      "state-or-province": "Đắk Nông; Buon Choa'h",
       "phys-area-name": [],
       "principal-cave-name": "C8",
       "length": 791,
@@ -27697,7 +27808,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Buon Choa'h",
+      "state-or-province": "Đắk Nông; Buon Choa'h",
       "phys-area-name": [],
       "principal-cave-name": "C9",
       "length": 217,
@@ -27709,7 +27820,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Buon Choa'h",
+      "state-or-province": "Đắk Nông; Buon Choa'h",
       "phys-area-name": [],
       "principal-cave-name": "P1, P2",
       "length": 531,
@@ -27720,7 +27831,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Nam Da",
+      "state-or-province": "Đắk Nông; Nam Da",
       "phys-area-name": [],
       "principal-cave-name": "P8",
       "length": 344,
@@ -27731,7 +27842,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Buon Choa'h",
+      "state-or-province": "Đắk Nông; Buon Choa'h",
       "phys-area-name": [],
       "principal-cave-name": "P11",
       "length": 498,
@@ -27742,7 +27853,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Nam Da",
+      "state-or-province": "Đắk Nông; Nam Da",
       "phys-area-name": [],
       "principal-cave-name": "P20",
       "length": 568,
@@ -27753,7 +27864,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Buon Choa'h",
+      "state-or-province": "Đắk Nông; Buon Choa'h",
       "phys-area-name": [],
       "principal-cave-name": "A1",
       "length": 439,
@@ -27765,7 +27876,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Buon Choa'h",
+      "state-or-province": "Đắk Nông; Buon Choa'h",
       "phys-area-name": [],
       "principal-cave-name": "P3",
       "length": 81,
@@ -27776,7 +27887,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Buon Choa'h",
+      "state-or-province": "Đắk Nông; Buon Choa'h",
       "phys-area-name": [],
       "principal-cave-name": "P5 (PT07)",
       "length": 204,
@@ -27787,7 +27898,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Nam Da",
+      "state-or-province": "Đắk Nông; Nam Da",
       "phys-area-name": [],
       "principal-cave-name": "P10E, P10W",
       "length": 160,
@@ -27798,7 +27909,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Dak Dro",
+      "state-or-province": "Đắk Nông; Dak Dro",
       "phys-area-name": [],
       "principal-cave-name": "PT06",
       "length": 200,
@@ -27809,7 +27920,7 @@
 
     {
       "country-name": "Viet Nam",
-      "state-or-province": "Buon Choa'h",
+      "state-or-province": "Đắk Nông; Buon Choa'h",
       "phys-area-name": [],
       "principal-cave-name": "T1W",
       "length": 303,

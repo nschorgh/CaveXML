@@ -436,6 +436,7 @@
       <xs:element name="cave-use" minOccurs="0" maxOccurs="unbounded">
 	<xs:simpleType>
 	  <xs:restriction base="xs:token">
+	    <xs:enumeration value=""/>
 	    <xs:enumeration value="guided tourist cave"/>
 	    <xs:enumeration value="self-guided tourist cave"/>
 	    <xs:enumeration value="waste disposal"/>

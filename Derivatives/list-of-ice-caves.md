@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 519 rock-hosted caves with perennial ice was generated from a CaveXML database. - Jan 17, 2021
+This list of 519 rock-hosted caves with perennial ice was generated from a CaveXML database. - Jan 19, 2021
 
 Austria - Oberösterreich - Dachstein [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-09ce958d127174017149d8adf1a2db30)  
 Austria - Oberösterreich - Dachstein [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-8cc53615b4bc61060a96e8087ea79ae4)  
@@ -497,9 +497,9 @@ United States of America - Idaho - Northern Rocky Mountains [**Strickler Cavern*
 United States of America - Montana - Northern Rocky Mountains [**Crater Ice Cave** ](allcaves-database.md#US-e5adad7e773ba261bf30f78657233988)  
 United States of America - Montana - Northern Rocky Mountains; Pryor Mountains [**Little Ice Cave** ](allcaves-database.md#US-9c79920aa69179302b2f199c404aa5bc)  
 United States of America - Montana - Northern Rocky Mountains [**Red Pryor Ice Cave** ](allcaves-database.md#US-04d44dbdba122281b1bf5c0de4b25dbd)  
-United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area [**Giant Ice Cave** ](allcaves-database.md#US-06b3ec167f699a4da47cc445ea15d22d)  
 United States of America - New Mexico; Cibola County - El Malpais [**Dripping Lava Cave** ](allcaves-database.md#US-c87f5433fb645e7fc29ae96e9e076a7f)  
 United States of America - New Mexico; Cibola County - El Malpais [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  
+United States of America - New Mexico; Cibola County - El Malpais National Monument; Big Tubes area [**Giant Ice Cave** ](allcaves-database.md#US-68f0649447705a70188a6ece04f93d5e)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Navajo Cave** Navajo Ice Cave; Cave 29 ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
 United States of America - New Mexico; Cibola County - El Malpais region [**Candelaria Ice Cave** Bandera Volcano Ice Cave; Zuni Ice Cave ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
@@ -514,7 +514,7 @@ United States of America - Utah - Central Rocky Mountains [**Jim Peck Ice Cave**
 United States of America - Utah - Central Rocky Mountains; Uinta Mountains [**Winter Wonderland Cave** ](allcaves-database.md#US-5a4ab07e8f54dad78b9bee399d427ee9)  
 United States of America - Washington; Skamania County - Mt. Adams [**Guler Ice Cave** ](allcaves-database.md#US-f3ebfa41578dcd316016a2b8094666ae)  
 United States of America - Washington; Skamania County - Sleeping Beauty; Potluck system [**Hoarfrost Cave** NSS-633-18](allcaves-database.md#US-151253683e3a14b5f500d68384630664)  
-United States of America - Wyoming - Northern Rocky Mountains; Teton Mountains [**Fossil Mountain Ice Cave** ](allcaves-database.md#US-6480a0e044cdf5829797075d6a672a5a)  
+United States of America - Wyoming; Teton County - Northern Rocky Mountains; Teton Mountains [**Fossil Mountain Ice Cave** ](allcaves-database.md#US-7eb158420190fa35105fe4b4f6a5c3e5)  
 Uzbekistan - Baisun region; Hodja-Gur-Gur-Ata [**Dark Star Cave** Central Karst System of Hodja Gur Gur Ata ](allcaves-database.md#UZ-1e39ac295c6033724a203e08970146e6)  
 Uzbekistan - Hodja-Gur-Gur-Ata [**Morning Star** ](allcaves-database.md#UZ-8bafd719dd226c39c1cba5faa51921ee)  
 Uzbekistan - Hodja-Gur-Gur-Ata [**Ulug-Bek** Ulugh Begh ](allcaves-database.md#UZ-fa57d54912096b4b9b35b3c46c8742d5)  
@@ -544,9 +544,9 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater; Lava Beds National Monument [**Skull Ice Cave** Skull Cave ](allcaves-database.md#US-ee75f790b179d55268f574c051df0a82)  
 United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Arsia Cave** Arsia Ice Cave ](allcaves-database.md#US-c27a141b3ed15774f8fce43ce9287ed0)  
 United States of America - Hawaii - Hawaii (Big Island); Mauna Loa [**Mauna Loa Ice Cave** ](allcaves-database.md#US-b06fbb3d2b569e50f6cddc95cfb1b0f7)  
-United States of America - New Mexico; Cibola County - El Malpais; Big Tubes area [**Giant Ice Cave** ](allcaves-database.md#US-06b3ec167f699a4da47cc445ea15d22d)  
 United States of America - New Mexico; Cibola County - El Malpais [**Dripping Lava Cave** ](allcaves-database.md#US-c87f5433fb645e7fc29ae96e9e076a7f)  
 United States of America - New Mexico; Cibola County - El Malpais [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  
+United States of America - New Mexico; Cibola County - El Malpais National Monument; Big Tubes area [**Giant Ice Cave** ](allcaves-database.md#US-68f0649447705a70188a6ece04f93d5e)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Navajo Cave** Navajo Ice Cave; Cave 29 ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
 United States of America - New Mexico; Cibola County - El Malpais National Monument [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
 United States of America - New Mexico; Cibola County - El Malpais region [**Candelaria Ice Cave** Bandera Volcano Ice Cave; Zuni Ice Cave ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  

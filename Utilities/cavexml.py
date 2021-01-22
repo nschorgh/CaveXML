@@ -584,11 +584,12 @@ def cross_link_cavsys(i, conlist, pcnlist, cavsys, list_of_lists, uidlist):
         for ii in idxs: # go through all records with matching principal name
             if conlist[i] != conlist[ii]:
                 continue  # skip if not in same country
-            if pcnlist[i] in list_of_lists[ii]: # branch in cavesys points back to pcn
-                uid_link = uidlist[ii]
-                #print('... and cavesys',uidlist[i],'points back to branch',uid_link)
-                #print('... and cavesys',pcnlist[ii],'points back to branch',pcnlist[i])
-                return uid_link
+            if pcnlist[i] is not None:
+                if pcnlist[i] in list_of_lists[ii]: # branch in cavesys points back to pcn
+                    uid_link = uidlist[ii]
+                    #print('... and cavesys',uidlist[i],'points back to branch',uid_link)
+                    #print('... and cavesys',pcnlist[ii],'points back to branch',pcnlist[i])
+                    return uid_link
 
     return ''
 

@@ -1610,7 +1610,6 @@ Longest Lava Tubes in the Solar System
 ======================================
 
 United States of America - Hawaii; Puna district [**Kazumura Cave**](allcaves-database.md#US-6f199162c085ec13c6639bbbc0b91aa3) 65500m  
-United States of America - Hawaii; North Kona [**Pueo Cave**](allcaves-database.md#US-3b7e7593b48b5035b20127e079343fdf)  >6500m  
 United States of America - Hawaii [**Delissea Cave System**](allcaves-database.md#US-2fe4578a1aaf2189753e0ddfdd6ad29a)  >64700m  
 United States of America - Hawaii [**Keokeo Cave System**](allcaves-database.md#US-710311bdfe538c901bccddeefd451b81)  ~40600m  
 United States of America - Hawaii; Ka'u District [**Kipuka Kanohina**](allcaves-database.md#US-8e2ac0a826ac82da91d805670cca0e9f)  >32000m  
@@ -1638,6 +1637,7 @@ United States of America - Hawaii [**Ainahou Ranch Cave**](allcaves-database.md#
 United States of America - New Mexico; Cibola County [**Twin Craters Lava Tube** Twin Craters Cave](allcaves-database.md#US-00fb125c055812c46613cec054e7d7c3) 7000m  
 United States of America - New Mexico; Cibola County [**Deer Mountain**](allcaves-database.md#US-3d8763e5118ce6320f755596a5ff2be9) 6850m  
 Mexico - Morelos [**Cueva del Ferrocarril-Mina Inferior** Sistema Ferrocarril-Mina Inferior](allcaves-database.md#MX-95d1013e4757e2b49bf40cb8dab3bf98) 6538m  
+United States of America - Hawaii; North Kona [**Pueo Cave**](allcaves-database.md#US-3b7e7593b48b5035b20127e079343fdf)  >6500m  
 Moon [**Marius Hill A**](allcaves-database.md#XO-9a858b37208a82e1cb8e4d23a71289d8) 6402m  
 Spain - Santa Cruz de Tenerife [**Cueva de Don Justo**](allcaves-database.md#ES-00259bdabb0744cb577e989b66d7e425) 6315m  
 United States of America - Hawaii; North Kona [**Lama Lua Cave** Upper Kaʻūpūlehu System](allcaves-database.md#US-b78abf7a161d53e1bc003f2d526e410a) 5523m  

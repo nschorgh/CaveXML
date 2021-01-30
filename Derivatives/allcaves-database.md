@@ -1795,11 +1795,11 @@ Serbia - Kamena Gora village
 Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide  
 *Cave Name(s):* **Cueva de Hielo del Teide** Cueva del Hielo; Teide Ice Cave; Altavista Ice Cave; Cueva de Salitre  
 *altitude:* 3400  
-*Length:* 50m *Vertical extent:* 14m   
+*Length:* 55m *Vertical extent:* 14m   
 *Cave type:* lava tunnel  
 *Contents:* periodic ice  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
-[Rosales (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-f030f5ce3db1f97639ca7b7904c4c8cc"></a>
@@ -1818,9 +1818,10 @@ Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide
 ---  
 <a name="ES-adeea1d09424bfa224fa7c7c704d6658"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; Mount Teide  
-*Cave Name(s):* **Sima de Hielo Montaña Rajada**  
+*Cave Name(s):* **Sima de Hielo Montaña Rajada** Sima Montaña Rajada  
 *Contents:* permanent ice  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-6d7c3e74ee48380c871cde7d8c573843"></a>
@@ -3400,6 +3401,7 @@ Slovakia - Slovenský kras; Silická planina
 *Comments:* floor ice, stalactites, hoarfrost  
 [Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2](https://doi.org/10.1016/B978-0-12-811739-2.00029-2)   
 [Supinsky et al. (2019) https://tc.copernicus.org/articles/13/2835/2019/](https://tc.copernicus.org/articles/13/2835/2019/)   
+[Kovac (2018) doi:10.1007/978-3-319-98852-8_15](https://doi.org/10.1007/978-3-319-98852-8_15)   
 
 ---  
 <a name="SK-3dd938f00731120b4822b1733695f8c6"></a>
@@ -4897,6 +4899,7 @@ Canada - Alberta - Jasper National Park; Columbia Icefield
 [Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2](https://doi.org/10.1016/B978-0-12-811739-2.00015-2)   
 Canadian Caver 2:26, 5/1:21, 11/1:28, 12/1:3, 15/2:7, 19/2:22, 59:7, 63:4, 66:4, 71:4, 73:20, 80:28  
 [https://en.wikipedia.org/wiki/Castleguard_Cave](https://en.wikipedia.org/wiki/Castleguard_Cave)   
+[Atkinson (1983) doi:10.1080/00040851.1983.12004379](https://doi.org/10.1080/00040851.1983.12004379)   
 
 ---  
 <a name="CA-437cedd66adb093bdf7a2ff20baf9861"></a>
@@ -5160,7 +5163,6 @@ United States of America - Utah; Kane County
 United States of America - New Mexico; Cibola County - El Malpais region  
 *Cave Name(s):* **Candelaria Ice Cave** Bandera Volcano Ice Cave; Zuni Ice Cave  
 *altitude:* 2393  
-*Length:* 12300m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* permanent ice  
 *Comments:* ice deposit estimated to be 3kyr old; Holocene lava flow; entrance faces south  
@@ -5328,6 +5330,27 @@ United States of America - Iowa
 *Cave Name(s):* **Decorah Ice Cave**  
 *Contents:* periodic ice  
 [Knudson and Hedges (1973) https://scholarworks.uni.edu/pias/vol80/iss4/8/](https://scholarworks.uni.edu/pias/vol80/iss4/8/)   
+
+---  
+<a name="US-38cf4d625501ad57068dcbe50942a8ed"></a>
+United States of America - New York - Shawangunk Ridge; Sam's Point Preserve  
+*Cave Name(s):* **Sam's Point Ice Cave** Ice Cave #1  
+*Length:* 138m   
+*Cave type:* tectonic cave  
+*Contents:* periodic ice  
+[Iepure (2018) doi:10.1016/B978-0-12-811739-2.00007-3](https://doi.org/10.1016/B978-0-12-811739-2.00007-3)   
+[Espinasa et al. (2015) doi:10.3897/subtbiol.15.4733](https://doi.org/10.3897/subtbiol.15.4733)   
+
+---  
+<a name="US-9ee1bf6a9837a2e87b278db17e826bf1"></a>
+United States of America - New York - Shawangunk Ridge; near Mohonk Preserve  
+*Cave Name(s):* **Xanadu Cave**  
+*Length:* 422m   
+*Cave type:* tectonic cave  
+*Contents:* periodic ice  
+[Iepure (2018) doi:10.1016/B978-0-12-811739-2.00007-3](https://doi.org/10.1016/B978-0-12-811739-2.00007-3)   
+[Espinasa et al. (2015) doi:10.3897/subtbiol.15.4733](https://doi.org/10.3897/subtbiol.15.4733)   
+[Millett and Millett (2013) https://caves.org/grotto/ccg/um/2013_10_um.pdf](https://caves.org/grotto/ccg/um/2013_10_um.pdf)   
 
 ---  
 <a name="AQ-205d78676c8a795efc0b23f357cf46ae"></a>
@@ -5516,7 +5539,6 @@ Kenya - Rift Valley Province; Kajiado District - Mt. Suswa
 *Cave Name(s):* **10-9-6-36-37 Series**  
 *Length:* 1300m   
 *Cave type:* lava tunnel  
-*Branches:* Cave 6;   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1447](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1447)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1439](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1439)   
 
@@ -6327,6 +6349,7 @@ Australia - Queensland - Undara
 *Cave Name(s):* **Bayliss Cave** *Id:* ASF-4U-30  
 *Length:* 1350m   
 *Rock type:* basalt *Cave type:* lava tunnel  
+*Contents:* trogloxenes; troglobites; troglophiles  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1210](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1210)   
 [Atkinson et al. (1975) doi:10.1007/BF02597832](https://doi.org/10.1007/BF02597832)   
 [Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf](http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf)   
@@ -6490,6 +6513,7 @@ United States of America - New Mexico; Cibola County - El Malpais National Monum
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1195](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1195)   
 [Paris et al. (2020) https://arxiv.org/abs/2004.13156](https://arxiv.org/abs/2004.13156)   
+[Polyak et al. (2020) doi:10.1016/j.quageo.2020.101083](https://doi.org/10.1016/j.quageo.2020.101083)   
 *Cave use:* self-guided tourist cave  
 
 ---  
@@ -6520,7 +6544,7 @@ United States of America - Hawaii; Kauai County - Kauai; Na Pali Coast
 ---  
 <a name="KR-463e0a785e3796c84af0b8b2e3fe0bad"></a>
 Korea, Republic of - Jeju province - Jeju Island  
-*Cave Name(s):* **Billemot Gul** Rock Pond Cave; Bilemot Gul; Billemotdonggul Lava Tube  
+*Cave Name(s):* **Billemot Gul** Rock Pond Cave; Bilemot Gul; Pillemot Cave; Billemotdonggul Lava Tube; Labyrinth Cave  
 *altitude:* 70  
 *Length:* 11749m   
 *Cave type:* lava tunnel  
@@ -6771,15 +6795,18 @@ United States of America - Utah; Garfield County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1564](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1564)   
 
 ---  
-<a name="US-03e84ade76dd35977e1bcc33e1ca5007"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-fb672da215b7a63a8da8805a22311591"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Boy Scout Cave**  
+*Length:* ~20m   
 *Cave type:* lava tunnel  
+*Contents:* permanent ice; troglobites  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1021](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1021)   
+Briggs (1974) J. Arachnol. 1:205-214  
 
 ---  
-<a name="US-c7f2ed2a9d2d644f4f07bd649504196b"></a>
-United States of America - Oregon; Deschutes County  
+<a name="US-1a5bbcf09cfde766034767d8046775f0"></a>
+United States of America - Oregon; Deschutes County - Newberry volcano  
 *Cave Name(s):* **Boyd Cave**  
 *Length:* 600m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -7715,20 +7742,34 @@ Ecuador - Galapagos - Floreana Island
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=704](https://rpif.asu.edu/LTdatabase/result.php?RECNO=704)   
 
 ---  
+<a name="ES-73436b09611f6b5fc0d80cd9da3dffa2"></a>
+Spain - Santa Cruz de Tenerife; La Orotava - Tenerife  
+*Cave Name(s):* **Cueva del Bucio**  
+*altitude:* 1100  
+*Length:* 116m *Vertical extent:* 30m *Number of entrances:* 1  
+*Cave type:* lava tunnel  
+*Contents:* trogloxenes; troglophiles; troglobites  
+[Sala et al. (1994) http://vulcanospeleology.org/sym07/ISV7x17.pdf](http://vulcanospeleology.org/sym07/ISV7x17.pdf)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
+
+---  
 <a name="ES-125de979d5e0c38c9ecb24dee9be9c3f"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva Buzanada**  
 *Length:* 100m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1482](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1482)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-e6d43d223bae4611b08cb927f954fa01"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva Cabeza de Perro**  
-*Length:* 68m   
+*altitude:* 40  
+*Length:* 68m *Vertical extent:* 2m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1483](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1483)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-4f52fdaaeadb9f567a17fac0f659f1a9"></a>
@@ -7748,28 +7789,24 @@ Ecuador - Galapagos - Santa Cruz Island
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf](http://www.vulcanospeleology.org/sym06/ISV6x33.pdf)   
 
 ---  
-<a name="ES-2d5e140b58b7e92a2c335b4687b437a1"></a>
+<a name="ES-9286665524c1ddb843f7496484b55565"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva de Arafa**  
-*Length:* 110m   
+*Cave Name(s):* **Cueva de Arafo**  
+*altitude:* 600  
+*Length:* 110m *Vertical extent:* 8m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1485](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1485)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-c8d1f48d64253bc3ef367770d9388b30"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva de Benisahare**  
-*Length:* 327m   
+*altitude:* 420  
+*Length:* 327m *Vertical extent:* 24m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1486](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1486)   
-
----  
-<a name="ES-a4d99a99b20820f1e1dca00f7bb55fde"></a>
-Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva de Bicho**  
-*Length:* 8m   
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1487](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1487)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="MX-83614b4ff2be78caa9dcc2138f231829"></a>
@@ -7784,9 +7821,11 @@ Mexico - San Luis Potosí
 <a name="ES-bf3ecc97f252cd760aab9afd3ebf1fc3"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva de Chiguergue**  
+*altitude:* 840  
 *Length:* 1000m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1489](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1489)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="MX-0176a37a3a2343b76787fe1fc7869e19"></a>
@@ -7798,23 +7837,27 @@ Mexico - Morelos - Suchiooc volcano
 [http://www.mexicancaves.org/maps/1944.pdf](http://www.mexicancaves.org/maps/1944.pdf)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1151](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1151)   
 [Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf](http://www.mexicancaves.org/nl/23.pdf)   
+[López-Martínez (2016) doi:10.5038/1827-806X.45.2.1927](https://doi.org/10.5038/1827-806X.45.2.1927)   
 
 ---  
 <a name="ES-41af69f0879a28464f91486753f3d6ed"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island  
-*Cave Name(s):* **Cueva de Cuaclo de las Mo**  
+*Cave Name(s):* **Cueva de Cuaclo de las Mo** Cuaclo de la Molera  
 *Length:* 80m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1463](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1463)   
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-2b1d49e63ba53c9fd24252c8766eae4f"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva de Don Cesar**  
-*Length:* 56m   
+*altitude:* 480  
+*Length:* 56m *Vertical extent:* 4m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1490](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1490)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-00259bdabb0744cb577e989b66d7e425"></a>
@@ -7825,6 +7868,25 @@ Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1529](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1529)   
 [https://en.wikipedia.org/wiki/Cueva_de_Don_Justo](https://en.wikipedia.org/wiki/Cueva_de_Don_Justo)   
+[Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
+
+---  
+<a name="ES-343b26ab5a7ecda51fd2ff47b200d24c"></a>
+Spain - Santa Cruz de Tenerife; La Frontera - Canary Islands; El Hierro Island  
+*Cave Name(s):* **Cueva de Tacoron**  
+*altitude:* 500  
+*Length:* 334m *Number of entrances:* 4  
+*Cave type:* lava tunnel  
+[Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
+
+---  
+<a name="ES-f3d7dc31bc29d36f1d31a263026f51d0"></a>
+Spain - Santa Cruz de Tenerife; La Frontera - Canary Islands; El Hierro Island  
+*Cave Name(s):* **Cueva de La Curva** Cave of La Curva  
+*altitude:* 400  
+*Length:* 141m   
+*Cave type:* lava tunnel  
+*Contents:* tree roots; troglobites  
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
 
 ---  
@@ -7905,8 +7967,10 @@ Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife
 *Coordinates:* [28.4, -16.7](https://maps.google.com/?ll=28.4,-16.7)   
 *Length:* 3000m   
 *Cave type:* lava tunnel  
+*Contents:* troglobites  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=664](https://rpif.asu.edu/LTdatabase/result.php?RECNO=664)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1491](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1491)   
+[Oromi (2018) doi:10.1007/978-3-319-98852-8_17](https://doi.org/10.1007/978-3-319-98852-8_17)   
 
 ---  
 <a name="EC-63a0b19b88c206be4f2f27e8721fbc0d"></a>
@@ -7923,6 +7987,7 @@ Spain - Santa Cruz de Tenerife - Tenerife
 *Length:* 150m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1492](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1492)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-328688fcd774642745daff13ac10e9f4"></a>
@@ -7958,9 +8023,11 @@ Ecuador - Galapagos - Isla de Santa Cruz
 <a name="ES-0e8a38c91423b5f2d2edb0ea35e89c79"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva de la Amargura**  
-*Length:* 43m   
+*altitude:* 620  
+*Length:* 43m *Vertical extent:* 3m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1493](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1493)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="EC-637f08be969d05e9577b3fb672f5da15"></a>
@@ -7980,20 +8047,34 @@ Ecuador - Galapagos - Isla Isabela
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf](http://www.vulcanospeleology.org/sym06/ISV6x33.pdf)   
 
 ---  
-<a name="ES-dda204f425dbcda29a7245c483f6f625"></a>
-Spain - Santa Cruz de Tenerife - Tenerife  
+<a name="ES-3458cdc458efeedb2b45cdc227945326"></a>
+Spain - Santa Cruz de Tenerife; Candelaria - Tenerife  
+*Cave Name(s):* **Cueva de Candelaria**  
+*altitude:* 60  
+*Length:* 125m *Vertical extent:* 4m   
+*Cave type:* lava tunnel  
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1488](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1488)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
+
+---  
+<a name="ES-313c7391c3af73393303c9c1b10ce3ea"></a>
+Spain - Santa Cruz de Tenerife; Icod de los Vinos - Tenerife  
 *Cave Name(s):* **Cueva de la Candelaria**  
+*altitude:* 420  
+*Length:* 680m *Vertical extent:* 22m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1494](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1494)   
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1488](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1488)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-0471ffef8e56a9ed356f5ae67e01f8e3"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva de la Cruz**  
-*Length:* 249m   
+*altitude:* 710  
+*Length:* 250m *Vertical extent:* 15m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1495](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1495)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="EC-9089e1e99d08ac7f999fa8eba9f99c84"></a>
@@ -8002,14 +8083,6 @@ Ecuador - Galapagos - Santa Cruz Island
 *Length:* 80m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=723](https://rpif.asu.edu/LTdatabase/result.php?RECNO=723)   
-
----  
-<a name="ES-3731e8fa1e82c3f2de4fe5130716be57"></a>
-Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva de la Desilusion**  
-*Length:* 18m   
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1496](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1496)   
 
 ---  
 <a name="EC-9c42547ef6666d15f5eb725924ebaba3"></a>
@@ -8027,6 +8100,7 @@ Mexico - Morelos - Suchiooc volcano
 *Cave Name(s):* **Sistema Inglesia-Mina Superior**  
 *Length:* 5145m *Vertical extent:* 54m *Number of entrances:* 4  
 *Rock type:* basalt *Cave type:* lava tunnel  
+*Contents:* troglobites  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1157](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1157)   
 [http://www.mexicancaves.org/maps/3400.pdf](http://www.mexicancaves.org/maps/3400.pdf)   
 
@@ -8050,19 +8124,24 @@ Ecuador - Galapagos - Santa Cruz Island
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf](http://www.vulcanospeleology.org/sym06/ISV6x33.pdf)   
 
 ---  
-<a name="ES-2f8892ae39547c2f54668f8b21146df1"></a>
+<a name="ES-cc8d31ee5b078f9d4fd67328eed91995"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva de la Plaza de Toro**  
-*Length:* 268m   
+*Cave Name(s):* **Cueva de la Plaza de Toros**  
+*altitude:* 440  
+*Length:* 268m *Vertical extent:* 5m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1497](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1497)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
-<a name="ES-5295d7b1062c527da252aa96eda16c26"></a>
-Spain - Santa Cruz de Tenerife - Tenerife  
+<a name="ES-4aaaa1edaa46303e4c52d25c6b262262"></a>
+Spain - Santa Cruz de Tenerife - Tenerife; Santa Cruz  
 *Cave Name(s):* **Cueva de la Refineria**  
+*altitude:* 25  
+*Length:* 100m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1498](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1498)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="EC-652444e7df75e3f2ab085331a7950403"></a>
@@ -8085,9 +8164,11 @@ Mexico - San Luis Potosí
 <a name="ES-1b1994da0f4803823b8a79872322478c"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva de las Abejas**  
-*Length:* 43m   
+*altitude:* 720  
+*Length:* 43m *Vertical extent:* 2m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1499](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1499)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-a4f385e784ff542ada388c64185a0f0c"></a>
@@ -8124,19 +8205,21 @@ Spain - Las Palmas - Canary Islands; Lanzarote
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148)   
 
 ---  
-<a name="ES-a71981774174454021a85a401c2c4fad"></a>
-Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva de los Cazadores**  
+<a name="ES-129bd2e3148d3d1148ef0f93b96f78a1"></a>
+Spain - Santa Cruz de Tenerife; Fuencaliente - Canary Islands; La Palma  
+*Cave Name(s):* **Cueva de los Plameros**  
+*Length:* 181m   
 *Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1500](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1500)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
-<a name="ES-9255bb64ecefb224122d324348413003"></a>
-Spain - Santa Cruz de Tenerife - Canary Islands; La Palma  
+<a name="ES-7bddc0017ba641552428e7089c0d8ce5"></a>
+Spain - Santa Cruz de Tenerife - Canary Islands; La Palma; Fuencaliente  
 *Cave Name(s):* **Cueva de los Conejos**  
 *Length:* 30m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1479](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1479)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="MX-ea2f4f2d7323175f205742192f0b557a"></a>
@@ -8156,29 +8239,45 @@ Spain - Las Palmas - Canary Islands; Lanzarote
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1149](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1149)   
 
 ---  
-<a name="ES-d80fec6b0c2986d98ab445fd8bb9bef9"></a>
-Spain - Santa Cruz de Tenerife - Canary Islands; La Palma  
+<a name="ES-e89f43db47cef8e250ef5874a427bc08"></a>
+Spain - Santa Cruz de Tenerife; Fuencaliente - Canary Islands; La Palma  
 *Cave Name(s):* **Cueva de los Palmeros**  
 *Length:* 181m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1480](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1480)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
-<a name="ES-d5d1dee97b3685746c5bca50b5024cc2"></a>
+<a name="ES-e1fd07873552ebf3583244d9a5006dd4"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island  
-*Cave Name(s):* **Cueva de los Pandelas**  
+*Cave Name(s):* **Cueva de los Pardelas**  
 *Length:* 180m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1468](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1468)   
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
-<a name="ES-c0918cacd6f8557e0043741d15577e35"></a>
-Spain - Santa Cruz de Tenerife - Tenerife  
+<a name="ES-40ecacf8fd9a71f998c37c3a7e2e8b12"></a>
+Spain - Santa Cruz de Tenerife; Las Canadas - Tenerife  
 *Cave Name(s):* **Cueva de los Roques**  
-*Length:* 1048m   
-*Cave type:* lava tunnel  
+*altitude:* 2160-2200  
+*Length:* 1048m *Number of entrances:* 4  
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Contents:* accidental trogloxenes; trogloxenes; troglobites; troglophiles  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1501](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1501)   
+[Martin and Oromi (1986) doi:10.1080/00222938600770281](https://doi.org/10.1080/00222938600770281)   
+[Oromi (2018) doi:10.1007/978-3-319-98852-8_17](https://doi.org/10.1007/978-3-319-98852-8_17)   
+
+---  
+<a name="ES-095a76e288771795e127286732c640a7"></a>
+Spain - Santa Cruz de Tenerife - Tenerife; Parque nacional del Teide; Pico Viejo  
+*Cave Name(s):* **Cuevas Negras**  
+*altitude:* 2175-2250  
+*Length:* 420m *Vertical extent:* 85m   
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Contents:* troglobites  
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="MX-0cca94b30cfb3d044df06d4d557422c2"></a>
@@ -8191,12 +8290,14 @@ Mexico - Tamaulipas
 [http://www.mexicancaves.org/maps/0039.pdf](http://www.mexicancaves.org/maps/0039.pdf)   
 
 ---  
-<a name="ES-97333a7744d7d980ec50d19242aaaca1"></a>
-Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva de los Valemcianos**  
-*Length:* 58m   
+<a name="ES-92b856e53a7ebc6e6132d5f92bbd70d1"></a>
+Spain - Santa Cruz de Tenerife; La Laguna - Tenerife  
+*Cave Name(s):* **Cueva de Los Valencianos**  
+*altitude:* 560  
+*Length:* 48m *Vertical extent:* 22m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1502](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1502)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-2f9f08180eef7bd60bfd8ff4f08d7f25"></a>
@@ -8223,12 +8324,14 @@ Ecuador - Galapagos - Isla Isabela
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf](http://www.vulcanospeleology.org/sym06/ISV6x33.pdf)   
 
 ---  
-<a name="ES-709388802d9f25e6c780a9e98fbac32b"></a>
+<a name="ES-cccd917a40eed3a81884cef87e80bcae"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva de Maestro Pipe**  
-*Length:* 65m   
+*Cave Name(s):* **Cueva de Maestro Pepe**  
+*altitude:* 625  
+*Length:* 65m *Vertical extent:* 2m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1503](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1503)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="EC-f9591b34fa63e6375ea5d4dc1428ead8"></a>
@@ -8239,13 +8342,14 @@ Ecuador - Galapagos - Santa Cruz Island
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=726](https://rpif.asu.edu/LTdatabase/result.php?RECNO=726)   
 
 ---  
-<a name="ES-8e1cd46dbe32760988d5264b464659d0"></a>
+<a name="ES-6799b1d3b1d794a41aeea73788e04b18"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island  
-*Cave Name(s):* **Cueva de Maunicico**  
+*Cave Name(s):* **Cueva de Mauricico** Cueva de Mauricico Laderas  
 *Length:* 193m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1469](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1469)   
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="EC-f52b5cd3789631cb8d2153f69544c4eb"></a>
@@ -8259,9 +8363,11 @@ Ecuador - Galapagos - Isla de Santa Cruz
 <a name="ES-99999c613e40945669732517d1ecd62b"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva de Punto Blanco**  
-*Length:* 248m   
+*altitude:* 30  
+*Length:* 248m *Vertical extent:* 7m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1504](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1504)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="EC-5bd2da1ed6b95b469a94a1b3fb904c79"></a>
@@ -8283,17 +8389,22 @@ Ecuador - Galapagos - Santa Cruz Island
 <a name="ES-bf29b69077e0744d70008ac422af65a8"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva de Samara**  
-*Length:* 50m   
+*Length:* 100m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1505](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1505)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
-<a name="ES-9bb09ddb3248f247f1cbe0890d586090"></a>
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island  
-*Cave Name(s):* **Cueva de San Andres**  
+<a name="ES-16b8519a846e3ee9da467a1cdc1be48f"></a>
+Spain - Santa Cruz de Tenerife; Valverde - Canary Islands; El Hierro Island  
+*Cave Name(s):* **Cueva de San Andres** Cueva de los Pozos  
+*altitude:* ~1000  
+*Length:* 390m   
 *Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1470](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1470)   
+*Comments:* consists of three segments that are 350m, 26m, and 8m long  
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1470](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1470)   
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1513](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1513)   
 
 ---  
 <a name="AR-f2fbc650814457f91bc4c9138898d1e0"></a>
@@ -8306,10 +8417,12 @@ Argentina - Catamarca
 <a name="ES-be1a59a657a2e92dec809c9be5722030"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife  
 *Cave Name(s):* **Cueva de San Marcos**  
-*Length:* 2130m   
+*altitude:* 30-99  
+*Length:* 2130m *Number of entrances:* 2  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=665](https://rpif.asu.edu/LTdatabase/result.php?RECNO=665)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1506](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1506)   
+[Oromi (2018) doi:10.1007/978-3-319-98852-8_17](https://doi.org/10.1007/978-3-319-98852-8_17)   
 
 ---  
 <a name="EC-1ab67d5bb62a97678e14341cf4e00759"></a>
@@ -8329,13 +8442,14 @@ Mexico - Morelos - Suchiooc volcano
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1160](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1160)   
 
 ---  
-<a name="ES-151b813707a1e617af7e9c884b774ae8"></a>
+<a name="ES-dce490f83d8fc2630627b4ac1a963710"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island  
-*Cave Name(s):* **Cueva del Acontilado**  
+*Cave Name(s):* **Cueva del Acantilado**  
 *Length:* 401m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1471](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1471)   
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="MX-ac62beaa9b6655f308a11f90ba2ecef9"></a>
@@ -8343,6 +8457,7 @@ Mexico - Distrito Federal
 *Cave Name(s):* **Cueva del Aire**  
 *Length:* 1038m *Vertical extent:* 87m   
 *Cave type:* lava tunnel  
+*Contents:* troglobites  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=206](https://rpif.asu.edu/LTdatabase/result.php?RECNO=206)   
 [http://www.mexicancaves.org/maps/2905.pdf](http://www.mexicancaves.org/maps/2905.pdf)   
 
@@ -8363,22 +8478,27 @@ Spain - Santa Cruz de Tenerife - Tenerife
 *Length:* 100m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1507](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1507)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
-<a name="ES-15dec4c32693797faebdba1ae564bb92"></a>
+<a name="ES-54dc6d233bc269783f6b9d1389ff83a9"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva del Bucia**  
-*Length:* 149m   
+*Cave Name(s):* **Cueva del Bucio**  
+*altitude:* 1100  
+*Length:* 149m *Vertical extent:* 30m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1508](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1508)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-303eaa7c1700900858061a5e69bdbe4b"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva del Bujeno**  
+*altitude:* 380  
 *Length:* 50m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1509](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1509)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="EC-d239c4df468fb170fe51422b9ad6ec69"></a>
@@ -8437,6 +8557,18 @@ Mexico - Morelos - Suchiooc volcano
 [http://www.mexicancaves.org/maps/3399.pdf](http://www.mexicancaves.org/maps/3399.pdf)   
 
 ---  
+<a name="MX-58bfe0ec8bc02c0415901b0a85146c38"></a>
+Mexico - Morelos - Sierra Chichinautzin  
+*Cave Name(s):* **Cueva del Naranjo Rojo**  
+*Length:* 671m *Vertical extent:* 32m   
+*Cave type:* lava tunnel  
+*Contents:* troglobites  
+[Espinasa and Closas (2006) http://vulcanospeleology.org/sym12/ISV12p18.pdf](http://vulcanospeleology.org/sym12/ISV12p18.pdf)   
+[http://www.mexicancaves.org/maps/2978.pdf](http://www.mexicancaves.org/maps/2978.pdf)   
+[http://www.mexicancaves.org/maps/0207.pdf](http://www.mexicancaves.org/maps/0207.pdf)   
+[http://www.mexicancaves.org/maps/1964.pdf](http://www.mexicancaves.org/maps/1964.pdf)   
+
+---  
 <a name="ES-fdbcd0702979ae1fdd35477567ff02ae"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva del Gato Feo**  
@@ -8459,15 +8591,20 @@ Spain - Las Palmas - Canary Islands; Fuerteventura
 *Cave Name(s):* **Cueva del Llano**  
 *Length:* 488m   
 *Cave type:* lava tunnel  
+*Contents:* trogloxenes; troglophiles; troglobites  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1146](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1146)   
+Randeo et al. (1993) The hypogean community of Cueva del Llano (Fuerteventura, Canary Islands)  
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-dcca9f7d4ae82831c56192121e91f33f"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva del Metra**  
-*Length:* 185m   
+*Cave Name(s):* **Cueva del Metra** Cueva Joe M. Glez. Gomez  
+*altitude:* 200  
+*Length:* 185m *Vertical extent:* 4m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1511](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1511)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-1d42bdfcb6d8f0d5a07cd00d5e47ea3d"></a>
@@ -8476,6 +8613,7 @@ Spain - Santa Cruz de Tenerife - Tenerife
 *Length:* 100m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1512](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1512)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="MX-6d0485b15e394f4af0868b8cca277e95"></a>
@@ -8505,20 +8643,14 @@ Mexico - Morelos - Suchiooc volcano
 [http://www.mexicancaves.org/maps/2660.pdf](http://www.mexicancaves.org/maps/2660.pdf)   
 
 ---  
-<a name="ES-0267e7f601d1f1159b851de99d287360"></a>
-Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva del Pozo**  
-*Length:* 56m   
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1513](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1513)   
-
----  
 <a name="ES-7e39fab7710d4ac29ec8b2458abb3a16"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva del Refugio**  
+*altitude:* 1275  
 *Length:* 22m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1514](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1514)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="MX-bf6e9122a3b10ea236a764dfc34492c9"></a>
@@ -8531,14 +8663,6 @@ Mexico - San Luis Potosí
 [http://www.mexicancaves.org/maps/0876.pdf](http://www.mexicancaves.org/maps/0876.pdf)   
 
 ---  
-<a name="ES-afe93e86a0f613386741e53ee0b80203"></a>
-Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva del Sohoada**  
-*Length:* 4000m   
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1515](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1515)   
-
----  
 <a name="ES-c589189015bf4b597c68f62de69a7350"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
 *Cave Name(s):* **Cueva del Valle**  
@@ -8549,13 +8673,19 @@ Spain - Santa Cruz de Tenerife - Tenerife
 ---  
 <a name="ES-7a16bf26a547c98e604915188c2ccf93"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva del Viento** El Viento cave  
+*Cave Name(s):* **Cueva del Viento** El Viento cave; Cueva del Viento-Sobrado  
 *Coordinates:* [28.35209, -16.70405](https://maps.google.com/?ll=28.35209,-16.70405) *altitude:* 625  
 *Length:* 17032m *Vertical extent:* 478m   
 *Cave type:* lava tunnel  
+*Contents:* trogloxenes; troglobites; troglophiles  
+*Comments:* largest lava tube in Europe  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517)   
 [Pinza-Molina et al. (1999) doi:10.1093/oxfordjournals.rpd.a032628](https://doi.org/10.1093/oxfordjournals.rpd.a032628)   
 [Rein et al. (2016) http://www.cavepics.com/IVS17/REIN.pdf](http://www.cavepics.com/IVS17/REIN.pdf)   
+[Oromi (2018) doi:10.1007/978-3-319-98852-8_17](https://doi.org/10.1007/978-3-319-98852-8_17)   
+[https://en.wikipedia.org/wiki/Cueva_del_Viento](https://en.wikipedia.org/wiki/Cueva_del_Viento)   
+[https://www.showcaves.com/english/es/showcaves/Viento.html](https://www.showcaves.com/english/es/showcaves/Viento.html)   
+[Zurita et al. (1994) http://vulcanospeleology.org/sym07/ISV7x19.pdf](http://vulcanospeleology.org/sym07/ISV7x19.pdf)   
 *Cave use:* guided tourist cave  
 
 ---  
@@ -8605,14 +8735,43 @@ Argentina - Mendoza
 *Length:* 838m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1150](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1150)   
+[Acosta (2019) doi:10.1371/journal.pone.0223828](https://doi.org/10.1371/journal.pone.0223828)   
 
 ---  
-<a name="ES-97ef5d02d3a2384f07b2215b7a709695"></a>
+<a name="AR-cb44ad968467a4c87a3495ac42cb0a89"></a>
+Argentina  
+*Cave Name(s):* **Cueva del Tigre**  
+*Length:* ~300m   
+*Rock type:* basalt *Cave type:* lava tunnel  
+[Benedetto et al. (1998) doi:10.5038/1827-806X.27.1.16](https://doi.org/10.5038/1827-806X.27.1.16)   
+
+---  
+<a name="MX-841ec1cf18e2ed115612ff6dc60ef178"></a>
+Mexico - Sonora  
+*Cave Name(s):* **Cueva del Tigre**  
+*Length:* 206m *Vertical extent:* 41m   
+*Rock type:* limestone   
+*Contents:* many bats  
+[McFarlane et al. (1995) doi:10.1007/BF02181037](https://doi.org/10.1007/BF02181037)   
+[http://www.mexicancaves.org/maps/0923.pdf](http://www.mexicancaves.org/maps/0923.pdf)   
+
+---  
+<a name="AR-62521e0ec47eca8718f1eea24056dd7d"></a>
+Argentina  
+*Cave Name(s):* **El Abrigo de el Manzano**  
+*Length:* ~11m   
+*Rock type:* basalt *Cave type:* tectonic cave  
+[Benedetto et al. (1998) doi:10.5038/1827-806X.27.1.16](https://doi.org/10.5038/1827-806X.27.1.16)   
+
+---  
+<a name="ES-608a937d9b4827f902b02abf5867aee1"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva Fea**  
-*Length:* 55m   
+*Cave Name(s):* **Cueva Fea de Arico** Cueva Fea  
+*altitude:* 1620  
+*Length:* 55m *Vertical extent:* 2m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1518](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1518)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-99d4f7645c5497f675194f0cc0d3ac84"></a>
@@ -8624,12 +8783,14 @@ Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
 
 ---  
-<a name="ES-c8c40b73d1ab0d76f738d8ef4677c5fc"></a>
+<a name="ES-10965ad0235f397b6eafd50a8071fd54"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cueva Handa de Guimar**  
+*Cave Name(s):* **Cueva Honda de Güímar** Cueva de la Arena  
+*altitude:* 100  
 *Length:* 100m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1519](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1519)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-527b790a10eecd5806fb535b7fa51e25"></a>
@@ -8657,67 +8818,60 @@ Mexico - Morelos - Suchiooc volcano
 [Espinasa-Perena (1993) http://www.mexicancaves.org/nl/20.pdf](http://www.mexicancaves.org/nl/20.pdf)   
 
 ---  
-<a name="ES-0e32e7fa5bd835ce6a1f450188ae2776"></a>
-Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife  
-*Cave Name(s):* **Cueva Juli**  
-*Length:* 13m   
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1521](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1521)   
-
----  
 <a name="AR-b403d0ee8602ed513a356cae6d9af689"></a>
 Argentina - La Pampa  
 *Cave Name(s):* **Cueva La Alada**  
 *Length:* 264m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1145](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1145)   
 
 ---  
 <a name="ES-00f979bebca6f9e8f144842334075dd2"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife  
 *Cave Name(s):* **Cueva Labrada**  
+*altitude:* 1000  
+*Length:* 236m *Vertical extent:* 12m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1522](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1522)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-f656c2900541167f6a855d432dafd8fe"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife  
 *Cave Name(s):* **Cueva Las Mechas**  
-*Length:* 246m   
+*altitude:* 1000  
+*Length:* 246m *Vertical extent:* 9m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1523](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1523)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
-<a name="ES-d56c997f2c8b1771b3c5bc5dc174ff3e"></a>
+<a name="ES-28d002b3a28852401c8e35d2f9264191"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife  
-*Cave Name(s):* **Cueva los Guanehes**  
-*Length:* 18m   
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1524](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1524)   
-
----  
-<a name="ES-8a7b184725fef69bb43753eef7bf53d8"></a>
-Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife  
-*Cave Name(s):* **Cueva los Viejas**  
+*Cave Name(s):* **Cueva los Viejos**  
 *Length:* 70m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1525](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1525)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
-<a name="ES-2df920ba1ab8c2a79e0a03be4c953bfe"></a>
-Spain - Santa Cruz de Tenerife - Canary Islands; La Palma  
+<a name="ES-62b6eda8977002514df206db456374d2"></a>
+Spain - Santa Cruz de Tenerife; Santa Cruz - Canary Islands; La Palma  
 *Cave Name(s):* **Cueva MPT**  
 *Length:* 94m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1481](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1481)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
-<a name="ES-56206938e2dda67adc953d0ab1928be2"></a>
+<a name="ES-5c544c9765b73d2eec85b0a7d4acae97"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife  
-*Cave Name(s):* **Cueva Pepe el Chico**  
-*Length:* 158m   
+*Cave Name(s):* **Cueva de Pepe el Chico**  
+*altitude:* 420  
+*Length:* 158m *Vertical extent:* 14m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1526](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1526)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-37a9ff29f666863f06dfb3ab02bfac7e"></a>
@@ -8763,12 +8917,14 @@ Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
 
 ---  
-<a name="ES-bc3ac8b063c75f2ba9cdc35e5dda7fe8"></a>
+<a name="ES-6b524cff0517e13c375140cb556b0450"></a>
 Spain - Santa Cruz de Tenerife - Tenerife  
-*Cave Name(s):* **Cuevas Grandes de Chico**  
-*Length:* 200m   
+*Cave Name(s):* **Cueva Grandes de Chico**  
+*altitude:* 1100  
+*Length:* 350m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1528](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1528)   
+[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="MX-6c0844dcc80ce74dea96686f90ec76c2"></a>
@@ -9064,8 +9220,8 @@ United States of America - California; Siskiyou County - Shasta
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=617](https://rpif.asu.edu/LTdatabase/result.php?RECNO=617)   
 
 ---  
-<a name="US-fe3ec7f0a5b22b245380c6daaa43bb9d"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-3781f089abb347b5588eb3d9fa2bfbb6"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Dewdrop Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1023](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1023)   
@@ -11177,10 +11333,10 @@ Korea, Republic of - Jeju province - Jeju Island; Hyopje tube system; Hallim Par
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=670](https://rpif.asu.edu/LTdatabase/result.php?RECNO=670)   
 
 ---  
-<a name="KR-406e8d735bfd0f31701412b533889c47"></a>
+<a name="KR-84e55e1c05384da8e8dc0d5ee3642629"></a>
 Korea, Republic of - Jeju province - Jeju Island; Hyopje tube system; Hallim Park  
-*Cave Name(s):* **Ssang Ryong Gul** Ssangyonggul; Two Dragons; 쌍용굴  
-*altitude:* 15  
+*Cave Name(s):* **Ssangyonggul** 쌍용굴; Ssang Ryong Gul; Two Dragons  
+*Coordinates:* [33.3833, +126.244](https://maps.google.com/?ll=33.3833,126.244) *altitude:* 15  
 *Length:* 380m *Number of entrances:* 2  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=672](https://rpif.asu.edu/LTdatabase/result.php?RECNO=672)   
@@ -11338,8 +11494,8 @@ United States of America - Idaho; Butte County - Craters of the Moon
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1102](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1102)   
 
 ---  
-<a name="US-cad799da5bd731af5292cd0dbebb251b"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-edde5b3f14fcf17af29055c953434755"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Indian Tunnel**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1029](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1029)   
@@ -12081,6 +12237,7 @@ United States of America - Hawaii; Puna district - Hawaii Island; Kilauea; Ailaa
 Allred and Allred (1997) J. Cave Karst Stds. 59, 67-80  
 [Allred (2019) doi:10.1016/B978-0-12-814124-3.00073-X](https://doi.org/10.1016/B978-0-12-814124-3.00073-X)   
 [https://en.wikipedia.org/wiki/Kazumura_Cave](https://en.wikipedia.org/wiki/Kazumura_Cave)   
+[https://www.showcaves.com/english/usa/caves/Kazumura.html](https://www.showcaves.com/english/usa/caves/Kazumura.html)   
 
 ---  
 <a name="US-1a0c25a86e50cfb82a2fc7b361d36d4b"></a>
@@ -12553,8 +12710,8 @@ United States of America - Idaho; Lincoln County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1098](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1098)   
 
 ---  
-<a name="US-b5337c7f30a081a89e4ee7aca07752a2"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-e1549969f540242b6a3539192f47914e"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Last Chance Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1030](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1030)   
@@ -12611,8 +12768,8 @@ United States of America - Oregon; Lake County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1236](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1236)   
 
 ---  
-<a name="US-46540db40fb57030b93998bc18d1876b"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-e2e7c7c92afdd0b2169bb381fc3c8232"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Lava River Cave**  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1031](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1031)   
@@ -13185,9 +13342,9 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=643](https://rpif.asu.edu/LTdatabase/result.php?RECNO=643)   
 
 ---  
-<a name="KR-107efb3761dff4c3162a1b66ff02cb83"></a>
+<a name="KR-ca4d5f7842a3fe15c724dc6b7f555207"></a>
 Korea, Republic of - Jeju province - Jeju Island; Mt. Hanra; Geomunoreum  
-*Cave Name(s):* **Man Jang Gul** 만장굴; Manjanggul; Red Dragon Cave  
+*Cave Name(s):* **Manjanggul** 만장굴; Man Jang Gul; Red Dragon Cave  
 *altitude:* 120  
 *Length:* 8928m *Number of entrances:* 3  
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -13215,14 +13372,6 @@ United States of America - Hawaii; Kauai County - Kauai; Haena Beach Park
 [Leveille et al. (2000) doi:10.1016/S0009-2541(00)00213-8](https://doi.org/10.1016/S0009-2541(00)00213-8)   
 [Kociolek et al. (2013) doi:10.1080/09670262.2013.860239](https://doi.org/10.1080/09670262.2013.860239)   
 [https://www.showcaves.com/english/usa/caves/Waikanaloa.html](https://www.showcaves.com/english/usa/caves/Waikanaloa.html)   
-
----  
-<a name="US-74c12143c7e845adb8daa7464a5b2795"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands; Giant Crater Lava Flow  
-*Cave Name(s):*   
-*Length:* 69m   
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=626](https://rpif.asu.edu/LTdatabase/result.php?RECNO=626)   
 
 ---  
 <a name="FR-38dc81f49cd3331a222da3e713376933"></a>
@@ -14009,8 +14158,8 @@ Iceland - Gullbringusysla County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=168](https://rpif.asu.edu/LTdatabase/result.php?RECNO=168)   
 
 ---  
-<a name="US-2d2f70e2cce3a5686e94bb04c0344c9b"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-6dad32b40cd2785b059aa4bef43a960b"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Needles Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1034](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1034)   
@@ -15053,7 +15202,9 @@ United States of America - Hawaii - Oahu; Koolau
 *Cave Name(s):* **Pupukea Cave**  
 *Length:* 55m   
 *Rock type:* basalt *Cave type:* lava tunnel  
+*Contents:* troglobites  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=813](https://rpif.asu.edu/LTdatabase/result.php?RECNO=813)   
+[Munchmore (1983) http://hbs.bishopmuseum.org/pi/pdf/25(1)-84.pdf](http://hbs.bishopmuseum.org/pi/pdf/25(1)-84.pdf)   
 
 ---  
 <a name="US-facf78f61da67fc96f126fd05edff945"></a>
@@ -16216,8 +16367,8 @@ United States of America - Washington
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1755](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1755)   
 
 ---  
-<a name="US-47702b1199f0abca04de48596cb25229"></a>
-United States of America - Oregon; Deschutes County  
+<a name="US-54e897dda7652157d670e2d1a30fe9a2"></a>
+United States of America - Oregon; Deschutes County - Newberry volcano  
 *Cave Name(s):* **Skeleton Cave**  
 *Length:* 1042m   
 *Cave type:* lava tunnel  
@@ -16358,7 +16509,7 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 <a name="KR-cba1603643cb9a3494bf9d453a0c4366"></a>
 Korea, Republic of - Jeju province - Jeju Island; Hyopje tube system  
 *Cave Name(s):* **Sochon Kul** Sochon Gul; Stream Cave; Creek Cave  
-*altitude:* 150  
+*Coordinates:* [33.3647, +126.261](https://maps.google.com/?ll=33.3647,126.261) *altitude:* 150  
 *Length:* 3074m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=671](https://rpif.asu.edu/LTdatabase/result.php?RECNO=671)   
@@ -16763,8 +16914,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=553](https://rpif.asu.edu/LTdatabase/result.php?RECNO=553)   
 
 ---  
-<a name="US-ebee43b74efbb7d66ce5563188bacf42"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-bc06cee13d1d838e28d5ff52a93cf2fa"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Sunbear  Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1035](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1035)   
@@ -16806,8 +16957,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 *Cave use:* self-guided tourist cave  
 
 ---  
-<a name="US-182c47cfc93167aa54573d94077dcb51"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-5f2dc7639df733ef4f6fed7d2195d158"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Surprise Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1036](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1036)   
@@ -17370,11 +17521,12 @@ Australia - Queensland - Undara
 [Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf](http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf)   
 
 ---  
-<a name="US-a8da7ed7f0137d57e6693af2812db7ee"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-dcc5842612d8a5f55fd213338e1f9ff0"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Tom Thumb Tunnel**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1037](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1037)   
+[https://mapcarta.com/N4928422575](https://mapcarta.com/N4928422575)   
 
 ---  
 <a name="US-39e28514031f77f8cefb37c77b498db3"></a>
@@ -18011,13 +18163,6 @@ United States of America - Hawaii - Maui; Haleakala National Park
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=955](https://rpif.asu.edu/LTdatabase/result.php?RECNO=955)   
 
 ---  
-<a name="US-3399e53e1c64e0712986211b27aabb2a"></a>
-United States of America - Oregon; Deschutes County  
-*Cave Name(s):* **Walk-in-Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1304](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1304)   
-
----  
 <a name="NZ-0ed2024392ae77b86eebcf3a2dd4b23f"></a>
 New Zealand - Auckland City - Rangitoto  
 *Cave Name(s):* **Wallaby Cave**  
@@ -18482,11 +18627,13 @@ Japan - Mt. Fuji
 ---  
 <a name="JO-6bbf0d56879e15035e2a176b6e3d0a0a"></a>
 Jordan  
-*Cave Name(s):* **Al-Fahda Cave (Lioness Cave)**  
+*Cave Name(s):* **Al-Fahda Cave (Lioness Cave)** Khsheifa Cave  
 *Coordinates:* [32.30, +37.12](https://maps.google.com/?ll=32.30,37.12) *altitude:* 792  
 *Length:* 924m *Vertical extent:* 7m   
 *Cave type:* lava tunnel  
 [Al-Malabeh et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p10.pdf](http://www.vulcanospeleology.org/sym12/ISV12p10.pdf)   
+[Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf](https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf)   
+[Frumkin et al. (2008) doi:10.1016/j.yqres.2008.06.004](https://doi.org/10.1016/j.yqres.2008.06.004)   
 
 ---  
 <a name="JO-8c1cb307c0ad7876d20bc7d1c2136eda"></a>
@@ -18567,7 +18714,7 @@ Korea, Republic of - Jeju province - Jeju Island; Geomunereum
 <a name="KR-8cb1d7d74d15eeabe44af15833c41091"></a>
 Korea, Republic of - Jeju province - Jeju Island  
 *Cave Name(s):* **Yongcheon Cave**  
-*Length:* 3360m   
+*Length:*  >3360m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Comments:* carbonate speleothems in lava tube  
 [Lee et al. (2013) doi:10.1016/j.nimb.2012.09.029](https://doi.org/10.1016/j.nimb.2012.09.029)   
@@ -18591,21 +18738,32 @@ Russia - Kamchatka peninsula; Gorley-3 volcano
 Abdullin (2013) Cave Karst Sci. 40(3), 141  
 
 ---  
-<a name="ES-2ee3b8c60728304d314c695aa5c5713d"></a>
-Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island; Tanganasoga volcano  
+<a name="ES-713887c7f7506d258c62e108a364edce"></a>
+Spain - Santa Cruz de Tenerife; Frontera - Canary Islands; El Hierro Island; Tanganasoga volcano  
 *Cave Name(s):* **Sima Las Palomas**  
 *Length:* 300m *Vertical extent:* 75m   
 *Cave type:* lava tunnel  
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
 
 ---  
-<a name="ES-3c7ad78ed6ed08bea6bc93ce273d9d28"></a>
+<a name="ES-8a7e2fee683345e7c9d8ab444a1293fd"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island  
-*Cave Name(s):* **Cave of Mocan**  
+*Cave Name(s):* **Cueva del Mocan** Cave of Mocan  
 *altitude:* 1100  
 *Length:* 214m   
 *Cave type:* lava tunnel  
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
+
+---  
+<a name="IT-c905911c4f155b004c7902760bbdda74"></a>
+Italy - Campania; Naples  
+*Cave Name(s):* **Grotta dello Zolfo** Grotta di Allume; Alum Cave  
+*Coordinates:* [40.79333, +14.08417](https://maps.google.com/?ll=40.79333,14.08417)   
+*Rock type:* tuff *Cave type:* tectonic cave  
+*Contents:* minerals  
+*Comments:* hosts more than ten rare minerals  
+[https://www.mindat.org/loc-2072.html](https://www.mindat.org/loc-2072.html)   
+[Forti et al. (1994) http://vulcanospeleology.org/sym07/ISV7x06.pdf](http://vulcanospeleology.org/sym07/ISV7x06.pdf)   
 
 ---  
 <a name="US-75d63e8383cd3d1700e0cdf026f7b646"></a>
@@ -18640,6 +18798,7 @@ United States of America - Hawaii; Kauai County - Kauai
 [Burney et al. (2006) doi:10.1007/s10745-006-9015-3](https://doi.org/10.1007/s10745-006-9015-3)   
 David Burney (2011) "Back to the Future in the Caves of Kaua'i", Yale University Press, 216 pages  
 [Porch (2020) doi:10.11646/zootaxa.4868.1.8](https://doi.org/10.11646/zootaxa.4868.1.8)   
+[https://en.wikipedia.org/wiki/Makauwahi_Cave](https://en.wikipedia.org/wiki/Makauwahi_Cave)   
 *Cave use:* guided tourist cave  
 
 ---  
@@ -18719,7 +18878,7 @@ United States of America - Hawaii - Hawaii Island; Kilauea
 *Rock type:* basalt *Cave type:* lava tunnel  
  *Part of* [Kazumura Cave](#US-6f199162c085ec13c6639bbbc0b91aa3)  
 [Bunnell and Liebman (1992) http://www.vulcanospeleology.org/sym06/ISV6x06.pdf](http://www.vulcanospeleology.org/sym06/ISV6x06.pdf)   
-Allred and Allred (1997) J. Cave Karst Stds. 59, 67-80  
+[Allred and Allred (1997) J. Cave Karst Stds. 59, 67-80 https://digital.lib.usf.edu/content/SF/S0/05/24/66/00001/K26-02017-V59N2-Allred.pdf](https://digital.lib.usf.edu/content/SF/S0/05/24/66/00001/K26-02017-V59N2-Allred.pdf)   
 
 ---  
 <a name="US-480d2a10b416cb7359bb1a077806ec8c"></a>

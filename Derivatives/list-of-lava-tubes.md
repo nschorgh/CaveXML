@@ -1,8 +1,9 @@
 List of Lava Tubes
 ==================
-This list of 1602 volcanic caves was generated from a CaveXML formatted database. - Jan 22, 2021  
+This list of 1601 volcanic caves was generated from a CaveXML formatted database. - Jan 30, 2021  
 
 Argentina - Catamarca [**Cueva de San Fransisco** ](allcaves-database.md#AR-f2fbc650814457f91bc4c9138898d1e0)  
+Argentina [**Cueva del Tigre** ](allcaves-database.md#AR-cb44ad968467a4c87a3495ac42cb0a89)  
 Argentina - La Pampa [**Cueva La Alada** ](allcaves-database.md#AR-b403d0ee8602ed513a356cae6d9af689)  
 Argentina - Mendoza [**Cueva Dona Otilia** ](allcaves-database.md#AR-2c91de573a95747d231f45cc52af428c)  
 Argentina - Neguen [**Caverna de los Gatos** Caverna de la Sobrecueva ](allcaves-database.md#AR-7fca2c85a5e23f6cfcc7bd6485c11030)  
@@ -401,7 +402,7 @@ Japan [**Zinza Fuketsu No. 9 Cave** ](allcaves-database.md#JP-5efffc333a62ed4333
 Jordan [**Abu Al-Kursi East** ](allcaves-database.md#JO-561f61ff9d2f4de5f49f652d4efc62f8)  
 Jordan [**Al-Ameed Cave** ](allcaves-database.md#JO-1446e8f0fb19c03c5228531875f14b54)  
 Jordan [**Al-Badia Cave** ](allcaves-database.md#JO-8c1cb307c0ad7876d20bc7d1c2136eda)  
-Jordan [**Al-Fahda Cave (Lioness Cave)** ](allcaves-database.md#JO-6bbf0d56879e15035e2a176b6e3d0a0a)  
+Jordan [**Al-Fahda Cave (Lioness Cave)** Khsheifa Cave ](allcaves-database.md#JO-6bbf0d56879e15035e2a176b6e3d0a0a)  
 Jordan [**Al-Howa** ](allcaves-database.md#JO-84ee850e027cf691bdd8fd07ad191abc)  
 Jordan [**Hashemite University Cave** ](allcaves-database.md#JO-15940e14a78559a2ce005af34998cfc8)  
 Kenya [**Chepyanili Caves** ](allcaves-database.md#KE-58a3cccde239910a788558a7059fa037)  
@@ -434,17 +435,17 @@ Kenya - Rift Valley Province; Kajiado District [**Cave 18** ](allcaves-database.
 Kenya - Rift Valley Province; Kajiado District [**Cave 20** ](allcaves-database.md#KE-0d1fc828e213f89b1dce44d93bcd2b7a)  
 Kenya - Rift Valley Province; Kajiado District [**Cave 21** ](allcaves-database.md#KE-0f1d5faac223bdc767b6bf027cbf89f7)  
 Kenya - Rift Valley Province; Kajiado District [**Cave 3** ](allcaves-database.md#KE-845a9bc7556335e99e9081798e87f084)  
-Korea, Republic of - Jeju province [**Billemot Gul** Rock Pond Cave; Bilemot Gul; Billemotdonggul Lava Tube ](allcaves-database.md#KR-463e0a785e3796c84af0b8b2e3fe0bad)  
+Korea, Republic of - Jeju province [**Billemot Gul** Rock Pond Cave; Bilemot Gul; Pillemot Cave; Billemotdonggul Lava Tube; Labyrinth Cave ](allcaves-database.md#KR-463e0a785e3796c84af0b8b2e3fe0bad)  
 Korea, Republic of - Jeju province [**Dangcheomul Cave** ](allcaves-database.md#KR-17760c616f7c2f9bc9ab03022881d574)  
 Korea, Republic of - Jeju province [**Gim Nyeong** 김녕굴; Gimnyeonggul; Sagul Cave; Snake Cave; Kimyŏnggul ](allcaves-database.md#KR-d825c62f4b5668b60d77ef659f2dd209)  
 Korea, Republic of - Jeju province [**Handeul-kunyeong** Handul Kul ](allcaves-database.md#KR-f01e6bdaf1b7ed6ed62ea901e2d6a153)  
 Korea, Republic of - Jeju province [**Hwang Gum Gul** Hwanggeumgul; Golden Cave; 황금굴 ](allcaves-database.md#KR-4fa3f82046dc48b1109ce3fb578cd6f8)  
 Korea, Republic of - Jeju province [**Hyeopjae Cave** Hyopje Cave; 협재굴 ](allcaves-database.md#KR-8f1c31751eb3f35bfc082de266fd7b5a)  
-Korea, Republic of - Jeju province [**Man Jang Gul** 만장굴; Manjanggul; Red Dragon Cave ](allcaves-database.md#KR-107efb3761dff4c3162a1b66ff02cb83)  
+Korea, Republic of - Jeju province [**Manjanggul** 만장굴; Man Jang Gul; Red Dragon Cave ](allcaves-database.md#KR-ca4d5f7842a3fe15c724dc6b7f555207)  
 Korea, Republic of - Jeju province [**Michon Gul** ](allcaves-database.md#KR-37f74359aa7a55b493c139738404aa0d)  
 Korea, Republic of - Jeju province [**Seong-gul** ](allcaves-database.md#KR-2110927b0659441797cfd15d034150f4)  
 Korea, Republic of - Jeju province [**Sochon Kul** Sochon Gul; Stream Cave; Creek Cave ](allcaves-database.md#KR-cba1603643cb9a3494bf9d453a0c4366)  
-Korea, Republic of - Jeju province [**Ssang Ryong Gul** Ssangyonggul; Two Dragons; 쌍용굴 ](allcaves-database.md#KR-406e8d735bfd0f31701412b533889c47)  
+Korea, Republic of - Jeju province [**Ssangyonggul** 쌍용굴; Ssang Ryong Gul; Two Dragons ](allcaves-database.md#KR-84e55e1c05384da8e8dc0d5ee3642629)  
 Korea, Republic of - Jeju province [**Susan Gul** Susandonggul Lava Tube ](allcaves-database.md#KR-75cc6f80cc0a12e48e5fb86abb197301)  
 Korea, Republic of - Jeju province [**Wa Hol Gul** Waful Kul; Wahul Kul ](allcaves-database.md#KR-952d93bb1cbec19f369cb67ada5882ec)  
 Korea, Republic of - Jeju province [**Yongcheon Cave** ](allcaves-database.md#KR-8cb1d7d74d15eeabe44af15833c41091)  
@@ -478,6 +479,7 @@ Mexico - Morelos [**Cueva de Eduardo** ](allcaves-database.md#MX-e9bc135d4e51fd3
 Mexico - Morelos [**Cueva del Arbol** ](allcaves-database.md#MX-bc14a3a5528a99a01f8275946f463787)  
 Mexico - Morelos [**Cueva del Diablo** ](allcaves-database.md#MX-7201e5acf402fa501100e9621a1fa258)  
 Mexico - Morelos [**Cueva del Ferrocarril-Mina Inferior** Sistema Ferrocarril-Mina Inferior ](allcaves-database.md#MX-95d1013e4757e2b49bf40cb8dab3bf98)  
+Mexico - Morelos [**Cueva del Naranjo Rojo** ](allcaves-database.md#MX-58bfe0ec8bc02c0415901b0a85146c38)  
 Mexico - Morelos [**Cueva del Potrero** ](allcaves-database.md#MX-a9c994b5ce79ab13d7c8fa120a14b59a)  
 Mexico - Morelos [**Cueva de Tatamasquio** ](allcaves-database.md#MX-d71afa72c5942d06ab96a41eb5ced760) *Part of* Sistema Chimalacatepec  
 Mexico - Morelos [**Cueva Iztaxiatla** ](allcaves-database.md#MX-bc3e7f2409344cb2403b6a8d5bbe8a9f) *Part of* Sistema Chimalacatepec  
@@ -583,15 +585,14 @@ Spain - Las Palmas [**Cueva del Llano** ](allcaves-database.md#ES-a25383c65363a8
 Spain - Las Palmas [**Cueva de los Naturalistas** ](allcaves-database.md#ES-96e8fadd6ff349877f54497ded7783c0)  
 Spain - Las Palmas [**Cueva de los Verdes** Corona Lava Tube ](allcaves-database.md#ES-2f9f08180eef7bd60bfd8ff4f08d7f25)  
 Spain - Las Palmas [**Tunel de la Atlantida** ](allcaves-database.md#ES-c5981a1a916cefce87d884c850717bd0) *Part of* Cueva de los Verdes  
-Spain - Santa Cruz de Tenerife [**Cave of Mocan** ](allcaves-database.md#ES-3c7ad78ed6ed08bea6bc93ce273d9d28)  
+Spain - Santa Cruz de Tenerife; Candelaria [**Cueva de Candelaria** ](allcaves-database.md#ES-3458cdc458efeedb2b45cdc227945326)  
 Spain - Santa Cruz de Tenerife [**Cueva Buzanada** ](allcaves-database.md#ES-125de979d5e0c38c9ecb24dee9be9c3f)  
 Spain - Santa Cruz de Tenerife [**Cueva Cabeza de Perro** ](allcaves-database.md#ES-e6d43d223bae4611b08cb927f954fa01)  
 Spain - Santa Cruz de Tenerife [**Cueva de Amara Pango** ](allcaves-database.md#ES-4f52fdaaeadb9f567a17fac0f659f1a9)  
-Spain - Santa Cruz de Tenerife [**Cueva de Arafa** ](allcaves-database.md#ES-2d5e140b58b7e92a2c335b4687b437a1)  
+Spain - Santa Cruz de Tenerife [**Cueva de Arafo** ](allcaves-database.md#ES-9286665524c1ddb843f7496484b55565)  
 Spain - Santa Cruz de Tenerife [**Cueva de Benisahare** ](allcaves-database.md#ES-c8d1f48d64253bc3ef367770d9388b30)  
-Spain - Santa Cruz de Tenerife [**Cueva de Bicho** ](allcaves-database.md#ES-a4d99a99b20820f1e1dca00f7bb55fde)  
 Spain - Santa Cruz de Tenerife [**Cueva de Chiguergue** ](allcaves-database.md#ES-bf3ecc97f252cd760aab9afd3ebf1fc3)  
-Spain - Santa Cruz de Tenerife [**Cueva de Cuaclo de las Mo** ](allcaves-database.md#ES-41af69f0879a28464f91486753f3d6ed)  
+Spain - Santa Cruz de Tenerife [**Cueva de Cuaclo de las Mo** Cuaclo de la Molera ](allcaves-database.md#ES-41af69f0879a28464f91486753f3d6ed)  
 Spain - Santa Cruz de Tenerife [**Cueva de Don Cesar** ](allcaves-database.md#ES-2b1d49e63ba53c9fd24252c8766eae4f)  
 Spain - Santa Cruz de Tenerife [**Cueva de Don Justo** ](allcaves-database.md#ES-00259bdabb0744cb577e989b66d7e425)  
 Spain - Santa Cruz de Tenerife [**Cueva de Escondido** ](allcaves-database.md#ES-119f1c8fb2617aa383e978d61dd0095c)  
@@ -600,58 +601,58 @@ Spain - Santa Cruz de Tenerife [**Cueva de Guajara** ](allcaves-database.md#ES-2
 Spain - Santa Cruz de Tenerife [**Cueva de Hielo del Teide** Cueva del Hielo; Teide Ice Cave; Altavista Ice Cave; Cueva de Salitre ](allcaves-database.md#ES-d89cacafdd7645ce69e3c7c01abcf6a0)  
 Spain - Santa Cruz de Tenerife [**Cueva de Hoyo** ](allcaves-database.md#ES-328688fcd774642745daff13ac10e9f4)  
 Spain - Santa Cruz de Tenerife [**Cueva de la Amargura** ](allcaves-database.md#ES-0e8a38c91423b5f2d2edb0ea35e89c79)  
-Spain - Santa Cruz de Tenerife [**Cueva de la Candelaria** ](allcaves-database.md#ES-dda204f425dbcda29a7245c483f6f625)  
-Spain - Santa Cruz de Tenerife [**Cueva del Acontilado** ](allcaves-database.md#ES-151b813707a1e617af7e9c884b774ae8)  
+Spain - Santa Cruz de Tenerife [**Cueva del Acantilado** ](allcaves-database.md#ES-dce490f83d8fc2630627b4ac1a963710)  
 Spain - Santa Cruz de Tenerife [**Cueva de la Cruz** ](allcaves-database.md#ES-0471ffef8e56a9ed356f5ae67e01f8e3)  
-Spain - Santa Cruz de Tenerife [**Cueva de la Desilusion** ](allcaves-database.md#ES-3731e8fa1e82c3f2de4fe5130716be57)  
-Spain - Santa Cruz de Tenerife [**Cueva de la Plaza de Toro** ](allcaves-database.md#ES-2f8892ae39547c2f54668f8b21146df1)  
-Spain - Santa Cruz de Tenerife [**Cueva de la Refineria** ](allcaves-database.md#ES-5295d7b1062c527da252aa96eda16c26)  
+Spain - Santa Cruz de Tenerife [**Cueva de la Plaza de Toros** ](allcaves-database.md#ES-cc8d31ee5b078f9d4fd67328eed91995)  
+Spain - Santa Cruz de Tenerife [**Cueva de la Refineria** ](allcaves-database.md#ES-4aaaa1edaa46303e4c52d25c6b262262)  
 Spain - Santa Cruz de Tenerife [**Cueva de las Abejas** ](allcaves-database.md#ES-1b1994da0f4803823b8a79872322478c)  
 Spain - Santa Cruz de Tenerife [**Cueva de las Eras** ](allcaves-database.md#ES-a4f385e784ff542ada388c64185a0f0c)  
 Spain - Santa Cruz de Tenerife [**Cueva de las Jordis** ](allcaves-database.md#ES-1f0a20c84fd3b69e86d93a346c6829ab)  
 Spain - Santa Cruz de Tenerife [**Cueva del Becerril** ](allcaves-database.md#ES-45187b19f29be4da3c0472a5c018d3cd)  
-Spain - Santa Cruz de Tenerife [**Cueva del Bucia** ](allcaves-database.md#ES-15dec4c32693797faebdba1ae564bb92)  
+Spain - Santa Cruz de Tenerife [**Cueva del Bucio** ](allcaves-database.md#ES-54dc6d233bc269783f6b9d1389ff83a9)  
 Spain - Santa Cruz de Tenerife [**Cueva del Bujeno** ](allcaves-database.md#ES-303eaa7c1700900858061a5e69bdbe4b)  
 Spain - Santa Cruz de Tenerife [**Cueva del Conchero** ](allcaves-database.md#ES-a603696db02ccfe5d466d4890a860b9c)  
 Spain - Santa Cruz de Tenerife [**Cueva del Gato Feo** ](allcaves-database.md#ES-fdbcd0702979ae1fdd35477567ff02ae)  
 Spain - Santa Cruz de Tenerife [**Cueva del Judith** ](allcaves-database.md#ES-e41a54b8a3e09cd67403560613d0c20a)  
-Spain - Santa Cruz de Tenerife [**Cueva del Metra** ](allcaves-database.md#ES-dcca9f7d4ae82831c56192121e91f33f)  
+Spain - Santa Cruz de Tenerife [**Cueva del Metra** Cueva Joe M. Glez. Gomez ](allcaves-database.md#ES-dcca9f7d4ae82831c56192121e91f33f)  
 Spain - Santa Cruz de Tenerife [**Cueva del Miedo** ](allcaves-database.md#ES-1d42bdfcb6d8f0d5a07cd00d5e47ea3d)  
-Spain - Santa Cruz de Tenerife [**Cueva de los Cazadores** ](allcaves-database.md#ES-a71981774174454021a85a401c2c4fad)  
-Spain - Santa Cruz de Tenerife [**Cueva de los Conejos** ](allcaves-database.md#ES-9255bb64ecefb224122d324348413003)  
-Spain - Santa Cruz de Tenerife [**Cueva de los Palmeros** ](allcaves-database.md#ES-d80fec6b0c2986d98ab445fd8bb9bef9)  
-Spain - Santa Cruz de Tenerife [**Cueva de los Pandelas** ](allcaves-database.md#ES-d5d1dee97b3685746c5bca50b5024cc2)  
-Spain - Santa Cruz de Tenerife [**Cueva de los Roques** ](allcaves-database.md#ES-c0918cacd6f8557e0043741d15577e35)  
-Spain - Santa Cruz de Tenerife [**Cueva de los Valemcianos** ](allcaves-database.md#ES-97333a7744d7d980ec50d19242aaaca1)  
-Spain - Santa Cruz de Tenerife [**Cueva del Pozo** ](allcaves-database.md#ES-0267e7f601d1f1159b851de99d287360)  
+Spain - Santa Cruz de Tenerife [**Cueva del Mocan** Cave of Mocan ](allcaves-database.md#ES-8a7e2fee683345e7c9d8ab444a1293fd)  
+Spain - Santa Cruz de Tenerife [**Cueva de los Conejos** ](allcaves-database.md#ES-7bddc0017ba641552428e7089c0d8ce5)  
+Spain - Santa Cruz de Tenerife [**Cueva de los Pardelas** ](allcaves-database.md#ES-e1fd07873552ebf3583244d9a5006dd4)  
 Spain - Santa Cruz de Tenerife [**Cueva del Refugio** ](allcaves-database.md#ES-7e39fab7710d4ac29ec8b2458abb3a16)  
-Spain - Santa Cruz de Tenerife [**Cueva del Sohoada** ](allcaves-database.md#ES-afe93e86a0f613386741e53ee0b80203)  
 Spain - Santa Cruz de Tenerife [**Cueva del Valle** ](allcaves-database.md#ES-c589189015bf4b597c68f62de69a7350)  
-Spain - Santa Cruz de Tenerife [**Cueva del Viento** El Viento cave ](allcaves-database.md#ES-7a16bf26a547c98e604915188c2ccf93)  
-Spain - Santa Cruz de Tenerife [**Cueva de Maestro Pipe** ](allcaves-database.md#ES-709388802d9f25e6c780a9e98fbac32b)  
-Spain - Santa Cruz de Tenerife [**Cueva de Maunicico** ](allcaves-database.md#ES-8e1cd46dbe32760988d5264b464659d0)  
+Spain - Santa Cruz de Tenerife [**Cueva del Viento** El Viento cave; Cueva del Viento-Sobrado ](allcaves-database.md#ES-7a16bf26a547c98e604915188c2ccf93)  
+Spain - Santa Cruz de Tenerife [**Cueva de Maestro Pepe** ](allcaves-database.md#ES-cccd917a40eed3a81884cef87e80bcae)  
+Spain - Santa Cruz de Tenerife [**Cueva de Mauricico** Cueva de Mauricico Laderas ](allcaves-database.md#ES-6799b1d3b1d794a41aeea73788e04b18)  
+Spain - Santa Cruz de Tenerife [**Cueva de Pepe el Chico** ](allcaves-database.md#ES-5c544c9765b73d2eec85b0a7d4acae97)  
 Spain - Santa Cruz de Tenerife [**Cueva de Punto Blanco** ](allcaves-database.md#ES-99999c613e40945669732517d1ecd62b)  
 Spain - Santa Cruz de Tenerife [**Cueva de Samara** ](allcaves-database.md#ES-bf29b69077e0744d70008ac422af65a8)  
-Spain - Santa Cruz de Tenerife [**Cueva de San Andres** ](allcaves-database.md#ES-9bb09ddb3248f247f1cbe0890d586090)  
 Spain - Santa Cruz de Tenerife [**Cueva de San Marcos** ](allcaves-database.md#ES-be1a59a657a2e92dec809c9be5722030)  
-Spain - Santa Cruz de Tenerife [**Cueva Fea** ](allcaves-database.md#ES-97ef5d02d3a2384f07b2215b7a709695)  
+Spain - Santa Cruz de Tenerife [**Cueva Fea de Arico** Cueva Fea ](allcaves-database.md#ES-608a937d9b4827f902b02abf5867aee1)  
 Spain - Santa Cruz de Tenerife [**Cueva Grande de Orchilla** ](allcaves-database.md#ES-99d4f7645c5497f675194f0cc0d3ac84)  
-Spain - Santa Cruz de Tenerife [**Cueva Handa de Guimar** ](allcaves-database.md#ES-c8c40b73d1ab0d76f738d8ef4677c5fc)  
+Spain - Santa Cruz de Tenerife [**Cueva Grandes de Chico** ](allcaves-database.md#ES-6b524cff0517e13c375140cb556b0450)  
 Spain - Santa Cruz de Tenerife [**Cueva Harrouth 32** ](allcaves-database.md#ES-527b790a10eecd5806fb535b7fa51e25)  
-Spain - Santa Cruz de Tenerife [**Cueva Juli** ](allcaves-database.md#ES-0e32e7fa5bd835ce6a1f450188ae2776)  
+Spain - Santa Cruz de Tenerife [**Cueva Honda de Güímar** Cueva de la Arena ](allcaves-database.md#ES-10965ad0235f397b6eafd50a8071fd54)  
 Spain - Santa Cruz de Tenerife [**Cueva Labrada** ](allcaves-database.md#ES-00f979bebca6f9e8f144842334075dd2)  
 Spain - Santa Cruz de Tenerife [**Cueva Las Mechas** ](allcaves-database.md#ES-f656c2900541167f6a855d432dafd8fe)  
-Spain - Santa Cruz de Tenerife [**Cueva los Guanehes** ](allcaves-database.md#ES-d56c997f2c8b1771b3c5bc5dc174ff3e)  
-Spain - Santa Cruz de Tenerife [**Cueva los Viejas** ](allcaves-database.md#ES-8a7b184725fef69bb43753eef7bf53d8)  
-Spain - Santa Cruz de Tenerife [**Cueva MPT** ](allcaves-database.md#ES-2df920ba1ab8c2a79e0a03be4c953bfe)  
-Spain - Santa Cruz de Tenerife [**Cueva Pepe el Chico** ](allcaves-database.md#ES-56206938e2dda67adc953d0ab1928be2)  
+Spain - Santa Cruz de Tenerife [**Cueva los Viejos** ](allcaves-database.md#ES-28d002b3a28852401c8e35d2f9264191)  
 Spain - Santa Cruz de Tenerife [**Cueva Roja** ](allcaves-database.md#ES-37a9ff29f666863f06dfb3ab02bfac7e)  
 Spain - Santa Cruz de Tenerife [**Cueva Roques Blancos** ](allcaves-database.md#ES-2259996868deb17c5c5788c57fd1bd1e)  
 Spain - Santa Cruz de Tenerife [**Cuevas de Guinea** ](allcaves-database.md#ES-33ccbeb40b5e2ebdcafb909b381a6f44)  
 Spain - Santa Cruz de Tenerife [**Cuevas de la Lechera** ](allcaves-database.md#ES-4d59833884b24c092542138872829d37)  
 Spain - Santa Cruz de Tenerife [**Cuevas de la Monteserrat** ](allcaves-database.md#ES-20f917b3b34fcf735d52807c5fe46113)  
-Spain - Santa Cruz de Tenerife [**Cuevas Grandes de Chico** ](allcaves-database.md#ES-bc3ac8b063c75f2ba9cdc35e5dda7fe8)  
-Spain - Santa Cruz de Tenerife [**Sima Las Palomas** ](allcaves-database.md#ES-2ee3b8c60728304d314c695aa5c5713d)  
+Spain - Santa Cruz de Tenerife [**Cuevas Negras** ](allcaves-database.md#ES-095a76e288771795e127286732c640a7)  
+Spain - Santa Cruz de Tenerife; Frontera [**Sima Las Palomas** ](allcaves-database.md#ES-713887c7f7506d258c62e108a364edce)  
+Spain - Santa Cruz de Tenerife; Fuencaliente [**Cueva de los Palmeros** ](allcaves-database.md#ES-e89f43db47cef8e250ef5874a427bc08)  
+Spain - Santa Cruz de Tenerife; Fuencaliente [**Cueva de los Plameros** ](allcaves-database.md#ES-129bd2e3148d3d1148ef0f93b96f78a1)  
+Spain - Santa Cruz de Tenerife; Icod de los Vinos [**Cueva de la Candelaria** ](allcaves-database.md#ES-313c7391c3af73393303c9c1b10ce3ea)  
+Spain - Santa Cruz de Tenerife; La Frontera [**Cueva de La Curva** Cave of La Curva ](allcaves-database.md#ES-f3d7dc31bc29d36f1d31a263026f51d0)  
+Spain - Santa Cruz de Tenerife; La Frontera [**Cueva de Tacoron** ](allcaves-database.md#ES-343b26ab5a7ecda51fd2ff47b200d24c)  
+Spain - Santa Cruz de Tenerife; La Laguna [**Cueva de Los Valencianos** ](allcaves-database.md#ES-92b856e53a7ebc6e6132d5f92bbd70d1)  
+Spain - Santa Cruz de Tenerife; La Orotava [**Cueva del Bucio** ](allcaves-database.md#ES-73436b09611f6b5fc0d80cd9da3dffa2)  
+Spain - Santa Cruz de Tenerife; Las Canadas [**Cueva de los Roques** ](allcaves-database.md#ES-40ecacf8fd9a71f998c37c3a7e2e8b12)  
+Spain - Santa Cruz de Tenerife; Santa Cruz [**Cueva MPT** ](allcaves-database.md#ES-62b6eda8977002514df206db456374d2)  
+Spain - Santa Cruz de Tenerife; Valverde [**Cueva de San Andres** Cueva de los Pozos ](allcaves-database.md#ES-16b8519a846e3ee9da467a1cdc1be48f)  
 Syria [**Ariqa Cave** Aariqa Cave ](allcaves-database.md#SY-a29501701a523beca597c025c0a4d639)  
 Syria - Assuwayda [**Tell Shihan Tubes** ](allcaves-database.md#SY-00bfc7704f2a113331dc1781d6f5d8b0)  
 Syria [**Umm ar Rumman** ](allcaves-database.md#SY-ba5df02d0ad9fec7f757591fd60bc22c)  
@@ -729,7 +730,6 @@ United States of America - California; Shasta County [**Wilcox Cave** ](allcaves
 United States of America - California; Siskiyou County [**Adam's Homestead Cave** ](allcaves-database.md#US-cbf7e97019b208aec2dcf44445d38793)  
 United States of America - California; Siskiyou County [**Air Passage** ](allcaves-database.md#US-eb43054f1a826ac1c2de0f07e1c349c8)  
 United States of America - California; Siskiyou County [**Alarming Extension** ](allcaves-database.md#US-c00d19c7dc087be4079ed753387a521d)  
-United States of America - California; Siskiyou County [ ](allcaves-database.md#US-74c12143c7e845adb8daa7464a5b2795)  
 United States of America - California; Siskiyou County [**Amazing Pits Cave** ](allcaves-database.md#US-ca280801e715191ddbcf8276db182421)  
 United States of America - California; Siskiyou County [**Amoeba Cave** ](allcaves-database.md#US-ff019cbe696749afa77c3e2ba8dd7e7a)  
 United States of America - California; Siskiyou County [**Angleworm cave** ](allcaves-database.md#US-f0843497b968498d909640c686fc7df9)  
@@ -1172,9 +1172,9 @@ United States of America - Idaho; Bonneville County [**Mulhall Cave** ](allcaves
 United States of America - Idaho; Bringham County [**College Cave** ](allcaves-database.md#US-582dd840995595b62b81228509aa6044)  
 United States of America - Idaho; Butte County [**Ampitheater Cave** ](allcaves-database.md#US-57a9c68c183a7b082820dfd7ffcf6ada)  
 United States of America - Idaho; Butte County [**Arco Tunnel** ](allcaves-database.md#US-df85cad59a4081d4f6b5738761c74529)  
-United States of America - Idaho; Butte County [**Boy Scout Cave** ](allcaves-database.md#US-03e84ade76dd35977e1bcc33e1ca5007)  
+United States of America - Idaho; Butte County [**Boy Scout Cave** ](allcaves-database.md#US-fb672da215b7a63a8da8805a22311591)  
 United States of America - Idaho; Butte County [**Buffalo Caves** ](allcaves-database.md#US-43d39f0bbdd4d4bc3c0dc9ffe139d80e)  
-United States of America - Idaho; Butte County [**Dewdrop Cave** ](allcaves-database.md#US-fe3ec7f0a5b22b245380c6daaa43bb9d)  
+United States of America - Idaho; Butte County [**Dewdrop Cave** ](allcaves-database.md#US-3781f089abb347b5588eb3d9fa2bfbb6)  
 United States of America - Idaho; Butte County [**Government Cave** ](allcaves-database.md#US-ff9002a0f16ff71d30f3e23fba6e3525)  
 United States of America - Idaho; Butte County [**Great Owl Cave** ](allcaves-database.md#US-c2213e9f022a9dc1a548019cfd523b31)  
 United States of America - Idaho; Butte County [**Horseshoe Cave** ](allcaves-database.md#US-0af9c4f10a6774c696745c84fdbad151)  
@@ -1182,15 +1182,15 @@ United States of America - Idaho; Butte County [**Ice Cave #2** ](allcaves-datab
 United States of America - Idaho; Butte County [**Ice Cave #3** ](allcaves-database.md#US-baf7678e7ad50d0ce8cd0e30c06f8f28)  
 United States of America - Idaho; Butte County [**Ice Cave** ](allcaves-database.md#US-99fd3852b69867fda35eada582d92b72)  
 United States of America - Idaho; Butte County [**Indian Dome Cave** ](allcaves-database.md#US-9618fff9e100c969cc0a32fcbee12708)  
-United States of America - Idaho; Butte County [**Indian Tunnel** ](allcaves-database.md#US-cad799da5bd731af5292cd0dbebb251b)  
-United States of America - Idaho; Butte County [**Last Chance Cave** ](allcaves-database.md#US-b5337c7f30a081a89e4ee7aca07752a2)  
-United States of America - Idaho; Butte County [**Lava River Cave** ](allcaves-database.md#US-46540db40fb57030b93998bc18d1876b)  
+United States of America - Idaho; Butte County [**Indian Tunnel** ](allcaves-database.md#US-edde5b3f14fcf17af29055c953434755)  
+United States of America - Idaho; Butte County [**Last Chance Cave** ](allcaves-database.md#US-e1549969f540242b6a3539192f47914e)  
+United States of America - Idaho; Butte County [**Lava River Cave** ](allcaves-database.md#US-e2e7c7c92afdd0b2169bb381fc3c8232)  
 United States of America - Idaho; Butte County [**Moss Cave** ](allcaves-database.md#US-67bd329964d108b354a92ed9c44eef2e)  
 United States of America - Idaho; Butte County [**Natural Bridge Cave** ](allcaves-database.md#US-2f47e3290d5416775f51c39f28e786a9)  
-United States of America - Idaho; Butte County [**Needles Cave** ](allcaves-database.md#US-2d2f70e2cce3a5686e94bb04c0344c9b)  
-United States of America - Idaho; Butte County [**Sunbear  Cave** ](allcaves-database.md#US-ebee43b74efbb7d66ce5563188bacf42)  
-United States of America - Idaho; Butte County [**Surprise Cave** ](allcaves-database.md#US-182c47cfc93167aa54573d94077dcb51)  
-United States of America - Idaho; Butte County [**Tom Thumb Tunnel** ](allcaves-database.md#US-a8da7ed7f0137d57e6693af2812db7ee)  
+United States of America - Idaho; Butte County [**Needles Cave** ](allcaves-database.md#US-6dad32b40cd2785b059aa4bef43a960b)  
+United States of America - Idaho; Butte County [**Sunbear  Cave** ](allcaves-database.md#US-bc06cee13d1d838e28d5ff52a93cf2fa)  
+United States of America - Idaho; Butte County [**Surprise Cave** ](allcaves-database.md#US-5f2dc7639df733ef4f6fed7d2195d158)  
+United States of America - Idaho; Butte County [**Tom Thumb Tunnel** ](allcaves-database.md#US-dcc5842612d8a5f55fd213338e1f9ff0)  
 United States of America - Idaho; Caribou County [**Grace Ice Cave** ](allcaves-database.md#US-36c39acc6d9c6ce172eb25fe3f19df4c)  
 United States of America - Idaho; Caribou County [**Swan Lake Ice Cave** ](allcaves-database.md#US-be19d51e09e310408b8addc21bf52562)  
 United States of America - Idaho; Elmore County [**Accaregui's Cave** ](allcaves-database.md#US-e92b8fe3f737e3d57f63569f28a1286a)  
@@ -1289,7 +1289,7 @@ United States of America - Oregon; Deschutes County [**Bat Cave** ](allcaves-dat
 United States of America - Oregon; Deschutes County [**Bat Crack** ](allcaves-database.md#US-c377cced535a2ff8b9a1f3575dba28ef)  
 United States of America - Oregon; Deschutes County [**Boa Holes Cave** ](allcaves-database.md#US-5d863a28d1ad5b594cbbbe1728ef2dc4)  
 United States of America - Oregon; Deschutes County [**Bone Cave** ](allcaves-database.md#US-52d6c9c196725c4bccb9c98ca7dae0f4)  
-United States of America - Oregon; Deschutes County [**Boyd Cave** ](allcaves-database.md#US-c7f2ed2a9d2d644f4f07bd649504196b)  
+United States of America - Oregon; Deschutes County [**Boyd Cave** ](allcaves-database.md#US-1a5bbcf09cfde766034767d8046775f0)  
 United States of America - Oregon; Deschutes County [**Braille Cave** ](allcaves-database.md#US-252cf8772da12e1ce8245c993e3d48c6)  
 United States of America - Oregon; Deschutes County [**Cave Next Door** Redmond Cave no. 3 ](allcaves-database.md#US-7e60b6122c909060e1dbb4049a925a5e)  
 United States of America - Oregon; Deschutes County [**Charcoal Cave #2** ](allcaves-database.md#US-207e4fa9c2e3be1c1957ab989fb5bece)  
@@ -1346,7 +1346,7 @@ United States of America - Oregon; Deschutes County [**Redmond Railroad Cave** ]
 United States of America - Oregon; Deschutes County [**Roadside Cave** ](allcaves-database.md#US-7c00877927cf609a28b1a2f8f2952af2)  
 United States of America - Oregon; Deschutes County [**Round Mountain Lava Cave** ](allcaves-database.md#US-55a27ae27bbfb95d33c016130168a1fc)  
 United States of America - Oregon; Deschutes County [**Silent Night Cave** ](allcaves-database.md#US-7fabd478ef6377749a4ca7b127206ee1)  
-United States of America - Oregon; Deschutes County [**Skeleton Cave** ](allcaves-database.md#US-47702b1199f0abca04de48596cb25229)  
+United States of America - Oregon; Deschutes County [**Skeleton Cave** ](allcaves-database.md#US-54e897dda7652157d670e2d1a30fe9a2)  
 United States of America - Oregon; Deschutes County [**Somersault Cave** NSS-611-97](allcaves-database.md#US-b6fa64aedbf22dff42b94c6f5752fbfb)  
 United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-fc31747e0f12f877b7feb2c56dbe48c9)  
 United States of America - Oregon; Deschutes County [**Stairstep** ](allcaves-database.md#US-f16027d278dfb108f8b6ca0df63c4f62)  
@@ -1361,7 +1361,6 @@ United States of America - Oregon; Deschutes County [**Tie Cave** ](allcaves-dat
 United States of America - Oregon; Deschutes County [**Twin Skylight Cave** North Siah Butte #8 NSS-611-106](allcaves-database.md#US-785d6d21ee71e6a7b8aa70dc978a46fb)  
 United States of America - Oregon; Deschutes County [**Under the Lake Cave** ](allcaves-database.md#US-7485d77c517e1355018801a31ff92025)  
 United States of America - Oregon; Deschutes County [**Vulture Cave** ](allcaves-database.md#US-1c467b5209f538a0cd01eee1fd35da25)  
-United States of America - Oregon; Deschutes County [**Walk-in-Cave** ](allcaves-database.md#US-3399e53e1c64e0712986211b27aabb2a)  
 United States of America - Oregon; Deschutes County [**Williams Cave** ](allcaves-database.md#US-d1ec028ddeae8b0a6a126a6a2d5168a7)  
 United States of America - Oregon; Deschutes County [**Wilson Cave** ](allcaves-database.md#US-62d7dc82c15d3dda609d26d430da52aa)  
 United States of America - Oregon; Deschutes County [**Wind Cave** ](allcaves-database.md#US-da5dbc4fdb0d592bf9c15731feaa6eef)  
@@ -1606,42 +1605,179 @@ Viet Nam - Đắk Nông; Nam Da [**P20** ](allcaves-database.md#VN-9765576d832e7
 Viet Nam - Đắk Nông; Nam Da [**P8** ](allcaves-database.md#VN-16db1dcd245e800ed1c6d26f2bbf36f2)  
 
 
+
 Longest Lava Tubes in the Solar System
 ======================================
 
-United States of America - Hawaii; Puna district [**Kazumura Cave**](allcaves-database.md#US-6f199162c085ec13c6639bbbc0b91aa3) 65500m  
-United States of America - Hawaii [**Delissea Cave System**](allcaves-database.md#US-2fe4578a1aaf2189753e0ddfdd6ad29a)  >64700m  
-United States of America - Hawaii [**Keokeo Cave System**](allcaves-database.md#US-710311bdfe538c901bccddeefd451b81)  ~40600m  
-United States of America - Hawaii; Ka'u District [**Kipuka Kanohina**](allcaves-database.md#US-8e2ac0a826ac82da91d805670cca0e9f)  >32000m  
-United States of America - New Mexico; Cibola County [**Bandera Crater Tube**](allcaves-database.md#US-8704a3d70946b0dfecce0b04a629db1b) 28600m  
-United States of America - Hawaii; North Kona [**Hualalai Ranch Cave**](allcaves-database.md#US-034267b9e60d14458eceaa001d2da859) 27400m  
-Moon [**Gruithuisen**](allcaves-database.md#XO-f6ad8dd2e96a835f0462047b498156ca) 27244m  
-Mars [**Arsia North**](allcaves-database.md#XA-d2e2e91908fbea3557add34500154485) 23359m  
-United States of America - Hawaii; North Hilo district [**Emesine Cave**](allcaves-database.md#US-60f8fd1004650413cb223c733ab68573) 20744m  
-Mars [**Olympus**](allcaves-database.md#XA-e711c5835a53221e4926e652bc765ebb) 20372m  
-United States of America - Alaska; Nome County [**Lost Jim Lava Tube**](allcaves-database.md#US-8b81fe02c2bbe8c748fe9d25201f5cea) ~19000m  
-Spain - Santa Cruz de Tenerife [**Cueva del Viento** El Viento cave](allcaves-database.md#ES-7a16bf26a547c98e604915188c2ccf93) 17032m  
-Mars [**Arsia South B**](allcaves-database.md#XA-b36fa07bf6eab958b13534c802c22629) 13615m  
-Kenya - Eastern Province; Machakos District [**Leviathan Cave** Grotte de Leviathan](allcaves-database.md#KE-7a20adbd32706cd5ae9594e1b424dd00) 12500m  
-United States of America - New Mexico; Cibola County [**Candelaria Ice Cave** Bandera Volcano Ice Cave; Zuni Ice Cave](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40) 12300m  
-United States of America - Hawaii [**Ola'a Cave**](allcaves-database.md#US-9e5e79b6a9566368832c89eb774d36c2) *Part of* Kazumura Cave 11751m  
-Korea, Republic of - Jeju province [**Billemot Gul** Rock Pond Cave; Bilemot Gul; Billemotdonggul Lava Tube](allcaves-database.md#KR-463e0a785e3796c84af0b8b2e3fe0bad) 11749m  
-United States of America - Hawaii; North Kona [**Hu'ehu'e Cave**](allcaves-database.md#US-baed1f158ff02b7cd2d6daf2cfd50b7a) 10800m  
-Mars [**Arsia South A**](allcaves-database.md#XA-1dd91fee59fa4dab28c6fcd900aaee23) 9683m  
-Korea, Republic of - Jeju province [**Man Jang Gul** 만장굴; Manjanggul; Red Dragon Cave](allcaves-database.md#KR-107efb3761dff4c3162a1b66ff02cb83) 8928m  
-United States of America - Hawaii; Puna district [**Keala Cave**](allcaves-database.md#US-1a0c25a86e50cfb82a2fc7b361d36d4b) 8707m  
-United States of America - Hawaii; Puna district [**Pahoa Cave** Middle Tube System](allcaves-database.md#US-83b5c05a1b1bc97ef92e2e8af0580842)  >8200m  
-Spain - Las Palmas [**Cueva de los Verdes** Corona Lava Tube](allcaves-database.md#ES-2f9f08180eef7bd60bfd8ff4f08d7f25) 7600m  
-Mars [**Hadriaca**](allcaves-database.md#XA-26f76f3b6f74dd283177dd743210a896) 7193m  
-United States of America - Hawaii [**Ainahou Ranch Cave**](allcaves-database.md#US-82e3365102b230cb2370aeaf4aa8fc97) 7110m  
-United States of America - New Mexico; Cibola County [**Twin Craters Lava Tube** Twin Craters Cave](allcaves-database.md#US-00fb125c055812c46613cec054e7d7c3) 7000m  
-United States of America - New Mexico; Cibola County [**Deer Mountain**](allcaves-database.md#US-3d8763e5118ce6320f755596a5ff2be9) 6850m  
-Mexico - Morelos [**Cueva del Ferrocarril-Mina Inferior** Sistema Ferrocarril-Mina Inferior](allcaves-database.md#MX-95d1013e4757e2b49bf40cb8dab3bf98) 6538m  
-United States of America - Hawaii; North Kona [**Pueo Cave**](allcaves-database.md#US-3b7e7593b48b5035b20127e079343fdf)  >6500m  
-Moon [**Marius Hill A**](allcaves-database.md#XO-9a858b37208a82e1cb8e4d23a71289d8) 6402m  
-Spain - Santa Cruz de Tenerife [**Cueva de Don Justo**](allcaves-database.md#ES-00259bdabb0744cb577e989b66d7e425) 6315m  
-United States of America - Hawaii; North Kona [**Lama Lua Cave** Upper Kaʻūpūlehu System](allcaves-database.md#US-b78abf7a161d53e1bc003f2d526e410a) 5523m  
-Portugal - Azores [**Gruta das Torres (Grotto of Towers)**](allcaves-database.md#PT-640470b8eb233bcb051f86744fe7d327) 5439m  
-Mexico - Morelos [**Sistema Inglesia-Mina Superior**](allcaves-database.md#MX-578f095164f6fc56cf50e2baff3faac6) 5145m  
-Samoa [**La'auolola Cave** Laauoleola Cave; Aopo Cave; Aopo Lava Tube](allcaves-database.md#WS-285e6f9e104593c0905c274ff748cdc2) 5047m  
-United States of America - Hawaii; North Kona [**Two Owl Cave**](allcaves-database.md#US-8e766548c12ccae4a3dcf321bf147a5f)  >5000m  
+United States of America - Hawaii; Puna district [**Kazumura Cave** ](allcaves-database.md#US-6f199162c085ec13c6639bbbc0b91aa3) 65500m  
+United States of America - Hawaii [**Delissea Cave System** ](allcaves-database.md#US-2fe4578a1aaf2189753e0ddfdd6ad29a)  >64700m  
+United States of America - Hawaii [**Keokeo Cave System** ](allcaves-database.md#US-710311bdfe538c901bccddeefd451b81)  ~40600m  
+United States of America - Hawaii; Ka'u District [**Kipuka Kanohina** ](allcaves-database.md#US-8e2ac0a826ac82da91d805670cca0e9f)  >32000m  
+United States of America - New Mexico; Cibola County [**Bandera Crater Tube** ](allcaves-database.md#US-8704a3d70946b0dfecce0b04a629db1b) 28600m  
+United States of America - Hawaii; North Kona [**Hualalai Ranch Cave** ](allcaves-database.md#US-034267b9e60d14458eceaa001d2da859) 27400m  
+Moon [**Gruithuisen** ](allcaves-database.md#XO-f6ad8dd2e96a835f0462047b498156ca) 27244m  
+Mars [**Arsia North** ](allcaves-database.md#XA-d2e2e91908fbea3557add34500154485) 23359m  
+United States of America - Hawaii; North Hilo district [**Emesine Cave** ](allcaves-database.md#US-60f8fd1004650413cb223c733ab68573) 20744m  
+Mars [**Olympus** ](allcaves-database.md#XA-e711c5835a53221e4926e652bc765ebb) 20372m  
+United States of America - Alaska; Nome County [**Lost Jim Lava Tube** ](allcaves-database.md#US-8b81fe02c2bbe8c748fe9d25201f5cea) ~19000m  
+Spain - Santa Cruz de Tenerife [**Cueva del Viento** El Viento cave; Cueva del Viento-Sobrado ](allcaves-database.md#ES-7a16bf26a547c98e604915188c2ccf93) 17032m  
+Mars [**Arsia South B** ](allcaves-database.md#XA-b36fa07bf6eab958b13534c802c22629) 13615m  
+Kenya - Eastern Province; Machakos District [**Leviathan Cave** Grotte de Leviathan ](allcaves-database.md#KE-7a20adbd32706cd5ae9594e1b424dd00) 12500m  
+United States of America - Hawaii [**Ola'a Cave** ](allcaves-database.md#US-9e5e79b6a9566368832c89eb774d36c2) *Part of* Kazumura Cave 11751m  
+Korea, Republic of - Jeju province [**Billemot Gul** Rock Pond Cave; Bilemot Gul; Pillemot Cave; Billemotdonggul Lava Tube; Labyrinth Cave ](allcaves-database.md#KR-463e0a785e3796c84af0b8b2e3fe0bad) 11749m  
+United States of America - Hawaii; North Kona [**Hu'ehu'e Cave** ](allcaves-database.md#US-baed1f158ff02b7cd2d6daf2cfd50b7a) 10800m  
+Mars [**Arsia South A** ](allcaves-database.md#XA-1dd91fee59fa4dab28c6fcd900aaee23) 9683m  
+Korea, Republic of - Jeju province [**Manjanggul** 만장굴; Man Jang Gul; Red Dragon Cave ](allcaves-database.md#KR-ca4d5f7842a3fe15c724dc6b7f555207) 8928m  
+United States of America - Hawaii; Puna district [**Keala Cave** ](allcaves-database.md#US-1a0c25a86e50cfb82a2fc7b361d36d4b) 8707m  
+United States of America - Hawaii; Puna district [**Pahoa Cave** Middle Tube System ](allcaves-database.md#US-83b5c05a1b1bc97ef92e2e8af0580842)  >8200m  
+Spain - Las Palmas [**Cueva de los Verdes** Corona Lava Tube ](allcaves-database.md#ES-2f9f08180eef7bd60bfd8ff4f08d7f25) 7600m  
+Mars [**Hadriaca** ](allcaves-database.md#XA-26f76f3b6f74dd283177dd743210a896) 7193m  
+United States of America - Hawaii [**Ainahou Ranch Cave** ](allcaves-database.md#US-82e3365102b230cb2370aeaf4aa8fc97) 7110m  
+United States of America - New Mexico; Cibola County [**Twin Craters Lava Tube** Twin Craters Cave ](allcaves-database.md#US-00fb125c055812c46613cec054e7d7c3) 7000m  
+United States of America - New Mexico; Cibola County [**Deer Mountain** ](allcaves-database.md#US-3d8763e5118ce6320f755596a5ff2be9) 6850m  
+Mexico - Morelos [**Cueva del Ferrocarril-Mina Inferior** Sistema Ferrocarril-Mina Inferior ](allcaves-database.md#MX-95d1013e4757e2b49bf40cb8dab3bf98) 6538m  
+United States of America - Hawaii; North Kona [**Pueo Cave** ](allcaves-database.md#US-3b7e7593b48b5035b20127e079343fdf)  >6500m  
+Moon [**Marius Hill A** ](allcaves-database.md#XO-9a858b37208a82e1cb8e4d23a71289d8) 6402m  
+Spain - Santa Cruz de Tenerife [**Cueva de Don Justo** ](allcaves-database.md#ES-00259bdabb0744cb577e989b66d7e425) 6315m  
+United States of America - Hawaii; North Kona [**Lama Lua Cave** Upper Kaʻūpūlehu System ](allcaves-database.md#US-b78abf7a161d53e1bc003f2d526e410a) 5523m  
+Portugal - Azores [**Gruta das Torres (Grotto of Towers)** ](allcaves-database.md#PT-640470b8eb233bcb051f86744fe7d327) 5439m  
+Mexico - Morelos [**Sistema Inglesia-Mina Superior** ](allcaves-database.md#MX-578f095164f6fc56cf50e2baff3faac6) 5145m  
+Samoa [**La'auolola Cave** Laauoleola Cave; Aopo Cave; Aopo Lava Tube ](allcaves-database.md#WS-285e6f9e104593c0905c274ff748cdc2) 5047m  
+United States of America - Hawaii; North Kona [**Two Owl Cave** ](allcaves-database.md#US-8e766548c12ccae4a3dcf321bf147a5f)  >5000m  
+United States of America - Hawaii [**Kaʻūpūlehu Cave** ](allcaves-database.md#US-3165680314d5e3146b164acc98a6f0b7) 4952m  
+Korea, Republic of - Jeju province [**Susan Gul** Susandonggul Lava Tube ](allcaves-database.md#KR-75cc6f80cc0a12e48e5fb86abb197301) 4675m  
+Rwanda - Ruhengueri [**Ubuvumo bwa Musanze** ](allcaves-database.md#RW-52b9d30d023628b22bcb6c0554c50eda) 4560m  
+Portugal - Azores [**Gruta dos Balcoes** Gruta dos Balcões ](allcaves-database.md#PT-f5d6c4301a94d06a4c9035a47c76ab1a) 4421m  
+United States of America - Hawaii [**Under the Wall Cave** ](allcaves-database.md#US-5b7581ae7b29165ecccb15cb40b0c7bd) 4403m  
+United States of America - Washington; Skamania County [**Deadhorse Cave** ](allcaves-database.md#US-1325bd7ac40e9ace14cf5357756d4712) 4402m  
+United States of America - Idaho; Lincoln County [**Gypsum  Cave** Cocaine Cave ](allcaves-database.md#US-a72ed93dbc0738b4e6ea236de4ce3e66) 4316m  
+United States of America - Hawaii; Puna district [**John Martin Cave** ](allcaves-database.md#US-b3002bb2788c54cbb881eafceaa80d5f) *Part of* John Martin-Pukalani Cave System 4158m  
+Moon [**Marius Hill B** ](allcaves-database.md#XO-a01b11ce25463e8417c6bcacff6f396f) 4137m  
+United States of America - Washington; Skamania County [**Ape Cave** ](allcaves-database.md#US-50f7b2ff9f755d97d2fa869dc2e1e569) 3983m  
+United States of America - Hawaii; North Kona [**Umi'i Manu (Bird Trap)** ](allcaves-database.md#US-88eec3a2d2821103e5e0215a178df08b) 3887m  
+United States of America - New Mexico; Socorro County [**Bat Caves** ](allcaves-database.md#US-6ed5ed4fd6a7161660eedc2a0a8afe2d) 3800m  
+United States of America - California; Siskiyou County [**Dynamited Cave** Blasted Cave; Lemai Road Cave NSS-633-50](allcaves-database.md#US-7bcca7b4e5429be0c512a30e4298272d) 3763m  
+United States of America - Hawaii; North Kona [**Manu Nui Cave System (Big Bird)** ](allcaves-database.md#US-c0f5b755978f70bd0f6b930f4ecd620f) 3700m  
+United States of America - Utah; Kane County [**Duck Creek Lava Tube** ](allcaves-database.md#US-cfd0a771175c0e63f237c25c87c8593b) 3674m  
+United States of America - Hawaii [**Big Red Cave** ](allcaves-database.md#US-daa5d969b70252929b780b9bbac536de) 3606m  
+United States of America - Hawaii; North Kona [**Aluminum Ladder Cave** ](allcaves-database.md#US-9f99a6fbd3f8156ab659fd6b08d52572)  >3500m  
+Kenya - Rift Valley Province; Kajiado District [**14-18 Series** ](allcaves-database.md#KE-9b7f3efde6c91bdda06602fa4c7fd849) 3500m  
+Iceland - Myrasysla County [**Surtshellir** Surtshellir-Stefanshellir Cave System ](allcaves-database.md#IS-cfd58b66d7080bc2f98c4a0c695ec018) 3500m  
+Korea, Republic of - Jeju province [**Yongcheon Cave** ](allcaves-database.md#KR-8cb1d7d74d15eeabe44af15833c41091)  >3360m  
+United States of America - Hawaii; North Kona [**Ohia Cave** Refuge Cave Site D4-22 ](allcaves-database.md#US-60d67fd7d9b8d7ba9a3ab974a4039a74) 3200m  
+United States of America - Hawaii [**'D' Road Cave** Tree cast; Pole 46 Cave ](allcaves-database.md#US-801bc4749fd5a618dcbdf82e420c66ea) 3182m  
+Korea, Republic of - Jeju province [**Sochon Kul** Sochon Gul; Stream Cave; Creek Cave ](allcaves-database.md#KR-cba1603643cb9a3494bf9d453a0c4366) 3074m  
+Ecuador - Galapagos [**Cueva del Cascajo** ](allcaves-database.md#EC-d239c4df468fb170fe51422b9ad6ec69) 3010m  
+Spain - Santa Cruz de Tenerife [**Cueva de Felipe Reventon** ](allcaves-database.md#ES-47dfa4760a06c3060ab46b4406d3b4be) 3000m  
+Saudi Arabia - Western [**Jebel Hil Cave** ](allcaves-database.md#SA-cb16afc90c8f9f62b6058aeba9a86bce) 3000m  
+Kenya - Eastern Province; Machakos District [**Pango Ya Moshi** Smoke Cave; Cloud Cave ](allcaves-database.md#KE-7ceba2d6a57668c214c7359a4d75301f) 3000m  
+Iceland - Myrasysla County [**Kalmanshellir** ](allcaves-database.md#IS-a42440e8bbd2f2f925b73c59318affcf) 3000m  
+United States of America - Hawaii [**Ka'eleku Cavern** Hana Lava Tube ](allcaves-database.md#US-d5287cb178aa2aa51afd5cd608f64f00) 2852m  
+Kenya [**Rainbow's End Cave** ](allcaves-database.md#KE-fed3294e22202b74d1a176188227436e) 2852m  
+United States of America - Hawaii; Puna district [**Lower Uilani Cave** ](allcaves-database.md#US-cf178577a9a127f9398a46c54b56e6c9) 2804m  
+United States of America - Washington; Skamania County [**Falls Creek Cave** Panther Lava Cave NSS-633-204](allcaves-database.md#US-ff502fe84d82a74f630493acc3243dbb) 2797m  
+United States of America - Oregon; Washington County [**Catlin Gabel System (collapsed)** ](allcaves-database.md#US-b8b9f10679ae34e4e29fd64a3117f36e) 2700m  
+United States of America - California; Modoc County [**Mammoth Cave** ](allcaves-database.md#US-1c7129937eeed2ba455c25647dc936af) 2490m  
+United States of America - California; Siskiyou County [**Catwalk Cave** Gaping Holes ](allcaves-database.md#US-420b2a61c80ca4e9af3202a31e2db5cf) 2427m  
+United States of America - Hawaii; North Kona [**Black Pellet Cave** ](allcaves-database.md#US-b9ea902008341657ea70ba5e7136bcd8) 2378m  
+United States of America - Oregon; Deschutes County [**Lava River Cave** ](allcaves-database.md#US-260118d73b176efe7dcbdb0524569fce) 2370m  
+United States of America - California; Siskiyou County [**Post Office Cave** Postoffice Cave ](allcaves-database.md#US-5e443ad2b8b4501df95fe6fadd19656b) 2357m  
+United States of America - Idaho; Lincoln County [**Pot O' Gold** ](allcaves-database.md#US-c22e7d958266654282e60924a762ccfb) 2250m  
+Spain - Las Palmas [**Cueva de los Naturalistas** ](allcaves-database.md#ES-96e8fadd6ff349877f54497ded7783c0) 2250m  
+Ecuador - Galapagos [**Caverna de Gallardo** ](allcaves-database.md#EC-9d63669ef9c185c6c2d91d2c778e7a3b) 2250m  
+United States of America - Washington; Skamania County [**Chubby Bunny Cave** Fat Rabbit Cave ](allcaves-database.md#US-6a30829938a72966bc352fefe4e6780b) 2205m  
+Japan - Shizuoka [**Mitsuike Ana** ](allcaves-database.md#JP-d3f027ddd663e2273d1e12a744d11d61) 2202m  
+United States of America - Hawaii; North Hilo district [**Kaumana Cave** ](allcaves-database.md#US-5405993cdae85b77f32e870639f25772) 2198m  
+United States of America - Washington; Skamania County [**New Cave** ](allcaves-database.md#US-c95ddeec5621d4f67cff7112174d0f22) 2179m  
+Spain - Santa Cruz de Tenerife [**Cueva de San Marcos** ](allcaves-database.md#ES-be1a59a657a2e92dec809c9be5722030) 2130m  
+United States of America - California; Siskiyou County [**Catacombs Cave** ](allcaves-database.md#US-60b2a6a561dacbe4affb9184551890ee) 2104m  
+Korea, Republic of - Jeju province [**Wa Hol Gul** Waful Kul; Wahul Kul ](allcaves-database.md#KR-952d93bb1cbec19f369cb67ada5882ec) 2066m  
+United States of America - Hawaii [**Pukalani Cave** ](allcaves-database.md#US-6cbff2d0fdf802decb66cc5876481b2c) *Part of* John Martin-Pukalani Cave System 2048m  
+Mexico - Morelos [**Cueva del Diablo** ](allcaves-database.md#MX-7201e5acf402fa501100e9621a1fa258) 2020m  
+Syria - Assuwayda [**Tell Shihan Tubes** ](allcaves-database.md#SY-00bfc7704f2a113331dc1781d6f5d8b0) 2000+m  
+Ecuador - Galapagos [**Cueva de la Finea Kastdal** Cueva de la Finca Kastdalen; Cueva de Tres Pisos ](allcaves-database.md#EC-9c42547ef6666d15f5eb725924ebaba3) 2000m  
+United States of America - New Mexico; Cibola County [**Outlaw Cave** East Outlaw Cave ](allcaves-database.md#US-dc1558fef15ea38cbf1246580363bfaa) 1920m  
+France - Reunion [**Caverne Bateau** ](allcaves-database.md#FR-4cf33b030a57def9fc84db38b254e07e) 1910m  
+Kenya - Eastern Province; Machakos District [**Mathaioni Cave** Mathaioni I NGR-436547; 360/1-4](allcaves-database.md#KE-db06c0e6233a24be0fe935a94e62bf5b) 1900m  
+Mexico - San Luis Potosí [**Cueva de Cañada de los Pastores** Caada de los Pastores ](allcaves-database.md#MX-83614b4ff2be78caa9dcc2138f231829) 1882m  
+United States of America - Washington; Skamania County [**Pickings Cave** ](allcaves-database.md#US-307c46f47486fef5fc4ca00fabb616e8) 1844m  
+Portugal - Azores [**Gruta dos Montanheiros** ](allcaves-database.md#PT-2d8c31b6944232b7d7387cea64112507) 1805m  
+Samoa [**Tafatafa** Ana Pe'ape'a at Tafa-tafa ](allcaves-database.md#WS-6aa58f4cb3ce2f39e099b913b68d62da) ~1800m  
+Mexico - Distrito Federal [**Cueva de las Huesitos** ](allcaves-database.md#MX-7837ba49343ed2f7b0540705d6060fbe) 1792m  
+United States of America - Washington; Skamania County [**Ole's Cave** Mount St. Helens Cave; Lava Cave NSS-631-029](allcaves-database.md#US-1be1c1f7a01ae1b682f219c906ed4808) 1768m  
+United States of America - Hawaii [**Ambigua Cave** ](allcaves-database.md#US-3c35d1f8cbe691af872a048638ad1ed7) 1764m  
+Korea, Republic of - Jeju province [**Michon Gul** ](allcaves-database.md#KR-37f74359aa7a55b493c139738404aa0d) 1714m  
+Syria [**Umm ar Rumman** ](allcaves-database.md#SY-ba5df02d0ad9fec7f757591fd60bc22c) 1615m  
+United States of America - Idaho; Elmore County [**Prairie Ice Caves** ](allcaves-database.md#US-447a47dfdb7186a4f25b05853fc26053) 1600m  
+Kenya - Rift Valley Province; Kajiado District [**23-24 Series** ](allcaves-database.md#KE-3e228df88037e3ac7f8be745ef4bb1e8) 1600m  
+Iceland - Myrasysla County [**Víðgelmir** ](allcaves-database.md#IS-8b2fdd9758744f258da5018ced142dc7) 1585m  
+Spain - Las Palmas [**Tunel de la Atlantida** ](allcaves-database.md#ES-c5981a1a916cefce87d884c850717bd0) *Part of* Cueva de los Verdes 1570m  
+United States of America - California; Siskiyou County [**Bobcat Cave** ](allcaves-database.md#US-fb990a43fbc354ee6d0ac95ff646e3ed) 1566m  
+Iceland - Myrasysla County [**Stefanshellir** ](allcaves-database.md#IS-6b64a41d13ea3703bc179d5320cb7b55) 1520m  
+Rwanda [**Ubuvomo bwa Nyrabadago** Ubuwumo bwa Nxirabadogo; Ubuvuma bwa Myirabadogo ](allcaves-database.md#RW-9dbe67472fddd40decb1f2f99c499fab) 1500m  
+Italy - Sicilia [**Grotta del Labirinto** ](allcaves-database.md#IT-be8ad3ffe25c102abda0adf9e3736f2c) 1500m  
+United States of America - Oregon; Malheur County [**Baker Cave** Forty-Mile Cave ](allcaves-database.md#US-23445d01ef2242da1053dd29e49593e8) 1496m  
+Saudi Arabia [**Umm Jirsan Lava-Tube System** ](allcaves-database.md#SA-d908fbc51d45a3bf80743b53e62ee560) 1481m  
+Mexico - Morelos [**Cueva del Arbol** ](allcaves-database.md#MX-bc14a3a5528a99a01f8275946f463787) 1480m  
+Japan - Shizuoka [**Hachijo Fuketsu No. 1** ](allcaves-database.md#JP-abab840666375df0acc9a2ed8a95a30b) 1404m  
+United States of America - Washington; Skamania County [**Lake Cave** NSS-631-051](allcaves-database.md#US-2d3e1c8addd1869cd9f66536645a0989) 1401m  
+Korea, Republic of - Jeju province [**Handeul-kunyeong** Handul Kul ](allcaves-database.md#KR-f01e6bdaf1b7ed6ed62ea901e2d6a153) 1400m  
+Kenya - Eastern Province; Machakos District [**Kimakia Cave** Ithundu Mine NGR-415563](allcaves-database.md#KE-75a22bb0101ec59b1cfb92c0c481df39) 1400m  
+United States of America - Hawaii [**Clague's Cave** ](allcaves-database.md#US-23f2aa084652ebed2947f3ad5eeed9b4) 1390m  
+Mexico - Morelos [**Sistema Chimalacatepec** ](allcaves-database.md#MX-0176a37a3a2343b76787fe1fc7869e19) 1388m  
+Iceland - Arnessysla [**Raufarhólshellir** ](allcaves-database.md#IS-7d2a47dfc0136f82c8fb5efec0142a42) 1360m  
+Australia - Queensland [**Bayliss Cave** ASF-4U-30](allcaves-database.md#AU-8aceb72995cbb807aadc7f708c3b4551) 1350m  
+United States of America - Hawaii [**Apua Cave** ](allcaves-database.md#US-2d41ccdbccc71eb982a4f71e84030912) 1340m  
+United States of America - Idaho; Butte County [**Arco Tunnel** ](allcaves-database.md#US-df85cad59a4081d4f6b5738761c74529) 1316m  
+United States of America - Oregon; Deschutes County [**Young's Cave** 35DS115](allcaves-database.md#US-2885cdfb2720143efaab4e686ad310f9) 1312m  
+Kenya - Rift Valley Province; Kajiado District [**10-9-6-36-37 Series** ](allcaves-database.md#KE-9f06905341f9c75a417cf5b971f5b187) 1300m  
+Indonesia - Java [**Gua Lawa** Bat Cave ](allcaves-database.md#ID-73ddd5fc058afea057db1d9d3a514f00) 1300m  
+United States of America - Oregon [**Cody Borehole** ](allcaves-database.md#US-e26a520bea3a73a8408f4620c7b6bd16) 1284m  
+Mexico - Morelos [**Cueva de Don Marcelo** Cueva de Marcelo ](allcaves-database.md#MX-b1c85f99f96cc958d9bcc23a11d089e6) 1268m  
+United States of America - Washington; Skamania County [**Folgers Cave** NSS-633-213](allcaves-database.md#US-8e4279a17cca24c5c9e289f2c2c0f3ca) 1264m  
+United States of America - Idaho; Fremont County [**Stalagpie Cave** ](allcaves-database.md#US-34a64bd11637bc171ed82bf686b0606f) 1250m  
+United States of America - Arizona; Coconino County [**Government Cave** Lava River Cave; Bellemont Cave ](allcaves-database.md#US-9fbf719fddd9cc14651b36ca851fef1a) 1250m  
+United States of America - Washington [**Beer Bottle Cave** ](allcaves-database.md#US-ac371cdb1acf774419d8a4f0694d3f8b) 1239m  
+United States of America - Oregon; Deschutes County [**Lavacicle Cave** ](allcaves-database.md#US-a454b88cc488c2710336ad3e3b391491) 1235m  
+United States of America - California; Siskiyou County [**James Brothers Cave** ](allcaves-database.md#US-ee228badf05c5f57d1c3623200a84316) 1230m  
+United States of America - California; Siskiyou County [**Sentinel Cave** ](allcaves-database.md#US-9a30e4d2e2a4a8465581384f9c90eb8c) 1228m  
+United States of America - Washington; Skamania County [**Big Trench Cave System** ](allcaves-database.md#US-473f3e89d1e107ed154394406a5700d5) 1219m  
+United States of America - Hawaii [**Lower Keauhou Trail Cave** ](allcaves-database.md#US-905daed1b60124cdc95d9858074bc41f) 1217m  
+Ecuador - Galapagos [**Tunel de Los Piratas** ](allcaves-database.md#EC-00a0fb8cb55cd63cf037547dcf4ab5d6) 1200m  
+Australia - Victoria [**Mt. Hamilton Cave** ASF-3H-2](allcaves-database.md#AU-c9c8d17dfe897d3c77243fba72866e05) 1190m  
+Cameroon - Sud-Oeust [**Grotte Gaskin** ](allcaves-database.md#CM-81496a39187762129375d8e408d6e161) 1175m  
+United States of America - Oregon; Deschutes County [**Wind Cave** ](allcaves-database.md#US-da5dbc4fdb0d592bf9c15731feaa6eef) 1170m  
+Italy - Sicilia [**Abisso Profondo Nero** SICT-1084](allcaves-database.md#IT-bf2f0fac34d4b78ab8625c8c9b8b12ef)  >1170m  
+Italy - Sicilia [**Grotta dei Tre Livelli** Galleriadei Pipistrelli SICT-1004](allcaves-database.md#IT-0cf0f110e7b4b6b8475787235119e609) 1150m  
+United States of America - California; Siskiyou County [**South Labyrinth Cave** ](allcaves-database.md#US-4827e009a14bf69104816a9f72f797c6) 1134m  
+Mexico - Distrito Federal [**Pedro el Negro** ](allcaves-database.md#MX-9d4dd73585d9fd56e521b45e19a1831e) 1132m  
+United States of America - Washington; Skamania County [**Sleeping Beauty Cave** Sour Grapes Cave NSS-633-019](allcaves-database.md#US-29f6f5b57d58bcf4ef764ea49a067f64) 1130m  
+United States of America - Hawaii; Puna district [**Fern's Cave** ](allcaves-database.md#US-58780c80c9013d42e795e0a3f5923e39) 1129m  
+United States of America - Hawaii [**Blair Cave** ](allcaves-database.md#US-6f45471630395ef02837a15666231e87) 1110m  
+Samoa - Tuamasaga [**O le Pupu Pu'e Cave** Pe'ape'a Lava Cave; Papa Cave ](allcaves-database.md#WS-664b779d2e35983d905e062a90732133) 1110m  
+United States of America - Washington; Skamania County [**Three Sinks Cave** ](allcaves-database.md#US-a3e59969a6c38c616c0e99e23c93ada1) 1105m  
+Iceland [**Iðrafossar** Cascade Cave ](allcaves-database.md#IS-5cc70946bc869eab5dfe078beb5e8f35) 1100m  
+Iceland [**Flóki** ](allcaves-database.md#IS-0ed5c71cd41bbf211234144c444bc950) 1096m  
+United States of America - Washington [**Skin Mites Cave** ](allcaves-database.md#US-2a3492a2f68c09d9bae2f4e489253ce6) 1090m  
+United States of America - Hawaii; North Hilo district [**Oozing Red Puka** ](allcaves-database.md#US-baeed877d12b7bdb552c749c8dd581f0) 1090m  
+United States of America - Washington [**Skamaniac Cave** ](allcaves-database.md#US-b01442061892a561edf755e8a6e4f0cf) 1074m  
+Viet Nam - Đắk Nông; Nam Da [**C7** ](allcaves-database.md#VN-d55999c1be1dcbb42091185c490f26b5) 1067m  
+United States of America - Washington; Klickitat County [**Dead Bear Cave** ](allcaves-database.md#US-5a9e7a7168b11b95b77b6a8fae404b9b) 1063m  
+Spain - Santa Cruz de Tenerife; Las Canadas [**Cueva de los Roques** ](allcaves-database.md#ES-40ecacf8fd9a71f998c37c3a7e2e8b12) 1048m  
+United States of America - Washington; Skamania County [**J.a.R. Cave** NSS-633-43](allcaves-database.md#US-eaa583d9d43a9163ba9af66e8287d7e5) 1043m  
+United States of America - Oregon; Deschutes County [**Skeleton Cave** ](allcaves-database.md#US-54e897dda7652157d670e2d1a30fe9a2) 1042m  
+United States of America - Washington; Skamania County [**Resurrection Cave** ](allcaves-database.md#US-41caf6c1c36fee53630f60b041b04846) 1039m  
+Mexico - Distrito Federal [**Cueva del Aire** ](allcaves-database.md#MX-ac62beaa9b6655f308a11f90ba2ecef9) 1038m  
+United States of America - Washington; Skamania County [**Little Red River Cave** NSS-631-023](allcaves-database.md#US-4ee36793897eb36c282117459d7e0e0d) 1032m  
+United States of America - California; Shasta County [**Big Cave** ](allcaves-database.md#US-b1a74028107d2d6ad1749402e11165c0) *Part of* Popcorn Cave System 1030m  
+United States of America - Hawaii [**Mouflon Cave** ](allcaves-database.md#US-c94b3238f754c5b8c360b42fa6ea6aba) 1015m  
+Mauritius [**Camp Thorel Cave** ](allcaves-database.md#MU-c3c912acc6777f4b2b3dcf3f15b2ed4e) 1015m  
+United States of America - Idaho; Lincoln County [**Tee Cave** ](allcaves-database.md#US-5ccf25a754dfb275f4fc3aa7bed21aa8) 1006m  
+United States of America - Hawaii [**Octapuka** ](allcaves-database.md#US-08c21f4b5e3250661098645ca4d945b9) 1002m  
+United States of America - Hawaii; Hamakua District [**Pa'auhau Civil Defense Cave** ](allcaves-database.md#US-d4f67d4d7b5e41ff212bc1dcbee73043) 1001m  
+United States of America - Hawaii; North Hilo district [**Redemption Cave** ](allcaves-database.md#US-71197c1b421fc5dc694d7caaa51d3abb) 1000m  
+United States of America - Hawaii; North Hilo district [**Hanging Pack Cave** ](allcaves-database.md#US-d8bea75f02a02e0b2c0b35e651c9eb1b) 1000m  
+United States of America - Hawaii [**Kahawaihapapa Cave** ](allcaves-database.md#US-730365202e110f38d3bf3c767a8493f9) 1000m  
+Spain - Santa Cruz de Tenerife [**Cueva de Chiguergue** ](allcaves-database.md#ES-bf3ecc97f252cd760aab9afd3ebf1fc3) 1000m  
+Kenya - Eastern Province; Machakos District [**ABC Cave** ](allcaves-database.md#KE-a9f5c3625d13b1df6523619656a2fe41) 1000m  
+France - Reunion [**Caverne de la Riviere des Remparts** ](allcaves-database.md#FR-48ac50171e4d80a1f366bd3846ee256e) 1000m  

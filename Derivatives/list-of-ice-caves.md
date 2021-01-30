@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 519 rock-hosted caves with perennial ice was generated from a CaveXML database. - Jan 22, 2021
+This list of 520 rock-hosted caves with perennial ice was generated from a CaveXML database. - Jan 30, 2021
 
 Austria - Oberösterreich [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-09ce958d127174017149d8adf1a2db30)  
 Austria - Oberösterreich [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-8cc53615b4bc61060a96e8087ea79ae4)  
@@ -427,7 +427,7 @@ Spain [**S2** ](allcaves-database.md#ES-9ac479b6cee0e5306ffbef617bdbbf9a)
 Spain [**S6** ](allcaves-database.md#ES-54d99a3673bb378331e035377efd762b)  
 Spain - Santa Cruz de Tenerife [**Cuevas Heladas de Villar** ](allcaves-database.md#ES-edcf53075b835ea6a166f7b8b4a7d39e)  
 Spain - Santa Cruz de Tenerife [**Ice cave 2 Pico Viejo** ](allcaves-database.md#ES-f030f5ce3db1f97639ca7b7904c4c8cc)  
-Spain - Santa Cruz de Tenerife [**Sima de Hielo Montaña Rajada** ](allcaves-database.md#ES-adeea1d09424bfa224fa7c7c704d6658)  
+Spain - Santa Cruz de Tenerife [**Sima de Hielo Montaña Rajada** Sima Montaña Rajada ](allcaves-database.md#ES-adeea1d09424bfa224fa7c7c704d6658)  
 Spain [**Sarrios 1–6** ](allcaves-database.md#ES-d6a3dcb2893f289764abb24623e1c9a8)  
 Spain [**Sima del Hielo** AN62](allcaves-database.md#ES-e4aeccf1243919c2b53a0f2230bc9b9c)  
 Spain [**Sima de Linza** ](allcaves-database.md#ES-91d0ea7dc02c796b46db2575e4d5dab5)  
@@ -492,6 +492,7 @@ United States of America - California; Siskiyou County [**Upper Ice Cave** ](all
 United States of America - California [**U-200** ](allcaves-database.md#US-355020c3f031f232e7e5999f664b31db)  
 United States of America - Hawaii [**Arsia Cave** Arsia Ice Cave ](allcaves-database.md#US-c27a141b3ed15774f8fce43ce9287ed0)  
 United States of America - Hawaii [**Mauna Loa Ice Cave** ](allcaves-database.md#US-b06fbb3d2b569e50f6cddc95cfb1b0f7)  
+United States of America - Idaho; Butte County [**Boy Scout Cave** ](allcaves-database.md#US-fb672da215b7a63a8da8805a22311591)  
 United States of America - Idaho [**Snow Cone** ](allcaves-database.md#US-9c34793586092e16b66cfb8a7655fb35)  
 United States of America - Idaho [**Strickler Cavern** ](allcaves-database.md#US-8b83b776893742c5e3bebdacb4deb460)  
 United States of America - Montana [**Crater Ice Cave** ](allcaves-database.md#US-e5adad7e773ba261bf30f78657233988)  
@@ -544,6 +545,7 @@ United States of America - California; Siskiyou County [**Skull Ice Cave** Skull
 United States of America - California; Siskiyou County [**Upper Ice Cave** ](allcaves-database.md#US-a50eecca7d83813c7a7a09db3ac17b1d)  
 United States of America - Hawaii [**Arsia Cave** Arsia Ice Cave ](allcaves-database.md#US-c27a141b3ed15774f8fce43ce9287ed0)  
 United States of America - Hawaii [**Mauna Loa Ice Cave** ](allcaves-database.md#US-b06fbb3d2b569e50f6cddc95cfb1b0f7)  
+United States of America - Idaho; Butte County [**Boy Scout Cave** ](allcaves-database.md#US-fb672da215b7a63a8da8805a22311591)  
 United States of America - New Mexico; Cibola County [**Candelaria Ice Cave** Bandera Volcano Ice Cave; Zuni Ice Cave ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
 United States of America - New Mexico; Cibola County [**Dripping Lava Cave** ](allcaves-database.md#US-c87f5433fb645e7fc29ae96e9e076a7f)  
 United States of America - New Mexico; Cibola County [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  

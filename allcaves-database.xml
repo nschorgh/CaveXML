@@ -7,15 +7,16 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Tennengebirge</phys-area-name>
       <principal-cave-name>Eisriesenwelt</principal-cave-name>
+      <other-cave-name/>
       <cave-id>1511/24</cave-id>
       <latitude>47.511</latitude>
       <longitude>13.193</longitude>
       <altitude>1657</altitude>
       <length> >42000</length>
       <vertical-extent>407</vertical-extent>
-      <number-of-entrances></number-of-entrances>
+      <number-of-entrances/>
       <rock-type>limestone</rock-type>
-      <cave-type></cave-type>
+      <cave-type/>
       <contents>permanent ice</contents>
       <comments>surface area covered by ice 28,000 m^2</comments>
       <reference>May et al. (2011) doi:10.5194/tc-5-81-2011</reference>
@@ -24,6 +25,7 @@
       <reference>Margesin et al. (2004) doi:10.1099/ijs.0.63124-0</reference>
       <reference>Schöner et al. (2011) doi:10.5194/tc-5-603-2011</reference>
       <cave-use>guided tourist cave</cave-use>
+      <curation/>
    </record>
    <record>
       <country-name>Austria</country-name>
@@ -2887,12 +2889,12 @@
       <latitude/>
       <longitude/>
       <altitude>3400</altitude>
-      <length>50</length>
+      <length>55</length>
       <vertical-extent>14</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <contents>periodic ice</contents>
       <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
-      <reference>Rosales (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -2930,7 +2932,7 @@
       <phys-area-name>Canary Islands</phys-area-name>
       <phys-area-name>Mount Teide</phys-area-name>
       <principal-cave-name>Sima de Hielo Montaña Rajada</principal-cave-name>
-      <other-cave-name/>
+      <other-cave-name>Sima Montaña Rajada</other-cave-name>
       <latitude/>
       <longitude/>
       <altitude/>
@@ -2938,6 +2940,7 @@
       <vertical-extent/>
       <contents>permanent ice</contents>
       <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -5252,6 +5255,7 @@
       <comments>floor ice, stalactites, hoarfrost</comments>
       <reference>Bella and Zelinka (2018) doi:10.1016/B978-0-12-811739-2.00029-2</reference>
       <reference>Supinsky et al. (2019) https://tc.copernicus.org/articles/13/2835/2019/</reference>
+      <reference>Kovac (2018) doi:10.1007/978-3-319-98852-8_15</reference>
    </record>
    <record>
       <country-name>Slovakia</country-name>
@@ -7652,6 +7656,7 @@
       <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
       <reference>Canadian Caver 2:26, 5/1:21, 11/1:28, 12/1:3, 15/2:7, 19/2:22, 59:7, 63:4, 66:4, 71:4, 73:20, 80:28</reference>
       <reference>https://en.wikipedia.org/wiki/Castleguard_Cave</reference>
+      <reference>Atkinson (1983) doi:10.1080/00040851.1983.12004379</reference>
    </record>
    <record>
       <country-name>Canada</country-name>
@@ -8072,7 +8077,7 @@
       <latitude/>
       <longitude/>
       <altitude>2393</altitude>
-      <length>12300</length>
+      <length></length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
@@ -8318,6 +8323,36 @@
       <length/>
       <contents>periodic ice</contents>
       <reference>Knudson and Hedges (1973) https://scholarworks.uni.edu/pias/vol80/iss4/8/</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>New York</state-or-province>
+      <phys-area-name>Shawangunk Ridge; Sam's Point Preserve</phys-area-name>
+      <principal-cave-name>Sam's Point Ice Cave</principal-cave-name>
+      <other-cave-name>Ice Cave #1</other-cave-name>
+      <cave-id/>
+      <length>138</length>
+      <vertical-extent></vertical-extent>
+      <rock-type></rock-type>
+      <cave-type>tectonic cave</cave-type>
+      <contents>periodic ice</contents>
+      <reference>Iepure (2018) doi:10.1016/B978-0-12-811739-2.00007-3</reference>
+      <reference>Espinasa et al. (2015) doi:10.3897/subtbiol.15.4733</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>New York</state-or-province>
+      <phys-area-name>Shawangunk Ridge; near Mohonk Preserve</phys-area-name>
+      <principal-cave-name>Xanadu Cave</principal-cave-name>
+      <cave-id/>
+      <length>422</length>
+      <vertical-extent></vertical-extent>
+      <rock-type></rock-type>
+      <cave-type>tectonic cave</cave-type>
+      <contents>periodic ice</contents>
+      <reference>Iepure (2018) doi:10.1016/B978-0-12-811739-2.00007-3</reference>
+      <reference>Espinasa et al. (2015) doi:10.3897/subtbiol.15.4733</reference>
+      <reference>Millett and Millett (2013) https://caves.org/grotto/ccg/um/2013_10_um.pdf</reference>
    </record>
 
    <record>
@@ -8627,7 +8662,6 @@
       <principal-cave-name>10-9-6-36-37 Series</principal-cave-name>
       <length>1300</length>
       <cave-type>lava tunnel</cave-type>
-      <branch-name>Cave 6</branch-name>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1447</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1439</reference>
    </record>
@@ -9656,6 +9690,9 @@
       <length>1350</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <contents>trogloxenes</contents>
+      <contents>troglobites</contents>
+      <contents>troglophiles</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1210</reference>
       <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
       <reference>Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf</reference>
@@ -9866,6 +9903,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1195</reference>
       <reference>Paris et al. (2020) https://arxiv.org/abs/2004.13156</reference>
+      <reference>Polyak et al. (2020) doi:10.1016/j.quageo.2020.101083</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
@@ -9908,7 +9946,9 @@
       <principal-cave-name>Billemot Gul</principal-cave-name>
       <other-cave-name>Rock Pond Cave</other-cave-name>
       <other-cave-name>Bilemot Gul</other-cave-name>
+      <other-cave-name>Pillemot Cave</other-cave-name>
       <other-cave-name>Billemotdonggul Lava Tube</other-cave-name>
+      <other-cave-name>Labyrinth Cave</other-cave-name>
       <altitude>70</altitude>
       <length>11749</length>
       <cave-type>lava tunnel</cave-type>
@@ -10236,16 +10276,20 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Butte County</state-or-province>
-      <phys-area-name>Craters of the Moon</phys-area-name>
+      <phys-area-name>Craters of the Moon National Monument</phys-area-name>
       <principal-cave-name>Boy Scout Cave</principal-cave-name>
-      <length/>
+      <length>~20</length>
       <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
+      <contents>troglobites</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1021</reference>
+      <reference>Briggs (1974) J. Arachnol. 1:205-214</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Newberry volcano</phys-area-name>
       <principal-cave-name>Boyd Cave</principal-cave-name>
       <length>600</length>
       <rock-type>basalt</rock-type>
@@ -11478,21 +11522,41 @@
    </record>
    <record>
       <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife; La Orotava</state-or-province>
+      <phys-area-name>Tenerife</phys-area-name>
+      <principal-cave-name>Cueva del Bucio</principal-cave-name>
+      <altitude>1100</altitude>
+      <length>116</length>
+      <vertical-extent>30</vertical-extent>
+      <number-of-entrances>1</number-of-entrances>
+      <cave-type>lava tunnel</cave-type>
+      <contents>trogloxenes</contents>
+      <contents>troglophiles</contents>
+      <contents>troglobites</contents>
+      <reference>Sala et al. (1994) http://vulcanospeleology.org/sym07/ISV7x17.pdf</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
+   </record>
+   <record>
+      <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva Buzanada</principal-cave-name>
       <length>100</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1482</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva Cabeza de Perro</principal-cave-name>
+      <altitude>40</altitude>
       <length>68</length>
+      <vertical-extent>2</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1483</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -11517,28 +11581,25 @@
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva de Arafa</principal-cave-name>
+      <principal-cave-name>Cueva de Arafo</principal-cave-name>
+      <altitude>600</altitude>
       <length>110</length>
+      <vertical-extent>8</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1485</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de Benisahare</principal-cave-name>
+      <altitude>420</altitude>
       <length>327</length>
+      <vertical-extent>24</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1486</reference>
-   </record>
-   <record>
-      <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva de Bicho</principal-cave-name>
-      <length>8</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1487</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -11557,9 +11618,11 @@
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de Chiguergue</principal-cave-name>
+      <altitude>840</altitude>
       <length>1000</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1489</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -11576,25 +11639,31 @@
       <reference>http://www.mexicancaves.org/maps/1944.pdf</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1151</reference>
       <reference>Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf</reference>
+      <reference>López-Martínez (2016) doi:10.5038/1827-806X.45.2.1927</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva de Cuaclo de las Mo</principal-cave-name>
+      <other-cave-name>Cuaclo de la Molera</other-cave-name>
       <length>80</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1463</reference>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de Don Cesar</principal-cave-name>
+      <altitude>480</altitude>
       <length>56</length>
+      <vertical-extent>4</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1490</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -11610,6 +11679,34 @@
       <reference>https://en.wikipedia.org/wiki/Cueva_de_Don_Justo</reference>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
    </record>
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife; La Frontera</state-or-province>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
+      <principal-cave-name>Cueva de Tacoron</principal-cave-name>
+      <altitude>500</altitude>
+      <length>334</length>
+      <vertical-extent></vertical-extent>
+      <number-of-entrances>4</number-of-entrances>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
+   </record>
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife; La Frontera</state-or-province>
+      <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
+      <principal-cave-name>Cueva de La Curva</principal-cave-name>
+      <other-cave-name>Cave of La Curva</other-cave-name>
+      <altitude>400</altitude>
+      <length>141</length>
+      <vertical-extent></vertical-extent>
+      <number-of-entrances></number-of-entrances>
+      <cave-type>lava tunnel</cave-type>
+      <contents>tree roots</contents>
+      <contents>troglobites</contents>
+      <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
+   </record>
+
    <record>
       <country-name>Mexico</country-name>
       <state-or-province>Morelos</state-or-province>
@@ -11712,8 +11809,10 @@
       <longitude>-16.7</longitude>
       <length>3000</length>
       <cave-type>lava tunnel</cave-type>
+      <contents>troglobites</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=664</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1491</reference>
+      <reference>Oromi (2018) doi:10.1007/978-3-319-98852-8_17</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -11732,6 +11831,7 @@
       <length>150</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1492</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -11775,9 +11875,12 @@
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de la Amargura</principal-cave-name>
+      <altitude>620</altitude>
       <length>43</length>
+      <vertical-extent>3</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1493</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -11800,22 +11903,39 @@
    </record>
    <record>
       <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
+      <state-or-province>Santa Cruz de Tenerife; Candelaria</state-or-province>
+      <phys-area-name>Tenerife</phys-area-name>
+      <principal-cave-name>Cueva de Candelaria</principal-cave-name>
+      <altitude>60</altitude>
+      <length>125</length>
+      <vertical-extent>4</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1488</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
+   </record>
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife; Icod de los Vinos</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de la Candelaria</principal-cave-name>
-      <length/>
+      <altitude>420</altitude>
+      <length>680</length>
+      <vertical-extent>22</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1494</reference>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1488</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de la Cruz</principal-cave-name>
-      <length>249</length>
+      <altitude>710</altitude>
+      <length>250</length>
+      <vertical-extent>15</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1495</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -11825,15 +11945,6 @@
       <length>80</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=723</reference>
-   </record>
-   <record>
-      <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva de la Desilusion</principal-cave-name>
-      <length>18</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1496</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -11858,6 +11969,7 @@
       <number-of-entrances>4</number-of-entrances>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <contents>troglobites</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1157</reference>
       <reference>http://www.mexicancaves.org/maps/3400.pdf</reference>
    </record>
@@ -11887,19 +11999,25 @@
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva de la Plaza de Toro</principal-cave-name>
+      <principal-cave-name>Cueva de la Plaza de Toros</principal-cave-name>
+      <other-cave-name></other-cave-name>
+      <altitude>440</altitude>
       <length>268</length>
+      <vertical-extent>5</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1497</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Tenerife</phys-area-name>
+      <phys-area-name>Tenerife; Santa Cruz</phys-area-name>
       <principal-cave-name>Cueva de la Refineria</principal-cave-name>
-      <length/>
+      <altitude>25</altitude>
+      <length>100</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1498</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -11927,9 +12045,12 @@
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de las Abejas</principal-cave-name>
+      <altitude>720</altitude>
       <length>43</length>
+      <vertical-extent>2</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1499</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -11967,27 +12088,28 @@
       <state-or-province>Las Palmas</state-or-province>
       <phys-area-name>Canary Islands; Lanzarote</phys-area-name>
       <principal-cave-name>Cueva de las Palomas</principal-cave-name>
-      <length/>
+      <length></length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva de los Cazadores</principal-cave-name>
-      <length/>
+      <state-or-province>Santa Cruz de Tenerife; Fuencaliente</state-or-province>
+      <phys-area-name>Canary Islands; La Palma</phys-area-name>
+      <principal-cave-name>Cueva de los Plameros</principal-cave-name>
+      <length>181</length>
       <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1500</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Canary Islands; La Palma</phys-area-name>
+      <phys-area-name>Canary Islands; La Palma; Fuencaliente</phys-area-name>
       <principal-cave-name>Cueva de los Conejos</principal-cave-name>
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1479</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12011,32 +12133,58 @@
    </record>
    <record>
       <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
+      <state-or-province>Santa Cruz de Tenerife; Fuencaliente</state-or-province>
       <phys-area-name>Canary Islands; La Palma</phys-area-name>
       <principal-cave-name>Cueva de los Palmeros</principal-cave-name>
       <length>181</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1480</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
-      <principal-cave-name>Cueva de los Pandelas</principal-cave-name>
+      <principal-cave-name>Cueva de los Pardelas</principal-cave-name>
       <length>180</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1468</reference>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
+   </record>
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife; Las Canadas</state-or-province>
+      <phys-area-name>Tenerife</phys-area-name>
+      <principal-cave-name>Cueva de los Roques</principal-cave-name>
+      <altitude>2160-2200</altitude>
+      <length>1048</length>
+      <number-of-entrances>4</number-of-entrances>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <contents>accidental trogloxenes</contents>
+      <contents>trogloxenes</contents>
+      <contents>troglobites</contents>
+      <contents>troglophiles</contents>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1501</reference>
+      <reference>Martin and Oromi (1986) doi:10.1080/00222938600770281</reference>
+      <reference>Oromi (2018) doi:10.1007/978-3-319-98852-8_17</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva de los Roques</principal-cave-name>
-      <length>1048</length>
+      <phys-area-name>Tenerife; Parque nacional del Teide; Pico Viejo</phys-area-name>
+      <principal-cave-name>Cuevas Negras</principal-cave-name>
+      <altitude>2175-2250</altitude>
+      <length>420</length>
+      <vertical-extent>85</vertical-extent>
+      <number-of-entrances></number-of-entrances>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1501</reference>
+      <contents>troglobites</contents>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
+
    <record>
       <country-name>Mexico</country-name>
       <state-or-province>Tamaulipas</state-or-province>
@@ -12051,12 +12199,15 @@
    </record>
    <record>
       <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
+      <state-or-province>Santa Cruz de Tenerife; La Laguna</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva de los Valemcianos</principal-cave-name>
-      <length>58</length>
+      <principal-cave-name>Cueva de Los Valencianos</principal-cave-name>
+      <altitude>560</altitude>
+      <length>48</length>
+      <vertical-extent>22</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1502</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12093,10 +12244,13 @@
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva de Maestro Pipe</principal-cave-name>
+      <principal-cave-name>Cueva de Maestro Pepe</principal-cave-name>
+      <altitude>625</altitude>
       <length>65</length>
+      <vertical-extent>2</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1503</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -12111,11 +12265,13 @@
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
-      <principal-cave-name>Cueva de Maunicico</principal-cave-name>
+      <principal-cave-name>Cueva de Mauricico</principal-cave-name>
+      <other-cave-name>Cueva de Mauricico Laderas</other-cave-name>
       <length>193</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1469</reference>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -12131,9 +12287,12 @@
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de Punto Blanco</principal-cave-name>
+      <altitude>30</altitude>
       <length>248</length>
+      <vertical-extent>7</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1504</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -12158,19 +12317,24 @@
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de Samara</principal-cave-name>
-      <length>50</length>
+      <length>100</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1505</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
+      <state-or-province>Santa Cruz de Tenerife; Valverde</state-or-province>
       <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
       <principal-cave-name>Cueva de San Andres</principal-cave-name>
-      <length/>
+      <other-cave-name>Cueva de los Pozos</other-cave-name>
+      <altitude>~1000</altitude>
+      <length>390</length>
       <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1470</reference>
+      <comments>consists of three segments that are 350m, 26m, and 8m long</comments>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1470</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1513</reference>
    </record>
    <record>
       <country-name>Argentina</country-name>
@@ -12186,10 +12350,13 @@
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; Tenerife</phys-area-name>
       <principal-cave-name>Cueva de San Marcos</principal-cave-name>
+      <altitude>30-99</altitude>
       <length>2130</length>
+      <number-of-entrances>2</number-of-entrances>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=665</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1506</reference>
+      <reference>Oromi (2018) doi:10.1007/978-3-319-98852-8_17</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -12215,11 +12382,12 @@
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
-      <principal-cave-name>Cueva del Acontilado</principal-cave-name>
+      <principal-cave-name>Cueva del Acantilado</principal-cave-name>
       <length>401</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1471</reference>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12229,6 +12397,7 @@
       <length>1038</length>
       <vertical-extent>87</vertical-extent>
       <cave-type>lava tunnel</cave-type>
+      <contents>troglobites</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=206</reference>
       <reference>http://www.mexicancaves.org/maps/2905.pdf</reference>
    </record>
@@ -12252,24 +12421,30 @@
       <length>100</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1507</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva del Bucia</principal-cave-name>
+      <principal-cave-name>Cueva del Bucio</principal-cave-name>
+      <altitude>1100</altitude>
       <length>149</length>
+      <vertical-extent>30</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1508</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva del Bujeno</principal-cave-name>
+      <altitude>380</altitude>
       <length>50</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1509</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -12339,6 +12514,22 @@
       <reference>http://www.mexicancaves.org/maps/3399.pdf</reference>
    </record>
    <record>
+      <country-name>Mexico</country-name>
+      <state-or-province>Morelos</state-or-province>
+      <phys-area-name>Sierra Chichinautzin</phys-area-name>
+      <principal-cave-name>Cueva del Naranjo Rojo</principal-cave-name>
+      <length>671</length>
+      <vertical-extent>32</vertical-extent>
+      <number-of-entrances></number-of-entrances>
+      <rock-type></rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <contents>troglobites</contents>
+      <reference>Espinasa and Closas (2006) http://vulcanospeleology.org/sym12/ISV12p18.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/2978.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/0207.pdf</reference>
+      <reference>http://www.mexicancaves.org/maps/1964.pdf</reference>
+   </record>
+   <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
@@ -12364,16 +12555,25 @@
       <principal-cave-name>Cueva del Llano</principal-cave-name>
       <length>488</length>
       <cave-type>lava tunnel</cave-type>
+      <contents>trogloxenes</contents>
+      <contents>troglophiles</contents>
+      <contents>troglobites</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1146</reference>
+      <reference>Randeo et al. (1993) The hypogean community of Cueva del Llano (Fuerteventura, Canary Islands)</reference> 
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva del Metra</principal-cave-name>
+      <other-cave-name>Cueva Joe M. Glez. Gomez</other-cave-name>
+      <altitude>200</altitude>
       <length>185</length>
+      <vertical-extent>4</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1511</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12383,6 +12583,7 @@
       <length>100</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1512</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12422,19 +12623,12 @@
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva del Pozo</principal-cave-name>
-      <length>56</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1513</reference>
-   </record>
-   <record>
-      <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva del Refugio</principal-cave-name>
+      <altitude>1275</altitude>
       <length>22</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1514</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12453,15 +12647,6 @@
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva del Sohoada</principal-cave-name>
-      <length>4000</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1515</reference>
-   </record>
-   <record>
-      <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva del Valle</principal-cave-name>
       <length>163</length>
       <cave-type>lava tunnel</cave-type>
@@ -12473,15 +12658,24 @@
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva del Viento</principal-cave-name>
       <other-cave-name>El Viento cave</other-cave-name>
+      <other-cave-name>Cueva del Viento-Sobrado</other-cave-name>
       <latitude>28.35209</latitude>
       <longitude>-16.70405</longitude>
       <altitude>625</altitude>
       <length>17032</length>
       <vertical-extent>478</vertical-extent>
       <cave-type>lava tunnel</cave-type>
+      <contents>trogloxenes</contents>
+      <contents>troglobites</contents>
+      <contents>troglophiles</contents>
+      <comments>largest lava tube in Europe</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517</reference>
       <reference>Pinza-Molina et al. (1999) doi:10.1093/oxfordjournals.rpd.a032628</reference>
       <reference>Rein et al. (2016) http://www.cavepics.com/IVS17/REIN.pdf</reference>
+      <reference>Oromi (2018) doi:10.1007/978-3-319-98852-8_17</reference>
+      <reference>https://en.wikipedia.org/wiki/Cueva_del_Viento</reference>
+      <reference>https://www.showcaves.com/english/es/showcaves/Viento.html</reference>
+      <reference>Zurita et al. (1994) http://vulcanospeleology.org/sym07/ISV7x19.pdf</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -12541,15 +12735,57 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1150</reference>
+      <reference>Acosta (2019) doi:10.1371/journal.pone.0223828</reference>
    </record>
+   <record>
+      <country-name>Argentina</country-name>
+      <state-or-province></state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Cueva del Tigre</principal-cave-name>
+      <altitude></altitude>
+      <length>~300</length>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Benedetto et al. (1998) doi:10.5038/1827-806X.27.1.16</reference>
+   </record>
+   <record>
+      <country-name>Mexico</country-name>
+      <state-or-province>Sonora</state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Cueva del Tigre</principal-cave-name>
+      <altitude></altitude>
+      <length>206</length>
+      <vertical-extent>41</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <cave-type></cave-type>
+      <contents>many bats</contents>
+      <reference>McFarlane et al. (1995) doi:10.1007/BF02181037</reference>
+      <reference>http://www.mexicancaves.org/maps/0923.pdf</reference>
+   </record>
+   <record>
+      <country-name>Argentina</country-name>
+      <state-or-province></state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>El Abrigo de el Manzano</principal-cave-name>
+      <altitude></altitude>
+      <length>~11</length>
+      <rock-type>basalt</rock-type>
+      <cave-type>tectonic cave</cave-type>
+      <reference>Benedetto et al. (1998) doi:10.5038/1827-806X.27.1.16</reference>
+   </record>
+
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva Fea</principal-cave-name>
+      <principal-cave-name>Cueva Fea de Arico</principal-cave-name>
+      <other-cave-name>Cueva Fea</other-cave-name>
+      <altitude>1620</altitude>
       <length>55</length>
+      <vertical-extent>2</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1518</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12565,10 +12801,13 @@
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cueva Handa de Guimar</principal-cave-name>
+      <principal-cave-name>Cueva Honda de Güímar</principal-cave-name>
+      <other-cave-name>Cueva de la Arena</other-cave-name>
+      <altitude>100</altitude>
       <length>100</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1519</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12601,20 +12840,12 @@
       <reference>Espinasa-Perena (1993) http://www.mexicancaves.org/nl/20.pdf</reference>
    </record>
    <record>
-      <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Canary Islands; Tenerife</phys-area-name>
-      <principal-cave-name>Cueva Juli</principal-cave-name>
-      <length>13</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1521</reference>
-   </record>
-   <record>
       <country-name>Argentina</country-name>
       <state-or-province>La Pampa</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Cueva La Alada</principal-cave-name>
       <length>264</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1145</reference>
    </record>
@@ -12623,54 +12854,56 @@
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; Tenerife</phys-area-name>
       <principal-cave-name>Cueva Labrada</principal-cave-name>
-      <length/>
+      <altitude>1000</altitude>
+      <length>236</length>
+      <vertical-extent>12</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1522</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; Tenerife</phys-area-name>
       <principal-cave-name>Cueva Las Mechas</principal-cave-name>
+      <altitude>1000</altitude>
       <length>246</length>
+      <vertical-extent>9</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1523</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; Tenerife</phys-area-name>
-      <principal-cave-name>Cueva los Guanehes</principal-cave-name>
-      <length>18</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1524</reference>
-   </record>
-   <record>
-      <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
-      <phys-area-name>Canary Islands; Tenerife</phys-area-name>
-      <principal-cave-name>Cueva los Viejas</principal-cave-name>
+      <principal-cave-name>Cueva los Viejos</principal-cave-name>
       <length>70</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1525</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
+      <state-or-province>Santa Cruz de Tenerife; Santa Cruz</state-or-province>
       <phys-area-name>Canary Islands; La Palma</phys-area-name>
       <principal-cave-name>Cueva MPT</principal-cave-name>
       <length>94</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1481</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; Tenerife</phys-area-name>
-      <principal-cave-name>Cueva Pepe el Chico</principal-cave-name>
+      <principal-cave-name>Cueva de Pepe el Chico</principal-cave-name>
+      <altitude>420</altitude>
       <length>158</length>
+      <vertical-extent>14</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1526</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12726,10 +12959,12 @@
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
-      <principal-cave-name>Cuevas Grandes de Chico</principal-cave-name>
-      <length>200</length>
+      <principal-cave-name>Cueva Grandes de Chico</principal-cave-name>
+      <altitude>1100</altitude>
+      <length>350</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1528</reference>
+      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -13116,7 +13351,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Butte County</state-or-province>
-      <phys-area-name>Craters of the Moon</phys-area-name>
+      <phys-area-name>Craters of the Moon National Monument</phys-area-name>
       <principal-cave-name>Dewdrop Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -15800,13 +16035,17 @@
       <country-name>Korea, Republic of</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island; Hyopje tube system; Hallim Park</phys-area-name>
-      <principal-cave-name>Ssang Ryong Gul</principal-cave-name>
-      <other-cave-name>Ssangyonggul</other-cave-name>
-      <other-cave-name>Two Dragons</other-cave-name>
+      <principal-cave-name>Ssangyonggul</principal-cave-name>
       <other-cave-name>쌍용굴</other-cave-name>
+      <other-cave-name>Ssang Ryong Gul</other-cave-name>
+      <other-cave-name>Two Dragons</other-cave-name>
+      <latitude>33.3833</latitude>
+      <longitude>126.244</longitude>
       <altitude>15</altitude>
       <length>380</length>
+      <vertical-extent/>
       <number-of-entrances>2</number-of-entrances>
+      <rock-type/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=672</reference>
       <reference>Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf</reference>
@@ -16013,7 +16252,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Butte County</state-or-province>
-      <phys-area-name>Craters of the Moon</phys-area-name>
+      <phys-area-name>Craters of the Moon National Monument</phys-area-name>
       <principal-cave-name>Indian Tunnel</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -16942,6 +17181,7 @@
       <reference>Allred and Allred (1997) J. Cave Karst Stds. 59, 67-80</reference>
       <reference>Allred (2019) doi:10.1016/B978-0-12-814124-3.00073-X</reference>
       <reference>https://en.wikipedia.org/wiki/Kazumura_Cave</reference>
+      <reference>https://www.showcaves.com/english/usa/caves/Kazumura.html</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -17550,7 +17790,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Butte County</state-or-province>
-      <phys-area-name>Craters of the Moon</phys-area-name>
+      <phys-area-name>Craters of the Moon National Monument</phys-area-name>
       <principal-cave-name>Last Chance Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -17623,7 +17863,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Butte County</state-or-province>
-      <phys-area-name>Craters of the Moon</phys-area-name>
+      <phys-area-name>Craters of the Moon National Monument</phys-area-name>
       <principal-cave-name>Lava River Cave</principal-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
@@ -18349,9 +18589,9 @@
       <country-name>Korea, Republic of</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island; Mt. Hanra; Geomunoreum</phys-area-name>
-      <principal-cave-name>Man Jang Gul</principal-cave-name>
+      <principal-cave-name>Manjanggul</principal-cave-name>
       <other-cave-name>만장굴</other-cave-name>
-      <other-cave-name>Manjanggul</other-cave-name>
+      <other-cave-name>Man Jang Gul</other-cave-name>
       <other-cave-name>Red Dragon Cave</other-cave-name>
       <altitude>120</altitude>
       <length>8928</length>
@@ -18389,17 +18629,6 @@
       <reference>Leveille et al. (2000) doi:10.1016/S0009-2541(00)00213-8</reference>
       <reference>Kociolek et al. (2013) doi:10.1080/09670262.2013.860239</reference>
       <reference>https://www.showcaves.com/english/usa/caves/Waikanaloa.html</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands; Giant Crater Lava Flow</phys-area-name>
-      <principal-cave-name/>
-      <other-cave-name></other-cave-name>
-      <length>69</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=626</reference>
    </record>
    <record>
       <country-name>France</country-name>
@@ -19395,7 +19624,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Butte County</state-or-province>
-      <phys-area-name>Craters of the Moon</phys-area-name>
+      <phys-area-name>Craters of the Moon National Monument</phys-area-name>
       <principal-cave-name>Needles Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -20720,7 +20949,9 @@
       <length>55</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <contents>troglobites</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=813</reference>
+      <reference>Munchmore (1983) http://hbs.bishopmuseum.org/pi/pdf/25(1)-84.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -22190,6 +22421,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
+      <phys-area-name>Newberry volcano</phys-area-name>
       <principal-cave-name>Skeleton Cave</principal-cave-name>
       <length>1042</length>
       <cave-type>lava tunnel</cave-type>
@@ -22372,6 +22604,8 @@
       <other-cave-name>Sochon Gul</other-cave-name>
       <other-cave-name>Stream Cave</other-cave-name>
       <other-cave-name>Creek Cave</other-cave-name>
+      <latitude>33.3647</latitude>
+      <longitude>126.261</longitude>
       <altitude>150</altitude>
       <length>3074</length>
       <rock-type>basalt</rock-type>
@@ -22914,7 +23148,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Butte County</state-or-province>
-      <phys-area-name>Craters of the Moon</phys-area-name>
+      <phys-area-name>Craters of the Moon National Monument</phys-area-name>
       <principal-cave-name>Sunbear  Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -22970,7 +23204,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Butte County</state-or-province>
-      <phys-area-name>Craters of the Moon</phys-area-name>
+      <phys-area-name>Craters of the Moon National Monument</phys-area-name>
       <principal-cave-name>Surprise Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -23697,11 +23931,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Butte County</state-or-province>
-      <phys-area-name>Craters of the Moon</phys-area-name>
+      <phys-area-name>Craters of the Moon National Monument</phys-area-name>
       <principal-cave-name>Tom Thumb Tunnel</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1037</reference>
+      <reference>https://mapcarta.com/N4928422575</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -24525,15 +24760,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=955</reference>
    </record>
    <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Oregon</state-or-province>
-      <state-or-province>Deschutes County</state-or-province>
-      <principal-cave-name>Walk-in-Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1304</reference>
-   </record>
-   <record>
       <country-name>New Zealand</country-name>
       <state-or-province>Auckland City</state-or-province>
       <phys-area-name>Rangitoto</phys-area-name>
@@ -25122,6 +25348,7 @@
    <record>
       <country-name>Jordan</country-name>
       <principal-cave-name>Al-Fahda Cave (Lioness Cave)</principal-cave-name>
+      <other-cave-name>Khsheifa Cave</other-cave-name>
       <latitude>32.30</latitude>
       <longitude>37.12</longitude>
       <altitude>792</altitude>
@@ -25129,6 +25356,8 @@
       <vertical-extent>7</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>Al-Malabeh et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p10.pdf</reference>
+      <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
+      <reference>Frumkin et al. (2008) doi:10.1016/j.yqres.2008.06.004</reference>
    </record>
    <record>
       <country-name>Jordan</country-name>
@@ -25222,7 +25451,7 @@
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Yongcheon Cave</principal-cave-name>
-      <length>3360</length>
+      <length> >3360</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>carbonate speleothems in lava tube</comments>
@@ -25259,7 +25488,7 @@
 
    <record>
       <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife</state-or-province>
+      <state-or-province>Santa Cruz de Tenerife; Frontera</state-or-province>
       <phys-area-name>Canary Islands; El Hierro Island; Tanganasoga volcano</phys-area-name>
       <principal-cave-name>Sima Las Palomas</principal-cave-name>
       <length>300</length>
@@ -25271,13 +25500,31 @@
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; El Hierro Island</phys-area-name>
-      <principal-cave-name>Cave of Mocan</principal-cave-name>
+      <principal-cave-name>Cueva del Mocan</principal-cave-name>
+      <other-cave-name>Cave of Mocan</other-cave-name>
       <altitude>1100</altitude>
       <length>214</length>
       <cave-type>lava tunnel</cave-type>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
    </record>
    
+   <record>
+      <country-name>Italy</country-name>
+      <state-or-province>Campania; Naples</state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Grotta dello Zolfo</principal-cave-name>
+      <other-cave-name>Grotta di Allume</other-cave-name>
+      <other-cave-name>Alum Cave</other-cave-name>
+      <latitude>40.79333</latitude>
+      <longitude>14.08417</longitude>
+      <rock-type>tuff</rock-type>
+      <cave-type>tectonic cave</cave-type>
+      <contents>minerals</contents>
+      <comments>hosts more than ten rare minerals</comments>
+      <reference>https://www.mindat.org/loc-2072.html</reference>
+      <reference>Forti et al. (1994) http://vulcanospeleology.org/sym07/ISV7x06.pdf</reference>
+   </record>
+      
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Ka'u District</state-or-province>
@@ -25320,6 +25567,7 @@
       <reference>Burney et al. (2006) doi:10.1007/s10745-006-9015-3</reference>
       <reference>David Burney (2011) "Back to the Future in the Caves of Kaua'i", Yale University Press, 216 pages</reference>
       <reference>Porch (2020) doi:10.11646/zootaxa.4868.1.8</reference>
+      <reference>https://en.wikipedia.org/wiki/Makauwahi_Cave</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -25432,7 +25680,7 @@
       <cave-type>lava tunnel</cave-type>
       <cave-system>Kazumura Cave</cave-system>
       <reference>Bunnell and Liebman (1992) http://www.vulcanospeleology.org/sym06/ISV6x06.pdf</reference>
-      <reference>Allred and Allred (1997) J. Cave Karst Stds. 59, 67-80</reference>
+      <reference>Allred and Allred (1997) J. Cave Karst Stds. 59, 67-80 https://digital.lib.usf.edu/content/SF/S0/05/24/66/00001/K26-02017-V59N2-Allred.pdf</reference>
    </record>
 
    <record>

@@ -145,18 +145,18 @@ Entries for altitude (elevation) can be even more varied, e.g., "1220-1570" to i
 i) An unsigned integer or an ExtendedUnsignedInteger optionally followed by a comment. These comments are restricted to a subset of ASCII characters.
 ii) Alternatively, a range of integers can be stated, such as 100-200, and not followed by a comment. A query function can convert "100-200" into two altitude entries of the form "100 lowermost entrance" and "200 uppermost entrance". Allowing ranges to be entered is convenient for the person who compiles the data. Three dash-like symbols are allowed as range delimiter: hyphen-minus (the only dash-like symbol in the ASCII character set), en-dash, and em-dash. Other dash-like symbols in Unicode are not accepted.    
 
-Technically, the data type for the altitude element is implemented as a token restricted by a RegEx pattern. Altitude values (in meters) are restricted to at most five digits, as no mountain in the solar system is taller than that. The comments allowed as part of an altitude entry are those consistent with the RegEx pattern `"[ ,()\w]\*"`, that is, they can contain spaces, commas, parentheses, and alphanumerical characters. Other characters, such as dashes and semicolons, are not allowed in a comment following an altitude value. Dashes serve as range delimiter and can be relied upon by a parsing function to distinguish between a range and an entry with a single number, because dashes are not allowed within comments.  
+Technically, the data type for the altitude element is implemented as a token restricted by a RegEx pattern. Altitude values (in meters) are restricted to at most five digits, as no mountain in the solar system is taller than that. The comments allowed as part of an altitude entry are those consistent with the RegEx pattern `"[ ,()\w]\*"`, that is, they can contain spaces, commas, parentheses, and alphanumerical characters. Other characters, such as dashes and semicolons, are not allowed in a comment following an altitude value. Dashes serve as range delimiter and can be relied upon by a parsing function to distinguish between a range and an entry with a single number.  
 
-This concludes the description of all the data types that have, so far, been defined in the CaveXML Schema. Table 1 shows the data types associated with each CaveXML element. None of the elements is required to appear in a record, and some elements can occur no more than once.
+This concludes the description of all the data types that have been defined in the CaveXML Schema. Table 1 shows the data types associated with each CaveXML element. None of the elements is required to appear in a record, and some elements can occur no more than once.
 
-| Element               | XML_data_type | Restrictions | Example |  
+| Element               | XML data type | Restrictions | Example |  
 |:----------------------|:-------------:|:------------:|:--------|  
 |\<country-name\> | token with restriction | pre-defined list of strings | Austria |  
 |\<state-or-province\> | string | - | California |  
 |\<phys-area-name\> | string | - | Pyrenees |
 |\<principal-cave-name\>| string | maxOccurs=1 | Kolowrathöhle |  
 |\<other-cave-name\> | string | - | M-340 |
-|\<cave-id\> | token with restriction | RegEx pattern | HSS-1547/9 |
+|\<cave-id\> | token with restriction | RegEx pattern, ASCII | HSS-1547/9 |
 |\<latitude\> | decimal with restriction | range -90...+90, maxOccurs=1 | 47.72792 |
 |\<longitude\> | decimal with restriction | range -180...+180, maxOccurs=1 | 13.00858 |
 |\<altitude\> | token with restriction | RegEx pattern | \~1500 main entrance |
@@ -174,7 +174,7 @@ This concludes the description of all the data types that have, so far, been def
 |\<curation\> | string | - | updated length based on Smith et al. (2020) |
 
 
-Table 1: Data types for each CaveXML element. Default attributes are minOccurs=0 and maxOccurs=unbounded. The third column shows restrictions on the element or on its value. The last column shows examples of valid entries.  
+Table 1: Data types for each CaveXML element. Default attributes are *minOccurs=0* and *maxOccurs=unbounded*. The third column shows restrictions on the element or on its value. The last column contains examples of valid entries.  
 
 
 Further Discussion
@@ -192,7 +192,7 @@ There is a profound and mutual relation between the data exchange standard and i
 For example, if the [cave-id] were required to be unique among records, this could not be verified with an XML schema, because it would require cross-comparisons between records.
 Another example are requirements conditioned on other fields. For example, if the data exchange standard required that either [principal-cave-name] or [other-cave-name] must be present, it is not within the capabilities of XML 1.0 to verify that (although it would be possible with XML 1.1). 
 This design choice, that the CaveXML data exchange standard can be fully verified with an XML schema definition, has two practical consequences.
-First, verifying that a database is consistent with the CaveXML exchange standard requires nothing but an XML validation. No additional software or validation step is necessary.
+First, verifying that a database is consistent with the CaveXML exchange standard requires nothing but an XML validation. No additional software or validation step are necessary.
 Second, *all* of the specifications can be verified during the XML validation. Hence, any software used to process CaveXML data can rely on the specifications being followed completely.
 This design choice leads to simplicity and rigor. It also protects the standard from making demands that might be difficult to verify.   
 
@@ -205,17 +205,17 @@ A unique record identifier can be generated in form of a hash code based on the 
 Practically, the hash code could be generated based on a limited number of entries, such as [state-or-province], [phys-area-name], and cave names (principal and other). The strings are merged into a single long string that serves as input for a hash code generator. Two caves in close vicinity of each other should not have the same name, so they ought to differ in one of those fields. And if location information is omitted from the record and the cave name is not unique, the ambiguity is fundamental.
 Hence, unique record identifiers can be generated automatically from CaveXML data records. They are not permanent, because they change with even minor edits.   
 
-Another approach to generating unique record identifiers would have been to use the country name (or its ISO letter abbreviation) plus the national cave id, if available. Cave ids, such as cave numbers or cadastral numbers, are meant to be unique for each cave. A record may have more than one cave-id and, in principle, could even have more than one [country-name], but as long as a national cave id is available and unique to the cave, it could be used as unique record identifier. There is one infrequent situation that introduces a serious flaw for this approach, namely that sometimes a cave system inherits its id number from one of its branches, namely when the system of assigning identification numbers is based on entrances. For example, Eisrohrhöhle and the Eisrohrhöhle-Bammelschacht-System both have the cadastral number 1337/118. This introduces fundamental ambiguities, which should be resolved at a level beyond the CaveXML interchange format definitions. An international cave identification number is needed that identifies every cave in the world uniquely.  
+Another approach to generating unique record identifiers would have been to use the country name (or its ISO letter abbreviation) plus the national cave id, if available. Cave ids, such as cave numbers or cadastral numbers, are usudally unique for each cave. A record may have more than one cave-id and, in principle, could even have more than one [country-name], but as long as a national cave id is available and unique to the cave, it could be used as unique record identifier. There is one infrequent situation that introduces a serious flaw to this approach, namely that sometimes a cave system inherits its id number from one of its branches, namely when the system of assigning identification numbers is based on entrances. For example, Eisrohrhöhle and the Eisrohrhöhle-Bammelschacht-System both have the cadastral number 1337/118. This introduces fundamental ambiguities, which should be resolved at a level beyond the CaveXML interchange format definitions. An international cave identification number is needed that identifies every cave in the world uniquely.  
 
-In other words, for CaveXML data the [cave-id] field is not required to be unique and record identifiers are cryptic codes that occasionally change (so they are not suitable for permalinks, unfortunately).
-There is another aspect to not using the cave id as part of a record identifier. Whereas a data interchange standard can require whatever it deems desirable, an XML-validator considers the content of one record at a time and does not perform cross-comparisons to find out whether a [cave-id] entry is also used in another record. This allows to perfectly align the interchange standard with what can be implemented in an XML schema definition, a technically elegant solution, because nothing else but a single XML validation is necessary to verify that a database follows the standard completely.  
+To recap, for CaveXML data the [cave-id] field is not required to be unique and record identifiers are cryptic codes that occasionally change (so they are not suitable for permalinks, unfortunately).
+There is another aspect to not using the cave id as part of a record identifier. Whereas a data interchange standard can require whatever it deems desirable, an XML-validator considers the content of one record at a time and does not perform cross-comparisons to find out whether a [cave-id] entry is also used in another record. This allows to limit the interchange standard to what can be implemented in an XML schema definition, a technically elegant solution, because nothing else but a single XML validation is necessary to verify that a database follows the standard completely.  
 
 
 **Automated cross-linking between cave systems and their branches**
 
 When a cave system consists of several branches that have their own record in the database, they can be cross-linked. The elements [cave-system] and [branch-name] point to a [principal-cave-name], but cave names might not be unique, even within the same country, so a more sophisticated approach is needed to unambiguously cross-link a cave system with its branches.  When [cave-system] points to a [principal-cave-name], that record should include a [branch-name] that points back to the [principal-cave-name] of the referring record. This two-way reference guarantees that correct cross links have been established.  
 
-The current version of CaveXML allows [cave-system] and [branch-name] to both be present simultaneously in the same record, and hence a hierarchy of levels is possible. However, since at most one [cave-system] entry is allowed in a record, it can only refer to the next-highest level in the hierarchy.  
+CaveXML allows [cave-system] and [branch-name] to both be present simultaneously in the same record, and hence a hierarchy of levels is possible. However, since at most one [cave-system] entry is allowed in a record, it can only refer to the next-highest level in the hierarchy. Multiple [branch-name] entries are allowed, so a reference could be made to a branch that is more than one hierarchical level below, but that entry cannot be back-linked, so listing second-order branches in a single record would be of limited usefulness. In the terminology of data structures, cave systems are organized as trees, not as graphs.  
 
 
 **Character string normalization in support of search queries**
@@ -227,7 +227,7 @@ The ideal transcription of symbols into ASCII characters depends on the language
 Within the scope of language-independent transcriptions, the Python function 'unidecode' provides lossy ASCII transliterations of Unicode text, and it can serve as a case study for the reduction of cave names into the ASCII character set. Two such Python modules are available: text-unidecode and unidecode. The unidecode function converts 'Scărişoara' into 'Scarisoara'. It also works with non-Latin alphabets. The Korean cave name '쌍용굴' is translated by unidecode to 'sangyonggul', which is indeed a name that is also used for this cave, although it is more often written with a second 'S' in front as 'Ssangyonggul'.
 Unidecode does not remove spaces, dashes, or apostrophes. Certainly, one would want to find Aladdin's Cave with or without typing the apostrophe. Hence additional simplifications should be made after applying the unidecode function, including setting all letters to lower case. One possibility is to omit all characters that are not alphanumerical Latin characters, but obviously only after and not before the unidecode function is applied, otherwise there would be nothing left of '쌍용굴'.  
 
-The same transliteration function can also be applied to the user input. In that case the database entry "Kaʻūpūlehu" will turn into "kaupulehu", and when the user types "Ka'upulehu", it will also be converted into kaupulehu and match the database entry.
+The same transliteration function can also be applied to the search term. The database entry "Kaʻūpūlehu" will turn into "kaupulehu", and when the user types "Ka'upulehu", it will also be converted into kaupulehu and match the database entry.
 Of course this is not perfect. 'Hoehle' will not match 'Höhle'. However, the case study demonstrates that names can be normalized reasonably well automatically, without placing any constraints on the characters allowed in the cave name field.  
 
 

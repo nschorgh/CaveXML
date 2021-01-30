@@ -23,6 +23,7 @@ def merge_elements(stuff):
 
 
 def parse_ExtendedUnsignedInteger(eui):
+    # parse user-defined XML data type ExtendedUnsignedInteger
     if eui is None:
         return None, None, None
 
@@ -58,6 +59,7 @@ def parse_ExtendedUnsignedInteger(eui):
 
 
 def parse_AltitudeEntry(alt):
+    # parse a user-defined XML data type
     # this function always returns two numbers
     lownumber = +99999; highnumber = -99999
 
@@ -99,7 +101,7 @@ def parse_AltitudeEntry(alt):
 
 
 def parse_cave_id(caveid):
-
+    
     org = ''
     id = ''
     

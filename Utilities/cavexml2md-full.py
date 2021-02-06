@@ -131,6 +131,15 @@ for item in root.findall('record'):
     if buffer:
         ff.write(buffer + MDLB)
     buffer = ''
+
+    mali = item.findall('map-link')
+    if mali:
+        for j in range(0,len(mali)):
+            uri = mali[j].text
+            if uri:
+                ff.write("[map](" + uri + ") ")
+        ff.write(MDLB)
+
             
     roty = item.findall('rock-type')
     rostr = merge_elements(roty)

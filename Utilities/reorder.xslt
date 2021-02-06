@@ -33,6 +33,7 @@
 	    <xsl:apply-templates select="length" />
 	    <xsl:apply-templates select="vertical-extent" />
 	    <xsl:apply-templates select="number-of-entrances" />
+	    <xsl:apply-templates select="map-link" />
 	    <xsl:apply-templates select="rock-type" />
 	    <xsl:apply-templates select="cave-type" />
 	    <xsl:apply-templates select="contents" />
@@ -51,6 +52,7 @@
 					 self::altitude or
 					 self::length or self::vertical-extent or
 					 self::number-of-entrances or
+					 self::map-link or
 					 self::rock-type or self::cave-type or
 					 self::contents or self::comments or
 					 self::cave-system or self::branch-name or

@@ -5,7 +5,7 @@ print()
 
 import xml.etree.ElementTree
 import numpy
-from cavexml import get_one_cave_name
+from cavexml import get_one_cave_name, parse_ExtendedUnsignedInteger
 
 # Enter name of XML database here
 #tree = xml.etree.ElementTree.parse('../../test.xml')
@@ -56,6 +56,27 @@ for item in root.findall('record'):
     if len(acavename)==0:
         print('WARNING: neither principal nor other cave name nor cave id',count)
 
+    leng = item.find('length')
+    if leng is not None:
+        lennumb, approx, qual = parse_ExtendedUnsignedInteger(leng.text)
+    else:
+        lennumber = None
+        
+    vex = item.find('vertical-extent') 
+    if vex is not None:
+        vexnumb, approx, qual = parse_ExtendedUnsignedInteger(vex.text)
+    else:
+        vexnumb = None
+        
+    if lennumb is not None and vexnumb is not None:
+        if lennumb<vexnumb:
+            print('WARNING: Length is smaller than vertical extent',leng.text,vex.text)
+
+    rot = item.findall('rock-type')
+    for i in range(0,len(rot)):
+        for j in range(0,i):
+            if rot[i].text == rot[j].text:
+                print('WARNING: duplicate rock-type entry in',acavename)
 
     ref = item.find('reference')
     try:

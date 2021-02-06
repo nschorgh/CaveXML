@@ -23,7 +23,7 @@ csvwriter = csv.writer(thedata)
 record_head = []
 elementList = ['country-name','state-or-province','phys-area-name',
                'principal-cave-name','other-cave-name','cave-id','latitude','longitude',
-               'altitude','length','vertical-extent','number-of-entrances',
+               'altitude','length','vertical-extent','number-of-entrances','map-link',
                'rock-type','cave-type','contents','comments',
                'cave-system','branch-name','reference','cave-use','curation']
 
@@ -103,6 +103,10 @@ for item in root.findall('record'):
     else:
         record.append("")
 
+    mali = item.findall('map-link')
+    outstr = merge_elements(mali)
+    record.append(outstr)
+        
     rot = item.findall('rock-type')
     outstr = merge_elements(rot)
     record.append(outstr)
@@ -130,11 +134,11 @@ for item in root.findall('record'):
     record.append(outstr)
 
     ref = item.findall('reference')
-    outstr = merge_elements(ref)
-    if outstr:
-        outstr = outstr.replace("doi:", "https://doi.org/")
-        outstr = outstr.replace("DOI:", "https://doi.org/")
-    record.append(outstr)
+    refstr = merge_elements(ref)
+    if refstr:
+        refstr = refstr.replace("doi:", "https://doi.org/")
+        refstr = refstr.replace("DOI:", "https://doi.org/")
+    record.append(refstr)
     
     caveuse = item.findall('cave-use')
     outstr = merge_elements(caveuse)

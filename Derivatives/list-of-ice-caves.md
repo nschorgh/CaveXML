@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 520 rock-hosted caves with perennial ice was generated from a CaveXML database. - Jan 30, 2021
+This list of 521 rock-hosted caves with perennial ice was generated from a CaveXML database. - Feb 6, 2021
 
 Austria - Oberösterreich [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-09ce958d127174017149d8adf1a2db30)  
 Austria - Oberösterreich [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-8cc53615b4bc61060a96e8087ea79ae4)  
@@ -99,6 +99,7 @@ Greenland [**Crystal Kingdom Cave** Aligoq Kunngeqarfik Qaarusussuaq ](allcaves-
 Greenland [**Crystal Palace Cave** Aligoq Illussaarsuaq Qaarusussuaq ](allcaves-database.md#GL-543c469522433c5eb6b09a4195a61e7e)  
 Greenland [**Lemming Cave** Narlumukaap Qaarusussuaq; Stig Strikes Again ](allcaves-database.md#GL-f78e93a3578859f603206486524083ad)  
 Greenland [**Swirly Cave** Sangujoraartoq Qaarusussuaq ](allcaves-database.md#GL-1206312da12984805334f9c8a3de08b7)  
+Hungary [**Sárkánytorok Cave** ](allcaves-database.md#HU-c77c0f76964eb363bb6d5071e537ed62)  
 Iceland [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-821cd9d6657c9e9ee20d802b697c3ee7)  
 Iceland - Myrasysla County [**Surtshellir** Surtshellir-Stefanshellir Cave System ](allcaves-database.md#IS-cfd58b66d7080bc2f98c4a0c695ec018)  
 Iceland - Myrasysla County [**Víðgelmir** ](allcaves-database.md#IS-8b2fdd9758744f258da5018ced142dc7)  
@@ -254,7 +255,6 @@ Slovakia [**A-5 (Svišťová dolinka 4)** ](allcaves-database.md#SK-e525d30801bf
 Slovakia [**Bodolová** ](allcaves-database.md#SK-3dd938f00731120b4822b1733695f8c6)  
 Slovakia [**Čurička** ](allcaves-database.md#SK-ad6fbf93ffc75f0f7c4d39c9b5d715d1)  
 Slovakia [**Demänovská ľadová jaskyňa (Demänová Ice Cave)** ](allcaves-database.md#SK-015c019207595331f60f7a88e790cea1)  
-Slovakia [**Dobšinská ľadová jaskyňa (Dobšiná Ice Cave)** ](allcaves-database.md#SK-7ea50ffbdbbfdcce40956400bdf9573e)  
 Slovakia [**Duča** ](allcaves-database.md#SK-7fb1e1fe3eec1d22b44bd76fc2fe6765)  
 Slovakia [**Harišňa** ](allcaves-database.md#SK-5026f1c238e67bd89fed1d1747528deb)  
 Slovakia [**Havrania priepasť** ](allcaves-database.md#SK-997508d1b90f2d596e53800b51d7e977)  
@@ -262,6 +262,7 @@ Slovakia [**Jaskyňa studeného vetra** ](allcaves-database.md#SK-bce4bbf2c7f2db
 Slovakia [**Jaskyňa v Škaredom žľabe** Ľadová piecka ](allcaves-database.md#SK-9e0fbbb4b435f74629f21d238be15889)  
 Slovakia [**Jelenia priepasť (Závrtová priepasť)** ](allcaves-database.md#SK-0ebe3587d29a345d7ca7f16f0828936d)  
 Slovakia [**Košiarec** ](allcaves-database.md#SK-b275ed2eba793239bb5db47666a6dcd3)  
+Slovakia - Košice region [**Dobšinská ľadová jaskyňa (Dobšiná Ice Cave)** ](allcaves-database.md#SK-3727ab165e30c54049a79b5044bcc7a3)  
 Slovakia [**Kostolík** ](allcaves-database.md#SK-62bc9bb23a8c98213c08e7fc3c4f13ef)  
 Slovakia [**Ľadnica** ](allcaves-database.md#SK-b2df31014b68ddc3f3c1548081b07105)  
 Slovakia [**Ľadová jama v Nárožnej (Ľadová diera)** ](allcaves-database.md#SK-4ded169390d07fec9f10e1aeca0a4876)  
@@ -522,6 +523,7 @@ Uzbekistan - Qashqadaryo Region; Yakkabog District [**Gissarskaya Cave** Hissar 
 Uzbekistan - Surxondaryo Province [**Festival'naya-Ledopadnaya** Western Karst System of Hodja Gur Gur Ata ](allcaves-database.md#UZ-a4a49f658eed269c81d80dfdd7d05aef)  
 Uzbekistan - Surxondaryo Province [**Ledopadnaya** ](allcaves-database.md#UZ-b6a1d24a1d9b2df772f08c109334bd0f) *Part of* Festival'naya-Ledopadnaya  
 Uzbekistan [**Ulug-Bek** Ulugh Begh ](allcaves-database.md#UZ-fa57d54912096b4b9b35b3c46c8742d5)  
+
 
 
 List of Volcanic Ice Caves

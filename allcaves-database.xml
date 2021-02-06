@@ -743,10 +743,10 @@
       <phys-area-name>Hagengebirge</phys-area-name>
       <principal-cave-name>Wildpalfensystem</principal-cave-name>
       <other-cave-name/>
-      <cave-id></cave-id>
+      <cave-id/>
       <altitude>1982-2104</altitude>
       <length/>
-      <contents></contents>
+      <contents/>
       <comments/>
       <branch-name>Canon</branch-name>
       <branch-name>Enttäuschungsloch</branch-name>
@@ -1005,6 +1005,20 @@
       <comments/>
       <reference>Moseley et al. (2020) Cave and Karst Sci. 47, 74-87</reference>
       <reference>Barton et al. (2020) Cave and Karst Sci. 47, 93-99</reference>
+   </record>
+
+   <record>
+      <country-name>Hungary</country-name>
+      <state-or-province/>
+      <phys-area-name>Medves-Ajnácskői Mountains</phys-area-name>
+      <principal-cave-name>Sárkánytorok Cave</principal-cave-name>
+      <altitude></altitude>
+      <length>52</length>
+      <vertical-extent></vertical-extent>
+      <rock-type>basalt</rock-type>
+      <cave-type></cave-type>
+      <contents>permanent ice</contents>
+      <reference>Eszterhas and Szentes (2010) http://www.vulcanospeleology.org/sym14/papers/HungaryPt.2.pdf</reference>
    </record>
 
    <record>
@@ -5343,7 +5357,7 @@
    </record>
    <record>
       <country-name>Slovakia</country-name>
-      <state-or-province/>
+      <state-or-province>Košice region</state-or-province>
       <phys-area-name>Spišsko-gemerský kras; Slovenský raj</phys-area-name>
       <principal-cave-name>Dobšinská ľadová jaskyňa (Dobšiná Ice Cave)</principal-cave-name>
       <other-cave-name/>
@@ -5360,6 +5374,7 @@
       <reference>Gradzinski et al. doi:10.14241/asgp.2016.016</reference>
       <reference>Pflitsch et al. (2006) http://www.ssj.sk/en/user_files/IWIC_2_38.pdf</reference>
       <reference>Bella (2006) http://www.ssj.sk/en/user_files/IWIC_2_15.pdf</reference>
+      <reference>https://en.wikipedia.org/wiki/Dob%C5%A1in%C3%A1_Ice_Cave</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -5724,10 +5739,10 @@
       <phys-area-name></phys-area-name>
       <principal-cave-name>Ledena jama pri Pgraji</principal-cave-name>
       <other-cave-name/>
-      <latitude></latitude>
-      <longitude></longitude>
+      <latitude/>
+      <longitude/>
       <altitude>530</altitude>
-      <length></length>
+      <length/>
       <vertical-extent/>
       <rock-type>limestone</rock-type>
       <contents>periodic ice</contents>
@@ -5893,8 +5908,8 @@
       <phys-area-name>Vanil Noir massif</phys-area-name>
       <principal-cave-name>Diablotins Ice Cave</principal-cave-name>
       <other-cave-name>Gouffre des Diablotins</other-cave-name>
-      <latitude></latitude>
-      <longitude></longitude>
+      <latitude/>
+      <longitude/>
       <altitude>2092 upper entrance</altitude>
       <altitude>2007 lower entrance</altitude>
       <length/>
@@ -6929,8 +6944,8 @@
       <phys-area-name>Far East of Russia</phys-area-name>
       <principal-cave-name>Ledyanaya Malyutka Cave</principal-cave-name>
       <other-cave-name/>
-      <latitude></latitude>
-      <longitude></longitude>
+      <latitude/>
+      <longitude/>
       <altitude>340</altitude>
       <length>98</length>
       <vertical-extent>20</vertical-extent>
@@ -7813,8 +7828,8 @@
       <phys-area-name>Top of the World Provincial Park</phys-area-name>
       <principal-cave-name>Wedge Cave</principal-cave-name>
       <other-cave-name/>
-      <latitude></latitude>
-      <longitude></longitude>
+      <latitude/>
+      <longitude/>
       <altitude>2200</altitude>
       <length>60</length>
       <vertical-extent/>
@@ -8115,6 +8130,8 @@
       <length>52</length>
       <vertical-extent>29</vertical-extent>
       <number-of-entrances>2</number-of-entrances>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/heppe_caves.jpg</map-link>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-6.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
@@ -8133,6 +8150,7 @@
       <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Heppe Chimney</principal-cave-name>
       <length/>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/heppe_caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type></cave-type>
       <comments>spatter cone adjacent to Heppe Cave</comments>
@@ -8149,11 +8167,13 @@
       <length>177</length>
       <vertical-extent>37</vertical-extent>
       <number-of-entrances>1</number-of-entrances>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/plate-4.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=614</reference>
       <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
+      <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -8306,6 +8326,7 @@
       <altitude>2268</altitude>
       <length>171</length>
       <vertical-extent>~14</vertical-extent>
+      <map-link>https://www.nature.com/articles/s41598-020-76988-1/figures/1</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
@@ -8606,7 +8627,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=157</reference>
    </record>
-   
    <record>
       <country-name>Kenya</country-name>
       <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
@@ -8614,6 +8634,7 @@
       <principal-cave-name>14-18 Series</principal-cave-name>
       <length>3500</length>
       <number-of-entrances>8</number-of-entrances>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/14-18_Series.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <contents>extensive guano</contents>
       <contents>many bats</contents>
@@ -8629,8 +8650,8 @@
       <state-or-province>Rift Valley Province; Kajiado District</state-or-province>
       <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>Cave 14</principal-cave-name>
-      <length></length>
-      <number-of-entrances></number-of-entrances>
+      <length/>
+      <number-of-entrances/>
       <cave-type>lava tunnel</cave-type>
       <cave-system>14-18 Series</cave-system>
       <reference>Middleton (1999) http://www.vulcanospeleology.org/1998.pdf</reference>
@@ -8641,6 +8662,7 @@
       <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>ABC Cave</principal-cave-name>
       <length>1000</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/ABC_Cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>Holocene</comments>
@@ -8691,6 +8713,7 @@
       <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>Cave 12</principal-cave-name>
       <length>650</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Cave_12.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1450</reference>
       <reference>Middleton (1999) http://www.vulcanospeleology.org/1998.pdf</reference>
@@ -8701,6 +8724,7 @@
       <phys-area-name>Mt. Suswa</phys-area-name>
       <principal-cave-name>Cave 13</principal-cave-name>
       <length>600</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Cave_13.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1451</reference>
       <reference>Middleton (1999) http://www.vulcanospeleology.org/1998.pdf</reference>
@@ -8734,7 +8758,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1443</reference>
    </record>
-
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Idaho; Blaine County</state-or-province>
@@ -8947,7 +8970,8 @@
       <country-name>Fiji</country-name>
       <state-or-province>Rotuma</state-or-province>
       <phys-area-name/>
-      <principal-cave-name>An Hufhuf</principal-cave-name>
+      <principal-cave-name>An Hufhuf (Cave of Many Bats)</principal-cave-name>
+      <other-cave-name>Anhufhuf</other-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -8959,6 +8983,7 @@
       <phys-area-name/>
       <principal-cave-name>An Mafiri Cave 1</principal-cave-name>
       <length>102</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/AnMafiri.gif</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1453</reference>
    </record>
@@ -8978,6 +9003,7 @@
       <principal-cave-name>Ana Kakena</principal-cave-name>
       <altitude>30</altitude>
       <length>55</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/AnaKakena.gif</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=219</reference>
@@ -9000,7 +9026,7 @@
       <phys-area-name>Isla de Pascua (Easter Island or Rapa Nui)</phys-area-name>
       <principal-cave-name>Ana More Mata Puka</principal-cave-name>
       <length>6</length>
-      <cave-type></cave-type>
+      <cave-type/>
       <reference>Steiner (2016) doi:10.1353/rnj.2016.0018</reference>
    </record>
    <record>
@@ -9042,14 +9068,13 @@
       <state-or-province>Aconcagua</state-or-province>
       <phys-area-name>Isla de Pascua (Easter Island or Rapa Nui); Roiho Flow</phys-area-name>
       <principal-cave-name>Ana Heva</principal-cave-name>
-      <altitude></altitude>
-      <length></length>
+      <altitude/>
+      <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>intermittently submerged</contents>
       <reference>Miller et al. (2014) doi:10.1080/01490451.2013.827762</reference>
    </record>
-      
    <record>
       <country-name>Madagascar</country-name>
       <state-or-province>Antsiranana</state-or-province>
@@ -9135,6 +9160,9 @@
       <length>3983</length>
       <vertical-extent>~210</vertical-extent>
       <number-of-entrances>2</number-of-entrances>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Ape_Cave.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/MSH_Tubes+Contours.jpg</map-link>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1691</reference>
       <reference>Halliday (1963) "Caves of Washington"</reference>
@@ -9158,6 +9186,7 @@
       <principal-cave-name>Apua Cave</principal-cave-name>
       <length>1340</length>
       <vertical-extent>32</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Mauna_Ulu_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>1973 lava</comments>
@@ -9185,6 +9214,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Arch Cave</principal-cave-name>
       <length>100</length>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=557</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
@@ -9260,6 +9290,7 @@
       <phys-area-name/>
       <principal-cave-name>Arrowhead Cave</principal-cave-name>
       <length>36</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Arrowhead_Cave.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1105</reference>
    </record>
@@ -9361,6 +9392,7 @@
       <principal-cave-name>Óbrennishólahellir</principal-cave-name>
       <other-cave-name>Kipuka Cave</other-cave-name>
       <length>411</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Eldhraun_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=198</reference>
@@ -9429,7 +9461,8 @@
       <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Balcony Cave</principal-cave-name>
-      <length>885</length>
+      <length>213</length>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/plate-4.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=521</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
@@ -9449,7 +9482,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji; Futagoyama lava flow</phys-area-name>
-      <principal-cave-name>Banba Ana Cave</principal-cave-name>
+      <principal-cave-name>Banba Ana</principal-cave-name>
       <altitude>675</altitude>
       <length>621</length>
       <cave-type>lava tunnel</cave-type>
@@ -9566,15 +9599,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=246</reference>
    </record>
    <record>
-      <country-name>Hungary</country-name>
-      <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Basalthhle bei Pula</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=163</reference>
-   </record>
-   <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
@@ -9618,13 +9642,13 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1281</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
    </record>
-      <record>
+   <record>
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
       <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Bat Cave</principal-cave-name>
-      <length></length>
+      <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>many bats</contents>
@@ -9678,6 +9702,9 @@
       <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <principal-cave-name>Battered Sherman</principal-cave-name>
       <length>16</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Natural_Bridge_Area.jpg</map-link>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=464</reference>
    </record>
@@ -9706,6 +9733,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Beaconlight Cave</principal-cave-name>
       <length>127</length>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/plate-4.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=465</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
@@ -9738,6 +9766,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Bearpaw Cave</principal-cave-name>
       <length/>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/plate-4.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=603</reference>
@@ -9763,6 +9792,7 @@
       <principal-cave-name>Beaver Cave</principal-cave-name>
       <altitude>475</altitude>
       <length>575</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Cave_Basalt_Tubes.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1694</reference>
@@ -9802,6 +9832,7 @@
       <state-or-province>Lake County</state-or-province>
       <principal-cave-name>Benjamin Lake Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1242</reference>
    </record>
@@ -9812,6 +9843,7 @@
       <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Bertha's Cupboard Cave</principal-cave-name>
       <length>550</length>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-3.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=637</reference>
@@ -9889,6 +9921,7 @@
       <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Big Room cave</principal-cave-name>
       <length>37</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/big_room_cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=852</reference>
@@ -9912,12 +9945,11 @@
       <state-or-province>Cibola County</state-or-province>
       <phys-area-name>El Malpais National Monument; Big Tubes area</phys-area-name>
       <principal-cave-name>Giant Ice Cave</principal-cave-name>
-      <length></length>
+      <length/>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
       <reference>https://www.nps.gov/elma/learn/nature/upload/Giant-Ice-Cave.pdf</reference>
       <reference>Paris et al. (2020) https://arxiv.org/abs/2004.13156</reference>
-      <cave-use></cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -9951,6 +9983,7 @@
       <other-cave-name>Labyrinth Cave</other-cave-name>
       <altitude>70</altitude>
       <length>11749</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/bilemot.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=668</reference>
       <reference>Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf</reference>
@@ -9991,6 +10024,7 @@
       <phys-area-name>Maui; Haleakala</phys-area-name>
       <principal-cave-name>Bishop's Cave</principal-cave-name>
       <length/>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI009.004.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=833</reference>
    </record>
@@ -10033,6 +10067,7 @@
       <principal-cave-name>Blami Cave</principal-cave-name>
       <other-cave-name>Blue Mineral Cave</other-cave-name>
       <length>913</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Eldhraun_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=187</reference>
@@ -10056,6 +10091,7 @@
       <other-cave-name>Blind Cave</other-cave-name>
       <other-cave-name>Blindgata</other-cave-name>
       <length>45</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Eldhraun_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=193</reference>
@@ -10078,6 +10114,8 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Blue Grotto</principal-cave-name>
       <length>470</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Natural_Bridge_Area.jpg</map-link>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Labyrinth Cave System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=559</reference>
@@ -10192,6 +10230,8 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Boulevard Caves</principal-cave-name>
       <length/>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Boulevard_East_Boulevard.jpg</map-link>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/plate-4.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <branch-name>Boulevard Cave</branch-name>
       <branch-name>East Boulevard Cave</branch-name>
@@ -10219,11 +10259,13 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Bearpaw Butte</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>East Boulevard Cave</principal-cave-name>
       <cave-id>B210</cave-id>
       <length>64</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Boulevard_East_Boulevard.jpg</map-link>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Boulevard Caves</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=523</reference>
@@ -10237,6 +10279,7 @@
       <principal-cave-name>Boulevard Bridge</principal-cave-name>
       <cave-id>B190</cave-id>
       <length>12</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Boulevard_East_Boulevard.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Boulevard Caves</cave-system>
       <reference>https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf</reference>
@@ -10267,8 +10310,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Utah</state-or-province>
       <state-or-province>Garfield County</state-or-province>
+      <phys-area-name>Markagunt Plateau</phys-area-name>
       <principal-cave-name>Bowers Cave</principal-cave-name>
       <length>289</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Unnamed_Cave.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1564</reference>
    </record>
@@ -10334,13 +10379,14 @@
       <country-name>Portugal</country-name>
       <state-or-province>Azores</state-or-province>
       <phys-area-name>Ilha de Terceira</phys-area-name>
-      <principal-cave-name>Branco Opala</principal-cave-name>
+      <principal-cave-name>Branca Opala</principal-cave-name>
       <altitude>280</altitude>
       <length>99</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=233</reference>
       <reference>Riquelme et al. (2015) doi:10.1093/femsec/fiv141</reference>
       <reference>https://pt.wikipedia.org/wiki/Gruta_da_Branca_Opala</reference>
+      <reference>https://www.mindat.org/loc-374001.html</reference>
    </record>
    <record>
       <country-name>Portugal</country-name>
@@ -10477,7 +10523,7 @@
       <state-or-province>Lincoln County</state-or-province>
       <principal-cave-name>Burley Wind Cave</principal-cave-name>
       <length/>
-      <cave-type></cave-type>
+      <cave-type/>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1069</reference>
    </record>
    <record>
@@ -10645,6 +10691,7 @@
       <phys-area-name>Maui</phys-area-name>
       <principal-cave-name>Cape Kinau Lava Tube</principal-cave-name>
       <length>134</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI009.007a.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <contents>perennially submerged</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=834</reference>
@@ -10657,6 +10704,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Captain Jack's Bridge</principal-cave-name>
       <length/>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Modoc_Crater_Tube_System2.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=653</reference>
@@ -10670,6 +10718,7 @@
       <principal-cave-name>Captain Jack's Ice Cave</principal-cave-name>
       <other-cave-name>Captain Jack's Cave</other-cave-name>
       <length/>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Modoc_Crater_Tube_System2.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=604</reference>
@@ -10735,6 +10784,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Catacombs Cave</principal-cave-name>
       <length>2104</length>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=560</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
@@ -10758,9 +10808,12 @@
       <principal-cave-name>Catwalk Cave</principal-cave-name>
       <other-cave-name>Gaping Holes</other-cave-name>
       <length>2427</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Catwalk_Cave_Map.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Catwalk_Cave_Profile.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=429</reference>
+      <reference>https://www.mindat.org/loc-301172.html</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -10856,9 +10909,14 @@
       <state-or-province>Reunion</state-or-province>
       <phys-area-name>Reunion Island</phys-area-name>
       <principal-cave-name>Caverne Bateau</principal-cave-name>
+      <latitude>-21.1891</latitude>
+      <longitude>55.5622</longitude>
       <length>1910</length>
+      <vertical-extent>34</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1437</reference>
+      <reference>https://vincentcheville.files.wordpress.com/2013/01/spelunca-97-reunion.pdf</reference>
+      <reference>https://fr.wikipedia.org/wiki/Liste_des_cavit%C3%A9s_naturelles_les_plus_longues_de_La_R%C3%A9union#cite_note-1</reference>
    </record>
    <record>
       <country-name>France</country-name>
@@ -10868,6 +10926,36 @@
       <length>1000</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1438</reference>
+   </record>
+   <record>
+      <country-name>France</country-name>
+      <state-or-province>Reunion</state-or-province>
+      <phys-area-name>Reunion Island</phys-area-name>
+      <principal-cave-name>Trou de la Plaine-des-Palmistes</principal-cave-name>
+      <latitude>-21.1137</latitude>
+      <longitude>55.6563</longitude>
+      <length>947</length>
+      <vertical-extent>53</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>https://vincentcheville.files.wordpress.com/2013/01/spelunca-97-reunion.pdf</reference>
+      <reference>https://fr.wikipedia.org/wiki/Caverne_des_F%C3%A9es</reference>
+      <reference>http://www.cavepics.com/IVS17/HONDAII.pdf</reference>
+      <reference>https://www.grottocenter.org/html/file_Fr.php?id=37423</reference>
+   </record>
+   <record>
+      <country-name>France</country-name>
+      <state-or-province>Reunion</state-or-province>
+      <phys-area-name>Reunion Island</phys-area-name>
+      <principal-cave-name>Caverne des Fées</principal-cave-name>
+      <latitude>-21.1629</latitude>
+      <longitude>55.6247</longitude>
+      <length>820</length>
+      <vertical-extent>26</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <reference>https://vincentcheville.files.wordpress.com/2013/01/spelunca-97-reunion.pdf</reference>
+      <reference>https://fr.wikipedia.org/wiki/Caverne_des_F%C3%A9es</reference>
+      <reference>http://www.cavepics.com/IVS17/HONDAII.pdf</reference>
+      <reference>https://www.grottocenter.org/html/file_Fr.php?id=37441</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -10965,6 +11053,7 @@
       <phys-area-name>Arnold Lava Tube System</phys-area-name>
       <principal-cave-name>Charlie-the-Cave</principal-cave-name>
       <length/>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Charlie-the-Cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1232</reference>
@@ -10994,12 +11083,11 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Chikushu Ana Cave</principal-cave-name>
+      <principal-cave-name>Chikushu Ana</principal-cave-name>
       <length>72</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=40</reference>
    </record>
-   
    <record>
       <country-name>China</country-name>
       <state-or-province>Heilongjiang province</state-or-province>
@@ -11014,7 +11102,7 @@
    </record>
    <record>
       <country-name>China</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Tengchong volcanic field</phys-area-name>
       <principal-cave-name>Jingfudong Lava Tube</principal-cave-name>
       <other-cave-name>Djin Fu Dong Lava Tube Cave</other-cave-name>
@@ -11047,7 +11135,7 @@
       <state-or-province>Heilongjiang province</state-or-province>
       <phys-area-name>Wudalianchi volanic field; Loaheishan volcano</phys-area-name>
       <principal-cave-name>Waterfall Palace Cave</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <other-cave-name/>
       <length>26</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -11059,13 +11147,13 @@
       <state-or-province>Heilongjiang province; Mudanjiang district</state-or-province>
       <phys-area-name>Jingpohu Global Geopark</phys-area-name>
       <principal-cave-name>Weihuting Cave (Tiger Hall Cave)</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <other-cave-name/>
       <cave-id>N44E128C-003</cave-id>
-      <altitude></altitude>
+      <altitude/>
       <length>~50</length>
       <vertical-extent/>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents/>
       <reference>Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf</reference>
       <reference>Steiner and Laumanns (2019) https://www.vdhk.de/fileadmin/pdf/mitteilungen/Mitteilungen-2019-3-4.pdf</reference>
    </record>
@@ -11074,12 +11162,12 @@
       <state-or-province>Heilongjiang province</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Longyandongtian Cave (Dragon Rock Cave)</principal-cave-name>
-      <other-cave-name></other-cave-name>
-      <altitude></altitude>
+      <other-cave-name/>
+      <altitude/>
       <length/>
       <vertical-extent/>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents/>
       <reference>Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf</reference>
    </record>
    <record>
@@ -11087,12 +11175,12 @@
       <state-or-province>Heilongjiang province</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Shenshui Cave (Driven Water Cave)</principal-cave-name>
-      <other-cave-name></other-cave-name>
-      <altitude></altitude>
+      <other-cave-name/>
+      <altitude/>
       <length/>
       <vertical-extent/>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents/>
       <reference>Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf</reference>
    </record>
    <record>
@@ -11100,12 +11188,12 @@
       <state-or-province>Heilongjiang province</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Jimei Cave (Sisters Cave)</principal-cave-name>
-      <other-cave-name></other-cave-name>
-      <altitude></altitude>
+      <other-cave-name/>
+      <altitude/>
       <length/>
       <vertical-extent/>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents/>
       <reference>Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf</reference>
    </record>
    <record>
@@ -11113,15 +11201,24 @@
       <state-or-province>Heilongjiang province</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Kanlianmiying Cave</principal-cave-name>
-      <other-cave-name></other-cave-name>
-      <altitude></altitude>
+      <other-cave-name/>
+      <altitude/>
       <length/>
       <vertical-extent/>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents/>
       <reference>Wood and Zhang (2010) http://www.vulcanospeleology.org/sym14/papers/Wood-Zhang.pdf</reference>
    </record>
-   
+   <record>
+      <country-name>China</country-name>
+      <phys-area-name>Tianchi Volcano; Changbaishan</phys-area-name>
+      <principal-cave-name>Silidong Lava Tube</principal-cave-name>
+      <altitude>1201</altitude>
+      <length>~560</length>
+      <cave-type>lava tunnel</cave-type>
+      <comments>pyroclastic flow deposit within lava tube</comments>
+      <reference>Chen et al. (2015) DOI:10.1007/s00445-015-0933-z</reference>
+   </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
@@ -11207,6 +11304,7 @@
       <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Clague's Cave</principal-cave-name>
       <length>1390</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Clagues_Cave_long_prof.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=911</reference>
       <reference>Kempe and Oberwinder (1997) Proc. 12th Int. Congr. Spel.</reference>
@@ -11230,7 +11328,7 @@
       <phys-area-name>El Malpais National Monument</phys-area-name>
       <principal-cave-name>Rusty Barrel Ice Cave</principal-cave-name>
       <other-cave-name>Apache Ice Cave</other-cave-name>
-      <length></length>
+      <length/>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
       <comments>thin layer of ice</comments>
@@ -11441,6 +11539,8 @@
       <principal-cave-name>Craig Cave</principal-cave-name>
       <other-cave-name>Craig Ice Cave</other-cave-name>
       <length>550</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Craig_Cave.jpg</map-link>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-5.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>other side of same entrance is Craig Temple</comments>
@@ -11480,6 +11580,9 @@
       <length>540</length>
       <vertical-extent>30</vertical-extent>
       <number-of-entrances>1</number-of-entrances>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
+      <map-link>https://caves.org/committee/salons/images/Cart%2013/Crystal.png</map-link>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-6.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
@@ -11507,6 +11610,7 @@
       <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>CSH Site 17 Cave</principal-cave-name>
       <length>200</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/CSH_Site_17_Cave_Map.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=837</reference>
@@ -11609,9 +11713,9 @@
       <other-cave-name>Caada de los Pastores</other-cave-name>
       <length>1882</length>
       <vertical-extent>43</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/0530.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1458</reference>
-      <reference>http://www.mexicancaves.org/maps/0530.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -11631,12 +11735,12 @@
       <principal-cave-name>Sistema Chimalacatepec</principal-cave-name>
       <length>1388</length>
       <vertical-extent>201</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/1944.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <branch-name>Cueva de Chimalacatepec</branch-name>
       <branch-name>Cueva de Tatamasquio</branch-name>
       <branch-name>Cueva Iztaxiatla</branch-name>
-      <reference>http://www.mexicancaves.org/maps/1944.pdf</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1151</reference>
       <reference>Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf</reference>
       <reference>López-Martínez (2016) doi:10.5038/1827-806X.45.2.1927</reference>
@@ -11686,7 +11790,7 @@
       <principal-cave-name>Cueva de Tacoron</principal-cave-name>
       <altitude>500</altitude>
       <length>334</length>
-      <vertical-extent></vertical-extent>
+      <vertical-extent/>
       <number-of-entrances>4</number-of-entrances>
       <cave-type>lava tunnel</cave-type>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
@@ -11699,14 +11803,13 @@
       <other-cave-name>Cave of La Curva</other-cave-name>
       <altitude>400</altitude>
       <length>141</length>
-      <vertical-extent></vertical-extent>
-      <number-of-entrances></number-of-entrances>
+      <vertical-extent/>
+      <number-of-entrances/>
       <cave-type>lava tunnel</cave-type>
       <contents>tree roots</contents>
       <contents>troglobites</contents>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
    </record>
-
    <record>
       <country-name>Mexico</country-name>
       <state-or-province>Morelos</state-or-province>
@@ -11727,10 +11830,10 @@
       <principal-cave-name>Cueva de Doña Macaria</principal-cave-name>
       <length>420</length>
       <vertical-extent>27</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/1952.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1153</reference>
-      <reference>http://www.mexicancaves.org/maps/1952.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -11739,9 +11842,9 @@
       <principal-cave-name>Cueva Chica de Macaria</principal-cave-name>
       <length>126</length>
       <vertical-extent>9</vertical-extent>
-      <rock-type></rock-type>
+      <map-link>http://www.mexicancaves.org/maps/1952.pdf</map-link>
+      <rock-type/>
       <cave-type>lava tunnel</cave-type>
-      <reference>http://www.mexicancaves.org/maps/1952.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -11760,26 +11863,25 @@
       <principal-cave-name>Cuata Cave</principal-cave-name>
       <other-cave-name>La Cueva Cuata</other-cave-name>
       <length>281</length>
+      <map-link>http://www.mexicancaves.org/maps/1965.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>many bats</contents>
       <reference>Pint et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p04.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/1965.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
       <state-or-province>Jalisco</state-or-province>
       <phys-area-name/>
       <principal-cave-name>La Madriguera de los Lobos</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <other-cave-name/>
       <length>~100</length>
+      <map-link>http://www.mexicancaves.org/maps/1966.pdf</map-link>
+      <map-link>http://www.mexicancaves.org/maps/1708.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>Pint et al. (2006) http://www.vulcanospeleology.org/sym12/ISV12p04.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/1966.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/1708.pdf</reference>
    </record>
-   
    <record>
       <country-name>Ecuador</country-name>
       <state-or-province>Galapagos</state-or-province>
@@ -11967,11 +12069,11 @@
       <length>5145</length>
       <vertical-extent>54</vertical-extent>
       <number-of-entrances>4</number-of-entrances>
+      <map-link>http://www.mexicancaves.org/maps/3400.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>troglobites</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1157</reference>
-      <reference>http://www.mexicancaves.org/maps/3400.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -12000,7 +12102,7 @@
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Tenerife</phys-area-name>
       <principal-cave-name>Cueva de la Plaza de Toros</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <other-cave-name/>
       <altitude>440</altitude>
       <length>268</length>
       <vertical-extent>5</vertical-extent>
@@ -12036,9 +12138,9 @@
       <length>268</length>
       <vertical-extent>15</vertical-extent>
       <number-of-entrances>1</number-of-entrances>
+      <map-link>http://www.mexicancaves.org/maps/0877.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1461</reference>
-      <reference>http://www.mexicancaves.org/maps/0877.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12088,7 +12190,7 @@
       <state-or-province>Las Palmas</state-or-province>
       <phys-area-name>Canary Islands; Lanzarote</phys-area-name>
       <principal-cave-name>Cueva de las Palomas</principal-cave-name>
-      <length></length>
+      <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148</reference>
    </record>
@@ -12118,9 +12220,9 @@
       <principal-cave-name>Cueva de los Cuicillos</principal-cave-name>
       <length>976</length>
       <vertical-extent>14</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/0529.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1460</reference>
-      <reference>http://www.mexicancaves.org/maps/0529.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12178,24 +12280,23 @@
       <altitude>2175-2250</altitude>
       <length>420</length>
       <vertical-extent>85</vertical-extent>
-      <number-of-entrances></number-of-entrances>
+      <number-of-entrances/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>troglobites</contents>
       <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
-
    <record>
       <country-name>Mexico</country-name>
       <state-or-province>Tamaulipas</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Cueva de los Secundarios</principal-cave-name>
       <length/>
+      <map-link>http://www.mexicancaves.org/maps/0039.pdf</map-link>
       <contents>many bats</contents>
       <comments>a river of guano</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1557</reference>
       <reference>Cantu (1973) http://www.mexicancaves.org/nl/AMCS_NL_V4.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/0039.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12337,15 +12438,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1513</reference>
    </record>
    <record>
-      <country-name>Argentina</country-name>
-      <state-or-province>Catamarca</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Cueva de San Fransisco</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=666</reference>
-   </record>
-   <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; Tenerife</phys-area-name>
@@ -12396,10 +12488,10 @@
       <principal-cave-name>Cueva del Aire</principal-cave-name>
       <length>1038</length>
       <vertical-extent>87</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/2905.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <contents>troglobites</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=206</reference>
-      <reference>http://www.mexicancaves.org/maps/2905.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12492,10 +12584,10 @@
       <principal-cave-name>Cueva del Diablo</principal-cave-name>
       <length>2020</length>
       <vertical-extent>70</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/3366.pdf</map-link>
+      <map-link>http://www.mexicancaves.org/maps/3367.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1152</reference>
-      <reference>http://www.mexicancaves.org/maps/3366.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/3367.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12506,12 +12598,12 @@
       <length>6538</length>
       <vertical-extent>90</vertical-extent>
       <number-of-entrances>10</number-of-entrances>
+      <map-link>http://www.mexicancaves.org/maps/1954.pdf</map-link>
+      <map-link>http://www.mexicancaves.org/maps/3399.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1156</reference>
       <reference>Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/1954.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/3399.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12520,14 +12612,14 @@
       <principal-cave-name>Cueva del Naranjo Rojo</principal-cave-name>
       <length>671</length>
       <vertical-extent>32</vertical-extent>
-      <number-of-entrances></number-of-entrances>
-      <rock-type></rock-type>
+      <number-of-entrances/>
+      <map-link>http://www.mexicancaves.org/maps/2978.pdf</map-link>
+      <map-link>http://www.mexicancaves.org/maps/0207.pdf</map-link>
+      <map-link>http://www.mexicancaves.org/maps/1964.pdf</map-link>
+      <rock-type/>
       <cave-type>lava tunnel</cave-type>
       <contents>troglobites</contents>
       <reference>Espinasa and Closas (2006) http://vulcanospeleology.org/sym12/ISV12p18.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/2978.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/0207.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/1964.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12559,7 +12651,7 @@
       <contents>troglophiles</contents>
       <contents>troglobites</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1146</reference>
-      <reference>Randeo et al. (1993) The hypogean community of Cueva del Llano (Fuerteventura, Canary Islands)</reference> 
+      <reference>Randeo et al. (1993) The hypogean community of Cueva del Llano (Fuerteventura, Canary Islands)</reference>
       <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
@@ -12592,9 +12684,9 @@
       <principal-cave-name>Cueva del Novillo</principal-cave-name>
       <length>136</length>
       <vertical-extent>13</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/0878.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1462</reference>
-      <reference>http://www.mexicancaves.org/maps/0878.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -12614,10 +12706,10 @@
       <phys-area-name>Suchiooc volcano</phys-area-name>
       <principal-cave-name>Cueva del Potrero</principal-cave-name>
       <length/>
+      <map-link>http://www.mexicancaves.org/maps/2660.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1159</reference>
-      <reference>http://www.mexicancaves.org/maps/2660.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12637,11 +12729,11 @@
       <principal-cave-name>Cueva del Salvial</principal-cave-name>
       <length>796</length>
       <vertical-extent>14</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/0876.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <branch-name>Cueva de los Vampiros</branch-name>
       <branch-name>Cueva del Baile</branch-name>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1459</reference>
-      <reference>http://www.mexicancaves.org/maps/0876.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12664,6 +12756,7 @@
       <altitude>625</altitude>
       <length>17032</length>
       <vertical-extent>478</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/cueva_del_viento.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <contents>trogloxenes</contents>
       <contents>troglobites</contents>
@@ -12685,11 +12778,11 @@
       <principal-cave-name>Cueva del Volcancillo</principal-cave-name>
       <length>685</length>
       <vertical-extent>139</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/1968.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1569</reference>
       <reference>Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf</reference>
       <reference>Lloyd (1999) http://www.mexicancaves.org/nl/23.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/1968.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12698,10 +12791,10 @@
       <principal-cave-name>Cueva del Río Huichila</principal-cave-name>
       <other-cave-name>Cueva Huichila</other-cave-name>
       <length>625</length>
+      <map-link>http://www.mexicancaves.org/maps/3653.pdf</map-link>
+      <map-link>http://www.mexicancaves.org/maps/1969.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/3653.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/1969.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12710,9 +12803,9 @@
       <principal-cave-name>Cueva de El Tirantes</principal-cave-name>
       <length>278</length>
       <vertical-extent>13</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/1970.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/1970.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12721,9 +12814,9 @@
       <principal-cave-name>Cueva de Tengonapa</principal-cave-name>
       <length> >477</length>
       <vertical-extent>62</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/1972.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>Gassos and Espinasa-Perena (2006) http://www.vulcanospeleology.org/sym12/ISV12p05.pdf</reference>
-      <reference>http://www.mexicancaves.org/maps/1972.pdf</reference>
    </record>
    <record>
       <country-name>Argentina</country-name>
@@ -12732,6 +12825,7 @@
       <principal-cave-name>Cueva Dona Otilia</principal-cave-name>
       <altitude>1898</altitude>
       <length>838</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Cueva1.gif</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1150</reference>
@@ -12739,10 +12833,10 @@
    </record>
    <record>
       <country-name>Argentina</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name/>
       <principal-cave-name>Cueva del Tigre</principal-cave-name>
-      <altitude></altitude>
+      <altitude/>
       <length>~300</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -12753,27 +12847,26 @@
       <state-or-province>Sonora</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Cueva del Tigre</principal-cave-name>
-      <altitude></altitude>
+      <altitude/>
       <length>206</length>
       <vertical-extent>41</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/0923.pdf</map-link>
       <rock-type>limestone</rock-type>
-      <cave-type></cave-type>
+      <cave-type/>
       <contents>many bats</contents>
       <reference>McFarlane et al. (1995) doi:10.1007/BF02181037</reference>
-      <reference>http://www.mexicancaves.org/maps/0923.pdf</reference>
    </record>
    <record>
       <country-name>Argentina</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name/>
       <principal-cave-name>El Abrigo de el Manzano</principal-cave-name>
-      <altitude></altitude>
+      <altitude/>
       <length>~11</length>
       <rock-type>basalt</rock-type>
       <cave-type>tectonic cave</cave-type>
       <reference>Benedetto et al. (1998) doi:10.5038/1827-806X.27.1.16</reference>
    </record>
-
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
@@ -12832,8 +12925,8 @@
       <state-or-province>Morelos</state-or-province>
       <phys-area-name>Suchiooc volcano</phys-area-name>
       <principal-cave-name>Cueva Iztaxiatla</principal-cave-name>
-      <length></length>
-      <vertical-extent></vertical-extent>
+      <length/>
+      <vertical-extent/>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Sistema Chimalacatepec</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1158</reference>
@@ -12845,6 +12938,7 @@
       <phys-area-name/>
       <principal-cave-name>Cueva La Alada</principal-cave-name>
       <length>264</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/CuevaLaAlada.gif</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1145</reference>
@@ -13023,6 +13117,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1546</reference>
       <reference>Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf</reference>
+      <reference>https://www.mindat.org/loc-24977.html</reference>
    </record>
    <record>
       <country-name>Italy</country-name>
@@ -13064,7 +13159,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Dainichi Ana Cave</principal-cave-name>
+      <principal-cave-name>Dainichi Ana</principal-cave-name>
       <altitude>253</altitude>
       <length>908</length>
       <cave-type>lava tunnel</cave-type>
@@ -13395,6 +13490,7 @@
       <principal-cave-name>Dirfskuhellir</principal-cave-name>
       <other-cave-name>Plucky Cave</other-cave-name>
       <length>170</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Eldhraun_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=197</reference>
@@ -13448,6 +13544,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Doc Yoc Cave</principal-cave-name>
       <length>20</length>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=566</reference>
@@ -13460,7 +13557,9 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Indian Well Cave</principal-cave-name>
       <other-cave-name>Indian Well Ice Cave</other-cave-name>
-      <length></length>
+      <length/>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-1.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>lake(s)</contents>
@@ -13474,6 +13573,7 @@
       <phys-area-name>Hawaii (Big Island)</phys-area-name>
       <principal-cave-name>Dodge cave</principal-cave-name>
       <length>760</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/dodge_cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=855</reference>
@@ -13566,6 +13666,7 @@
       <principal-cave-name>Drílahellir</principal-cave-name>
       <other-cave-name>Driblet Cave</other-cave-name>
       <length>225</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Uppahellir_Drilahellir.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=184</reference>
@@ -13609,6 +13710,7 @@
       <phys-area-name>Markagunt Plateau</phys-area-name>
       <principal-cave-name>Duck Creek Lava Tube</principal-cave-name>
       <length>3674</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/duck_creek_cave.jpg</map-link>      
       <rock-type>basalt</rock-type>
       <rock-type>limestone</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -13620,10 +13722,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California; Siskiyou County</state-or-province>
       <phys-area-name/>
-      <principal-cave-name>Duffys' Well</principal-cave-name>
+      <principal-cave-name>Duffys Old Still Well</principal-cave-name>
+      <other-cave-name>Duffys Well</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=481</reference>
+      <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -13653,6 +13757,8 @@
       <phys-area-name>Hawaii Island; Kilauea; Hilina Pali</phys-area-name>
       <principal-cave-name>Earthquake Cave</principal-cave-name>
       <length>338</length>
+      <map-link/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=731</reference>
       <reference>Kempe and Ketz-Kempe (1992) http://vulcanospeleology.org/sym06/ISV6x05.pdf</reference>
@@ -13833,8 +13939,8 @@
       <state-or-province>Skamania County</state-or-province>
       <principal-cave-name>Fish Hatchery Cave</principal-cave-name>
       <other-cave-name>Boyles Creek Cave</other-cave-name>
-      <cave-id></cave-id>
-      <length></length>
+      <cave-id/>
+      <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>waterfall(s)</contents>
@@ -13866,6 +13972,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Fern Cave</principal-cave-name>
       <length>380</length>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-5.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=486</reference>
@@ -13889,6 +13996,7 @@
       <cave-id>ASF-3H-23</cave-id>
       <length>130</length>
       <vertical-extent>12</vertical-extent>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1579</reference>
       <reference>ASF database</reference>
@@ -13982,6 +14090,7 @@
       <principal-cave-name>Flóðhellir</principal-cave-name>
       <other-cave-name>Flood Cave</other-cave-name>
       <length>982</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Flodhellir_pic.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=182</reference>
@@ -13993,6 +14102,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Fleener Chimneys</principal-cave-name>
       <length>66</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Fleener's_Chimney.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=651</reference>
@@ -14081,7 +14191,10 @@
       <state-or-province>California; Siskiyou County</state-or-province>
       <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Four Pit Balcony Cave</principal-cave-name>
+      <other-cave-name>Four Pit Cave</other-cave-name>
+      <other-cave-name>Balcony Cave</other-cave-name>
       <length>465</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/four_pit_cave_profile.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=430</reference>
@@ -14095,7 +14208,6 @@
       <length>368</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1194</reference>
-      <cave-use></cave-use>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -14104,6 +14216,7 @@
       <principal-cave-name>Framhaldshellir</principal-cave-name>
       <other-cave-name>Continuation Cave</other-cave-name>
       <length>40</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Eldhraun_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=196</reference>
@@ -14167,7 +14280,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Fudo Ana Cave</principal-cave-name>
+      <principal-cave-name>Fudo Ana</principal-cave-name>
       <length>125</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=42</reference>
@@ -14186,7 +14299,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
       <principal-cave-name>Fuji Fuketsu No. 1</principal-cave-name>
       <altitude>1110</altitude>
       <length>582</length>
@@ -14198,7 +14311,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
       <principal-cave-name>Fuji Fuketsu No. 2</principal-cave-name>
       <altitude>1110</altitude>
       <length>57</length>
@@ -14209,7 +14322,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
       <principal-cave-name>Fuji Fuketsu No. 3</principal-cave-name>
       <altitude>1110</altitude>
       <length>52</length>
@@ -14220,7 +14333,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
       <principal-cave-name>Fuji Fuketsu No. 4</principal-cave-name>
       <altitude>1110</altitude>
       <length>118</length>
@@ -14231,7 +14344,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
       <principal-cave-name>Fuji Fuketsu No. 5</principal-cave-name>
       <altitude>1110</altitude>
       <length>143</length>
@@ -14242,7 +14355,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
       <principal-cave-name>Fuji Fuketsu No. 6</principal-cave-name>
       <altitude>1110</altitude>
       <length>60</length>
@@ -14253,7 +14366,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
       <principal-cave-name>Fuji Fuketsu No. 7</principal-cave-name>
       <altitude>1105</altitude>
       <length>130</length>
@@ -14318,6 +14431,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Gail Cave</principal-cave-name>
       <length>120</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Natural_Bridge_Area.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=656</reference>
@@ -14364,6 +14478,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Garden Bridges Cave</principal-cave-name>
       <length/>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Labyrinth Cave System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=568</reference>
@@ -14384,6 +14499,7 @@
       <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Gelsie's Grotto</principal-cave-name>
       <length>777</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/gelsie's_grotto_profile.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=431</reference>
@@ -14475,6 +14591,7 @@
       <cave-id>5236/15800-4</cave-id>
       <altitude>980</altitude>
       <length>55</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9601.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1108</reference>
    </record>
@@ -14486,6 +14603,7 @@
       <cave-id>5236/15759-5</cave-id>
       <altitude>970</altitude>
       <length>55</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9602.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1109</reference>
    </record>
@@ -14498,6 +14616,7 @@
       <altitude>970</altitude>
       <length>27</length>
       <vertical-extent>3</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9603.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1110</reference>
    </record>
@@ -14512,6 +14631,7 @@
       <altitude>970</altitude>
       <length>140</length>
       <vertical-extent>4</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9604.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1111</reference>
       <reference>Weidmann et al. (2000) http://www.vulcanospeleology.org/newsletters/Vulcano26.pdf</reference>
@@ -14525,6 +14645,7 @@
       <altitude>970</altitude>
       <length>16</length>
       <vertical-extent>6</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9605.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1112</reference>
    </record>
@@ -14534,7 +14655,9 @@
       <phys-area-name>North Gorely</phys-area-name>
       <principal-cave-name>Go-9606</principal-cave-name>
       <cave-id>5236/15758-5</cave-id>
+      <altitude>940</altitude>
       <length>38</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9606.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1113</reference>
    </record>
@@ -14546,6 +14669,7 @@
       <cave-id>5236/15758-4</cave-id>
       <altitude>940</altitude>
       <length>19</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9607.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1114</reference>
    </record>
@@ -14557,6 +14681,8 @@
       <cave-id>5236/15758-3</cave-id>
       <altitude>930</altitude>
       <length>48</length>
+      <vertical-extent>3</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9608.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1118</reference>
    </record>
@@ -14568,6 +14694,7 @@
       <cave-id>5236/15758-2</cave-id>
       <altitude>930</altitude>
       <length>76</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9614.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1115</reference>
    </record>
@@ -14577,8 +14704,10 @@
       <phys-area-name>North Gorely</phys-area-name>
       <principal-cave-name>Go-9610</principal-cave-name>
       <cave-id>5236/15759-1</cave-id>
+      <altitude>940</altitude>
       <length>68</length>
       <vertical-extent>6</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9610.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1117</reference>
    </record>
@@ -14590,6 +14719,8 @@
       <cave-id>5236/15758-1</cave-id>
       <altitude>915</altitude>
       <length>110</length>
+      <vertical-extent>4</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9611.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1119</reference>
    </record>
@@ -14601,6 +14732,7 @@
       <cave-id>5236/15800-3</cave-id>
       <altitude>990</altitude>
       <length>55</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9612.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1120</reference>
    </record>
@@ -14613,6 +14745,7 @@
       <altitude>990</altitude>
       <length>68</length>
       <vertical-extent>8</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9613.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1116</reference>
    </record>
@@ -14625,6 +14758,7 @@
       <altitude>980</altitude>
       <length>120</length>
       <vertical-extent>12</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gorely_9614.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1121</reference>
    </record>
@@ -14641,9 +14775,9 @@
       <country-name>Japan</country-name>
       <state-or-province>Shizuoka</state-or-province>
       <phys-area-name>Hachijo Island</phys-area-name>
-      <principal-cave-name>Gokuraku Ana Cave</principal-cave-name>
+      <principal-cave-name>Gokuraku Ana</principal-cave-name>
       <altitude>10</altitude>
-      <length>200</length>
+      <length>~200</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1532</reference>
       <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
@@ -14655,6 +14789,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Golden Dome Cave</principal-cave-name>
       <length>679</length>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Labyrinth Cave System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=569</reference>
@@ -14756,6 +14891,7 @@
       <phys-area-name>Mt. Cameroon</phys-area-name>
       <principal-cave-name>Grand Tunnel</principal-cave-name>
       <length>590</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/GrandTunnel.gif</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1549</reference>
    </record>
@@ -14766,6 +14902,7 @@
       <phys-area-name>Craters of the Moon</phys-area-name>
       <principal-cave-name>Great Owl Cave</principal-cave-name>
       <length>158</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Great_Owl_Cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1024</reference>
@@ -14853,6 +14990,8 @@
       <cave-id>SICT-1019</cave-id>
       <altitude>1750</altitude>
       <length>784</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Lamponi_Map.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Lamponi_Profile.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=667</reference>
@@ -15015,6 +15154,8 @@
       <principal-cave-name>Grotte Gaskin</principal-cave-name>
       <altitude>2855</altitude>
       <length>1175</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gaskin1.gif</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/gaskin2.gif</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1552</reference>
    </record>
@@ -15114,7 +15255,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>Ward (1998) doi:10.5038/1827-806X.27.1.5</reference>
    </record>
-
    <record>
       <country-name>Cameroon</country-name>
       <state-or-province>Sud-Oeust</state-or-province>
@@ -15142,6 +15282,7 @@
       <longitude/>
       <altitude>2650</altitude>
       <length>150</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Molaliei.gif</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1555</reference>
    </record>
@@ -15151,6 +15292,7 @@
       <phys-area-name>Mt. Cameroon</phys-area-name>
       <principal-cave-name>Grotte Superieure</principal-cave-name>
       <length>160</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/superieure.gif</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1556</reference>
    </record>
@@ -15182,6 +15324,8 @@
       <longitude>-28.5024</longitude>
       <altitude>300</altitude>
       <length>5439</length>
+      <vertical-extent>179</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Gruta_Das_Torres.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=259</reference>
@@ -15301,11 +15445,13 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Gyoja Ana Cave</principal-cave-name>
-      <length>94</length>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flow</phys-area-name>
+      <principal-cave-name>Gyoja</principal-cave-name>
+      <altitude>1190</altitude>
+      <length>93</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=52</reference>
+      <reference>Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -15405,7 +15551,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Hachiman Ana Cave</principal-cave-name>
+      <principal-cave-name>Hachiman Ana</principal-cave-name>
       <length>187</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=53</reference>
@@ -15648,6 +15794,7 @@
       <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Hell's Teeth Cave</principal-cave-name>
       <length>367</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Hell's_Teeth_Cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=691</reference>
@@ -15680,6 +15827,10 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Hercules Leg Cave</principal-cave-name>
       <length>594</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/hercules_leg_juniper.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Natural_Bridge_Area.jpg</map-link>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-2.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Hercules Leg-Juniper Cave</cave-system>
@@ -15745,7 +15896,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Hito Ana Cave</principal-cave-name>
+      <principal-cave-name>Hito Ana</principal-cave-name>
       <length>83</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=54</reference>
@@ -15863,6 +16014,8 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Hopkins Chocolate Cave</principal-cave-name>
       <length>428</length>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Labyrinth_lavabrook_mushpot.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Labyrinth Cave System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=562</reference>
@@ -15875,6 +16028,7 @@
       <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Hornito III Vent</principal-cave-name>
       <length>35</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Hornito_III_Profile.jpg</map-link>
       <cave-type>lava vent</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=701</reference>
    </record>
@@ -15939,6 +16093,7 @@
       <principal-cave-name>Hraunbrarhellir</principal-cave-name>
       <other-cave-name>Rock Bridge Cave</other-cave-name>
       <length>70</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Eldhraun_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=195</reference>
@@ -16146,6 +16301,7 @@
       <phys-area-name>Medicine Lake Highlands; Giant Crater</phys-area-name>
       <principal-cave-name>Ice River Cave</principal-cave-name>
       <length>317</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/ice_river_cave_profile.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=432</reference>
@@ -16184,6 +16340,7 @@
       <principal-cave-name>Iðrafossar</principal-cave-name>
       <other-cave-name>Cascade Cave</other-cave-name>
       <length>1100</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Laufbalavatn_area_caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=199</reference>
@@ -16195,6 +16352,9 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Igloo cave</principal-cave-name>
       <length>11</length>
+      <number-of-entrances>1</number-of-entrances>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Kirk_Whites_Igloo.jpg</map-link>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/plate-4.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=489</reference>
@@ -16244,6 +16404,7 @@
       <phys-area-name>Craters of the Moon</phys-area-name>
       <principal-cave-name>Indian Dome Cave</principal-cave-name>
       <length/>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Indian_Dome.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1102</reference>
@@ -16326,90 +16487,120 @@
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 1</principal-cave-name>
-      <length>192</length>
+      <altitude>1140</altitude>
+      <length>92</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=63</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 10</principal-cave-name>
+      <altitude>1100</altitude>
       <length>85</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=64</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
+   </record>
+   <record>
+      <country-name>Japan</country-name>
+      <state-or-province/>
+      <phys-area-name>Mt. Fuji</phys-area-name>
+      <principal-cave-name>Inusuzumi Fuketsu Cave No. 11</principal-cave-name>
+      <altitude>1000</altitude>
+      <length>35</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 12</principal-cave-name>
+      <altitude>1150</altitude>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=65</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 2</principal-cave-name>
+      <altitude>1070</altitude>
       <length>130</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=55</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 3</principal-cave-name>
-      <length>50</length>
+      <altitude>1000</altitude>
+      <length>~50</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=56</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 4</principal-cave-name>
-      <length>120</length>
+      <altitude>995</altitude>
+      <length>~120</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=57</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 5</principal-cave-name>
+      <altitude>970</altitude>
       <length>701</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=58</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 6</principal-cave-name>
-      <length>250</length>
+      <altitude>985</altitude>
+      <length>~250</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=59</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 7</principal-cave-name>
+      <altitude>975</altitude>
       <length>94</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=60</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Inusuzumi Fuketsu Cave No. 8</principal-cave-name>
+      <altitude>980</altitude>
       <length>76</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=61</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -16419,6 +16610,7 @@
       <length>49</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=62</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -16537,11 +16729,13 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province>Kumamoto</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Jao Fuketsu</principal-cave-name>
+      <phys-area-name>Mt. Aso</phys-area-name>
+      <principal-cave-name>Jano-O Fuketsu</principal-cave-name>
+      <altitude>522</altitude>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1144</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -16590,6 +16784,7 @@
       <phys-area-name/>
       <principal-cave-name>Jenkins Cave</principal-cave-name>
       <length>118</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Jenkins_Cave.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1273</reference>
    </record>
@@ -16676,6 +16871,7 @@
       <phys-area-name>Medicine Lake Highlands; Double Hole Crater</phys-area-name>
       <principal-cave-name>Jot Dean Ice Cave</principal-cave-name>
       <length>34</length>
+      <number-of-entrances>1</number-of-entrances>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=493</reference>
@@ -16721,7 +16917,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1187</reference>
       <reference>Paris et al. (2020) https://arxiv.org/abs/2004.13156</reference>
       <reference>Goar and Mosch (1992) http://www.vulcanospeleology.org/sym06/ISV6x13.pdf</reference>
-      <cave-use></cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -16731,6 +16926,8 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Juniper Cave</principal-cave-name>
       <length>720</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/hercules_leg_juniper.jpg</map-link>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Hercules Leg-Juniper Cave</cave-system>
@@ -16742,10 +16939,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>      	    
+      <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Juniper Pole Cave</principal-cave-name>
       <length>151</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Juniper_Pole_Cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=599</reference>
@@ -16775,6 +16973,7 @@
       <principal-cave-name>Ka'eleku Cavern</principal-cave-name>
       <other-cave-name>Hana Lava Tube</other-cave-name>
       <length>2852</length>
+      <map-link/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=732</reference>
       <reference>Richards and Szukalsk (2016) http://www.cavepics.com/IVS17/RICHARDS.pdf</reference>
@@ -16797,10 +16996,12 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Maui; Haleakala</phys-area-name>
       <principal-cave-name>Mahiehie Cave</principal-cave-name>
-      <altitude></altitude>
-      <length></length>
+      <altitude/>
+      <length/>
+      <map-link/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <comments>fossil bats</comments>
       <reference>Richards and Szukalsk (2016) http://www.cavepics.com/IVS17/RICHARDS.pdf</reference>
    </record>
    <record>
@@ -16869,7 +17070,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Kaminari Ana Cave</principal-cave-name>
+      <principal-cave-name>Kaminari Ana</principal-cave-name>
       <altitude>1210</altitude>
       <length>35</length>
       <cave-type>lava tunnel</cave-type>
@@ -16937,10 +17138,9 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1308</reference>
    </record>
-
    <record>
       <country-name>Comoros</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Grande Comore</phys-area-name>
       <principal-cave-name>Lava Cave #10</principal-cave-name>
       <length>210</length>
@@ -16949,7 +17149,7 @@
    </record>
    <record>
       <country-name>Comoros</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Grande Comore</phys-area-name>
       <principal-cave-name>Lava Cave #11</principal-cave-name>
       <length> >350</length>
@@ -16958,7 +17158,7 @@
    </record>
    <record>
       <country-name>Comoros</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Grande Comore</phys-area-name>
       <principal-cave-name>Nyamaour Panga</principal-cave-name>
       <other-cave-name>Lava Cave #13</other-cave-name>
@@ -16968,7 +17168,7 @@
    </record>
    <record>
       <country-name>Comoros</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Grande Comore</phys-area-name>
       <principal-cave-name>Grotte de Mhamdou</principal-cave-name>
       <other-cave-name>Lava Cave #14</other-cave-name>
@@ -16978,10 +17178,10 @@
    </record>
    <record>
       <country-name>Comoros</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Grande Comore; Mt. Kharthala; Hahaya cave area</phys-area-name>
       <principal-cave-name>Panga Betini</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <other-cave-name/>
       <cave-id>HH7-10-11</cave-id>
       <latitude>-11.53067</latitude>
       <longitude>043.28663</longitude>
@@ -16992,23 +17192,22 @@
    </record>
    <record>
       <country-name>Comoros</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Grande Comore</phys-area-name>
-      <principal-cave-name></principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <principal-cave-name/>
+      <other-cave-name/>
       <cave-id>HH12-13</cave-id>
       <length>180</length>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents/>
       <reference>Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf</reference>
    </record>
-
    <record>
       <country-name>Comoros</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Anjouan Island</phys-area-name>
       <principal-cave-name>Ngama Gombeni</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <other-cave-name/>
       <length>65</length>
       <cave-type>lava tunnel</cave-type>
       <contents>occasional bats</contents>
@@ -17019,24 +17218,25 @@
    </record>
    <record>
       <country-name>Comoros</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Anjouan Island; Mromagi area</phys-area-name>
       <principal-cave-name>Ngama Mapoudrou</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <other-cave-name/>
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
       <contents>many bats</contents>
       <reference>Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf</reference>
    </record>
-
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Katabuta Ana Cave</principal-cave-name>
-      <length>30</length>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
+      <principal-cave-name>Katabuta Ana</principal-cave-name>
+      <altitude>1190</altitude>
+      <length>~30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=69</reference>
+      <reference>Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -17060,7 +17260,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Kauho Ana Cave</principal-cave-name>
+      <principal-cave-name>Kauho Ana</principal-cave-name>
       <length>40</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=70</reference>
@@ -17080,6 +17280,7 @@
       <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Kaumana Cave</principal-cave-name>
       <length>2198</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Kaumana%26Thurston_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>tree roots</contents>
@@ -17115,8 +17316,9 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Kazuhito Ana Cave No. 1</principal-cave-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
+      <principal-cave-name>Kazuhito Ana No. 1</principal-cave-name>
+      <altitude>1180</altitude>
       <length>254</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=75</reference>
@@ -17124,38 +17326,46 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Kazuhito Ana Cave No. 2</principal-cave-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
+      <principal-cave-name>Kazuhito Ana No. 2</principal-cave-name>
+      <altitude>1180</altitude>
       <length>44</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=71</reference>
+      <reference>Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Kazuhito Ana Cave No. 3</principal-cave-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
+      <principal-cave-name>Kazuhito Ana No. 3</principal-cave-name>
+      <altitude>1175</altitude>
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=72</reference>
+      <reference>Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Kazuhito Ana Cave No. 4</principal-cave-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
+      <principal-cave-name>Kazuhito Ana No. 4</principal-cave-name>
+      <altitude>1170</altitude>
       <length>102</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=73</reference>
+      <reference>Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Kazuhito Ana Cave No. 5</principal-cave-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
+      <principal-cave-name>Kazuhito Ana No. 5</principal-cave-name>
+      <altitude>1160</altitude>
       <length>60</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=74</reference>
+      <reference>Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -17212,6 +17422,7 @@
       <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Keana Oa Waa</principal-cave-name>
       <length>724</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Keana_Oa_Waa.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=791</reference>
@@ -17252,8 +17463,13 @@
       <phys-area-name>Thjorsarhraun</phys-area-name>
       <principal-cave-name>Kerauga</principal-cave-name>
       <length>400</length>
-      <cave-type>lava tunnel</cave-type>
+      <rock-type>basalt</rock-type>
+      <rock-type>sandstone</rock-type>
+      <cave-type></cave-type>
+      <contents>perennially submerged</contents>
+      <comments>possibly manmade</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=4</reference>
+      <reference>Ketilsson et al. (2017) https://hdl.handle.net/20.500.12259/104283</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -17306,6 +17522,7 @@
       <cave-id>NGR-415563</cave-id>
       <altitude>1120</altitude>
       <length>1400</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Kimakia_Profile.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>extensive guano</contents>
@@ -17331,6 +17548,8 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Kirk White's Cave</principal-cave-name>
       <length>73</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Kirk_Whites_Igloo.jpg</map-link>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/plate-4.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=609</reference>
@@ -17544,7 +17763,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Komori Ana Cave No. 1</principal-cave-name>
+      <principal-cave-name>Komori Ana No. 1</principal-cave-name>
       <length>68</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=78</reference>
@@ -17553,7 +17772,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Komori Ana Cave No. 2</principal-cave-name>
+      <principal-cave-name>Komori Ana No. 2</principal-cave-name>
       <length>127</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=77</reference>
@@ -17573,6 +17792,8 @@
       <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Kula Kai Caverns</principal-cave-name>
       <length/>
+      <vertical-extent>68</vertical-extent>
+      <map-link/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Kipuka Kanohina</cave-system>
@@ -17627,7 +17848,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Kuzure Ana Cave</principal-cave-name>
+      <principal-cave-name>Kuzure Ana</principal-cave-name>
       <altitude>1010</altitude>
       <length>~130</length>
       <cave-type>lava tunnel</cave-type>
@@ -17677,6 +17898,9 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Labyrinth Cave System</principal-cave-name>
       <length/>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-1.pdf</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Labyrinth_lavabrook_mushpot.jpg</map-link>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <branch-name>Garden Bridges Cave</branch-name>
@@ -17719,6 +17943,7 @@
       <principal-cave-name>Lækjarhellir</principal-cave-name>
       <other-cave-name>Stream Cave</other-cave-name>
       <length>130</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Laufbalavatn_area_caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=205</reference>
@@ -17731,6 +17956,7 @@
       <principal-cave-name>Lake Cave</principal-cave-name>
       <cave-id>NSS-631-051</cave-id>
       <length>1401</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/MSH_Tubes+Contours.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1703</reference>
@@ -17771,6 +17997,7 @@
       <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Laniakea Cave</principal-cave-name>
       <length>380</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Laniakea_cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>charcoal</contents>
@@ -17804,6 +18031,9 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Lava Brook Cave</principal-cave-name>
       <length>262</length>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Labyrinth_lavabrook_mushpot.jpg</map-link>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Labyrinth Cave System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=585</reference>
@@ -17829,15 +18059,6 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1741</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Arizona; Pima</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Lava Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=257</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -17921,6 +18142,7 @@
       <other-cave-name>Lawai Kai Cave</other-cave-name>
       <other-cave-name>Lawai Site 51</other-cave-name>
       <length>55</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI007.003_fig26.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=821</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=950</reference>
@@ -17982,6 +18204,7 @@
       <principal-cave-name>Leviathan Cave</principal-cave-name>
       <other-cave-name>Grotte de Leviathan</other-cave-name>
       <length>12500</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Leviathan_Profile.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>age of flow Holocene</comments>
@@ -18049,6 +18272,7 @@
       <phys-area-name>Hawaii (Big Island)</phys-area-name>
       <principal-cave-name>Little Wall Cave</principal-cave-name>
       <length>470</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Little_Wall_Cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=906</reference>
@@ -18115,6 +18339,8 @@
       <principal-cave-name>Little Red River Cave</principal-cave-name>
       <cave-id>NSS-631-023</cave-id>
       <length>1032</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Little_Red_River_Cave.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/MSH_Tubes+Contours.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1706</reference>
@@ -18158,6 +18384,8 @@
       <principal-cave-name>Long Cave</principal-cave-name>
       <altitude>~2000</altitude>
       <length>500</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI009.015a.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI009.015b.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=832</reference>
@@ -18193,7 +18421,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=496</reference>
    </record>
-   
    <record>
       <country-name>Vanuatu</country-name>
       <state-or-province>Malampa province</state-or-province>
@@ -18222,7 +18449,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1369</reference>
       <reference>Warden (1967) DOI:10.1007/BF02597675</reference>
    </record>
-
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
@@ -18250,6 +18476,7 @@
       <principal-cave-name>Lost Cave</principal-cave-name>
       <cave-id>NSS-611-6</cave-id>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1243</reference>
       <reference>https://www.oregongrotto.com/oregoncaves.shtml</reference>
@@ -18289,9 +18516,11 @@
       <country-name>United States of America</country-name>
       <state-or-province>Utah</state-or-province>
       <state-or-province>Garfield County</state-or-province>
+      <phys-area-name>Markagunt Plateau</phys-area-name>
       <principal-cave-name>Lost Snag Cave</principal-cave-name>
       <other-cave-name>Henrie Knolls Cave</other-cave-name>
       <length>582</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Lost_Snag_Cave.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <comments>Quaternary</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1563</reference>
@@ -18413,6 +18642,7 @@
       <principal-cave-name>Lykkjuhellir</principal-cave-name>
       <other-cave-name>Link Cave</other-cave-name>
       <length>340</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Laufbalavatn_area_caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=202</reference>
@@ -18431,7 +18661,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Mado Ana Cave</principal-cave-name>
+      <principal-cave-name>Mado Ana</principal-cave-name>
       <length>510</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=80</reference>
@@ -18452,6 +18682,7 @@
       <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Makai Cinder Cone Cave</principal-cave-name>
       <length>35</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/cinder_cone_caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=853</reference>
@@ -18528,6 +18759,7 @@
       <phys-area-name/>
       <principal-cave-name>Malheur Cave</principal-cave-name>
       <length>784</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Malheur_Cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1235</reference>
@@ -18536,7 +18768,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Mamashita Ana Cave</principal-cave-name>
+      <principal-cave-name>Mamashita Ana</principal-cave-name>
       <altitude>820</altitude>
       <length>155</length>
       <cave-type>lava tunnel</cave-type>
@@ -18571,6 +18803,7 @@
       <phys-area-name>Markagunt Plateau</phys-area-name>
       <principal-cave-name>Mammoth Cave</principal-cave-name>
       <length>681</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Mammoth_Cave.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1560</reference>
    </record>
@@ -18624,6 +18857,8 @@
       <other-cave-name>Running Fish Cave</other-cave-name>
       <other-cave-name>Manini Holo</other-cave-name>
       <length>130</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI007.014_fig2.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI007.011.jpg</map-link>
       <rock-type>basalt</rock-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=822</reference>
       <reference>Leveille et al. (2000) doi:10.1016/S0009-2541(00)00213-8</reference>
@@ -18682,6 +18917,7 @@
       <principal-cave-name>Matargat</principal-cave-name>
       <other-cave-name>Lunch Cave</other-cave-name>
       <length>135</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Laufbalavatn_area_caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=203</reference>
@@ -18695,6 +18931,7 @@
       <cave-id>NGR-436547</cave-id>
       <cave-id>360/1-4</cave-id>
       <length>1900</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Mathaioni_Profile.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>extensive guano</contents>
@@ -18709,6 +18946,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Matthew Cave</principal-cave-name>
+      <other-cave-name>Camp Cave</other-cave-name>
       <cave-id>ASF-4U-32</cave-id>
       <length>40</length>
       <rock-type>basalt</rock-type>
@@ -18732,6 +18970,7 @@
       <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Mauka Cinder Cone Cave</principal-cave-name>
       <length>62</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/cinder_cone_caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=854</reference>
@@ -18782,6 +19021,7 @@
       <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Mauna Ulu Cave Group A</principal-cave-name>
       <length/>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Mauna_Ulu_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>near Chain of Craters Road; flow of 1971</comments>
@@ -18794,6 +19034,7 @@
       <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Mauna Ulu Cave Group B</principal-cave-name>
       <length>780</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Mauna_Ulu_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>1974 lava</comments>
@@ -18805,6 +19046,7 @@
       <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Mauna Ulu Cave Group C</principal-cave-name>
       <length>468</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Mauna_Ulu_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>near Chain of Craters Road; flow of 1974</comments>
@@ -18871,8 +19113,8 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Megane Ana Cave</principal-cave-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
+      <principal-cave-name>Megane Ana</principal-cave-name>
       <altitude>1210</altitude>
       <length>154</length>
       <cave-type>lava tunnel</cave-type>
@@ -18921,6 +19163,7 @@
       <length>198</length>
       <vertical-extent>18</vertical-extent>
       <number-of-entrances>1</number-of-entrances>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/plate-4.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>periodic ice</contents>
@@ -19000,9 +19243,12 @@
       <state-or-province/>
       <phys-area-name>Ohshima Island</phys-area-name>
       <principal-cave-name>Mihara Fuketsu</principal-cave-name>
+      <altitude>675</altitude>
       <length>27</length>
       <cave-type>lava tunnel</cave-type>
+      <comments>flow of 1951</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=138</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -19061,9 +19307,11 @@
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
       <principal-cave-name>Mishima Fuketsu Cave</principal-cave-name>
+      <altitude>42</altitude>
       <length>299</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=83</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
@@ -19102,21 +19350,24 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province>Kumamoto</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Aso</phys-area-name>
       <principal-cave-name>Mizonokuchiue Fuketsu</principal-cave-name>
-      <length>25</length>
+      <altitude>600</altitude>
+      <length>~25</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1140</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province>Kumamoto</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Aso</phys-area-name>
       <principal-cave-name>Mizonokuchiue Komori Ana</principal-cave-name>
       <altitude>600</altitude>
-      <length>15</length>
+      <length>~15</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1141</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>New Zealand</country-name>
@@ -19384,6 +19635,8 @@
       <phys-area-name/>
       <principal-cave-name>Mud Cave</principal-cave-name>
       <length>523</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Mud_Cave.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Mud_Cave_Profile.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1103</reference>
    </record>
@@ -19430,10 +19683,13 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Mushpot Cave</principal-cave-name>
+      <other-cave-name>Devil's Mushpot</other-cave-name>
       <length>235</length>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=589</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
@@ -19486,10 +19742,12 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Muzin Ana Cave</principal-cave-name>
+      <principal-cave-name>Muzina Ana</principal-cave-name>
+      <altitude>1095</altitude>
       <length>118</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=91</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Australia</country-name>
@@ -19504,20 +19762,24 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province>Kumamoto</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Aso</phys-area-name>
       <principal-cave-name>Nagaobane Fuketsu No. 1</principal-cave-name>
+      <altitude>750</altitude>
       <length>44</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1138</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
       <state-or-province>Kumamoto</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Mt. Aso</phys-area-name>
       <principal-cave-name>Nagaobane Fuketsu No. 2</principal-cave-name>
-      <length>20</length>
+      <altitude>750</altitude>
+      <length>~20</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1139</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -19597,6 +19859,7 @@
       <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <principal-cave-name>Natural Bridge</principal-cave-name>
       <length>47</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Natural_Bridge_Area.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=628</reference>
@@ -19649,6 +19912,7 @@
       <principal-cave-name>Ngumut N' Gai</principal-cave-name>
       <other-cave-name>The Cave of God</other-cave-name>
       <length>155</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/The_Cave_of_God.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=172</reference>
       <curation>there are two "the cave of god" in Kenya</curation>
@@ -19783,6 +20047,7 @@
       <phys-area-name>Craters of the Moon</phys-area-name>
       <principal-cave-name>North Fork Cave</principal-cave-name>
       <length>140</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/North_Fork_Cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1104</reference>
@@ -19842,6 +20107,7 @@
       <phys-area-name/>
       <principal-cave-name>Nyamulagira</principal-cave-name>
       <length/>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Nyamulagira.gif</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1135</reference>
    </record>
@@ -19961,6 +20227,7 @@
       <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Old Mamalahoa Trail Makai Cave</principal-cave-name>
       <length>34</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Old_Mamalahoa.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=905</reference>
@@ -19971,6 +20238,7 @@
       <phys-area-name>Hawaii (Big Island); Hualalai</phys-area-name>
       <principal-cave-name>Old Mamalahoa Trail Mauka Cave</principal-cave-name>
       <length>66</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Old_Mamalahoa.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=904</reference>
@@ -19985,6 +20253,7 @@
       <other-cave-name>Lava Cave</other-cave-name>
       <cave-id>NSS-631-029</cave-id>
       <length>1768</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Cave_Basalt_Tubes.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1713</reference>
@@ -20068,11 +20337,13 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province>Nagasaki</state-or-province>
-      <phys-area-name/>
+      <phys-area-name>Ouitabe Island</phys-area-name>
       <principal-cave-name>Ouitabe Ana</principal-cave-name>
-      <length/>
+      <altitude>10</altitude>
+      <length>~70</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1176</reference>
+      <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -20112,6 +20383,8 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Ovis Annex Cave</principal-cave-name>
       <length>30</length>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-2.pdf</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/ovis_cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=660</reference>
@@ -20124,6 +20397,8 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Ovis Bridge</principal-cave-name>
       <length>25</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/ovis_cave.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Natural_Bridge_Area.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=662</reference>
    </record>
@@ -20135,6 +20410,9 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Ovis Cave</principal-cave-name>
       <length>66</length>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-2.pdf</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/ovis_cave.jpg</map-link>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=590</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
@@ -20161,7 +20439,7 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1219</reference>
-      <reference>Ciesel and Wagner (1969) https://www.oregongeology.org/pubs/og/OBv31n08.pdf</reference>    
+      <reference>Ciesel and Wagner (1969) https://www.oregongeology.org/pubs/og/OBv31n08.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -20212,6 +20490,7 @@
       <principal-cave-name>Palima Point Area Caves</principal-cave-name>
       <other-cave-name>CSH Site 91 Cave</other-cave-name>
       <length>62</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Palima_Point.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=836</reference>
@@ -20234,6 +20513,7 @@
       <other-cave-name>Smoke Cave</other-cave-name>
       <other-cave-name>Cloud Cave</other-cave-name>
       <length>3000</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Pango_Ya_Moshi.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>Holocene</comments>
@@ -20244,9 +20524,12 @@
       <state-or-province>Victoria; Western District</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Panmure Cave</principal-cave-name>
+      <cave-id>ASF-3H-5</cave-id>
       <length>100</length>
+      <vertical-extent>6</vertical-extent>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1597</reference>
+      <reference>ASF database</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -20256,6 +20539,8 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Paradise Alleys Cave</principal-cave-name>
       <length>300</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/ovis_cave.jpg</map-link>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=657</reference>
@@ -20270,7 +20555,7 @@
       <cave-id>ASF-3H-4</cave-id>
       <length>300</length>
       <vertical-extent>5</vertical-extent>
-      <rock-type>basalt</rock-type>
+      <rock-type></rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1595</reference>
    </record>
@@ -20304,6 +20589,7 @@
       <other-cave-name>Pe'ape'a Lava Cave</other-cave-name>
       <other-cave-name>Papa Cave</other-cave-name>
       <length>1110</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Peapea.gif</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>birds</contents>
@@ -20333,6 +20619,7 @@
       <latitude>-13.91611</latitude>
       <longitude>-171.82222</longitude>
       <length>585</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Falemaunga_Cave.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <contents>many bats</contents>
       <contents>birds</contents>
@@ -20353,7 +20640,6 @@
       <comments>not to be confused with Falemaunga Cave</comments>
       <reference>Tarburton (2011) https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf</reference>
    </record>
-   
    <record>
       <country-name>Samoa</country-name>
       <state-or-province/>
@@ -20367,7 +20653,7 @@
       <cave-type>lava tunnel</cave-type>
       <contents>birds</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=170</reference>
-      <reference>Tarburton (2011) https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf</reference>      
+      <reference>Tarburton (2011) https://helictite.caves.org.au/pdf1/40.2.Tarburton.pdf</reference>
       <reference>https://www.showcaves.com/english/other/caves/Laauolola.html</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
@@ -20389,13 +20675,14 @@
       <phys-area-name>Salani (Mulifauna Formation)</phys-area-name>
       <principal-cave-name>Oloimoa</principal-cave-name>
       <length>70</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Oloimoa.gif</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1568</reference>
    </record>
    <record>
       <country-name>Samoa</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Savaii Island</phys-area-name>
       <principal-cave-name>Ana Pe'ape'a Tapuele'ele</principal-cave-name>
       <other-cave-name>O le ana o le nuu te tau</other-cave-name>
@@ -20426,6 +20713,7 @@
       <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <principal-cave-name>Peninsula Bridge</principal-cave-name>
       <length/>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Modoc_Crater_Tube_System2.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=654</reference>
@@ -20464,7 +20752,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1736</reference>
       <reference>Halliday (1963) "Caves of Washington"</reference>
    </record>
-
    <record>
       <country-name>Mauritius</country-name>
       <state-or-province/>
@@ -20480,7 +20767,7 @@
       <country-name>Mauritius</country-name>
       <state-or-province/>
       <phys-area-name>Plaine des Roches</phys-area-name>
-      <principal-cave-name></principal-cave-name>
+      <principal-cave-name/>
       <length>520</length>
       <cave-type>lava tunnel</cave-type>
       <contents>many bats</contents>
@@ -20489,21 +20776,21 @@
    <record>
       <country-name>Mauritius</country-name>
       <state-or-province/>
-      <phys-area-name></phys-area-name>
+      <phys-area-name/>
       <principal-cave-name>Pont Bon Dieu Jardin Cave</principal-cave-name>
       <length>~400</length>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents/>
       <reference>Middleton (1998) doi:10.5038/1827-806X.27.1.9</reference>
    </record>
    <record>
       <country-name>Mauritius</country-name>
       <state-or-province/>
-      <phys-area-name></phys-area-name>
+      <phys-area-name/>
       <principal-cave-name>Camp Thorel Cave</principal-cave-name>
       <length>1015</length>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents/>
       <reference>Middleton (1998) doi:10.5038/1827-806X.27.1.9</reference>
       <reference>Middleton (1998) http://vulcanospeleology.org/sym09/ISV9Eal.pdf</reference>
       <reference>Middleton (1999) http://st1.asflib.net/MEDIA/ASF-CD/ASF-M-00185/ackcd/journal/36mauritius.html</reference>
@@ -20523,7 +20810,7 @@
       <state-or-province/>
       <phys-area-name>Mont Blanc</phys-area-name>
       <principal-cave-name>Surinam Cave</principal-cave-name>
-      <length></length>
+      <length/>
       <cave-type>lava tunnel</cave-type>
       <contents>birds</contents>
       <reference>Middleton (1998) https://core.ac.uk/download/pdf/154473434.pdf</reference>
@@ -20536,10 +20823,9 @@
       <cave-id>PR18-30-31</cave-id>
       <length>570</length>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents/>
       <reference>Middleton (1998) http://vulcanospeleology.org/sym09/ISV9Eal.pdf</reference>
    </record>
-
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
@@ -20587,6 +20873,7 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Picnic II</principal-cave-name>
+      <other-cave-name>Picnic East Cave</other-cave-name>
       <cave-id>ASF-U25</cave-id>
       <length>45</length>
       <rock-type>basalt</rock-type>
@@ -20680,9 +20967,10 @@
       <country-name>Iceland</country-name>
       <state-or-province/>
       <phys-area-name>Eldhraun</phys-area-name>
-      <principal-cave-name>Pjhnappahellir</principal-cave-name>
+      <principal-cave-name>Þjóhnappahellir</principal-cave-name>
       <other-cave-name>Buttocks Cave</other-cave-name>
       <length>274</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Eldhraun_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=186</reference>
@@ -20718,15 +21006,6 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=696</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <state-or-province>Siskiyou County</state-or-province>
-      <principal-cave-name>Point Lithic Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=504</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -20808,6 +21087,7 @@
       <principal-cave-name>Post Office Cave</principal-cave-name>
       <other-cave-name>Postoffice Cave</other-cave-name>
       <length>2357</length>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-5.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=591</reference>
@@ -20872,6 +21152,8 @@
       <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Prince Albert Cave</principal-cave-name>
       <length>760</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Prince_Albert_Cave.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Cave_Basalt_Tubes.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1716</reference>
@@ -20884,6 +21166,7 @@
       <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <principal-cave-name>Prohibition Cave</principal-cave-name>
       <length>68</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Natural_Bridge_Area.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=655</reference>
@@ -21014,6 +21297,7 @@
       <principal-cave-name>Þvæluhellir</principal-cave-name>
       <other-cave-name>Muddle Cave</other-cave-name>
       <length>522</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Laufbalavatn_area_caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=204</reference>
@@ -21210,6 +21494,7 @@
       <principal-cave-name>Rauðbogahellir</principal-cave-name>
       <other-cave-name>Red Arch Cave</other-cave-name>
       <length>203</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Eldhraun_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=189</reference>
@@ -21420,6 +21705,7 @@
       <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Ring Cave</principal-cave-name>
       <length>77</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Ring_and_Ringleader_caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>connected to Ringleader Cave</comments>
@@ -21432,6 +21718,7 @@
       <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Ringleader Cave</principal-cave-name>
       <length>62</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Ring_and_Ringleader_caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>connected to Ring Cave</comments>
@@ -21445,6 +21732,7 @@
       <principal-cave-name>Risahellir</principal-cave-name>
       <other-cave-name>Giant Cave</other-cave-name>
       <length>70</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Eldhraun_Caves.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=188</reference>
    </record>
@@ -21472,7 +21760,8 @@
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <principal-cave-name>Road Cave</principal-cave-name>
-      <cave-id>ASF-4U-U28</cave-id>
+      <other-cave-name>Collins Road Cave</other-cave-name>
+      <cave-id>ASF-4U-28</cave-id>
       <length>220</length>
       <number-of-entrances>2</number-of-entrances>
       <rock-type>basalt</rock-type>
@@ -21480,12 +21769,12 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1426</reference>
       <reference>Atkinson et al. (1975) doi:10.1007/BF02597832</reference>
    </record>
-      <record>
+   <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
       <phys-area-name>Undara</phys-area-name>
       <other-cave-name>Road Cave</other-cave-name>
-      <cave-id>ASF-4U-U29</cave-id>
+      <cave-id>ASF-4U-29</cave-id>
       <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -21548,6 +21837,7 @@
       <phys-area-name>Medicine Lake Highlands; Modoc Crater</phys-area-name>
       <principal-cave-name>Robin Cave</principal-cave-name>
       <length/>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Modoc_Crater_Tube_System2.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=659</reference>
@@ -21720,6 +22010,7 @@
       <principal-cave-name>S-3</principal-cave-name>
       <other-cave-name>SU-03</other-cave-name>
       <length>181</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=34</reference>
       <reference>Jonsson et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x20.pdf</reference>
@@ -21730,8 +22021,8 @@
       <phys-area-name>Surtsey Island</phys-area-name>
       <principal-cave-name>Grillid (Cave S-4)</principal-cave-name>
       <other-cave-name>SU-04</other-cave-name>
-      <latitude>63.30000</latitude>
-      <longitude>-20.58333</longitude>
+      <latitude>63.30</latitude>
+      <longitude>-20.58</longitude>
       <length>137</length>
       <cave-type>lava tunnel</cave-type>
       <contents>minerals</contents>
@@ -21886,8 +22177,9 @@
       <country-name>Fiji</country-name>
       <state-or-province>Northern</state-or-province>
       <phys-area-name>Taveuni Island</phys-area-name>
-      <principal-cave-name>Salialevu</principal-cave-name>
+      <principal-cave-name>Salialevu Lava Cave</principal-cave-name>
       <length>920</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Salialevu.gif</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1211</reference>
    </record>
@@ -21899,6 +22191,7 @@
       <other-cave-name>Samruni</other-cave-name>
       <other-cave-name>Confluence Cave</other-cave-name>
       <length>220</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Eldhraun_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=194</reference>
@@ -22019,6 +22312,9 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Sentinel Cave</principal-cave-name>
       <length>1228</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/sentinel_cave.jpg</map-link>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-2.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=593</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
@@ -22052,6 +22348,7 @@
       <principal-cave-name>Sharks Mouth Cave</principal-cave-name>
       <cave-id>B120</cave-id>
       <length>460</length>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/plate-4.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=524</reference>
@@ -22121,7 +22418,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Shin Ana Cave</principal-cave-name>
+      <principal-cave-name>Shin Ana</principal-cave-name>
       <length>150</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=110</reference>
@@ -22130,7 +22427,7 @@
       <country-name>Japan</country-name>
       <state-or-province>Shizuoka</state-or-province>
       <phys-area-name>Hachijo Island</phys-area-name>
-      <principal-cave-name>Shin Gokuraku Ana Cave</principal-cave-name>
+      <principal-cave-name>Shin Gokuraku Ana</principal-cave-name>
       <altitude>20</altitude>
       <length>676</length>
       <cave-type>lava tunnel</cave-type>
@@ -22145,6 +22442,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Ship Cavern</principal-cave-name>
       <length/>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Modoc_Crater_Tube_System2.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=613</reference>
@@ -22262,7 +22560,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Shonin Ana Cave</principal-cave-name>
+      <principal-cave-name>Shonin Ana</principal-cave-name>
       <length>77</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=122</reference>
@@ -22319,6 +22617,7 @@
       <principal-cave-name>Shovel Cave</principal-cave-name>
       <other-cave-name>Arch Sink</other-cave-name>
       <length>393</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Shovel_Cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=433</reference>
@@ -22340,7 +22639,7 @@
       <phys-area-name/>
       <principal-cave-name>Sierra Negras Ice Cave</principal-cave-name>
       <length/>
-      <cave-type></cave-type>
+      <cave-type/>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1182</reference>
       <reference>Halliday (1954) Ice Caves of the United States, Am. Caver 16</reference>
    </record>
@@ -22352,9 +22651,9 @@
       <other-cave-name>Cueva de la Sierra Partida</other-cave-name>
       <length>850</length>
       <vertical-extent>62</vertical-extent>
+      <map-link>http://www.mexicancaves.org/maps/0034.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1558</reference>
-      <reference>http://www.mexicancaves.org/maps/0034.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -22394,6 +22693,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Silver Cave</principal-cave-name>
       <length>600</length>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-5.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=594</reference>
@@ -22455,12 +22755,15 @@
       <principal-cave-name>Skipton Cave</principal-cave-name>
       <other-cave-name>Mt. Widderin Cave</other-cave-name>
       <cave-id>ASF-3H-1</cave-id>
+      <latitude>-37.73694</latitude>
+      <longitude>143.34778</longitude>
       <length>240</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1596</reference>
       <reference>Webb et al. (1993) http://www.vulcanospeleology.org/sym03/ISV3x12.pdf</reference>
       <reference>ASF database</reference>
+      <reference>https://www.mindat.org/loc-205.html</reference>
    </record>
    <record>
       <country-name>Kenya</country-name>
@@ -22470,6 +22773,7 @@
       <other-cave-name>Mathaioni II</other-cave-name>
       <cave-id>327/1</cave-id>
       <length>350</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Skull_Cave_Kenya.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>extensive guano</contents>
@@ -22484,6 +22788,7 @@
       <principal-cave-name>Kalua O Lapa Cave</principal-cave-name>
       <other-cave-name>Skull Cave</other-cave-name>
       <length>60</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI009.016a.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=874</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=957</reference>
@@ -22674,6 +22979,8 @@
       <principal-cave-name>South Ice Cave</principal-cave-name>
       <altitude>1530</altitude>
       <length>280</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/south_ice_cave.jpg</map-link>
+      <map-link>http://intheplaygroundofgiants.com/wp-content/uploads/2019/02/Figure-3A.19-South-Ice-Cave-map.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
@@ -22771,6 +23078,7 @@
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
       <principal-cave-name>Squeaking Pika Cave</principal-cave-name>
+      <altitude>1027</altitude>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1679</reference>
@@ -22947,6 +23255,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Stinking Cave</principal-cave-name>
       <length>39</length>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=596</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
@@ -23001,27 +23310,28 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Klickitat County</state-or-province>
-      <phys-area-name></phys-area-name>
+      <phys-area-name/>
       <principal-cave-name>Butter Cave</principal-cave-name>
-      <length></length>
+      <length/>
       <number-of-entrances>2</number-of-entrances>
       <cave-type>lava tunnel</cave-type>
       <contents>periodic ice</contents>
+      <cave-system>Butter-Stairwell Tube Complex</cave-system>
       <reference>Halliday (1963) "Caves of Washington"</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Klickitat County</state-or-province>
-      <phys-area-name></phys-area-name>
+      <phys-area-name/>
       <principal-cave-name>Cheese Cave</principal-cave-name>
       <other-cave-name>Big Lava Cave</other-cave-name>
       <other-cave-name>Lava Cave</other-cave-name>
       <other-cave-name>Spencer's Cave</other-cave-name>
       <length>628</length>
-      <number-of-entrances></number-of-entrances>
+      <number-of-entrances/>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents/>
       <comments>was used for cheese storage</comments>
       <reference>Halliday (1963) "Caves of Washington"</reference>
    </record>
@@ -23029,43 +23339,44 @@
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Klickitat County</state-or-province>
-      <phys-area-name></phys-area-name>
+      <phys-area-name/>
       <principal-cave-name>Red Cave</principal-cave-name>
       <other-cave-name>Branching Cave</other-cave-name>
       <other-cave-name>Spencer's Red Cave</other-cave-name>
-      <length></length>
-      <number-of-entrances></number-of-entrances>
+      <length/>
+      <number-of-entrances/>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
-      <comments></comments>
+      <contents/>
+      <comments/>
       <reference>Halliday (1963) "Caves of Washington"</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Klickitat County</state-or-province>
-      <phys-area-name></phys-area-name>
-      <principal-cave-name>Stairewell Cave</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <phys-area-name/>
+      <principal-cave-name>Stairwell Cave</principal-cave-name>
+      <other-cave-name/>
       <length>411</length>
-      <number-of-entrances></number-of-entrances>
+      <number-of-entrances/>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
-      <comments></comments>
+      <contents/>
+      <comments/>
+      <cave-system>Butter-Stairwell Tube Complex</cave-system>
       <reference>Halliday (1963) "Caves of Washington"</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Klickitat County</state-or-province>
-      <phys-area-name></phys-area-name>
+      <phys-area-name/>
       <principal-cave-name>Trillium Cave</principal-cave-name>
       <other-cave-name>Meat Cave</other-cave-name>
       <length>18</length>
-      <number-of-entrances></number-of-entrances>
+      <number-of-entrances/>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
-      <comments></comments>
+      <contents/>
+      <comments/>
       <reference>Halliday (1963) "Caves of Washington"</reference>
    </record>
    <record>
@@ -23074,12 +23385,12 @@
       <state-or-province>Klickitat County</state-or-province>
       <phys-area-name>Mt. Adams</phys-area-name>
       <principal-cave-name>Twidwell's Cave</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <other-cave-name/>
       <length> >90</length>
-      <number-of-entrances></number-of-entrances>
+      <number-of-entrances/>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
-      <comments></comments>
+      <contents/>
+      <comments/>
       <reference>Halliday (1963) "Caves of Washington"</reference>
    </record>
    <record>
@@ -23089,6 +23400,7 @@
       <principal-cave-name>Stubur</principal-cave-name>
       <other-cave-name>Short Cave</other-cave-name>
       <length>15</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Eldhraun_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=192</reference>
@@ -23196,6 +23508,8 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Sunshine Cave</principal-cave-name>
       <length>142</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/sunshine_cave.jpg</map-link>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=597</reference>
       <cave-use>self-guided tourist cave</cave-use>
@@ -23283,6 +23597,7 @@
       <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Swansong Cave</principal-cave-name>
       <length>140</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Swansong_cave.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=858</reference>
@@ -23300,10 +23615,12 @@
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
       <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Medicine Lake Highlands</phys-area-name>
+      <phys-area-name>Medicine Lake Highlands; Mammoth Crater</phys-area-name>
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Symbol Bridge</principal-cave-name>
+      <other-cave-name>Symbol Cave</other-cave-name>
       <length>45</length>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=615</reference>
       <cave-use>self-guided tourist cave</cave-use>
@@ -23311,20 +23628,14 @@
    <record>
       <country-name>Hungary</country-name>
       <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Szivs-ki-barlang</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=164</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
-      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
-      <principal-cave-name>T-Tube</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=799</reference>
+      <phys-area-name>Bakony Mountains</phys-area-name>
+      <principal-cave-name>Pulai Basalt Cave</principal-cave-name>
+      <length>151</length>
+      <vertical-extent>21</vertical-extent>
+      <rock-type>basalt</rock-type>
+      <cave-type>misc. type</cave-type>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=163</reference>
+      <reference>Eszterhas and Szentes (2010) http://www.vulcanospeleology.org/sym14/papers/HungaryPt.2.pdf</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -23332,6 +23643,7 @@
       <state-or-province>Skamania County</state-or-province>
       <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Tadpole Cave</principal-cave-name>
+      <altitude/>
       <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
@@ -23396,9 +23708,10 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Gooding County</state-or-province>
-      <principal-cave-name>Teakettle Cave</principal-cave-name>
+      <principal-cave-name>Tea Kettle Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
+      <contents>snakes</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1055</reference>
    </record>
    <record>
@@ -23441,7 +23754,7 @@
    </record>
    <record>
       <country-name>Syria</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name/>
       <principal-cave-name>Ariqa Cave</principal-cave-name>
       <other-cave-name>Aariqa Cave</other-cave-name>
@@ -23452,7 +23765,7 @@
    </record>
    <record>
       <country-name>Syria</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name/>
       <principal-cave-name>Umm ar Rumman</principal-cave-name>
       <length>1615</length>
@@ -23525,18 +23838,9 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Lincoln County</state-or-province>
-      <phys-area-name>Black Butte</phys-area-name>
-      <principal-cave-name>The One Dave Missed</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1080</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho</state-or-province>
-      <state-or-province>Lincoln County</state-or-province>
       <phys-area-name>Tee-Maze cave system</phys-area-name>
       <principal-cave-name>The One Frank Missed</principal-cave-name>
+      <other-cave-name>Little Arch</other-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1095</reference>
@@ -23612,7 +23916,7 @@
       <length>1002</length>
       <vertical-extent>105</vertical-extent>
       <number-of-entrances>7</number-of-entrances>
-      <cave-type></cave-type>
+      <cave-type/>
       <branch-name>ThisCave</branch-name>
       <branch-name>ThatCave</branch-name>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=946</reference>
@@ -23667,6 +23971,8 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Thunderbolt Cave</principal-cave-name>
       <length>781</length>
+      <map-link>http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Labyrinth_lavabrook_mushpot.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Labyrinth Cave System</cave-system>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=598</reference>
@@ -23682,6 +23988,7 @@
       <altitude>1200</altitude>
       <length>593</length>
       <vertical-extent>20</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Kaumana%26Thurston_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=779</reference>
@@ -23706,6 +24013,7 @@
       <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Tickner Cave</principal-cave-name>
       <length>442</length>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-3.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=639</reference>
@@ -23719,6 +24027,7 @@
       <phys-area-name>Medicine Lake Highlands</phys-area-name>
       <principal-cave-name>Tickner Chimneys</principal-cave-name>
       <length>800</length>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-3.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=648</reference>
@@ -23757,7 +24066,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Malheur County</state-or-province>
-<phys-area-name>Saddle Butte</phys-area-name>
+      <phys-area-name>Saddle Butte</phys-area-name>
       <principal-cave-name>Tire Tube Cave</principal-cave-name>
       <length>520</length>
       <rock-type>basalt</rock-type>
@@ -23768,7 +24077,7 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name>Tolbachik</phys-area-name>
+      <phys-area-name>South Tolbachik</phys-area-name>
       <principal-cave-name>To-9601/02</principal-cave-name>
       <cave-id>5536/16010-11</cave-id>
       <latitude>55.61883</latitude>
@@ -23783,40 +24092,50 @@
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name>Tolbachik</phys-area-name>
+      <phys-area-name>South Tolbachik</phys-area-name>
       <principal-cave-name>To-9603</principal-cave-name>
       <cave-id>5536/16010-10</cave-id>
+      <altitude>350</altitude>
       <length>25</length>
+      <vertical-extent>4</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Tolbachik_9603.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1123</reference>
    </record>
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name>Tolbachik</phys-area-name>
+      <phys-area-name>South Tolbachik</phys-area-name>
       <principal-cave-name>To-9604</principal-cave-name>
       <cave-id>5536/16010-9</cave-id>
+      <altitude>350</altitude>
       <length>25</length>
+      <vertical-extent>4</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Tolbachik_9604.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1124</reference>
    </record>
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name>Tolbachik</phys-area-name>
+      <phys-area-name>South Tolbachik</phys-area-name>
       <principal-cave-name>To-9605</principal-cave-name>
       <cave-id>5536/16010-8</cave-id>
+      <altitude>370</altitude>
       <length>12</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Tolbachik_9605.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1125</reference>
    </record>
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name>Tolbachik</phys-area-name>
+      <phys-area-name>South Tolbachik</phys-area-name>
       <principal-cave-name>To-9606</principal-cave-name>
       <cave-id>5536/16010-7</cave-id>
+      <altitude>370</altitude>
       <length>15</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Tolbachik_9606.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1126</reference>
    </record>
@@ -23831,56 +24150,76 @@
       <altitude>370</altitude>
       <length>24</length>
       <vertical-extent>2</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Tolbachik_9607.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1127</reference>
    </record>
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name>Tolbachik</phys-area-name>
+      <phys-area-name>South Tolbachik</phys-area-name>
       <principal-cave-name>To-9608</principal-cave-name>
       <cave-id>5536/16010-5</cave-id>
+      <altitude>370</altitude>
       <length>23</length>
+      <vertical-extent>2</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Tolbachik_9608.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1128</reference>
    </record>
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name>Tolbachik</phys-area-name>
+      <phys-area-name>South Tolbachik</phys-area-name>
       <principal-cave-name>To-9609</principal-cave-name>
       <cave-id>5536/16010-4</cave-id>
+      <altitude>390</altitude>
       <length>97</length>
+      <vertical-extent>3</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Tolbachik_9609.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1129</reference>
    </record>
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name>Tolbachik</phys-area-name>
+      <phys-area-name>South Tolbachik</phys-area-name>
       <principal-cave-name>To-9610</principal-cave-name>
       <cave-id>5536/16010-3</cave-id>
+      <altitude>390</altitude>
       <length>185</length>
+      <vertical-extent>5</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Tolbachik_9610.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1130</reference>
    </record>
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name>Tolbachik</phys-area-name>
+      <phys-area-name>South Tolbachik</phys-area-name>
       <principal-cave-name>To-9611</principal-cave-name>
       <cave-id>5536/16010-2</cave-id>
+      <latitude>55.61752</latitude>
+      <longitude>160.17295</longitude>
+      <altitude>390</altitude>
       <length>22</length>
+      <vertical-extent>2</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Tolbachik_9611.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1131</reference>
    </record>
    <record>
       <country-name>Russia</country-name>
       <state-or-province>Kamchatka</state-or-province>
-      <phys-area-name>Tolbachik</phys-area-name>
+      <phys-area-name>South Tolbachik</phys-area-name>
       <principal-cave-name>To-9612</principal-cave-name>
       <cave-id>5536/16010-1</cave-id>
+      <latitude>55.61888</latitude>
+      <longitude>160.18188</longitude>
+      <altitude>410</altitude>
       <length>65</length>
+      <vertical-extent>3</vertical-extent>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Tolbachik_9612.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1132</reference>
    </record>
@@ -23893,7 +24232,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1683</reference>
    </record>
-
    <record>
       <country-name>Micronesia</country-name>
       <state-or-province>Kosrae</state-or-province>
@@ -23914,7 +24252,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=686</reference>
    </record>
-   
    <record>
       <country-name>Australia</country-name>
       <state-or-province>Queensland</state-or-province>
@@ -23964,6 +24301,7 @@
       <phys-area-name>Chyulu Hills</phys-area-name>
       <principal-cave-name>Tonsilectomy Pot</principal-cave-name>
       <length>30</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Tonsilectomy_Pot_Profile.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <comments>Holocene</comments>
@@ -24221,7 +24559,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Uba Ana Cave</principal-cave-name>
+      <principal-cave-name>Uba Ana</principal-cave-name>
       <altitude>750</altitude>
       <length>123</length>
       <cave-type>lava tunnel</cave-type>
@@ -24270,8 +24608,8 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a</phys-area-name>
       <principal-cave-name>Shangri-la Cave System</principal-cave-name>
-      <length></length>
-      <vertical-extent></vertical-extent>
+      <length/>
+      <vertical-extent/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf</reference>
@@ -24281,8 +24619,8 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a</phys-area-name>
       <principal-cave-name>Petrel Cave</principal-cave-name>
-      <length></length>
-      <vertical-extent></vertical-extent>
+      <length/>
+      <vertical-extent/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf</reference>
@@ -24292,8 +24630,8 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a</phys-area-name>
       <principal-cave-name>Yellowjacket Cave</principal-cave-name>
-      <length></length>
-      <vertical-extent></vertical-extent>
+      <length/>
+      <vertical-extent/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf</reference>
@@ -24303,8 +24641,8 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a</phys-area-name>
       <principal-cave-name>Hapuu Cave System</principal-cave-name>
-      <length></length>
-      <vertical-extent></vertical-extent>
+      <length/>
+      <vertical-extent/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf</reference>
@@ -24314,8 +24652,8 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii (Big Island); Hualalai; Pu'u Wa'awa'a</phys-area-name>
       <principal-cave-name>Olapa cave system</principal-cave-name>
-      <length></length>
-      <vertical-extent></vertical-extent>
+      <length/>
+      <vertical-extent/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://www.fs.fed.us/psw/ef/hawaii/documents/PWW_biol_assessment.pdf</reference>
@@ -24346,10 +24684,11 @@
       <state-or-province>Utah</state-or-province>
       <state-or-province>Garfield County</state-or-province>
       <phys-area-name>Markagnunt Plateau</phys-area-name>
-      <principal-cave-name></principal-cave-name>
+      <principal-cave-name/>
       <other-cave-name>Mathesons Cave</other-cave-name>
       <other-cave-name>Alvas Cave</other-cave-name>
       <length>876</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Unnamed_Cave.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <comments>Quaternary</comments>
       <cave-system>Mammoth Cave</cave-system>
@@ -24363,6 +24702,7 @@
       <principal-cave-name>Uppáhellir</principal-cave-name>
       <other-cave-name>Brew Cave</other-cave-name>
       <length>380</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Uppahellir_Drilahellir.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=183</reference>
@@ -24386,6 +24726,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Upper Ice Cave</principal-cave-name>
       <length/>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-6.pdf</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
@@ -24409,7 +24750,7 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Maui; Haleakala</phys-area-name>
       <principal-cave-name>Thaumatogryllus cave no. 2</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <other-cave-name/>
       <length>~720</length>
       <cave-type>lava tunnel</cave-type>
       <contents>tree roots</contents>
@@ -24520,6 +24861,7 @@
       <phys-area-name>Lava Beds National Monument</phys-area-name>
       <principal-cave-name>Valentine Cave</principal-cave-name>
       <length>498</length>
+      <map-link>https://pubs.usgs.gov/bul/1673/plate-3.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=640</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
@@ -24533,6 +24875,7 @@
       <principal-cave-name>Völundur</principal-cave-name>
       <other-cave-name>Labyrinth Cave</other-cave-name>
       <length>700</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Laufbalavatn_area_caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=201</reference>
@@ -24596,6 +24939,7 @@
       <principal-cave-name>Vonbrigdahellir</principal-cave-name>
       <other-cave-name>Disappointment Cave</other-cave-name>
       <length>155</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Eldhraun_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=185</reference>
@@ -24666,6 +25010,7 @@
       <principal-cave-name>Waialoha Cave</principal-cave-name>
       <other-cave-name>Thankful Water Cave</other-cave-name>
       <length>225</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI007.014_fig1.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=825</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=990</reference>
@@ -24705,6 +25050,8 @@
       <principal-cave-name>Waikanaloa Wet Cave</principal-cave-name>
       <other-cave-name>Waimoo Wet Cave</other-cave-name>
       <length>82</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI007.011.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI007.014_fig3.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <contents>perennially part-submerged</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=958</reference>
@@ -24719,6 +25066,8 @@
       <other-cave-name>Waimoo Wet Cave</other-cave-name>
       <other-cave-name>Blue Room Wet Cave</other-cave-name>
       <length>60</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI007.011.jpg</map-link>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/HI007.014_fig4.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=826</reference>
       <reference>Leveille et al. (2000) doi:10.1016/S0009-2541(00)00213-8</reference>
@@ -24729,6 +25078,7 @@
       <phys-area-name>Oahu</phys-area-name>
       <principal-cave-name>Waimalu Cave</principal-cave-name>
       <length>31</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Waimalu.jpg</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=859</reference>
    </record>
@@ -24738,6 +25088,7 @@
       <phys-area-name>Taveuni Island</phys-area-name>
       <principal-cave-name>Waimaqere Cave 1</principal-cave-name>
       <length>430</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Waimaqere1.gif</map-link>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1212</reference>
    </record>
@@ -24854,7 +25205,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1016</reference>
    </record>
-
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Kauai County</state-or-province>
@@ -24886,7 +25236,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=979</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=969</reference>
    </record>
-   
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
@@ -25161,7 +25510,6 @@
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1209</reference>
-      <cave-use></cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -25178,7 +25526,7 @@
       <country-name>Japan</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Fuji</phys-area-name>
-      <principal-cave-name>Yaskiki Ana Cave</principal-cave-name>
+      <principal-cave-name>Yaskiki Ana</principal-cave-name>
       <length>239</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=128</reference>
@@ -25250,7 +25598,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
       <principal-cave-name>Zinza Fuketsu No. 1 Cave</principal-cave-name>
       <altitude>1245</altitude>
       <length>443</length>
@@ -25261,7 +25609,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
       <principal-cave-name>Zinza Fuketsu No. 2 Cave</principal-cave-name>
       <altitude>1240</altitude>
       <length>51</length>
@@ -25281,7 +25629,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
       <principal-cave-name>Zinza Fuketsu No. 4 Cave</principal-cave-name>
       <altitude>1165</altitude>
       <length>~100</length>
@@ -25292,7 +25640,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
       <principal-cave-name>Zinza Fuketsu No. 5 Cave</principal-cave-name>
       <altitude>1160</altitude>
       <length>105</length>
@@ -25303,7 +25651,7 @@
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
-      <phys-area-name>Mt. Fuji</phys-area-name>
+      <phys-area-name>Mt. Fuji; Aokigahara lava flows</phys-area-name>
       <principal-cave-name>Zinza Fuketsu No. 6 Cave</principal-cave-name>
       <altitude>1160</altitude>
       <length>42</length>
@@ -25344,7 +25692,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=137</reference>
       <reference>http://www.vulcanospeleology.org/sym05gui/ISV5G09.pdf</reference>
    </record>
-
    <record>
       <country-name>Jordan</country-name>
       <principal-cave-name>Al-Fahda Cave (Lioness Cave)</principal-cave-name>
@@ -25406,35 +25753,33 @@
       <cave-type>lava tunnel</cave-type>
       <reference>Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf</reference>
    </record>
-   
    <record>
       <country-name>Kenya</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Mt. Elgon</phys-area-name>
       <principal-cave-name>Kitum Cave (Place of the Ceremonies)</principal-cave-name>
-      <length></length>
+      <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>Middleton (1999) http://www.vulcanospeleology.org/1998.pdf</reference>
    </record>
    <record>
       <country-name>Kenya</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Mt. Elgon</phys-area-name>
       <principal-cave-name>Makingen Cave</principal-cave-name>
-      <length></length>
+      <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>Middleton (1999) http://www.vulcanospeleology.org/1998.pdf</reference>
    </record>
    <record>
       <country-name>Kenya</country-name>
-      <state-or-province></state-or-province>
+      <state-or-province/>
       <phys-area-name>Mt. Elgon</phys-area-name>
       <principal-cave-name>Chepyanili Caves</principal-cave-name>
-      <length></length>
+      <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>Middleton (1999) http://www.vulcanospeleology.org/1998.pdf</reference>
    </record>
-   
    <record>
       <country-name>Korea, Republic of</country-name>
       <state-or-province>Jeju province</state-or-province>
@@ -25458,7 +25803,6 @@
       <reference>Lee et al. (2013) doi:10.1016/j.nimb.2012.09.029</reference>
       <reference>Woo et al. (2019) doi:10.1007/s12371-018-0315-y</reference>
    </record>
-
    <record>
       <country-name>Russia</country-name>
       <phys-area-name>Kamchatka peninsula; Gorley-3 volcano</phys-area-name>
@@ -25485,7 +25829,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>Abdullin (2013) Cave Karst Sci. 40(3), 141</reference>
    </record>
-
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife; Frontera</state-or-province>
@@ -25507,7 +25850,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
    </record>
-   
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Campania; Naples</state-or-province>
@@ -25524,7 +25866,6 @@
       <reference>https://www.mindat.org/loc-2072.html</reference>
       <reference>Forti et al. (1994) http://vulcanospeleology.org/sym07/ISV7x06.pdf</reference>
    </record>
-      
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Ka'u District</state-or-province>
@@ -25593,7 +25934,7 @@
       <phys-area-name>Hawaii (Big Island); Mauna Loa; South Point</phys-area-name>
       <principal-cave-name>Waipouli Mauka</principal-cave-name>
       <other-cave-name>Dark Water Cave</other-cave-name>
-      <length></length>
+      <length/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>perennially part-submerged</contents>
@@ -25675,14 +26016,13 @@
       <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Ola'a Cave</principal-cave-name>
       <length>11751</length>
-      <vertical-extent></vertical-extent>
+      <vertical-extent/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <cave-system>Kazumura Cave</cave-system>
       <reference>Bunnell and Liebman (1992) http://www.vulcanospeleology.org/sym06/ISV6x06.pdf</reference>
       <reference>Allred and Allred (1997) J. Cave Karst Stds. 59, 67-80 https://digital.lib.usf.edu/content/SF/S0/05/24/66/00001/K26-02017-V59N2-Allred.pdf</reference>
    </record>
-
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Maui County</state-or-province>
@@ -25715,7 +26055,7 @@
       <other-cave-name>Ka Lua o Kahoalii</other-cave-name>
       <length/>
       <rock-type>basalt</rock-type>
-      <contents></contents>
+      <contents/>
       <comments>within Kauhako Crater</comments>
       <reference>Coombs et al. (1990) http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1990LPSC...20..195C</reference>
       <reference>Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32</reference>
@@ -25726,7 +26066,7 @@
       <state-or-province>Maui County</state-or-province>
       <phys-area-name>Molokai; Pakaupapa peninsula</phys-area-name>
       <principal-cave-name>Kauhako Crater</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <other-cave-name/>
       <length/>
       <vertical-extent>248</vertical-extent>
       <rock-type>basalt</rock-type>
@@ -25746,9 +26086,9 @@
       <other-cave-name>Old Lady Cave</other-cave-name>
       <altitude>15</altitude>
       <length/>
-      <rock-type></rock-type>
+      <rock-type/>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents/>
       <reference>Coombs et al. (1990) http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1990LPSC...20..195C</reference>
       <reference>Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32</reference>
    </record>
@@ -25763,9 +26103,9 @@
       <other-cave-name>Cave #312</other-cave-name>
       <cave-id>60-03-312</cave-id>
       <length/>
-      <rock-type></rock-type>
+      <rock-type/>
       <cave-type>lava tunnel</cave-type>
-      <contents></contents>
+      <contents/>
       <reference>Howarth et al. (2020) http://hbs.bishopmuseum.org/pubs-online/pdf/op129p37-54.pdf</reference>
       <reference>Hoch and Howarth (1999) doi:10.1111/j.1096-3642.1999.tb01381.x</reference>
       <reference>Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32</reference>
@@ -25777,13 +26117,13 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii Island; Kilauea; 17 Mile Crack</phys-area-name>
       <principal-cave-name>Pit H Cave</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <other-cave-name/>
       <altitude/>
       <length>600</length>
       <vertical-extent>183</vertical-extent>
       <rock-type>basalt</rock-type>
       <cave-type>misc. type</cave-type>
-      <contents></contents>
+      <contents/>
       <reference>Halliday (2002) AMCS Bull. 19, 57-63</reference>
    </record>
    <record>
@@ -25791,13 +26131,13 @@
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii Island; Kilauea; 17 Mile Crack</phys-area-name>
       <principal-cave-name>Wood Valley Pit Crater Complex</principal-cave-name>
-      <other-cave-name></other-cave-name>
+      <other-cave-name/>
       <altitude/>
       <length/>
       <vertical-extent>~90</vertical-extent>
       <rock-type>basalt</rock-type>
       <cave-type>misc. type</cave-type>
-      <contents></contents>
+      <contents/>
       <comments>includes tube segments</comments>
       <reference>Halliday (2002) AMCS Bull. 19, 57-63</reference>
       <reference>Favre (1993) http://www.vulcanospeleology.org/sym03/ISV3x08.pdf</reference>
@@ -25807,11 +26147,10 @@
       <state-or-province>Hawaii; Kauai County</state-or-province>
       <phys-area-name>Ka'ula Island</phys-area-name>
       <principal-cave-name>Kahalauaola (Shark Cave)</principal-cave-name>
-      <length></length>
+      <length/>
       <cave-type>sea cave</cave-type>
       <reference>https://en.wikipedia.org/wiki/Ka%CA%BBula</reference>
    </record>
-
    <record>
       <country-name>Viet Nam</country-name>
       <state-or-province>Đắk Nông; Dak Sor</state-or-province>

@@ -124,7 +124,15 @@ for item in root.findall('record'):
 
     if str1 or str2 or str3:
         f.write('<br>' + str1 + str2 + str3)
-            
+
+    mali = item.findall('map-link')
+    if mali:
+        f.write('<br>')
+        for j in range(0,len(mali)):
+            uri = mali[j].text
+            if uri:
+                f.write('<a href="' + uri + '">map</a> ')
+        
     roty = item.findall('rock-type')
     rostr = merge_elements(roty)
     if rostr:

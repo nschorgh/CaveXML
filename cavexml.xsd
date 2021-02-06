@@ -349,7 +349,8 @@
 		  minOccurs="0" maxOccurs="1" default="~0"/>
       <xs:element name = "number-of-entrances" type = "ExtendedUnsignedInteger"
 		  minOccurs="0" maxOccurs="1" default="1"/>
-
+      <xs:element name = "map-link" type = "xs:anyURI" minOccurs="0" maxOccurs="unbounded"/>
+      
       <xs:element name = "rock-type" minOccurs="0" maxOccurs="unbounded">
 	<xs:simpleType>
 	  <xs:restriction base="xs:token">

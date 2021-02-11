@@ -66,7 +66,28 @@ def parse_AltitudeEntry(alt):
     for i in range(0,len(alt)):
         outstr = alt[i].text
         if outstr is not None:
-            if "-" in outstr or "–" in outstr or "—" in outstr: # altitude range
+            outstr = outstr.strip()
+            
+            if outstr[0]=='-': # negative integer with comment
+                number = [int(s) for s in re.findall(r'\b\d+\b',outstr)]
+                number = -number[0]
+                approx = True
+                if number<lownumber:
+                    lownumber = number
+                if number>highnumber:
+                    highnumber = number
+                break # not a range
+                       
+            if outstr[0]=='~' and outstr[1]=='-': # approximate negative integer with comment
+                number = [int(s) for s in re.findall(r'\b\d+\b',outstr)]
+                number = -number[0]
+                if number<lownumber:
+                    lownumber = number
+                if number>highnumber:
+                    highnumber = number
+                break # not a range
+            
+            if "-" in outstr or "–" in outstr or "—" in outstr: # range
                 if "-" in outstr: # hyphen-minus (ASCII)
                     hyphen = '-'
                 if "–" in outstr: # en-dash
@@ -79,8 +100,8 @@ def parse_AltitudeEntry(alt):
                     lownumber = minalt
                 if maxalt>highnumber:
                     highnumber = maxalt
+                    
             else:  # ExtendedUnsignedInteger optionally followed by comment
-                outstr = outstr.strip()
                 if len(outstr.split(' '))>1:  
                     outstr = outstr.split(' ')[0]  # strip comment
                 number, approx, qual = parse_ExtendedUnsignedInteger(outstr)

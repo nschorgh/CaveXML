@@ -5703,7 +5703,7 @@
    <record>
       <country-name>Slovenia</country-name>
       <state-or-province/>
-      <phys-area-name/>
+      <phys-area-name>Trnovski gozd</phys-area-name>
       <principal-cave-name>Paradana Ice Cave</principal-cave-name>
       <other-cave-name>Great Ice Cave in Paradana</other-cave-name>
       <other-cave-name>Velika ledena jama v Paradani</other-cave-name>
@@ -5712,6 +5712,7 @@
       <altitude>1130</altitude>
       <length>6534</length>
       <vertical-extent>858</vertical-extent>
+      <number-of-entrances>1</number-of-entrances>
       <rock-type/>
       <contents>permanent ice</contents>
       <comments/>
@@ -5737,7 +5738,7 @@
       <country-name>Slovenia</country-name>
       <state-or-province/>
       <phys-area-name></phys-area-name>
-      <principal-cave-name>Ledena jama pri Pgraji</principal-cave-name>
+      <principal-cave-name>Ledena jama pri Ograji</principal-cave-name>
       <other-cave-name/>
       <latitude/>
       <longitude/>
@@ -5761,6 +5762,7 @@
       <vertical-extent>70</vertical-extent>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
+      <comments>simple pit; note the low altitude</comments>
       <reference>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</reference>
    </record>
 
@@ -6104,11 +6106,12 @@
       <longitude>106.7</longitude>
       <altitude>2450</altitude>
       <length/>
-      <vertical-extent></vertical-extent>
+      <vertical-extent>90</vertical-extent>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <comments>16m high ice cone; external annual mean temperature is 11.5C</comments>
       <reference>Yang and Shi (2019) DOI:10.5772/intechopen.89178</reference>
+      <reference>https://www.grottes-et-karsts-de-chine.org/npds/gkc_rsd_gro.php?gro_id=2605%26gro_id_res=2605%26gro_nom=Zibaishan%20ice%20cave</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
 
@@ -8015,10 +8018,12 @@
       <length>245</length>
       <vertical-extent>33</vertical-extent>
       <rock-type>limestone</rock-type>
+      <cave-type>solution cave</cave-type>
       <contents>permanent ice</contents>
       <comments>Carboniferous age; strong air flow, abundant thick persistent ice deposits</comments>
       <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
       <reference>Munroe (2020) doi:10.5194/tc-2020-152</reference>
+      <reference>Munroe (2021) doi:10.5194/tc-15-863-2021</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -9303,6 +9308,27 @@
       <length>117</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=805</reference>
+      <reference>Kempe and Ketz-Kempe (1992) http://vulcanospeleology.org/sym06/ISV6x05.pdf</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Hawaii; Ka'u District</state-or-province>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
+      <phys-area-name>Hilina Pali; Charcoal cave system</phys-area-name>
+      <principal-cave-name>Charcoal Cave</principal-cave-name>
+      <other-cave-name>Keana Momoku Ahi</other-cave-name>
+      <length></length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Kempe and Ketz-Kempe (1992) http://vulcanospeleology.org/sym06/ISV6x05.pdf</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Hawaii; Ka'u District</state-or-province>
+      <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
+      <phys-area-name>Hilina Pali; Charcoal cave system</phys-area-name>
+      <principal-cave-name>Calabash Cave</principal-cave-name>
+      <length></length>
+      <cave-type>lava tunnel</cave-type>
       <reference>Kempe and Ketz-Kempe (1992) http://vulcanospeleology.org/sym06/ISV6x05.pdf</reference>
    </record>
    <record>
@@ -13755,9 +13781,36 @@
       <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Ka'u District</state-or-province>
       <phys-area-name>Hawaii Island; Kilauea; Hilina Pali</phys-area-name>
+      <phys-area-name>Earthquake Tube System</phys-area-name>
+      <principal-cave-name>Upper Earthquake Cave</principal-cave-name>
+      <length>38</length>
+      <vertical-extent></vertical-extent>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Kempe and Ketz-Kempe (1992) http://vulcanospeleology.org/sym06/ISV6x05.pdf</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Hawaii; Ka'u District</state-or-province>
+      <phys-area-name>Hawaii Island; Kilauea; Hilina Pali</phys-area-name>
+      <phys-area-name>Earthquake Tube System</phys-area-name>
       <principal-cave-name>Earthquake Cave</principal-cave-name>
-      <length>338</length>
-      <map-link/>
+      <length>228</length>
+      <vertical-extent></vertical-extent>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=731</reference>
+      <reference>Kempe and Ketz-Kempe (1992) http://vulcanospeleology.org/sym06/ISV6x05.pdf</reference>
+      <reference>Kempe and Ketz-Kempe (1992) http://vulcanospeleology.org/sym06/ISV6x08.pdf</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Hawaii; Ka'u District</state-or-province>
+      <phys-area-name>Hawaii Island; Kilauea; Hilina Pali</phys-area-name>
+      <phys-area-name>Earthquake Tube System</phys-area-name>
+      <principal-cave-name>Lower Earthquake Cave</principal-cave-name>
+      <length>64</length>
+      <vertical-extent/>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=731</reference>
@@ -18172,6 +18225,7 @@
       <phys-area-name>Hilina Pali; Charcoal cave system</phys-area-name>
       <principal-cave-name>Ledge Cave</principal-cave-name>
       <length>185</length>
+      <number-of-entrances>1</number-of-entrances>
       <cave-type>lava tunnel</cave-type>
       <contents>charcoal</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=803</reference>
@@ -25944,7 +25998,7 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Hawaii</state-or-province>
+      <state-or-province>Hawaii; Ka'u District</state-or-province>
       <phys-area-name>Hawaii (Big Island); Mauna Loa</phys-area-name>
       <principal-cave-name>Keokeo Cave System</principal-cave-name>
       <length> ~40600</length>
@@ -26456,7 +26510,37 @@
      <comments/>
      <reference>Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008</reference>
    </record>
-
+   <record>
+     <country-name>Moon</country-name>
+     <principal-cave-name>Hare Igenii Hole</principal-cave-name>
+     <latitude>-35.6</latitude>
+     <longitude>166.0</longitude>
+     <altitude>-3620</altitude>
+     <vertical-extent> >45</vertical-extent>
+     <reference>Haruyama et al. (2012) https://doi.org/10.1007/978-3-642-27969-0_6</reference>
+   </record>
+   <record>
+     <country-name>Moon</country-name>
+     <phys-area-name/>
+     <principal-cave-name>Hare Tranquillitatis Hole</principal-cave-name>
+     <latitude>8.3</latitude>
+     <longitude>33.2</longitude>
+     <altitude>-770</altitude>
+     <vertical-extent> >107</vertical-extent>
+     <reference>Haruyama et al. (2012) https://doi.org/10.1007/978-3-642-27969-0_6</reference>
+   </record>
+   <record>
+     <country-name>Moon</country-name>
+     <phys-area-name>Philolaus Crater</phys-area-name>
+     <principal-cave-name>Philolaus Lava Tube</principal-cave-name>
+     <latitude>72.1</latitude>
+     <longitude>-32.5</longitude>
+     <altitude/>
+     <vertical-extent/>
+     <number-of-entrances>3+</number-of-entrances>
+     <cave-type>lava tunnel</cave-type>
+     <reference>Lee et al. (2018) https://www.hou.usra.edu/meetings/lpsc2018/pdf/2982.pdf</reference>
+   </record>
 
    <record>
      <country-name>Mars</country-name>

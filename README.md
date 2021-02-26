@@ -13,8 +13,8 @@ The most important files:
 
 Auxiliary files:  
    `cavexml-db-table.css`	  (minimalist Style Sheet so the XML database can be viewed in a webbrowser)  
-   `Derivatives/allcaves-database.json` (JSON version of the database generated from the XML version)  
-   `Derivatives/allcaves-database.md` (Full records in Markdown format, generated from the XML version)  
+   `Derivatives/allcaves-database.md` (Full records in Markdown format, generated from the XML version)
+   `Derivatives/list-of*.md`	  (various lists of selected entries from the database)  
    `Utilities/cavexml2csv.py`     (converts database to comma-separated-values using Python)  
    `Utilities/cavexml2html.py`    (outputs full records in HTML format)  
    `Utilities/cavexml2kml.py`	  (converts coordinates in CaveXML entries into KML format)  
@@ -37,7 +37,7 @@ Users can open `allcaves-database.csv` as a spreadsheet. `cavexml-numeric.py` ge
 
 The Python programs serve as examples for how a CaveXML database can be loaded and analyzed within Python. Parsing functions for quasi-numerical entries are found in `cavexml.py`, which also contains many other functions useful for working with CaveXML data.
 
-`cavexml.xsd` incorporates all CaveXML requirements. The following validates a database against the Schema:  
+The XML schema definition `cavexml.xsd` incorporates all CaveXML requirements. The following validates a database against the Schema:  
 
     xmllint --schema cavexml.xsd allcaves-database.xml -noout  
 

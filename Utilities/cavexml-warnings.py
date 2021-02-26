@@ -13,7 +13,11 @@ tree = xml.etree.ElementTree.parse('../allcaves-database.xml')
 
 root = tree.getroot()
 
-
+# elements with maxOccurs>1
+multipleelements = ['country-name','state-or-province','phys-area-name',
+                    'other-cave-name','cave-id','altitude','map-link',
+                    'rock-type','cave-type','contents','branch-name',
+                    'reference','cave-use','curation']  
 
 count = 0
 
@@ -72,11 +76,12 @@ for item in root.findall('record'):
         if lennumb<vexnumb:
             print('WARNING: Length is smaller than vertical extent',leng.text,vex.text)
 
-    rot = item.findall('rock-type')
-    for i in range(0,len(rot)):
-        for j in range(0,i):
-            if rot[i].text == rot[j].text:
-                print('WARNING: duplicate rock-type entry in',acavename)
+    for k in range(0,len(multipleelements)):
+        rot = item.findall(multipleelements[k])
+        for i in range(0,len(rot)):
+            for j in range(0,i):
+                if rot[i].text == rot[j].text:
+                    print('WARNING: duplicate entry for',multipleelements[k],'in',acavename)
 
     ref = item.find('reference')
     try:
@@ -91,7 +96,7 @@ for item in root.findall('record'):
         refstr = ref[i].text
         if refstr is None:
             continue
-        if '//doi:' in refstr or 'doi.org:' in refstr: # should be doi: or https://doi.org/
+        if ('//doi:' in refstr) or ('doi.org:' in refstr): # should be doi: or https://doi.org/
             print('Malformatted doi', refstr)
         if 'doi' in refstr.lower():
             if 'DOI' not in refstr and 'doi' not in refstr:  # excludes combinations such as DOi, doI

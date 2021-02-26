@@ -71,8 +71,8 @@ UISIC field [CA511](http://www.uisic.uis-speleo.org/exchange/atendefn.html#511)
 The total number of entrances to the cave, whether they are numbered or not. Normally provided only if there is more than one entrance. This is usually a positive integer, but expressions such as \>5, 10+, and ~100 are allowed.  
 UISIC field [CA9](http://www.uisic.uis-speleo.org/exchange/atendefn.html#9)
 
-**\<map-link\>** *anyURI*  
-A Uniform Resource Identifier (URI) that points to a map of the cave, in form of an image or in form of geospatial data. A common type of entry for [map-link] is a Uniform Resource Locator (URL) that points to a cave map on the internet, e.g., http://www.mexicancaves.org/maps/1944.pdf. The only syntactic restriction is the exclusion of certain special characters that are not allowed in URIs. Items that do *not* belong in this field are URIs to multi-page documents, articles that contain maps (these belong to [reference]), and maps of cave entrance locations.
+**\<map-link\>**  *anyURI*  
+A Uniform Resource Identifier (URI) that points to a map of the cave, in form of an image or in form of geospatial data. A common type of entry for [map-link] is a Uniform Resource Locator (URL) that points to a cave map on the internet, e.g., http://www.mexicancaves.org/maps/1944.pdf. The only syntactic restriction is the exclusion of certain special characters that are not allowed in URIs. Items that belong in this field are single-page maps and digital (geometric) survey data. Items that do *not* belong in this field are URIs to multi-page documents, articles that contain maps (these belong to [reference]), and maps of cave entrance locations.
 
 **\<rock-type\>**  *controlled vocabulary*  
 Type(s) of rock in which the cave or karst feature is formed from, selected from a pre-defined list of options.
@@ -116,7 +116,7 @@ Syntax rules (in support of parsing and querying)
 
 -   Elements with *maxOccurs=1* can appear at most once within a record, whereas the default is *maxOccurs=unbounded*. (The UISIC refers to this as multi-valued, as opposed to single-valued.)
 
--   CaveXML defines only these 22 elements, although additional elements may be added in future. No other elements are allowed, but there may be ways of adding a second namespace.
+-   CaveXML defines only these 22 elements, although additional elements may be added in future. No other elements are allowed, but there may be ways of adding a another namespace.
 
 -   The elements must appear in the order listed above.
 
@@ -216,10 +216,10 @@ There is another aspect to not using the cave id as part of a record identifier.
 
 When a cave system consists of several branches that have their own record in the database, they can be cross-linked. The elements [cave-system] and [branch-name] point to a [principal-cave-name], but cave names might not be unique, even within the same country, so a more sophisticated approach is needed to unambiguously cross-link a cave system with its branches.  When [cave-system] points to a [principal-cave-name], that record should include a [branch-name] that points back to the [principal-cave-name] of the referring record. This two-way reference guarantees that correct cross links have been established.  
 
-CaveXML allows [cave-system] and [branch-name] to both be present simultaneously in the same record, and hence a hierarchy of levels is possible. However, since at most one [cave-system] entry is allowed in a record, it can only refer to the next-highest level in the hierarchy. Multiple [branch-name] entries are allowed, so a reference could be made to a branch that is more than one hierarchical level below, but that entry cannot be back-linked, so listing second-order branches in a single record would be of limited usefulness. In the terminology of data structures, cave systems are organized as trees, not as graphs.  
+CaveXML allows [cave-system] and [branch-name] to both be present simultaneously in the same record, and hence a hierarchy of levels is possible. However, since at most one [cave-system] entry is allowed in a record, it can only refer to the next-highest level in the hierarchy. Multiple [branch-name] entries are allowed, so a reference could be made to a branch that is more than one hierarchical level below, but that entry cannot be back-linked, so listing second-order branches in a single record would be of limited usefulness. In the terminology of data structures, cave systems are organized as trees, not as graphs. Organizing cave branches as trees rather than as undirected graphs is a natural choice, because the XML data model itself corresponds to hierarchical trees. Records of branches function as nested XML records would.   
 
 
-**Character string normalization in support of search queries**
+**Character string normalization in support of search queries (approximate matching)**
 
 Cave names may be written with the characters of the local language, and use of the UTF-8 character set (Unicode) makes this possible. For searches, however, one may prefer to use a more restricted character set, perhaps only the 26 letters of the English alphabet that are contained in the ASCII character set. For example, Scărişoara Cave in Romania should be found in the database by just typing Scarisoara. In Hawaii there is a cave named Kaʻūpūlehu, which one would want to find by just typing Kaupulehu. For this purpose, a function is needed that reduces words written with Unicode characters to an ASCII character set. (Variations in spelling can be entered in the field [other-cave-name], but entering all conceivable variants would be onerous and unnecessary.)  
 

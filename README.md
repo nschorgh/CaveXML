@@ -44,3 +44,8 @@ The XML schema definition `cavexml.xsd` incorporates all CaveXML requirements. T
 Alternatively, various online tools can be used to validate an XML database against an XSD document.  
 
 
+## Acknowledgments
+
+Thanks to Jean-Marc Vanel for help with XML and XQuery - March 2021
+
+

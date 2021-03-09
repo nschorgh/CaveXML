@@ -19,7 +19,7 @@ Auxiliary files:
    `Utilities/cavexml2csv.py`     (converts database to comma-separated-values using Python)  
    `Utilities/cavexml2html.py`    (outputs full records in HTML format)  
    `Utilities/cavexml2kml.py`	  (converts coordinates in CaveXML entries into KML format)  
-   `Utilities/cavexml2md.py`      (creates filtered list of entries in Markdown format)
+   `Utilities/cavexml2md.py`      (creates filtered list of entries in Markdown format)  
    `Utilities/cavexml2md-full.py` (creates allcaves-database.md)  
    `Utilities/CaveXML2rdf.xquery` (converts database to XML/RDF using XQuery)  
    `Utilities/cavexml-numeric.py` (parses and outputs quasi-numerical entries)  

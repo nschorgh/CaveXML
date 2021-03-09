@@ -239,7 +239,6 @@
       <phys-area-name>Untersberg</phys-area-name>
       <principal-cave-name>Gamslöcher-Kolowrat-Höhlensystem</principal-cave-name>
       <cave-id>1339/1-S</cave-id>
-      <cave-id>1339/1</cave-id>
       <latitude/>
       <longitude/>
       <length>44003</length>
@@ -582,7 +581,6 @@
       <principal-cave-name>Eisrohrhöhle-Bammelschacht-System</principal-cave-name>
       <other-cave-name/>
       <cave-id>1337/118-S</cave-id>
-      <cave-id>1337/118</cave-id>
       <altitude/>
       <length>7861</length>
       <vertical-extent>496</vertical-extent>

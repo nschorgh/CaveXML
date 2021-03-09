@@ -200,8 +200,7 @@
       <dct:references>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</dct:references>
       <dct:references>https://de.wikipedia.org/wiki/Kolowratsh%C3%B6hle</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#"
-                                rdf:ID="1339/1-S 1339/1">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="1339/1-S">
       <schema:addressCountry xmlns:schema="https://schema.org/">Austria</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Salzburg</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Untersberg</schema:addressLocality>
@@ -431,8 +430,7 @@
       <dct:references>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</dct:references>
       <dct:references>Wisshak et al. (2013) https://www.zobodat.at/pdf/Hoehle_064_0090-0105.pdf</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#"
-                                rdf:ID="1337/118-S 1337/118">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="1337/118-S">
       <schema:addressCountry xmlns:schema="https://schema.org/">Germany</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Bayern</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Reiteralm; Berchtesgaden Alps</schema:addressLocality>

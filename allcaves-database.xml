@@ -238,6 +238,7 @@
       <state-or-province>Salzburg</state-or-province>
       <phys-area-name>Untersberg</phys-area-name>
       <principal-cave-name>Gamslöcher-Kolowrat-Höhlensystem</principal-cave-name>
+      <cave-id>1339/1-S</cave-id>
       <cave-id>1339/1</cave-id>
       <latitude/>
       <longitude/>
@@ -253,6 +254,7 @@
       <reference>Neubauer (2010) DOI:10.5038/1827-806X.40.2.4</reference>
       <reference>https://hoehle.org/laengste-tiefste</reference>
       <reference>Bieniok et al. (2011) doi:10.5038/1827-806X.40.2.4</reference>
+      <curation>'S' appended to cave-id</curation>
    </record>
    <record>
       <country-name>Austria</country-name>
@@ -579,6 +581,7 @@
       <phys-area-name>Reiteralm; Berchtesgaden Alps</phys-area-name>
       <principal-cave-name>Eisrohrhöhle-Bammelschacht-System</principal-cave-name>
       <other-cave-name/>
+      <cave-id>1337/118-S</cave-id>
       <cave-id>1337/118</cave-id>
       <altitude/>
       <length>7861</length>
@@ -588,6 +591,7 @@
       <branch-name>Eisrohrhöhle</branch-name>
       <branch-name>Bammelschacht</branch-name>
       <reference>Wisshak et al. (2013) https://www.zobodat.at/pdf/Hoehle_064_0090-0105.pdf</reference>
+      <curation>'S' appended to cave-id</curation>
    </record>
    <record>
       <country-name>Germany</country-name>

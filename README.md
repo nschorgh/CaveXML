@@ -13,16 +13,19 @@ The most important files:
 
 Auxiliary files:  
    `cavexml-db-table.css`	  (minimalist Style Sheet so the XML database can be viewed in a webbrowser)  
-   `Derivatives/allcaves-database.md` (Full records in Markdown format, generated from the XML version)
+   `Derivatives/allcaves-database.md` (Full records in Markdown format, generated from the XML version)  
+   `Derivatives/allcaves-database.rdf` (XML/RDF version of database for KarstLink)  
    `Derivatives/list-of*.md`	  (various lists of selected entries from the database)  
    `Utilities/cavexml2csv.py`     (converts database to comma-separated-values using Python)  
    `Utilities/cavexml2html.py`    (outputs full records in HTML format)  
    `Utilities/cavexml2kml.py`	  (converts coordinates in CaveXML entries into KML format)  
-   `Utilities/cavexml2md.py`      (creates filtered list of entries in Markdown format)  
+   `Utilities/cavexml2md.py`      (creates filtered list of entries in Markdown format)
    `Utilities/cavexml2md-full.py` (creates allcaves-database.md)  
+   `Utilities/CaveXML2rdf.xquery` (converts database to XML/RDF using XQuery)  
    `Utilities/cavexml-numeric.py` (parses and outputs quasi-numerical entries)  
    `Utilities/cavexml-warnings.py`   (issues informative warnings)   
-   `Utilities/cavesystemfinder.py`   (connects cave branches with cave systems)   
+   `Utilities/cavesystemfinder.py`   (connects cave branches with cave systems)  
+   `Utilities/filter.xquery`      (creates simple filtered list of entries using XQuery)  
    `Utilities/reorder.xslt`    	  (sorts elements within each record)  
 
 This is a pilot project to explore the capabilities of a CaveXML implementation end-to-end. The actual database is for demonstration, and mainly contains ice caves and lava tubes.

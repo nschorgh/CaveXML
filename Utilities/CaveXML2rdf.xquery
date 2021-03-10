@@ -28,7 +28,7 @@ declare function local:processTag($tags as element()*, $inputElementName as xs:s
 };
 
 declare function local:processRecord($rec as element()) as element()* {
-  let $cave-id := $rec/cave-id
+  let $cave-id := $rec/cave-id[1]
   return
   <karstlink:UndergroundCavity>
     {

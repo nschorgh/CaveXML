@@ -16180,8 +16180,7 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references>https://rpif.asu.edu/LTdatabase/result.php?RECNO=203</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#"
-                                rdf:ID="NGR-436547 360/1-4">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="NGR-436547">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Eastern Province; Machakos District</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Chyulu Hills</schema:addressLocality>

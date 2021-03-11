@@ -13,6 +13,7 @@ declare namespace dct = "http://purl.org/dc/terms/" ;
 declare namespace rdfs=" http://www.w3.org/2000/01/rdf-schema#" ;
 declare namespace cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#" ;
 declare namespace xsd="http://www.w3.org/2001/XMLSchema#" ;
+declare namespace bibo="http://purl.org/ontology/bibo/" ;
 
 declare function local:processRoot($doc as node()) as element()* {
     for $rec in $doc/CaveDataBase/record
@@ -25,6 +26,23 @@ declare function local:processTag($tags as element()*, $inputElementName as xs:s
         if($tag / text() != "" ) then
           element { $inputElementName } { $tag / text() } 
         else ()
+};
+
+declare function local:processReferences($tags as element()*) as element()* {
+  for $tag in $tags
+    return local:processReference($tag)
+};
+
+declare function local:processReference($tag as element() ) as element()* {
+  if($tag / text() != "" ) then
+    if( fn:starts-with($tag / fn:lower-case(text()), "http://") or
+        fn:starts-with($tag / fn:lower-case(text()), "https://") or
+	fn:starts-with($tag / fn:lower-case(text()), "ftp://")	
+    ) then
+      <dct:references rdf:about="{$tag / text()}" />
+    else
+      element dct:references { $tag / text() }
+  else ()
 };
 
 declare function local:processRecord($rec as element()) as element()* {
@@ -47,14 +65,14 @@ declare function local:processRecord($rec as element()) as element()* {
     { local:processTag( $rec/length, "karstlink:length" ) }
     { local:processTag( $rec/vertical-extent, "karstlink:verticalExtent" ) }
     { local:processTag( $rec/number-of-entrances, "cavexml:number-of-entrances" ) }
-    { local:processTag( $rec/map-link, "cavexml:map-link" ) }
+    { local:processTag( $rec/map-link, "bibo:Map" ) }
     { local:processTag( $rec/rock-type, "cavexml:rock-type" ) }
     { local:processTag( $rec/cave-type, "cavexml:cave-type" ) }
     { local:processTag( $rec/contents, "cavexml:contents" ) }
     { local:processTag( $rec/comments, "rdfs:comment" ) }
     { local:processTag( $rec/cave-system, "schema:containedInPlace" ) }
     { local:processTag( $rec/branch-name, "karstlink:relatedToUndergroundCavity" ) }
-    { local:processTag( $rec/reference, "dct:references" ) }
+    { local:processReferences( $rec/reference ) }
     { local:processTag( $rec/cave-use, "cavexml:cave-use" ) }
     { local:processTag( $rec/curation, "cavexml:curation" ) }
   </karstlink:UndergroundCavity>

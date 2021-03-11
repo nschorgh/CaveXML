@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:void="http://rdfs.org/ns/void#"
+>
+  <foaf:Document rdf:about="https://github.com/nschorgh/CaveXML/raw/master/Derivatives/metadata.rdf">
+    <void:uriRegexPattern
+      rdf:resource="https://github.com/nschorgh/CaveXML/raw/master/Derivatives/allcaves-database.rdf#.*"/>
+    <rdfs:label>First CaveXML Database</rdfs:label>
+    <rdfs:comment xml:lang="en">The database includes: ice caves, lava tubes (volcanic caves),
+    and extraterrestrial caves (Moon, Mars).</rdfs:comment>
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Speleology"/>
+    <void:sparqlEndpoint rdf:resource="https://data.grottocenter.org/sparql"/>
+    <void:uriSpace>https://github.com/nschorgh/CaveXML/raw/master/Derivatives/allcaves-database.rdf#</void:uriSpace>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <void:dataDump
+      rdf:resource="https://github.com/nschorgh/CaveXML/raw/master/Derivatives/allcaves-database.rdf"/>
+    <void:distinctSubjects>2207</void:distinctSubjects>
+    <void:classes>1</void:classes>
+    <void:class rdf:resource="https://ontology.uis-speleo.org/ontology/#UndergroundCavity" />
+    <rdfs:seeAlso rdf:resource="https://github.com/nschorgh/CaveXML" />
+  </foaf:Document>
+</rdf:RDF>

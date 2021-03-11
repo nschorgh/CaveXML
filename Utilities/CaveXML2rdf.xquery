@@ -13,7 +13,6 @@ declare namespace dct = "http://purl.org/dc/terms/" ;
 declare namespace rdfs=" http://www.w3.org/2000/01/rdf-schema#" ;
 declare namespace cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#" ;
 declare namespace xsd="http://www.w3.org/2001/XMLSchema#" ;
-declare namespace bibo="http://purl.org/ontology/bibo/" ;
 
 declare function local:processRoot($doc as node()) as element()* {
     for $rec in $doc/CaveDataBase/record
@@ -30,7 +29,18 @@ declare function local:processTag($tags as element()*, $inputElementName as xs:s
 
 declare function local:processReferences($tags as element()*) as element()* {
   for $tag in $tags
-    return local:processReference($tag)
+    return local:processReference2($tag)
+};
+
+declare function local:processReference2($tag as element() ) as element()* {
+  let $text := $tag / text()
+  return
+    if($text != "" ) then
+      element dct:references {
+        attribute rdf:about {
+          fn:replace($text, ".*(https?://.*)", "$1" ) }
+      }
+    else ()
 };
 
 declare function local:processReference($tag as element() ) as element()* {
@@ -65,7 +75,7 @@ declare function local:processRecord($rec as element()) as element()* {
     { local:processTag( $rec/length, "karstlink:length" ) }
     { local:processTag( $rec/vertical-extent, "karstlink:verticalExtent" ) }
     { local:processTag( $rec/number-of-entrances, "cavexml:number-of-entrances" ) }
-    { local:processTag( $rec/map-link, "bibo:Map" ) }
+    { local:processTag( $rec/map-link, "schema:hasMap" ) }
     { local:processTag( $rec/rock-type, "cavexml:rock-type" ) }
     { local:processTag( $rec/cave-type, "cavexml:cave-type" ) }
     { local:processTag( $rec/contents, "cavexml:contents" ) }

@@ -29,30 +29,21 @@ declare function local:processTag($tags as element()*, $inputElementName as xs:s
 
 declare function local:processReferences($tags as element()*) as element()* {
   for $tag in $tags
-    return local:processReference2($tag)
-};
-
-declare function local:processReference2($tag as element() ) as element()* {
-  let $text := $tag / text()
-  return
-    if($text != "" ) then
-      element dct:references {
-        attribute rdf:about {
-          fn:replace($text, ".*(https?://.*)", "$1" ) }
-      }
-    else ()
+    return local:processReference($tag)
 };
 
 declare function local:processReference($tag as element() ) as element()* {
-  if($tag / text() != "" ) then
-    if( fn:starts-with($tag / fn:lower-case(text()), "http://") or
-        fn:starts-with($tag / fn:lower-case(text()), "https://") or
-	fn:starts-with($tag / fn:lower-case(text()), "ftp://")	
-    ) then
-      <dct:references rdf:about="{$tag / text()}" />
-    else
-      element dct:references { $tag / text() }
-  else ()
+  let $text := $tag / text()
+  return
+    if($text != "" ) then
+      let $possibleURL := fn:replace($text, ".*(https?://.*)", "$1" )
+      return
+        if( fn:starts-with( $possibleURL, "http") ) then
+          element dct:references {
+            attribute rdf:resource { $possibleURL }
+          }
+        else element dct:references { $possibleURL }
+    else ()
 };
 
 declare function local:processRecord($rec as element()) as element()* {

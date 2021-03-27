@@ -500,22 +500,15 @@ def generate_unique_id(item):
     if len(iso2) != 2:
         iso2 = 'XX'
 
-    #try: # use cave-id, if available
-    #    cid = item.find('cave-id')
-    #    uniid = iso2 + '-' + cid.text
-    #    # adding a suffix if the record has a branch
-    #    bn = item.find('branch-name') # this only finds the first
-    #    if bn is not None:
-    #        if bn.text:
-    #            uniid += 'S'
+    try: # use cave-id, if available
+        cid = item.find('cave-id')
+        uniid = iso2 + '-' + cid.text
+        return uniid
+    except:
+        pass
     
     # create hash code based on several entries
     mashup = get_one_cave_name(item)
-    try:
-        cid = item.find('cave-id')
-        mashup += cid.text
-    except:
-        pass
     try:
         province = item.findall('state-or-province')
         prostr = merge_elements(province)

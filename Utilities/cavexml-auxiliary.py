@@ -7,7 +7,7 @@
 import xml.etree.ElementTree as ET
 import csv
 import re
-from cavexml import parse_ExtendedUnsignedInteger, parse_AltitudeEntry
+from cavexml import parse_ExtendedUnsignedInteger, parse_AltitudeEntry, generate_unique_id
 #import unicodedata
 import unidecode
 
@@ -17,19 +17,20 @@ root = tree.getroot()
 
 
 # open files for writing
-thenumbers = open('tmp-numeric.csv', 'w')
+thenumbers = open('tmp-auxiliary.csv', 'w')
 
 # create the csv writer object
 csvwriter_nr = csv.writer(thenumbers)
 
 
 record_head = []
-record_head.append('normalized-cave-name')
-record_head.append('min_altitude')
-record_head.append('max_altitude')
-record_head.append('length')
-record_head.append('vertical-extent')
-record_head.append('number-of-entrances')
+record_head.append('cave-name-ascii')
+record_head.append('min-altitude')
+record_head.append('max-altitude')
+record_head.append('length-nr')
+record_head.append('vertical-extent-nr')
+record_head.append('number-of-entrances-nr')
+record_head.append('record-id')
 csvwriter_nr.writerow(record_head)
 
 
@@ -43,7 +44,7 @@ for item in root.findall('record'):
     try:
         #record_nr.append(pcn.text)
         normname = unidecode.unidecode(pcn.text)
-        normname = re.sub(r'\W+', '', normname).lower() # \W = [^a-zA-Z0-9_]
+        #normname = re.sub(r'\W+', '', normname).lower() # \W = [^a-zA-Z0-9_]
         record_nr.append(normname)
     except:
         record_nr.append("")
@@ -78,11 +79,14 @@ for item in root.findall('record'):
     else:
         record_nr.append("")
 
+    uniid = generate_unique_id(item)
+    record_nr.append(uniid)
+        
 
     csvwriter_nr.writerow(record_nr)
         
 
 
 thenumbers.close()
-print('Wrote file tmp-numeric.csv')
+print('Wrote file tmp-auxiliary.csv')
 print('Number of records:', count)

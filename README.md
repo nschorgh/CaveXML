@@ -22,7 +22,7 @@ Auxiliary files:
    `Utilities/cavexml2md.py`      (creates filtered list of entries in Markdown format)  
    `Utilities/cavexml2md-full.py` (creates allcaves-database.md)  
    `Utilities/CaveXML2rdf.xquery` (converts database to XML/RDF using XQuery)  
-   `Utilities/cavexml-numeric.py` (parses and outputs quasi-numerical entries)  
+   `Utilities/cavexml-auxiliary.py` (creates auxiliary information from database entries)  
    `Utilities/cavexml-warnings.py`   (issues informative warnings)   
    `Utilities/cavesystemfinder.py`   (connects cave branches with cave systems)  
    `Utilities/filter.xquery`      (creates simple filtered list of entries using XQuery)  

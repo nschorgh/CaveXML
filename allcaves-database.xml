@@ -2489,10 +2489,13 @@
       <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude/>
+      <altitude>1165</altitude>
       <length>107</length>
+      <vertical-extent>~30</vertical-extent>
       <contents>permanent ice</contents>
       <reference>Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5</reference>
+      <reference>Bădăluţă et al. (2020) doi:10.5194/cp-16-2445-2020</reference>
+      <reference>Persoiu and Onac (2019) doi:10.1007/978-3-319-90747-5_52</reference>
    </record>
    <record>
       <country-name>Romania</country-name>
@@ -2514,6 +2517,7 @@
       <reference>Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5</reference>
       <reference>Itcus et al. (2018) doi:10.1038/s41598-018-34106-2</reference>
       <reference>Modini et al. (2018) doi:10.1017/aog.2019.6</reference>
+      <reference>Paun et al. (2021) doi:10.1038/s41598-020-79754-5</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
 
@@ -5719,6 +5723,7 @@
       <contents>permanent ice</contents>
       <comments/>
       <reference>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</reference>
+      <reference>Mulec et al. (2021) doi:10.1038/s41598-021-81528-6</reference>
    </record>
    <record>
       <country-name>Slovenia</country-name>
@@ -5779,7 +5784,6 @@
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
-      <reference>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</reference>
    </record>
    <record>
       <country-name>Svalbard and Jan Mayen</country-name>
@@ -5793,7 +5797,6 @@
       <contents>permanent ice</contents>
       <comments>ground ice and hoarfrost</comments>
       <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
-      <reference>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</reference>      
    </record>
    <record>
       <country-name>Svalbard and Jan Mayen</country-name>
@@ -5805,7 +5808,7 @@
       <vertical-extent>1</vertical-extent>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <reference>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</reference>
+      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
    </record>
    <record>
       <country-name>Svalbard and Jan Mayen</country-name>
@@ -5818,7 +5821,6 @@
       <rock-type>limestone</rock-type>
       <comments>ends in hoarfrost and frozen sediment fill</comments>
       <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
-      <reference>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</reference>
    </record>
    <record>
       <country-name>Svalbard and Jan Mayen</country-name>
@@ -5830,7 +5832,7 @@
       <vertical-extent>15</vertical-extent>
       <rock-type>limestone</rock-type>
       <comments></comments>
-      <reference>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</reference>
+      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
    </record>
    <record>
       <country-name>Svalbard and Jan Mayen</country-name>
@@ -5844,7 +5846,6 @@
       <contents>permanent ice</contents>
       <comments>hoarfrosted scallops; ice, snow, and hoarfrost</comments>
       <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
-      <reference>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</reference>
    </record>
    <record>
       <country-name>Svalbard and Jan Mayen</country-name>
@@ -5856,7 +5857,7 @@
       <vertical-extent>3</vertical-extent>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <reference>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</reference>
+      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
    </record>
    <record>
       <country-name>Svalbard and Jan Mayen</country-name>
@@ -5868,7 +5869,7 @@
       <vertical-extent>3</vertical-extent>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
-      <reference>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</reference>
+      <reference>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</reference>
    </record>
    
    <record>
@@ -6120,7 +6121,7 @@
    <record>
       <country-name>India</country-name>
       <state-or-province>Jammu and Kashmir</state-or-province>
-      <phys-area-name>Lidder Valley</phys-area-name>
+      <phys-area-name>Himalayas; Lidder Valley</phys-area-name>
       <principal-cave-name>Amarnath Cave</principal-cave-name>
       <other-cave-name>Holy Cave</other-cave-name>
       <other-cave-name>Shri Amarnath Cave</other-cave-name>
@@ -6128,11 +6129,15 @@
       <longitude>75.5008</longitude>
       <altitude>3888</altitude>
       <length>39</length>
-      <vertical-extent/>
+      <vertical-extent>11</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <rock-type>gypsum</rock-type>
       <contents>permanent ice</contents>
       <comments>cave entrance is blocked by snow most parts of the year; known for about 5000 years; three ice stalagmites</comments>
+      <comments>one of the holiest shrines in Hinduism</comments>
       <reference>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</reference>
       <reference>https://en.wikipedia.org/wiki/Amarnath_Temple</reference>
+      <reference>Dubey et al. (2014) https://doi.org/10.1007/s11164-012-0980-4</reference>
       <cave-use>temple</cave-use>
    </record>
 
@@ -8026,6 +8031,7 @@
       <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
       <reference>Munroe (2020) doi:10.5194/tc-2020-152</reference>
       <reference>Munroe (2021) doi:10.5194/tc-15-863-2021</reference>
+      <reference>Munroe et al. (2021) doi:10.1038/s41598-021-85658-9</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>

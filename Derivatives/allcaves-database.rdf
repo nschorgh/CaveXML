@@ -1798,9 +1798,13 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">Romania</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Apuseni Mountains</schema:addressLocality>
       <rdfs:label>Focul Viu Ice Cave</rdfs:label>
+      <w3geo:altitude>1165</w3geo:altitude>
       <karstlink:length>107</karstlink:length>
+      <karstlink:verticalExtent>~30</karstlink:verticalExtent>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5</dct:references>
+      <dct:references>Bădăluţă et al. (2020) doi:10.5194/cp-16-2445-2020</dct:references>
+      <dct:references>Persoiu and Onac (2019) doi:10.1007/978-3-319-90747-5_52</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Romania</schema:addressCountry>
@@ -1821,6 +1825,7 @@
       <dct:references>Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5</dct:references>
       <dct:references>Itcus et al. (2018) doi:10.1038/s41598-018-34106-2</dct:references>
       <dct:references>Modini et al. (2018) doi:10.1017/aog.2019.6</dct:references>
+      <dct:references>Paun et al. (2021) doi:10.1038/s41598-020-79754-5</dct:references>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -4156,6 +4161,7 @@
       <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Mihevc (2018) doi:10.1016/B978-0-12-811739-2.00030-9</dct:references>
+      <dct:references>Mulec et al. (2021) doi:10.1038/s41598-021-81528-6</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Slovenia</schema:addressCountry>
@@ -4198,7 +4204,6 @@
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</dct:references>
-      <dct:references>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Svalbard and Jan Mayen</schema:addressCountry>
@@ -4211,7 +4216,6 @@
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <rdfs:comment>ground ice and hoarfrost</rdfs:comment>
       <dct:references>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</dct:references>
-      <dct:references>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Svalbard and Jan Mayen</schema:addressCountry>
@@ -4222,7 +4226,7 @@
       <karstlink:verticalExtent>1</karstlink:verticalExtent>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
-      <dct:references>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</dct:references>
+      <dct:references>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Svalbard and Jan Mayen</schema:addressCountry>
@@ -4234,7 +4238,6 @@
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <rdfs:comment>ends in hoarfrost and frozen sediment fill</rdfs:comment>
       <dct:references>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</dct:references>
-      <dct:references>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Svalbard and Jan Mayen</schema:addressCountry>
@@ -4244,7 +4247,7 @@
       <karstlink:length>40</karstlink:length>
       <karstlink:verticalExtent>15</karstlink:verticalExtent>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
-      <dct:references>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</dct:references>
+      <dct:references>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Svalbard and Jan Mayen</schema:addressCountry>
@@ -4257,7 +4260,6 @@
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <rdfs:comment>hoarfrosted scallops; ice, snow, and hoarfrost</rdfs:comment>
       <dct:references>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</dct:references>
-      <dct:references>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Svalbard and Jan Mayen</schema:addressCountry>
@@ -4268,7 +4270,7 @@
       <karstlink:verticalExtent>3</karstlink:verticalExtent>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
-      <dct:references>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</dct:references>
+      <dct:references>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Svalbard and Jan Mayen</schema:addressCountry>
@@ -4279,7 +4281,7 @@
       <karstlink:verticalExtent>3</karstlink:verticalExtent>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
-      <dct:references>Lauritzen (2011) doi:10.5038/1827-806X.35.1.5</dct:references>
+      <dct:references>Lauritzen (2006) doi:10.5038/1827-806X.35.1.5</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Sweden</schema:addressCountry>
@@ -4478,7 +4480,7 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">India</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jammu and Kashmir</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Lidder Valley</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Himalayas; Lidder Valley</schema:addressLocality>
       <rdfs:label>Amarnath Cave</rdfs:label>
       <gn:alternateName>Holy Cave</gn:alternateName>
       <gn:alternateName>Shri Amarnath Cave</gn:alternateName>
@@ -4486,10 +4488,15 @@
       <w3geo:longitude>75.5008</w3geo:longitude>
       <w3geo:altitude>3888</w3geo:altitude>
       <karstlink:length>39</karstlink:length>
+      <karstlink:verticalExtent>11</karstlink:verticalExtent>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">gypsum</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <rdfs:comment>cave entrance is blocked by snow most parts of the year; known for about 5000 years; three ice stalagmites</rdfs:comment>
+      <rdfs:comment>one of the holiest shrines in Hinduism</rdfs:comment>
       <dct:references>Kadebskaya and Mavlydov (2018) doi:10.1016/B978-0-12-811739-2.00021-8</dct:references>
       <dct:references rdf:resource="https://en.wikipedia.org/wiki/Amarnath_Temple"/>
+      <dct:references rdf:resource="https://doi.org/10.1007/s11164-012-0980-4"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">temple</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -5888,6 +5895,7 @@
       <dct:references>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</dct:references>
       <dct:references>Munroe (2020) doi:10.5194/tc-2020-152</dct:references>
       <dct:references>Munroe (2021) doi:10.5194/tc-15-863-2021</dct:references>
+      <dct:references>Munroe et al. (2021) doi:10.1038/s41598-021-85658-9</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>

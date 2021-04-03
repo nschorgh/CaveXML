@@ -2,26 +2,24 @@
 
 # This script outputs lon/lat coordinates from CaveXML entries in KML format'
 
-import xml.etree.ElementTree
+#import xml.etree.ElementTree
+import lxml.etree as etree
 import cavexml
 
 # Enter name of XML database here
-tree = xml.etree.ElementTree.parse('../allcaves-database.xml')
+tree = etree.parse('../allcaves-database.xml')
 
-root = tree.getroot()
+kml_file = "tmp.kml"
 
 excludelist = ['Moon','Mars','Mercury','Venus','Io','Titan']
 
 
-# open file for writing
-f = open('tmp.kml', 'w')
+root = tree.getroot()
+rootout = etree.Element("kml")
+rootout.set("xmlns", "http://www.opengis.net/kml/2.2")
 
-
-# print header lines
-f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-f.write('<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">\n')
-f.write('<Document>\n')
-
+dd = etree.Element("Document")
+rootout.append (dd)
 
 for item in root.findall('record'):
         
@@ -46,25 +44,26 @@ for item in root.findall('record'):
     # Get longitude, if present
     lon_float = -999
     longitude = item.find('longitude')
-    if longitude is not None: # Tag present (but could be empty)
-        if longitude.text is not None:
+    if longitude is not None: # Tag present
+        if longitude.text is not None:  # Tag not empty
             lon_float = longitude.text
 
             
     # Write KML entry
     if lat_float != -999:
-        f.write('  <Placemark>\n')
-        f.write('    <name>'+cavename+'</name>\n')
-        f.write('    <Point>\n')
-        f.write('      <coordinates>'+lon_float+','+lat_float+',0.0</coordinates>\n')
-        f.write('    </Point>\n')
-        f.write('  </Placemark>\n')
 
+        pm = etree.SubElement(dd, "Placemark")
+        if cavename is not None:
+            etree.SubElement(pm, "name").text = cavename
 
+        point = etree.SubElement(pm, "Point")
 
-# close KML file
-f.write('</Document>\n')
-f.write('</kml>\n')
+        mergestr = lon_float+','+lat_float+',0.0'
+        etree.SubElement(point, "coordinates").text = mergestr
+            
+        treeout = etree.ElementTree(rootout)
+        treeout.write(kml_file, pretty_print=True, encoding='UTF-8', xml_declaration=True)
 
-f.close()
-print('Wrote file tmp.kml')
+            
+
+print('Wrote file',kml_file)

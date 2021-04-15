@@ -64,15 +64,15 @@ The aggregate length of the cave passages in meters, usually obtained by summing
 UISIC field [CA56](http://www.uisic.uis-speleo.org/exchange/atendefn.html#56)
 
 **\<vertical-extent\>**  *ExtendedUnsignedInteger, maxOccurs=1*  
-The overall vertical distance in meters between the highest and lowest known point of the cave or karst feature, expressed as an unsigned value. (Sometimes vertical extent is defined as the vertical distance between the highest and lowest survey station.) The vertical extent must be rounded to the nearest meter. Symbols ~ and > are allowed in front of the number. Symbol + is allowed after the number.   
+The overall vertical distance in meters between the highest and lowest known point of the cave or karst feature, expressed as an unsigned value. (Sometimes vertical extent is defined as the vertical distance between the highest and lowest survey station.) The vertical extent must be rounded to the nearest whole meter. Symbols ~ and > are allowed in front of the number. Symbol + is allowed after the number.   
 UISIC field [CA511](http://www.uisic.uis-speleo.org/exchange/atendefn.html#511)
 
 **\<number-of-entrances\>**  *ExtendedUnsignedInteger, maxOccurs=1*  
-The total number of entrances to the cave, whether they are numbered or not. Normally provided only if there is more than one entrance. This is usually a positive integer, but expressions such as \>5, 10+, and ~100 are allowed.  
+The total number of entrances to the cave, whether they are numbered or not. This is usually a positive integer, but expressions such as \>5, 10+, and ~100 are allowed, where "10+" means "ten or more", whereas ">5" means "more than five".    
 UISIC field [CA9](http://www.uisic.uis-speleo.org/exchange/atendefn.html#9)
 
 **\<map-link\>**  *anyURI*  
-A Uniform Resource Identifier (URI) that points to a map of the cave, in form of an image or in form of geospatial data. A common type of entry for [map-link] is a Uniform Resource Locator (URL) that points to a cave map on the internet, e.g., http://www.mexicancaves.org/maps/1944.pdf. The only syntactic restriction is the exclusion of certain special characters that are not allowed in URIs. Items that belong in this field are single-page maps and digital (geometric) survey data. Items that do *not* belong in this field are URIs to multi-page documents, articles that contain maps (these belong to [reference]), and maps of cave entrance locations.
+A Uniform Resource Identifier (URI) that points to a map of the cave, in form of an image or in form of geospatial data. A common type of entry for [map-link] is a Uniform Resource Locator (URL) that points to a cave map on the internet, e.g., http://www.mexicancaves.org/maps/1944.pdf. The only syntactic restriction is the exclusion of certain special characters that are not allowed in URIs. Items that belong in this field are single-page maps and digital (geospatial) survey data. Items that do *not* belong in this field are URIs to multi-page documents, articles that contain maps (these belong to [reference]), and maps of cave entrance locations.
 
 **\<rock-type\>**  *controlled vocabulary*  
 Type(s) of rock in which the cave or karst feature is formed from, selected from a pre-defined list of options.
@@ -81,7 +81,7 @@ Similar to UISIC field [CA7](http://www.uisic.uis-speleo.org/exchange/atendefn.h
 More than one [rock-type] can be entered, e.g., for a cave in ice with a basalt floor.  
 
 **\<cave-type\>**  *controlled vocabulary*  
-The cave type(s) based on formation process and selected from a pre-defined list of terms.
+The cave type(s) based on the formation process and selected from a pre-defined list of terms.  
 List of options: *solution cave, artificial cave, boulder cave, glacier cave, lava tunnel, lava vent, tectonic cave, eolian cave, piping cave, sea cave, weathering cave, misc. type*.  "Boulder caves" are also known as "talus caves". The term "lava tunnel" is equivalent to "lava tube", and "lava tube" and "lava vent" are subcategories of volcanic caves. Eolian (wind), piping (suffosion), sea (littoral), and frost weathering (frost wedging) caves are types of "erosional caves". UISIC field [CA8](http://www.uisic.uis-speleo.org/exchange/atendefn.html#8) lists [similar options](http://www.uisic.uis-speleo.org/exchange/atencode.html#8).  
 
 **\<contents\>**  *controlled vocabulary*  
@@ -116,15 +116,15 @@ Syntax rules (in support of parsing and querying)
 
 -   Elements with *maxOccurs=1* can appear at most once within a record, whereas the default is *maxOccurs=unbounded*. (The UISIC refers to this as multi-valued, as opposed to single-valued.)
 
--   CaveXML defines only these 22 elements, although additional elements may be added in future. No other elements are allowed, but there may be ways of adding a another namespace.
+-   CaveXML defines only these 22 elements, although additional elements may be added in future. No other elements are allowed, but there may be ways of adding another namespace.
 
 -   The elements must appear in the order listed above.
 
 -   Text uses the UTF-8 character set (Unicode), so characters from many languages can be used.
 
--   XML has five **special characters**: ampersand &, single quote ', double quote ", smaller than \<, and larger than \>. That doesn't mean these characters can't be used; it depends on how they are used. For example, \> can be used in front of a number without problem. In URLs '&' must be replaced with `%26`.
+-   XML has five **special characters**: ampersand &, single quote ', double quote ", smaller than \<, and larger than \>. That doesn't mean these characters cannot be used; it depends on how they are used. For example, \> can be used in front of a number without problem. In URLs '&' must be replaced with `%26`.
 
--   **Almost-numerical entries:** Length entries are usually numbers, but they can also be of the form "\>42000", "\~100", or "2000+". A data type "ExtendedUnsignedInteger" has been created in CaveXML for this purpose. ExtendedUnsignedIntegers are positive integers that can contain a few additional symbols. The symbols "\>" and "\~" are allowed in front of the number. The number should contain no comma or decimal point, and digits after the decimal point are prohibited to avoid ambiguity. The elements [length], [vertical-extent], and [number-of-entrances] are ExtendedUnsignedIntegers and therefore obey the same syntax rules. Length and vertical extent must be rounded to the nearest whole meter. After the number, a "+" symbol is allowed, which has the meaning "or more". Mathematically it corresponds to \> for integers (such as the number of cave entrances) and ≥ for decimal numbers (such as length, altitude, and vertical extent). Only one symbol is allowed in front of the number, but note that "\>\~100" is equivalent to "\~100+". However, "10+" for the number of cave entrances is equivalent "\>9". The element [altitude] also accepts ExtendedUnsignedIntegers, along with additional types of entries.
+-   **Almost-numerical entries:** Length entries are usually numbers, but they can also be of the form "\>42000", "\~100", or "2000+". A data type "ExtendedUnsignedInteger" has been created in CaveXML for this purpose. ExtendedUnsignedIntegers are positive integers that can contain a few additional symbols. The symbols "\>" and "\~" are allowed in front of the number. The number should contain no comma or decimal point, and digits after the decimal point are prohibited to avoid ambiguity. The elements [length], [vertical-extent], and [number-of-entrances] are ExtendedUnsignedIntegers and therefore obey the same syntax rules. Length and vertical extent must be rounded to the nearest whole meter. After the number, a "+" symbol is allowed, which has the meaning "or more". Mathematically it corresponds to \> for integers (such as the number of cave entrances) and ≥ for decimal numbers (such as length, altitude, and vertical extent). Only one symbol is allowed in front of the number, but note that "\>\~100" is equivalent to "\~100+". However, "10+" for the number of cave entrances is equivalent to "\>9". The element [altitude] also accepts ExtendedUnsignedIntegers, along with additional types of entries.
 
 -   A Digital Object Identifier **(doi)** in [reference] can be automatically converted into a Uniform Resource Locator (URL) by replacing "doi:" with "https://doi.org:" followed by the doi number. The character sequence the parser will look for is "doi:", in all lower or all upper case.
 
@@ -183,17 +183,17 @@ Further Discussion
 
 **Design Principles**  
 
-CaveXML is designed to provide convenience for data entry, while also being strict and logical enough to allow for a great deal of automated data processing. CaveXML brings the power of automation and algorithms to data organization. Here are a few examples:
+CaveXML is designed to provide convenience for data entry, while also being strict and logical enough to allow for a great deal of automated data processing. Here are a few examples:
 - A number can be entered as "~500" to mean "approximately 500" or "10+" to mean "10 or more", but only a few specific symbols are allowed in front and after the number to ensure every entry can be successfully parsed and understood.
 - Records for caves that are connected with one another can be linked automatically.
-- For references to the published literature, a doi (digital object identifier) suffices to automatically generate a hyperlink. Even the bibliographic information can be automatically pulled off the internet based purely on the doi.
+- For references to the published literature, a doi (digital object identifier) suffices to automatically generate a hyperlink. Even the bibliographic information can be automatically sourced based purely on the doi.
 - CaveXML records do not have a catalog number. Unique record identifiers can be generated automatically, when needed.
 
 There is a profound and mutual relation between the data exchange standard and its implementation: *All of the requirements of the data exchange standard can be implemented with an XML schema definition.* More specifically, the requirements can be verified within version 1.0 of XML schema definitions, and do not require the extended capabilities of version 1.1.
 For example, if the [cave-id] were required to be unique among records, this could not be verified with an XML schema, because it would require cross-comparisons between records.
 Another example are requirements conditioned on other fields. For example, if the data exchange standard required that either [principal-cave-name] or [other-cave-name] must be present, it is not within the capabilities of XML 1.0 to verify that (although it would be possible with XML 1.1). 
 This design choice, that the CaveXML data exchange standard can be fully verified with an XML schema definition, has two practical consequences.
-First, verifying that a database is consistent with the CaveXML exchange standard requires nothing but an XML validation. No additional software or validation step are necessary.
+First, verifying that a database is consistent with the CaveXML exchange standard requires nothing beyond an XML validation. No additional software or validation step are necessary.
 Second, *all* of the specifications can be verified during the XML validation. Hence, any software used to process CaveXML data can rely on the specifications being followed completely.
 This design choice leads to simplicity and rigor. It also protects the standard from making demands that might be difficult to verify.   
 

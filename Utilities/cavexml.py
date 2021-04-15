@@ -1,5 +1,3 @@
-#! /usr/bin/env python3
-
 # Module for CaveXML
 # defines functions helpful for working with CaveXML data
 
@@ -65,58 +63,54 @@ def parse_AltitudeEntry(alt):
 
     for i in range(0,len(alt)):
         outstr = alt[i].text
-        if outstr is not None:
-            outstr = outstr.strip()
-            
-            if outstr[0]=='-': # negative integer with comment
-                number = [int(s) for s in re.findall(r'\b\d+\b',outstr)]
-                number = -number[0]
-                approx = True
-                if number<lownumber:
-                    lownumber = number
-                if number>highnumber:
-                    highnumber = number
-                break # not a range
-                       
-            if outstr[0]=='~' and outstr[1]=='-': # approximate negative integer with comment
-                number = [int(s) for s in re.findall(r'\b\d+\b',outstr)]
-                number = -number[0]
-                if number<lownumber:
-                    lownumber = number
-                if number>highnumber:
-                    highnumber = number
-                break # not a range
-            
-            if "-" in outstr or "–" in outstr or "—" in outstr: # range
-                if "-" in outstr: # hyphen-minus (ASCII)
-                    hyphen = '-'
-                if "–" in outstr: # en-dash
-                    hyphen = '–'
-                if "—" in outstr: # em-dash
-                    hyphen = '—'
-                minalt = int(outstr.split(hyphen)[0])
-                maxalt = int(outstr.split(hyphen)[1])
-                if minalt<lownumber:
-                    lownumber = minalt
-                if maxalt>highnumber:
-                    highnumber = maxalt
-                    
-            else:  # ExtendedUnsignedInteger optionally followed by comment
-                if len(outstr.split(' '))>1:  
-                    outstr = outstr.split(' ')[0]  # strip comment
-                number, approx, qual = parse_ExtendedUnsignedInteger(outstr)
-                if number<lownumber:
-                    lownumber = number
-                if number>highnumber:
-                    highnumber = number
-                #if qual=='>' or qual=='+':
-                #    highnumber = +99999
-                
-    if lownumber>highnumber and lownumber!=+99999:
-        swap = highnumber
-        highnumber = lownumber
-        lownumber = swap
 
+        if outstr is None:
+            continue
+        
+        outstr = outstr.strip()
+        
+        if outstr[0]=='-': # negative integer with comment
+            number = [int(s) for s in re.findall(r'\b\d+\b',outstr)]
+            number = -number[0]  # restore negative sign
+            approx = False
+            if outstr[0]=='~':
+                approx = True
+            lownumber = min(number, lownumber)
+            highnumber = max(number, highnumber)
+            continue # not a range
+                       
+        if outstr[0]=='~' and outstr[1]=='-': # approximate negative integer with comment
+            number = [int(s) for s in re.findall(r'\b\d+\b',outstr)]
+            number = -number[0] # restore negataive sign
+            approx = True
+            lownumber = min(number, lownumber)
+            highnumber = max(number, highnumber)
+            continue # not a range
+            
+        if "-" in outstr or "–" in outstr or "—" in outstr: # altitude range
+            # three types of range delimiters are allowed
+            if "-" in outstr: # hyphen-minus (ASCII)
+                hyphen = '-'
+            if "–" in outstr: # en-dash
+                hyphen = '–'
+            if "—" in outstr: # em-dash
+                hyphen = '—'
+            minalt = int(outstr.split(hyphen)[0])
+            maxalt = int(outstr.split(hyphen)[1])
+            if minalt>maxalt:
+                minalt, maxalt = maxalt, minalt  # swap
+            lownumber = min(minalt, lownumber)
+            highnumber = max(maxalt, highnumber)
+                    
+        else:  # ExtendedUnsignedInteger optionally followed by comment
+            if len(outstr.split(' '))>1:  
+                outstr = outstr.split(' ')[0]  # strip comment
+            number, approx, qual = parse_ExtendedUnsignedInteger(outstr)
+            lownumber = min(number, lownumber)
+            highnumber = max(number, highnumber)
+            if qual=='>' or qual=='+':
+                highnumber = +99999
+                
     return lownumber, highnumber
 
 
@@ -539,7 +533,7 @@ def generate_maplink(latitude, longitude, country):
 
 
 
-# Functions used to cross-link cave systems and branch names
+## Begin Functions used to cross-link cave systems and branch names
 
 def find_all_indices(value, qlist):
     # find indices of ALL matches ('find' only finds the first match)
@@ -549,7 +543,7 @@ def find_all_indices(value, qlist):
     
     
 def cross_load_data(root):
-    # store some entries from each record
+    # store selected entries from each record
     
     pcnlist = []
     conlist = []
@@ -559,21 +553,24 @@ def cross_load_data(root):
 
     for item in root.findall('record'):
 
-        pcn = item.find('principal-cave-name')
-        con = item.find('country-name')
-        try: # fails if pcn or pcn.text is empty
-            pcnlist.append(pcn.text) 
-            conlist.append(con.text)
+        try: # fails if con or con.text is empty
+            con = item.find('country-name').text
+            conlist.append(con)
         except:
-            pcnlist.append('') 
             conlist.append('')
 
+        try: # fails if pcn or pcn.text is empty
+            pcn = item.find('principal-cave-name').text
+            pcnlist.append(pcn) 
+        except:
+            pcnlist.append('') 
+        
         uid = generate_unique_id(item)
         uidlist.append(uid)
         
         try:
-            out = item.find('cave-system')
-            syslist.append(out.text)
+            cavsys = item.find('cave-system').text
+            syslist.append(cavsys)
         except:
             syslist.append('')
     
@@ -586,7 +583,9 @@ def cross_load_data(root):
             list_of_lists.append(branchlist_short)
         else:
             list_of_lists.append('')
-        
+
+    assert( len(root) == len(pcnlist) == len(syslist) )
+    
     return pcnlist, conlist, uidlist, syslist, list_of_lists
 
 
@@ -611,7 +610,7 @@ def cross_link_cavsys(i, conlist, pcnlist, cavsys, list_of_lists, uidlist):
 
 
 
-def cross_link_branch(i, conlist, pcnlist, bralist, uidlist):
+def cross_link_branch(i, conlist, pcnlist, syslist, bralist, uidlist):
     # link branch-name entries
     bra_link = [None] * len(bralist)   # [None]*0 = []
     
@@ -623,7 +622,7 @@ def cross_link_branch(i, conlist, pcnlist, bralist, uidlist):
         for ii in idxs: # go through all records with matching principal name
             if conlist[i] != conlist[ii]:
                 continue  # skip if not in same country
-            if bralist[k] == pcnlist[ii]:
+            if bralist[k] == pcnlist[ii] and syslist[ii] == pcnlist[i]:
                 bra_link[k] = uidlist[ii]
                 #print('... and branch',bra_link[k],'points back to cavesys',uidlist[i])
                 #print('... and branch',bralist[k],'points back to cavesys',pcnlist[i])
@@ -631,6 +630,5 @@ def cross_link_branch(i, conlist, pcnlist, bralist, uidlist):
     return bra_link  # a list
                     
 
-# end of functions used to cross-link cave systems and branch names
-
+## End of functions used to cross-link cave systems and branch names
 

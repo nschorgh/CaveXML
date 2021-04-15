@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 # This Python script converts a CaveXML database into a RDF/XML database that
-# uses the KarsLink ontology.
+# uses the KarstLink ontology.
 
 import lxml.etree as ET
 #import CaveXML.Utilities.cavexml as cavexml
@@ -25,6 +25,7 @@ xmlns={  # Namespaces used in RDF output
 }
 
 base="https://github.com/nschorgh/CaveXML/raw/master/Derivatives/allcaves-database.rdf#"
+
 
 def processRecord(xmltag, namespace, rdftag):
     b1 = None
@@ -61,7 +62,7 @@ for item in root.findall('record'):
     mm.set('{%s}ID' % xmlns['rdf'], uniid) # add attribute
     rootout.append (mm)
 
-    bb = processRecords('country-name', 'schema', 'addressCountry')
+    processRecords('country-name', 'schema', 'addressCountry')
     # country-name -> gn:countryCode
     con = item.find('country-name') 
     if con is not None:
@@ -70,15 +71,15 @@ for item in root.findall('record'):
             iso2 = cavexml.country2alpha2(con.text)
             b1.text = iso2
     
-    bb = processRecords('state-or-province', 'schema', 'addressLocality')
-    bb = processRecords('phys-area-name', 'schema', 'addressLocality')
+    processRecords('state-or-province', 'schema', 'addressLocality')
+    processRecords('phys-area-name', 'schema', 'addressLocality')
 
-    b1 = processRecord('principal-cave-name','rdfs','label')
-    bb = processRecords('other-cave-name', 'gn', 'alternateName')
+    processRecord('principal-cave-name','rdfs','label')
+    processRecords('other-cave-name', 'gn', 'alternateName')
     
-    b1 = processRecord('latitude','w3geo','latitude')
-    b1 = processRecord('longitude','w3geo','longitude')
-    bb = processRecord('altitude','w3geo','altitude')  # cavexml != w3geo
+    processRecord('latitude','w3geo','latitude')
+    processRecord('longitude','w3geo','longitude')
+    processRecord('altitude','w3geo','altitude')  # cavexml != w3geo
 
     # discard non-numerical characters (cavexml -> karstlink)
     length = item.find('length')
@@ -96,16 +97,16 @@ for item in root.findall('record'):
             b1 = ET.SubElement(mm, "{%s}vertical-extent" % xmlns['karstlink'])
             b1.text = str(number)
 
-    b1 = processRecord('number-of-entrances', 'cavexml', 'number-of-entrances')
-    bb = processRecords('map-link', 'schema', 'hasMap')
+    processRecord('number-of-entrances', 'cavexml', 'number-of-entrances')
+    processRecords('map-link', 'schema', 'hasMap')
     
-    bb = processRecords('rock-type', 'cavexml', 'rock-type')
-    bb = processRecords('cave-type', 'cavexml', 'cave-type')
-    bb = processRecords('contents', 'cavexml', 'contents')
+    processRecords('rock-type', 'cavexml', 'rock-type')
+    processRecords('cave-type', 'cavexml', 'cave-type')
+    processRecords('contents', 'cavexml', 'contents')
     
-    bb = processRecords('comments', 'rdfs', 'comment')
-    b1 = processRecord('cave-system','schema','containedInPlace')
-    bb = processRecords('branch-name', 'karstlink', 'relatedToUndergroundCavity')
+    processRecords('comments', 'rdfs', 'comment')
+    processRecord('cave-system','schema','containedInPlace')
+    processRecords('branch-name', 'karstlink', 'relatedToUndergroundCavity')
         
     ref = item.findall('reference')
     for i in range(0,len(ref)):
@@ -115,11 +116,11 @@ for item in root.findall('record'):
             refurl = cavexml.extract_hyperlink_from_string(refentry)
             if len(refurl)==0: # no hyperlink
                 bo.text = refentry
-            else: # set attribute and only use refurl as value
+            else: # set attribute and only use hyperlink as value
                 bo.set('{%s}resource' % xmlns['rdf'], refurl)
 
-    bb = processRecords('cave-use', 'cavexml', 'cave-use')
-    bb = processRecords('curation', 'cavexml', 'curation')
+    processRecords('cave-use', 'cavexml', 'cave-use')
+    processRecords('curation', 'cavexml', 'curation')
         
     # write XML output
     treeout = ET.ElementTree(rootout)

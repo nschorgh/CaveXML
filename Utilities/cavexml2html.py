@@ -32,7 +32,7 @@ for item in root.findall('record'):
     sys_link = cross_link_cavsys(count, conlist, pcnlist, syslist[count], list_of_lists, uidlist)
     
     # link branch-name entries
-    bra_link = cross_link_branch(count, conlist, pcnlist, list_of_lists[count], uidlist)
+    bra_link = cross_link_branch(count, conlist, pcnlist, syslist, list_of_lists[count], uidlist)
 
     count += 1  # count number of records
     

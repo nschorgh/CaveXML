@@ -5171,6 +5171,30 @@
       <dct:references rdf:resource="http://arhiv.rgo-speleo.ru/rgo/books/glacier_karst7/chervyatsova_93_97.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Russia</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Eastern Siberia; Lena Pillars Nature Reserve</schema:addressLocality>
+      <rdfs:label>Skazka Cave</rdfs:label>
+      <w3geo:altitude>100</w3geo:altitude>
+      <karstlink:length>11</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <rdfs:comment>region is very cold and dry; permafrost</rdfs:comment>
+      <rdfs:comment>contains various types of hoar ice: powder-like fine-crystalline hoar ice, thin hexagonal plates</rdfs:comment>
+      <dct:references>Galanin (2020) DOI:10.21782/EC2541-9994-2020-1(3-19)</dct:references>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Russia</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Eastern Siberia; Lena Pillars Nature Reserve</schema:addressLocality>
+      <rdfs:label>Skalolazov Cave</rdfs:label>
+      <w3geo:altitude>100</w3geo:altitude>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <rdfs:comment>region is very cold and dry; permafrost</rdfs:comment>
+      <rdfs:comment>includes desublimation ice and congelation ice</rdfs:comment>
+      <dct:references>Galanin (2020) DOI:10.21782/EC2541-9994-2020-1(3-19)</dct:references>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Tajikistan</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Zeravshanskij Ridge</schema:addressLocality>
       <rdfs:label>Nuriddina Cave</rdfs:label>
@@ -5984,11 +6008,11 @@
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <rdfs:comment>adjacent to Heppe Chimney</rdfs:comment>
       <karstlink:relatedToUndergroundCavity>Upper Heppe Cave</karstlink:relatedToUndergroundCavity>
       <karstlink:relatedToUndergroundCavity>Lower Heppe Cave</karstlink:relatedToUndergroundCavity>
       <karstlink:relatedToUndergroundCavity>Heppe Grotto</karstlink:relatedToUndergroundCavity>
       <karstlink:relatedToUndergroundCavity>Heppe Bridge</karstlink:relatedToUndergroundCavity>
-      <karstlink:relatedToUndergroundCavity>Heppe Chimney</karstlink:relatedToUndergroundCavity>
       <dct:references>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</dct:references>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=570"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
@@ -6018,9 +6042,11 @@
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <rdfs:comment>perennial ice floor</rdfs:comment>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=614"/>
       <dct:references>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</dct:references>
       <dct:references>Waters et al. (1990) doi:10.3133/b1673</dct:references>
+      <dct:references>O'Connor et al. (2021) doi:10.1089/ast.2020.2327</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -12633,7 +12659,7 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Tanzania</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Kilimanjaro; Kibo Tubes</schema:addressLocality>
-      <rdfs:label>Grotte H. Meyer Supenieur</rdfs:label>
+      <rdfs:label>Grotte H. Meyer Superieure</rdfs:label>
       <gn:alternateName>Obere H. Meyer Höhle</gn:alternateName>
       <w3geo:altitude>~5250</w3geo:altitude>
       <karstlink:length>9</karstlink:length>
@@ -13638,14 +13664,6 @@
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
-      <rdfs:label>Ice Cave</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1026"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Washington</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Skamania County</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Adams</schema:addressLocality>
@@ -13666,22 +13684,6 @@
       <dct:references rdf:resource="https://www.oregongrotto.com/troutlake.shtml"/>
       <dct:references>Halliday (1963) "Caves of Washington"</dct:references>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
-      <rdfs:label>Ice Cave #2</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1027"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
-      <rdfs:label>Ice Cave #3</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1028"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -16427,6 +16429,7 @@
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=610"/>
       <dct:references>Fuhrmann (2007) J. Cave Karst Studies 69(2), 256-265</dct:references>
       <dct:references rdf:resource="https://scholarcommons.usf.edu/iwic/Proceedings/Climate_Microclimates_Cave_Ice/6/"/>
+      <dct:references>O'Connor et al. (2021) doi:10.1089/ast.2020.2327</dct:references>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">

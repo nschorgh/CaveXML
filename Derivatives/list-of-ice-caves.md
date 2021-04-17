@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 521 rock-hosted caves with perennial ice was generated from a CaveXML database.  
+This list of 523 rock-hosted caves with perennial ice was generated from a CaveXML database.  
 
 Austria - Oberösterreich [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
 Austria - Oberösterreich [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-1547/17)  
@@ -237,6 +237,8 @@ Russia [**Ryadovaya** ](allcaves-database.md#RU-413f521bc1e11d3678374b8218bf9836
 Russia - Samara [**Brothers Greve Cave** ](allcaves-database.md#RU-c7af2a69f9f84e0c36c9332cb3245d08)  
 Russia - Samara [**Gnilaya Cave** ](allcaves-database.md#RU-5755dbab47c32e0da13b26648be5cfb0)  
 Russia [**Shaft of Vakhusti Bagrationi** ](allcaves-database.md#RU-885e5e9a88ec98b433ef85446efb586e)  
+Russia [**Skalolazov Cave** ](allcaves-database.md#RU-5b4007dd341d57eb9ad482ba31cdce96)  
+Russia [**Skazka Cave** ](allcaves-database.md#RU-a1f9a2bec100f72866ff84843fe75887)  
 Russia [**Snezhnaya-Mezhennogo-Illuziya-Banka Cave System** ](allcaves-database.md#RU-3f87fe3b18d5b089f8b3f7e26a97608b)  
 Russia [**Starogo Medvedya Cave** ](allcaves-database.md#RU-02fc3e29b819ea7e45197760df3d133c)  
 Russia [**Tryekhglazka Cave** Ledovaya; Vorontsovskaya Cave ](allcaves-database.md#RU-580a56f3e2ab89ba8bc52af52bef774d)  
@@ -523,3 +525,4 @@ Uzbekistan - Qashqadaryo Region; Yakkabog District [**Gissarskaya Cave** Hissar 
 Uzbekistan - Surxondaryo Province [**Festival'naya-Ledopadnaya** Western Karst System of Hodja Gur Gur Ata ](allcaves-database.md#UZ-a4a49f658eed269c81d80dfdd7d05aef)  
 Uzbekistan - Surxondaryo Province [**Ledopadnaya** ](allcaves-database.md#UZ-b6a1d24a1d9b2df772f08c109334bd0f) *Part of* Festival'naya-Ledopadnaya  
 Uzbekistan [**Ulug-Bek** Ulugh Begh ](allcaves-database.md#UZ-fa57d54912096b4b9b35b3c46c8742d5)  
+

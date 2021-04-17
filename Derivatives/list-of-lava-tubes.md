@@ -1,6 +1,6 @@
 List of Lava Tubes
 ==================
-This list of 1602 volcanic caves was generated from a CaveXML formatted database.  
+This list of 1599 volcanic caves was generated from a CaveXML formatted database.  
 
 Argentina [**Cueva del Tigre** ](allcaves-database.md#AR-cb44ad968467a4c87a3495ac42cb0a89)  
 Argentina - La Pampa [**Cueva La Alada** ](allcaves-database.md#AR-b403d0ee8602ed513a356cae6d9af689)  
@@ -657,7 +657,7 @@ Spain - Santa Cruz de Tenerife; Valverde [**Cueva de San Andres** Cueva de los P
 Syria [**Ariqa Cave** Aariqa Cave ](allcaves-database.md#SY-a29501701a523beca597c025c0a4d639)  
 Syria - Assuwayda [**Tell Shihan Tubes** ](allcaves-database.md#SY-00bfc7704f2a113331dc1781d6f5d8b0)  
 Syria [**Umm ar Rumman** ](allcaves-database.md#SY-ba5df02d0ad9fec7f757591fd60bc22c)  
-Tanzania [**Grotte H. Meyer Supenieur** Obere H. Meyer Höhle ](allcaves-database.md#TZ-0fe795bad6ae6212052d6e02d7f65768)  
+Tanzania [**Grotte H. Meyer Superieure** Obere H. Meyer Höhle ](allcaves-database.md#TZ-e2dde6479f421e928a35abab2ed925f9)  
 Tanzania [**KT 011** ](allcaves-database.md#TZ-a1d29c1a3e50e8e5623c7e41df07bb71)  
 Tanzania [**KT 016** ](allcaves-database.md#TZ-6064d1315f2cb6baa59247cebb531382)  
 Tanzania [**KT 017** ](allcaves-database.md#TZ-e6d3ad77dbcdb2c0cb7582079b4cf1e5)  
@@ -1180,9 +1180,6 @@ United States of America - Idaho; Butte County [**Dewdrop Cave** ](allcaves-data
 United States of America - Idaho; Butte County [**Government Cave** ](allcaves-database.md#US-ff9002a0f16ff71d30f3e23fba6e3525)  
 United States of America - Idaho; Butte County [**Great Owl Cave** ](allcaves-database.md#US-c2213e9f022a9dc1a548019cfd523b31)  
 United States of America - Idaho; Butte County [**Horseshoe Cave** ](allcaves-database.md#US-0af9c4f10a6774c696745c84fdbad151)  
-United States of America - Idaho; Butte County [**Ice Cave #2** ](allcaves-database.md#US-47af9659f6ca5af3c98408e33a05fefd)  
-United States of America - Idaho; Butte County [**Ice Cave #3** ](allcaves-database.md#US-baf7678e7ad50d0ce8cd0e30c06f8f28)  
-United States of America - Idaho; Butte County [**Ice Cave** ](allcaves-database.md#US-99fd3852b69867fda35eada582d92b72)  
 United States of America - Idaho; Butte County [**Indian Dome Cave** ](allcaves-database.md#US-9618fff9e100c969cc0a32fcbee12708)  
 United States of America - Idaho; Butte County [**Indian Tunnel** ](allcaves-database.md#US-edde5b3f14fcf17af29055c953434755)  
 United States of America - Idaho; Butte County [**Last Chance Cave** ](allcaves-database.md#US-e1549969f540242b6a3539192f47914e)  
@@ -1604,3 +1601,4 @@ Viet Nam - Đắk Nông; Nam Da [**C7** ](allcaves-database.md#VN-d55999c1be1dcb
 Viet Nam - Đắk Nông; Nam Da [**P10E, P10W** ](allcaves-database.md#VN-a06310ea728f1ed7fa1c5fd64276aee1)  
 Viet Nam - Đắk Nông; Nam Da [**P20** ](allcaves-database.md#VN-9765576d832e719995d97f727bb2b0c7)  
 Viet Nam - Đắk Nông; Nam Da [**P8** ](allcaves-database.md#VN-16db1dcd245e800ed1c6d26f2bbf36f2)  
+

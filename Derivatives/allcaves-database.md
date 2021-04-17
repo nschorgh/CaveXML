@@ -4563,6 +4563,27 @@ Russia - Samara
 [Chervyatsova (2005) http://arhiv.rgo-speleo.ru/rgo/books/glacier_karst7/chervyatsova_93_97.pdf](http://arhiv.rgo-speleo.ru/rgo/books/glacier_karst7/chervyatsova_93_97.pdf)   
 
 ---  
+<a name="RU-a1f9a2bec100f72866ff84843fe75887"></a>
+Russia - Eastern Siberia; Lena Pillars Nature Reserve  
+*Cave Name(s):* **Skazka Cave**  
+*altitude:* 100  
+*Length:* 11m *Number of entrances:* 1  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+*Comments:* region is very cold and dry; permafrost; contains various types of hoar ice: powder-like fine-crystalline hoar ice, thin hexagonal plates  
+[Galanin (2020) DOI:10.21782/EC2541-9994-2020-1(3-19)](https://doi.org/10.21782/EC2541-9994-2020-1(3-19))   
+
+---  
+<a name="RU-5b4007dd341d57eb9ad482ba31cdce96"></a>
+Russia - Eastern Siberia; Lena Pillars Nature Reserve  
+*Cave Name(s):* **Skalolazov Cave**  
+*altitude:* 100  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+*Comments:* region is very cold and dry; permafrost; includes desublimation ice and congelation ice  
+[Galanin (2020) DOI:10.21782/EC2541-9994-2020-1(3-19)](https://doi.org/10.21782/EC2541-9994-2020-1(3-19))   
+
+---  
 <a name="TJ-26455c558689160577a28108bdc79c42"></a>
 Tajikistan - Zeravshanskij Ridge  
 *Cave Name(s):* **Nuriddina Cave**  
@@ -5211,7 +5232,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [map](https://rpif.asu.edu/LTdatabase/images/heppe_caves.jpg) [map](https://pubs.usgs.gov/bul/1673/plate-6.pdf)   
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* permanent ice  
-*Branches:* Upper Heppe Cave; Lower Heppe Cave; Heppe Grotto; Heppe Bridge; [Heppe Chimney](#US-491d775d9eafafa367521cf6c9738608);   
+*Comments:* adjacent to Heppe Chimney  
+*Branches:* Upper Heppe Cave; Lower Heppe Cave; Heppe Grotto; Heppe Bridge;   
 [Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14](https://doi.org/10.4461/GFDQ.2014.37.14)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=570](https://rpif.asu.edu/LTdatabase/result.php?RECNO=570)   
 *Cave use:* self-guided tourist cave  
@@ -5234,9 +5256,11 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [map](http://npshistory.com/publications/geology/bul/1673/images/plate-4.pdf)   
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* permanent ice  
+*Comments:* perennial ice floor  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=614](https://rpif.asu.edu/LTdatabase/result.php?RECNO=614)   
 [Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14](https://doi.org/10.4461/GFDQ.2014.37.14)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
+[O'Connor et al. (2021) doi:10.1089/ast.2020.2327](https://doi.org/10.1089/ast.2020.2327)   
 
 ---  
 <a name="US-7e10145f772b47a455f8e85a2a98aa4f"></a>
@@ -10673,9 +10697,9 @@ Cameroon - Sud-Oeust - Mt. Cameroon
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1552](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1552)   
 
 ---  
-<a name="TZ-0fe795bad6ae6212052d6e02d7f65768"></a>
+<a name="TZ-e2dde6479f421e928a35abab2ed925f9"></a>
 Tanzania - Kilimanjaro; Kibo Tubes  
-*Cave Name(s):* **Grotte H. Meyer Supenieur** Obere H. Meyer Höhle  
+*Cave Name(s):* **Grotte H. Meyer Superieure** Obere H. Meyer Höhle  
 *altitude:* ~5250  
 *Length:* 9m   
 *Cave type:* lava tunnel  
@@ -11521,13 +11545,6 @@ United States of America - California; Shasta County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=451](https://rpif.asu.edu/LTdatabase/result.php?RECNO=451)   
 
 ---  
-<a name="US-99fd3852b69867fda35eada582d92b72"></a>
-United States of America - Idaho; Butte County  
-*Cave Name(s):* **Ice Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1026](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1026)   
-
----  
 <a name="US-f3ebfa41578dcd316016a2b8094666ae"></a>
 United States of America - Washington; Skamania County - Mt. Adams  
 *Cave Name(s):* **Guler Ice Cave** Ice Cave; Campground Ice Cave; Mount Adams Ice Cave; Trout Lake Ice Cave  
@@ -11541,20 +11558,6 @@ United States of America - Washington; Skamania County - Mt. Adams
 [https://www.oregongrotto.com/troutlake.shtml](https://www.oregongrotto.com/troutlake.shtml)   
 Halliday (1963) "Caves of Washington"  
 *Cave use:* self-guided tourist cave  
-
----  
-<a name="US-47af9659f6ca5af3c98408e33a05fefd"></a>
-United States of America - Idaho; Butte County  
-*Cave Name(s):* **Ice Cave #2**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1027](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1027)   
-
----  
-<a name="US-baf7678e7ad50d0ce8cd0e30c06f8f28"></a>
-United States of America - Idaho; Butte County  
-*Cave Name(s):* **Ice Cave #3**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1028](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1028)   
 
 ---  
 <a name="US-9dd32565d23cddae0723489d62611c37"></a>
@@ -13849,6 +13852,7 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=610](https://rpif.asu.edu/LTdatabase/result.php?RECNO=610)   
 Fuhrmann (2007) J. Cave Karst Studies 69(2), 256-265  
 [Smith (2014) https://scholarcommons.usf.edu/iwic/Proceedings/Climate_Microclimates_Cave_Ice/6/](https://scholarcommons.usf.edu/iwic/Proceedings/Climate_Microclimates_Cave_Ice/6/)   
+[O'Connor et al. (2021) doi:10.1089/ast.2020.2327](https://doi.org/10.1089/ast.2020.2327)   
 *Cave use:* self-guided tourist cave  
 
 ---  

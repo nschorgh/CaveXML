@@ -495,6 +495,8 @@ Zagadai,,,600,20,,RU-04a015bd4490f50ec6d1e33518126496
 Ice Burun,,,67,45,,RU-0e059b6765f68158021dfee44cc87217
 Brothers Greve Cave,,,522,25,,RU-c7af2a69f9f84e0c36c9332cb3245d08
 Gnilaya Cave,,,21,8,,RU-5755dbab47c32e0da13b26648be5cfb0
+Skazka Cave,100,100,11,,1,RU-a1f9a2bec100f72866ff84843fe75887
+Skalolazov Cave,100,100,,,,RU-5b4007dd341d57eb9ad482ba31cdce96
 Nuriddina Cave,2500,2500,40,,2,TJ-26455c558689160577a28108bdc79c42
 Putnikov Cave,4600,4600,2050,240,,TJ-6f9c29ef7300aa64a65fa122d62e1199
 Ice Cave in Agri,2000,2000,110,,,TR-5d12005d47952f29534221f017e80b2f
@@ -1178,7 +1180,7 @@ Grotte de la Cantoniera,,,,,,IT-b1ed035b02b0f4cc7983ac492917b539
 Grotta del Gelo,2030,2030,120,,1,IT-b94660e81c51db8b325344b25b4d85ec
 Grotte des diffluences,,,80,,,CM-ba0722bc15dd2d3273e389540e928953
 Grotte Gaskin,2855,2855,1175,,,CM-81496a39187762129375d8e408d6e161
-Grotte H. Meyer Supenieur,5250,5250,9,,,TZ-0fe795bad6ae6212052d6e02d7f65768
+Grotte H. Meyer Superieure,5250,5250,9,,,TZ-e2dde6479f421e928a35abab2ed925f9
 KT 011,4598,4598,17,,,TZ-a1d29c1a3e50e8e5623c7e41df07bb71
 KT 016,4763,4763,50,,,TZ-6064d1315f2cb6baa59247cebb531382
 KT 017,4686,4686,40,,,TZ-e6d3ad77dbcdb2c0cb7582079b4cf1e5
@@ -1274,10 +1276,7 @@ Hyeopjae Cave,,,100,,,KR-8f1c31751eb3f35bfc082de266fd7b5a
 Ssangyonggul,15,15,380,,2,KR-84e55e1c05384da8e8dc0d5ee3642629
 Iankawa-no-ana,,,60,,,JP-c0ae1aa62f98d4c78fe89c80131f5ae0
 Ice Cave,,,,,,US-7543837436be0bf178e8251adac592e0
-Ice Cave,,,,,,US-99fd3852b69867fda35eada582d92b72
 Guler Ice Cave,860,860,198,,,US-f3ebfa41578dcd316016a2b8094666ae
-Ice Cave #2,,,,,,US-47af9659f6ca5af3c98408e33a05fefd
-Ice Cave #3,,,,,,US-baf7678e7ad50d0ce8cd0e30c06f8f28
 Ice Plug Cave,,,270,,,US-9dd32565d23cddae0723489d62611c37
 Ice Rink Cave,,,470,,,US-NSS-633-22
 Ice River Cave,,,317,,,US-570e9e1ded689f004306aafece1aa773

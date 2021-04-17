@@ -7129,6 +7129,35 @@
       <comments>includes atmogenic crystalline hoarfrost</comments>
       <reference>Chervyatsova (2005) http://arhiv.rgo-speleo.ru/rgo/books/glacier_karst7/chervyatsova_93_97.pdf</reference>
    </record>
+   <record>
+      <country-name>Russia</country-name>
+      <state-or-province/>
+      <phys-area-name>Eastern Siberia; Lena Pillars Nature Reserve</phys-area-name>
+      <principal-cave-name>Skazka Cave</principal-cave-name>
+      <altitude>100</altitude>
+      <length>11</length>
+      <vertical-extent></vertical-extent>
+      <number-of-entrances>1</number-of-entrances>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>region is very cold and dry; permafrost</comments>
+      <comments>contains various types of hoar ice: powder-like fine-crystalline hoar ice, thin hexagonal plates</comments>
+      <reference>Galanin (2020) DOI:10.21782/EC2541-9994-2020-1(3-19)</reference>
+   </record>
+   <record>
+      <country-name>Russia</country-name>
+      <state-or-province/>
+      <phys-area-name>Eastern Siberia; Lena Pillars Nature Reserve</phys-area-name>
+      <principal-cave-name>Skalolazov Cave</principal-cave-name>
+      <altitude>100</altitude>
+      <length></length>
+      <vertical-extent></vertical-extent>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>region is very cold and dry; permafrost</comments>
+      <comments>includes desublimation ice and congelation ice</comments>
+      <reference>Galanin (2020) DOI:10.21782/EC2541-9994-2020-1(3-19)</reference>
+   </record>
 
    <record>
       <country-name>Tajikistan</country-name>
@@ -8148,11 +8177,11 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
+      <comments>adjacent to Heppe Chimney</comments>
       <branch-name>Upper Heppe Cave</branch-name>
       <branch-name>Lower Heppe Cave</branch-name>
       <branch-name>Heppe Grotto</branch-name>
       <branch-name>Heppe Bridge</branch-name>
-      <branch-name>Heppe Chimney</branch-name>
       <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=570</reference>
       <cave-use>self-guided tourist cave</cave-use>
@@ -8184,9 +8213,11 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
+      <comments>perennial ice floor</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=614</reference>
       <reference>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</reference>
       <reference>Waters et al. (1990) doi:10.3133/b1673</reference>
+      <reference>O'Connor et al. (2021) doi:10.1089/ast.2020.2327</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -15224,7 +15255,7 @@
       <country-name>Tanzania</country-name>
       <state-or-province/>
       <phys-area-name>Kilimanjaro; Kibo Tubes</phys-area-name>
-      <principal-cave-name>Grotte H. Meyer Supenieur</principal-cave-name>
+      <principal-cave-name>Grotte H. Meyer Superieure</principal-cave-name>
       <other-cave-name>Obere H. Meyer Höhle</other-cave-name>
       <altitude>~5250</altitude>
       <length>9</length>
@@ -16286,15 +16317,6 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Idaho</state-or-province>
-      <state-or-province>Butte County</state-or-province>
-      <principal-cave-name>Ice Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1026</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
       <state-or-province>Skamania County</state-or-province>
       <phys-area-name>Mt. Adams</phys-area-name>
@@ -16315,24 +16337,6 @@
       <reference>https://www.oregongrotto.com/troutlake.shtml</reference>
       <reference>Halliday (1963) "Caves of Washington"</reference>
       <cave-use>self-guided tourist cave</cave-use>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho</state-or-province>
-      <state-or-province>Butte County</state-or-province>
-      <principal-cave-name>Ice Cave #2</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1027</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho</state-or-province>
-      <state-or-province>Butte County</state-or-province>
-      <principal-cave-name>Ice Cave #3</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1028</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -19235,6 +19239,7 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=610</reference>
       <reference>Fuhrmann (2007) J. Cave Karst Studies 69(2), 256-265</reference>
       <reference>Smith (2014) https://scholarcommons.usf.edu/iwic/Proceedings/Climate_Microclimates_Cave_Ice/6/</reference>
+      <reference>O'Connor et al. (2021) doi:10.1089/ast.2020.2327</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>

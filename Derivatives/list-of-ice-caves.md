@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 523 rock-hosted caves with perennial ice was generated from a CaveXML database.  
+This list of 524 rock-hosted caves with perennial ice was generated from a CaveXML database.  
 
 Austria - Oberösterreich [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
 Austria - Oberösterreich [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-1547/17)  
@@ -184,7 +184,7 @@ Poland [**Tylkowa Szczelina** ](allcaves-database.md#PL-83a5e8a6775ba8962526280d
 Poland [**Ukryta Dziura** ](allcaves-database.md#PL-d21ee0a65aa169efdf08934c9025763e)  
 Poland [**Zaspałkowa Szczelina** ](allcaves-database.md#PL-ffa77063fa046b76539eb5ddd64f130f)  
 Romania [**Borţig Ice Cave** ](allcaves-database.md#RO-79a7165b20b53c88ee71ccbfa688111d)  
-Romania [**Focul Viu Ice Cave** ](allcaves-database.md#RO-c3a499ea3ed9902838c6ba5255683527)  
+Romania [**Focul Viu Ice Cave** ](allcaves-database.md#RO-69f2863d281502aa3bdd44b60c7c5090)  
 Romania [**Gheţarul din Poiana Vârtop** ](allcaves-database.md#RO-202c9fbfb5415b55efa2dfa116fceabc)  
 Romania [**Scărișoara Ice Cave** Scărișoara Cave ](allcaves-database.md#RO-28b7e1c6b65b8f1df632124886c44414)  
 Russia [**Abigi-Dzhe** ](allcaves-database.md#RU-49d6292a4c87457d1cd4da80b7136fc3)  
@@ -484,6 +484,7 @@ Tajikistan [**Nuriddina Cave** ](allcaves-database.md#TJ-26455c558689160577a2810
 Tajikistan [**Putnikov Cave** Rangkulskaya Cave; Matatash ](allcaves-database.md#TJ-6f9c29ef7300aa64a65fa122d62e1199)  
 Turkey - Ağri province [**Ice Cave in Ağri** Buzluk Mağarası ](allcaves-database.md#TR-5d12005d47952f29534221f017e80b2f)  
 Turkey - Elazığ province [**Buzluk Cave** Ice Cave of Harput ](allcaves-database.md#TR-f90090a450744d21c5970c4d689e565a)  
+United States of America - Arizona; Coconino County [**Bonito Flow Ice Cave** Sunset Crater Ice Cave ](allcaves-database.md#US-7dfccd1554846a8ce07a9f9f867da8a2)  
 United States of America - California [**C-270** ](allcaves-database.md#US-2442e470eccb672cff874938eb538455)  
 United States of America - California [**L-800** ](allcaves-database.md#US-7e10145f772b47a455f8e85a2a98aa4f)  
 United States of America - California; Siskiyou County [**Big Painted Cave** M-310](allcaves-database.md#US-M-310)  
@@ -506,7 +507,7 @@ United States of America - New Mexico; Cibola County [**Dripping Lava Cave** ](a
 United States of America - New Mexico; Cibola County [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  
 United States of America - New Mexico; Cibola County [**Giant Ice Cave** ](allcaves-database.md#US-68f0649447705a70188a6ece04f93d5e)  
 United States of America - New Mexico; Cibola County [**La Marchantia Cave** ](allcaves-database.md#US-dccb515ae4b4ee9f391c7af975b72e8e)  
-United States of America - New Mexico; Cibola County [**Navajo Cave** Navajo Ice Cave; Cave 29 ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
+United States of America - New Mexico; Cibola County [**Navajo Cave** Navajo Ice Cave ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
 United States of America - New Mexico; Cibola County [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
 United States of America - Oregon; Deschutes County [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-b9513e9db4a84c47e0d0057c42022592)  
 United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-fc31747e0f12f877b7feb2c56dbe48c9)  
@@ -525,4 +526,3 @@ Uzbekistan - Qashqadaryo Region; Yakkabog District [**Gissarskaya Cave** Hissar 
 Uzbekistan - Surxondaryo Province [**Festival'naya-Ledopadnaya** Western Karst System of Hodja Gur Gur Ata ](allcaves-database.md#UZ-a4a49f658eed269c81d80dfdd7d05aef)  
 Uzbekistan - Surxondaryo Province [**Ledopadnaya** ](allcaves-database.md#UZ-b6a1d24a1d9b2df772f08c109334bd0f) *Part of* Festival'naya-Ledopadnaya  
 Uzbekistan [**Ulug-Bek** Ulugh Begh ](allcaves-database.md#UZ-fa57d54912096b4b9b35b3c46c8742d5)  
-

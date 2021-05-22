@@ -1,6 +1,6 @@
 List of Volcanic Ice Caves
 ==========================
-List of 30 ice caves that are also lava tubes.  
+List of 31 ice caves that are also lava tubes.  
 
 China - Heilongjiang province [**Ice Cave** ](allcaves-database.md#CN-84bd5ee330b2dae6b6bc29e1578a3527)  
 China - Heilongjiang province; Mudanjiang district [**Gubingdong Cave** Ancient Ice Cave N44E128C-005](allcaves-database.md#CN-N44E128C-005)  
@@ -12,6 +12,7 @@ Italy - Sicilia [**Grotta del Gelo** ](allcaves-database.md#IT-b94660e81c51db8b3
 Japan [**Fuji Ice Cave** Fuji Fuketsu (Fuji Wind Cave) ](allcaves-database.md#JP-e26bc9c6698824529baa6da0bf5bb393)  
 Japan [**Motosu Fuketsu No. 2 Cave** ](allcaves-database.md#JP-2a709c7095c14ead38bd702c895e40d9)  
 Japan - Yamanashi [**Narusawa Hyoketsu Cave** Narusawa Ice Cave; Narusawa Wind Cave; Narusawa Fuketsu ](allcaves-database.md#JP-6d8a263701cde5196f0357254dcdb677)  
+United States of America - Arizona; Coconino County [**Bonito Flow Ice Cave** Sunset Crater Ice Cave ](allcaves-database.md#US-7dfccd1554846a8ce07a9f9f867da8a2)  
 United States of America - California; Siskiyou County [**Big Painted Cave** M-310](allcaves-database.md#US-M-310)  
 United States of America - California; Siskiyou County [**Crystal Cave** Crystal Ice Cave; Blue Crystal Ice Cave ](allcaves-database.md#US-6ba6c59dd42aa1cdbaadfd0b880831a2)  
 United States of America - California; Siskiyou County [**Heppe Ice Cave** Heppe Caves ](allcaves-database.md#US-d811cf4627e617d9e16e03199aa3d1ef)  
@@ -25,7 +26,7 @@ United States of America - New Mexico; Cibola County [**Dripping Lava Cave** ](a
 United States of America - New Mexico; Cibola County [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  
 United States of America - New Mexico; Cibola County [**Giant Ice Cave** ](allcaves-database.md#US-68f0649447705a70188a6ece04f93d5e)  
 United States of America - New Mexico; Cibola County [**La Marchantia Cave** ](allcaves-database.md#US-dccb515ae4b4ee9f391c7af975b72e8e)  
-United States of America - New Mexico; Cibola County [**Navajo Cave** Navajo Ice Cave; Cave 29 ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
+United States of America - New Mexico; Cibola County [**Navajo Cave** Navajo Ice Cave ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
 United States of America - New Mexico; Cibola County [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
 United States of America - Oregon; Deschutes County [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-b9513e9db4a84c47e0d0057c42022592)  
 United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-fc31747e0f12f877b7feb2c56dbe48c9)  

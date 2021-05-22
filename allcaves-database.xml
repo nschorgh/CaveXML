@@ -2484,7 +2484,7 @@
    <record>
       <country-name>Romania</country-name>
       <state-or-province/>
-      <phys-area-name>Apuseni Mountains</phys-area-name>
+      <phys-area-name>Apuseni Mountains; Western Carpathians</phys-area-name>
       <principal-cave-name>Focul Viu Ice Cave</principal-cave-name>
       <other-cave-name/>
       <latitude/>
@@ -8366,7 +8366,6 @@
       <phys-area-name>El Malpais National Monument</phys-area-name>
       <principal-cave-name>Navajo Cave</principal-cave-name>
       <other-cave-name>Navajo Ice Cave</other-cave-name>
-      <other-cave-name>Cave 29</other-cave-name>
       <altitude>2268</altitude>
       <length>171</length>
       <vertical-extent>~14</vertical-extent>
@@ -8801,15 +8800,6 @@
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1443</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho; Blaine County</state-or-province>
-      <phys-area-name>Wedge Butte</phys-area-name>
-      <principal-cave-name>97 Mile Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1013</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -9607,6 +9597,7 @@
       <phys-area-name>Horse Lava Tube System</phys-area-name>
       <principal-cave-name>Barlow Cave</principal-cave-name>
       <length>243</length>
+      <map-link>https://rpif.asu.edu/LTdatabase/images/Barlow_%26_Wilson_Caves.jpg</map-link>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1251</reference>
@@ -9887,7 +9878,9 @@
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Lake County</state-or-province>
       <principal-cave-name>Ben's Cave</principal-cave-name>
+      <other-cave-name>Fungus Forest Cave</other-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1248</reference>
    </record>
@@ -10276,6 +10269,7 @@
       <length>69</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=247</reference>
    </record>
    <record>
@@ -12263,20 +12257,36 @@
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife; Fuencaliente</state-or-province>
       <phys-area-name>Canary Islands; La Palma</phys-area-name>
-      <principal-cave-name>Cueva de los Plameros</principal-cave-name>
+      <principal-cave-name>Cueva de los Palmeros</principal-cave-name>
+      <cave-id>LP/FC-9</cave-id>
       <length>181</length>
       <cave-type>lava tunnel</cave-type>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1480</reference>
       <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
+      <reference>Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; La Palma; Fuencaliente</phys-area-name>
       <principal-cave-name>Cueva de los Conejos</principal-cave-name>
+      <cave-id>LP/FC-5</cave-id>
       <length>30</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1479</reference>
       <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
+      <reference>Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf</reference>
+   </record>
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife</state-or-province>
+      <phys-area-name>Canary Islands; La Palma Island</phys-area-name>
+      <principal-cave-name>Cueva de la Fuente de La Canaria</principal-cave-name>
+      <cave-id>LP/MZ-3</cave-id>
+      <length>237</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf</reference>
+      <reference>Gonzalez-Pimentel et al. (2021) doi:10.7717/peerj.11386</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -12297,16 +12307,6 @@
       <length>2250</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1149</reference>
-   </record>
-   <record>
-      <country-name>Spain</country-name>
-      <state-or-province>Santa Cruz de Tenerife; Fuencaliente</state-or-province>
-      <phys-area-name>Canary Islands; La Palma</phys-area-name>
-      <principal-cave-name>Cueva de los Palmeros</principal-cave-name>
-      <length>181</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1480</reference>
-      <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -13353,15 +13353,6 @@
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
       <state-or-province>Gooding County</state-or-province>
-      <principal-cave-name>Dead Hog Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1050</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho</state-or-province>
-      <state-or-province>Gooding County</state-or-province>
       <principal-cave-name>Dead Horse Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
@@ -13538,15 +13529,6 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1375</reference>
       <reference>Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho; Elmore County</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Dinosaur Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1041</reference>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -14942,6 +14924,7 @@
       <length>1250</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
+      <contents>periodic  ice</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=243</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
@@ -15222,7 +15205,6 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
-      <comments>UNESCO world heritage site</comments>
       <reference>Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X</reference>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1545</reference>
       <reference>Caffo and Marino (1999) http://vulcanospeleology.org/sym09/ISV9Eaj.pdf</reference>
@@ -16376,6 +16358,8 @@
       <state-or-province>Idaho; Elmore County</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Ice Springs Cave</principal-cave-name>
+      <other-cave-name>Rat Cave</other-cave-name>
+      <other-cave-name>Rat Hole</other-cave-name>
       <length>6</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1043</reference>
@@ -16528,15 +16512,6 @@
       <length>300</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=645</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho; Elmore County</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Interstate Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1044</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -19718,15 +19693,6 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=501</reference>
    </record>
    <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho; Bonneville County</state-or-province>
-      <phys-area-name/>
-      <principal-cave-name>Mulhall Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1017</reference>
-   </record>
-   <record>
       <country-name>Japan</country-name>
       <state-or-province>Nagasaki</state-or-province>
       <phys-area-name/>
@@ -20971,15 +20937,6 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
-      <state-or-province>Gooding County</state-or-province>
-      <principal-cave-name>Pigeon Coop</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1052</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho</state-or-province>
       <state-or-province>Lincoln County</state-or-province>
       <phys-area-name>Tee-Maze cave system</phys-area-name>
       <principal-cave-name>Pigeon Hole</principal-cave-name>
@@ -21663,6 +21620,7 @@
       <state-or-province>Lake County</state-or-province>
       <principal-cave-name>Red Herring Cave</principal-cave-name>
       <length/>
+      <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1249</reference>
    </record>
@@ -23780,6 +23738,7 @@
       <cave-type>lava tunnel</cave-type>
       <contents>snakes</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1055</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -25256,24 +25215,6 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
-      <state-or-province>Idaho; Blaine County</state-or-province>
-      <phys-area-name>Wedge Butte</phys-area-name>
-      <principal-cave-name>Wedge Butte Cave West</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1015</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>Idaho; Blaine County</state-or-province>
-      <phys-area-name>Wedge Butte</phys-area-name>
-      <principal-cave-name>Wedge Butte Cave East</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1016</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
       <state-or-province>Hawaii; Kauai County</state-or-province>
       <phys-area-name>Kauai; Koloa</phys-area-name>
       <principal-cave-name>Shelter Caves (Koloa 74c)</principal-cave-name>
@@ -25450,16 +25391,6 @@
       <length>70</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=646</reference>
-   </record>
-   <record>
-      <country-name>United States of America</country-name>
-      <state-or-province>California</state-or-province>
-      <state-or-province>Siskiyou County</state-or-province>
-      <phys-area-name>Shasta</phys-area-name>
-      <principal-cave-name>Wind Cave</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=622</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -25917,6 +25848,59 @@
       <cave-type>lava tunnel</cave-type>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
    </record>
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife; Santa Cruz</state-or-province>
+      <phys-area-name>Canary Islands; La Palma</phys-area-name>
+      <principal-cave-name>Cueva Honda del Bejendado</principal-cave-name>
+      <other-cave-name>Eduardo y Chicos</other-cave-name>
+      <cave-id>LP/EP-1</cave-id>
+      <length>1363</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf</reference>
+   </record>
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife; Santa Cruz</state-or-province>
+      <phys-area-name>Canary Islands; La Palma</phys-area-name>
+      <principal-cave-name>Cueva del Sistema de Tigalate A</principal-cave-name>
+      <cave-id>LP/MZ-1</cave-id>
+      <length>1632</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf</reference>
+   </record>
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife; Santa Cruz</state-or-province>
+      <phys-area-name>Canary Islands; La Palma</phys-area-name>
+      <principal-cave-name>Cueva del Sistema de Tigalate B</principal-cave-name>
+      <cave-id>LP/MZ-2</cave-id>
+      <length>911</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf</reference>
+   </record>
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife; Santa Cruz</state-or-province>
+      <phys-area-name>Canary Islands; La Palma</phys-area-name>
+      <principal-cave-name>Cueva del Perdido</principal-cave-name>
+      <cave-id>LP/TZ-2</cave-id>
+      <length>1288</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf</reference>
+   </record>
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province>Santa Cruz de Tenerife; Santa Cruz</state-or-province>
+      <phys-area-name>Canary Islands; La Palma</phys-area-name>
+      <principal-cave-name>Cueva Honda de Miranda</principal-cave-name>
+      <other-cave-name>Cueva de la Eseuela Taller</other-cave-name>
+      <cave-id>LP/BA-3</cave-id>
+      <length>1006</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf</reference>
+   </record>
+   
    <record>
       <country-name>Italy</country-name>
       <state-or-province>Campania; Naples</state-or-province>

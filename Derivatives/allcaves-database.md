@@ -1543,8 +1543,8 @@ Romania - Apuseni Mountains
 [Kern et al. (2009) doi:10.1177/0959683609105296](https://doi.org/10.1177/0959683609105296)   
 
 ---  
-<a name="RO-c3a499ea3ed9902838c6ba5255683527"></a>
-Romania - Apuseni Mountains  
+<a name="RO-69f2863d281502aa3bdd44b60c7c5090"></a>
+Romania - Apuseni Mountains; Western Carpathians  
 *Cave Name(s):* **Focul Viu Ice Cave**  
 *altitude:* 1165  
 *Length:* 107m *Vertical extent:* ~30m   
@@ -5362,7 +5362,7 @@ United States of America - Pennsylvania
 ---  
 <a name="US-22e9c379d377c2cf5c7077daf1b8f747"></a>
 United States of America - New Mexico; Cibola County - El Malpais National Monument  
-*Cave Name(s):* **Navajo Cave** Navajo Ice Cave; Cave 29  
+*Cave Name(s):* **Navajo Cave** Navajo Ice Cave  
 *altitude:* 2268  
 *Length:* 171m *Vertical extent:* ~14m   
 [map](https://www.nature.com/articles/s41598-020-76988-1/figures/1)   
@@ -5652,13 +5652,6 @@ Kenya - Rift Valley Province; Kajiado District - Mt. Suswa
 *Cave Name(s):* **Cave 21**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1443](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1443)   
-
----  
-<a name="US-6caf5cb4e28ecc0b904a0c3185bb9d9b"></a>
-United States of America - Idaho; Blaine County - Wedge Butte  
-*Cave Name(s):* **97 Mile Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1013](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1013)   
 
 ---  
 <a name="US-27bcab35b484e108a2e9f19f677c0378"></a>
@@ -6282,6 +6275,7 @@ Australia - Queensland
 United States of America - Oregon; Deschutes County - Horse Lava Tube System  
 *Cave Name(s):* **Barlow Cave**  
 *Length:* 243m   
+[map](https://rpif.asu.edu/LTdatabase/images/Barlow_%26_Wilson_Caves.jpg)   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1251](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1251)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1339](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1339)   
@@ -6496,8 +6490,8 @@ United States of America - Idaho; Lincoln County - Black Butte
 ---  
 <a name="US-4bce362455c2ea976f428b561a4588b3"></a>
 United States of America - Oregon; Lake County  
-*Cave Name(s):* **Ben's Cave**  
-*Cave type:* lava tunnel  
+*Cave Name(s):* **Ben's Cave** Fungus Forest Cave  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1248](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1248)   
 
 ---  
@@ -6799,6 +6793,7 @@ United States of America - Arizona; Coconino County - San Franciscan; Sunset Cra
 *Cave Name(s):* **Bonito Flow Ice Cave** Sunset Crater Ice Cave  
 *Length:* 69m   
 *Rock type:* basalt *Cave type:* lava tunnel  
+*Contents:* permanent ice  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=247](https://rpif.asu.edu/LTdatabase/result.php?RECNO=247)   
 
 ---  
@@ -8336,21 +8331,33 @@ Spain - Las Palmas - Canary Islands; Lanzarote
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148)   
 
 ---  
-<a name="ES-129bd2e3148d3d1148ef0f93b96f78a1"></a>
+<a name="ES-LP/FC-9"></a>
 Spain - Santa Cruz de Tenerife; Fuencaliente - Canary Islands; La Palma  
-*Cave Name(s):* **Cueva de los Plameros**  
+*Cave Name(s):* **Cueva de los Palmeros** *Id:* LP/FC-9  
 *Length:* 181m   
 *Cave type:* lava tunnel  
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1480](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1480)   
 [Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
+[Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf)   
 
 ---  
-<a name="ES-7bddc0017ba641552428e7089c0d8ce5"></a>
+<a name="ES-LP/FC-5"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; La Palma; Fuencaliente  
-*Cave Name(s):* **Cueva de los Conejos**  
+*Cave Name(s):* **Cueva de los Conejos** *Id:* LP/FC-5  
 *Length:* 30m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1479](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1479)   
 [Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
+[Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf)   
+
+---  
+<a name="ES-LP/MZ-3"></a>
+Spain - Santa Cruz de Tenerife - Canary Islands; La Palma Island  
+*Cave Name(s):* **Cueva de la Fuente de La Canaria** *Id:* LP/MZ-3  
+*Length:* 237m   
+*Cave type:* lava tunnel  
+[Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf)   
+[Gonzalez-Pimentel et al. (2021) doi:10.7717/peerj.11386](https://doi.org/10.7717/peerj.11386)   
 
 ---  
 <a name="MX-ea2f4f2d7323175f205742192f0b557a"></a>
@@ -8368,15 +8375,6 @@ Spain - Las Palmas - Canary Islands; Lanzarote
 *Length:* 2250m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1149](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1149)   
-
----  
-<a name="ES-e89f43db47cef8e250ef5874a427bc08"></a>
-Spain - Santa Cruz de Tenerife; Fuencaliente - Canary Islands; La Palma  
-*Cave Name(s):* **Cueva de los Palmeros**  
-*Length:* 181m   
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1480](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1480)   
-[Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
 <a name="ES-e1fd07873552ebf3583244d9a5006dd4"></a>
@@ -9218,13 +9216,6 @@ United States of America - Washington; Klickitat County - Mt. Adams
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1613](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1613)   
 
 ---  
-<a name="US-887c41aace5468f2330fb4afa66cc80b"></a>
-United States of America - Idaho; Gooding County  
-*Cave Name(s):* **Dead Hog Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1050](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1050)   
-
----  
 <a name="US-fc8798f70f1ddbe28fe3cadaec42ae9d"></a>
 United States of America - Idaho; Gooding County  
 *Cave Name(s):* **Dead Horse Cave**  
@@ -9364,13 +9355,6 @@ Australia - Queensland - Undara
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1375](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1375)   
 [Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf](http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf)   
-
----  
-<a name="US-a94cf30d9fdf774df528380ce7a66946"></a>
-United States of America - Idaho; Elmore County  
-*Cave Name(s):* **Dinosaur Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1041](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1041)   
 
 ---  
 <a name="IS-7ea1c2626928fff50d917bd1258baf50"></a>
@@ -10454,6 +10438,7 @@ United States of America - Arizona; Coconino County - San Franciscan
 *Cave Name(s):* **Government Cave** Lava River Cave; Bellemont Cave  
 *Length:* 1250m   
 *Rock type:* basalt *Cave type:* lava tunnel  
+*Contents:* periodic  ice  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=243](https://rpif.asu.edu/LTdatabase/result.php?RECNO=243)   
 *Cave use:* self-guided tourist cave  
 
@@ -10670,7 +10655,6 @@ Italy - Sicilia - Sicily; Etna
 *Length:* ~120m *Number of entrances:* 1  
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* permanent ice  
-*Comments:* UNESCO world heritage site  
 [Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X](https://doi.org/10.1016/B978-0-12-811739-2.00019-X)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1545](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1545)   
 [Caffo and Marino (1999) http://vulcanospeleology.org/sym09/ISV9Eaj.pdf](http://vulcanospeleology.org/sym09/ISV9Eaj.pdf)   
@@ -11588,7 +11572,7 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 ---  
 <a name="US-47b61cf792db081b34df80a45ce1fefb"></a>
 United States of America - Idaho; Elmore County  
-*Cave Name(s):* **Ice Springs Cave**  
+*Cave Name(s):* **Ice Springs Cave** Rat Cave; Rat Hole  
 *Length:* 6m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1043](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1043)   
@@ -11703,13 +11687,6 @@ United States of America - California; Tehama County
 *Length:* 300m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=645](https://rpif.asu.edu/LTdatabase/result.php?RECNO=645)   
-
----  
-<a name="US-4e49e868e61d02c0b45e2b2398a8a4c1"></a>
-United States of America - Idaho; Elmore County  
-*Cave Name(s):* **Interstate Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1044](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1044)   
 
 ---  
 <a name="JP-c5e82f08ca514d7fc87956c02d8c94fc"></a>
@@ -14236,13 +14213,6 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=501](https://rpif.asu.edu/LTdatabase/result.php?RECNO=501)   
 
 ---  
-<a name="US-e68132b99f82b13f3fab2fbd0a62edca"></a>
-United States of America - Idaho; Bonneville County  
-*Cave Name(s):* **Mulhall Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1017](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1017)   
-
----  
 <a name="JP-5e50dc0b75c253e85fef3148b98d2e45"></a>
 Japan - Nagasaki  
 *Cave Name(s):* **Mumei-ana**  
@@ -15224,13 +15194,6 @@ United States of America - Hawaii - Hawaii (Big Island); Mauna Loa; Puu Waa Waa
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=867](https://rpif.asu.edu/LTdatabase/result.php?RECNO=867)   
 
 ---  
-<a name="US-159ea7f8a88fbfcb10ef5f15028edb8c"></a>
-United States of America - Idaho; Gooding County  
-*Cave Name(s):* **Pigeon Coop**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1052](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1052)   
-
----  
 <a name="US-72241daf5ad4a5781eac4c7aca791708"></a>
 United States of America - Idaho; Lincoln County - Tee-Maze cave system  
 *Cave Name(s):* **Pigeon Hole**  
@@ -15767,7 +15730,7 @@ United States of America - Hawaii; North Hilo district - Hawaii (Big Island); Ma
 <a name="US-70c3806c25ff43f01d94ba00a162057c"></a>
 United States of America - Oregon; Lake County  
 *Cave Name(s):* **Red Herring Cave**  
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1249](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1249)   
 
 ---  
@@ -17415,6 +17378,7 @@ United States of America - Idaho; Gooding County
 *Cave type:* lava tunnel  
 *Contents:* snakes  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1055](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1055)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="US-c9dc22122d8ad7f316de0545eed14bee"></a>
@@ -18551,20 +18515,6 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=542](https://rpif.asu.edu/LTdatabase/result.php?RECNO=542)   
 
 ---  
-<a name="US-c7d3d44f543e5649e329c4d0b04a5c2d"></a>
-United States of America - Idaho; Blaine County - Wedge Butte  
-*Cave Name(s):* **Wedge Butte Cave West**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1015](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1015)   
-
----  
-<a name="US-e78163d559f35e4bc56eebe38db7ce27"></a>
-United States of America - Idaho; Blaine County - Wedge Butte  
-*Cave Name(s):* **Wedge Butte Cave East**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1016](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1016)   
-
----  
 <a name="US-a64bdeaa4d7d4dd89ce3eb0529c233ec"></a>
 United States of America - Hawaii; Kauai County - Kauai; Koloa  
 *Cave Name(s):* **Shelter Caves (Koloa 74c)**  
@@ -18695,13 +18645,6 @@ United States of America - California; Tehama County
 *Length:* 70m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=646](https://rpif.asu.edu/LTdatabase/result.php?RECNO=646)   
-
----  
-<a name="US-fe724b40b99a1bb0509683e2bd71b468"></a>
-United States of America - California; Siskiyou County - Shasta  
-*Cave Name(s):* **Wind Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=622](https://rpif.asu.edu/LTdatabase/result.php?RECNO=622)   
 
 ---  
 <a name="US-da5dbc4fdb0d592bf9c15731feaa6eef"></a>
@@ -19081,6 +19024,46 @@ Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island
 *Length:* 214m   
 *Cave type:* lava tunnel  
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
+
+---  
+<a name="ES-LP/EP-1"></a>
+Spain - Santa Cruz de Tenerife; Santa Cruz - Canary Islands; La Palma  
+*Cave Name(s):* **Cueva Honda del Bejendado** Eduardo y Chicos *Id:* LP/EP-1  
+*Length:* 1363m   
+*Cave type:* lava tunnel  
+[Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf)   
+
+---  
+<a name="ES-LP/MZ-1"></a>
+Spain - Santa Cruz de Tenerife; Santa Cruz - Canary Islands; La Palma  
+*Cave Name(s):* **Cueva del Sistema de Tigalate A** *Id:* LP/MZ-1  
+*Length:* 1632m   
+*Cave type:* lava tunnel  
+[Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf)   
+
+---  
+<a name="ES-LP/MZ-2"></a>
+Spain - Santa Cruz de Tenerife; Santa Cruz - Canary Islands; La Palma  
+*Cave Name(s):* **Cueva del Sistema de Tigalate B** *Id:* LP/MZ-2  
+*Length:* 911m   
+*Cave type:* lava tunnel  
+[Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf)   
+
+---  
+<a name="ES-LP/TZ-2"></a>
+Spain - Santa Cruz de Tenerife; Santa Cruz - Canary Islands; La Palma  
+*Cave Name(s):* **Cueva del Perdido** *Id:* LP/TZ-2  
+*Length:* 1288m   
+*Cave type:* lava tunnel  
+[Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf)   
+
+---  
+<a name="ES-LP/BA-3"></a>
+Spain - Santa Cruz de Tenerife; Santa Cruz - Canary Islands; La Palma  
+*Cave Name(s):* **Cueva Honda de Miranda** Cueva de la Eseuela Taller *Id:* LP/BA-3  
+*Length:* 1006m   
+*Cave type:* lava tunnel  
+[Fernandez Lorenzo (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf)   
 
 ---  
 <a name="IT-c905911c4f155b004c7902760bbdda74"></a>

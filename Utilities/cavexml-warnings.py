@@ -77,11 +77,17 @@ for item in root.findall('record'):
             print('WARNING: Length is smaller than vertical extent',leng.text,vex.text)
 
     for k in range(0,len(multipleelements)):
-        rot = item.findall(multipleelements[k])
+        tagname = multipleelements[k]
+        rot = item.findall(tagname)
         for i in range(0,len(rot)):
             for j in range(0,i):
                 if rot[i].text == rot[j].text:
-                    print('WARNING: duplicate entry for',multipleelements[k],'in',acavename)
+                    print('WARNING: duplicate entry for',tagname,'in',acavename)
+            empty = 0
+            if rot[i].text is None:
+                empty += 1
+            if empty>0 and len(rot)>1: # empty tag in addition to another tag value
+                print('WARNING: empty where empty need not be',acavename,tagname)
 
     ref = item.find('reference')
     try:
@@ -105,6 +111,8 @@ for item in root.findall('record'):
             if "https://www" not in refstr and "http://www." not in refstr:
                 print('WARNING: www could be http://www or https://www ', refstr) 
 
+
+                
 # move on to cross comparisons
 print('... cross comparisons ...')
 

@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 524 rock-hosted caves with perennial ice was generated from a CaveXML database.  
+This list of 527 rock-hosted caves with perennial ice was generated from a CaveXML database.  
 
 Austria - Oberösterreich [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
 Austria - Oberösterreich [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-1547/17)  
@@ -60,10 +60,12 @@ China - Heilongjiang province [**Shuijinggong (Crystal Palace)** Ice Cave Vudaly
 China - Heilongjiang province [**Underground Ice Cave** ](allcaves-database.md#CN-1ecd2083a556393ea79c285e27bc46be)  
 China - Shanxi Province [**Cave Ningwu** ](allcaves-database.md#CN-28b908226b2c3637814b6b68d8c3da57)  
 China - Shanxi Province; Liuba County [**Zibaishan Ice Cave** ](allcaves-database.md#CN-b5a880813a354dc11e07fae198a73830)  
-Croatia [**Ledenica Cave** ](allcaves-database.md#HR-59e8ec5a259a07f062a3c705fd9e7f0c)  
+Croatia [**Kugina ledenica** Kugina Ice Cave ](allcaves-database.md#HR-6f1c783a5a0993501197890241ec8f19)  
+Croatia [**Ledena Jama u Lomskoj dulibi** Ledenica Cave; Ledena Pit ](allcaves-database.md#HR-fc5c286f2874ed642e4a714c611bdc41)  
 Croatia [**Lukina jama-Trojama system** ](allcaves-database.md#HR-96408a1ebf531785b2ac2dba2bfe6014)  
 Croatia [**Puhaljka Cave** ](allcaves-database.md#HR-5f9eca7e842ee5186254a7851395bc6a)  
 Croatia [**Snjeguljac Cave** ](allcaves-database.md#HR-33106ec4fe619387c246bf1b458644ca)  
+Croatia [**Vukušić  Ice  Cave** Vukušić snježnica ](allcaves-database.md#HR-127e07914a01979e937269d23b2317b4)  
 Finland [**Korkia-Mauran Jääluola** Ice Cave ](allcaves-database.md#FI-3bacd764cccfcdca855f79037da8fe2e)  
 Germany - Bayern [**Cannstatter Schacht** 1338/183](allcaves-database.md#DE-1338/183)  
 Germany - Bayern [**Eisbläser** 1339/246](allcaves-database.md#DE-1339/246)  
@@ -479,7 +481,7 @@ Switzerland [**Greux-de-Glace** ](allcaves-database.md#CH-f970d41882d51e4df0d963
 Switzerland - Neuchâtel (NE) [**Monlesi Ice Cave** Glacière de Monlési NE-137](allcaves-database.md#CH-NE-137)  
 Switzerland - Valais (VS) [**Jochloch** VS-150](allcaves-database.md#CH-VS-150)  
 Switzerland - Vaud (VD) [**Glacière de Saint-George** ](allcaves-database.md#CH-2f0954b99b584fe73bd2745664705b11)  
-Switzerland - Vaud (VD) [**St-Livres Ice Cave** Glacière de St-Livres VD-257](allcaves-database.md#CH-VD-257)  
+Switzerland - Vaud (VD) [**St. Livres Ice Cave** Glacière de St-Livres VD-257](allcaves-database.md#CH-VD-257)  
 Tajikistan [**Nuriddina Cave** ](allcaves-database.md#TJ-26455c558689160577a28108bdc79c42)  
 Tajikistan [**Putnikov Cave** Rangkulskaya Cave; Matatash ](allcaves-database.md#TJ-6f9c29ef7300aa64a65fa122d62e1199)  
 Turkey - Ağri province [**Ice Cave in Ağri** Buzluk Mağarası ](allcaves-database.md#TR-5d12005d47952f29534221f017e80b2f)  
@@ -497,6 +499,7 @@ United States of America - California [**U-200** ](allcaves-database.md#US-35502
 United States of America - Hawaii [**Arsia Cave** Arsia Ice Cave ](allcaves-database.md#US-c27a141b3ed15774f8fce43ce9287ed0)  
 United States of America - Hawaii [**Mauna Loa Ice Cave** ](allcaves-database.md#US-b06fbb3d2b569e50f6cddc95cfb1b0f7)  
 United States of America - Idaho; Butte County [**Boy Scout Cave** ](allcaves-database.md#US-fb672da215b7a63a8da8805a22311591)  
+United States of America - Idaho [**Niter Ice Cave** ](allcaves-database.md#US-4e939cee51ff8afebc0093419af01cc7)  
 United States of America - Idaho [**Snow Cone** ](allcaves-database.md#US-9c34793586092e16b66cfb8a7655fb35)  
 United States of America - Idaho [**Strickler Cavern** ](allcaves-database.md#US-8b83b776893742c5e3bebdacb4deb460)  
 United States of America - Montana [**Crater Ice Cave** ](allcaves-database.md#US-e5adad7e773ba261bf30f78657233988)  
@@ -510,7 +513,7 @@ United States of America - New Mexico; Cibola County [**La Marchantia Cave** ](a
 United States of America - New Mexico; Cibola County [**Navajo Cave** Navajo Ice Cave ](allcaves-database.md#US-22e9c379d377c2cf5c7077daf1b8f747)  
 United States of America - New Mexico; Cibola County [**Rusty Barrel Ice Cave** Apache Ice Cave ](allcaves-database.md#US-165501f4c98359d7b62391f837e32d75)  
 United States of America - Oregon; Deschutes County [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-b9513e9db4a84c47e0d0057c42022592)  
-United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-fc31747e0f12f877b7feb2c56dbe48c9)  
+United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-adc4f02585a0a21689852812c09c7fa6)  
 United States of America - Oregon; Deschutes County [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-0aefe1c8bb5fb60a31e99240d97c2a55)  
 United States of America - Utah [**Bear Ice Cave** ](allcaves-database.md#US-f9244e4b84013595587462be918605da)  
 United States of America - Utah [**Big Brush Creek Cave** ](allcaves-database.md#US-e328d340ccc22180c747d11cb3f14d41)  

@@ -271,9 +271,29 @@
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Croatia</schema:addressCountry>
-      <rdfs:label>Ledenica Cave</rdfs:label>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Velebit Mt</schema:addressLocality>
+      <rdfs:label>Ledena Jama u Lomskoj dulibi</rdfs:label>
+      <gn:alternateName>Ledenica Cave</gn:alternateName>
+      <gn:alternateName>Ledena Pit</gn:alternateName>
+      <w3geo:latitude>44.74</w3geo:latitude>
+      <w3geo:longitude>15.03</w3geo:longitude>
+      <w3geo:altitude>1235</w3geo:altitude>
+      <karstlink:verticalExtent>536</karstlink:verticalExtent>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</dct:references>
+      <dct:references>Kern et al. (2018) DOI:10.1017/RDC.2018.108</dct:references>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Croatia</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Velebit Mt</schema:addressLocality>
+      <rdfs:label>Kugina ledenica</rdfs:label>
+      <gn:alternateName>Kugina Ice Cave</gn:alternateName>
+      <w3geo:latitude>44.61</w3geo:latitude>
+      <w3geo:longitude>15.08</w3geo:longitude>
+      <w3geo:altitude>1140</w3geo:altitude>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <rdfs:comment>firn</rdfs:comment>
+      <dct:references>Kern et al. (2018) DOI:10.1017/RDC.2018.108</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Croatia</schema:addressCountry>
@@ -294,6 +314,21 @@
       <rdfs:label>Lukina jama-Trojama system</rdfs:label>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</dct:references>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Croatia</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Velebit Mt.</schema:addressLocality>
+      <rdfs:label>Vukušić  Ice  Cave</rdfs:label>
+      <gn:alternateName>Vukušić snježnica</gn:alternateName>
+      <w3geo:latitude>44.8</w3geo:latitude>
+      <w3geo:longitude>14.98</w3geo:longitude>
+      <w3geo:altitude>1470</w3geo:altitude>
+      <karstlink:length>20</karstlink:length>
+      <karstlink:verticalExtent>30</karstlink:verticalExtent>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <rdfs:comment>15m thick ice bodies</rdfs:comment>
+      <dct:references>Kern et al. (2011) doi:10.5194/tc-5-485-2011</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Finland</schema:addressCountry>
@@ -1821,8 +1856,10 @@
       <dct:references>Racoviţă and Onac (2000) 'Scărișoara Glacier Cave' Editura Carpatica, 138pp</dct:references>
       <dct:references>Holmlund et al. (2005) doi:j.0435-3676.2005.00252.x</dct:references>
       <dct:references>Perşoiu et al. (2011) doi:10.1029/2010JD014477</dct:references>
+      <dct:references>Perşoiu and Pazdur (2011) doi:10.5194/tc-5-45-2011</dct:references>
       <dct:references>Feurdean et al. (2011) doi:10.1016/j.revpalbo.2011.01.007</dct:references>
       <dct:references>Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5</dct:references>
+      <dct:references>Brad et al. (2018) doi:10.1038/s41598-018-28401-1</dct:references>
       <dct:references>Itcus et al. (2018) doi:10.1038/s41598-018-34106-2</dct:references>
       <dct:references>Modini et al. (2018) doi:10.1017/aog.2019.6</dct:references>
       <dct:references>Paun et al. (2021) doi:10.1038/s41598-020-79754-5</dct:references>
@@ -2396,7 +2433,7 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Huesca province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Pyrenees</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Cotiella</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Cotiella Massif</schema:addressLocality>
       <w3geo:latitude>42.5</w3geo:latitude>
       <w3geo:longitude>0.3</w3geo:longitude>
       <w3geo:altitude>2238</w3geo:altitude>
@@ -2405,8 +2442,9 @@
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <rdfs:comment>ice volume of 250 m^3, mainly composed of firn ice, some congelation ice and seasonal ice stalagmites</rdfs:comment>
-      <dct:references>Belmonte et al. (2014) DOI:10.4461/GFDQ.2014.37.12</dct:references>
+      <dct:references>Belmonte-Ribas et al. (2014) DOI:10.4461/GFDQ.2014.37.12</dct:references>
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
+      <dct:references>Leunda et al. (2018) doi:10.1111/1365-2745.13077</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="A69">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
@@ -4341,15 +4379,17 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">Switzerland</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Vaud (VD)</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Swiss Jura mountains</schema:addressLocality>
-      <rdfs:label>St-Livres Ice Cave</rdfs:label>
+      <rdfs:label>St. Livres Ice Cave</rdfs:label>
       <gn:alternateName>Glacière de St-Livres</gn:alternateName>
       <w3geo:latitude>46.56306</w3geo:latitude>
       <w3geo:longitude>6.29722</w3geo:longitude>
-      <w3geo:altitude>1395</w3geo:altitude>
+      <w3geo:altitude>1359</w3geo:altitude>
+      <karstlink:verticalExtent>45</karstlink:verticalExtent>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
-      <rdfs:comment>firn deposits</rdfs:comment>
+      <rdfs:comment>firn deposits; ice volume estimated 1200 m^3</rdfs:comment>
       <rdfs:comment>cold air trap</rdfs:comment>
       <dct:references>Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3</dct:references>
+      <dct:references>Stoffel et al. (2009) doi:10.1016/j.yqres.2009.03.002</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Switzerland</schema:addressCountry>
@@ -6224,6 +6264,37 @@
       <dct:references rdf:resource="https://caves.org/grotto/ccg/um/2013_10_um.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Norway</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sogn og Fjordane</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Jostedal Glacier National Park</schema:addressLocality>
+      <rdfs:label>Nigardsbreen Ice Cave</rdfs:label>
+      <gn:alternateName>Bla Is Grotta</gn:alternateName>
+      <gn:alternateName>Blue Ice Cave</gn:alternateName>
+      <gn:alternateName>Ice Cathedral</gn:alternateName>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">ice</cavexml:rock-type>
+      <rdfs:comment>dimensions vary from year to year</rdfs:comment>
+      <dct:references rdf:resource="https://www.showcaves.com/english/no/caves/Nigardsbreen.html"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">guided tourist cave</cavexml:cave-use>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Alaska</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Mendenhall Glacier</schema:addressLocality>
+      <rdfs:label>Mendenhall Ice Cave</rdfs:label>
+      <gn:alternateName>Mendenhall Glacier Cave</gn:alternateName>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">ice</cavexml:rock-type>
+      <dct:references rdf:resource="https://www.showcaves.com/english/usa/caves/Mendenhall.html"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Iceland</schema:addressCountry>
+      <rdfs:label>Katla Ice Cave</rdfs:label>
+      <gn:alternateName>Dragon Glass Ice Cave</gn:alternateName>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">ice</cavexml:rock-type>
+      <dct:references rdf:resource="https://www.showcaves.com/english/is/caves/Katla.html"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">guided tourist cave</cavexml:cave-use>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Antarctica</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Erebus, Ross Island</schema:addressLocality>
       <rdfs:label>Warren Cave</rdfs:label>
@@ -6646,6 +6717,15 @@
       <karstlink:length>610</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1049"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
+      <rdfs:label>Niter Ice Cave</rdfs:label>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <dct:references rdf:resource="https://www.showcaves.com/english/usa/caves/NiterIce.html"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -7926,6 +8006,7 @@
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <rdfs:comment>hoarfrost reported</rdfs:comment>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=247"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -9800,14 +9881,6 @@
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1467"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym06/ISV6x31.pdf"/>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Las Palmas</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Canary Islands; Lanzarote</schema:addressLocality>
-      <rdfs:label>Cueva de las Palomas</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148"/>
-   </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="LP/FC-9">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Santa Cruz de Tenerife; Fuencaliente</schema:addressLocality>
@@ -9850,14 +9923,21 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1460"/>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="LZ29">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Las Palmas</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Canary Islands; Lanzarote</schema:addressLocality>
       <rdfs:label>Cueva de los Naturalistas</rdfs:label>
-      <karstlink:length>2250</karstlink:length>
+      <gn:alternateName>Cueva de Las Palomas de Masdache</gn:alternateName>
+      <gn:alternateName>Cueva de las Palomas</gn:alternateName>
+      <karstlink:length>1660</karstlink:length>
+      <schema:hasMap xmlns:schema="https://schema.org/">https://www.lanzarotecaves.com/wp-content/uploads/2020/08/naturalista-total-2020-05062020-2.pdf</schema:hasMap>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <rdfs:comment>Timanfaya eruption of 1730-1736</rdfs:comment>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1149"/>
+      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148"/>
+      <dct:references rdf:resource="https://www.lanzarotecaves.com/wp-content/uploads/2018/12/MartinDiaz1984.pdf"/>
+      <dct:references rdf:resource="https://www.lanzarotecaves.com/cueva-de-los-naturalistas/"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
@@ -9929,14 +10009,15 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Canary Islands; Lanzarote</schema:addressLocality>
       <rdfs:label>Cueva de los Verdes</rdfs:label>
       <gn:alternateName>Corona Lava Tube</gn:alternateName>
-      <karstlink:length>7600</karstlink:length>
+      <karstlink:length>9995</karstlink:length>
+      <karstlink:verticalExtent>273</karstlink:verticalExtent>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">perennially part-submerged</cavexml:contents>
       <rdfs:comment>consists of dry and submerged sections</rdfs:comment>
       <rdfs:comment>up to 25m in diameter</rdfs:comment>
       <karstlink:relatedToUndergroundCavity>Tunel de la Atlantida</karstlink:relatedToUndergroundCavity>
-      <karstlink:relatedToUndergroundCavity>Cueva de los Lagos</karstlink:relatedToUndergroundCavity>
+      <karstlink:relatedToUndergroundCavity>Cueva de los Siete Lagos</karstlink:relatedToUndergroundCavity>
       <karstlink:relatedToUndergroundCavity>Jameos del Agua</karstlink:relatedToUndergroundCavity>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=663"/>
       <dct:references>Wilkens et al. (2009) doi:10.1007/s12526-009-0019-2</dct:references>
@@ -12348,7 +12429,7 @@
       <karstlink:length>1250</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">periodic  ice</cavexml:contents>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">periodic ice</cavexml:contents>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=243"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
@@ -13666,6 +13747,7 @@
       <dct:references>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</dct:references>
       <dct:references rdf:resource="https://www.oregongrotto.com/troutlake.shtml"/>
       <dct:references>Halliday (1963) "Caves of Washington"</dct:references>
+      <dct:references rdf:resource="https://www.showcaves.com/english/usa/caves/TroutLakeIce.html"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -19984,7 +20066,7 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Oregon</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Deschutes County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Newberry Volcano</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Newberry Volcano; Deschutes National Forest</schema:addressLocality>
       <rdfs:label>South Ice Cave</rdfs:label>
       <w3geo:altitude>1530</w3geo:altitude>
       <karstlink:length>280</karstlink:length>
@@ -19996,6 +20078,8 @@
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1315"/>
       <dct:references>Popa et al. (2012) doi:10.1089/ast.2011.0639</dct:references>
       <dct:references>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</dct:references>
+      <dct:references rdf:resource="https://www.showcaves.com/english/usa/caves/SouthIce.html"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>

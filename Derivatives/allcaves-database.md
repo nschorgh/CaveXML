@@ -204,11 +204,23 @@ Bosnia and Herzegovina - Bobija mountain
 [Barović et al. (2018) doi:10.1016/B978-0-12-811739-2.00014-0](https://doi.org/10.1016/B978-0-12-811739-2.00014-0)   
 
 ---  
-<a name="HR-59e8ec5a259a07f062a3c705fd9e7f0c"></a>
-Croatia  
-*Cave Name(s):* **Ledenica Cave**  
+<a name="HR-fc5c286f2874ed642e4a714c611bdc41"></a>
+Croatia - Velebit Mt  
+*Cave Name(s):* **Ledena Jama u Lomskoj dulibi** Ledenica Cave; Ledena Pit  
+*Coordinates:* [44.74, +15.03](https://maps.google.com/?ll=44.74,15.03) *altitude:* 1235  
+*Vertical extent:* 536m   
 *Contents:* permanent ice  
 [Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4](https://doi.org/10.1016/B978-0-12-811739-2.00016-4)   
+[Kern et al. (2018) DOI:10.1017/RDC.2018.108](https://doi.org/10.1017/RDC.2018.108)   
+
+---  
+<a name="HR-6f1c783a5a0993501197890241ec8f19"></a>
+Croatia - Velebit Mt  
+*Cave Name(s):* **Kugina ledenica** Kugina Ice Cave  
+*Coordinates:* [44.61, +15.08](https://maps.google.com/?ll=44.61,15.08) *altitude:* 1140  
+*Contents:* permanent ice  
+*Comments:* firn  
+[Kern et al. (2018) DOI:10.1017/RDC.2018.108](https://doi.org/10.1017/RDC.2018.108)   
 
 ---  
 <a name="HR-5f9eca7e842ee5186254a7851395bc6a"></a>
@@ -230,6 +242,17 @@ Croatia
 *Cave Name(s):* **Lukina jama-Trojama system**  
 *Contents:* permanent ice  
 [Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4](https://doi.org/10.1016/B978-0-12-811739-2.00016-4)   
+
+---  
+<a name="HR-127e07914a01979e937269d23b2317b4"></a>
+Croatia - Velebit Mt.  
+*Cave Name(s):* **Vukušić  Ice  Cave** Vukušić snježnica  
+*Coordinates:* [44.8, +14.98](https://maps.google.com/?ll=44.8,14.98) *altitude:* 1470  
+*Length:* 20m *Vertical extent:* 30m   
+*Rock type:* limestone   
+*Contents:* permanent ice  
+*Comments:* 15m thick ice bodies  
+[Kern et al. (2011) doi:10.5194/tc-5-485-2011](https://doi.org/10.5194/tc-5-485-2011)   
 
 ---  
 <a name="FI-3bacd764cccfcdca855f79037da8fe2e"></a>
@@ -1564,8 +1587,10 @@ Romania - Apuseni Mountains
 Racoviţă and Onac (2000) 'Scărișoara Glacier Cave' Editura Carpatica, 138pp  
 [Holmlund et al. (2005) doi:j.0435-3676.2005.00252.x](https://doi.org/j.0435-3676.2005.00252.x)   
 [Perşoiu et al. (2011) doi:10.1029/2010JD014477](https://doi.org/10.1029/2010JD014477)   
+[Perşoiu and Pazdur (2011) doi:10.5194/tc-5-45-2011](https://doi.org/10.5194/tc-5-45-2011)   
 [Feurdean et al. (2011) doi:10.1016/j.revpalbo.2011.01.007](https://doi.org/10.1016/j.revpalbo.2011.01.007)   
 [Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5](https://doi.org/10.1016/B978-0-12-811739-2.00025-5)   
+[Brad et al. (2018) doi:10.1038/s41598-018-28401-1](https://doi.org/10.1038/s41598-018-28401-1)   
 [Itcus et al. (2018) doi:10.1038/s41598-018-34106-2](https://doi.org/10.1038/s41598-018-34106-2)   
 [Modini et al. (2018) doi:10.1017/aog.2019.6](https://doi.org/10.1017/aog.2019.6)   
 [Paun et al. (2021) doi:10.1038/s41598-020-79754-5](https://doi.org/10.1038/s41598-020-79754-5)   
@@ -2102,15 +2127,16 @@ Spain - Pyrenees
 
 ---  
 <a name="ES-A294"></a>
-Spain - Huesca province - Pyrenees; Cotiella  
+Spain - Huesca province - Pyrenees; Cotiella Massif  
 *Cave Name(s):*  *Id:* A294  
 *Coordinates:* [42.5, +0.3](https://maps.google.com/?ll=42.5,0.3) *altitude:* 2238  
 *Vertical extent:* ~40m *Number of entrances:* 2  
 *Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* ice volume of 250 m^3, mainly composed of firn ice, some congelation ice and seasonal ice stalagmites  
-[Belmonte et al. (2014) DOI:10.4461/GFDQ.2014.37.12](https://doi.org/10.4461/GFDQ.2014.37.12)   
+[Belmonte-Ribas et al. (2014) DOI:10.4461/GFDQ.2014.37.12](https://doi.org/10.4461/GFDQ.2014.37.12)   
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+[Leunda et al. (2018) doi:10.1111/1365-2745.13077](https://doi.org/10.1111/1365-2745.13077)   
 
 ---  
 <a name="ES-A69"></a>
@@ -3863,11 +3889,13 @@ Switzerland - Neuchâtel (NE) - Swiss Jura mountains
 ---  
 <a name="CH-VD-257"></a>
 Switzerland - Vaud (VD) - Swiss Jura mountains  
-*Cave Name(s):* **St-Livres Ice Cave** Glacière de St-Livres *Id:* VD-257  
-*Coordinates:* [46.56306, +6.29722](https://maps.google.com/?ll=46.56306,6.29722) *altitude:* 1395  
+*Cave Name(s):* **St. Livres Ice Cave** Glacière de St-Livres *Id:* VD-257  
+*Coordinates:* [46.56306, +6.29722](https://maps.google.com/?ll=46.56306,6.29722) *altitude:* 1359  
+*Vertical extent:* 45m   
 *Contents:* permanent ice  
-*Comments:* firn deposits; cold air trap  
+*Comments:* firn deposits; ice volume estimated 1200 m^3; cold air trap  
 [Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3](https://doi.org/10.1016/B978-0-12-811739-2.00010-3)   
+[Stoffel et al. (2009) doi:10.1016/j.yqres.2009.03.002](https://doi.org/10.1016/j.yqres.2009.03.002)   
 
 ---  
 <a name="CH-2f0954b99b584fe73bd2745664705b11"></a>
@@ -5402,6 +5430,31 @@ United States of America - New York - Shawangunk Ridge; near Mohonk Preserve
 [Millett and Millett (2013) https://caves.org/grotto/ccg/um/2013_10_um.pdf](https://caves.org/grotto/ccg/um/2013_10_um.pdf)   
 
 ---  
+<a name="NO-af21a4e82e8934926d3b950caf7345a3"></a>
+Norway - Sogn og Fjordane - Jostedal Glacier National Park  
+*Cave Name(s):* **Nigardsbreen Ice Cave** Bla Is Grotta; Blue Ice Cave; Ice Cathedral  
+*Rock type:* ice   
+*Comments:* dimensions vary from year to year  
+[https://www.showcaves.com/english/no/caves/Nigardsbreen.html](https://www.showcaves.com/english/no/caves/Nigardsbreen.html)   
+*Cave use:* guided tourist cave  
+
+---  
+<a name="US-0d730bc7b81960b98de61e9e99ee1cb5"></a>
+United States of America - Alaska - Mendenhall Glacier  
+*Cave Name(s):* **Mendenhall Ice Cave** Mendenhall Glacier Cave  
+*Rock type:* ice   
+[https://www.showcaves.com/english/usa/caves/Mendenhall.html](https://www.showcaves.com/english/usa/caves/Mendenhall.html)   
+*Cave use:* self-guided tourist cave  
+
+---  
+<a name="IS-2bcdc4c1d19710e9b8347c12b2309e0d"></a>
+Iceland  
+*Cave Name(s):* **Katla Ice Cave** Dragon Glass Ice Cave  
+*Rock type:* ice   
+[https://www.showcaves.com/english/is/caves/Katla.html](https://www.showcaves.com/english/is/caves/Katla.html)   
+*Cave use:* guided tourist cave  
+
+---  
 <a name="AQ-205d78676c8a795efc0b23f357cf46ae"></a>
 Antarctica - Mt. Erebus, Ross Island  
 *Cave Name(s):* **Warren Cave**  
@@ -5757,6 +5810,15 @@ United States of America - Idaho; Gooding County
 *Length:* 610m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1049](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1049)   
+
+---  
+<a name="US-4e939cee51ff8afebc0093419af01cc7"></a>
+United States of America - Idaho  
+*Cave Name(s):* **Niter Ice Cave**  
+*Cave type:* lava tunnel  
+*Contents:* permanent ice  
+[https://www.showcaves.com/english/usa/caves/NiterIce.html](https://www.showcaves.com/english/usa/caves/NiterIce.html)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="US-ca280801e715191ddbcf8276db182421"></a>
@@ -6794,6 +6856,7 @@ United States of America - Arizona; Coconino County - San Franciscan; Sunset Cra
 *Length:* 69m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* permanent ice  
+*Comments:* hoarfrost reported  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=247](https://rpif.asu.edu/LTdatabase/result.php?RECNO=247)   
 
 ---  
@@ -8324,13 +8387,6 @@ Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
 
 ---  
-<a name="ES-50e3b858ffd47dd031a10c0ba8b60552"></a>
-Spain - Las Palmas - Canary Islands; Lanzarote  
-*Cave Name(s):* **Cueva de las Palomas**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148)   
-
----  
 <a name="ES-LP/FC-9"></a>
 Spain - Santa Cruz de Tenerife; Fuencaliente - Canary Islands; La Palma  
 *Cave Name(s):* **Cueva de los Palmeros** *Id:* LP/FC-9  
@@ -8369,12 +8425,17 @@ Mexico - San Luis Potosí
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1460](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1460)   
 
 ---  
-<a name="ES-96e8fadd6ff349877f54497ded7783c0"></a>
+<a name="ES-LZ29"></a>
 Spain - Las Palmas - Canary Islands; Lanzarote  
-*Cave Name(s):* **Cueva de los Naturalistas**  
-*Length:* 2250m   
+*Cave Name(s):* **Cueva de los Naturalistas** Cueva de Las Palomas de Masdache; Cueva de las Palomas *Id:* LZ29  
+*Length:* 1660m   
+[map](https://www.lanzarotecaves.com/wp-content/uploads/2020/08/naturalista-total-2020-05062020-2.pdf)   
 *Cave type:* lava tunnel  
+*Comments:* Timanfaya eruption of 1730-1736  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1149](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1149)   
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148)   
+[Martin and Diaz (1984) https://www.lanzarotecaves.com/wp-content/uploads/2018/12/MartinDiaz1984.pdf](https://www.lanzarotecaves.com/wp-content/uploads/2018/12/MartinDiaz1984.pdf)   
+[https://www.lanzarotecaves.com/cueva-de-los-naturalistas/](https://www.lanzarotecaves.com/cueva-de-los-naturalistas/)   
 
 ---  
 <a name="ES-e1fd07873552ebf3583244d9a5006dd4"></a>
@@ -8432,11 +8493,11 @@ Spain - Santa Cruz de Tenerife; La Laguna - Tenerife
 <a name="ES-2f9f08180eef7bd60bfd8ff4f08d7f25"></a>
 Spain - Las Palmas - Canary Islands; Lanzarote  
 *Cave Name(s):* **Cueva de los Verdes** Corona Lava Tube  
-*Length:* 7600m   
+*Length:* 9995m *Vertical extent:* 273m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* perennially part-submerged  
 *Comments:* consists of dry and submerged sections; up to 25m in diameter  
-*Branches:* [Tunel de la Atlantida](#ES-c5981a1a916cefce87d884c850717bd0); Cueva de los Lagos; Jameos del Agua;   
+*Branches:* [Tunel de la Atlantida](#ES-c5981a1a916cefce87d884c850717bd0); Cueva de los Siete Lagos; Jameos del Agua;   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=663](https://rpif.asu.edu/LTdatabase/result.php?RECNO=663)   
 [Wilkens et al. (2009) doi:10.1007/s12526-009-0019-2](https://doi.org/10.1007/s12526-009-0019-2)   
 [Garcia et al. (2009) doi:10.1007/s12526-009-0023-6](https://doi.org/10.1007/s12526-009-0023-6)   
@@ -10438,7 +10499,7 @@ United States of America - Arizona; Coconino County - San Franciscan
 *Cave Name(s):* **Government Cave** Lava River Cave; Bellemont Cave  
 *Length:* 1250m   
 *Rock type:* basalt *Cave type:* lava tunnel  
-*Contents:* periodic  ice  
+*Contents:* periodic ice  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=243](https://rpif.asu.edu/LTdatabase/result.php?RECNO=243)   
 *Cave use:* self-guided tourist cave  
 
@@ -11541,6 +11602,7 @@ United States of America - Washington; Skamania County - Mt. Adams
 [Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0](https://doi.org/10.1016/B978-0-12-811739-2.00031-0)   
 [https://www.oregongrotto.com/troutlake.shtml](https://www.oregongrotto.com/troutlake.shtml)   
 Halliday (1963) "Caves of Washington"  
+[https://www.showcaves.com/english/usa/caves/TroutLakeIce.html](https://www.showcaves.com/english/usa/caves/TroutLakeIce.html)   
 *Cave use:* self-guided tourist cave  
 
 ---  
@@ -16817,8 +16879,8 @@ United States of America - New Mexico; Union County - Capulin
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1181](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1181)   
 
 ---  
-<a name="US-fc31747e0f12f877b7feb2c56dbe48c9"></a>
-United States of America - Oregon; Deschutes County - Newberry Volcano  
+<a name="US-adc4f02585a0a21689852812c09c7fa6"></a>
+United States of America - Oregon; Deschutes County - Newberry Volcano; Deschutes National Forest  
 *Cave Name(s):* **South Ice Cave**  
 *altitude:* 1530  
 *Length:* 280m   
@@ -16828,6 +16890,8 @@ United States of America - Oregon; Deschutes County - Newberry Volcano
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1315](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1315)   
 [Popa et al. (2012) doi:10.1089/ast.2011.0639](https://doi.org/10.1089/ast.2011.0639)   
 Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"  
+[https://www.showcaves.com/english/usa/caves/SouthIce.html](https://www.showcaves.com/english/usa/caves/SouthIce.html)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="US-4827e009a14bf69104816a9f72f797c6"></a>

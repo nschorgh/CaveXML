@@ -338,18 +338,36 @@
    <record>
       <country-name>Croatia</country-name>
       <state-or-province/>
-      <phys-area-name/>
-      <principal-cave-name>Ledenica Cave</principal-cave-name>
-      <other-cave-name/>
-      <latitude/>
-      <longitude/>
-      <altitude/>
+      <phys-area-name>Velebit Mt</phys-area-name>
+      <principal-cave-name>Ledena Jama u Lomskoj dulibi</principal-cave-name>
+      <other-cave-name>Ledenica Cave</other-cave-name>
+      <other-cave-name>Ledena Pit</other-cave-name>
+      <latitude>44.74</latitude>
+      <longitude>15.03</longitude>
+      <altitude>1235</altitude>
       <length/>
-      <vertical-extent/>
+      <vertical-extent>536</vertical-extent>
       <rock-type/>
       <contents>permanent ice</contents>
       <comments/>
       <reference>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</reference>
+      <reference>Kern et al. (2018) DOI:10.1017/RDC.2018.108</reference>
+   </record>
+   <record>
+      <country-name>Croatia</country-name>
+      <state-or-province/>
+      <phys-area-name>Velebit Mt</phys-area-name>
+      <principal-cave-name>Kugina ledenica</principal-cave-name>
+      <other-cave-name>Kugina Ice Cave</other-cave-name>
+      <latitude>44.61</latitude>
+      <longitude>15.08</longitude>
+      <altitude>1140</altitude>
+      <length/>
+      <vertical-extent></vertical-extent>
+      <rock-type/>
+      <contents>permanent ice</contents>
+      <comments>firn</comments>
+      <reference>Kern et al. (2018) DOI:10.1017/RDC.2018.108</reference>
    </record>
    <record>
       <country-name>Croatia</country-name>
@@ -398,7 +416,23 @@
       <comments/>
       <reference>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</reference>
    </record>
-
+   <record>
+      <country-name>Croatia</country-name>
+      <state-or-province/>
+      <phys-area-name>Velebit Mt.</phys-area-name>
+      <principal-cave-name>Vukušić  Ice  Cave</principal-cave-name>
+      <other-cave-name>Vukušić snježnica</other-cave-name>
+      <latitude>44.8</latitude>
+      <longitude>14.98</longitude>
+      <altitude>1470</altitude>
+      <length>20</length>
+      <vertical-extent>30</vertical-extent>
+      <rock-type>limestone</rock-type>
+      <contents>permanent ice</contents>
+      <comments>15m thick ice bodies</comments>
+      <reference>Kern et al. (2011) doi:10.5194/tc-5-485-2011</reference>
+   </record>
+   
    <record>
       <country-name>Finland</country-name>
       <state-or-province/>
@@ -2513,8 +2547,10 @@
       <reference>Racoviţă and Onac (2000) 'Scărișoara Glacier Cave' Editura Carpatica, 138pp</reference>
       <reference>Holmlund et al. (2005) doi:j.0435-3676.2005.00252.x</reference>
       <reference>Perşoiu et al. (2011) doi:10.1029/2010JD014477</reference>
+      <reference>Perşoiu and Pazdur (2011) doi:10.5194/tc-5-45-2011</reference>
       <reference>Feurdean et al. (2011) doi:10.1016/j.revpalbo.2011.01.007</reference>
       <reference>Brad et al. (2018) doi:10.1016/B978-0-12-811739-2.00025-5</reference>
+      <reference>Brad et al. (2018) doi:10.1038/s41598-018-28401-1</reference>
       <reference>Itcus et al. (2018) doi:10.1038/s41598-018-34106-2</reference>
       <reference>Modini et al. (2018) doi:10.1017/aog.2019.6</reference>
       <reference>Paun et al. (2021) doi:10.1038/s41598-020-79754-5</reference>
@@ -3436,7 +3472,7 @@
       <country-name>Spain</country-name>
       <state-or-province>Huesca province</state-or-province>
       <phys-area-name>Pyrenees</phys-area-name>
-      <phys-area-name>Cotiella</phys-area-name>
+      <phys-area-name>Cotiella Massif</phys-area-name>
       <principal-cave-name></principal-cave-name>
       <cave-id>A294</cave-id>
       <latitude>42.5</latitude>
@@ -3448,8 +3484,9 @@
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <comments>ice volume of 250 m^3, mainly composed of firn ice, some congelation ice and seasonal ice stalagmites</comments>
-      <reference>Belmonte et al. (2014) DOI:10.4461/GFDQ.2014.37.12</reference>
+      <reference>Belmonte-Ribas et al. (2014) DOI:10.4461/GFDQ.2014.37.12</reference>
       <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
+      <reference>Leunda et al. (2018) doi:10.1111/1365-2745.13077</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -5948,18 +5985,19 @@
       <country-name>Switzerland</country-name>
       <state-or-province>Vaud (VD)</state-or-province>
       <phys-area-name>Swiss Jura mountains</phys-area-name>
-      <principal-cave-name>St-Livres Ice Cave</principal-cave-name>
+      <principal-cave-name>St. Livres Ice Cave</principal-cave-name>
       <other-cave-name>Glacière de St-Livres</other-cave-name>
       <cave-id>VD-257</cave-id>
       <latitude>46.56306</latitude>
       <longitude>6.29722</longitude>
-      <altitude>1395</altitude>
+      <altitude>1359</altitude>
       <length/>
-      <vertical-extent/>
+      <vertical-extent>45</vertical-extent>
       <contents>permanent ice</contents>
-      <comments>firn deposits</comments>
+      <comments>firn deposits; ice volume estimated 1200 m^3</comments>
       <comments>cold air trap</comments>
       <reference>Luetscher and Jeannin (2018) doi:10.1016/B978-0-12-811739-2.00010-3</reference>
+      <reference>Stoffel et al. (2009) doi:10.1016/j.yqres.2009.03.002</reference>
    </record>
    <record>
       <country-name>Switzerland</country-name>
@@ -8420,6 +8458,46 @@
    </record>
 
    <record>
+      <country-name>Norway</country-name>
+      <state-or-province>Sogn og Fjordane</state-or-province>
+      <phys-area-name>Jostedal Glacier National Park</phys-area-name>
+      <principal-cave-name>Nigardsbreen Ice Cave</principal-cave-name>
+      <other-cave-name>Bla Is Grotta</other-cave-name>
+      <other-cave-name>Blue Ice Cave</other-cave-name>
+      <other-cave-name>Ice Cathedral</other-cave-name>
+      <latitude/>
+      <longitude/>
+      <rock-type>ice</rock-type>
+      <comments>dimensions vary from year to year</comments>
+      <reference>https://www.showcaves.com/english/no/caves/Nigardsbreen.html</reference>
+      <cave-use>guided tourist cave</cave-use>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Alaska</state-or-province>
+      <phys-area-name>Mendenhall Glacier</phys-area-name>
+      <principal-cave-name>Mendenhall Ice Cave</principal-cave-name>
+      <other-cave-name>Mendenhall Glacier Cave</other-cave-name>
+      <latitude/>
+      <longitude/>
+      <rock-type>ice</rock-type>
+      <reference>https://www.showcaves.com/english/usa/caves/Mendenhall.html</reference>
+      <cave-use>self-guided tourist cave</cave-use>
+   </record>
+   <record>
+      <country-name>Iceland</country-name>
+      <state-or-province></state-or-province>
+      <phys-area-name></phys-area-name>
+      <principal-cave-name>Katla Ice Cave</principal-cave-name>
+      <other-cave-name>Dragon Glass Ice Cave</other-cave-name>
+      <latitude/>
+      <longitude/>
+      <rock-type>ice</rock-type>
+      <reference>https://www.showcaves.com/english/is/caves/Katla.html</reference>
+      <cave-use>guided tourist cave</cave-use>
+   </record>
+
+   <record>
       <country-name>Antarctica</country-name>
       <state-or-province/>
       <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
@@ -8597,7 +8675,7 @@
       <comments>fumarolic ice cave</comments>
       <reference>Tebo et al. (2015) doi:10.3389/fmicb.2015.00179</reference>
    </record>
-
+   
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Idaho</state-or-province>
@@ -8936,6 +9014,16 @@
       <length>610</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1049</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
+      <state-or-province>Idaho</state-or-province>
+      <principal-cave-name>Niter Ice Cave</principal-cave-name>
+      <length/>
+      <cave-type>lava tunnel</cave-type>
+      <contents>permanent ice</contents>
+      <reference>https://www.showcaves.com/english/usa/caves/NiterIce.html</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -10270,6 +10358,7 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
+      <comments>hoarfrost reported</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=247</reference>
    </record>
    <record>
@@ -12246,15 +12335,6 @@
    </record>
    <record>
       <country-name>Spain</country-name>
-      <state-or-province>Las Palmas</state-or-province>
-      <phys-area-name>Canary Islands; Lanzarote</phys-area-name>
-      <principal-cave-name>Cueva de las Palomas</principal-cave-name>
-      <length/>
-      <cave-type>lava tunnel</cave-type>
-      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148</reference>
-   </record>
-   <record>
-      <country-name>Spain</country-name>
       <state-or-province>Santa Cruz de Tenerife; Fuencaliente</state-or-province>
       <phys-area-name>Canary Islands; La Palma</phys-area-name>
       <principal-cave-name>Cueva de los Palmeros</principal-cave-name>
@@ -12304,9 +12384,17 @@
       <state-or-province>Las Palmas</state-or-province>
       <phys-area-name>Canary Islands; Lanzarote</phys-area-name>
       <principal-cave-name>Cueva de los Naturalistas</principal-cave-name>
-      <length>2250</length>
+      <other-cave-name>Cueva de Las Palomas de Masdache</other-cave-name>
+      <other-cave-name>Cueva de las Palomas</other-cave-name>
+      <cave-id>LZ29</cave-id>
+      <length>1660</length>
+      <map-link>https://www.lanzarotecaves.com/wp-content/uploads/2020/08/naturalista-total-2020-05062020-2.pdf</map-link>
       <cave-type>lava tunnel</cave-type>
+      <comments>Timanfaya eruption of 1730-1736</comments>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1149</reference>
+      <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1148</reference>
+      <reference>Martin and Diaz (1984) https://www.lanzarotecaves.com/wp-content/uploads/2018/12/MartinDiaz1984.pdf</reference>
+      <reference>https://www.lanzarotecaves.com/cueva-de-los-naturalistas/</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12381,14 +12469,15 @@
       <phys-area-name>Canary Islands; Lanzarote</phys-area-name>
       <principal-cave-name>Cueva de los Verdes</principal-cave-name>
       <other-cave-name>Corona Lava Tube</other-cave-name>
-      <length>7600</length>
+      <length>9995</length>
+      <vertical-extent>273</vertical-extent>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <contents>perennially part-submerged</contents>
       <comments>consists of dry and submerged sections</comments>
       <comments>up to 25m in diameter</comments>
       <branch-name>Tunel de la Atlantida</branch-name>
-      <branch-name>Cueva de los Lagos</branch-name>
+      <branch-name>Cueva de los Siete Lagos</branch-name>
       <branch-name>Jameos del Agua</branch-name>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=663</reference>
       <reference>Wilkens et al. (2009) doi:10.1007/s12526-009-0019-2</reference>
@@ -14924,7 +15013,7 @@
       <length>1250</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
-      <contents>periodic  ice</contents>
+      <contents>periodic ice</contents>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=243</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
@@ -16318,6 +16407,7 @@
       <reference>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</reference>
       <reference>https://www.oregongrotto.com/troutlake.shtml</reference>
       <reference>Halliday (1963) "Caves of Washington"</reference>
+      <reference>https://www.showcaves.com/english/usa/caves/TroutLakeIce.html</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
@@ -23000,7 +23090,7 @@
       <country-name>United States of America</country-name>
       <state-or-province>Oregon</state-or-province>
       <state-or-province>Deschutes County</state-or-province>
-      <phys-area-name>Newberry Volcano</phys-area-name>
+      <phys-area-name>Newberry Volcano; Deschutes National Forest</phys-area-name>
       <principal-cave-name>South Ice Cave</principal-cave-name>
       <altitude>1530</altitude>
       <length>280</length>
@@ -23012,6 +23102,8 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1315</reference>
       <reference>Popa et al. (2012) doi:10.1089/ast.2011.0639</reference>
       <reference>Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"</reference>
+      <reference>https://www.showcaves.com/english/usa/caves/SouthIce.html</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>United States of America</country-name>

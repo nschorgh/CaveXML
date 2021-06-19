@@ -18,10 +18,12 @@ Schwarzmooskogel-Eishohle,,,5051,262,6,AT-1623/40
 Nervensystem-Hohle,,,6139,262,6,AT-1627/74
 Ledenica,,,,,,BA-ccffe3d9f1b3bcbb3a83f3e524a694b1
 Ledana Pit,,,,,,BA-e162a9a2aaa25b709e3ad2e3011b45d4
-Ledenica Cave,,,,,,HR-59e8ec5a259a07f062a3c705fd9e7f0c
+Ledena Jama u Lomskoj dulibi,1235,1235,,536,,HR-fc5c286f2874ed642e4a714c611bdc41
+Kugina ledenica,1140,1140,,,,HR-6f1c783a5a0993501197890241ec8f19
 Puhaljka Cave,,,,,,HR-5f9eca7e842ee5186254a7851395bc6a
 Snjeguljac Cave,,,,,,HR-33106ec4fe619387c246bf1b458644ca
 Lukina jama-Trojama system,,,,,,HR-96408a1ebf531785b2ac2dba2bfe6014
+Vukusic  Ice  Cave,1470,1470,20,30,,HR-127e07914a01979e937269d23b2317b4
 Korkia-Mauran Jaaluola,125,125,,,,FI-3bacd764cccfcdca855f79037da8fe2e
 Surtshellir,,,3500,,,IS-cfd58b66d7080bc2f98c4a0c695ec018
 Vidgelmir,250,250,1585,,,IS-8b2fdd9758744f258da5018ced142dc7
@@ -421,7 +423,7 @@ Iskristallgrottan,894,894,373,38,,SE-a93e97253a2a738fd1851f092d3c160e
 Jochloch,3470,3470,,,,CH-VS-150
 Diablotins Ice Cave,2007,2092,,650,2,CH-fd82c6acdd7fc5471dfd02b6a8ad7fc6
 Monlesi Ice Cave,1135,1135,,,,CH-NE-137
-St-Livres Ice Cave,1395,1395,,,,CH-VD-257
+St. Livres Ice Cave,1359,1359,,45,,CH-VD-257
 Glaciere de Saint-George,1290,1290,,,,CH-2f0954b99b584fe73bd2745664705b11
 Greux-de-Glace,,,,,,CH-f970d41882d51e4df0d963dd77e28ae9
 Cave Ningwu,2121,2121,,85,,CN-28b908226b2c3637814b6b68d8c3da57
@@ -576,6 +578,9 @@ Navajo Cave,2268,2268,171,14,,US-22e9c379d377c2cf5c7077daf1b8f747
 Decorah Ice Cave,,,,,,US-e7c0b2b905fbb73332799e2d542d96d0
 Sam's Point Ice Cave,,,138,,,US-38cf4d625501ad57068dcbe50942a8ed
 Xanadu Cave,,,422,,,US-9ee1bf6a9837a2e87b278db17e826bf1
+Nigardsbreen Ice Cave,,,,,,NO-af21a4e82e8934926d3b950caf7345a3
+Mendenhall Ice Cave,,,,,,US-0d730bc7b81960b98de61e9e99ee1cb5
+Katla Ice Cave,,,,,,IS-2bcdc4c1d19710e9b8347c12b2309e0d
 Warren Cave,,,,,,AQ-205d78676c8a795efc0b23f357cf46ae
 Harrys Dream,,,,,,AQ-bed8338d3423a0aa110e3f6fd8c56cbf
 Hubert's Nightmare,,,,,,AQ-5e80d9096c015d6b11396564d3df8878
@@ -619,6 +624,7 @@ Algar do Bravo,400,400,323,29,,PT-91067d85ff46002039727e711907e320
 Algar do Carvao,585,585,90,,,PT-624bbb05ca1bf8056c88948b8ee75d5f
 Algar Nova,,,,,,PT-79d17d581ba5cfc72bc05ef868f2de64
 Almost-A-Cave,,,610,,,US-0a86ba8fe833e461aec9b1722435f2b6
+Niter Ice Cave,,,,,,US-4e939cee51ff8afebc0093419af01cc7
 Amazing Pits Cave,,,132,,,US-ca280801e715191ddbcf8276db182421
 Ambigua Cave,,,1764,293,,US-3c35d1f8cbe691af872a048638ad1ed7
 Amboy Crater Caves,,,,,,US-d42569773734a7a5c2b968dc54b2675b
@@ -914,18 +920,17 @@ Cueva de las Abejas,720,720,43,2,,ES-1b1994da0f4803823b8a79872322478c
 Cueva de las Eras,,,80,,,ES-a4f385e784ff542ada388c64185a0f0c
 Cueva de las Huesitos,,,1792,18,,MX-7837ba49343ed2f7b0540705d6060fbe
 Cueva de las Jordis,,,46,,,ES-1f0a20c84fd3b69e86d93a346c6829ab
-Cueva de las Palomas,,,,,,ES-50e3b858ffd47dd031a10c0ba8b60552
 Cueva de los Palmeros,,,181,,,ES-LP/FC-9
 Cueva de los Conejos,,,30,,,ES-LP/FC-5
 Cueva de la Fuente de La Canaria,,,237,,,ES-LP/MZ-3
 Cueva de los Cuicillos,,,976,14,,MX-ea2f4f2d7323175f205742192f0b557a
-Cueva de los Naturalistas,,,2250,,,ES-96e8fadd6ff349877f54497ded7783c0
+Cueva de los Naturalistas,,,1660,,,ES-LZ29
 Cueva de los Pardelas,,,180,,,ES-e1fd07873552ebf3583244d9a5006dd4
 Cueva de los Roques,2160,2200,1048,,4,ES-40ecacf8fd9a71f998c37c3a7e2e8b12
 Cuevas Negras,2175,2250,420,85,,ES-095a76e288771795e127286732c640a7
 Cueva de los Secundarios,,,,,,MX-0cca94b30cfb3d044df06d4d557422c2
 Cueva de Los Valencianos,560,560,48,22,,ES-92b856e53a7ebc6e6132d5f92bbd70d1
-Cueva de los Verdes,,,7600,,,ES-2f9f08180eef7bd60bfd8ff4f08d7f25
+Cueva de los Verdes,,,9995,273,,ES-2f9f08180eef7bd60bfd8ff4f08d7f25
 Cueva de Macas,,,92,,,EC-d4831c987965951d7d7c49b793c342c7
 Cueva de Maestro Pepe,625,625,65,2,,ES-cccd917a40eed3a81884cef87e80bcae
 Cueva de Marcelo,,,408,,,EC-f9591b34fa63e6375ea5d4dc1428ead8
@@ -1881,7 +1886,7 @@ Somersault Cave,,,,,,US-NSS-611-97
 Sonja Wagit Cave,,,122,,,US-e05617d3e30b52c9628f3c6167edc803
 Soqulu,,,165,,,FJ-54346ad55bc91aa3e4239991cbec6a5f
 South Black Jack Cave,,,91,,,US-7017363d730cd3a8d77d988e3f13ab88
-South Ice Cave,1530,1530,280,,,US-fc31747e0f12f877b7feb2c56dbe48c9
+South Ice Cave,1530,1530,280,,,US-adc4f02585a0a21689852812c09c7fa6
 South Labyrinth Cave,,,1134,,,US-4827e009a14bf69104816a9f72f797c6
 Speaking Tube,,,25,,,AU-ASF-U62
 Spear Point Cave,,,173,,,US-3a40e2691ed75a3da857114dd85bef80

@@ -196,7 +196,8 @@ Ice cave 2 Pico Viejo,,,,,,ES-f030f5ce3db1f97639ca7b7904c4c8cc
 Cuevas Heladas de Villar,,,,,,ES-edcf53075b835ea6a166f7b8b4a7d39e
 Sima de Hielo Montana Rajada,,,,,,ES-adeea1d09424bfa224fa7c7c704d6658
 Casteret,2640,2640,500,80,3,ES-6d7c3e74ee48380c871cde7d8c573843
-Sarrios 1-6,2790,2810,,,,ES-d6a3dcb2893f289764abb24623e1c9a8
+Sarrios 1,,,,,,ES-1c9cf1665c630091da3e7c46059a5828
+Sarrios 6,2780,2780,,,2,ES-f940af1090133b06764ba12e5e114d39
 Casco 1-3,2750,2830,,,,ES-08ffe5776082c746472b9abe74b66899
 Torre 1-3,2850,2860,,,,ES-2b5ac7fc83c02defba30dd916265ca0e
 Cilindro,3020,3060,,,,ES-53c7fcbbb610348ef539fa77ca953452
@@ -251,7 +252,7 @@ F45,1990,1990,,,,ES-8a7bf233a24ff4f7f4a3c8755a4f36c0
 La Jayada,1750,1750,,,,ES-4d1703700d886a7e5b26be0d05d16b84
 7/9,,,,,,ES-ea75d62963388e76b44b0c252322fa14
 5/9,1870,1870,,,,ES-8d4e2990681d9281984c4b8507b60f16
-C13,,,,,,ES-b07dc7fde64a86f20d6cf55eb2031f80
+,,,,,,ES-C13
 D2,1778,1778,,,,ES-1f758699d2f72308c57f85d12da5247e
 Jorcada,,,,,,ES-f41f8911c1b38feb2101497948a8be21
 13/9,,,,,,ES-b97b7e3308cae72050fd668d6bd41d14
@@ -272,10 +273,10 @@ F6 Paso Doble,,,,,,ES-5aaa3db46bb2054be403707f09c90528
 F2 Las Perdices,1866,1866,,,,ES-47bc754a68da8e3e9bc6f0b8af51e3c0
 F20 L'Redondo,1937,1937,,,,ES-8c39fc5c27861cdc6e5048f38c8aeaaa
 Torca 54,1580,1580,,,,ES-cc0d4921a7abe819c5a43a048bb90fdd
-Veronica,2230,2230,,,,ES-ad6cb6986aa1cc80355e08be4bbc4428
-Altaiz,2190,2190,,,,ES-6b1cfaf61c4944c9ec6fa4be39ff6377
+Veronica,2230,2230,,133,2,ES-A5
+Altaiz,2190,2190,,,,ES-L-1
 HS4,2350,2350,,260,,ES-29254f3e8a6e55eb31b873277074f841
-Castil,2095,2095,,,,ES-25d4bc4d3c5b199ec9b914951f91cb9d
+Castil,2095,2095,,84,,ES-PC-11
 ES9,2055,2055,,,,ES-b959dfd59fb164e67fc288461a807295
 Tiro Llago,2300,2300,,,,ES-1210a81f6df00fb385bd4c2bdc82ca46
 Abisu l'Xelu,1819,1819,,,,ES-df4064e179dd66b0607e8fe8e97a749b
@@ -355,12 +356,12 @@ TA16,2051,2051,,,,ES-dd2157b2a3221a545de7a3c3d989d645
 Torca de La Grajera,1490,1490,,,,ES-80acdb7ac6521d69006ea8686d8f965e
 Las Chovas,1910,1910,,,,ES-2c3c60ea913189316b5b210c3cf6c3e4
 Ves CV-1,2045,2045,,,,ES-ad75fe7ca3b27aa2aac0556c23156e07
-S2,,,,,,ES-9ac479b6cee0e5306ffbef617bdbbf9a
+,,,,,,ES-S2
 ENO-86,,,,,,ES-c5b0eaa48df5cd33c35a26f78794be0e
 ENO13,2000,2000,,,,ES-baa2eb5fd3edc3b4012ecf5f94e9e2af
 ENO-101,2140,2140,,,,ES-d8819aeb8a25314dd62803df3f83eb40
 ENO-30,2000,2000,,,,ES-d03789f0142af884db51292fc705e759
-S6,2000,2000,,,,ES-54d99a3673bb378331e035377efd762b
+,2000,2000,,,,ES-S6
 ENO-107,2140,2140,,,,ES-da88252f5ffecd3249e1b6ab16e45809
 Aitzgaizto 12,1280,1280,,,,ES-f49f7b6557deacdb72eb55776f016155
 Ladova jaskyna,837,837,82,21,,SK-f2a87417e2950a8b43f277daed5f51e5
@@ -871,7 +872,7 @@ Crawfish Cave,,,,,,US-ea1af7d4d1b65455bed70fa8cd22b269
 Crystal Cave,1524,1524,540,30,1,US-6ba6c59dd42aa1cdbaadfd0b880831a2
 Crystal Cave,183,183,,,,US-cee76d4ceb1b9d5350ae639ef97ba2cb
 CSH Site 17 Cave,,,200,,,US-1980c98ca2c56ef4d04af9931644c7ee
-Cueva de la Bahia d C/I,,,202,,,EC-548db637ddbf693e7e2d9a080545cb59
+Cueva de Post Office Inferior,,,202,,,EC-87621ce4ab3f139a822b820ad06e5c39
 Cueva del Bucio,1100,1100,116,30,1,ES-73436b09611f6b5fc0d80cd9da3dffa2
 Cueva Buzanada,,,100,,,ES-125de979d5e0c38c9ecb24dee9be9c3f
 Cueva Cabeza de Perro,40,40,68,2,,ES-e6d43d223bae4611b08cb927f954fa01
@@ -902,7 +903,7 @@ Cueva de Hoyo,,,247,,,ES-328688fcd774642745daff13ac10e9f4
 Cueva de Huesos,,,750,,,EC-be76e6785565ab5242c9e46ab4be9f0c
 Cueva de Kubler,,,914,70,,EC-f93a5086dde97526bab114cb0392bf8a
 Cueva de la Amargura,620,620,43,3,,ES-0e8a38c91423b5f2d2edb0ea35e89c79
-Cueva de la Bahia d C/S,,,43,,,EC-637f08be969d05e9577b3fb672f5da15
+Cueva de Post Office Superior,,,43,,,EC-c621e087fe3279b73befd28d9e643852
 Cueva de la Cadena,,,114,,,EC-1298c271660152e9106b92b42d951baf
 Cueva de Candelaria,60,60,125,4,,ES-3458cdc458efeedb2b45cdc227945326
 Cueva de la Candelaria,420,420,680,22,,ES-313c7391c3af73393303c9c1b10ce3ea
@@ -974,7 +975,8 @@ Cueva del Rio Huichila,,,625,,,MX-3a67d489f6b93fd316bfc51df85c294a
 Cueva de El Tirantes,,,278,13,,MX-49e8255aa947289b398c57f4c51ff4dd
 Cueva de Tengonapa,,,477,62,,MX-685a535467c220afe8643480f768d975
 Cueva Dona Otilia,1898,1898,838,,,AR-2c91de573a95747d231f45cc52af428c
-Cueva del Tigre,,,300,,,AR-cb44ad968467a4c87a3495ac42cb0a89
+Cueva del Tigre,,,300,,,AR-3e7e429b63f3246dea5c24a3a28521cc
+Hoyo Dolo,,,350,,,AR-26ce7e6eb28cc55f276d189aaa77faa5
 Cueva del Tigre,,,206,41,,MX-841ec1cf18e2ed115612ff6dc60ef178
 El Abrigo de el Manzano,,,11,,,AR-62521e0ec47eca8718f1eea24056dd7d
 Cueva Fea de Arico,1620,1620,55,2,,ES-608a937d9b4827f902b02abf5867aee1
@@ -1359,14 +1361,21 @@ Kanumizu Fuketsu Cave,,,433,,,JP-3b2077a377a06269b7ae01d643f1e0a8
 Kapapala Cave,,,120,,,US-364d9a5e2a7c15db0d55f1bfbd84e262
 Karelshellir,,,133,,,IS-7e0fab6939a7e52c7fcda90c37f88be2
 Karen's Cave,,,,,,US-64a88fde5d66da7bb23d43f36dcf0019
-Lava Cave #10,,,210,,,KM-916fa6fef7e682377af3a48a6a9f658b
-Lava Cave #11,,,350,,,KM-3bb062ddd366a25e33c6f89a32de082c
-Nyamaour Panga,,,300,,,KM-d493b41d6da0ff7767c892d627be460a
-Grotte de Mhamdou,,,450,,,KM-efd6fea6514e641fcede895fe34ba390
-Panga Betini,,,345,,,KM-HH7-10-11
-,,,180,,,KM-HH12-13
-Ngama Gombeni,,,65,,,KM-0a219f8a4c0681993288c41c297ed5b6
-Ngama Mapoudrou,,,30,,,KM-5572ca645f12146c486a5f4b2a17fe1c
+Lava Cave #10,,,210,,,KM-HH1
+Lava Cave #11,,,350,,,KM-HH2
+Grotte de Mhamdou,,,450,,,KM-HH4-5
+Panga Betini,,,345,,3,KM-HH7-10-11
+,,,180,,2,KM-HH12-13
+Ngama Gombeni,,,65,,1,KM-0a219f8a4c0681993288c41c297ed5b6
+Ngama Mapoudrou,,,30,,1,KM-5572ca645f12146c486a5f4b2a17fe1c
+Ngama Mhimadji - Panga Mnouka,,,325,,,KM-HH8-9
+Cave #25,,,,,,KM-HH14
+Cave #15,,,335,,,KM-HH6
+Ngama Yondzi,,,,14,,KM-SB1
+Panga Evangadjou,,,35,14,,KM-SB2
+Panga Nyamaoui,,,810,,1,KM-FA1
+Panga Milembeni,,,52,,1,KM-IZ1
+,,,90,,,KM-IZ2
 Katabuta Ana,1190,1190,30,,,JP-a74791656e001fa728ef75e91f874c6d
 Kathy's Tube,,,194,,,US-dbda4350769e645aa84278bc09f62b52
 Kau Cave #2,,,600,,,US-0210150a8baebb52c368bf17a2d84cd6

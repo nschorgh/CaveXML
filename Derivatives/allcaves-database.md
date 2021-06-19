@@ -1876,12 +1876,21 @@ Spain - Aragon - Pyrenees; Monte Perdido-Marboré
 [https://en.wikipedia.org/wiki/Grotto_of_Casteret](https://en.wikipedia.org/wiki/Grotto_of_Casteret)   
 
 ---  
-<a name="ES-d6a3dcb2893f289764abb24623e1c9a8"></a>
+<a name="ES-1c9cf1665c630091da3e7c46059a5828"></a>
 Spain - Pyrenees  
-*Cave Name(s):* **Sarrios 1–6**  
-*altitude:* 2790–2810  
+*Cave Name(s):* **Sarrios 1**  
 *Contents:* permanent ice  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+
+---  
+<a name="ES-f940af1090133b06764ba12e5e114d39"></a>
+Spain - Pyrenees  
+*Cave Name(s):* **Sarrios 6**  
+*altitude:* 2780  
+*Number of entrances:* 2  
+*Contents:* permanent ice  
+[Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+Bartolome et al. (2015) Geogaceta 58, 107  
 
 ---  
 <a name="ES-08ffe5776082c746472b9abe74b66899"></a>
@@ -2324,9 +2333,9 @@ Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
 
 ---  
-<a name="ES-b07dc7fde64a86f20d6cf55eb2031f80"></a>
+<a name="ES-C13"></a>
 Spain - Cantabrian Mountains; Picos de Europa; Junjumia Ario   
-*Cave Name(s):* **C13**  
+*Cave Name(s):*  *Id:* C13  
 *Rock type:* limestone   
 *Contents:* permanent ice  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
@@ -2502,22 +2511,27 @@ Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
 
 ---  
-<a name="ES-ad6cb6986aa1cc80355e08be4bbc4428"></a>
+<a name="ES-A5"></a>
 Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
-*Cave Name(s):* **Verónica**  
+*Cave Name(s):* **Verónica** *Id:* A5  
 *altitude:* 2230  
+*Vertical extent:* 133m *Number of entrances:* 2  
+[map](https://www.mdpi.com/geosciences/geosciences-08-00274/article_deploy/html/images/geosciences-08-00274-g021.png)   
 *Rock type:* limestone   
 *Contents:* permanent ice  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+[Gomez-Lende and Sanchez-Fernandez (2018) doi:10.3390/geosciences8080274](https://doi.org/10.3390/geosciences8080274)   
 
 ---  
-<a name="ES-6b1cfaf61c4944c9ec6fa4be39ff6377"></a>
+<a name="ES-L-1"></a>
 Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
-*Cave Name(s):* **Altaiz**  
+*Cave Name(s):* **Altaiz** *Id:* L-1  
 *altitude:* 2190  
+[map](https://www.mdpi.com/geosciences/geosciences-08-00274/article_deploy/html/images/geosciences-08-00274-g020.png)   
 *Rock type:* limestone   
 *Contents:* permanent ice  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+[Gomez-Lende and Sanchez-Fernandez (2018) doi:10.3390/geosciences8080274](https://doi.org/10.3390/geosciences8080274)   
 
 ---  
 <a name="ES-29254f3e8a6e55eb31b873277074f841"></a>
@@ -2530,13 +2544,17 @@ Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
 
 ---  
-<a name="ES-25d4bc4d3c5b199ec9b914951f91cb9d"></a>
+<a name="ES-PC-11"></a>
 Spain - Cantabrian Mountains; Picos de Europa; Ondón Urriellos   
-*Cave Name(s):* **Castil**  
+*Cave Name(s):* **Castil** Peña Castil Ice Cave *Id:* PC-11  
 *altitude:* 2095  
+*Vertical extent:* 84m   
+[map](https://www.mdpi.com/geosciences/geosciences-08-00274/article_deploy/html/images/geosciences-08-00274-g019.png)   
 *Rock type:* limestone   
 *Contents:* permanent ice  
+*Comments:* estimated ice volume 33,300 m^3  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
+[Gomez-Lende and Sanchez-Fernandez (2018) doi:10.3390/geosciences8080274](https://doi.org/10.3390/geosciences8080274)   
 
 ---  
 <a name="ES-b959dfd59fb164e67fc288461a807295"></a>
@@ -3246,9 +3264,9 @@ Spain - Cantabrian Mountains; Montaña Palentina; Espigüete
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
 
 ---  
-<a name="ES-9ac479b6cee0e5306ffbef617bdbbf9a"></a>
+<a name="ES-S2"></a>
 Spain - Cantabrian Mountains; Montaña Palentina; Espigüete   
-*Cave Name(s):* **S2**  
+*Cave Name(s):*  *Id:* S2  
 *Rock type:* limestone   
 *Contents:* permanent ice  
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
@@ -3289,9 +3307,9 @@ Spain - Cantabrian Mountains; Montaña Palentina; Espigüete
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
 
 ---  
-<a name="ES-54d99a3673bb378331e035377efd762b"></a>
+<a name="ES-S6"></a>
 Spain - Cantabrian Mountains; Montaña Palentina; Espigüete   
-*Cave Name(s):* **S6**  
+*Cave Name(s):*  *Id:* S6  
 *altitude:* 2000  
 *Rock type:* limestone   
 *Contents:* permanent ice  
@@ -5682,6 +5700,7 @@ Kenya - Rift Valley Province; Kajiado District - Mt. Suswa
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1451](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1451)   
 [Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
+[Paolo et al. (1999) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf)   
 
 ---  
 <a name="KE-8884ed23a0c922752e9179ded40baeaa"></a>
@@ -7924,12 +7943,14 @@ United States of America - Hawaii; Ka'u District - Hawaii Island; Kilauea
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=837](https://rpif.asu.edu/LTdatabase/result.php?RECNO=837)   
 
 ---  
-<a name="EC-548db637ddbf693e7e2d9a080545cb59"></a>
+<a name="EC-87621ce4ab3f139a822b820ad06e5c39"></a>
 Ecuador - Galapagos - Floreana Island  
-*Cave Name(s):* **Cueva de la Bahia d C/I**  
+*Cave Name(s):* **Cueva de Post Office Inferior** Cueva de la Bahia d C/I  
 *Length:* 202m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=704](https://rpif.asu.edu/LTdatabase/result.php?RECNO=704)   
+[Steadman, D. W. (1986) "Holocene vertebrate fossils from Isla Floreana, Galápagos." Smithsonian contributions to zoology  https://repository.si.edu/bitstream/handle/10088/5333/SCtZ-0413-Lo_res.pdf](https://repository.si.edu/bitstream/handle/10088/5333/SCtZ-0413-Lo_res.pdf)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="ES-73436b09611f6b5fc0d80cd9da3dffa2"></a>
@@ -8152,7 +8173,7 @@ Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island
 ---  
 <a name="ES-47dfa4760a06c3060ab46b4406d3b4be"></a>
 Spain - Santa Cruz de Tenerife - Canary Islands; Tenerife  
-*Cave Name(s):* **Cueva de Felipe Reventon**  
+*Cave Name(s):* **Cueva de Felipe Reventon** Felipe Reventón  
 *Coordinates:* [28.4, -16.7](https://maps.google.com/?ll=28.4,-16.7)   
 *Length:* 3000m   
 *Cave type:* lava tunnel  
@@ -8219,12 +8240,13 @@ Spain - Santa Cruz de Tenerife - Tenerife
 [Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
 
 ---  
-<a name="EC-637f08be969d05e9577b3fb672f5da15"></a>
+<a name="EC-c621e087fe3279b73befd28d9e643852"></a>
 Ecuador - Galapagos - Floreana Island  
-*Cave Name(s):* **Cueva de la Bahia d C/S**  
+*Cave Name(s):* **Cueva de Post Office Superior** Cueva de la Bahia d C/S  
 *Length:* 43m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=705](https://rpif.asu.edu/LTdatabase/result.php?RECNO=705)   
+[Steadman, D. W. (1986) "Holocene vertebrate fossils from Isla Floreana, Galápagos." Smithsonian contributions to zoology  https://repository.si.edu/bitstream/handle/10088/5333/SCtZ-0413-Lo_res.pdf](https://repository.si.edu/bitstream/handle/10088/5333/SCtZ-0413-Lo_res.pdf)   
 
 ---  
 <a name="EC-1298c271660152e9106b92b42d951baf"></a>
@@ -8859,6 +8881,7 @@ Spain - Santa Cruz de Tenerife - Tenerife
 *Cave type:* lava tunnel  
 *Contents:* trogloxenes; troglobites; troglophiles  
 *Comments:* largest lava tube in Europe  
+*Branches:* Piquetes; Breveritas; Ingleses; Belén; Sobrado superior; Sobrado inferior; Petrólea; Cueva de Felipe Reventon;   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517)   
 [Pinza-Molina et al. (1999) doi:10.1093/oxfordjournals.rpd.a032628](https://doi.org/10.1093/oxfordjournals.rpd.a032628)   
 [Rein et al. (2016) http://www.cavepics.com/IVS17/REIN.pdf](http://www.cavepics.com/IVS17/REIN.pdf)   
@@ -8866,6 +8889,7 @@ Spain - Santa Cruz de Tenerife - Tenerife
 [https://en.wikipedia.org/wiki/Cueva_del_Viento](https://en.wikipedia.org/wiki/Cueva_del_Viento)   
 [https://www.showcaves.com/english/es/showcaves/Viento.html](https://www.showcaves.com/english/es/showcaves/Viento.html)   
 [Zurita et al. (1994) http://vulcanospeleology.org/sym07/ISV7x19.pdf](http://vulcanospeleology.org/sym07/ISV7x19.pdf)   
+[Martin Esquivel and Zamora (1999) http://www.vulcanospeleology.org/sym09/ISV9Er.pdf](http://www.vulcanospeleology.org/sym09/ISV9Er.pdf)   
 *Cave use:* guided tourist cave  
 
 ---  
@@ -8916,14 +8940,25 @@ Argentina - Mendoza
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1150](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1150)   
 [Acosta (2019) doi:10.1371/journal.pone.0223828](https://doi.org/10.1371/journal.pone.0223828)   
+[Benedetto (1999) http://www.vulcanospeleology.org/sym09/ISV9Eap1.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eap1.pdf)   
 
 ---  
-<a name="AR-cb44ad968467a4c87a3495ac42cb0a89"></a>
-Argentina  
+<a name="AR-3e7e429b63f3246dea5c24a3a28521cc"></a>
+Argentina - Mendoza  
 *Cave Name(s):* **Cueva del Tigre**  
 *Length:* ~300m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [Benedetto et al. (1998) doi:10.5038/1827-806X.27.1.16](https://doi.org/10.5038/1827-806X.27.1.16)   
+[Benedetto (1999) http://www.vulcanospeleology.org/sym09/ISV9Eap1.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eap1.pdf)   
+
+---  
+<a name="AR-26ce7e6eb28cc55f276d189aaa77faa5"></a>
+Argentina - Mendoza  
+*Cave Name(s):* **Hoyo Dolo**  
+*Length:* 350m   
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Comments:* original length was about 2500m; now many collapses  
+[Benedetto (1999) http://www.vulcanospeleology.org/sym09/ISV9Eap1.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eap1.pdf)   
 
 ---  
 <a name="MX-841ec1cf18e2ed115612ff6dc60ef178"></a>
@@ -12291,52 +12326,47 @@ United States of America - Oregon; Deschutes County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1308](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1308)   
 
 ---  
-<a name="KM-916fa6fef7e682377af3a48a6a9f658b"></a>
-Comoros - Grande Comore  
-*Cave Name(s):* **Lava Cave #10**  
+<a name="KM-HH1"></a>
+Comoros - Hahaya cave area, Grande Comore  
+*Cave Name(s):* **Lava Cave #10** *Id:* HH1  
 *Length:* 210m   
 *Cave type:* lava tunnel  
 [Middleton (1998) doi:10.5038/1827-806X.27.1.8](https://doi.org/10.5038/1827-806X.27.1.8)   
 
 ---  
-<a name="KM-3bb062ddd366a25e33c6f89a32de082c"></a>
-Comoros - Grande Comore  
-*Cave Name(s):* **Lava Cave #11**  
+<a name="KM-HH2"></a>
+Comoros - Hahaya cave area, Grande Comore  
+*Cave Name(s):* **Lava Cave #11** *Id:* HH2  
 *Length:*  >350m   
 *Cave type:* lava tunnel  
 [Middleton (1998) doi:10.5038/1827-806X.27.1.8](https://doi.org/10.5038/1827-806X.27.1.8)   
 
 ---  
-<a name="KM-d493b41d6da0ff7767c892d627be460a"></a>
-Comoros - Grande Comore  
-*Cave Name(s):* **Nyamaour Panga** Lava Cave #13  
-*Length:*  300+m   
-*Cave type:* lava tunnel  
-[Middleton (1998) doi:10.5038/1827-806X.27.1.8](https://doi.org/10.5038/1827-806X.27.1.8)   
-
----  
-<a name="KM-efd6fea6514e641fcede895fe34ba390"></a>
-Comoros - Grande Comore  
-*Cave Name(s):* **Grotte de Mhamdou** Lava Cave #14  
+<a name="KM-HH4-5"></a>
+Comoros - Hahaya Cave Area, Grande Comore  
+*Cave Name(s):* **Grotte de Mhamdou** Lava Cave #14 *Id:* HH4-5  
 *Length:*  450+m   
 *Cave type:* lava tunnel  
 [Middleton (1998) doi:10.5038/1827-806X.27.1.8](https://doi.org/10.5038/1827-806X.27.1.8)   
+[Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf)   
 
 ---  
 <a name="KM-HH7-10-11"></a>
 Comoros - Grande Comore; Mt. Kharthala; Hahaya cave area  
 *Cave Name(s):* **Panga Betini** *Id:* HH7-10-11  
-*Coordinates:* [-11.53067, +043.28663](https://maps.google.com/?ll=-11.53067,043.28663)   
-*Length:* 345m   
+*Coordinates:* [-11.53067, ++43.28663](https://maps.google.com/?ll=-11.53067,+43.28663)   
+*Length:* 345m *Number of entrances:* 3  
 *Cave type:* lava tunnel  
 *Contents:* tree roots  
+*Comments:* entrances #16 (HH7), #21 (HH10), and #22 (HH11); connects along collapsed depression with HH12-13 (#23-24)  
 [Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf](http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf)   
+[Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf)   
 
 ---  
 <a name="KM-HH12-13"></a>
-Comoros - Grande Comore  
+Comoros - Hahaya cava area, Grande Comore  
 *Cave Name(s):*  *Id:* HH12-13  
-*Length:* 180m   
+*Length:* 180m *Number of entrances:* 2  
 *Cave type:* lava tunnel  
 [Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf](http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf)   
 
@@ -12344,7 +12374,7 @@ Comoros - Grande Comore
 <a name="KM-0a219f8a4c0681993288c41c297ed5b6"></a>
 Comoros - Anjouan Island  
 *Cave Name(s):* **Ngama Gombeni**  
-*Length:* 65m   
+*Length:* 65m *Number of entrances:* 1  
 *Cave type:* lava tunnel  
 *Contents:* occasional bats; extensive guano  
 *Comments:* bat guano  
@@ -12355,10 +12385,79 @@ Comoros - Anjouan Island
 <a name="KM-5572ca645f12146c486a5f4b2a17fe1c"></a>
 Comoros - Anjouan Island; Mromagi area  
 *Cave Name(s):* **Ngama Mapoudrou**  
-*Length:* 30m   
+*Length:* 30m *Number of entrances:* 1  
 *Cave type:* lava tunnel  
 *Contents:* many bats  
 [Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf](http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf)   
+
+---  
+<a name="KM-HH8-9"></a>
+Comoros - Hahaya cave area, Grande Comore  
+*Cave Name(s):* **Ngama Mhimadji - Panga Mnouka** *Id:* HH8-9  
+*Length:* 325m   
+*Cave type:* lava tunnel  
+*Comments:* entrances #17-18  
+[Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf)   
+
+---  
+<a name="KM-HH14"></a>
+Comoros - Hahaya cave area, Grande Comore  
+*Cave Name(s):* **Cave #25** *Id:* HH14  
+*Cave type:* lava tunnel  
+[Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf)   
+
+---  
+<a name="KM-HH6"></a>
+Comoros - Hahaya cave area, Grande Comore  
+*Cave Name(s):* **Cave #15** *Id:* HH6  
+*Length:* 335m   
+*Cave type:* lava tunnel  
+[Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf)   
+
+---  
+<a name="KM-SB1"></a>
+Comoros - Simboussa Cave Area, Grande Comore  
+*Cave Name(s):* **Ngama Yondzi** *Id:* SB1  
+*Vertical extent:* 14m   
+*Cave type:* lava tunnel  
+*Comments:* entrance #2  
+[Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf)   
+
+---  
+<a name="KM-SB2"></a>
+Comoros - Simboussa Cave Area, Grande Comore  
+*Cave Name(s):* **Panga Evangadjou** *Id:* SB2  
+*Length:* 35m *Vertical extent:* 14m   
+*Rock type:* basalt *Cave type:* boulder cave  
+*Comments:* entrance #28  
+[Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf)   
+
+---  
+<a name="KM-FA1"></a>
+Comoros - Fassi Cave Area, Grande Comore  
+*Cave Name(s):* **Panga Nyamaoui** Nyamaour Panga *Id:* FA1  
+*Length:* 810m *Number of entrances:* 1  
+*Cave type:* lava tunnel  
+*Contents:* many bats  
+*Comments:* entrance #13  
+[Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf)   
+
+---  
+<a name="KM-IZ1"></a>
+Comoros - Itsandzeni Cave Area, Grande Comore  
+*Cave Name(s):* **Panga Milembeni** *Id:* IZ1  
+*Length:* 52m *Number of entrances:* 1  
+*Comments:* entrance #26  
+[Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf)   
+
+---  
+<a name="KM-IZ2"></a>
+Comoros - Itsandzeni Cave Area, Grande Comore  
+*Cave Name(s):*  *Id:* IZ2  
+*Length:* 90m   
+*Cave type:* lava tunnel  
+*Comments:* entrance #27  
+[Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf)   
 
 ---  
 <a name="JP-a74791656e001fa728ef75e91f874c6d"></a>
@@ -13138,10 +13237,11 @@ Kenya - Eastern Province; Machakos District - Chyulu Hills; Kinsula
 ---  
 <a name="KE-98dbb0175a1a6effc9bbaa767ec1aadf"></a>
 Kenya - Eastern Province; Machakos District - Chyulu Hills; Shetani Lava Cone  
-*Cave Name(s):* **Shetani Cave**  
+*Cave Name(s):* **Shetani Cave** Shetani Lava Cave  
 *Length:* 200m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
+[Paolo et al. (2009) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf)   
 *Cave use:* self-guided tourist cave  
 
 ---  
@@ -13702,6 +13802,7 @@ Kenya - Eastern Province; Machakos District - Chyulu Hills
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1134](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1134)   
 [Simons (1998) doi:10.5038/1827-806X.27.1.4](https://doi.org/10.5038/1827-806X.27.1.4)   
 [Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
+[Paolo et al. (2009) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf)   
 *Cave use:* mine  
 
 ---  
@@ -19027,7 +19128,9 @@ Kenya - Mt. Elgon
 Kenya - Mt. Elgon  
 *Cave Name(s):* **Makingen Cave**  
 *Cave type:* lava tunnel  
+*Contents:* many bats  
 [Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
+[Paolo et al. (2009) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf)   
 
 ---  
 <a name="KE-58a3cccde239910a788558a7059fa037"></a>
@@ -19035,6 +19138,7 @@ Kenya - Mt. Elgon
 *Cave Name(s):* **Chepyanili Caves**  
 *Cave type:* lava tunnel  
 [Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
+[Paolo et al. (2009) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf)   
 
 ---  
 <a name="KR-17760c616f7c2f9bc9ab03022881d574"></a>

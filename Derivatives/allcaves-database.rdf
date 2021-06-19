@@ -2184,10 +2184,19 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Pyrenees</schema:addressLocality>
-      <rdfs:label>Sarrios 1–6</rdfs:label>
-      <w3geo:altitude>2790–2810</w3geo:altitude>
+      <rdfs:label>Sarrios 1</rdfs:label>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Pyrenees</schema:addressLocality>
+      <rdfs:label>Sarrios 6</rdfs:label>
+      <w3geo:altitude>2780</w3geo:altitude>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">2</cavexml:number-of-entrances>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
+      <dct:references>Bartolome et al. (2015) Geogaceta 58, 107</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
@@ -2642,11 +2651,10 @@
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="C13">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Cantabrian Mountains</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Picos de Europa; Junjumia Ario </schema:addressLocality>
-      <rdfs:label>C13</rdfs:label>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
@@ -2841,25 +2849,31 @@
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="A5">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Cantabrian Mountains</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Picos de Europa; Ondón Urriellos </schema:addressLocality>
       <rdfs:label>Verónica</rdfs:label>
       <w3geo:altitude>2230</w3geo:altitude>
+      <karstlink:verticalExtent>133</karstlink:verticalExtent>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">2</cavexml:number-of-entrances>
+      <schema:hasMap xmlns:schema="https://schema.org/">https://www.mdpi.com/geosciences/geosciences-08-00274/article_deploy/html/images/geosciences-08-00274-g021.png</schema:hasMap>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
+      <dct:references>Gomez-Lende and Sanchez-Fernandez (2018) doi:10.3390/geosciences8080274</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="L-1">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Cantabrian Mountains</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Picos de Europa; Ondón Urriellos </schema:addressLocality>
       <rdfs:label>Altaiz</rdfs:label>
       <w3geo:altitude>2190</w3geo:altitude>
+      <schema:hasMap xmlns:schema="https://schema.org/">https://www.mdpi.com/geosciences/geosciences-08-00274/article_deploy/html/images/geosciences-08-00274-g020.png</schema:hasMap>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
+      <dct:references>Gomez-Lende and Sanchez-Fernandez (2018) doi:10.3390/geosciences8080274</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
@@ -2872,15 +2886,20 @@
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="PC-11">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Cantabrian Mountains</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Picos de Europa; Ondón Urriellos </schema:addressLocality>
       <rdfs:label>Castil</rdfs:label>
+      <gn:alternateName>Peña Castil Ice Cave</gn:alternateName>
       <w3geo:altitude>2095</w3geo:altitude>
+      <karstlink:verticalExtent>84</karstlink:verticalExtent>
+      <schema:hasMap xmlns:schema="https://schema.org/">https://www.mdpi.com/geosciences/geosciences-08-00274/article_deploy/html/images/geosciences-08-00274-g019.png</schema:hasMap>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <rdfs:comment>estimated ice volume 33,300 m^3</rdfs:comment>
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
+      <dct:references>Gomez-Lende and Sanchez-Fernandez (2018) doi:10.3390/geosciences8080274</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
@@ -3668,11 +3687,10 @@
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S2">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Cantabrian Mountains</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Montaña Palentina; Espigüete </schema:addressLocality>
-      <rdfs:label>S2</rdfs:label>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
@@ -3716,11 +3734,10 @@
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S6">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Cantabrian Mountains</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Montaña Palentina; Espigüete </schema:addressLocality>
-      <rdfs:label>S6</rdfs:label>
       <w3geo:altitude>2000</w3geo:altitude>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
@@ -6560,6 +6577,7 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1451"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
@@ -9327,10 +9345,13 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">Ecuador</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Galapagos</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Floreana Island</schema:addressLocality>
-      <rdfs:label>Cueva de la Bahia d C/I</rdfs:label>
+      <rdfs:label>Cueva de Post Office Inferior</rdfs:label>
+      <gn:alternateName>Cueva de la Bahia d C/I</gn:alternateName>
       <karstlink:length>202</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=704"/>
+      <dct:references rdf:resource="https://repository.si.edu/bitstream/handle/10088/5333/SCtZ-0413-Lo_res.pdf"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
@@ -9606,6 +9627,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Santa Cruz de Tenerife</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Canary Islands; Tenerife</schema:addressLocality>
       <rdfs:label>Cueva de Felipe Reventon</rdfs:label>
+      <gn:alternateName>Felipe Reventón</gn:alternateName>
       <w3geo:latitude>28.4</w3geo:latitude>
       <w3geo:longitude>-16.7</w3geo:longitude>
       <karstlink:length>3000</karstlink:length>
@@ -9687,10 +9709,12 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">Ecuador</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Galapagos</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Floreana Island</schema:addressLocality>
-      <rdfs:label>Cueva de la Bahia d C/S</rdfs:label>
+      <rdfs:label>Cueva de Post Office Superior</rdfs:label>
+      <gn:alternateName>Cueva de la Bahia d C/S</gn:alternateName>
       <karstlink:length>43</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=705"/>
+      <dct:references rdf:resource="https://repository.si.edu/bitstream/handle/10088/5333/SCtZ-0413-Lo_res.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Ecuador</schema:addressCountry>
@@ -10448,6 +10472,14 @@
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">troglobites</cavexml:contents>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">troglophiles</cavexml:contents>
       <rdfs:comment>largest lava tube in Europe</rdfs:comment>
+      <karstlink:relatedToUndergroundCavity>Piquetes</karstlink:relatedToUndergroundCavity>
+      <karstlink:relatedToUndergroundCavity>Breveritas</karstlink:relatedToUndergroundCavity>
+      <karstlink:relatedToUndergroundCavity>Ingleses</karstlink:relatedToUndergroundCavity>
+      <karstlink:relatedToUndergroundCavity>Belén</karstlink:relatedToUndergroundCavity>
+      <karstlink:relatedToUndergroundCavity>Sobrado superior</karstlink:relatedToUndergroundCavity>
+      <karstlink:relatedToUndergroundCavity>Sobrado inferior</karstlink:relatedToUndergroundCavity>
+      <karstlink:relatedToUndergroundCavity>Petrólea</karstlink:relatedToUndergroundCavity>
+      <karstlink:relatedToUndergroundCavity>Cueva de Felipe Reventon</karstlink:relatedToUndergroundCavity>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517"/>
       <dct:references>Pinza-Molina et al. (1999) doi:10.1093/oxfordjournals.rpd.a032628</dct:references>
       <dct:references rdf:resource="http://www.cavepics.com/IVS17/REIN.pdf"/>
@@ -10455,6 +10487,7 @@
       <dct:references rdf:resource="https://en.wikipedia.org/wiki/Cueva_del_Viento"/>
       <dct:references rdf:resource="https://www.showcaves.com/english/es/showcaves/Viento.html"/>
       <dct:references rdf:resource="http://vulcanospeleology.org/sym07/ISV7x19.pdf"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Er.pdf"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -10511,14 +10544,27 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1150"/>
       <dct:references>Acosta (2019) doi:10.1371/journal.pone.0223828</dct:references>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eap1.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Argentina</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Mendoza</schema:addressLocality>
       <rdfs:label>Cueva del Tigre</rdfs:label>
       <karstlink:length>~300</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references>Benedetto et al. (1998) doi:10.5038/1827-806X.27.1.16</dct:references>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eap1.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Argentina</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Mendoza</schema:addressLocality>
+      <rdfs:label>Hoyo Dolo</rdfs:label>
+      <karstlink:length>350</karstlink:length>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <rdfs:comment>original length was about 2500m; now many collapses</rdfs:comment>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eap1.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Mexico</schema:addressCountry>
@@ -14552,55 +14598,52 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1308"/>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="HH1">
       <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Grande Comore</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Hahaya cave area, Grande Comore</schema:addressLocality>
       <rdfs:label>Lava Cave #10</rdfs:label>
       <karstlink:length>210</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references>Middleton (1998) doi:10.5038/1827-806X.27.1.8</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="HH2">
       <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Grande Comore</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Hahaya cave area, Grande Comore</schema:addressLocality>
       <rdfs:label>Lava Cave #11</rdfs:label>
       <karstlink:length> &gt;350</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references>Middleton (1998) doi:10.5038/1827-806X.27.1.8</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="HH4-5">
       <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Grande Comore</schema:addressLocality>
-      <rdfs:label>Nyamaour Panga</rdfs:label>
-      <gn:alternateName>Lava Cave #13</gn:alternateName>
-      <karstlink:length> 300+</karstlink:length>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references>Middleton (1998) doi:10.5038/1827-806X.27.1.8</dct:references>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Grande Comore</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Hahaya Cave Area, Grande Comore</schema:addressLocality>
       <rdfs:label>Grotte de Mhamdou</rdfs:label>
       <gn:alternateName>Lava Cave #14</gn:alternateName>
       <karstlink:length> 450+</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references>Middleton (1998) doi:10.5038/1827-806X.27.1.8</dct:references>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="HH7-10-11">
       <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Grande Comore; Mt. Kharthala; Hahaya cave area</schema:addressLocality>
       <rdfs:label>Panga Betini</rdfs:label>
       <w3geo:latitude>-11.53067</w3geo:latitude>
-      <w3geo:longitude>043.28663</w3geo:longitude>
+      <w3geo:longitude>+43.28663</w3geo:longitude>
       <karstlink:length>345</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">3</cavexml:number-of-entrances>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">tree roots</cavexml:contents>
+      <rdfs:comment>entrances #16 (HH7), #21 (HH10), and #22 (HH11)</rdfs:comment>
+      <rdfs:comment>connects along collapsed depression with HH12-13 (#23-24)</rdfs:comment>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="HH12-13">
       <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Grande Comore</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Hahaya cava area, Grande Comore</schema:addressLocality>
       <karstlink:length>180</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">2</cavexml:number-of-entrances>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf"/>
    </karstlink:UndergroundCavity>
@@ -14609,6 +14652,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Anjouan Island</schema:addressLocality>
       <rdfs:label>Ngama Gombeni</rdfs:label>
       <karstlink:length>65</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">occasional bats</cavexml:contents>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">extensive guano</cavexml:contents>
@@ -14621,9 +14665,83 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Anjouan Island; Mromagi area</schema:addressLocality>
       <rdfs:label>Ngama Mapoudrou</rdfs:label>
       <karstlink:length>30</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">many bats</cavexml:contents>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="HH8-9">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Hahaya cave area, Grande Comore</schema:addressLocality>
+      <rdfs:label>Ngama Mhimadji - Panga Mnouka</rdfs:label>
+      <karstlink:length>325</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <rdfs:comment>entrances #17-18</rdfs:comment>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="HH14">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Hahaya cave area, Grande Comore</schema:addressLocality>
+      <rdfs:label>Cave #25</rdfs:label>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="HH6">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Hahaya cave area, Grande Comore</schema:addressLocality>
+      <rdfs:label>Cave #15</rdfs:label>
+      <karstlink:length>335</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SB1">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Simboussa Cave Area, Grande Comore</schema:addressLocality>
+      <rdfs:label>Ngama Yondzi</rdfs:label>
+      <karstlink:verticalExtent>14</karstlink:verticalExtent>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <rdfs:comment>entrance #2</rdfs:comment>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SB2">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Simboussa Cave Area, Grande Comore</schema:addressLocality>
+      <rdfs:label>Panga Evangadjou</rdfs:label>
+      <karstlink:length>35</karstlink:length>
+      <karstlink:verticalExtent>14</karstlink:verticalExtent>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">boulder cave</cavexml:cave-type>
+      <rdfs:comment>entrance #28</rdfs:comment>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="FA1">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Fassi Cave Area, Grande Comore</schema:addressLocality>
+      <rdfs:label>Panga Nyamaoui</rdfs:label>
+      <gn:alternateName>Nyamaour Panga</gn:alternateName>
+      <karstlink:length>810</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">many bats</cavexml:contents>
+      <rdfs:comment>entrance #13</rdfs:comment>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="IZ1">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Itsandzeni Cave Area, Grande Comore</schema:addressLocality>
+      <rdfs:label>Panga Milembeni</rdfs:label>
+      <karstlink:length>52</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
+      <rdfs:comment>entrance #26</rdfs:comment>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="IZ2">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Comoros</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Itsandzeni Cave Area, Grande Comore</schema:addressLocality>
+      <karstlink:length>90</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <rdfs:comment>entrance #27</rdfs:comment>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Japan</schema:addressCountry>
@@ -15564,10 +15682,12 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Eastern Province; Machakos District</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Chyulu Hills; Shetani Lava Cone</schema:addressLocality>
       <rdfs:label>Shetani Cave</rdfs:label>
+      <gn:alternateName>Shetani Lava Cave</gn:alternateName>
       <karstlink:length>200</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -16265,6 +16385,7 @@
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1134"/>
       <dct:references>Simons (1998) doi:10.5038/1827-806X.27.1.4</dct:references>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">mine</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-4U-32">
@@ -22678,7 +22799,9 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Elgon</schema:addressLocality>
       <rdfs:label>Makingen Cave</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">many bats</cavexml:contents>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
@@ -22686,6 +22809,7 @@
       <rdfs:label>Chepyanili Caves</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>

@@ -3021,15 +3021,31 @@
       <country-name>Spain</country-name>
       <state-or-province/>
       <phys-area-name>Pyrenees</phys-area-name>
-      <principal-cave-name>Sarrios 1–6</principal-cave-name>
+      <principal-cave-name>Sarrios 1</principal-cave-name>
       <other-cave-name/>
       <latitude/>
       <longitude/>
-      <altitude>2790–2810</altitude>
+      <altitude></altitude>
       <length/>
       <vertical-extent/>
       <contents>permanent ice</contents>
       <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
+   </record>
+   <record>
+      <country-name>Spain</country-name>
+      <state-or-province/>
+      <phys-area-name>Pyrenees</phys-area-name>
+      <principal-cave-name>Sarrios 6</principal-cave-name>
+      <other-cave-name/>
+      <latitude/>
+      <longitude/>
+      <altitude>2780</altitude>
+      <length/>
+      <vertical-extent/>
+      <number-of-entrances>2</number-of-entrances>
+      <contents>permanent ice</contents>
+      <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
+      <reference>Bartolome et al. (2015) Geogaceta 58, 107</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -3773,7 +3789,8 @@
       <state-or-province></state-or-province>
       <phys-area-name>Cantabrian Mountains</phys-area-name>
       <phys-area-name>Picos de Europa; Junjumia Ario </phys-area-name>
-      <principal-cave-name>C13</principal-cave-name>
+      <principal-cave-name></principal-cave-name>
+      <cave-id>C13</cave-id>
       <altitude></altitude>
       <vertical-extent></vertical-extent>
       <rock-type>limestone</rock-type>
@@ -4026,11 +4043,15 @@
       <phys-area-name>Cantabrian Mountains</phys-area-name>
       <phys-area-name>Picos de Europa; Ondón Urriellos </phys-area-name>
       <principal-cave-name>Verónica</principal-cave-name>
+      <cave-id>A5</cave-id>
       <altitude>2230</altitude>
-      <vertical-extent></vertical-extent>
+      <vertical-extent>133</vertical-extent>
+      <number-of-entrances>2</number-of-entrances>
+      <map-link>https://www.mdpi.com/geosciences/geosciences-08-00274/article_deploy/html/images/geosciences-08-00274-g021.png</map-link>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
+      <reference>Gomez-Lende and Sanchez-Fernandez (2018) doi:10.3390/geosciences8080274</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -4038,11 +4059,14 @@
       <phys-area-name>Cantabrian Mountains</phys-area-name>
       <phys-area-name>Picos de Europa; Ondón Urriellos </phys-area-name>
       <principal-cave-name>Altaiz</principal-cave-name>
+      <cave-id>L-1</cave-id>
       <altitude>2190</altitude>
       <vertical-extent></vertical-extent>
+      <map-link>https://www.mdpi.com/geosciences/geosciences-08-00274/article_deploy/html/images/geosciences-08-00274-g020.png</map-link>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
+      <reference>Gomez-Lende and Sanchez-Fernandez (2018) doi:10.3390/geosciences8080274</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -4062,11 +4086,16 @@
       <phys-area-name>Cantabrian Mountains</phys-area-name>
       <phys-area-name>Picos de Europa; Ondón Urriellos </phys-area-name>
       <principal-cave-name>Castil</principal-cave-name>
+      <other-cave-name>Peña Castil Ice Cave</other-cave-name>
+      <cave-id>PC-11</cave-id>
       <altitude>2095</altitude>
-      <vertical-extent></vertical-extent>
+      <vertical-extent>84</vertical-extent>
+      <map-link>https://www.mdpi.com/geosciences/geosciences-08-00274/article_deploy/html/images/geosciences-08-00274-g019.png</map-link>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
+      <comments>estimated ice volume 33,300 m^3</comments>
       <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
+      <reference>Gomez-Lende and Sanchez-Fernandez (2018) doi:10.3390/geosciences8080274</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -5021,7 +5050,8 @@
       <state-or-province></state-or-province>
       <phys-area-name>Cantabrian Mountains</phys-area-name>
       <phys-area-name>Montaña Palentina; Espigüete </phys-area-name>
-      <principal-cave-name>S2</principal-cave-name>
+      <principal-cave-name></principal-cave-name>
+      <cave-id>S2</cave-id>
       <altitude></altitude>
       <vertical-extent></vertical-extent>
       <rock-type>limestone</rock-type>
@@ -5081,7 +5111,8 @@
       <state-or-province></state-or-province>
       <phys-area-name>Cantabrian Mountains</phys-area-name>
       <phys-area-name>Montaña Palentina; Espigüete </phys-area-name>
-      <principal-cave-name>S6</principal-cave-name>
+      <principal-cave-name></principal-cave-name>
+      <cave-id>S6</cave-id>
       <altitude>2000</altitude>
       <vertical-extent></vertical-extent>
       <rock-type>limestone</rock-type>
@@ -8849,6 +8880,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1451</reference>
       <reference>Middleton (1999) http://www.vulcanospeleology.org/1998.pdf</reference>
+      <reference>Paolo et al. (1999) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf</reference>
    </record>
    <record>
       <country-name>Kenya</country-name>
@@ -11767,10 +11799,13 @@
       <country-name>Ecuador</country-name>
       <state-or-province>Galapagos</state-or-province>
       <phys-area-name>Floreana Island</phys-area-name>
-      <principal-cave-name>Cueva de la Bahia d C/I</principal-cave-name>
+      <principal-cave-name>Cueva de Post Office Inferior</principal-cave-name>
+      <other-cave-name>Cueva de la Bahia d C/I</other-cave-name>
       <length>202</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=704</reference>
+      <reference>Steadman, D. W. (1986) "Holocene vertebrate fossils from Isla Floreana, Galápagos." Smithsonian contributions to zoology  https://repository.si.edu/bitstream/handle/10088/5333/SCtZ-0413-Lo_res.pdf</reference>
+      <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -12055,6 +12090,7 @@
       <state-or-province>Santa Cruz de Tenerife</state-or-province>
       <phys-area-name>Canary Islands; Tenerife</phys-area-name>
       <principal-cave-name>Cueva de Felipe Reventon</principal-cave-name>
+      <other-cave-name>Felipe Reventón</other-cave-name>
       <latitude>28.4</latitude>
       <longitude>-16.7</longitude>
       <length>3000</length>
@@ -12136,10 +12172,12 @@
       <country-name>Ecuador</country-name>
       <state-or-province>Galapagos</state-or-province>
       <phys-area-name>Floreana Island</phys-area-name>
-      <principal-cave-name>Cueva de la Bahia d C/S</principal-cave-name>
+      <principal-cave-name>Cueva de Post Office Superior</principal-cave-name>
+      <other-cave-name>Cueva de la Bahia d C/S</other-cave-name>
       <length>43</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=705</reference>
+      <reference>Steadman, D. W. (1986) "Holocene vertebrate fossils from Isla Floreana, Galápagos." Smithsonian contributions to zoology  https://repository.si.edu/bitstream/handle/10088/5333/SCtZ-0413-Lo_res.pdf</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -12916,6 +12954,14 @@
       <contents>troglobites</contents>
       <contents>troglophiles</contents>
       <comments>largest lava tube in Europe</comments>
+      <branch-name>Piquetes</branch-name>
+      <branch-name>Breveritas</branch-name>
+      <branch-name>Ingleses</branch-name>
+      <branch-name>Belén</branch-name>
+      <branch-name>Sobrado superior</branch-name>
+      <branch-name>Sobrado inferior</branch-name>
+      <branch-name>Petrólea</branch-name>
+      <branch-name>Cueva de Felipe Reventon</branch-name>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1517</reference>
       <reference>Pinza-Molina et al. (1999) doi:10.1093/oxfordjournals.rpd.a032628</reference>
       <reference>Rein et al. (2016) http://www.cavepics.com/IVS17/REIN.pdf</reference>
@@ -12923,6 +12969,7 @@
       <reference>https://en.wikipedia.org/wiki/Cueva_del_Viento</reference>
       <reference>https://www.showcaves.com/english/es/showcaves/Viento.html</reference>
       <reference>Zurita et al. (1994) http://vulcanospeleology.org/sym07/ISV7x19.pdf</reference>
+      <reference>Martin Esquivel and Zamora (1999) http://www.vulcanospeleology.org/sym09/ISV9Er.pdf</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -12984,10 +13031,11 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1150</reference>
       <reference>Acosta (2019) doi:10.1371/journal.pone.0223828</reference>
+      <reference>Benedetto (1999) http://www.vulcanospeleology.org/sym09/ISV9Eap1.pdf</reference>
    </record>
    <record>
       <country-name>Argentina</country-name>
-      <state-or-province/>
+      <state-or-province>Mendoza</state-or-province>
       <phys-area-name/>
       <principal-cave-name>Cueva del Tigre</principal-cave-name>
       <altitude/>
@@ -12995,6 +13043,19 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>Benedetto et al. (1998) doi:10.5038/1827-806X.27.1.16</reference>
+      <reference>Benedetto (1999) http://www.vulcanospeleology.org/sym09/ISV9Eap1.pdf</reference>
+   </record>
+   <record>
+      <country-name>Argentina</country-name>
+      <state-or-province>Mendoza</state-or-province>
+      <phys-area-name/>
+      <principal-cave-name>Hoyo Dolo</principal-cave-name>
+      <altitude/>
+      <length>350</length>
+      <rock-type>basalt</rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <comments>original length was about 2500m; now many collapses</comments>
+      <reference>Benedetto (1999) http://www.vulcanospeleology.org/sym09/ISV9Eap1.pdf</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>
@@ -17271,8 +17332,9 @@
    <record>
       <country-name>Comoros</country-name>
       <state-or-province/>
-      <phys-area-name>Grande Comore</phys-area-name>
+      <phys-area-name>Hahaya cave area, Grande Comore</phys-area-name>
       <principal-cave-name>Lava Cave #10</principal-cave-name>
+      <cave-id>HH1</cave-id>
       <length>210</length>
       <cave-type>lava tunnel</cave-type>
       <reference>Middleton (1998) doi:10.5038/1827-806X.27.1.8</reference>
@@ -17280,8 +17342,9 @@
    <record>
       <country-name>Comoros</country-name>
       <state-or-province/>
-      <phys-area-name>Grande Comore</phys-area-name>
+      <phys-area-name>Hahaya cave area, Grande Comore</phys-area-name>
       <principal-cave-name>Lava Cave #11</principal-cave-name>
+      <cave-id>HH2</cave-id>
       <length> >350</length>
       <cave-type>lava tunnel</cave-type>
       <reference>Middleton (1998) doi:10.5038/1827-806X.27.1.8</reference>
@@ -17289,22 +17352,14 @@
    <record>
       <country-name>Comoros</country-name>
       <state-or-province/>
-      <phys-area-name>Grande Comore</phys-area-name>
-      <principal-cave-name>Nyamaour Panga</principal-cave-name>
-      <other-cave-name>Lava Cave #13</other-cave-name>
-      <length> 300+</length>
-      <cave-type>lava tunnel</cave-type>
-      <reference>Middleton (1998) doi:10.5038/1827-806X.27.1.8</reference>
-   </record>
-   <record>
-      <country-name>Comoros</country-name>
-      <state-or-province/>
-      <phys-area-name>Grande Comore</phys-area-name>
+      <phys-area-name>Hahaya Cave Area, Grande Comore</phys-area-name>
       <principal-cave-name>Grotte de Mhamdou</principal-cave-name>
       <other-cave-name>Lava Cave #14</other-cave-name>
+      <cave-id>HH4-5</cave-id>
       <length> 450+</length>
       <cave-type>lava tunnel</cave-type>
       <reference>Middleton (1998) doi:10.5038/1827-806X.27.1.8</reference>
+      <reference>Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf</reference>
    </record>
    <record>
       <country-name>Comoros</country-name>
@@ -17314,20 +17369,25 @@
       <other-cave-name/>
       <cave-id>HH7-10-11</cave-id>
       <latitude>-11.53067</latitude>
-      <longitude>043.28663</longitude>
+      <longitude>+43.28663</longitude>
       <length>345</length>
+      <number-of-entrances>3</number-of-entrances>
       <cave-type>lava tunnel</cave-type>
       <contents>tree roots</contents>
+      <comments>entrances #16 (HH7), #21 (HH10), and #22 (HH11)</comments>
+      <comments>connects along collapsed depression with HH12-13 (#23-24)</comments>
       <reference>Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf</reference>
+      <reference>Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf</reference>
    </record>
    <record>
       <country-name>Comoros</country-name>
       <state-or-province/>
-      <phys-area-name>Grande Comore</phys-area-name>
+      <phys-area-name>Hahaya cava area, Grande Comore</phys-area-name>
       <principal-cave-name/>
       <other-cave-name/>
       <cave-id>HH12-13</cave-id>
       <length>180</length>
+      <number-of-entrances>2</number-of-entrances>
       <cave-type>lava tunnel</cave-type>
       <contents/>
       <reference>Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf</reference>
@@ -17339,6 +17399,7 @@
       <principal-cave-name>Ngama Gombeni</principal-cave-name>
       <other-cave-name/>
       <length>65</length>
+      <number-of-entrances>1</number-of-entrances>
       <cave-type>lava tunnel</cave-type>
       <contents>occasional bats</contents>
       <contents>extensive guano</contents>
@@ -17353,10 +17414,118 @@
       <principal-cave-name>Ngama Mapoudrou</principal-cave-name>
       <other-cave-name/>
       <length>30</length>
+      <number-of-entrances>1</number-of-entrances>
       <cave-type>lava tunnel</cave-type>
       <contents>many bats</contents>
       <reference>Middleton and Hume (2010) http://www.vulcanospeleology.org/sym14/papers/Middleton-et-al.pdf</reference>
    </record>
+   <record>
+      <country-name>Comoros</country-name>
+      <state-or-province/>
+      <phys-area-name>Hahaya cave area, Grande Comore</phys-area-name>
+      <principal-cave-name>Ngama Mhimadji - Panga Mnouka</principal-cave-name>
+      <other-cave-name/>
+      <cave-id>HH8-9</cave-id>
+      <length>325</length>
+      <cave-type>lava tunnel</cave-type>
+      <comments>entrances #17-18</comments>
+      <reference>Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf</reference>
+   </record>
+   <record>
+      <country-name>Comoros</country-name>
+      <state-or-province/>
+      <phys-area-name>Hahaya cave area, Grande Comore</phys-area-name>
+      <principal-cave-name>Cave #25</principal-cave-name>
+      <other-cave-name/>
+      <cave-id>HH14</cave-id>
+      <length/>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf</reference>
+   </record>
+   <record>
+      <country-name>Comoros</country-name>
+      <state-or-province/>
+      <phys-area-name>Hahaya cave area, Grande Comore</phys-area-name>
+      <principal-cave-name>Cave #15</principal-cave-name>
+      <other-cave-name/>
+      <cave-id>HH6</cave-id>
+      <length>335</length>
+      <cave-type>lava tunnel</cave-type>
+      <reference>Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf</reference>
+   </record>
+   <record>
+      <country-name>Comoros</country-name>
+      <state-or-province/>
+      <phys-area-name>Simboussa Cave Area, Grande Comore</phys-area-name>
+      <principal-cave-name>Ngama Yondzi</principal-cave-name>
+      <other-cave-name/>
+      <cave-id>SB1</cave-id>
+      <vertical-extent>14</vertical-extent>
+      <cave-type>lava tunnel</cave-type>
+      <comments>entrance #2</comments>
+      <reference>Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf</reference>
+   </record>
+   <record>
+      <country-name>Comoros</country-name>
+      <state-or-province/>
+      <phys-area-name>Simboussa Cave Area, Grande Comore</phys-area-name>
+      <principal-cave-name>Panga Evangadjou</principal-cave-name>
+      <other-cave-name/>
+      <cave-id>SB2</cave-id>
+      <length>35</length>
+      <vertical-extent>14</vertical-extent>
+      <rock-type>basalt</rock-type>
+      <cave-type>boulder cave</cave-type>
+      <comments>entrance #28</comments>
+      <reference>Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf</reference>
+   </record>
+   <record>
+      <country-name>Comoros</country-name>
+      <state-or-province/>
+      <phys-area-name>Fassi Cave Area, Grande Comore</phys-area-name>
+      <principal-cave-name>Panga Nyamaoui</principal-cave-name>
+      <other-cave-name>Nyamaour Panga</other-cave-name>
+      <cave-id>FA1</cave-id>
+      <length>810</length>
+      <vertical-extent/>
+      <number-of-entrances>1</number-of-entrances>
+      <rock-type></rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <contents>many bats</contents>
+      <comments>entrance #13</comments>
+      <reference>Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf</reference>
+   </record>
+   <record>
+      <country-name>Comoros</country-name>
+      <state-or-province/>
+      <phys-area-name>Itsandzeni Cave Area, Grande Comore</phys-area-name>
+      <principal-cave-name>Panga Milembeni</principal-cave-name>
+      <other-cave-name/>
+      <cave-id>IZ1</cave-id>
+      <length>52</length>
+      <vertical-extent/>
+      <number-of-entrances>1</number-of-entrances>
+      <rock-type/>
+      <cave-type/>
+      <comments>entrance #26</comments>
+      <reference>Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf</reference>
+   </record>
+   <record>
+      <country-name>Comoros</country-name>
+      <state-or-province/>
+      <phys-area-name>Itsandzeni Cave Area, Grande Comore</phys-area-name>
+      <principal-cave-name></principal-cave-name>
+      <other-cave-name></other-cave-name>
+      <cave-id>IZ2</cave-id>
+      <length>90</length>
+      <vertical-extent/>
+      <number-of-entrances></number-of-entrances>
+      <rock-type></rock-type>
+      <cave-type>lava tunnel</cave-type>
+      <comments>entrance #27</comments>
+      <reference>Middleton (1999) http://www.vulcanospeleology.org/sym09/ISV9Eq.pdf</reference>
+   </record>
+
    <record>
       <country-name>Japan</country-name>
       <state-or-province/>
@@ -18347,10 +18516,12 @@
       <state-or-province>Eastern Province; Machakos District</state-or-province>
       <phys-area-name>Chyulu Hills; Shetani Lava Cone</phys-area-name>
       <principal-cave-name>Shetani Cave</principal-cave-name>
+      <other-cave-name>Shetani Lava Cave</other-cave-name>
       <length>200</length>
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>Middleton (1999) http://www.vulcanospeleology.org/1998.pdf</reference>
+      <reference>Paolo et al. (2009) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
@@ -19070,6 +19241,7 @@
       <reference>https://rpif.asu.edu/LTdatabase/result.php?RECNO=1134</reference>
       <reference>Simons (1998) doi:10.5038/1827-806X.27.1.4</reference>
       <reference>Middleton (1999) http://www.vulcanospeleology.org/1998.pdf</reference>
+      <reference>Paolo et al. (2009) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf</reference>
       <cave-use>mine</cave-use>
    </record>
    <record>
@@ -25859,7 +26031,9 @@
       <principal-cave-name>Makingen Cave</principal-cave-name>
       <length/>
       <cave-type>lava tunnel</cave-type>
+      <contents>many bats</contents>
       <reference>Middleton (1999) http://www.vulcanospeleology.org/1998.pdf</reference>
+      <reference>Paolo et al. (2009) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf</reference>
    </record>
    <record>
       <country-name>Kenya</country-name>
@@ -25869,6 +26043,7 @@
       <length/>
       <cave-type>lava tunnel</cave-type>
       <reference>Middleton (1999) http://www.vulcanospeleology.org/1998.pdf</reference>
+      <reference>Paolo et al. (2009) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf</reference>
    </record>
    <record>
       <country-name>Korea, Republic of</country-name>

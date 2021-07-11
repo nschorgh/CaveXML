@@ -496,7 +496,7 @@ def generate_unique_id(item):
 
     try: # use cave-id, if available
         cid = item.find('cave-id')
-        uniid = iso2 + '-' + cid.text
+        uniid = iso2 + '-' + cid.text.upper()
         return uniid
     except:
         pass

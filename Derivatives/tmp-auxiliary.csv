@@ -28,7 +28,7 @@ Korkia-Mauran Jaaluola,125,125,,,,FI-3bacd764cccfcdca855f79037da8fe2e
 Surtshellir,,,3500,,,IS-cfd58b66d7080bc2f98c4a0c695ec018
 Vidgelmir,250,250,1585,,,IS-8b2fdd9758744f258da5018ced142dc7
 Lofthellir,,,370,,,IS-KED-01
-Eisl-Schlucht,1910,1910,,,,DE-a811eec526520538502dd398aa76a22c
+Eisl-Schlucht,1910,1910,,340,,DE-a811eec526520538502dd398aa76a22c
 Firnkegelhohle,,,,,,DE-3d3d907b724b120dcc94751855b84252
 Hinterbergkarschlinger,,,,,,DE-9f3b8d0a4f0b6d8e12fa92195977ef31
 Eisfliegenschacht,,,,,,DE-d5d6206d84f6002b89cc083a009883c7
@@ -79,6 +79,7 @@ Infermi nel Ghiaccio,2065,2065,,,,IT-LOLC-1887
 Inferno di Ghiaccio,2120,2120,162,95,,IT-LOLC-1904
 Holiday on Ice,2144,2144,70,48,,IT-LOLC-1916
 Grotta di Cristallo,2780,2780,39,20,,IT-LOSO-3056
+Cioccherloch,2274,2274,250,,1,IT-F22
 Ice Cave,1945,1945,2057,451,,ME-03110
 03061,2034,2034,572,207,,ME-03061
 T5,2069,2069,560,176,,ME-1fb4f1536b830affc53562712fb8194f
@@ -369,7 +370,8 @@ Ladnica,660,660,,7,,SK-b2df31014b68ddc3f3c1548081b07105
 Ladova jaskyna na Dreveniku,557,557,215,17,,SK-e9dec503c961b33d309bbef3d7c185bb
 Mala ladova jaskyna,572,572,23,13,,SK-2448db9658e3b292197fe2157378ecc6
 Snezna rozsadlina,1177,1177,91,25,,SK-f946304570f889058ef6de07d40a5ed0
-Demanovska ladova jaskyna (Demanova Ice Cave),840,840,1975,57,,SK-015c019207595331f60f7a88e790cea1
+Demanovska ladova jaskyna,840,840,1975,57,,SK-93e69764e0cd588f45eb096582b3fe49
+Demanovska Cave of Liberty,870,870,8126,86,,SK-abb91256764827b06d5f48a83ee68d0f
 Havrania priepast,1372,1372,,40,,SK-997508d1b90f2d596e53800b51d7e977
 Jelenia priepast (Zavrtova priepast),1487,1487,32,18,,SK-0ebe3587d29a345d7ca7f16f0828936d
 Studena diera,1440,1440,35,,,SK-ca9a196e1c9eaf33e1c2d54b3d3735cc
@@ -515,8 +517,8 @@ Grande Caverne Glacee,750,950,110,,,CA-20c195e3498e7164f7f7edebc89e7e16
 Caverne des Meandres,750,950,100,,,CA-f7be733469fe8b52102fdfa342af3672
 Bear Cave,750,950,220,,,CA-f6ffe9d069cccb1e2e50f30064333be5
 Caverne '85,750,950,40,,,CA-aef23bc089d9c72921a2da45ce703235
-Grotte Valerie Ice Cave,,,2002,,,CA-54521c7169403ad92fa588a455f44ebb
-Grotte Mickey,,,2270,,,CA-c292943f25d6fe31e21a10b0871d59c2
+Grotte Valerie Ice Cave,701,701,2002,,,CA-54521c7169403ad92fa588a455f44ebb
+Grotte Mickey,396,396,2270,,,CA-c292943f25d6fe31e21a10b0871d59c2
 Andree,,,1205,,,CA-0cbf935fdd2b51384794025a36f4e74f
 Igloo,,,600,,,CA-74e6857803c951742d93d9ea51532ad3
 Arnica,,,242,,,CA-3645ec433eac2f9131802e3c9257d4ba
@@ -550,7 +552,12 @@ Minasville Ice Cave,,,,,,CA-7d431eab499665145c16f812c04a18d2
 Crater Ice Cave,,,,,2,US-e5adad7e773ba261bf30f78657233988
 Little Ice Cave,,,,,,US-9c79920aa69179302b2f199c404aa5bc
 Red Pryor Ice Cave,,,,,,US-04d44dbdba122281b1bf5c0de4b25dbd
-Fossil Mountain Ice Cave,2904,2904,,,,US-7eb158420190fa35105fe4b4f6a5c3e5
+Fossil Mountain Ice Cave,2904,2904,370,,1,US-7eb158420190fa35105fe4b4f6a5c3e5
+Rainbow Ice Cave,2745,2745,,,,US-13c79bd9359e9dcaa5498bcd357289e4
+July Ice Cave,3050,3050,,,,US-2afad55e68050ea2b7a7f2f40783a84c
+Dead Man Cave,2306,2306,88,,,US-fda703df15e4d12d4dc82aa2957de63c
+South Fork Ice Cave,2284,2284,145,,,US-6e15b7ee91632b618c4949bba4da7dc9
+Ridiculous Ice Cave,2684,2684,73,,,US-ab41b136f17caab8eb6aec6f86445ac2
 Strickler Cavern,,,,,,US-8b83b776893742c5e3bebdacb4deb460
 Snow Cone,,,,,,US-9c34793586092e16b66cfb8a7655fb35
 Crystal Falls Ice Cave,,,,,,US-a1f6c4466a0b944fd5d193c95f7c9091
@@ -575,7 +582,7 @@ Mauna Loa Ice Cave,,,235,,,US-b06fbb3d2b569e50f6cddc95cfb1b0f7
 Arsia Cave,,,,,,US-c27a141b3ed15774f8fce43ce9287ed0
 CRREL Permafrost Tunnel,,,110,,,US-cb3c09e5d1c49493e44c0dfc24e53d2c
 Coudersport Ice Mine,,,12,,,US-27939248212a06e65449737dfe09a389
-Navajo Cave,2268,2268,171,14,,US-22e9c379d377c2cf5c7077daf1b8f747
+Navajo Cave,2268,2268,171,14,1,US-22e9c379d377c2cf5c7077daf1b8f747
 Decorah Ice Cave,,,,,,US-e7c0b2b905fbb73332799e2d542d96d0
 Sam's Point Ice Cave,,,138,,,US-38cf4d625501ad57068dcbe50942a8ed
 Xanadu Cave,,,422,,,US-9ee1bf6a9837a2e87b278db17e826bf1
@@ -633,9 +640,9 @@ Ambury Rd. Cave,20,20,140,,,NZ-a6e9c00b9298b41ad2b4746943e65f2b
 Amoeba Cave,,,,,,US-ff019cbe696749afa77c3e2ba8dd7e7a
 Ampitheater Cave,,,,,,US-57a9c68c183a7b082820dfd7ffcf6ada
 An Hufhuf (Cave of Many Bats),,,,,,FJ-b20bafc79a6413a638f33e14e8b78c55
-An Mafiri Cave 1,,,102,,,FJ-d1f0d3fc369c814dd498031c11e53523
+An Mafiri Cave 1,,,102,,1,FJ-d1f0d3fc369c814dd498031c11e53523
 An Mafiri Cave 2,,,30,,,FJ-453bebbbb5a2b99eb1fd305fcdfb296a
-Ana Kakena,30,30,55,,,CL-11b5ae5fd317884425dd140ddaaf36be
+Ana Kakena,30,30,55,,3,CL-11b5ae5fd317884425dd140ddaaf36be
 Ana o Keke,,,400,,,CL-83f8fb825e0300ac10e8641ef1f56dd0
 Ana More Mata Puka,,,6,,,CL-e87410165ec6639e6cc15683d443cb0c
 Ana Roa,35,35,,,,CL-d85fac409ff568525321d7fa34aafe5c
@@ -661,7 +668,7 @@ Archies Cave,,,348,,,US-ae907d62d421299357d05209d8c89edc
 Arco Tunnel,,,1316,,,US-df85cad59a4081d4f6b5738761c74529
 Arnarker,,,470,,,IS-874ae4e2e41445d05e301b121dd2b088
 Arnold Ice Cave,1381,1381,49,,,US-b9513e9db4a84c47e0d0057c42022592
-Arrowhead Cave,,,36,,,US-d405227171f7bb16868ef6e408c7988d
+Arrowhead Cave,,,36,,1,US-d405227171f7bb16868ef6e408c7988d
 Ash Crawl Cave,,,117,,,US-d0be8ec3e03f6e0be2e05c63b9eeb6f2
 Charcoal Cave,,,,,,US-b4e0a29cc93179d87a1dd35af77a12db
 Calabash Cave,,,,,,US-e04949c9df7e6128715bf065c1444cc7
@@ -686,7 +693,7 @@ Bandera Crater Tube,,,28600,,,US-8704a3d70946b0dfecce0b04a629db1b
 Barbed Wire Cave,,,30,,,US-a3d2e598c4e1ceeee73d29c8f68de2f3
 Barkers Cave,,,905,,,AU-ASF-4U-34
 Barkers Crater Caves,,,250,,,AU-8386ac76afa2fa8dd2aec369cb12a962
-Barlow Cave,,,243,,,US-67587fc115b3b7ab6f764563c31934df
+Barlow Cave,,,243,,1,US-67587fc115b3b7ab6f764563c31934df
 Barn Swallow Cave,,,152,,,US-93b3100272526fc520d15effe91f95f6
 Barney's Cave,509,509,57,,,US-75654ebe67c9f7db775baa0e7bbc21c4
 Barnum Cave,,,245,,,US-d9744d62652da713de2398bc2cc01f53
@@ -720,7 +727,7 @@ Big Cave,,,1030,,,US-b1a74028107d2d6ad1749402e11165c0
 Big Cave,,,823,,,US-78c9b8d01e1ad8f2c5af77688bf0993c
 Big Deal Cave,,,31,,,US-b0c314cd57a839f753e0cd8b8f1d247e
 Big Red Cave,,,3606,232,,US-daa5d969b70252929b780b9bbac536de
-Big Room cave,,,37,,,US-3be74256f7af0b17e883fe191151dda3
+Big Room cave,,,37,,1,US-3be74256f7af0b17e883fe191151dda3
 Big Skylight Cave,,,290,,,US-217db1381de5c2a251e38865491d2713
 Giant Ice Cave,,,,,,US-68f0649447705a70188a6ece04f93d5e
 Big Trench Cave System,,,1219,,,US-473f3e89d1e107ed154394406a5700d5
@@ -789,7 +796,7 @@ Can Cave,,,,,,US-d2199d9e32a412371922393357ed9840
 Candle Cave,,,188,,,US-5de1f316a5d78d30277f92944e05b34b
 Caninome Fuketsu,635,635,,,,JP-fec4c5c0912360e6055e7abdc3daada6
 Cape Blanc Cave,,,,,,FR-fe84ea9f08517f6e64bbf9ac47adcb6c
-Cape Kinau Lava Tube,,,134,,,US-3b6258c151729026ab9e57da4c8c7375
+Cape Kinau Lava Tube,,,134,,3,US-3b6258c151729026ab9e57da4c8c7375
 Captain Jack's Bridge,,,,,,US-0670d9da021d98f596aa298e16eb71e0
 Captain Jack's Ice Cave,,,,,,US-94338ae2f62ee4b330c57730560dcda0
 Caryl's Cave,,,295,,,US-969a769ba0db8397b34c9a266da51ae1
@@ -811,7 +818,7 @@ Caverna de Gallardo,,,2250,,,EC-9d63669ef9c185c6c2d91d2c778e7a3b
 Caverna de los Gatos,735,735,286,,,AR-7fca2c85a5e23f6cfcc7bd6485c11030
 Caverne Bateau,,,1910,34,,FR-4cf33b030a57def9fc84db38b254e07e
 Caverne de la Riviere des Remparts,,,1000,,,FR-48ac50171e4d80a1f366bd3846ee256e
-Trou de la Plaine-des-Palmistes,,,947,53,,FR-f918bc4a8f844318c6631d15ffc00495
+Trou de la Plaine-des-Palmistes,,,947,53,3,FR-f918bc4a8f844318c6631d15ffc00495
 Caverne des Fees,,,820,26,,FR-06ca914178beceeb3397df11ffbf8e73
 Cellar Cave,,,67,,,US-2415d483cb85f98853dde43963b9ac04
 Cemetery Cave,,,375,,,US-c4f77b2864437d216bbef7d2916f1cd3
@@ -886,8 +893,8 @@ Sistema Chimalacatepec,,,1388,201,,MX-0176a37a3a2343b76787fe1fc7869e19
 Cueva de Cuaclo de las Mo,,,80,,,ES-41af69f0879a28464f91486753f3d6ed
 Cueva de Don Cesar,480,480,56,4,,ES-2b1d49e63ba53c9fd24252c8766eae4f
 Cueva de Don Justo,,,6315,140,,ES-00259bdabb0744cb577e989b66d7e425
-Cueva de Tacoron,500,500,334,,4,ES-343b26ab5a7ecda51fd2ff47b200d24c
-Cueva de La Curva,400,400,141,,,ES-f3d7dc31bc29d36f1d31a263026f51d0
+Cueva de Tacoron,500,500,334,,4,ES-395aa6af4815242b29f6c73857d93186
+Cueva de La Curva,400,400,141,,,ES-13125f030fa3bcb796be2900087fa87a
 Cueva de Don Marcelo,,,1268,62,,MX-b1c85f99f96cc958d9bcc23a11d089e6
 Cueva de Dona Macaria,,,420,27,,MX-7a9f5ff19eb28f520589f33f12533708
 Cueva Chica de Macaria,,,126,9,,MX-f4565f04651412d319ccb10d95372434
@@ -895,7 +902,9 @@ Cueva de Eduardo,,,400,,,MX-e9bc135d4e51fd38923d86bc61c51c9b
 Cuata Cave,,,281,,,MX-0f12ee99209f77622d62d502e8346f7e
 La Madriguera de los Lobos,,,100,,,MX-66b9045ffdfee4826a04f57102133534
 Cueva de Elena,,,677,,,EC-2c8a57c56e580e16ef46c37b25010f60
-Cueva de Escondido,,,,,,ES-119f1c8fb2617aa383e978d61dd0095c
+Cueva de Escondido,,,1176,,,ES-LZ/YZ-33
+Cueva de Caldera Escondido,,,150,,,ES-LZ/TN-9
+Cueva Choco,,,680,,,ES-c7f25210ee68b5ff57cd92a8489b1000
 Cueva de Felipe Reventon,,,3000,,,ES-47dfa4760a06c3060ab46b4406d3b4be
 Cueva de Gilberto Moncayo,,,590,,,EC-63a0b19b88c206be4f2f27e8721fbc0d
 Cueva de Guajara,,,150,,,ES-2bfd95be1b8c7217bddf1a2220e5c17f
@@ -921,28 +930,40 @@ Cueva de las Abejas,720,720,43,2,,ES-1b1994da0f4803823b8a79872322478c
 Cueva de las Eras,,,80,,,ES-a4f385e784ff542ada388c64185a0f0c
 Cueva de las Huesitos,,,1792,18,,MX-7837ba49343ed2f7b0540705d6060fbe
 Cueva de las Jordis,,,46,,,ES-1f0a20c84fd3b69e86d93a346c6829ab
-Cueva de los Palmeros,,,181,,,ES-LP/FC-9
 Cueva de los Conejos,,,30,,,ES-LP/FC-5
+Cueva Barranco Roto,300,300,150,,,ES-98739e8d46aad81850e9c9ebe8fc3c91
+Cueva del Raton,,,316,,,ES-LP/FC-6
+Cueva de los Palmeros,650,650,181,,,ES-LP/FC-9
+Cueva el Rincon I,875,875,293,,,ES-LP/EP-9
+Cueva el Rincon II,875,875,72,,,ES-LP/EP-16
+Cueva Rincon III,900,900,18,,1,ES-LP/EP-14
+Cueva del Rincon IV,865,865,57,,,ES-LP/EP-36
 Cueva de la Fuente de La Canaria,,,237,,,ES-LP/MZ-3
 Cueva de los Cuicillos,,,976,14,,MX-ea2f4f2d7323175f205742192f0b557a
-Cueva de los Naturalistas,,,1660,,,ES-LZ29
+Cueva de las Brenas,,,1705,,,ES-LZ/YZ-1
+Cueva de los Naturalistas,,,1660,,2,ES-LZ29
+Sima de Las Palomas,,,,,,ES-FV/LO-7
+Sistema de Los Corredores,,,338,,,ES-FV/LO-2
+Galeria de Hiriazo,,,,,,ES-FV/AG-2
+Cueva del Paso o del Esqueleto,,,845,,,ES-LZ/YZ-4
+Cueva Tahiche,,,198,,,ES-LZ/TG-2
 Cueva de los Pardelas,,,180,,,ES-e1fd07873552ebf3583244d9a5006dd4
 Cueva de los Roques,2160,2200,1048,,4,ES-40ecacf8fd9a71f998c37c3a7e2e8b12
 Cuevas Negras,2175,2250,420,85,,ES-095a76e288771795e127286732c640a7
 Cueva de los Secundarios,,,,,,MX-0cca94b30cfb3d044df06d4d557422c2
 Cueva de Los Valencianos,560,560,48,22,,ES-92b856e53a7ebc6e6132d5f92bbd70d1
-Cueva de los Verdes,,,9995,273,,ES-2f9f08180eef7bd60bfd8ff4f08d7f25
+Cueva de los Verdes,,,9995,273,,ES-LZ/HR-2
 Cueva de Macas,,,92,,,EC-d4831c987965951d7d7c49b793c342c7
 Cueva de Maestro Pepe,625,625,65,2,,ES-cccd917a40eed3a81884cef87e80bcae
 Cueva de Marcelo,,,408,,,EC-f9591b34fa63e6375ea5d4dc1428ead8
-Cueva de Mauricico,,,193,,,ES-6799b1d3b1d794a41aeea73788e04b18
+Cueva de Mauricio,,,193,,,ES-d7c2fd606646f0dbe434930c2758d3ca
 Cueva de Miguel Angel Ari,,,500,,,EC-f52b5cd3789631cb8d2153f69544c4eb
-Cueva de Punto Blanco,30,30,248,7,,ES-99999c613e40945669732517d1ecd62b
+Cueva de Punto Blanco,30,30,248,7,,ES-3c8c5686e84371160f99b10be6b52820
 Cueva de Raul Aquirre,,,115,,,EC-5bd2da1ed6b95b469a94a1b3fb904c79
 Cueva de Rovalino,,,50,,,EC-2023f4028a106e4c6def2c873aff29b9
 Cueva de Samara,,,100,,,ES-bf29b69077e0744d70008ac422af65a8
 Cueva de San Andres,1000,1000,390,,,ES-16b8519a846e3ee9da467a1cdc1be48f
-Cueva de San Marcos,30,99,2130,,2,ES-be1a59a657a2e92dec809c9be5722030
+Cueva de San Marcos,30,99,2130,,2,ES-140dfeab0d4140130b515fe46d5888c4
 Cueva de Sucre,,,355,,,EC-1ab67d5bb62a97678e14341cf4e00759
 Cueva de Tatamasquio,,,,,,MX-d71afa72c5942d06ab96a41eb5ced760
 Cueva del Acantilado,,,401,,,ES-dce490f83d8fc2630627b4ac1a963710
@@ -960,7 +981,10 @@ Cueva del Ferrocarril-Mina Inferior,,,6538,90,10,MX-95d1013e4757e2b49bf40cb8dab3
 Cueva del Naranjo Rojo,,,671,32,,MX-58bfe0ec8bc02c0415901b0a85146c38
 Cueva del Gato Feo,,,175,,,ES-fdbcd0702979ae1fdd35477567ff02ae
 Cueva del Judith,,,133,,,ES-e41a54b8a3e09cd67403560613d0c20a
-Cueva del Llano,,,488,,,ES-a25383c65363a8d22cb0ce7a26d01ab1
+Cueva del Llano de Villaverde,,,648,,,ES-FV/LO-1
+Cueva del Llano de Los Canos,,,367,,,ES-LP/MZ-4
+Cueva del Canal,,,554,,,ES-LP/MZ-5
+Cueva de los Esqueletos,,,123,,,ES-LP/MZ-9
 Cueva del Metra,200,200,185,4,,ES-dcca9f7d4ae82831c56192121e91f33f
 Cueva del Miedo,,,100,,,ES-1d42bdfcb6d8f0d5a07cd00d5e47ea3d
 Cueva del Novillo,,,136,13,,MX-6d0485b15e394f4af0868b8cca277e95
@@ -981,6 +1005,7 @@ Cueva del Tigre,,,206,41,,MX-841ec1cf18e2ed115612ff6dc60ef178
 El Abrigo de el Manzano,,,11,,,AR-62521e0ec47eca8718f1eea24056dd7d
 Cueva Fea de Arico,1620,1620,55,2,,ES-608a937d9b4827f902b02abf5867aee1
 Cueva Grande de Orchilla,,,100,,,ES-99d4f7645c5497f675194f0cc0d3ac84
+Cueva de Los Pocitos,250,250,933,110,,ES-fb8a292357f2b87920739d185d9d7117
 Cueva Honda de Guimar,100,100,100,,,ES-10965ad0235f397b6eafd50a8071fd54
 Cueva Harrouth 32,,,87,,,ES-527b790a10eecd5806fb535b7fa51e25
 Cueva Huevos,,,101,,,MX-9a7f914608cdc7fcb83f0656ba43c4bc
@@ -989,9 +1014,10 @@ Cueva La Alada,,,264,,,AR-b403d0ee8602ed513a356cae6d9af689
 Cueva Labrada,1000,1000,236,12,,ES-00f979bebca6f9e8f144842334075dd2
 Cueva Las Mechas,1000,1000,246,9,,ES-f656c2900541167f6a855d432dafd8fe
 Cueva los Viejos,,,70,,,ES-28d002b3a28852401c8e35d2f9264191
-Cueva MPT,,,94,,,ES-62b6eda8977002514df206db456374d2
+Cueva del Llanito,420,420,142,,,ES-LP/BA-1
+Cueva MPT,70,70,94,,1,ES-LP/BA-2
 Cueva de Pepe el Chico,420,420,158,14,,ES-5c544c9765b73d2eec85b0a7d4acae97
-Cueva Roja,,,200,,,ES-37a9ff29f666863f06dfb3ab02bfac7e
+Cueva Roja,,,300,,,ES-37a9ff29f666863f06dfb3ab02bfac7e
 Cueva Roques Blancos,,,70,,,ES-2259996868deb17c5c5788c57fd1bd1e
 Cuevas de Guinea,,,57,9,,ES-33ccbeb40b5e2ebdcafb909b381a6f44
 Cuevas de la Lechera,,,,,,ES-4d59833884b24c092542138872829d37
@@ -1249,7 +1275,7 @@ Hermitage Hole,,,,,,FR-d1e59e93c2482d055fb58d2c55c4349d
 Ghar Al Hibashi,,,581,,,SA-180
 Hidden Cave,,,153,,,US-15a742c7db70747bbeabf1f2ae017d23
 Hide-away Cave,,,137,,,US-e8be1666f7a55b79e39be1dd8e824516
-Higby Cave,,,335,,,US-b1f285fa54957df41265c6ae7cddf110
+Higby Cave,,,400,,,US-b1f285fa54957df41265c6ae7cddf110
 Hito Ana,,,83,,,JP-39141913d70e1f2dd5e18a8f90de442d
 Hjartartrod,,,310,,,IS-80d21c1a9c52037c271c2309d24cdd34
 Hnullungur,,,30,,,IS-8138dac821251996989bd6542f740841
@@ -1376,6 +1402,8 @@ Panga Evangadjou,,,35,14,,KM-SB2
 Panga Nyamaoui,,,810,,1,KM-FA1
 Panga Milembeni,,,52,,1,KM-IZ1
 ,,,90,,,KM-IZ2
+Panga Mdrashi,,,42,,1,KM-BB1
+Panga Rajab,,,80,,,KM-BB2-3
 Katabuta Ana,1190,1190,30,,,JP-a74791656e001fa728ef75e91f874c6d
 Kathy's Tube,,,194,,,US-dbda4350769e645aa84278bc09f62b52
 Kau Cave #2,,,600,,,US-0210150a8baebb52c368bf17a2d84cd6
@@ -2021,7 +2049,15 @@ Trapper Cave,,,,,,US-7c5bf3ae85ae936ad693e11ce66a6a00
 Traves Cave,,,67,,,AU-ASF-4U-18
 Johnson Cave,,,125,,,AU-ASF-4U-19
 Tumulus E-1 Cave,,,60,,,US-1fc0f5d3c97133824341b42b0a6aecad
-Tunel de la Atlantida,,,1570,,,ES-c5981a1a916cefce87d884c850717bd0
+Tunel de la Atlantida,,,1570,,,ES-LZ/HR-5
+Cueva de Lago Ne,,,154,,,ES-LZ/HR-8
+Cuevas de Mozaga,,,275,,,ES-LZ/TG-1
+Sima de Tinguaton 2,,,,26,,ES-d8f67acfad35b3b46bcd48656f701a76
+Sima de Tinguaton 3,,,,101,,ES-81fff7f04b1fd19ac03d6f77676e8197
+Sima del Pedro Perico,,,201,31,,ES-LZ/YZ-6
+Cueva de Los Pescadores,,,900,,,ES-71c8e269df29359cdc72c936f0b8f47b
+Cueva Nazaret,,,150,,,ES-LZ/TG-4
+Cueva del Covon o de la Chifletera,,,300,,,ES-LZ/YZ-7
 Tunel de Los Piratas,,,1200,,,EC-00a0fb8cb55cd63cf037547dcf4ab5d6
 Tunnel Cave,,,45,,,AU-ASF-3H-9
 Tunnel Cave,,,20,3,,AU-ASF-3H-66
@@ -2038,6 +2074,7 @@ Two Column Cave,,,21,,,US-d9a0c816d148808709f7c537f9bc1250
 Uba Ana,750,750,123,,,JP-fa59553d826ee4cbf0eb8c33d995cb36
 Ubuvomo bwa Nyrabadago,,,1500,,,RW-9dbe67472fddd40decb1f2f99c499fab
 Ubuvumo bwa Musanze,,,4560,210,,RW-52b9d30d023628b22bcb6c0554c50eda
+Ubuvumo Manjari deux,,,1660,58,,RW-b6f316fb969c59e43bb0c8ace0dc599b
 Umi'i Manu (Bird Trap),,,3887,570,,US-88eec3a2d2821103e5e0215a178df08b
 Shangri-la Cave System,,,,,,US-8e94bcc32530ea3ac07071731690997b
 Petrel Cave,,,,,,US-09344e5f227b48f6fcc34e9180dc86a9
@@ -2136,7 +2173,7 @@ Zinza Fuketsu No. 6 Cave,1160,1160,42,,,JP-ee5f3fdaba6003d0690998fcc04fc239
 Zinza Fuketsu No. 7 Cave,1150,1150,80,,,JP-43f658dd3293f35ab879e68ec49c37bd
 Zinza Fuketsu No. 8 Cave,1150,1150,100,,,JP-0964d8a880d364dd5b0e55ff6b77a353
 Zinza Fuketsu No. 9 Cave,1145,1145,,,,JP-5efffc333a62ed43332a4b02fb34acc1
-Al-Fahda Cave (Lioness Cave),792,792,924,7,,JO-6bbf0d56879e15035e2a176b6e3d0a0a
+Al-Fahda Cave (Lioness Cave),792,792,924,7,,JO-104334afbc1a5cb1c2fddde28360f29b
 Al-Badia Cave,783,783,445,17,,JO-8c1cb307c0ad7876d20bc7d1c2136eda
 Hashemite University Cave,787,787,231,10,,JO-15940e14a78559a2ce005af34998cfc8
 Al-Ameed Cave,777,777,208,4,,JO-1446e8f0fb19c03c5228531875f14b54
@@ -2152,10 +2189,38 @@ Pogibshaya lava tube,1257,1257,,,,RU-3a09160e042bf53d2b9a6b54ed705118
 Sima Las Palomas,,,300,75,,ES-713887c7f7506d258c62e108a364edce
 Cueva del Mocan,1100,1100,214,,,ES-8a7e2fee683345e7c9d8ab444a1293fd
 Cueva Honda del Bejendado,,,1363,,,ES-LP/EP-1
+Sistema de Los Cardos,,,,,,ES-8815e0193a06df95d095fae15d537256
+Cueva de Los Cardos I,975,975,153,,,ES-LP/EP-6
+Cueva Benisahare La Palma,975,975,584,,,ES-LP/EP-2
+Cueva de Los Cardos III,960,960,154,,,ES-LP/EP-40
+Cueva de Alain,880,880,138,,1,ES-LP/EP-11
+Cueva de Susi,885,885,181,,,ES-LP/EP-4
+Cueva de Las Cuatro Bocas,1054,1054,136,,,ES-LP/EP-12
+Cueva de Los Sorprendidos,,,211,,,ES-LP/EP-13
+Cueva de Las Moradas,,,191,14,,ES-LP/EP-25
+Cueva Excavada del Rincon,825,825,49,,,ES-LP/EP-27
+Cueva de Las Cabras,495,495,109,,,ES-LP/EP-28
+Cueva del Cuchillo de Torres,600,600,202,16,,ES-LP/EP-29
+Cueva del Arenal,,,100,,,ES-LP/EP-24
+Cueva Escondida de Torres,780,780,285,23,,ES-LP/EP-42
+Cueva de Enfrente,,,109,23,,ES-LP/EP-43
 Cueva del Sistema de Tigalate A,,,1632,,,ES-LP/MZ-1
 Cueva del Sistema de Tigalate B,,,911,,,ES-LP/MZ-2
-Cueva del Perdido,,,1288,,,ES-LP/TZ-2
-Cueva Honda de Miranda,,,1006,,,ES-LP/BA-3
+Cueva del Sistema de Tigalate C,,,110,,,ES-LP/MZ-17
+Cueva de los Caracoles,220,220,120,,,ES-LP/TZ-1
+Cueva del Perdido,30,30,1288,,,ES-LP/TZ-2
+Cueva de Todoque,500,500,560,,,ES-LP/LLA-1
+Cueva de Todoque II,485,485,157,,,ES-LP/LLA-4
+Cueva de Hercules,270,270,262,,,ES-LP/LLA-8
+Cueva del Vidro,,,211,,,ES-LP/LLA-14
+Cueva Honda de Miranda,440,440,1006,,,ES-LP/BA-3
+Gatera de Miranda,440,440,86,,,ES-LP/BA-4
+Cueva del Tunel de Trasvase,450,450,225,,,ES-LP/BA-5
+Cueva del Diablo,1400,1400,115,,,ES-LP/BA-6
+Cueva de Ciro o de Puntallana,,,290,,,ES-LP/PL-2
+Cueva de la Tosca,,,235,,,ES-LP/BV-1
+Cueva de Chimbre,560,560,143,,1,ES-LP/SCP-01
+Cueva del Barranco de la Madera,430,430,71,,,ES-LP/SCP-02
 Grotta dello Zolfo,,,,,,IT-c905911c4f155b004c7902760bbdda74
 Palahemo Lava Tube,,,305,,,US-75d63e8383cd3d1700e0cdf026f7b646
 Delissea Cave System,820,2200,64700,1500,,US-2fe4578a1aaf2189753e0ddfdd6ad29a
@@ -2177,6 +2242,7 @@ Old Ladies' Cave,15,15,,,,US-4943ec739c38e2605e805713a1a23861
 Kaupikiawa Cave,,,,,,US-60-03-312
 Pit H Cave,,,600,183,,US-eb19eb14c6665e1e4e162763356a8c17
 Wood Valley Pit Crater Complex,,,,90,,US-6ed1faed6483376de71403a1ab27cdb1
+Lae'apuki Cave,,,,,,US-c7fecaffc8c0869e57d7989c90922a8f
 Kahalauaola (Shark Cave),,,,,,US-ad09914793317183758dfc403d82f820
 C0,,,476,15,,VN-f389729e7c7038e5e44ad429d6cc498c
 "C1, C2",,,402,4,,VN-95294be47834d825de40a616dcc80f66
@@ -2214,3 +2280,8 @@ Arsia South A,,,9683,,23,XA-1dd91fee59fa4dab28c6fcd900aaee23
 Arsia South B,,,13615,,17,XA-b36fa07bf6eab958b13534c802c22629
 Olympus,,,20372,,25,XA-e711c5835a53221e4926e652bc765ebb
 Hadriaca,,,7193,,32,XA-26f76f3b6f74dd283177dd743210a896
+,11556,11556,,,,XA-SK1
+,9912,9912,,,,XA-SK4
+,710,710,,,,XA-SK15
+,-2193,-2193,,,,XA-SK27
+,-2220,-2220,,,,XA-SK28

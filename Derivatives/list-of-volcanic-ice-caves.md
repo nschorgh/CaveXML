@@ -22,7 +22,7 @@ United States of America - Hawaii [**Arsia Cave** Arsia Ice Cave ](allcaves-data
 United States of America - Hawaii [**Mauna Loa Ice Cave** ](allcaves-database.md#US-b06fbb3d2b569e50f6cddc95cfb1b0f7)  
 United States of America - Idaho; Butte County [**Boy Scout Cave** ](allcaves-database.md#US-fb672da215b7a63a8da8805a22311591)  
 United States of America - Idaho [**Niter Ice Cave** ](allcaves-database.md#US-4e939cee51ff8afebc0093419af01cc7)  
-United States of America - New Mexico; Cibola County [**Candelaria Ice Cave** Bandera Volcano Ice Cave; Zuni Ice Cave ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
+United States of America - New Mexico; Cibola County [**Candelaria Ice Cave** Bandera Volcano Ice Cave; Zuni Ice Cave; Winter Lake ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
 United States of America - New Mexico; Cibola County [**Dripping Lava Cave** ](allcaves-database.md#US-c87f5433fb645e7fc29ae96e9e076a7f)  
 United States of America - New Mexico; Cibola County [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  
 United States of America - New Mexico; Cibola County [**Giant Ice Cave** ](allcaves-database.md#US-68f0649447705a70188a6ece04f93d5e)  

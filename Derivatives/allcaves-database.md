@@ -17,6 +17,7 @@ Austria - Salzburg - Tennengebirge
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 [Margesin et al. (2004) doi:10.1099/ijs.0.63124-0](https://doi.org/10.1099/ijs.0.63124-0)   
 [Schöner et al. (2011) doi:10.5194/tc-5-603-2011](https://doi.org/10.5194/tc-5-603-2011)   
+[https://en.wikipedia.org/wiki/Eisriesenwelt](https://en.wikipedia.org/wiki/Eisriesenwelt)   
 *Cave use:* guided tourist cave  
 
 ---  
@@ -28,10 +29,20 @@ Austria - Steiermark; Oberösterreich - Totes Gebirge
 *Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* perennial ice found near entrances of Feuertal-Eishöhle, Raucherkarhöhle, and Altarkögerlhöhle  
-*Branches:* [Feuertal-Eishöhle](#AT-1626/18); Raucherkarhöhle; Altarkögerlhöhle;   
+*Branches:* [Feuertal-Eishöhle](#AT-1626/18); [Raucherkarhöhle](#AT-1626/55); Altarkögerlhöhle;   
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 [https://hoehle.org/laengste-tiefste](https://hoehle.org/laengste-tiefste)   
 [https://de.wikipedia.org/wiki/Sch%C3%B6nberg-H%C3%B6hlensystem](https://de.wikipedia.org/wiki/Sch%C3%B6nberg-H%C3%B6hlensystem)   
+
+---  
+<a name="AT-1626/55"></a>
+Austria - Totes Gebirge  
+*Cave Name(s):* **Raucherkarhöhle** *Id:* 1626/55  
+*Length:* ~86000m   
+*Rock type:* limestone   
+*Contents:* permanent ice  
+ *Part of* [Schönberg-Höhlensystem](#AT-1626/300)  
+[https://www.zobodat.at/pdf/Hoehle_059_0073-0082.pdf](https://www.zobodat.at/pdf/Hoehle_059_0073-0082.pdf)   
 
 ---  
 <a name="AT-1626/18"></a>
@@ -59,7 +70,7 @@ Austria - Oberösterreich - Dachstein
 <a name="AT-1547/17"></a>
 Austria - Oberösterreich - Dachstein  
 *Cave Name(s):* **Dachstein-Rieseneishöhle** *Id:* 1547/17  
-*altitude:* 1455  
+*Coordinates:* [47.548333, +13.704722](https://maps.google.com/?ll=47.548333,13.704722) *altitude:* 1455  
 *Length:* 2000m *Vertical extent:* 70m   
 *Contents:* permanent ice  
 [https://de.wikipedia.org/wiki/Dachstein-Rieseneish%C3%B6hle](https://de.wikipedia.org/wiki/Dachstein-Rieseneish%C3%B6hle)   
@@ -122,6 +133,7 @@ Austria - Salzburg - Tennengebirge
 *Contents:* permanent ice  
  *Part of* Eiskogel-Richter-Höhle  
 [https://de.wikipedia.org/wiki/Eiskogelh%C3%B6hle](https://de.wikipedia.org/wiki/Eiskogelh%C3%B6hle)   
+[https://www.mindat.org/loc-46024.html](https://www.mindat.org/loc-46024.html)   
 *Cave use:* guided tourist cave  
 
 ---  
@@ -190,6 +202,35 @@ Austria - Steiermark; Oberösterreich - Totes Gebirge
 [Kalmbach and Spahlinger (1997) Proc. 12th Int. Congr. Spel. https://digital.lib.usf.edu/SFS0064378/00001](https://digital.lib.usf.edu/SFS0064378/00001)   
 
 ---  
+<a name="AT-62157e008c37edf7bc663a9590653c8e"></a>
+Austria - Oberösterreich - Höllengebirge  
+*Cave Name(s):* **Hochschneid Eishöhle**  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+*Comments:* firn and ice plug about 70m thick  
+[Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
+
+---  
+<a name="AT-12939fa5b2fd0bd0b11978d23799d594"></a>
+Austria - Steiermark  
+*Cave Name(s):* **Schödlkogeleishöhle**  
+*altitude:* 939  
+*Rock type:* limestone   
+*Contents:* periodic ice  
+[Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
+
+---  
+<a name="AT-1826/25"></a>
+Austria - Niederösterreich - Ötscher  
+*Cave Name(s):* **Südkar-Eishöhle** *Id:* 1826/25  
+*Coordinates:* [47.857, +15.1989](https://maps.google.com/?ll=47.857,15.1989)   
+*Vertical extent:* 250m   
+[map](http://www.thamer.at/wp-content/uploads/2007/05/ubersicht.jpg)   
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Hartmann https://www.zobodat.at/pdf/Hoehle_027_0145-0149.pdf](https://www.zobodat.at/pdf/Hoehle_027_0145-0149.pdf)   
+
+---  
 <a name="BA-ccffe3d9f1b3bcbb3a83f3e524a694b1"></a>
 Bosnia and Herzegovina - Treskavica mountain  
 *Cave Name(s):* **Ledenica**  
@@ -248,11 +289,33 @@ Croatia
 Croatia - Velebit Mt.  
 *Cave Name(s):* **Vukušić  Ice  Cave** Vukušić snježnica  
 *Coordinates:* [44.8, +14.98](https://maps.google.com/?ll=44.8,14.98) *altitude:* 1470  
-*Length:* 20m *Vertical extent:* 30m   
+*Vertical extent:* 30m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* 15m thick ice bodies  
 [Kern et al. (2011) doi:10.5194/tc-5-485-2011](https://doi.org/10.5194/tc-5-485-2011)   
+
+---  
+<a name="HR-649eabf30132b3395f1622ed9bc0223c"></a>
+Croatia - Velebit Mt.  
+*Cave Name(s):* **Štirovača Ice  Cave** Ledenica u Štirovača  
+*altitude:* 1110  
+*Length:* 351m *Vertical extent:* 36m *Number of entrances:* 2  
+*Rock type:* limestone   
+*Contents:* periodic ice  
+[Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4](https://doi.org/10.1016/B978-0-12-811739-2.00016-4)   
+[Bocic et al. (2012) doi:10.1127/0372-8854/2012/0083](https://doi.org/10.1127/0372-8854/2012/0083)   
+Bocic et al. (2014) Int. Workshop on Ice Caves  
+
+---  
+<a name="HR-1087eb5bceb413d883582a5eee8fb42a"></a>
+Croatia - Velebit Mt.  
+*Cave Name(s):* **Gavranova jama** Gavranova pit  
+*altitude:* 1100  
+*Vertical extent:* 20m *Number of entrances:* 2  
+*Rock type:* limestone   
+*Contents:* permanent ice  
+Bocic et al. (2014) Int. Workshop on Ice Caves  
 
 ---  
 <a name="FI-3bacd764cccfcdca855f79037da8fe2e"></a>
@@ -763,6 +826,25 @@ Italy
 *Rock type:* limestone   
 *Contents:* permanent ice  
 [Koltai et al. (2021) doi:10.5194/cp-17-775-2021](https://doi.org/10.5194/cp-17-775-2021)   
+
+---  
+<a name="IT-9c2eb5b1f5f39083b07ab40f8925f0ee"></a>
+Italy - Friuli Venezia Giulia - Canin massif  
+*Cave Name(s):* **Leupa ice cave**  
+*altitude:* ~2300  
+*Contents:* permanent ice  
+[Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X](https://doi.org/10.1016/B978-0-12-811739-2.00019-X)   
+[Colucci et al. (2016) doi:10.1016/j.geomorph.2016.02.017](https://doi.org/10.1016/j.geomorph.2016.02.017)   
+[Colucci et al. (2017) DOI:10.4461/GFDQ.2017.40.5](https://doi.org/10.4461/GFDQ.2017.40.5)   
+
+---  
+<a name="IT-08eadc59b6060b7e7729f4a83561cbd2"></a>
+Italy - Friuli Venezia Giulia - Canin massif  
+*Cave Name(s):* **Vasto ice cave**  
+*altitude:* ~2200  
+*Contents:* permanent ice  
+[Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X](https://doi.org/10.1016/B978-0-12-811739-2.00019-X)   
+[Colucci et al. (2016) doi:10.1016/j.geomorph.2016.02.017](https://doi.org/10.1016/j.geomorph.2016.02.017)   
 
 ---  
 <a name="ME-03110"></a>
@@ -5247,18 +5329,22 @@ United States of America - Idaho - Northern Rocky Mountains
 ---  
 <a name="US-9c34793586092e16b66cfb8a7655fb35"></a>
 United States of America - Idaho - Northern Rocky Mountains; Craters of the Moon National Monument  
-*Cave Name(s):* **Snow Cone**  
+*Cave Name(s):* **Snow Cone** Snow Cone Spatter Cone  
+*Length:* 122m *Vertical extent:* 36m *Number of entrances:* 1  
 *Contents:* permanent ice  
 *Comments:* permanent ice pond and a frozen waterfall  
 [Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0](https://doi.org/10.1016/B978-0-12-811739-2.00031-0)   
+[https://digital.lib.usf.edu/content/SF/S0/05/05/68/00001/K26-00119-IWIC-VI-program.pdf](https://digital.lib.usf.edu/content/SF/S0/05/05/68/00001/K26-00119-IWIC-VI-program.pdf)   
 
 ---  
-<a name="US-a1f6c4466a0b944fd5d193c95f7c9091"></a>
-United States of America - Idaho; Power County - Northern Rocky Mountains; Craters of the Moon National Monument  
+<a name="US-8b27d0b12c479898de8a2a5544747118"></a>
+United States of America - Idaho; Fremont County - Northern Rocky Mountains; Craters of the Moon National Monument  
 *Cave Name(s):* **Crystal Falls Ice Cave** Crystal Falls Cave  
+*Length:* 653m   
 *Cave type:* lava tunnel  
 *Comments:* no longer contains perennial ice; includes long tabular ice crystals  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1047](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1047)   
+[https://digital.lib.usf.edu/content/SF/S0/05/05/68/00001/K26-00119-IWIC-VI-program.pdf](https://digital.lib.usf.edu/content/SF/S0/05/05/68/00001/K26-00119-IWIC-VI-program.pdf)   
 
 ---  
 <a name="US-f9244e4b84013595587462be918605da"></a>
@@ -5367,10 +5453,11 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 <a name="US-491d775d9eafafa367521cf6c9738608"></a>
 United States of America - California; Siskiyou County - Medicine Lake Highlands  
 *Cave Name(s):* **Heppe Chimney**  
-[map](https://rpif.asu.edu/LTdatabase/images/heppe_caves.jpg)   
-*Rock type:* basalt   
-*Comments:* spatter cone adjacent to Heppe Cave  
+[map](https://pubs.usgs.gov/bul/1673/plate-6.pdf)   
+*Rock type:* basalt *Cave type:* lava vent  
+*Comments:* spatter cone adjacent to Heppe Cave; agglutinate cone  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=650](https://rpif.asu.edu/LTdatabase/result.php?RECNO=650)   
+[http://npshistory.com/publications/geology/bul/1673/sec3k.htm](http://npshistory.com/publications/geology/bul/1673/sec3k.htm)   
 
 ---  
 <a name="US-ee75f790b179d55268f574c051df0a82"></a>
@@ -5699,13 +5786,13 @@ New Zealand - Auckland City - Three Kings
 Kenya - Rift Valley Province; Kajiado District - Mt. Suswa  
 *Cave Name(s):* **14-18 Series**  
 *Length:* 3500m *Number of entrances:* 8  
-[map](https://rpif.asu.edu/LTdatabase/images/14-18_Series.jpg)   
 *Cave type:* lava tunnel  
 *Contents:* extensive guano; many bats  
 *Comments:* guano mining  
 *Branches:* [Cave 14](#KE-ba04cfe5af21652967b7d6a39aa563ce); [Cave 18](#KE-8884ed23a0c922752e9179ded40baeaa);   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1445](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1445)   
 [Simons (1998) doi:10.5038/1827-806X.27.1.4](https://doi.org/10.5038/1827-806X.27.1.4)   
+[Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
 *Cave use:* mine  
 
 ---  
@@ -5714,6 +5801,16 @@ Kenya - Rift Valley Province; Kajiado District - Mt. Suswa
 *Cave Name(s):* **Cave 14**  
 *Cave type:* lava tunnel  
  *Part of* [14-18 Series](#KE-9b7f3efde6c91bdda06602fa4c7fd849)  
+[Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
+[https://www.mindat.org/loc-144118.html](https://www.mindat.org/loc-144118.html)   
+
+---  
+<a name="KE-8884ed23a0c922752e9179ded40baeaa"></a>
+Kenya - Rift Valley Province; Kajiado District - Mt. Suswa  
+*Cave Name(s):* **Cave 18**  
+*Cave type:* lava tunnel  
+ *Part of* [14-18 Series](#KE-9b7f3efde6c91bdda06602fa4c7fd849)  
+[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1441](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1441)   
 [Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
 
 ---  
@@ -5733,6 +5830,7 @@ Kenya - Rift Valley Province; Kajiado District - Mt. Suswa
 *Length:* 1600m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1446](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1446)   
+[Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
 
 ---  
 <a name="KE-9f06905341f9c75a417cf5b971f5b187"></a>
@@ -5742,6 +5840,7 @@ Kenya - Rift Valley Province; Kajiado District - Mt. Suswa
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1447](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1447)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1439](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1439)   
+[Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
 
 ---  
 <a name="KE-095b4a6eb0c6858c8b7134d780eedc27"></a>
@@ -5752,6 +5851,7 @@ Kenya - Rift Valley Province; Kajiado District - Mt. Suswa
 *Branches:* Cave 34;   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1448](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1448)   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1444](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1444)   
+[Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
 
 ---  
 <a name="KE-845a9bc7556335e99e9081798e87f084"></a>
@@ -5759,6 +5859,7 @@ Kenya - Rift Valley Province; Kajiado District - Mt. Suswa
 *Cave Name(s):* **Cave 3**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1440](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1440)   
+[Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
 
 ---  
 <a name="KE-b20e6ae4cc915024ae239134fa2ce3c9"></a>
@@ -5774,35 +5875,22 @@ Kenya - Rift Valley Province; Kajiado District - Mt. Suswa
 <a name="KE-58027c0a30087226e5337c14b143eb77"></a>
 Kenya - Rift Valley Province; Kajiado District - Mt. Suswa  
 *Cave Name(s):* **Cave 13**  
-*Length:* 600m   
+*Length:* 600m *Vertical extent:* 22m   
 [map](https://rpif.asu.edu/LTdatabase/images/Cave_13.jpg)   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1451](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1451)   
 [Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
 [Paolo et al. (1999) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf)   
+[https://www.mindat.org/loc-144119.html](https://www.mindat.org/loc-144119.html)   
 
 ---  
-<a name="KE-8884ed23a0c922752e9179ded40baeaa"></a>
+<a name="KE-fc7bcffef435e0b8c275f902271b1658"></a>
 Kenya - Rift Valley Province; Kajiado District - Mt. Suswa  
-*Cave Name(s):* **Cave 18**  
-*Cave type:* lava tunnel  
- *Part of* [14-18 Series](#KE-9b7f3efde6c91bdda06602fa4c7fd849)  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1441](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1441)   
-[Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
-
----  
-<a name="KE-0d1fc828e213f89b1dce44d93bcd2b7a"></a>
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa  
-*Cave Name(s):* **Cave 20**  
+*Cave Name(s):* **Cave 19-20-21**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1442](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1442)   
-
----  
-<a name="KE-0f1d5faac223bdc767b6bf027cbf89f7"></a>
-Kenya - Rift Valley Province; Kajiado District - Mt. Suswa  
-*Cave Name(s):* **Cave 21**  
-*Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1443](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1443)   
+[Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
 
 ---  
 <a name="US-27bcab35b484e108a2e9f19f677c0378"></a>
@@ -5962,8 +6050,8 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=459](https://rpif.asu.edu/LTdatabase/result.php?RECNO=459)   
 
 ---  
-<a name="US-57a9c68c183a7b082820dfd7ffcf6ada"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-1bd70f40ac185ef3eca28de18fdc63ad"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Ampitheater Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1019](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1019)   
@@ -6115,14 +6203,16 @@ Japan - Mt. Fuji
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=36](https://rpif.asu.edu/LTdatabase/result.php?RECNO=36)   
 
 ---  
-<a name="US-50f7b2ff9f755d97d2fa869dc2e1e569"></a>
-United States of America - Washington; Skamania County - Mount St. Helens  
+<a name="US-0a0e63a9f62daa38ef4518ca1d86f41a"></a>
+United States of America - Washington; Skamania County - Mount St. Helens; Gifford Pinchot National Forest  
 *Cave Name(s):* **Ape Cave**  
 *Length:* 3983m *Vertical extent:* ~210m *Number of entrances:* 2  
 [map](https://rpif.asu.edu/LTdatabase/images/Ape_Cave.jpg) [map](https://rpif.asu.edu/LTdatabase/images/MSH_Tubes+Contours.jpg)   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1691](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1691)   
 Halliday (1963) "Caves of Washington"  
+[https://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=40393](https://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=40393)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="US-NSS-633-24"></a>
@@ -6145,13 +6235,14 @@ United States of America - Hawaii - Hawaii Island; Kilauea; Mauna Ulu
 Wood (1981) Trans. Brit. Cave Res. Assoc. 8(3), 111-129  
 
 ---  
-<a name="AU-ASF-U22"></a>
+<a name="AU-ASF-4U-22"></a>
 Australia - Queensland - Undara  
-*Cave Name(s):* **Arch** *Id:* ASF-U22  
-*Length:* ~11m   
+*Cave Name(s):* **Arch Cave** *Id:* ASF-4U-22  
+*Length:* 200m *Number of entrances:* 2  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1370](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1370)   
 [http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf](http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf)   
+ASF database  
 
 ---  
 <a name="US-769ff7404a55f6dacb2ecf2821ee73e7"></a>
@@ -6190,20 +6281,34 @@ United States of America - Hawaii; North Kona - Hawaii Island
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=768](https://rpif.asu.edu/LTdatabase/result.php?RECNO=768)   
 
 ---  
-<a name="US-df85cad59a4081d4f6b5738761c74529"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-f6ad513d40d4e29984a3b278cee5bc7b"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Arco Tunnel**  
 *Length:* 1316m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1020](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1020)   
 
 ---  
-<a name="IS-874ae4e2e41445d05e301b121dd2b088"></a>
-Iceland - Arnessysla  
-*Cave Name(s):* **Arnarker**  
-*Length:* 470m   
+<a name="IS-e96013a7f519f046d6564274cd105674"></a>
+Iceland - Arnessysla - Leitarhraun lava field  
+*Cave Name(s):* **Arnarker** Kerid  
+*Length:* 515m   
+[map](https://www.photosfromiceland.com/images/phocagallery/south_iceland/arnarker_cave/thumbs/phoca_thumb_l_Let-Arnarker-12.jpg)   
 *Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=7](https://rpif.asu.edu/LTdatabase/result.php?RECNO=7)   
+*Contents:* permanent ice  
+[https://guidetoiceland.is/travel-iceland/drive/arnarker](https://guidetoiceland.is/travel-iceland/drive/arnarker)   
+  *Data curation:* Broken link: https://rpif.asu.edu/LTdatabase/result.php?RECNO=7  
+
+---  
+<a name="IS-42d72ec79a12b3b53f094a0557cbbdee"></a>
+Iceland - Arnessysla - Leitahraun lava field  
+*Cave Name(s):* **Búri Cave**  
+*Coordinates:* [63.9139, -21.4844](https://maps.google.com/?ll=63.9139,-21.4844)   
+*Length:* 1050m   
+*Cave type:* lava tunnel  
+*Contents:* permanent ice  
+[https://www.grottocenter.org/html/file_En.php?id=65162](https://www.grottocenter.org/html/file_En.php?id=65162)   
+[https://en.wikipedia.org/wiki/B%C3%BAri_(cave)](https://en.wikipedia.org/wiki/B%C3%BAri_(cave))   
 
 ---  
 <a name="US-b9513e9db4a84c47e0d0057c42022592"></a>
@@ -6415,6 +6520,7 @@ United States of America - Oregon; Deschutes County - Horse Lava Tube System
 <a name="AU-ASF-4U-34"></a>
 Australia - Queensland - Undara  
 *Cave Name(s):* **Barkers Cave** *Id:* ASF-4U-34  
+*altitude:* 625  
 *Length:* 905m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1417](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1417)   
@@ -6570,6 +6676,7 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 <a name="AU-ASF-4U-30"></a>
 Australia - Queensland - Undara  
 *Cave Name(s):* **Bayliss Cave** *Id:* ASF-4U-30  
+*altitude:* 700  
 *Length:* 1350m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* trogloxenes; troglobites; troglophiles  
@@ -6577,6 +6684,7 @@ Australia - Queensland - Undara
 [Atkinson et al. (1975) doi:10.1007/BF02597832](https://doi.org/10.1007/BF02597832)   
 [Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf](http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf)   
 [Stone (2010) http://www.vulcanospeleology.org/sym14/papers/Stone.pdf](http://www.vulcanospeleology.org/sym14/papers/Stone.pdf)   
+[Eberhard and Howarth (2021) doi:10.3390/d13070326](https://doi.org/10.3390/d13070326)   
 
 ---  
 <a name="US-87e6ad28c34885a2927a537e5471a241"></a>
@@ -6657,9 +6765,10 @@ United States of America - Oregon; Lake County
 ---  
 <a name="US-07e6a97faadbb9daff8323691c085ad5"></a>
 United States of America - Oregon; Lake County  
-*Cave Name(s):* **Benjamin Lake Cave**  
+*Cave Name(s):* **Benjamin Lake Cave** Benjamin Ice Cave  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1242](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1242)   
+Larson, C.V. (1982) Benjamin Lake Cave. The Speleograph 18:97, 102-103  
 
 ---  
 <a name="US-de2013e5374ad4b76ee649039ec53c4b"></a>
@@ -7082,7 +7191,7 @@ Australia - Queensland - Undara
 <a name="PT-9d6fdc0ed7ac1145705f5823f7f8c233"></a>
 Portugal - Azores - Ilha de Terceira  
 *Cave Name(s):* **Branca Opala**  
-*altitude:* 280  
+*Coordinates:* [38.78460, -27.25342](https://maps.google.com/?ll=38.78460,-27.25342) *altitude:* 280  
 *Length:* 99m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=233](https://rpif.asu.edu/LTdatabase/result.php?RECNO=233)   
@@ -7100,6 +7209,17 @@ Portugal - Azores - Ilha de Terceira
 [Riquelme et al. (2015) doi:10.1093/femsec/fiv141](https://doi.org/10.1093/femsec/fiv141)   
 [https://en.wikipedia.org/wiki/Gruta_do_Natal](https://en.wikipedia.org/wiki/Gruta_do_Natal)   
 *Cave use:* self-guided tourist cave  
+
+---  
+<a name="PT-09c5a2eadd3aad15fd4f09038a34b5a9"></a>
+Portugal - Azores  
+*Cave Name(s):* **Gruta do Carvão**  
+*Coordinates:* [37.74816, -25.68707](https://maps.google.com/?ll=37.74816,-25.68707)   
+*Length:* 2500m   
+*Cave type:* lava tunnel  
+[https://www.grottocenter.org/html/file_En.php?id=72083](https://www.grottocenter.org/html/file_En.php?id=72083)   
+[http://grutadocarvao.amigosdosacores.pt](http://grutadocarvao.amigosdosacores.pt)   
+*Cave use:* guided tourist cave  
 
 ---  
 <a name="US-f1c22fa798108655607c9f99f1875978"></a>
@@ -7151,11 +7271,13 @@ Australia - Victoria - Mt. Napier
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1577](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1577)   
 
 ---  
-<a name="US-bf78e1cbe5586b6ac95ee4090608ddf8"></a>
+<a name="US-NSS-633-33"></a>
 United States of America - Washington; Skamania County  
-*Cave Name(s):* **Broken Back Cave**  
+*Cave Name(s):* **Broken Back Cave** *Id:* NSS-633-33  
+*Length:* 123m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1627](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1627)   
+[https://oregongrotto.com/troutlake.shtml](https://oregongrotto.com/troutlake.shtml)   
 
 ---  
 <a name="US-44268dadb0257c84fefa9e16cd6b9c79"></a>
@@ -7174,8 +7296,8 @@ Iceland - Snaefellsnes og Hnappadal
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=25](https://rpif.asu.edu/LTdatabase/result.php?RECNO=25)   
 
 ---  
-<a name="US-43d39f0bbdd4d4bc3c0dc9ffe139d80e"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-7fb08388a652dd4c905ffa451d51518a"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Buffalo Caves**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1022](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1022)   
@@ -7470,11 +7592,14 @@ Ecuador - Galapagos - Isla Santiago
 ---  
 <a name="EC-9d63669ef9c185c6c2d91d2c778e7a3b"></a>
 Ecuador - Galapagos - Isla de Santa Cruz  
-*Cave Name(s):* **Caverna de Gallardo**  
+*Cave Name(s):* **Caverna de Gallardo** Bellavista; Amor Tunnel  
 *Length:* 2250m   
 *Cave type:* lava tunnel  
+*Comments:* moonmilk deposits  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=709](https://rpif.asu.edu/LTdatabase/result.php?RECNO=709)   
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x33.pdf](http://www.vulcanospeleology.org/sym06/ISV6x33.pdf)   
+[Miller et al. (2020) doi:10.3390/coatings10111134](https://doi.org/10.3390/coatings10111134)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="AR-7fca2c85a5e23f6cfcc7bd6485c11030"></a>
@@ -7724,6 +7849,14 @@ United States of America - Hawaii - Hawaii Island; Kilauea
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=931](https://rpif.asu.edu/LTdatabase/result.php?RECNO=931)   
 [Halliday (1998) doi:10.5038/1827-806X.27.1.11](https://doi.org/10.5038/1827-806X.27.1.11)   
+[Halliday (2002) http://www.vulcanospeleology.org/whatis.pdf](http://www.vulcanospeleology.org/whatis.pdf)   
+
+---  
+<a name="US-639c04c063e13fb078b2e8f398691c6b"></a>
+United States of America - Hawaii - Hawaii Island; Kilauea  
+*Cave Name(s):* **Lava Rise E-3 Cave**  
+*Rock type:* basalt   
+[Halliday (2002) http://www.vulcanospeleology.org/whatis.pdf](http://www.vulcanospeleology.org/whatis.pdf)   
 
 ---  
 <a name="US-6a30829938a72966bc352fefe4e6780b"></a>
@@ -7996,11 +8129,12 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [map](http://npshistory.com/publications/geology/bul/1673/images/fig14.jpg) [map](https://caves.org/committee/salons/images/Cart%2013/Crystal.png) [map](https://pubs.usgs.gov/bul/1673/plate-6.pdf)   
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* permanent ice  
-*Comments:* ice pools; large hoarfrost crystals (e.g., near Fantasy Pasage and in Red Ice Room); icicles and ice stalagmites  
+*Comments:* ice pools; large hoarfrost crystals (e.g., near Fantasy Passage and in Red Ice Room); icicles and ice stalagmites  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=565](https://rpif.asu.edu/LTdatabase/result.php?RECNO=565)   
 [Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14](https://doi.org/10.4461/GFDQ.2014.37.14)   
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 [Smith (2014) https://scholarcommons.usf.edu/iwic/Proceedings/Climate_Microclimates_Cave_Ice/6/](https://scholarcommons.usf.edu/iwic/Proceedings/Climate_Microclimates_Cave_Ice/6/)   
+[https://www.mindat.org/loc-301173.html](https://www.mindat.org/loc-301173.html)   
 
 ---  
 <a name="US-cee76d4ceb1b9d5350ae639ef97ba2cb"></a>
@@ -8956,7 +9090,7 @@ Ecuador - Galapagos - Isla Santiago
 Mexico - Morelos - Suchiooc volcano  
 *Cave Name(s):* **Cueva del Diablo**  
 *Length:* 2020m *Vertical extent:* 70m   
-[map](http://www.mexicancaves.org/maps/3366.pdf) [map](http://www.mexicancaves.org/maps/3367.pdf)   
+[map](http://www.mexicancaves.org/maps/1956.pdf) [map](http://www.mexicancaves.org/maps/3366.pdf) [map](http://www.mexicancaves.org/maps/3367.pdf)   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1152](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1152)   
 
@@ -9439,8 +9573,8 @@ United States of America - Washington; Skamania County - Mount St. Helens
 
 ---  
 <a name="IT-SICT-1216"></a>
-Italy - Sicilia - Sicily; Etna  
-*Cave Name(s):* **Cutrona Cave (Grotta Cutrona)** Grotta MC1 Grotta *Id:* SICT-1216  
+Italy - Sicilia - Sicily; Mt. Etna  
+*Cave Name(s):* **Cutrona Cave (La Grotta Cutrona)** Grotta MC1 *Id:* SICT-1216  
 *altitude:* 1860  
 *Length:* 870m *Vertical extent:* 97m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -9450,7 +9584,7 @@ Italy - Sicilia - Sicily; Etna
 
 ---  
 <a name="IT-SICT-1205"></a>
-Italy - Sicilia - Sicily; Etna  
+Italy - Sicilia - Sicily; Mt. Etna  
 *Cave Name(s):* **Grotta Petralia** Grotta Leucatia *Id:* SICT-1205  
 *altitude:* 138  
 *Length:* 518m *Vertical extent:* 21m   
@@ -9546,6 +9680,7 @@ United States of America - Washington; Skamania County - Mt. Adams
 <a name="AU-ASF-4U-26"></a>
 Australia - Queensland - Undara  
 *Cave Name(s):* **Dave's (North) Cave** Dave I *Id:* ASF-4U-26  
+*altitude:* 730  
 *Length:* 50m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1373](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1373)   
@@ -9554,6 +9689,7 @@ Australia - Queensland - Undara
 <a name="AU-ASF-4U-27"></a>
 Australia - Queensland - Undara  
 *Cave Name(s):* **Dave's (South) Cave** Dave II *Id:* ASF-4U-27  
+*altitude:* 730  
 *Length:* 70m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1374](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1374)   
@@ -9574,20 +9710,6 @@ United States of America - Washington; Klickitat County - Mt. Adams
 *Length:* 1063m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1613](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1613)   
-
----  
-<a name="US-fc8798f70f1ddbe28fe3cadaec42ae9d"></a>
-United States of America - Idaho; Gooding County  
-*Cave Name(s):* **Dead Horse Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1059](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1059)   
-
----  
-<a name="US-24904dfe19c25df7f39f0121572fb577"></a>
-United States of America - Idaho; Gooding County  
-*Cave Name(s):* **Dead Horse Extension**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1060](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1060)   
 
 ---  
 <a name="KE-434166bb47589a8a8eb3768994faa9ba"></a>
@@ -9988,14 +10110,6 @@ United States of America - Hawaii; Puna district - Hawaii Island; Kilauea
 [Allred and Allred (1998) https://caves.org/pub/journal/PDF/V60/V60N3-Allred.pdf](https://caves.org/pub/journal/PDF/V60/V60N3-Allred.pdf)   
 
 ---  
-<a name="US-6496e5fc736e1a4371494fea401aa012"></a>
-United States of America - California; Siskiyou County - Medicine Lake Highlands  
-*Cave Name(s):* **Elmer's Bridge**  
-*Length:* 52m   
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=483](https://rpif.asu.edu/LTdatabase/result.php?RECNO=483)   
-
----  
 <a name="US-E450"></a>
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
 *Cave Name(s):* **Elmer's Lower Bridge** *Id:* E450  
@@ -10008,10 +10122,11 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 <a name="US-E440"></a>
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
 *Cave Name(s):* **Elmer's Upper Bridge** *Id:* E440  
-*Length:* 105m   
+*Length:* 105m *Number of entrances:* 4  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=485](https://rpif.asu.edu/LTdatabase/result.php?RECNO=485)   
 [https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf](https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf)   
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
 
 ---  
 <a name="US-2dd78c16769fdc1d90a62574e8cf1a30"></a>
@@ -10223,10 +10338,12 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 <a name="IS-0ed5c71cd41bbf211234144c444bc950"></a>
 Iceland - Austur-Hunavatnssysla; Reykjanes peninsula  
 *Cave Name(s):* **Flóki**  
-*Length:* 1096m   
+*Coordinates:* [63.99360, -21.81223](https://maps.google.com/?ll=63.99360,-21.81223)   
+*Length:* 1096m *Vertical extent:* 13m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=13](https://rpif.asu.edu/LTdatabase/result.php?RECNO=13)   
 [Waters (2006) http://www.vulcanospeleology.org/sym12/ISV12p08.pdf](http://www.vulcanospeleology.org/sym12/ISV12p08.pdf)   
+[https://www.grottocenter.org/html/file_En.php?id=65348](https://www.grottocenter.org/html/file_En.php?id=65348)   
 
 ---  
 <a name="US-5c91c49cdb1e87b9f7d11496e18c403f"></a>
@@ -10304,20 +10421,13 @@ Iceland - Eldhraun
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=196](https://rpif.asu.edu/LTdatabase/result.php?RECNO=196)   
 
 ---  
-<a name="AU-ASF-4U-13"></a>
+<a name="AU-ASF-U-13"></a>
 Australia - Queensland - Undara  
-*Cave Name(s):* **Frances** *Id:* ASF-4U-13  
+*Cave Name(s):* **Frances** *Id:* ASF-U-13  
 *Length:* ~14m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1382](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1382)   
 [Atkinson (2010) http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf](http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf)   
-
----  
-<a name="US-7691279c1ea6d7a668751f0a20879aeb"></a>
-United States of America - Oregon; Deschutes County  
-*Cave Name(s):* **Friday Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1302](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1302)   
 
 ---  
 <a name="US-NSS-633-07"></a>
@@ -10443,8 +10553,13 @@ Australia - Queensland - Undara
 <a name="PT-5ed3d1f76b92d13afdd02566254fa484"></a>
 Portugal - Azores - Ilha de Graciosa  
 *Cave Name(s):* **Furna do Exnofre**  
-*Cave type:* lava tunnel  
+*Cave type:* lava vent  
+*Contents:* lake(s)  
+*Comments:* includes 50m high dome  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=226](https://rpif.asu.edu/LTdatabase/result.php?RECNO=226)   
+[https://www.showcaves.com/english/pt/showcaves/Enxofre.html](https://www.showcaves.com/english/pt/showcaves/Enxofre.html)   
+[https://pt.wikipedia.org/wiki/Furna_do_Enxofre](https://pt.wikipedia.org/wiki/Furna_do_Enxofre)   
+*Cave use:* guided tourist cave  
 
 ---  
 <a name="PT-ff859a1f72d5739e649b6778db0a520c"></a>
@@ -10760,13 +10875,6 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 *Cave use:* self-guided tourist cave  
 
 ---  
-<a name="US-3df5d14196995f470e0d24df4066dc44"></a>
-United States of America - Oregon; Deschutes County  
-*Cave Name(s):* **Goodest Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1303](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1303)   
-
----  
 <a name="US-NSS-633-10"></a>
 United States of America - Washington; Skamania County - Smoky Creek  
 *Cave Name(s):* **Goose Cave** *Id:* NSS-633-10  
@@ -10786,20 +10894,26 @@ United States of America - Washington; Skamania County
 ---  
 <a name="AU-ASF-3H-10"></a>
 Australia - Victoria - Mt. Eccles  
-*Cave Name(s):* **Gothic Cave** *Id:* ASF-3H-10  
+*Cave Name(s):* **Gothic Cave** Natural Bridge *Id:* ASF-3H-10  
 *Length:* 30m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1570](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1570)   
 ASF database  
+[http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf](http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf)   
+[http://www.vulcanospeleology.org/sym10/ISV10s2.pdf](http://www.vulcanospeleology.org/sym10/ISV10s2.pdf)   
 
 ---  
 <a name="US-9fbf719fddd9cc14651b36ca851fef1a"></a>
 United States of America - Arizona; Coconino County - San Franciscan  
 *Cave Name(s):* **Government Cave** Lava River Cave; Bellemont Cave  
-*Length:* 1250m   
+*Length:* 1250m *Number of entrances:* 1  
+[map](https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprdb5318502.jpg)   
 *Rock type:* basalt *Cave type:* lava tunnel  
 *Contents:* periodic ice  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=243](https://rpif.asu.edu/LTdatabase/result.php?RECNO=243)   
+[https://www.showcaves.com/english/usa/caves/Flagstaff.html](https://www.showcaves.com/english/usa/caves/Flagstaff.html)   
+[https://en.wikipedia.org/wiki/Lava_River_Cave_(Arizona)](https://en.wikipedia.org/wiki/Lava_River_Cave_(Arizona))   
+[https://www.fs.usda.gov/recarea/coconino/recreation/recarea/?recid=55122](https://www.fs.usda.gov/recarea/coconino/recreation/recarea/?recid=55122)   
 *Cave use:* self-guided tourist cave  
 
 ---  
@@ -10836,8 +10950,8 @@ Cameroon - Sud-Oeust - Mt. Cameroon
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1549](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1549)   
 
 ---  
-<a name="US-c2213e9f022a9dc1a548019cfd523b31"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-785f59f433df9497c340e19a94ff968a"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Great Owl Cave**  
 *Length:* 158m   
 [map](https://rpif.asu.edu/LTdatabase/images/Great_Owl_Cave.jpg)   
@@ -10907,19 +11021,21 @@ Italy - Sicilia - Sicily
 
 ---  
 <a name="IT-SICT-1019"></a>
-Italy - Sicilia - Sicily; Etna  
+Italy - Sicilia - Sicily; Mt. Etna  
 *Cave Name(s):* **Grotta dei Lamponi** *Id:* SICT-1019  
 *altitude:* 1750  
-*Length:* 784m   
+*Length:* 784m *Vertical extent:* 75m   
 [map](https://rpif.asu.edu/LTdatabase/images/Lamponi_Map.jpg) [map](https://rpif.asu.edu/LTdatabase/images/Lamponi_Profile.jpg)   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=667](https://rpif.asu.edu/LTdatabase/result.php?RECNO=667)   
 [Licitra (1982) http://www.vulcanospeleology.org/sym03/ISV3x14.pdf](http://www.vulcanospeleology.org/sym03/ISV3x14.pdf)   
 [Guest et al. (1984) https://doi.org/10.1007/BF01961232](https://doi.org/10.1007/BF01961232)   
+[https://www.showcaves.com/english/it/caves/Lamponi.html](https://www.showcaves.com/english/it/caves/Lamponi.html)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="IT-SICT-1004"></a>
-Italy - Sicilia - Sicily; Etna  
+Italy - Sicilia - Sicily; Mt. Etna  
 *Cave Name(s):* **Grotta dei Tre Livelli** Galleriadei Pipistrelli *Id:* SICT-1004  
 *altitude:* 1625-1675  
 *Length:* 1150m *Vertical extent:* 304m *Number of entrances:* 2  
@@ -10927,10 +11043,12 @@ Italy - Sicilia - Sicily; Etna
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1540](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1540)   
 [Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf)   
 [Licitra (1982) http://www.vulcanospeleology.org/sym03/ISV3x14.pdf](http://www.vulcanospeleology.org/sym03/ISV3x14.pdf)   
+[https://www.showcaves.com/english/it/caves/TreLivelli.html](https://www.showcaves.com/english/it/caves/TreLivelli.html)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="IT-SICT-1032"></a>
-Italy - Sicilia - Sicily; Etna  
+Italy - Sicilia - Sicily; Mt. Etna  
 *Cave Name(s):* **Grotta del Santo** *Id:* SICT-1032  
 *altitude:* 1043  
 *Length:* 924m *Vertical extent:* 44m   
@@ -10939,7 +11057,7 @@ Italy - Sicilia - Sicily; Etna
 
 ---  
 <a name="IT-SICT-1196"></a>
-Italy - Sicilia - Sicily; Etna  
+Italy - Sicilia - Sicily; Mt. Etna  
 *Cave Name(s):* **Grotta del Lago** Grotta dei Pecorai *Id:* SICT-1196  
 *altitude:* 2130  
 *Length:* 288m *Vertical extent:* 41m   
@@ -10947,8 +11065,8 @@ Italy - Sicilia - Sicily; Etna
 [Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf)   
 
 ---  
-<a name="IT-be8ad3ffe25c102abda0adf9e3736f2c"></a>
-Italy - Sicilia - Sicily; Etna  
+<a name="IT-6373cb133e94f73731dd87d5bc74ccb4"></a>
+Italy - Sicilia - Sicily; Mt. Etna  
 *Cave Name(s):* **Grotta del Labirinto**  
 *Length:* 1500m   
 *Cave type:* lava tunnel  
@@ -10957,7 +11075,7 @@ Italy - Sicilia - Sicily; Etna
 
 ---  
 <a name="IT-SICT-1007"></a>
-Italy - Sicilia - Sicily; Etna  
+Italy - Sicilia - Sicily; Mt. Etna  
 *Cave Name(s):* **Grotta dell Intraleo** *Id:* SICT-1007  
 *altitude:* 1325  
 *Cave type:* lava tunnel  
@@ -10966,7 +11084,7 @@ Italy - Sicilia - Sicily; Etna
 
 ---  
 <a name="IT-SICT-1065"></a>
-Italy - Sicilia - Sicily; Etna  
+Italy - Sicilia - Sicily; Mt. Etna  
 *Cave Name(s):* **Grotta di Serracozzo I** *Id:* SICT-1065  
 *altitude:* 1840  
 *Length:* 350m *Vertical extent:* 60m   
@@ -10976,19 +11094,48 @@ Italy - Sicilia - Sicily; Etna
 
 ---  
 <a name="IT-SICT-1084"></a>
-Italy - Sicilia - Sicily; Etna  
+Italy - Sicilia - Sicily; Mt. Etna  
 *Cave Name(s):* **Abisso Profondo Nero** *Id:* SICT-1084  
 *altitude:* 1900 lower entrance; 1995 upper entrance  
 *Length:*  >1170m *Vertical extent:* 174m   
 *Cave type:* lava tunnel  
+*Comments:* year of eruption 1923  
 [Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf)   
 
 ---  
 <a name="IT-SICT-1005"></a>
-Italy - Sicilia - Sicily; Etna  
+Italy - Sicilia - Sicily; Mt. Etna  
 *Cave Name(s):* **Grotta degli Archi** Grotta di Monte Pecoraro *Id:* SICT-1005  
 *altitude:* 2010-2075  
 *Length:* 284m *Vertical extent:* 73m   
+*Cave type:* lava tunnel  
+[Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf)   
+
+---  
+<a name="IT-c9c1b84cbd2ed569370e240230015b3a"></a>
+Italy - Sicilia - Sicily; Mt. Etna  
+*Cave Name(s):* **Grotta delle Palombe** Cave of Doves  
+*altitude:* 1575  
+*Length:* 200m   
+*Cave type:* lava tunnel  
+[https://www.showcaves.com/english/it/caves/Palombe.html](https://www.showcaves.com/english/it/caves/Palombe.html)   
+*Cave use:* self-guided tourist cave  
+
+---  
+<a name="IT-SICT-1037"></a>
+Italy - Sicilia - Sicily; Mt. Etna  
+*Cave Name(s):* **Grotta Catanese I** *Id:* SICT-1037  
+*altitude:* 905  
+*Length:* 145m *Vertical extent:* 27m   
+*Cave type:* lava tunnel  
+[Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf)   
+
+---  
+<a name="IT-SICT-1117"></a>
+Italy - Sicilia - Sicily; Mt. Etna  
+*Cave Name(s):* **Grotta dei Ladri** Grotta dei Briganti o della Neve *Id:* SICT-1117  
+*altitude:* 1547  
+*Length:* 59m *Vertical extent:* 4m   
 *Cave type:* lava tunnel  
 [Bonaccorso and Maugeri (1999) http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf)   
 
@@ -11001,15 +11148,8 @@ Cameroon - Sud-Oeust - Mt. Cameroon
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1550](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1550)   
 
 ---  
-<a name="IT-b1ed035b02b0f4cc7983ac492917b539"></a>
-Italy - Sicilia - Sicily; Etna  
-*Cave Name(s):* **Grotte de la Cantoniera**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1544](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1544)   
-
----  
-<a name="IT-b94660e81c51db8b325344b25b4d85ec"></a>
-Italy - Sicilia - Sicily; Etna  
+<a name="IT-941523a74f6d7ac020ca94c67f5000b2"></a>
+Italy - Sicilia - Sicily; Mt. Etna  
 *Cave Name(s):* **Grotta del Gelo**  
 *altitude:* 2030  
 *Length:* ~120m *Number of entrances:* 1  
@@ -11020,6 +11160,7 @@ Italy - Sicilia - Sicily; Etna
 [Caffo and Marino (1999) http://vulcanospeleology.org/sym09/ISV9Eaj.pdf](http://vulcanospeleology.org/sym09/ISV9Eaj.pdf)   
 [Marino (1999) http://www.vulcanospeleology.org/sym09/ISV9Eaj1.pdf](http://www.vulcanospeleology.org/sym09/ISV9Eaj1.pdf)   
 [Marino (1992) http://www.glaciologia.it/wp-content/uploads/FullText/full_text_15_1_2/18_GFDQ_15_1_2_Marino_127_132.pdf](http://www.glaciologia.it/wp-content/uploads/FullText/full_text_15_1_2/18_GFDQ_15_1_2_Marino_127_132.pdf)   
+[https://www.showcaves.com/english/it/caves/Gelo.html](https://www.showcaves.com/english/it/caves/Gelo.html)   
 *Cave use:* guided tourist cave  
 
 ---  
@@ -11205,14 +11346,6 @@ Portugal - Azores - Ilha de Terceira
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=261](https://rpif.asu.edu/LTdatabase/result.php?RECNO=261)   
 [Riquelme et al. (2015) doi:10.1093/femsec/fiv141](https://doi.org/10.1093/femsec/fiv141)   
-[http://ropewiki.com/Gruta_dos_Balcoes](http://ropewiki.com/Gruta_dos_Balcoes)   
-
----  
-<a name="PT-30b7e49e12e0732984fd69528b08a813"></a>
-Portugal - Azores - Ilha de Pico (Pico Island)  
-*Cave Name(s):* **Gruta dos Fumelos**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=232](https://rpif.asu.edu/LTdatabase/result.php?RECNO=232)   
 
 ---  
 <a name="PT-2d8c31b6944232b7d7387cea64112507"></a>
@@ -11223,6 +11356,7 @@ Portugal - Azores - Ilha de Pico (Pico Island)
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=229](https://rpif.asu.edu/LTdatabase/result.php?RECNO=229)   
 [Riquelme et al. (2015) doi:10.1093/femsec/fiv141](https://doi.org/10.1093/femsec/fiv141)   
+[https://pt.wikipedia.org/wiki/Gruta_dos_Montanheiros](https://pt.wikipedia.org/wiki/Gruta_dos_Montanheiros)   
 
 ---  
 <a name="PT-edca3606ea2d8cc4d9932f02b0ee5b54"></a>
@@ -11309,13 +11443,6 @@ Australia - Victoria - Mt. Napier
 *Length:* 9m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1582](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1582)   
-
----  
-<a name="AU-b1a41012ef3539e5fef46b8652ff5fbc"></a>
-Australia - Victoria - Mt. Napier  
-*Cave Name(s):*  H-X3B  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1583](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1583)   
 
 ---  
 <a name="AU-ASF-3H-65"></a>
@@ -11752,8 +11879,8 @@ Greeley (1971) "Geology of Selected Lava Tubes in the Bend Area, Oregon"
 [Knutson (1976) http://www.vulcanospeleology.org/sym01/ISV1x08.pdf](http://www.vulcanospeleology.org/sym01/ISV1x08.pdf)   
 
 ---  
-<a name="US-0af9c4f10a6774c696745c84fdbad151"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-cda24d134cd2dd80281834cd73faf31c"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Horseshoe Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1025](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1025)   
@@ -11762,6 +11889,7 @@ United States of America - Idaho; Butte County - Craters of the Moon
 <a name="AU-ASF-U51"></a>
 Australia - Queensland - Undara  
 *Cave Name(s):* **Hot Hole** *Id:* ASF-U51  
+*altitude:* ~760  
 *Length:* 172m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1385](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1385)   
@@ -12000,8 +12128,8 @@ United States of America - California; Lassen County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=442](https://rpif.asu.edu/LTdatabase/result.php?RECNO=442)   
 
 ---  
-<a name="US-9618fff9e100c969cc0a32fcbee12708"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-3ef51bc5f0ea3e4cf705354442114b6d"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Indian Dome Cave**  
 [map](https://rpif.asu.edu/LTdatabase/images/Indian_Dome.jpg)   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -12011,8 +12139,10 @@ United States of America - Idaho; Butte County - Craters of the Moon
 <a name="US-edde5b3f14fcf17af29055c953434755"></a>
 United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Indian Tunnel**  
+*Length:* 666m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1029](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1029)   
+[https://digital.lib.usf.edu/content/SF/S0/05/05/68/00001/K26-00119-IWIC-VI-program.pdf](https://digital.lib.usf.edu/content/SF/S0/05/05/68/00001/K26-00119-IWIC-VI-program.pdf)   
 
 ---  
 <a name="AU-ASF-U41"></a>
@@ -12286,7 +12416,9 @@ Saudi Arabia - Western - Harrat Kishb
 *Cave Name(s):* **Jebel Hil Cave**  
 *Length:* 3000m   
 *Rock type:* basalt *Cave type:* lava tunnel  
+*Comments:* up to 20m high  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1766](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1766)   
+[Pint (2002) http://www.vulcanospeleology.org/sym10/ISV10p1.pdf](http://www.vulcanospeleology.org/sym10/ISV10p1.pdf)   
 
 ---  
 <a name="US-240818e9a731041d5f6caf2a81155406"></a>
@@ -12484,11 +12616,12 @@ United States of America - Hawaii - Maui; Haleakala
 ---  
 <a name="SA-c4d750f993dba0d683ffe6c1362c0796"></a>
 Saudi Arabia - Western  
-*Cave Name(s):* **Kahf al Mut'eb**  
+*Cave Name(s):* **Kahf al Mut'eb** Mut'eb Cave  
 *altitude:* 1175  
-*Length:* 123m   
+*Length:* 123m *Number of entrances:* 1  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1762](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1762)   
+[Pint (2002) http://www.vulcanospeleology.org/sym10/ISV10p1.pdf](http://www.vulcanospeleology.org/sym10/ISV10p1.pdf)   
 
 ---  
 <a name="SA-564aee6d6f98918371467f1024cf8a66"></a>
@@ -12498,14 +12631,18 @@ Saudi Arabia - Western - Harrat Kishb
 *Length:* 300m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1763](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1763)   
+[Pint (2002) http://www.vulcanospeleology.org/sym10/ISV10p1.pdf](http://www.vulcanospeleology.org/sym10/ISV10p1.pdf)   
 
 ---  
-<a name="SA-d908fbc51d45a3bf80743b53e62ee560"></a>
+<a name="SA-036c7b8e6999903ccfb524beec58c060"></a>
 Saudi Arabia - Harrat Khaybar lava field  
-*Cave Name(s):* **Umm Jirsan Lava-Tube System**  
+*Cave Name(s):* **Umm Jirsan Lava Tube System**  
+*Coordinates:* [25.5888, +39.7570](https://maps.google.com/?ll=25.5888,39.7570) *altitude:* 1185  
 *Length:* 1481m   
 *Cave type:* lava tunnel  
+*Comments:* lots of bones carried in by hyena; 3 segments, 2 collapses  
 [Pint (2009) http://vulcanospeleology.org/articles/jirsan.pdf](http://vulcanospeleology.org/articles/jirsan.pdf)   
+[Stewart et al. (2021) doi:10.1007/s12520-021-01365-6](https://doi.org/10.1007/s12520-021-01365-6)   
 
 ---  
 <a name="BG-414c3c2902c233646b0ca70b8d5e2573"></a>
@@ -13203,6 +13340,7 @@ United States of America - Hawaii; Ka'u District - Hawaii (Big Island); Mauna Lo
 *Cave Name(s):* **Kipuka Kanohina**  
 *Length:*  >32000m *Vertical extent:* 208m   
 *Cave type:* lava tunnel  
+*Comments:* gypsum deposits  
 *Branches:* Poha Cave; [Kula Kai Caverns](#US-7645c498acfb3946fc691dfd7d12962d); Eli's Pit Cave; Maelstrom;   
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=933](https://rpif.asu.edu/LTdatabase/result.php?RECNO=933)   
 [http://www.hawaiicaves.org/kanohina.htm](http://www.hawaiicaves.org/kanohina.htm)   
@@ -13424,7 +13562,7 @@ United States of America - Idaho; Butte County - Craters of the Moon National Mo
 United States of America - Oregon; Deschutes County - Newberry National Volcanic Monument  
 *Cave Name(s):* **Lava River Cave**  
 *Length:* 2370m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1275](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1275)   
 [https://en.wikipedia.org/wiki/Lava_River_Cave](https://en.wikipedia.org/wiki/Lava_River_Cave)   
 *Cave use:* self-guided tourist cave  
@@ -14093,6 +14231,7 @@ Australia - Queensland - Undara
 *Length:* 40m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1390](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1390)   
+ASF database  
 
 ---  
 <a name="US-405863381bcf8832abd98334737a4a4f"></a>
@@ -14481,10 +14620,11 @@ United States of America - Oregon; Deschutes County - Siah Butte; North Siah
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1276](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1276)   
 
 ---  
-<a name="US-67bd329964d108b354a92ed9c44eef2e"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-812df6f9f935273ffe7c4386f181bdfa"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Moss Cave**  
 *Cave type:* lava tunnel  
+*Comments:* bear dens  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1032](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1032)   
 
 ---  
@@ -14804,6 +14944,7 @@ Japan - Mt. Fuji
 <a name="AU-ASF-U46"></a>
 Australia - Queensland - Undara  
 *Cave Name(s):* **Nasty** *Id:* ASF-U46  
+*altitude:* 670  
 *Length:* 127m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1394](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1394)   
@@ -14819,8 +14960,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=628](https://rpif.asu.edu/LTdatabase/result.php?RECNO=628)   
 
 ---  
-<a name="US-2f47e3290d5416775f51c39f28e786a9"></a>
-United States of America - Idaho; Butte County - Craters of the Moon  
+<a name="US-123b465628b458d67cb40f835e751389"></a>
+United States of America - Idaho; Butte County - Craters of the Moon National Monument  
 *Cave Name(s):* **Natural Bridge Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1033](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1033)   
@@ -14859,13 +15000,6 @@ Kenya
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=172](https://rpif.asu.edu/LTdatabase/result.php?RECNO=172)   
   *Data curation:* there are two "the cave of god" in Kenya  
-
----  
-<a name="US-c124712cfd1f3ff9df9740dd954ca5b3"></a>
-United States of America - Oregon; Deschutes County  
-*Cave Name(s):* **Nice Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1301](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1301)   
 
 ---  
 <a name="US-b1961b1a46ce6c519d9499b9e934cee7"></a>
@@ -14961,8 +15095,8 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=611](https://rpif.asu.edu/LTdatabase/result.php?RECNO=611)   
 
 ---  
-<a name="US-23db7216da92d270e0d1313ae5c15424"></a>
-United States of America - Idaho - Craters of the Moon  
+<a name="US-e8bca70ad26fb765f40c371ae19df913"></a>
+United States of America - Idaho - Craters of the Moon National Monument  
 *Cave Name(s):* **North Fork Cave**  
 *Length:* 140m   
 [map](https://rpif.asu.edu/LTdatabase/images/North_Fork_Cave.jpg)   
@@ -15537,10 +15671,13 @@ Mauritius - Plaine des Roches
 ---  
 <a name="MU-f9034ce835d3d00692a0379324781128"></a>
 Mauritius  
-*Cave Name(s):* **Pont Bon Dieu Jardin Cave**  
-*Length:* ~400m   
+*Cave Name(s):* **Pont Bon Dieu Jardin Cave** Caverns of Pont Bon Dieu  
+*Coordinates:* [-20.18494, +57.64293](https://maps.google.com/?ll=-20.18494,57.64293)   
+*Length:* 392m   
 *Cave type:* lava tunnel  
 [Middleton (1998) doi:10.5038/1827-806X.27.1.9](https://doi.org/10.5038/1827-806X.27.1.9)   
+[https://www.showcaves.com/english/other/showcaves/PontBonDieuJardin.html](https://www.showcaves.com/english/other/showcaves/PontBonDieuJardin.html)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="MU-c3c912acc6777f4b2b3dcf3f15b2ed4e"></a>
@@ -15576,6 +15713,15 @@ Mauritius - Plaine des Roches
 *Length:* 570m   
 *Cave type:* lava tunnel  
 [Middleton (1998) http://vulcanospeleology.org/sym09/ISV9Eal.pdf](http://vulcanospeleology.org/sym09/ISV9Eal.pdf)   
+
+---  
+<a name="MU-e35fbb66adc4c187bc495f5dcd957808"></a>
+Mauritius - Plaine des Roches  
+*Cave Name(s):* **Princess Margaret Cave**  
+*Length:* ~500m   
+*Cave type:* lava tunnel  
+[https://www.showcaves.com/english/other/caves/RocheNoire.html](https://www.showcaves.com/english/other/caves/RocheNoire.html)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="US-60b29355765785e141fbd795751685ba"></a>
@@ -15664,11 +15810,13 @@ United States of America - Washington; Skamania County
 ---  
 <a name="AU-ASF-4U-17"></a>
 Australia - Queensland - Undara  
-*Cave Name(s):* **Pinwill Cave** *Id:* ASF-4U-17  
+*Cave Name(s):* **Pinwell Cave** *Id:* ASF-4U-17  
+*altitude:* 850  
 *Length:* 560m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1425](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1425)   
 [Atkinson et al. (1975) doi:10.1007/BF02597832](https://doi.org/10.1007/BF02597832)   
+[Eberhard and Howarth (2021) doi:10.3390/d13070326](https://doi.org/10.3390/d13070326)   
   *Data curation:* ASF database says length is 150m  
 
 ---  
@@ -15696,13 +15844,15 @@ Kenya - Eastern Province; Machakos District - Chyulu Hills
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=695](https://rpif.asu.edu/LTdatabase/result.php?RECNO=695)   
 
 ---  
-<a name="US-9759eba242564d35fa49924f874d47f2"></a>
-United States of America - California; Siskiyou County - Shasta  
+<a name="US-37299922795b14d32655a9da8577ad33"></a>
+United States of America - California; Siskiyou County - Klamath National Forest  
 *Cave Name(s):* **Pluto's Cave**  
 *Length:* 805m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=619](https://rpif.asu.edu/LTdatabase/result.php?RECNO=619)   
 [https://en.wikipedia.org/wiki/Pluto%27s_Cave](https://en.wikipedia.org/wiki/Pluto%27s_Cave)   
+[https://www.fs.usda.gov/recarea/klamath/recarea/?recid=13176](https://www.fs.usda.gov/recarea/klamath/recarea/?recid=13176)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="KE-c64af97edc64dae164c5768999079f67"></a>
@@ -15748,10 +15898,11 @@ United States of America - California; Shasta County
 ---  
 <a name="US-97f62486f66f111c97e882255c05995b"></a>
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Double Hole Crater  
-*Cave Name(s):* **Porcupine Butte Lava Tube**  
+*Cave Name(s):* **Porcupine Butte Lava Tube** Porcupine Lava Tube  
 *Length:* 940m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=537](https://rpif.asu.edu/LTdatabase/result.php?RECNO=537)   
+[https://www.mindat.org/feature-5569712.html](https://www.mindat.org/feature-5569712.html)   
 
 ---  
 <a name="US-95216865d83386b9195418a049fd9ffd"></a>
@@ -16298,13 +16449,6 @@ Iceland - Myrasysla County - Hallmundarhraun
 *Cave Name(s):* **Rjupnahellir**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=19](https://rpif.asu.edu/LTdatabase/result.php?RECNO=19)   
-
----  
-<a name="US-c0f6dc2c44d267acde21d5c32b48f590"></a>
-United States of America - California; Siskiyou County - Shasta  
-*Cave Name(s):* **Road Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=620](https://rpif.asu.edu/LTdatabase/result.php?RECNO=620)   
 
 ---  
 <a name="AU-ASF-4U-28"></a>
@@ -17053,13 +17197,6 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [Waters et al. (1990) doi:10.3133/b1673](https://doi.org/10.3133/b1673)   
 
 ---  
-<a name="US-cb2f525f624e357eaa45f561aa53107e"></a>
-United States of America - California; Shasta County  
-*Cave Name(s):* **Six Mile Hill Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=452](https://rpif.asu.edu/LTdatabase/result.php?RECNO=452)   
-
----  
 <a name="US-b01442061892a561edf755e8a6e4f0cf"></a>
 United States of America - Washington  
 *Cave Name(s):* **Skamaniac Cave**  
@@ -17304,13 +17441,6 @@ United States of America - Washington; Skamania County
 Halliday (1963) "Caves of Washington"  
 
 ---  
-<a name="US-67b0644338f7ee8d957b775957811094"></a>
-United States of America - Idaho; Gooding County  
-*Cave Name(s):* **Spider Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1062](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1062)   
-
----  
 <a name="US-cedb81248b9e7404f30855cc489d0e6d"></a>
 United States of America - Washington; Skamania County - Mount St. Helens  
 *Cave Name(s):* **Spider Cave**  
@@ -17354,9 +17484,9 @@ United States of America - Washington; Skamania County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1679](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1679)   
 
 ---  
-<a name="AU-ASF-4U-5"></a>
+<a name="AU-ASF-U-5"></a>
 Australia - Queensland - Undara  
-*Cave Name(s):* **St. Pauls Cave** *Id:* ASF-4U-5  
+*Cave Name(s):* **St. Pauls Cave** *Id:* ASF-U-5  
 *Length:* 30m *Vertical extent:* 20m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1403](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1403)   
@@ -17435,7 +17565,7 @@ United States of America - Oregon; Deschutes County - Horse Lava Tube System
 ---  
 <a name="AU-ASF-4U-21"></a>
 Australia - Queensland - Undara  
-*Cave Name(s):* **Stephenson** (U21) Arch 1 *Id:* ASF-4U-21  
+*Cave Name(s):* **Stephenson** *Id:* ASF-4U-21  
 *Length:* ~156m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1404](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1404)   
@@ -17452,7 +17582,8 @@ United States of America - Oregon; Deschutes County - Horse Lava Tube System
 ---  
 <a name="AU-ASF-4U-16"></a>
 Australia - Queensland - Undara  
-*Cave Name(s):* **Stevens Cave** *Id:* ASF-4U-16  
+*Cave Name(s):* **Stevens Cave** Stephens Cave *Id:* ASF-4U-16  
+*altitude:* 880  
 *Length:* 70m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1428](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1428)   
@@ -17604,13 +17735,6 @@ United States of America - California; Siskiyou County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=512](https://rpif.asu.edu/LTdatabase/result.php?RECNO=512)   
 
 ---  
-<a name="US-28ff6f91f8a04f81334a98e90a4233a5"></a>
-United States of America - Idaho; Power County  
-*Cave Name(s):* **Sullivan Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1100](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1100)   
-
----  
 <a name="US-18283b803f01615852d03bf86ea58854"></a>
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Giant Crater  
 *Cave Name(s):* **Sunbeam Annex Cave**  
@@ -17627,10 +17751,11 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=553](https://rpif.asu.edu/LTdatabase/result.php?RECNO=553)   
 
 ---  
-<a name="US-bc06cee13d1d838e28d5ff52a93cf2fa"></a>
+<a name="US-6d7defc2cd1791a47f33adcd1ce68538"></a>
 United States of America - Idaho; Butte County - Craters of the Moon National Monument  
-*Cave Name(s):* **Sunbear  Cave**  
+*Cave Name(s):* **Sunbear Cave**  
 *Cave type:* lava tunnel  
+*Comments:* bear dens  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1035](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1035)   
 
 ---  
@@ -17786,6 +17911,7 @@ Japan - Nagasaki
 <a name="AU-ASF-4U-4"></a>
 Australia - Queensland - Undara  
 *Cave Name(s):* **Taylor Cave** *Id:* ASF-4U-4  
+*altitude:* 950  
 *Length:* 108m *Vertical extent:* 14m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1429](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1429)   
@@ -17919,13 +18045,6 @@ United States of America - Washington; Skamania County
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1681](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1681)   
 
 ---  
-<a name="US-161efe61d1da1deea5fecc8adccfb011"></a>
-United States of America - New Mexico; Socorro County - Jornada del Muerto  
-*Cave Name(s):* **The Hookworm**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1197](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1197)   
-
----  
 <a name="US-c6627d7f8d9a72885b1e22b0854316fd"></a>
 United States of America - Idaho; Lincoln County - Tee-Maze cave system  
 *Cave Name(s):* **The One Frank Missed** Little Arch  
@@ -18046,13 +18165,6 @@ Kempe and Henschel (2009) Proc. 15th Int. Congr. Speleology
 Wood (1981) Trans. Brit. Cave Res. Assoc. 8(3), 111-129  
 [Halliday (1982) http://vulcanospeleology.org/sym03/ISV3x10.pdf](http://vulcanospeleology.org/sym03/ISV3x10.pdf)   
 *Cave use:* self-guided tourist cave  
-
----  
-<a name="US-30d9b4f2a2583e55fb061d28a6017878"></a>
-United States of America - California; Siskiyou County  
-*Cave Name(s):* **Tick City Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=516](https://rpif.asu.edu/LTdatabase/result.php?RECNO=516)   
 
 ---  
 <a name="US-601274dfc4397b0cd0b650046fe920e4"></a>
@@ -18218,13 +18330,6 @@ Russia - Kamchatka - South Tolbachik
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1132](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1132)   
 
 ---  
-<a name="US-4a6d77741d5af88e3c4357e5f6429094"></a>
-United States of America - Washington; Skamania County  
-*Cave Name(s):* **Todd's Cave**  
-*Cave type:* lava tunnel  
-[https://rpif.asu.edu/LTdatabase/result.php?RECNO=1683](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1683)   
-
----  
 <a name="FM-a1bb213e0b62bc3a27cf90e160de43fc"></a>
 Micronesia - Kosrae  
 *Cave Name(s):* **Kosrae Island tube**  
@@ -18242,7 +18347,7 @@ Micronesia - Chuuk
 ---  
 <a name="AU-ASF-U59"></a>
 Australia - Queensland - Undara  
-*Cave Name(s):* **Tom** *Id:* ASF-U59  
+*Cave Name(s):* **Tom Tom** *Id:* ASF-U59  
 *Length:* 34m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1412](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1412)   
@@ -18448,6 +18553,13 @@ Ecuador - Galapagos - Santa Cruz Island
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=728](https://rpif.asu.edu/LTdatabase/result.php?RECNO=728)   
 
 ---  
+<a name="AU-ASF-3H-8"></a>
+Australia - Victoria - Mt. Eccles  
+*Cave Name(s):* **The Shaft** *Id:* ASF-3H-8  
+*Rock type:* basalt *Cave type:* lava vent  
+[http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf](http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf)   
+
+---  
 <a name="AU-ASF-3H-9"></a>
 Australia - Victoria - Mt. Eccles (Tyrendarra Flow)  
 *Cave Name(s):* **Tunnel Cave** *Id:* ASF-3H-9  
@@ -18455,6 +18567,16 @@ Australia - Victoria - Mt. Eccles (Tyrendarra Flow)
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1571](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1571)   
 [Webb et al. (1993) http://www.vulcanospeleology.org/sym03/ISV3x12.pdf](http://www.vulcanospeleology.org/sym03/ISV3x12.pdf)   
+[http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf](http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf)   
+
+---  
+<a name="AU-ASF-3H-51"></a>
+Australia - Victoria - Mt. Eccles  
+*Cave Name(s):* **North Pole Cave** *Id:* ASF-3H-51  
+*Length:* 40m *Number of entrances:* 2  
+*Rock type:* basalt *Cave type:* lava tunnel  
+[http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf](http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf)   
+[http://www.vulcanospeleology.org/sym10/ISV10s2.pdf](http://www.vulcanospeleology.org/sym10/ISV10s2.pdf)   
 
 ---  
 <a name="AU-ASF-3H-66"></a>
@@ -18463,6 +18585,29 @@ Australia - Victoria - Mt. Napier
 *Length:* 20m *Vertical extent:* 3m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1592](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1592)   
+
+---  
+<a name="AU-ASF-3H-70"></a>
+Australia - Victoria - Mt. Eccles  
+*Cave Name(s):* **Carmichael Cave** *Id:* ASF-3H-70  
+*Length:* 605m   
+*Rock type:* basalt *Cave type:* lava tunnel  
+[http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf](http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf)   
+[http://www.vulcanospeleology.org/sym10/ISV10s2.pdf](http://www.vulcanospeleology.org/sym10/ISV10s2.pdf)   
+
+---  
+<a name="AU-ASF-3H-106"></a>
+Australia - Victoria - Mt. Eccles; Byaduk Caves  
+*Cave Name(s):*  *Id:* ASF-3H-106  
+*Rock type:* basalt *Cave type:* lava tunnel  
+[http://www.vulcanospeleology.org/sym10/ISV10s2.pdf](http://www.vulcanospeleology.org/sym10/ISV10s2.pdf)   
+
+---  
+<a name="AU-ASF-3H-108"></a>
+Australia - Victoria - Mt. Eccles; Byaduk Caves  
+*Cave Name(s):*  *Id:* ASF-3H-108  
+*Rock type:* basalt *Cave type:* lava tunnel  
+[http://www.vulcanospeleology.org/sym10/ISV10s2.pdf](http://www.vulcanospeleology.org/sym10/ISV10s2.pdf)   
 
 ---  
 <a name="CL-a2aff3f2edb2a466a71928433fe45eea"></a>
@@ -18567,22 +18712,67 @@ Rwanda
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=161](https://rpif.asu.edu/LTdatabase/result.php?RECNO=161)   
 
 ---  
-<a name="RW-52b9d30d023628b22bcb6c0554c50eda"></a>
+<a name="RW-5a6dc0bff7e2d2eff301e54a5a40f08e"></a>
 Rwanda - Ruhengueri - Kanisimbi  
-*Cave Name(s):* **Ubuvumo bwa Musanze**  
-*Length:* 4560m *Vertical extent:* 210m   
+*Cave Name(s):* **Ubuvumo bwa Musanze (main segment)**  
+*altitude:* 1870  
+*Length:* 1600m *Vertical extent:* 210m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1455](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1455)   
+[Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf](http://vulcanospeleology.org/newsletters/Vulcano50.pdf)   
+[https://www.grottocenter.org/html/file_En.php?id=37930](https://www.grottocenter.org/html/file_En.php?id=37930)   
+
+---  
+<a name="RW-ddec8b3640f82b5a4509f24b250337ae"></a>
+Rwanda - Ruhengueri - Kanisimbi  
+*Cave Name(s):* **Ubuvumo Rwego [Grotte des Commandos]**  
+*altitude:* 2314  
+*Length:* ~1952m   
+*Rock type:* basalt *Cave type:* lava tunnel  
+[Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf](http://vulcanospeleology.org/newsletters/Vulcano50.pdf)   
+[https://www.grottocenter.org/html/file_En.php?id=37934](https://www.grottocenter.org/html/file_En.php?id=37934)   
+
+---  
+<a name="RW-796e9743d68fe2154760b67f0ca0ff9c"></a>
+Rwanda - Ruhengueri - Kanisimbi  
+*Cave Name(s):* **Ubuvumo bwa Musanze (south segment)**  
+*altitude:* 1870  
+*Length:* ~1200m   
+*Rock type:* basalt *Cave type:* lava tunnel  
+[Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf](http://vulcanospeleology.org/newsletters/Vulcano50.pdf)   
 
 ---  
 <a name="RW-b6f316fb969c59e43bb0c8ace0dc599b"></a>
 Rwanda - Northern province; Musanze district - Virunga mountains  
 *Cave Name(s):* **Ubuvumo Manjari deux**  
-*Coordinates:* [-1.5535, +29.53517](https://maps.google.com/?ll=-1.5535,29.53517)   
+*Coordinates:* [-1.5535, +29.53517](https://maps.google.com/?ll=-1.5535,29.53517) *altitude:* 2250  
 *Length:* 1660m *Vertical extent:* 58m   
 [map](https://www.grottocenter.org/upload/topos/u2170-t927-rf470e4ed06ab0bce6ed89485ca2009ba-ubuvumo-manjari-deux.PNG)   
 *Cave type:* lava tunnel  
 [https://www.grottocenter.org/html/file_En.php?id=37929](https://www.grottocenter.org/html/file_En.php?id=37929)   
+[Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf](http://vulcanospeleology.org/newsletters/Vulcano50.pdf)   
+
+---  
+<a name="RW-ad6913bc852c3eaa7c67364871a720fc"></a>
+Rwanda - Rubavu district  
+*Cave Name(s):* **Ubuvumo Bwibihonga**  
+*Coordinates:* [-1.64811, +29.37847](https://maps.google.com/?ll=-1.64811,29.37847) *altitude:* 2341  
+*Length:* 4530m   
+*Cave type:* lava tunnel  
+*Contents:* many bats  
+[Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf](http://vulcanospeleology.org/newsletters/Vulcano50.pdf)   
+[https://www.grottocenter.org/html/file_En.php?id=37927](https://www.grottocenter.org/html/file_En.php?id=37927)   
+
+---  
+<a name="RW-615ce4d4a7c8146dbd4ffea4316eeea9"></a>
+Rwanda  
+*Cave Name(s):* **Ubuvumo Nyabikuri-Rudi**  
+*Coordinates:* [-1.4319, +29.66142](https://maps.google.com/?ll=-1.4319,29.66142) *altitude:* 2212  
+*Length:* 3384m   
+*Cave type:* lava tunnel  
+*Contents:* many bats  
+[Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf](http://vulcanospeleology.org/newsletters/Vulcano50.pdf)   
+[https://www.grottocenter.org/html/file_En.php?id=37928](https://www.grottocenter.org/html/file_En.php?id=37928)   
 
 ---  
 <a name="US-88eec3a2d2821103e5e0215a178df08b"></a>
@@ -18753,7 +18943,8 @@ United States of America - Hawaii; North Hilo district - Hawaii (Big Island); Ma
 ---  
 <a name="AU-ASF-U67"></a>
 Australia - Queensland - Undara  
-*Cave Name(s):* **Upper Secret** *Id:* ASF-U67  
+*Cave Name(s):* **Upper Secret Cave** Secret Cave No. 1 *Id:* ASF-U67  
+*altitude:* ~825  
 *Length:* ~150m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1409](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1409)   
@@ -18861,6 +19052,16 @@ Iceland - Arnessysla
 *Length:* 350m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=11](https://rpif.asu.edu/LTdatabase/result.php?RECNO=11)   
+
+---  
+<a name="IS-3f5623c8107b939976af102b7c68fa76"></a>
+Iceland - Skúlatúnshraun  
+*Cave Name(s):* **Leiðarendi**  
+*Length:* 900m   
+*Cave type:* lava tunnel  
+*Contents:* periodic ice  
+[Bedekovic (2018) DOI:10.17794/rgn.2018.1.7](https://doi.org/10.17794/rgn.2018.1.7)   
+[Middleton (2002) http://www.vulcanospeleology.org/2002.pdf](http://www.vulcanospeleology.org/2002.pdf)   
 
 ---  
 <a name="US-1c467b5209f538a0cd01eee1fd35da25"></a>
@@ -19114,8 +19315,10 @@ United States of America - Arizona; Coconino County - San Franciscan
 <a name="US-5d183ac92de6dfdb49fd659547de1989"></a>
 United States of America - California; Siskiyou County - Medicine Lake Highlands; Modoc Crater; Lava Beds National Monument  
 *Cave Name(s):* **White Lace Cave**  
+*Length:* 93m *Vertical extent:* 24m *Number of entrances:* 1  
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=616](https://rpif.asu.edu/LTdatabase/result.php?RECNO=616)   
+[https://www.cave-research.org/annual_reports/crf_ar_1991.pdf](https://www.cave-research.org/annual_reports/crf_ar_1991.pdf)   
 
 ---  
 <a name="US-ad4595874a91e4d2f6ff4986a53e32b4"></a>
@@ -19147,6 +19350,13 @@ United States of America - Idaho; Lincoln County - Black Butte
 *Cave Name(s):* **Will's Cave**  
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1083](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1083)   
+
+---  
+<a name="US-71f004f73c0e66ff5a5ca821f576409a"></a>
+United States of America - Idaho; Madison County  
+*Cave Name(s):* **17 Mile Cave**  
+*Cave type:* lava tunnel  
+[https://rexburgfun.com/17-mile-cave/](https://rexburgfun.com/17-mile-cave/)   
 
 ---  
 <a name="US-d1ec028ddeae8b0a6a126a6a2d5168a7"></a>
@@ -19230,18 +19440,19 @@ New Zealand - Auckland City - Manurewa
 [Kermode (1994) doi:10.14945/00000324](https://doi.org/10.14945/00000324)   
 
 ---  
-<a name="NZ-bc578804fad2ab3fcbf5ec2432cdf066"></a>
-New Zealand - Auckland City - Three Kings  
-*Cave Name(s):* **Motor Holidays**  
+<a name="NZ-eda27914cf81ae6dacc29ebacfe4b589"></a>
+New Zealand - Auckland City - Mt. Wellington  
+*Cave Name(s):* **Motor Holdings**  
 *altitude:* 30  
 *Length:* 114m   
 *Cave type:* lava tunnel  
 [Kermode (1994) doi:10.14945/00000324](https://doi.org/10.14945/00000324)   
 
 ---  
-<a name="AU-16673bc0fa17a708c51a47409e431d8d"></a>
+<a name="AU-ASF-U52"></a>
 Australia - Queensland - Undara  
-*Cave Name(s):* **Wishing Well** U52  
+*Cave Name(s):* **Wishing Well** *Id:* ASF-U52  
+*altitude:* ~750  
 *Length:* 104m   
 *Cave type:* lava tunnel  
 [https://rpif.asu.edu/LTdatabase/result.php?RECNO=1431](https://rpif.asu.edu/LTdatabase/result.php?RECNO=1431)   
@@ -19488,11 +19699,16 @@ Jordan
 [Kempe et al. (2012) https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf](https://eis.hu.edu.jo/deanshipfiles/conf10048822.pdf)   
 
 ---  
-<a name="KE-947553705087f825d2bc43b30559d44a"></a>
-Kenya - Mt. Elgon  
-*Cave Name(s):* **Kitum Cave (Place of the Ceremonies)**  
-*Cave type:* lava tunnel  
+<a name="KE-7ef78ca5905cc51fcc33cbcfbd5a07ae"></a>
+Kenya - Rift Valley Province; Trans-Nzoia County - Mt. Elgon National Park  
+*Cave Name(s):* **Kitum Cave**  
+*Coordinates:* [1.0491, +34.5802](https://maps.google.com/?ll=1.0491,34.5802)   
+*Length:* ~200m   
+*Contents:* extensive guano  
+*Comments:* in pyroclastic rock; walls are salty  
 [Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
+[https://en.wikipedia.org/wiki/Kitum_Cave](https://en.wikipedia.org/wiki/Kitum_Cave)   
+[https://www.mindat.org/loc-204563.html](https://www.mindat.org/loc-204563.html)   
 
 ---  
 <a name="KE-17a7ec5bb3a4fef90469e7a3d20b4b59"></a>
@@ -19502,14 +19718,16 @@ Kenya - Mt. Elgon
 *Contents:* many bats  
 [Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
 [Paolo et al. (2009) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf)   
+[https://www.mindat.org/loc-302622.html](https://www.mindat.org/loc-302622.html)   
 
 ---  
-<a name="KE-58a3cccde239910a788558a7059fa037"></a>
-Kenya - Mt. Elgon  
-*Cave Name(s):* **Chepyanili Caves**  
+<a name="KE-99e473eee6531cb911380eae6cde27d7"></a>
+Kenya - Rift Valley Province; Trans-Nzoia County - Mt. Elgon  
+*Cave Name(s):* **Chepnyanlil Cave**  
 *Cave type:* lava tunnel  
 [Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
 [Paolo et al. (2009) http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf](http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf)   
+[https://www.mindat.org/loc-302621.html](https://www.mindat.org/loc-302621.html)   
 
 ---  
 <a name="KR-17760c616f7c2f9bc9ab03022881d574"></a>
@@ -19773,6 +19991,7 @@ Spain - Santa Cruz de Tenerife; Tazacorte - Canary Islands; La Palma Island
 [Fernandez (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf)   
 [https://es.wikipedia.org/wiki/Cueva_de_Las_Palomas](https://es.wikipedia.org/wiki/Cueva_de_Las_Palomas)   
 [Dumpierrez et al. (1998) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/49/filename/50.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/49/filename/50.pdf)   
+[https://www.grottocenter.org/html/file_En.php?id=68964](https://www.grottocenter.org/html/file_En.php?id=68964)   
 
 ---  
 <a name="ES-LP/LLA-4"></a>
@@ -20028,6 +20247,7 @@ United States of America - Hawaii; Maui County - Molokai; Kalaupapa peninsula
 *Comments:* within Kauhako Crater  
 [Coombs et al. (1990) http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1990LPSC...20..195C](http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1990LPSC...20..195C)   
 Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32  
+[Halliday (2002) http://www.vulcanospeleology.org/whatis.pdf](http://www.vulcanospeleology.org/whatis.pdf)   
 
 ---  
 <a name="US-68f3fbeddf69728d9450a439c84ab6df"></a>
@@ -20261,6 +20481,262 @@ Viet Nam - Đắk Nông; Buon Choa'h
 *Cave type:* lava tunnel  
 [Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101](https://doi.org/10.15625/0866-7187/40/4/13101)   
 [Phuc et al. (2018) http://www.vulcanospeleology.org/sym18/Proceedings/Honda_III.pdf](http://www.vulcanospeleology.org/sym18/Proceedings/Honda_III.pdf)   
+
+---  
+<a name="US-N010"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
+*Cave Name(s):* **Battlefield Cave; Square Tube Cave** *Id:* N010  
+*Length:* 70m *Number of entrances:* 1  
+[https://www.cave-research.org/annual_reports/crf_ar_2012-13.pdf](https://www.cave-research.org/annual_reports/crf_ar_2012-13.pdf)   
+
+---  
+<a name="US-N130"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
+*Cave Name(s):* **Leap of Faith Cave** *Id:* N130  
+*Length:* 42m   
+[https://www.cave-research.org/annual_reports/crf_ar_2012-13.pdf](https://www.cave-research.org/annual_reports/crf_ar_2012-13.pdf)   
+
+---  
+<a name="US-S140"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Ratty Loft Cave** *Id:* S140  
+*Length:* 205m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S370 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Rhizoplaca Cave** *Id:* S370   
+*Length:* 12m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S299 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Hypotenuse Cave** *Id:* S299   
+*Length:* 45m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S410 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Pepperjack Cave** *Id:* S410   
+*Length:* 43m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S360 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Bufo Boreas Cave** *Id:* S360   
+*Length:* 47m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S340 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Volpes Fulva Cave** *Id:* S340   
+*Length:* 15m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S310 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Rocky Horror Cave** *Id:* S310   
+*Length:* 37m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S271 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Ahoyhoe Cave** *Id:* S271   
+*Length:* 16m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S237 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Grassy Hole Tube** *Id:* S237   
+*Length:* 16m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S236 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Summer Home Cave** *Id:* S236   
+*Length:* 21m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S234 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Cobble Pot** *Id:* S234   
+*Length:* 35m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S420"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Mossy Coffin Cave** *Id:* S420  
+*Length:* 20m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S412 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Whack A Mole Cave** *Id:* S412   
+*Length:* 13m *Number of entrances:* 4  
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S380 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **San Marcos Cave ** *Id:* S380   
+*Length:* 60m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S390 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Udongo Cave ** *Id:* S390   
+*Length:* 26m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S350 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Teton Perdu Cave** *Id:* S350   
+*Length:* 20m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S330 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Dalmatian Cave** *Id:* S330   
+*Length:* 116m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S320 "></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Vespertine Cave** *Id:* S320   
+*Length:* 205m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S290"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Catbox Cave** *Id:* S290  
+*Length:* 50m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S280"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Malibu Cave** *Id:* S280  
+*Length:* 128m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-S240"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument  
+*Cave Name(s):* **Orange Peel Cave** *Id:* S240  
+*Length:* 28m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-E610"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
+*Cave Name(s):* **Finale Cave** *Id:* E610  
+*Length:* 81m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-e5b12ed0308d616168249e467b3542bb"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
+*Cave Name(s):* **Rock Cress Cave**  
+*Length:* 20m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-E370"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
+*Cave Name(s):* **Lucky Star Cave** *Id:* E370  
+*Length:* 145m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-E368"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
+*Cave Name(s):* **Meta Stella Cave** *Id:* E368  
+*Length:* 49m *Number of entrances:* 1  
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-E505"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
+*Cave Name(s):* **Plague Pit** *Id:* E505  
+*Length:* 68m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-E650"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument  
+*Cave Name(s):* **Liberty Cave** *Id:* E650  
+*Length:* 60m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-B160"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument; Balcony Flow  
+*Cave Name(s):* **Geritol Grotto** *Id:* B160  
+*Length:* 14m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-B295"></a>
+United States of America - California; Siskiyou County - Medicine Lake Highlands; Lava Beds National Monument; Balcony Flow  
+*Cave Name(s):* **Arroyo Cave** *Id:* B295  
+*Length:* 83m   
+*Cave type:* lava tunnel  
+[https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf](https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf)   
+
+---  
+<a name="US-c20d1658d2e193d1e63f5467251da322"></a>
+United States of America - California; Shasta County - Lassen  
+*Cave Name(s):* **Subway Cave**  
+*Length:* ~400m   
+*Rock type:* basalt *Cave type:* lava tunnel  
+[https://www.fs.usda.gov/recarea/lassen/recarea/?recid=11435](https://www.fs.usda.gov/recarea/lassen/recarea/?recid=11435)   
+[https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsm9_034444.pdf](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsm9_034444.pdf)   
+*Cave use:* self-guided tourist cave  
 
 ---  
 <a name="XO-9a858b37208a82e1cb8e4d23a71289d8"></a>

@@ -1,12 +1,15 @@
 List of Ice Caves
 =================
-This list of 531 rock-hosted caves with perennial ice was generated from a CaveXML database.  
+This list of 539 rock-hosted caves with perennial ice was generated from a CaveXML database.  
 
+Austria - Niederösterreich [**Südkar-Eishöhle** 1826/25; 1826/26](allcaves-database.md#AT-1826/25)  
 Austria - Oberösterreich [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
 Austria - Oberösterreich [**Dachstein-Rieseneishöhle** 1547/17](allcaves-database.md#AT-1547/17)  
 Austria - Oberösterreich [**Eisgruben-Eishöhle** 1611/39](allcaves-database.md#AT-1611/39)  
+Austria - Oberösterreich [**Hochschneid Eishöhle** ](allcaves-database.md#AT-62157e008c37edf7bc663a9590653c8e)  
 Austria - Oberösterreich [**Kraterschacht** 1651/24](allcaves-database.md#AT-1651/24)  
 Austria - Oberösterreich [**Schwarzmooskogel-Eishöhle** SMK-Eishöhle 1623/40](allcaves-database.md#AT-1623/40) *Part of* Schwarzmooskogel-Höhlensystem  
+Austria [**Raucherkarhöhle** 1626/55](allcaves-database.md#AT-1626/55) *Part of* Schönberg-Höhlensystem  
 Austria - Salzburg [**Eiskogelhöhle** Eiskogel-Tropfsteinhöhle 1511/101](allcaves-database.md#AT-1511/101) *Part of* Eiskogel-Richter-Höhle  
 Austria - Salzburg [**Eisriesenwelt** 1511/24](allcaves-database.md#AT-1511/24)  
 Austria - Salzburg; Grödig [**Kolowrathöhle** 1339/1](allcaves-database.md#AT-1339/1) *Part of* Gamslöcher-Kolowrat-Höhlensystem  
@@ -60,6 +63,7 @@ China - Heilongjiang province [**Shuijinggong (Crystal Palace)** Ice Cave Vudaly
 China - Heilongjiang province [**Underground Ice Cave** ](allcaves-database.md#CN-1ecd2083a556393ea79c285e27bc46be)  
 China - Shanxi Province [**Cave Ningwu** ](allcaves-database.md#CN-28b908226b2c3637814b6b68d8c3da57)  
 China - Shanxi Province; Liuba County [**Zibaishan Ice Cave** ](allcaves-database.md#CN-b5a880813a354dc11e07fae198a73830)  
+Croatia [**Gavranova jama** Gavranova pit ](allcaves-database.md#HR-1087eb5bceb413d883582a5eee8fb42a)  
 Croatia [**Kugina ledenica** Kugina Ice Cave ](allcaves-database.md#HR-6f1c783a5a0993501197890241ec8f19)  
 Croatia [**Ledena Jama u Lomskoj dulibi** Ledenica Cave; Ledena Pit ](allcaves-database.md#HR-fc5c286f2874ed642e4a714c611bdc41)  
 Croatia [**Lukina jama-Trojama system** ](allcaves-database.md#HR-96408a1ebf531785b2ac2dba2bfe6014)  
@@ -102,6 +106,8 @@ Greenland [**Crystal Palace Cave** Aligoq Illussaarsuaq Qaarusussuaq ](allcaves-
 Greenland [**Lemming Cave** Narlumukaap Qaarusussuaq; Stig Strikes Again ](allcaves-database.md#GL-f78e93a3578859f603206486524083ad)  
 Greenland [**Swirly Cave** Sangujoraartoq Qaarusussuaq ](allcaves-database.md#GL-1206312da12984805334f9c8a3de08b7)  
 Hungary [**Sárkánytorok Cave** ](allcaves-database.md#HU-c77c0f76964eb363bb6d5071e537ed62)  
+Iceland - Arnessysla [**Arnarker** Kerid ](allcaves-database.md#IS-e96013a7f519f046d6564274cd105674)  
+Iceland - Arnessysla [**Búri Cave** ](allcaves-database.md#IS-42d72ec79a12b3b53f094a0557cbbdee)  
 Iceland [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-KED-01)  
 Iceland - Myrasysla County [**Surtshellir** Surtshellir-Stefanshellir Cave System ](allcaves-database.md#IS-cfd58b66d7080bc2f98c4a0c695ec018)  
 Iceland - Myrasysla County [**Víðgelmir** ](allcaves-database.md#IS-8b2fdd9758744f258da5018ced142dc7)  
@@ -109,6 +115,8 @@ India - Jammu and Kashmir [**Amarnath Cave** Holy Cave; Shri Amarnath Cave ](all
 Iran - Alborz province [**Ghar Yakh-Morad** Yakh-Morad Ice Cave ](allcaves-database.md#IR-fac51e19eec91adebc71a052e75aaaa3)  
 Iran [**Dena Ice Cave** Ghar Yakh Dena ](allcaves-database.md#IR-19714e6a881106ade7501e575ba34763)  
 Italy [**Cioccherloch** F22; 4977-V-BL](allcaves-database.md#IT-F22)  
+Italy - Friuli Venezia Giulia [**Leupa ice cave** ](allcaves-database.md#IT-9c2eb5b1f5f39083b07ab40f8925f0ee)  
+Italy - Friuli Venezia Giulia [**Vasto ice cave** ](allcaves-database.md#IT-08eadc59b6060b7e7729f4a83561cbd2)  
 Italy - Lombardy [**Abisso dei Marons Glaces** LOLC-1809](allcaves-database.md#IT-LOLC-1809)  
 Italy - Lombardy [**Abisso Delle Spade** LOLC-1648](allcaves-database.md#IT-LOLC-1648)  
 Italy - Lombardy [**Abisso di val Laghetto** LOLC-1600](allcaves-database.md#IT-LOLC-1600)  
@@ -121,7 +129,7 @@ Italy - Lombardy [**Holiday on Ice** LOLC-1916](allcaves-database.md#IT-LOLC-191
 Italy - Lombardy [**Infermi nel Ghiaccio** LOLC-1887](allcaves-database.md#IT-LOLC-1887)  
 Italy - Lombardy [**Inferno di Ghiaccio** LOLC-1904](allcaves-database.md#IT-LOLC-1904)  
 Italy - Lombardy [**Voragine di Oltre M 40 Presso l'Ometto del Bregai** LOLC-1586](allcaves-database.md#IT-LOLC-1586)  
-Italy - Sicilia [**Grotta del Gelo** ](allcaves-database.md#IT-b94660e81c51db8b325344b25b4d85ec)  
+Italy - Sicilia [**Grotta del Gelo** ](allcaves-database.md#IT-941523a74f6d7ac020ca94c67f5000b2)  
 Japan [**Fuji Ice Cave** Fuji Fuketsu (Fuji Wind Cave) ](allcaves-database.md#JP-e26bc9c6698824529baa6da0bf5bb393)  
 Japan [**Motosu Fuketsu No. 2 Cave** ](allcaves-database.md#JP-2a709c7095c14ead38bd702c895e40d9)  
 Japan - Yamanashi [**Narusawa Hyoketsu Cave** Narusawa Ice Cave; Narusawa Wind Cave; Narusawa Fuketsu ](allcaves-database.md#JP-6d8a263701cde5196f0357254dcdb677)  
@@ -501,7 +509,7 @@ United States of America - Hawaii [**Arsia Cave** Arsia Ice Cave ](allcaves-data
 United States of America - Hawaii [**Mauna Loa Ice Cave** ](allcaves-database.md#US-b06fbb3d2b569e50f6cddc95cfb1b0f7)  
 United States of America - Idaho; Butte County [**Boy Scout Cave** ](allcaves-database.md#US-fb672da215b7a63a8da8805a22311591)  
 United States of America - Idaho [**Niter Ice Cave** ](allcaves-database.md#US-4e939cee51ff8afebc0093419af01cc7)  
-United States of America - Idaho [**Snow Cone** ](allcaves-database.md#US-9c34793586092e16b66cfb8a7655fb35)  
+United States of America - Idaho [**Snow Cone** Snow Cone Spatter Cone ](allcaves-database.md#US-9c34793586092e16b66cfb8a7655fb35)  
 United States of America - Idaho [**Strickler Cavern** ](allcaves-database.md#US-8b83b776893742c5e3bebdacb4deb460)  
 United States of America - Montana [**Crater Ice Cave** ](allcaves-database.md#US-e5adad7e773ba261bf30f78657233988)  
 United States of America - Montana [**Little Ice Cave** ](allcaves-database.md#US-9c79920aa69179302b2f199c404aa5bc)  

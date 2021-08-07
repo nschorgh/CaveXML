@@ -38,14 +38,14 @@ Samoa [**La'auolola Cave** Laauoleola Cave; Aopo Cave; Aopo Lava Tube ](allcaves
 United States of America - Hawaii; North Kona [**Two Owl Cave** ](allcaves-database.md#US-8e766548c12ccae4a3dcf321bf147a5f)  >5000m  
 United States of America - Hawaii [**Kaʻūpūlehu Cave** ](allcaves-database.md#US-3165680314d5e3146b164acc98a6f0b7) 4952m  
 Korea, Republic of - Jeju province [**Susan Gul** Susandonggul Lava Tube ](allcaves-database.md#KR-75cc6f80cc0a12e48e5fb86abb197301) 4675m  
-Rwanda - Ruhengueri [**Ubuvumo bwa Musanze** ](allcaves-database.md#RW-52b9d30d023628b22bcb6c0554c50eda) 4560m  
+Rwanda - Rubavu district [**Ubuvumo Bwibihonga** ](allcaves-database.md#RW-ad6913bc852c3eaa7c67364871a720fc) 4530m  
 Portugal - Azores [**Gruta dos Balcoes** Gruta dos Balcões ](allcaves-database.md#PT-f5d6c4301a94d06a4c9035a47c76ab1a) 4421m  
 United States of America - Hawaii [**Under the Wall Cave** ](allcaves-database.md#US-5b7581ae7b29165ecccb15cb40b0c7bd) 4403m  
 United States of America - Washington; Skamania County [**Deadhorse Cave** ](allcaves-database.md#US-1325bd7ac40e9ace14cf5357756d4712) 4402m  
 United States of America - Idaho; Lincoln County [**Gypsum  Cave** Cocaine Cave ](allcaves-database.md#US-a72ed93dbc0738b4e6ea236de4ce3e66) 4316m  
 United States of America - Hawaii; Puna district [**John Martin Cave** ](allcaves-database.md#US-b3002bb2788c54cbb881eafceaa80d5f) *Part of* John Martin-Pukalani Cave System 4158m  
 Moon [**Marius Hill B** ](allcaves-database.md#XO-a01b11ce25463e8417c6bcacff6f396f) 4137m  
-United States of America - Washington; Skamania County [**Ape Cave** ](allcaves-database.md#US-50f7b2ff9f755d97d2fa869dc2e1e569) 3983m  
+United States of America - Washington; Skamania County [**Ape Cave** ](allcaves-database.md#US-0a0e63a9f62daa38ef4518ca1d86f41a) 3983m  
 United States of America - Hawaii; North Kona [**Umi'i Manu (Bird Trap)** ](allcaves-database.md#US-88eec3a2d2821103e5e0215a178df08b) 3887m  
 United States of America - New Mexico; Socorro County [**Bat Caves** ](allcaves-database.md#US-6ed5ed4fd6a7161660eedc2a0a8afe2d) 3800m  
 United States of America - California; Siskiyou County [**Dynamited Cave** Blasted Cave; Lemai Road Cave NSS-633-50](allcaves-database.md#US-NSS-633-50) 3763m  
@@ -55,6 +55,7 @@ United States of America - Hawaii [**Big Red Cave** ](allcaves-database.md#US-da
 United States of America - Hawaii; North Kona [**Aluminum Ladder Cave** ](allcaves-database.md#US-9f99a6fbd3f8156ab659fd6b08d52572)  >3500m  
 Kenya - Rift Valley Province; Kajiado District [**14-18 Series** ](allcaves-database.md#KE-9b7f3efde6c91bdda06602fa4c7fd849) 3500m  
 Iceland - Myrasysla County [**Surtshellir** Surtshellir-Stefanshellir Cave System ](allcaves-database.md#IS-cfd58b66d7080bc2f98c4a0c695ec018) 3500m  
+Rwanda [**Ubuvumo Nyabikuri-Rudi** ](allcaves-database.md#RW-615ce4d4a7c8146dbd4ffea4316eeea9) 3384m  
 Korea, Republic of - Jeju province [**Yongcheon Cave** ](allcaves-database.md#KR-8cb1d7d74d15eeabe44af15833c41091)  >3360m  
 United States of America - Hawaii; North Kona [**Ohia Cave** Refuge Cave Site D4-22 ](allcaves-database.md#US-60d67fd7d9b8d7ba9a3ab974a4039a74) 3200m  
 United States of America - Hawaii [**'D' Road Cave** Tree cast; Pole 46 Cave ](allcaves-database.md#US-801bc4749fd5a618dcbdf82e420c66ea) 3182m  
@@ -69,13 +70,14 @@ Kenya [**Rainbow's End Cave** ](allcaves-database.md#KE-fed3294e22202b74d1a17618
 United States of America - Hawaii; Puna district [**Lower Uilani Cave** ](allcaves-database.md#US-cf178577a9a127f9398a46c54b56e6c9) 2804m  
 United States of America - Washington; Skamania County [**Falls Creek Cave** Panther Lava Cave NSS-633-204](allcaves-database.md#US-NSS-633-204) 2797m  
 United States of America - Oregon; Washington County [**Catlin Gabel System (collapsed)** ](allcaves-database.md#US-b8b9f10679ae34e4e29fd64a3117f36e) 2700m  
+Portugal - Azores [**Gruta do Carvão** ](allcaves-database.md#PT-09c5a2eadd3aad15fd4f09038a34b5a9) 2500m  
 United States of America - California; Modoc County [**Mammoth Cave** ](allcaves-database.md#US-1c7129937eeed2ba455c25647dc936af) 2490m  
 United States of America - California; Siskiyou County [**Catwalk Cave** Gaping Holes ](allcaves-database.md#US-420b2a61c80ca4e9af3202a31e2db5cf) 2427m  
 United States of America - Hawaii; North Kona [**Black Pellet Cave** ](allcaves-database.md#US-b9ea902008341657ea70ba5e7136bcd8) 2378m  
 United States of America - Oregon; Deschutes County [**Lava River Cave** ](allcaves-database.md#US-260118d73b176efe7dcbdb0524569fce) 2370m  
 United States of America - California; Siskiyou County [**Post Office Cave** Postoffice Cave ](allcaves-database.md#US-5e443ad2b8b4501df95fe6fadd19656b) 2357m  
 United States of America - Idaho; Lincoln County [**Pot O' Gold** ](allcaves-database.md#US-c22e7d958266654282e60924a762ccfb) 2250m  
-Ecuador - Galapagos [**Caverna de Gallardo** ](allcaves-database.md#EC-9d63669ef9c185c6c2d91d2c778e7a3b) 2250m  
+Ecuador - Galapagos [**Caverna de Gallardo** Bellavista; Amor Tunnel ](allcaves-database.md#EC-9d63669ef9c185c6c2d91d2c778e7a3b) 2250m  
 United States of America - Washington; Skamania County [**Chubby Bunny Cave** Fat Rabbit Cave ](allcaves-database.md#US-6a30829938a72966bc352fefe4e6780b) 2205m  
 Japan - Shizuoka [**Mitsuike Ana** ](allcaves-database.md#JP-d3f027ddd663e2273d1e12a744d11d61) 2202m  
 United States of America - Hawaii; North Hilo district [**Kaumana Cave** ](allcaves-database.md#US-5405993cdae85b77f32e870639f25772) 2198m  
@@ -87,6 +89,7 @@ United States of America - Hawaii [**Pukalani Cave** ](allcaves-database.md#US-6
 Mexico - Morelos [**Cueva del Diablo** ](allcaves-database.md#MX-7201e5acf402fa501100e9621a1fa258) 2020m  
 Syria - Assuwayda [**Tell Shihan Tubes** ](allcaves-database.md#SY-00bfc7704f2a113331dc1781d6f5d8b0) 2000+m  
 Ecuador - Galapagos [**Cueva de la Finea Kastdal** Cueva de la Finca Kastdalen; Cueva de Tres Pisos ](allcaves-database.md#EC-9c42547ef6666d15f5eb725924ebaba3) 2000m  
+Rwanda - Ruhengueri [**Ubuvumo Rwego [Grotte des Commandos]** ](allcaves-database.md#RW-ddec8b3640f82b5a4509f24b250337ae) ~1952m  
 United States of America - New Mexico; Cibola County [**Outlaw Cave** East Outlaw Cave ](allcaves-database.md#US-dc1558fef15ea38cbf1246580363bfaa) 1920m  
 France - Reunion [**Caverne Bateau** ](allcaves-database.md#FR-4cf33b030a57def9fc84db38b254e07e) 1910m  
 Kenya - Eastern Province; Machakos District [**Mathaioni Cave** Mathaioni I NGR-436547; 360/1-4](allcaves-database.md#KE-NGR-436547) 1900m  
@@ -104,15 +107,16 @@ Rwanda - Northern province; Musanze district [**Ubuvumo Manjari deux** ](allcave
 Spain - Santa Cruz de Tenerife; Mazo [**Cueva del Sistema de Tigalate A** LP/MZ-1](allcaves-database.md#ES-LP/MZ-1) 1632m  
 Syria [**Umm ar Rumman** ](allcaves-database.md#SY-ba5df02d0ad9fec7f757591fd60bc22c) 1615m  
 United States of America - Idaho; Elmore County [**Prairie Ice Caves** ](allcaves-database.md#US-447a47dfdb7186a4f25b05853fc26053) 1600m  
+Rwanda - Ruhengueri [**Ubuvumo bwa Musanze (main segment)** ](allcaves-database.md#RW-5a6dc0bff7e2d2eff301e54a5a40f08e) 1600m  
 Kenya - Rift Valley Province; Kajiado District [**23-24 Series** ](allcaves-database.md#KE-3e228df88037e3ac7f8be745ef4bb1e8) 1600m  
 Iceland - Myrasysla County [**Víðgelmir** ](allcaves-database.md#IS-8b2fdd9758744f258da5018ced142dc7) 1585m  
 Spain - Santa Cruz de Tenerife; Las Palmas; Haria [**Tunel de la Atlántida** LZ/HR-5](allcaves-database.md#ES-LZ/HR-5) *Part of* Cueva de los Verdes 1570m  
 United States of America - California; Siskiyou County [**Bobcat Cave** ](allcaves-database.md#US-fb990a43fbc354ee6d0ac95ff646e3ed) 1566m  
 Iceland - Myrasysla County [**Stefanshellir** ](allcaves-database.md#IS-6b64a41d13ea3703bc179d5320cb7b55) 1520m  
 Rwanda [**Ubuvomo bwa Nyrabadago** Ubuwumo bwa Nxirabadogo; Ubuvuma bwa Myirabadogo ](allcaves-database.md#RW-9dbe67472fddd40decb1f2f99c499fab) 1500m  
-Italy - Sicilia [**Grotta del Labirinto** ](allcaves-database.md#IT-be8ad3ffe25c102abda0adf9e3736f2c) 1500m  
+Italy - Sicilia [**Grotta del Labirinto** ](allcaves-database.md#IT-6373cb133e94f73731dd87d5bc74ccb4) 1500m  
 United States of America - Oregon; Malheur County [**Baker Cave** Forty-Mile Cave ](allcaves-database.md#US-23445d01ef2242da1053dd29e49593e8) 1496m  
-Saudi Arabia [**Umm Jirsan Lava-Tube System** ](allcaves-database.md#SA-d908fbc51d45a3bf80743b53e62ee560) 1481m  
+Saudi Arabia [**Umm Jirsan Lava Tube System** ](allcaves-database.md#SA-036c7b8e6999903ccfb524beec58c060) 1481m  
 Mexico - Morelos [**Cueva del Arbol** ](allcaves-database.md#MX-bc14a3a5528a99a01f8275946f463787) 1480m  
 Japan - Shizuoka [**Hachijo Fuketsu No. 1** ](allcaves-database.md#JP-abab840666375df0acc9a2ed8a95a30b) 1404m  
 United States of America - Washington; Skamania County [**Lake Cave** NSS-631-051](allcaves-database.md#US-NSS-631-051) 1401m  
@@ -124,7 +128,7 @@ Spain - Santa Cruz de Tenerife; El Paso [**Cueva Honda del Bejendado** Eduardo y
 Iceland - Arnessysla [**Raufarhólshellir** ](allcaves-database.md#IS-7d2a47dfc0136f82c8fb5efec0142a42) 1360m  
 Australia - Queensland [**Bayliss Cave** ASF-4U-30](allcaves-database.md#AU-ASF-4U-30) 1350m  
 United States of America - Hawaii [**Apua Cave** ](allcaves-database.md#US-2d41ccdbccc71eb982a4f71e84030912) 1340m  
-United States of America - Idaho; Butte County [**Arco Tunnel** ](allcaves-database.md#US-df85cad59a4081d4f6b5738761c74529) 1316m  
+United States of America - Idaho; Butte County [**Arco Tunnel** ](allcaves-database.md#US-f6ad513d40d4e29984a3b278cee5bc7b) 1316m  
 United States of America - Oregon; Deschutes County [**Young's Cave** 35DS115](allcaves-database.md#US-35DS115) 1312m  
 Kenya - Rift Valley Province; Kajiado District [**10-9-6-36-37 Series** ](allcaves-database.md#KE-9f06905341f9c75a417cf5b971f5b187) 1300m  
 Indonesia - Java [**Gua Lawa** Bat Cave ](allcaves-database.md#ID-73ddd5fc058afea057db1d9d3a514f00) 1300m  
@@ -141,6 +145,7 @@ United States of America - California; Siskiyou County [**Sentinel Cave** ](allc
 United States of America - Washington; Skamania County [**Big Trench Cave System** ](allcaves-database.md#US-473f3e89d1e107ed154394406a5700d5) 1219m  
 United States of America - Hawaii [**Lower Keauhou Trail Cave** ](allcaves-database.md#US-905daed1b60124cdc95d9858074bc41f) 1217m  
 Ecuador - Galapagos [**Tunel de Los Piratas** ](allcaves-database.md#EC-00a0fb8cb55cd63cf037547dcf4ab5d6) 1200m  
+Rwanda - Ruhengueri [**Ubuvumo bwa Musanze (south segment)** ](allcaves-database.md#RW-796e9743d68fe2154760b67f0ca0ff9c) ~1200m  
 Australia - Victoria [**Mt. Hamilton Cave** ASF-3H-2](allcaves-database.md#AU-ASF-3H-2) 1190m  
 Spain - Santa Cruz de Tenerife; Las Palmas; Yaiza [**Cueva de Escondido** Cueva Perdida o Escondida LZ/YZ-33](allcaves-database.md#ES-LZ/YZ-33) 1176m  
 Cameroon - Sud-Oeust [**Grotte Gaskin** ](allcaves-database.md#CM-81496a39187762129375d8e408d6e161) 1175m  
@@ -161,6 +166,7 @@ United States of America - Hawaii; North Hilo district [**Oozing Red Puka** ](al
 United States of America - Washington [**Skamaniac Cave** ](allcaves-database.md#US-b01442061892a561edf755e8a6e4f0cf) 1074m  
 Viet Nam - Đắk Nông; Nam Da [**C7** ](allcaves-database.md#VN-d55999c1be1dcbb42091185c490f26b5) 1067m  
 United States of America - Washington; Klickitat County [**Dead Bear Cave** ](allcaves-database.md#US-5a9e7a7168b11b95b77b6a8fae404b9b) 1063m  
+Iceland - Arnessysla [**Búri Cave** ](allcaves-database.md#IS-42d72ec79a12b3b53f094a0557cbbdee) 1050m  
 Spain - Santa Cruz de Tenerife; Las Canadas [**Cueva de los Roques** ](allcaves-database.md#ES-40ecacf8fd9a71f998c37c3a7e2e8b12) 1048m  
 United States of America - Washington; Skamania County [**J.a.R. Cave** NSS-633-43](allcaves-database.md#US-NSS-633-43) 1043m  
 United States of America - Oregon; Deschutes County [**Skeleton Cave** ](allcaves-database.md#US-54e897dda7652157d670e2d1a30fe9a2) 1042m  
@@ -180,3 +186,6 @@ United States of America - Hawaii [**Kahawaihapapa Cave** ](allcaves-database.md
 Spain - Santa Cruz de Tenerife [**Cueva de Chiguergue** ](allcaves-database.md#ES-bf3ecc97f252cd760aab9afd3ebf1fc3) 1000m  
 Kenya - Eastern Province; Machakos District [**ABC Cave** ](allcaves-database.md#KE-a9f5c3625d13b1df6523619656a2fe41) 1000m  
 France - Reunion [**Caverne de la Riviere des Remparts** ](allcaves-database.md#FR-48ac50171e4d80a1f366bd3846ee256e) 1000m  
+
+
+Note: Planet Venus has some very long lava tubes, which are not cataloged here.

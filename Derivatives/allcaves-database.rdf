@@ -32,6 +32,7 @@
       <dct:references>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</dct:references>
       <dct:references>Margesin et al. (2004) doi:10.1099/ijs.0.63124-0</dct:references>
       <dct:references>Schöner et al. (2011) doi:10.5194/tc-5-603-2011</dct:references>
+      <dct:references rdf:resource="https://en.wikipedia.org/wiki/Eisriesenwelt"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="1626/300">
@@ -54,6 +55,16 @@
       <dct:references>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</dct:references>
       <dct:references rdf:resource="https://hoehle.org/laengste-tiefste"/>
       <dct:references rdf:resource="https://de.wikipedia.org/wiki/Sch%C3%B6nberg-H%C3%B6hlensystem"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="1626/55">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Austria</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Totes Gebirge</schema:addressLocality>
+      <rdfs:label>Raucherkarhöhle</rdfs:label>
+      <karstlink:length>~86000</karstlink:length>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <schema:containedInPlace xmlns:schema="https://schema.org/">Schönberg-Höhlensystem</schema:containedInPlace>
+      <dct:references rdf:resource="https://www.zobodat.at/pdf/Hoehle_059_0073-0082.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="1626/18">
       <schema:addressCountry xmlns:schema="https://schema.org/">Austria</schema:addressCountry>
@@ -89,6 +100,8 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Oberösterreich</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Dachstein</schema:addressLocality>
       <rdfs:label>Dachstein-Rieseneishöhle</rdfs:label>
+      <w3geo:latitude>47.548333</w3geo:latitude>
+      <w3geo:longitude>13.704722</w3geo:longitude>
       <w3geo:altitude>1455</w3geo:altitude>
       <karstlink:length>2000</karstlink:length>
       <karstlink:verticalExtent>70</karstlink:verticalExtent>
@@ -166,6 +179,7 @@
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <schema:containedInPlace xmlns:schema="https://schema.org/">Eiskogel-Richter-Höhle</schema:containedInPlace>
       <dct:references rdf:resource="https://de.wikipedia.org/wiki/Eiskogelh%C3%B6hle"/>
+      <dct:references rdf:resource="https://www.mindat.org/loc-46024.html"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="1266/1">
@@ -256,6 +270,38 @@
       <dct:references rdf:resource="https://digital.lib.usf.edu/SFS0064378/00001"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Austria</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Oberösterreich</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Höllengebirge</schema:addressLocality>
+      <rdfs:label>Hochschneid Eishöhle</rdfs:label>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <rdfs:comment>firn and ice plug about 70m thick</rdfs:comment>
+      <dct:references>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</dct:references>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Austria</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Steiermark</schema:addressLocality>
+      <rdfs:label>Schödlkogeleishöhle</rdfs:label>
+      <w3geo:altitude>939</w3geo:altitude>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">periodic ice</cavexml:contents>
+      <dct:references>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</dct:references>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="1826/25">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Austria</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Niederösterreich</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Ötscher</schema:addressLocality>
+      <rdfs:label>Südkar-Eishöhle</rdfs:label>
+      <w3geo:latitude>47.857</w3geo:latitude>
+      <w3geo:longitude>15.1989</w3geo:longitude>
+      <karstlink:verticalExtent>250</karstlink:verticalExtent>
+      <schema:hasMap xmlns:schema="https://schema.org/">http://www.thamer.at/wp-content/uploads/2007/05/ubersicht.jpg</schema:hasMap>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <dct:references rdf:resource="https://www.zobodat.at/pdf/Hoehle_027_0145-0149.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Bosnia and Herzegovina</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Treskavica mountain</schema:addressLocality>
       <rdfs:label>Ledenica</rdfs:label>
@@ -323,12 +369,38 @@
       <w3geo:latitude>44.8</w3geo:latitude>
       <w3geo:longitude>14.98</w3geo:longitude>
       <w3geo:altitude>1470</w3geo:altitude>
-      <karstlink:length>20</karstlink:length>
       <karstlink:verticalExtent>30</karstlink:verticalExtent>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <rdfs:comment>15m thick ice bodies</rdfs:comment>
       <dct:references>Kern et al. (2011) doi:10.5194/tc-5-485-2011</dct:references>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Croatia</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Velebit Mt.</schema:addressLocality>
+      <rdfs:label>Štirovača Ice  Cave</rdfs:label>
+      <gn:alternateName>Ledenica u Štirovača</gn:alternateName>
+      <w3geo:altitude>1110</w3geo:altitude>
+      <karstlink:length>351</karstlink:length>
+      <karstlink:verticalExtent>36</karstlink:verticalExtent>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">2</cavexml:number-of-entrances>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">periodic ice</cavexml:contents>
+      <dct:references>Buzjak et al. (2018) doi:10.1016/B978-0-12-811739-2.00016-4</dct:references>
+      <dct:references>Bocic et al. (2012) doi:10.1127/0372-8854/2012/0083</dct:references>
+      <dct:references>Bocic et al. (2014) Int. Workshop on Ice Caves</dct:references>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Croatia</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Velebit Mt.</schema:addressLocality>
+      <rdfs:label>Gavranova jama</rdfs:label>
+      <gn:alternateName>Gavranova pit</gn:alternateName>
+      <w3geo:altitude>1100</w3geo:altitude>
+      <karstlink:verticalExtent>20</karstlink:verticalExtent>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">2</cavexml:number-of-entrances>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <dct:references>Bocic et al. (2014) Int. Workshop on Ice Caves</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Finland</schema:addressCountry>
@@ -934,6 +1006,27 @@
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Koltai et al. (2021) doi:10.5194/cp-17-775-2021</dct:references>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Friuli Venezia Giulia</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Canin massif</schema:addressLocality>
+      <rdfs:label>Leupa ice cave</rdfs:label>
+      <w3geo:altitude>~2300</w3geo:altitude>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <dct:references>Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X</dct:references>
+      <dct:references>Colucci et al. (2016) doi:10.1016/j.geomorph.2016.02.017</dct:references>
+      <dct:references>Colucci et al. (2017) DOI:10.4461/GFDQ.2017.40.5</dct:references>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Friuli Venezia Giulia</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Canin massif</schema:addressLocality>
+      <rdfs:label>Vasto ice cave</rdfs:label>
+      <w3geo:altitude>~2200</w3geo:altitude>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <dct:references>Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X</dct:references>
+      <dct:references>Colucci et al. (2016) doi:10.1016/j.geomorph.2016.02.017</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="03110">
       <schema:addressCountry xmlns:schema="https://schema.org/">Montenegro</schema:addressCountry>
@@ -6020,21 +6113,28 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Northern Rocky Mountains</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
       <rdfs:label>Snow Cone</rdfs:label>
+      <gn:alternateName>Snow Cone Spatter Cone</gn:alternateName>
+      <karstlink:length>122</karstlink:length>
+      <karstlink:verticalExtent>36</karstlink:verticalExtent>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <rdfs:comment>permanent ice pond and a frozen waterfall</rdfs:comment>
       <dct:references>Higham and Palmer (2018) doi:10.1016/B978-0-12-811739-2.00031-0</dct:references>
+      <dct:references rdf:resource="https://digital.lib.usf.edu/content/SF/S0/05/05/68/00001/K26-00119-IWIC-VI-program.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Idaho; Power County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Idaho; Fremont County</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Northern Rocky Mountains</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
       <rdfs:label>Crystal Falls Ice Cave</rdfs:label>
       <gn:alternateName>Crystal Falls Cave</gn:alternateName>
+      <karstlink:length>653</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <rdfs:comment>no longer contains perennial ice</rdfs:comment>
       <rdfs:comment>includes long tabular ice crystals</rdfs:comment>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1047"/>
+      <dct:references rdf:resource="https://digital.lib.usf.edu/content/SF/S0/05/05/68/00001/K26-00119-IWIC-VI-program.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -6174,10 +6274,13 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands</schema:addressLocality>
       <rdfs:label>Heppe Chimney</rdfs:label>
-      <schema:hasMap xmlns:schema="https://schema.org/">https://rpif.asu.edu/LTdatabase/images/heppe_caves.jpg</schema:hasMap>
+      <schema:hasMap xmlns:schema="https://schema.org/">https://pubs.usgs.gov/bul/1673/plate-6.pdf</schema:hasMap>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava vent</cavexml:cave-type>
       <rdfs:comment>spatter cone adjacent to Heppe Cave</rdfs:comment>
+      <rdfs:comment>agglutinate cone</rdfs:comment>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=650"/>
+      <dct:references rdf:resource="http://npshistory.com/publications/geology/bul/1673/sec3k.htm"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -6582,7 +6685,6 @@
       <rdfs:label>14-18 Series</rdfs:label>
       <karstlink:length>3500</karstlink:length>
       <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">8</cavexml:number-of-entrances>
-      <schema:hasMap xmlns:schema="https://schema.org/">https://rpif.asu.edu/LTdatabase/images/14-18_Series.jpg</schema:hasMap>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">extensive guano</cavexml:contents>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">many bats</cavexml:contents>
@@ -6591,6 +6693,7 @@
       <karstlink:relatedToUndergroundCavity>Cave 18</karstlink:relatedToUndergroundCavity>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1445"/>
       <dct:references>Simons (1998) doi:10.5038/1827-806X.27.1.4</dct:references>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">mine</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -6600,6 +6703,17 @@
       <rdfs:label>Cave 14</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <schema:containedInPlace xmlns:schema="https://schema.org/">14-18 Series</schema:containedInPlace>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
+      <dct:references rdf:resource="https://www.mindat.org/loc-144118.html"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Rift Valley Province; Kajiado District</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Suswa</schema:addressLocality>
+      <rdfs:label>Cave 18</rdfs:label>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <schema:containedInPlace xmlns:schema="https://schema.org/">14-18 Series</schema:containedInPlace>
+      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1441"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -6622,6 +6736,7 @@
       <karstlink:length>1600</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1446"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
@@ -6632,6 +6747,7 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1447"/>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1439"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
@@ -6643,6 +6759,7 @@
       <karstlink:relatedToUndergroundCavity>Cave 34</karstlink:relatedToUndergroundCavity>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1448"/>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1444"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
@@ -6651,6 +6768,7 @@
       <rdfs:label>Cave 3</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1440"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
@@ -6669,37 +6787,23 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Suswa</schema:addressLocality>
       <rdfs:label>Cave 13</rdfs:label>
       <karstlink:length>600</karstlink:length>
+      <karstlink:verticalExtent>22</karstlink:verticalExtent>
       <schema:hasMap xmlns:schema="https://schema.org/">https://rpif.asu.edu/LTdatabase/images/Cave_13.jpg</schema:hasMap>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1451"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf"/>
+      <dct:references rdf:resource="https://www.mindat.org/loc-144119.html"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Rift Valley Province; Kajiado District</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Suswa</schema:addressLocality>
-      <rdfs:label>Cave 18</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <schema:containedInPlace xmlns:schema="https://schema.org/">14-18 Series</schema:containedInPlace>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1441"/>
-      <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Rift Valley Province; Kajiado District</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Suswa</schema:addressLocality>
-      <rdfs:label>Cave 20</rdfs:label>
+      <rdfs:label>Cave 19-20-21</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1442"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Rift Valley Province; Kajiado District</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Suswa</schema:addressLocality>
-      <rdfs:label>Cave 21</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1443"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -6895,7 +6999,7 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
       <rdfs:label>Ampitheater Cave</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1019"/>
@@ -7078,7 +7182,7 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Washington</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Skamania County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Mount St. Helens</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Mount St. Helens; Gifford Pinchot National Forest</schema:addressLocality>
       <rdfs:label>Ape Cave</rdfs:label>
       <karstlink:length>3983</karstlink:length>
       <karstlink:verticalExtent>~210</karstlink:verticalExtent>
@@ -7089,6 +7193,8 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1691"/>
       <dct:references>Halliday (1963) "Caves of Washington"</dct:references>
+      <dct:references rdf:resource="https://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=40393"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="NSS-633-24">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -7116,16 +7222,18 @@
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym03/ISV3x09.pdf"/>
       <dct:references>Wood (1981) Trans. Brit. Cave Res. Assoc. 8(3), 111-129</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-U22">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-4U-22">
       <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
-      <rdfs:label>Arch</rdfs:label>
-      <karstlink:length>~11</karstlink:length>
+      <rdfs:label>Arch Cave</rdfs:label>
+      <karstlink:length>200</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">2</cavexml:number-of-entrances>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1370"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf"/>
+      <dct:references>ASF database</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -7176,7 +7284,7 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
       <rdfs:label>Arco Tunnel</rdfs:label>
       <karstlink:length>1316</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -7185,10 +7293,28 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Iceland</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Arnessysla</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Leitarhraun lava field</schema:addressLocality>
       <rdfs:label>Arnarker</rdfs:label>
-      <karstlink:length>470</karstlink:length>
+      <gn:alternateName>Kerid</gn:alternateName>
+      <karstlink:length>515</karstlink:length>
+      <schema:hasMap xmlns:schema="https://schema.org/">https://www.photosfromiceland.com/images/phocagallery/south_iceland/arnarker_cave/thumbs/phoca_thumb_l_Let-Arnarker-12.jpg</schema:hasMap>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=7"/>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <dct:references rdf:resource="https://guidetoiceland.is/travel-iceland/drive/arnarker"/>
+      <cavexml:curation xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">Broken link: https://rpif.asu.edu/LTdatabase/result.php?RECNO=7</cavexml:curation>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Iceland</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Arnessysla</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Leitahraun lava field</schema:addressLocality>
+      <rdfs:label>Búri Cave</rdfs:label>
+      <w3geo:latitude>63.9139</w3geo:latitude>
+      <w3geo:longitude>-21.4844</w3geo:longitude>
+      <karstlink:length>1050</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <dct:references rdf:resource="https://www.grottocenter.org/html/file_En.php?id=65162"/>
+      <dct:references rdf:resource="https://en.wikipedia.org/wiki/B%C3%BAri_(cave)"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -7448,6 +7574,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
       <rdfs:label>Barkers Cave</rdfs:label>
+      <w3geo:altitude>625</w3geo:altitude>
       <karstlink:length>905</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -7641,6 +7768,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
       <rdfs:label>Bayliss Cave</rdfs:label>
+      <w3geo:altitude>700</w3geo:altitude>
       <karstlink:length>1350</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -7651,6 +7779,7 @@
       <dct:references>Atkinson et al. (1975) doi:10.1007/BF02597832</dct:references>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym14/papers/Stone.pdf"/>
+      <dct:references>Eberhard and Howarth (2021) doi:10.3390/d13070326</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -7755,9 +7884,11 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Oregon</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Lake County</schema:addressLocality>
       <rdfs:label>Benjamin Lake Cave</rdfs:label>
+      <gn:alternateName>Benjamin Ice Cave</gn:alternateName>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1242"/>
+      <dct:references>Larson, C.V. (1982) Benjamin Lake Cave. The Speleograph 18:97, 102-103</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -8287,6 +8418,8 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Azores</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Ilha de Terceira</schema:addressLocality>
       <rdfs:label>Branca Opala</rdfs:label>
+      <w3geo:latitude>38.78460</w3geo:latitude>
+      <w3geo:longitude>-27.25342</w3geo:longitude>
       <w3geo:altitude>280</w3geo:altitude>
       <karstlink:length>99</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -8311,6 +8444,18 @@
       <dct:references>Riquelme et al. (2015) doi:10.1093/femsec/fiv141</dct:references>
       <dct:references rdf:resource="https://en.wikipedia.org/wiki/Gruta_do_Natal"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Portugal</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Azores</schema:addressLocality>
+      <rdfs:label>Gruta do Carvão</rdfs:label>
+      <w3geo:latitude>37.74816</w3geo:latitude>
+      <w3geo:longitude>-25.68707</w3geo:longitude>
+      <karstlink:length>2500</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.grottocenter.org/html/file_En.php?id=72083"/>
+      <dct:references rdf:resource="http://grutadocarvao.amigosdosacores.pt"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -8373,13 +8518,15 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1577"/>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="NSS-633-33">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Washington</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Skamania County</schema:addressLocality>
       <rdfs:label>Broken Back Cave</rdfs:label>
+      <karstlink:length>123</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1627"/>
+      <dct:references rdf:resource="https://oregongrotto.com/troutlake.shtml"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -8402,7 +8549,7 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
       <rdfs:label>Buffalo Caves</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1022"/>
@@ -8772,10 +8919,15 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Galapagos</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Isla de Santa Cruz</schema:addressLocality>
       <rdfs:label>Caverna de Gallardo</rdfs:label>
+      <gn:alternateName>Bellavista</gn:alternateName>
+      <gn:alternateName>Amor Tunnel</gn:alternateName>
       <karstlink:length>2250</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <rdfs:comment>moonmilk deposits</rdfs:comment>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=709"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym06/ISV6x33.pdf"/>
+      <dct:references>Miller et al. (2020) doi:10.3390/coatings10111134</dct:references>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Argentina</schema:addressCountry>
@@ -9078,6 +9230,15 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=931"/>
       <dct:references>Halliday (1998) doi:10.5038/1827-806X.27.1.11</dct:references>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/whatis.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Hawaii</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Hawaii Island; Kilauea</schema:addressLocality>
+      <rdfs:label>Lava Rise E-3 Cave</rdfs:label>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/whatis.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -9416,11 +9577,12 @@
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
-      <rdfs:comment>ice pools; large hoarfrost crystals (e.g., near Fantasy Pasage and in Red Ice Room); icicles and ice stalagmites</rdfs:comment>
+      <rdfs:comment>ice pools; large hoarfrost crystals (e.g., near Fantasy Passage and in Red Ice Room); icicles and ice stalagmites</rdfs:comment>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=565"/>
       <dct:references>Kern and Thomas (2014) doi:10.4461/GFDQ.2014.37.14</dct:references>
       <dct:references>Waters et al. (1990) doi:10.3133/b1673</dct:references>
       <dct:references rdf:resource="https://scholarcommons.usf.edu/iwic/Proceedings/Climate_Microclimates_Cave_Ice/6/"/>
+      <dct:references rdf:resource="https://www.mindat.org/loc-301173.html"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -10560,6 +10722,7 @@
       <rdfs:label>Cueva del Diablo</rdfs:label>
       <karstlink:length>2020</karstlink:length>
       <karstlink:verticalExtent>70</karstlink:verticalExtent>
+      <schema:hasMap xmlns:schema="https://schema.org/">http://www.mexicancaves.org/maps/1956.pdf</schema:hasMap>
       <schema:hasMap xmlns:schema="https://schema.org/">http://www.mexicancaves.org/maps/3366.pdf</schema:hasMap>
       <schema:hasMap xmlns:schema="https://schema.org/">http://www.mexicancaves.org/maps/3367.pdf</schema:hasMap>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -11142,9 +11305,9 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SICT-1216">
       <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
-      <rdfs:label>Cutrona Cave (Grotta Cutrona)</rdfs:label>
-      <gn:alternateName>Grotta MC1 Grotta</gn:alternateName>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
+      <rdfs:label>Cutrona Cave (La Grotta Cutrona)</rdfs:label>
+      <gn:alternateName>Grotta MC1</gn:alternateName>
       <w3geo:altitude>1860</w3geo:altitude>
       <karstlink:length>870</karstlink:length>
       <karstlink:verticalExtent>97</karstlink:verticalExtent>
@@ -11157,7 +11320,7 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SICT-1205">
       <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
       <rdfs:label>Grotta Petralia</rdfs:label>
       <gn:alternateName>Grotta Leucatia</gn:alternateName>
       <w3geo:altitude>138</w3geo:altitude>
@@ -11273,6 +11436,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
       <rdfs:label>Dave's (North) Cave</rdfs:label>
       <gn:alternateName>Dave I</gn:alternateName>
+      <w3geo:altitude>730</w3geo:altitude>
       <karstlink:length>50</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -11284,6 +11448,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
       <rdfs:label>Dave's (South) Cave</rdfs:label>
       <gn:alternateName>Dave II</gn:alternateName>
+      <w3geo:altitude>730</w3geo:altitude>
       <karstlink:length>70</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -11310,22 +11475,6 @@
       <karstlink:length>1063</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1613"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Gooding County</schema:addressLocality>
-      <rdfs:label>Dead Horse Cave</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1059"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Gooding County</schema:addressLocality>
-      <rdfs:label>Dead Horse Extension</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1060"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
@@ -11814,15 +11963,6 @@
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=800"/>
       <dct:references rdf:resource="https://caves.org/pub/journal/PDF/V60/V60N3-Allred.pdf"/>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands</schema:addressLocality>
-      <rdfs:label>Elmer's Bridge</rdfs:label>
-      <karstlink:length>52</karstlink:length>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=483"/>
-   </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="E450">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
@@ -11841,9 +11981,11 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Lava Beds National Monument</schema:addressLocality>
       <rdfs:label>Elmer's Upper Bridge</rdfs:label>
       <karstlink:length>105</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">4</cavexml:number-of-entrances>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=485"/>
       <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2014-15.pdf"/>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -12102,10 +12244,14 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">Iceland</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Austur-Hunavatnssysla; Reykjanes peninsula</schema:addressLocality>
       <rdfs:label>Flóki</rdfs:label>
+      <w3geo:latitude>63.99360</w3geo:latitude>
+      <w3geo:longitude>-21.81223</w3geo:longitude>
       <karstlink:length>1096</karstlink:length>
+      <karstlink:verticalExtent>13</karstlink:verticalExtent>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=13"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym12/ISV12p08.pdf"/>
+      <dct:references rdf:resource="https://www.grottocenter.org/html/file_En.php?id=65348"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -12202,7 +12348,7 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=196"/>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-4U-13">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-U-13">
       <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
@@ -12212,14 +12358,6 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1382"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym14/papers/Atkinson.pdf"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Oregon</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Deschutes County</schema:addressLocality>
-      <rdfs:label>Friday Cave</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1302"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="NSS-633-07">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -12356,8 +12494,13 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Azores</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Ilha de Graciosa</schema:addressLocality>
       <rdfs:label>Furna do Exnofre</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava vent</cavexml:cave-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lake(s)</cavexml:contents>
+      <rdfs:comment>includes 50m high dome</rdfs:comment>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=226"/>
+      <dct:references rdf:resource="https://www.showcaves.com/english/pt/showcaves/Enxofre.html"/>
+      <dct:references rdf:resource="https://pt.wikipedia.org/wiki/Furna_do_Enxofre"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Portugal</schema:addressCountry>
@@ -12750,14 +12893,6 @@
       <dct:references>Waters et al. (1990) doi:10.3133/b1673</dct:references>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Oregon</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Deschutes County</schema:addressLocality>
-      <rdfs:label>Goodest Cave</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1303"/>
-   </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="NSS-633-10">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Washington</schema:addressLocality>
@@ -12783,11 +12918,14 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Victoria</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Eccles</schema:addressLocality>
       <rdfs:label>Gothic Cave</rdfs:label>
+      <gn:alternateName>Natural Bridge</gn:alternateName>
       <karstlink:length>30</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1570"/>
       <dct:references>ASF database</dct:references>
+      <dct:references rdf:resource="http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym10/ISV10s2.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -12798,10 +12936,15 @@
       <gn:alternateName>Lava River Cave</gn:alternateName>
       <gn:alternateName>Bellemont Cave</gn:alternateName>
       <karstlink:length>1250</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
+      <schema:hasMap xmlns:schema="https://schema.org/">https://www.fs.usda.gov/Internet/FSE_MEDIA/stelprdb5318502.jpg</schema:hasMap>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">periodic ice</cavexml:contents>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=243"/>
+      <dct:references rdf:resource="https://www.showcaves.com/english/usa/caves/Flagstaff.html"/>
+      <dct:references rdf:resource="https://en.wikipedia.org/wiki/Lava_River_Cave_(Arizona)"/>
+      <dct:references rdf:resource="https://www.fs.usda.gov/recarea/coconino/recreation/recarea/?recid=55122"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -12846,7 +12989,7 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
       <rdfs:label>Great Owl Cave</rdfs:label>
       <karstlink:length>158</karstlink:length>
       <schema:hasMap xmlns:schema="https://schema.org/">https://rpif.asu.edu/LTdatabase/images/Great_Owl_Cave.jpg</schema:hasMap>
@@ -12929,10 +13072,11 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SICT-1019">
       <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
       <rdfs:label>Grotta dei Lamponi</rdfs:label>
       <w3geo:altitude>1750</w3geo:altitude>
       <karstlink:length>784</karstlink:length>
+      <karstlink:verticalExtent>75</karstlink:verticalExtent>
       <schema:hasMap xmlns:schema="https://schema.org/">https://rpif.asu.edu/LTdatabase/images/Lamponi_Map.jpg</schema:hasMap>
       <schema:hasMap xmlns:schema="https://schema.org/">https://rpif.asu.edu/LTdatabase/images/Lamponi_Profile.jpg</schema:hasMap>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
@@ -12940,11 +13084,13 @@
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=667"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym03/ISV3x14.pdf"/>
       <dct:references rdf:resource="https://doi.org/10.1007/BF01961232"/>
+      <dct:references rdf:resource="https://www.showcaves.com/english/it/caves/Lamponi.html"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SICT-1004">
       <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
       <rdfs:label>Grotta dei Tre Livelli</rdfs:label>
       <gn:alternateName>Galleriadei Pipistrelli</gn:alternateName>
       <w3geo:altitude>1625-1675</w3geo:altitude>
@@ -12955,11 +13101,13 @@
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1540"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym03/ISV3x14.pdf"/>
+      <dct:references rdf:resource="https://www.showcaves.com/english/it/caves/TreLivelli.html"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SICT-1032">
       <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
       <rdfs:label>Grotta del Santo</rdfs:label>
       <w3geo:altitude>1043</w3geo:altitude>
       <karstlink:length>924</karstlink:length>
@@ -12970,7 +13118,7 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SICT-1196">
       <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
       <rdfs:label>Grotta del Lago</rdfs:label>
       <gn:alternateName>Grotta dei Pecorai</gn:alternateName>
       <w3geo:altitude>2130</w3geo:altitude>
@@ -12982,7 +13130,7 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
       <rdfs:label>Grotta del Labirinto</rdfs:label>
       <karstlink:length>1500</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -12992,7 +13140,7 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SICT-1007">
       <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
       <rdfs:label>Grotta dell Intraleo</rdfs:label>
       <w3geo:altitude>1325</w3geo:altitude>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -13002,7 +13150,7 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SICT-1065">
       <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
       <rdfs:label>Grotta di Serracozzo I</rdfs:label>
       <w3geo:altitude>1840</w3geo:altitude>
       <karstlink:length>350</karstlink:length>
@@ -13014,24 +13162,60 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SICT-1084">
       <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
       <rdfs:label>Abisso Profondo Nero</rdfs:label>
       <w3geo:altitude>1900 lower entrance</w3geo:altitude>
       <w3geo:altitude>1995 upper entrance</w3geo:altitude>
       <karstlink:length> &gt;1170</karstlink:length>
       <karstlink:verticalExtent>174</karstlink:verticalExtent>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <rdfs:comment>year of eruption 1923</rdfs:comment>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SICT-1005">
       <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
       <rdfs:label>Grotta degli Archi</rdfs:label>
       <gn:alternateName>Grotta di Monte Pecoraro</gn:alternateName>
       <w3geo:altitude>2010-2075</w3geo:altitude>
       <karstlink:length>284</karstlink:length>
       <karstlink:verticalExtent>73</karstlink:verticalExtent>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
+      <rdfs:label>Grotta delle Palombe</rdfs:label>
+      <gn:alternateName>Cave of Doves</gn:alternateName>
+      <w3geo:altitude>1575</w3geo:altitude>
+      <karstlink:length>200</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.showcaves.com/english/it/caves/Palombe.html"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SICT-1037">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
+      <rdfs:label>Grotta Catanese I</rdfs:label>
+      <w3geo:altitude>905</w3geo:altitude>
+      <karstlink:length>145</karstlink:length>
+      <karstlink:verticalExtent>27</karstlink:verticalExtent>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="SICT-1117">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
+      <rdfs:label>Grotta dei Ladri</rdfs:label>
+      <gn:alternateName>Grotta dei Briganti o della Neve</gn:alternateName>
+      <w3geo:altitude>1547</w3geo:altitude>
+      <karstlink:length>59</karstlink:length>
+      <karstlink:verticalExtent>4</karstlink:verticalExtent>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ea.pdf"/>
    </karstlink:UndergroundCavity>
@@ -13047,15 +13231,7 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
-      <rdfs:label>Grotte de la Cantoniera</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1544"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Italy</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicilia</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Etna</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
       <rdfs:label>Grotta del Gelo</rdfs:label>
       <w3geo:altitude>2030</w3geo:altitude>
       <karstlink:length>~120</karstlink:length>
@@ -13068,6 +13244,7 @@
       <dct:references rdf:resource="http://vulcanospeleology.org/sym09/ISV9Eaj.pdf"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Eaj1.pdf"/>
       <dct:references rdf:resource="http://www.glaciologia.it/wp-content/uploads/FullText/full_text_15_1_2/18_GFDQ_15_1_2_Marino_127_132.pdf"/>
+      <dct:references rdf:resource="https://www.showcaves.com/english/it/caves/Gelo.html"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -13277,15 +13454,6 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=261"/>
       <dct:references>Riquelme et al. (2015) doi:10.1093/femsec/fiv141</dct:references>
-      <dct:references rdf:resource="http://ropewiki.com/Gruta_dos_Balcoes"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Portugal</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Azores</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Ilha de Pico (Pico Island)</schema:addressLocality>
-      <rdfs:label>Gruta dos Fumelos</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=232"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Portugal</schema:addressCountry>
@@ -13297,6 +13465,7 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=229"/>
       <dct:references>Riquelme et al. (2015) doi:10.1093/femsec/fiv141</dct:references>
+      <dct:references rdf:resource="https://pt.wikipedia.org/wiki/Gruta_dos_Montanheiros"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Portugal</schema:addressCountry>
@@ -13403,14 +13572,6 @@
       <karstlink:length>9</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1582"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Victoria</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Napier</schema:addressLocality>
-      <gn:alternateName>H-X3B</gn:alternateName>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1583"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-3H-65">
       <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
@@ -13931,7 +14092,7 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
       <rdfs:label>Horseshoe Cave</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1025"/>
@@ -13941,6 +14102,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
       <rdfs:label>Hot Hole</rdfs:label>
+      <w3geo:altitude>~760</w3geo:altitude>
       <karstlink:length>172</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -14241,7 +14403,7 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
       <rdfs:label>Indian Dome Cave</rdfs:label>
       <schema:hasMap xmlns:schema="https://schema.org/">https://rpif.asu.edu/LTdatabase/images/Indian_Dome.jpg</schema:hasMap>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
@@ -14254,8 +14416,10 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
       <rdfs:label>Indian Tunnel</rdfs:label>
+      <karstlink:length>666</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1029"/>
+      <dct:references rdf:resource="https://digital.lib.usf.edu/content/SF/S0/05/05/68/00001/K26-00119-IWIC-VI-program.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-U41">
       <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
@@ -14559,7 +14723,9 @@
       <karstlink:length>3000</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <rdfs:comment>up to 20m high</rdfs:comment>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1766"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym10/ISV10p1.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -14800,11 +14966,14 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">Saudi Arabia</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Western</schema:addressLocality>
       <rdfs:label>Kahf al Mut'eb</rdfs:label>
+      <gn:alternateName>Mut'eb Cave</gn:alternateName>
       <w3geo:altitude>1175</w3geo:altitude>
       <karstlink:length>123</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1762"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym10/ISV10p1.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Saudi Arabia</schema:addressCountry>
@@ -14817,14 +14986,21 @@
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1763"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym10/ISV10p1.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Saudi Arabia</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Harrat Khaybar lava field</schema:addressLocality>
-      <rdfs:label>Umm Jirsan Lava-Tube System</rdfs:label>
+      <rdfs:label>Umm Jirsan Lava Tube System</rdfs:label>
+      <w3geo:latitude>25.5888</w3geo:latitude>
+      <w3geo:longitude>39.7570</w3geo:longitude>
+      <w3geo:altitude>1185</w3geo:altitude>
       <karstlink:length>1481</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <rdfs:comment>lots of bones carried in by hyena</rdfs:comment>
+      <rdfs:comment>3 segments, 2 collapses</rdfs:comment>
       <dct:references rdf:resource="http://vulcanospeleology.org/articles/jirsan.pdf"/>
+      <dct:references>Stewart et al. (2021) doi:10.1007/s12520-021-01365-6</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Bulgaria</schema:addressCountry>
@@ -15636,6 +15812,7 @@
       <karstlink:length> &gt;32000</karstlink:length>
       <karstlink:verticalExtent>208</karstlink:verticalExtent>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <rdfs:comment>gypsum deposits</rdfs:comment>
       <karstlink:relatedToUndergroundCavity>Poha Cave</karstlink:relatedToUndergroundCavity>
       <karstlink:relatedToUndergroundCavity>Kula Kai Caverns</karstlink:relatedToUndergroundCavity>
       <karstlink:relatedToUndergroundCavity>Eli's Pit Cave</karstlink:relatedToUndergroundCavity>
@@ -15908,6 +16085,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Newberry National Volcanic Monument</schema:addressLocality>
       <rdfs:label>Lava River Cave</rdfs:label>
       <karstlink:length>2370</karstlink:length>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1275"/>
       <dct:references rdf:resource="https://en.wikipedia.org/wiki/Lava_River_Cave"/>
@@ -16741,6 +16919,7 @@
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1390"/>
+      <dct:references>ASF database</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -17205,9 +17384,10 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
       <rdfs:label>Moss Cave</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <rdfs:comment>bear dens</rdfs:comment>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1032"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -17578,6 +17758,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
       <rdfs:label>Nasty</rdfs:label>
+      <w3geo:altitude>670</w3geo:altitude>
       <karstlink:length>127</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -17600,7 +17781,7 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
       <rdfs:label>Natural Bridge Cave</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1033"/>
@@ -17643,14 +17824,6 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=172"/>
       <cavexml:curation xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">there are two "the cave of god" in Kenya</cavexml:curation>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Oregon</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Deschutes County</schema:addressLocality>
-      <rdfs:label>Nice Cave</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1301"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -17764,7 +17937,7 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
       <rdfs:label>North Fork Cave</rdfs:label>
       <karstlink:length>140</karstlink:length>
       <schema:hasMap xmlns:schema="https://schema.org/">https://rpif.asu.edu/LTdatabase/images/North_Fork_Cave.jpg</schema:hasMap>
@@ -18452,9 +18625,14 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Mauritius</schema:addressCountry>
       <rdfs:label>Pont Bon Dieu Jardin Cave</rdfs:label>
-      <karstlink:length>~400</karstlink:length>
+      <gn:alternateName>Caverns of Pont Bon Dieu</gn:alternateName>
+      <w3geo:latitude>-20.18494</w3geo:latitude>
+      <w3geo:longitude>57.64293</w3geo:longitude>
+      <karstlink:length>392</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references>Middleton (1998) doi:10.5038/1827-806X.27.1.9</dct:references>
+      <dct:references rdf:resource="https://www.showcaves.com/english/other/showcaves/PontBonDieuJardin.html"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Mauritius</schema:addressCountry>
@@ -18489,6 +18667,15 @@
       <karstlink:length>570</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="http://vulcanospeleology.org/sym09/ISV9Eal.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Mauritius</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Plaine des Roches</schema:addressLocality>
+      <rdfs:label>Princess Margaret Cave</rdfs:label>
+      <karstlink:length>~500</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.showcaves.com/english/other/caves/RocheNoire.html"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -18596,12 +18783,14 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
-      <rdfs:label>Pinwill Cave</rdfs:label>
+      <rdfs:label>Pinwell Cave</rdfs:label>
+      <w3geo:altitude>850</w3geo:altitude>
       <karstlink:length>560</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1425"/>
       <dct:references>Atkinson et al. (1975) doi:10.1007/BF02597832</dct:references>
+      <dct:references>Eberhard and Howarth (2021) doi:10.3390/d13070326</dct:references>
       <cavexml:curation xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">ASF database says length is 150m</cavexml:curation>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -18637,13 +18826,15 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">California</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Siskiyou County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Shasta</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Klamath National Forest</schema:addressLocality>
       <rdfs:label>Pluto's Cave</rdfs:label>
       <karstlink:length>805</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=619"/>
       <dct:references rdf:resource="https://en.wikipedia.org/wiki/Pluto%27s_Cave"/>
+      <dct:references rdf:resource="https://www.fs.usda.gov/recarea/klamath/recarea/?recid=13176"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
@@ -18699,9 +18890,11 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Siskiyou County</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Double Hole Crater</schema:addressLocality>
       <rdfs:label>Porcupine Butte Lava Tube</rdfs:label>
+      <gn:alternateName>Porcupine Lava Tube</gn:alternateName>
       <karstlink:length>940</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=537"/>
+      <dct:references rdf:resource="https://www.mindat.org/feature-5569712.html"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -19369,15 +19562,6 @@
       <rdfs:label>Rjupnahellir</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=19"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">California</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Siskiyou County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Shasta</schema:addressLocality>
-      <rdfs:label>Road Cave</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=620"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-4U-28">
       <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
@@ -20269,14 +20453,6 @@
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">California</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Shasta County</schema:addressLocality>
-      <rdfs:label>Six Mile Hill Cave</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=452"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Washington</schema:addressLocality>
       <rdfs:label>Skamaniac Cave</rdfs:label>
       <karstlink:length>1074</karstlink:length>
@@ -20581,14 +20757,6 @@
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Gooding County</schema:addressLocality>
-      <rdfs:label>Spider Cave</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1062"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Washington</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Skamania County</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Mount St. Helens</schema:addressLocality>
@@ -20640,7 +20808,7 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1679"/>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-4U-5">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-U-5">
       <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
@@ -20745,7 +20913,6 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
       <rdfs:label>Stephenson</rdfs:label>
-      <gn:alternateName>(U21) Arch 1</gn:alternateName>
       <karstlink:length>~156</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -20768,6 +20935,8 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
       <rdfs:label>Stevens Cave</rdfs:label>
+      <gn:alternateName>Stephens Cave</gn:alternateName>
+      <w3geo:altitude>880</w3geo:altitude>
       <karstlink:length>70</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -20953,13 +21122,6 @@
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Idaho; Power County</schema:addressLocality>
-      <rdfs:label>Sullivan Cave</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1100"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">California</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Siskiyou County</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Giant Crater</schema:addressLocality>
@@ -20983,8 +21145,9 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Butte County</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Craters of the Moon National Monument</schema:addressLocality>
-      <rdfs:label>Sunbear  Cave</rdfs:label>
+      <rdfs:label>Sunbear Cave</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <rdfs:comment>bear dens</rdfs:comment>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1035"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
@@ -21173,6 +21336,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
       <rdfs:label>Taylor Cave</rdfs:label>
+      <w3geo:altitude>950</w3geo:altitude>
       <karstlink:length>108</karstlink:length>
       <karstlink:verticalExtent>14</karstlink:verticalExtent>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
@@ -21325,14 +21489,6 @@
       <karstlink:length>21</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1681"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">New Mexico; Socorro County</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Jornada del Muerto</schema:addressLocality>
-      <rdfs:label>The Hookworm</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1197"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -21489,14 +21645,6 @@
       <dct:references>Wood (1981) Trans. Brit. Cave Res. Assoc. 8(3), 111-129</dct:references>
       <dct:references rdf:resource="http://vulcanospeleology.org/sym03/ISV3x10.pdf"/>
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">California</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Siskiyou County</schema:addressLocality>
-      <rdfs:label>Tick City Cave</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=516"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -21715,14 +21863,6 @@
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1132"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Washington</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Skamania County</schema:addressLocality>
-      <rdfs:label>Todd's Cave</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
-      <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1683"/>
-   </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Micronesia</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Kosrae</schema:addressLocality>
       <rdfs:label>Kosrae Island tube</rdfs:label>
@@ -21743,7 +21883,7 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
-      <rdfs:label>Tom</rdfs:label>
+      <rdfs:label>Tom Tom</rdfs:label>
       <karstlink:length>34</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -21997,6 +22137,15 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=728"/>
    </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-3H-8">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Victoria</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Eccles</schema:addressLocality>
+      <rdfs:label>The Shaft</rdfs:label>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava vent</cavexml:cave-type>
+      <dct:references rdf:resource="http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf"/>
+   </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-3H-9">
       <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Victoria</schema:addressLocality>
@@ -22007,6 +22156,19 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1571"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym03/ISV3x12.pdf"/>
+      <dct:references rdf:resource="http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-3H-51">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Victoria</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Eccles</schema:addressLocality>
+      <rdfs:label>North Pole Cave</rdfs:label>
+      <karstlink:length>40</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">2</cavexml:number-of-entrances>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym10/ISV10s2.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-3H-66">
       <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
@@ -22017,6 +22179,33 @@
       <karstlink:verticalExtent>3</karstlink:verticalExtent>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1592"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-3H-70">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Victoria</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Eccles</schema:addressLocality>
+      <rdfs:label>Carmichael Cave</rdfs:label>
+      <karstlink:length>605</karstlink:length>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="http://st1.asflib.net/JNS/AUNat/ASF/ASF-ConfProc/ASF-26thConfMat-2007-CavesCratersCritters/ASF-26th-DVD/10-VolcCavesWestVIC.pdf"/>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym10/ISV10s2.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-3H-106">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Victoria</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Eccles; Byaduk Caves</schema:addressLocality>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym10/ISV10s2.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-3H-108">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Victoria</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Eccles; Byaduk Caves</schema:addressLocality>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/sym10/ISV10s2.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Chile</schema:addressCountry>
@@ -22147,12 +22336,38 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">Rwanda</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Ruhengueri</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Kanisimbi</schema:addressLocality>
-      <rdfs:label>Ubuvumo bwa Musanze</rdfs:label>
-      <karstlink:length>4560</karstlink:length>
+      <rdfs:label>Ubuvumo bwa Musanze (main segment)</rdfs:label>
+      <w3geo:altitude>1870</w3geo:altitude>
+      <karstlink:length>1600</karstlink:length>
       <karstlink:verticalExtent>210</karstlink:verticalExtent>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1455"/>
+      <dct:references rdf:resource="http://vulcanospeleology.org/newsletters/Vulcano50.pdf"/>
+      <dct:references rdf:resource="https://www.grottocenter.org/html/file_En.php?id=37930"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Rwanda</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Ruhengueri</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Kanisimbi</schema:addressLocality>
+      <rdfs:label>Ubuvumo Rwego [Grotte des Commandos]</rdfs:label>
+      <w3geo:altitude>2314</w3geo:altitude>
+      <karstlink:length>~1952</karstlink:length>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="http://vulcanospeleology.org/newsletters/Vulcano50.pdf"/>
+      <dct:references rdf:resource="https://www.grottocenter.org/html/file_En.php?id=37934"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Rwanda</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Ruhengueri</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Kanisimbi</schema:addressLocality>
+      <rdfs:label>Ubuvumo bwa Musanze (south segment)</rdfs:label>
+      <w3geo:altitude>1870</w3geo:altitude>
+      <karstlink:length>~1200</karstlink:length>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="http://vulcanospeleology.org/newsletters/Vulcano50.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Rwanda</schema:addressCountry>
@@ -22161,11 +22376,38 @@
       <rdfs:label>Ubuvumo Manjari deux</rdfs:label>
       <w3geo:latitude>-1.5535</w3geo:latitude>
       <w3geo:longitude>29.53517</w3geo:longitude>
+      <w3geo:altitude>2250</w3geo:altitude>
       <karstlink:length>1660</karstlink:length>
       <karstlink:verticalExtent>58</karstlink:verticalExtent>
       <schema:hasMap xmlns:schema="https://schema.org/">https://www.grottocenter.org/upload/topos/u2170-t927-rf470e4ed06ab0bce6ed89485ca2009ba-ubuvumo-manjari-deux.PNG</schema:hasMap>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://www.grottocenter.org/html/file_En.php?id=37929"/>
+      <dct:references rdf:resource="http://vulcanospeleology.org/newsletters/Vulcano50.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Rwanda</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Rubavu district</schema:addressLocality>
+      <rdfs:label>Ubuvumo Bwibihonga</rdfs:label>
+      <w3geo:latitude>-1.64811</w3geo:latitude>
+      <w3geo:longitude>29.37847</w3geo:longitude>
+      <w3geo:altitude>2341</w3geo:altitude>
+      <karstlink:length>4530</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">many bats</cavexml:contents>
+      <dct:references rdf:resource="http://vulcanospeleology.org/newsletters/Vulcano50.pdf"/>
+      <dct:references rdf:resource="https://www.grottocenter.org/html/file_En.php?id=37927"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Rwanda</schema:addressCountry>
+      <rdfs:label>Ubuvumo Nyabikuri-Rudi</rdfs:label>
+      <w3geo:latitude>-1.4319</w3geo:latitude>
+      <w3geo:longitude>29.66142</w3geo:longitude>
+      <w3geo:altitude>2212</w3geo:altitude>
+      <karstlink:length>3384</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">many bats</cavexml:contents>
+      <dct:references rdf:resource="http://vulcanospeleology.org/newsletters/Vulcano50.pdf"/>
+      <dct:references rdf:resource="https://www.grottocenter.org/html/file_En.php?id=37928"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -22376,7 +22618,9 @@
       <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
-      <rdfs:label>Upper Secret</rdfs:label>
+      <rdfs:label>Upper Secret Cave</rdfs:label>
+      <gn:alternateName>Secret Cave No. 1</gn:alternateName>
+      <w3geo:altitude>~825</w3geo:altitude>
       <karstlink:length>~150</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -22502,6 +22746,16 @@
       <karstlink:length>350</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=11"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Iceland</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Skúlatúnshraun</schema:addressLocality>
+      <rdfs:label>Leiðarendi</rdfs:label>
+      <karstlink:length>900</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">periodic ice</cavexml:contents>
+      <dct:references>Bedekovic (2018) DOI:10.17794/rgn.2018.1.7</dct:references>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/2002.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -22821,9 +23075,13 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Modoc Crater</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Lava Beds National Monument</schema:addressLocality>
       <rdfs:label>White Lace Cave</rdfs:label>
+      <karstlink:length>93</karstlink:length>
+      <karstlink:verticalExtent>24</karstlink:verticalExtent>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=616"/>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_1991.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -22864,6 +23122,14 @@
       <rdfs:label>Will's Cave</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1083"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Idaho</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Madison County</schema:addressLocality>
+      <rdfs:label>17 Mile Cave</rdfs:label>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://rexburgfun.com/17-mile-cave/"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -22962,19 +23228,19 @@
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">New Zealand</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Auckland City</schema:addressLocality>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Three Kings</schema:addressLocality>
-      <rdfs:label>Motor Holidays</rdfs:label>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Wellington</schema:addressLocality>
+      <rdfs:label>Motor Holdings</rdfs:label>
       <w3geo:altitude>30</w3geo:altitude>
       <karstlink:length>114</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references>Kermode (1994) doi:10.14945/00000324</dct:references>
    </karstlink:UndergroundCavity>
-   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="ASF-U52">
       <schema:addressCountry xmlns:schema="https://schema.org/">Australia</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Queensland</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Undara</schema:addressLocality>
       <rdfs:label>Wishing Well</rdfs:label>
-      <gn:alternateName>U52</gn:alternateName>
+      <w3geo:altitude>~750</w3geo:altitude>
       <karstlink:length>104</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://rpif.asu.edu/LTdatabase/result.php?RECNO=1431"/>
@@ -23248,10 +23514,17 @@
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
-      <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Elgon</schema:addressLocality>
-      <rdfs:label>Kitum Cave (Place of the Ceremonies)</rdfs:label>
-      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Rift Valley Province; Trans-Nzoia County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Elgon National Park</schema:addressLocality>
+      <rdfs:label>Kitum Cave</rdfs:label>
+      <w3geo:latitude>1.0491</w3geo:latitude>
+      <w3geo:longitude>34.5802</w3geo:longitude>
+      <karstlink:length>~200</karstlink:length>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">extensive guano</cavexml:contents>
+      <rdfs:comment>in pyroclastic rock; walls are salty</rdfs:comment>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
+      <dct:references rdf:resource="https://en.wikipedia.org/wiki/Kitum_Cave"/>
+      <dct:references rdf:resource="https://www.mindat.org/loc-204563.html"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
@@ -23261,14 +23534,17 @@
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">many bats</cavexml:contents>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf"/>
+      <dct:references rdf:resource="https://www.mindat.org/loc-302622.html"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Rift Valley Province; Trans-Nzoia County</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Elgon</schema:addressLocality>
-      <rdfs:label>Chepyanili Caves</rdfs:label>
+      <rdfs:label>Chepnyanlil Cave</rdfs:label>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym09/ISV9Ej.pdf"/>
+      <dct:references rdf:resource="https://www.mindat.org/loc-302621.html"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
@@ -23581,6 +23857,7 @@
       <dct:references rdf:resource="https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf"/>
       <dct:references rdf:resource="https://es.wikipedia.org/wiki/Cueva_de_Las_Palomas"/>
       <dct:references rdf:resource="https://mdc.ulpgc.es/utils/getfile/collection/vul/id/49/filename/50.pdf"/>
+      <dct:references rdf:resource="https://www.grottocenter.org/html/file_En.php?id=68964"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="LP/LLA-4">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
@@ -23897,6 +24174,7 @@
       <rdfs:comment>within Kauhako Crater</rdfs:comment>
       <dct:references rdf:resource="http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1990LPSC...20..195C"/>
       <dct:references>Halliday et al. (2010) Haw. Spel. Surv. Newsl., Spring 2010, p19-32</dct:references>
+      <dct:references rdf:resource="http://www.vulcanospeleology.org/whatis.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -24174,6 +24452,299 @@
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</dct:references>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym18/Proceedings/Honda_III.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="N010">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Battlefield Cave; Square Tube Cave</rdfs:label>
+      <karstlink:length>70</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2012-13.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="N130">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Leap of Faith Cave</rdfs:label>
+      <karstlink:length>42</karstlink:length>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2012-13.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S140">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Ratty Loft Cave</rdfs:label>
+      <karstlink:length>205</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S370 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Rhizoplaca Cave</rdfs:label>
+      <karstlink:length>12</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S299 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Hypotenuse Cave</rdfs:label>
+      <karstlink:length>45</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S410 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Pepperjack Cave</rdfs:label>
+      <karstlink:length>43</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S360 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Bufo Boreas Cave</rdfs:label>
+      <karstlink:length>47</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S340 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Volpes Fulva Cave</rdfs:label>
+      <karstlink:length>15</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S310 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Rocky Horror Cave</rdfs:label>
+      <karstlink:length>37</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S271 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Ahoyhoe Cave</rdfs:label>
+      <karstlink:length>16</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S237 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Grassy Hole Tube</rdfs:label>
+      <karstlink:length>16</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S236 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Summer Home Cave</rdfs:label>
+      <karstlink:length>21</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S234 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Cobble Pot</rdfs:label>
+      <karstlink:length>35</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S420">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Mossy Coffin Cave</rdfs:label>
+      <karstlink:length>20</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S412 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Whack A Mole Cave</rdfs:label>
+      <karstlink:length>13</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">4</cavexml:number-of-entrances>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S380 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>San Marcos Cave </rdfs:label>
+      <karstlink:length>60</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S390 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Udongo Cave </rdfs:label>
+      <karstlink:length>26</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S350 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Teton Perdu Cave</rdfs:label>
+      <karstlink:length>20</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S330 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Dalmatian Cave</rdfs:label>
+      <karstlink:length>116</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S320 ">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Vespertine Cave</rdfs:label>
+      <karstlink:length>205</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S290">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Catbox Cave</rdfs:label>
+      <karstlink:length>50</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S280">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Malibu Cave</rdfs:label>
+      <karstlink:length>128</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="S240">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Hardin Butte; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Orange Peel Cave</rdfs:label>
+      <karstlink:length>28</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="E610">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Finale Cave</rdfs:label>
+      <karstlink:length>81</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Rock Cress Cave</rdfs:label>
+      <karstlink:length>20</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="E370">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Lucky Star Cave</rdfs:label>
+      <karstlink:length>145</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="E368">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Meta Stella Cave</rdfs:label>
+      <karstlink:length>49</karstlink:length>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="E505">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Plague Pit</rdfs:label>
+      <karstlink:length>68</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="E650">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Lava Beds National Monument</schema:addressLocality>
+      <rdfs:label>Liberty Cave</rdfs:label>
+      <karstlink:length>60</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="B160">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Lava Beds National Monument; Balcony Flow</schema:addressLocality>
+      <rdfs:label>Geritol Grotto</rdfs:label>
+      <karstlink:length>14</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="B295">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California; Siskiyou County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Medicine Lake Highlands; Lava Beds National Monument; Balcony Flow</schema:addressLocality>
+      <rdfs:label>Arroyo Cave</rdfs:label>
+      <karstlink:length>83</karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.cave-research.org/annual_reports/crf_ar_2016-17.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">California</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Shasta County</schema:addressLocality>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Lassen</schema:addressLocality>
+      <rdfs:label>Subway Cave</rdfs:label>
+      <karstlink:length>~400</karstlink:length>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">basalt</cavexml:rock-type>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <dct:references rdf:resource="https://www.fs.usda.gov/recarea/lassen/recarea/?recid=11435"/>
+      <dct:references rdf:resource="https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsm9_034444.pdf"/>
+      <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Moon</schema:addressCountry>

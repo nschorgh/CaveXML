@@ -1,6 +1,7 @@
 cave-name-ascii,min-altitude,max-altitude,length-nr,vertical-extent-nr,number-of-entrances-nr,record-id
 Eisriesenwelt,1657,1657,42000,407,,AT-1511/24
 Schonberg-Hohlensystem,1459,1933,149123,1061,34,AT-1626/300
+Raucherkarhohle,,,86000,,,AT-1626/55
 Feuertal-Eishohle,1718,1718,,,,AT-1626/18
 Dachstein-Mammuthohle,927,1828,67437,1207,21,AT-1547/9
 Dachstein-Rieseneishohle,1455,1455,2000,70,,AT-1547/17
@@ -16,6 +17,9 @@ Gamslocher-Kolowrat-Hohlensystem,,,44003,1130,,AT-1339/1-S
 Salzburgerschacht,,,6000,,,AT-1339/69
 Schwarzmooskogel-Eishohle,,,5051,262,6,AT-1623/40
 Nervensystem-Hohle,,,6139,262,6,AT-1627/74
+Hochschneid Eishohle,,,,,,AT-62157e008c37edf7bc663a9590653c8e
+Schodlkogeleishohle,939,939,,,,AT-12939fa5b2fd0bd0b11978d23799d594
+Sudkar-Eishohle,,,,250,,AT-1826/25
 Ledenica,,,,,,BA-ccffe3d9f1b3bcbb3a83f3e524a694b1
 Ledana Pit,,,,,,BA-e162a9a2aaa25b709e3ad2e3011b45d4
 Ledena Jama u Lomskoj dulibi,1235,1235,,536,,HR-fc5c286f2874ed642e4a714c611bdc41
@@ -23,7 +27,9 @@ Kugina ledenica,1140,1140,,,,HR-6f1c783a5a0993501197890241ec8f19
 Puhaljka Cave,,,,,,HR-5f9eca7e842ee5186254a7851395bc6a
 Snjeguljac Cave,,,,,,HR-33106ec4fe619387c246bf1b458644ca
 Lukina jama-Trojama system,,,,,,HR-96408a1ebf531785b2ac2dba2bfe6014
-Vukusic  Ice  Cave,1470,1470,20,30,,HR-127e07914a01979e937269d23b2317b4
+Vukusic  Ice  Cave,1470,1470,,30,,HR-127e07914a01979e937269d23b2317b4
+Stirovaca Ice  Cave,1110,1110,351,36,2,HR-649eabf30132b3395f1622ed9bc0223c
+Gavranova jama,1100,1100,,20,2,HR-1087eb5bceb413d883582a5eee8fb42a
 Korkia-Mauran Jaaluola,125,125,,,,FI-3bacd764cccfcdca855f79037da8fe2e
 Surtshellir,,,3500,,,IS-cfd58b66d7080bc2f98c4a0c695ec018
 Vidgelmir,250,250,1585,,,IS-8b2fdd9758744f258da5018ced142dc7
@@ -80,6 +86,8 @@ Inferno di Ghiaccio,2120,2120,162,95,,IT-LOLC-1904
 Holiday on Ice,2144,2144,70,48,,IT-LOLC-1916
 Grotta di Cristallo,2780,2780,39,20,,IT-LOSO-3056
 Cioccherloch,2274,2274,250,,1,IT-F22
+Leupa ice cave,2300,2300,,,,IT-9c2eb5b1f5f39083b07ab40f8925f0ee
+Vasto ice cave,2200,2200,,,,IT-08eadc59b6060b7e7729f4a83561cbd2
 Ice Cave,1945,1945,2057,451,,ME-03110
 03061,2034,2034,572,207,,ME-03061
 T5,2069,2069,560,176,,ME-1fb4f1536b830affc53562712fb8194f
@@ -559,8 +567,8 @@ Dead Man Cave,2306,2306,88,,,US-fda703df15e4d12d4dc82aa2957de63c
 South Fork Ice Cave,2284,2284,145,,,US-6e15b7ee91632b618c4949bba4da7dc9
 Ridiculous Ice Cave,2684,2684,73,,,US-ab41b136f17caab8eb6aec6f86445ac2
 Strickler Cavern,,,,,,US-8b83b776893742c5e3bebdacb4deb460
-Snow Cone,,,,,,US-9c34793586092e16b66cfb8a7655fb35
-Crystal Falls Ice Cave,,,,,,US-a1f6c4466a0b944fd5d193c95f7c9091
+Snow Cone,,,122,36,1,US-9c34793586092e16b66cfb8a7655fb35
+Crystal Falls Ice Cave,,,653,,,US-8b27d0b12c479898de8a2a5544747118
 Bear Ice Cave,,,,,,US-f9244e4b84013595587462be918605da
 Grandview Ice Cave,,,,,,US-3d77578a218469475de04098e1515a0c
 Winter Wonderland Cave,3140,3140,245,33,,US-5a4ab07e8f54dad78b9bee399d427ee9
@@ -609,16 +617,15 @@ Helen's Hidden Hideaway,,,415,26,,US-c47d2c28cc163043041ac83ee0ccdb07
 94 Shackleton Rd.,,,,,,NZ-f6f1d993ec103e809160325c432592e0
 14-18 Series,,,3500,,8,KE-9b7f3efde6c91bdda06602fa4c7fd849
 Cave 14,,,,,,KE-ba04cfe5af21652967b7d6a39aa563ce
+Cave 18,,,,,,KE-8884ed23a0c922752e9179ded40baeaa
 ABC Cave,,,1000,,,KE-a9f5c3625d13b1df6523619656a2fe41
 23-24 Series,,,1600,,,KE-3e228df88037e3ac7f8be745ef4bb1e8
 10-9-6-36-37 Series,,,1300,,,KE-9f06905341f9c75a417cf5b971f5b187
 34-35 Series,,,800,,,KE-095b4a6eb0c6858c8b7134d780eedc27
 Cave 3,,,,,,KE-845a9bc7556335e99e9081798e87f084
 Cave 12,,,650,,,KE-b20e6ae4cc915024ae239134fa2ce3c9
-Cave 13,,,600,,,KE-58027c0a30087226e5337c14b143eb77
-Cave 18,,,,,,KE-8884ed23a0c922752e9179ded40baeaa
-Cave 20,,,,,,KE-0d1fc828e213f89b1dce44d93bcd2b7a
-Cave 21,,,,,,KE-0f1d5faac223bdc767b6bf027cbf89f7
+Cave 13,,,600,22,,KE-58027c0a30087226e5337c14b143eb77
+Cave 19-20-21,,,,,,KE-fc7bcffef435e0b8c275f902271b1658
 A,,,31,,,US-27bcab35b484e108a2e9f19f677c0378
 A.M. Cave,,,,,,US-84c5e3fc7711929cfb157cb663552343
 Accaregui's Cave,,,150,,,US-e92b8fe3f737e3d57f63569f28a1286a
@@ -638,7 +645,7 @@ Ambigua Cave,,,1764,293,,US-3c35d1f8cbe691af872a048638ad1ed7
 Amboy Crater Caves,,,,,,US-d42569773734a7a5c2b968dc54b2675b
 Ambury Rd. Cave,20,20,140,,,NZ-a6e9c00b9298b41ad2b4746943e65f2b
 Amoeba Cave,,,,,,US-ff019cbe696749afa77c3e2ba8dd7e7a
-Ampitheater Cave,,,,,,US-57a9c68c183a7b082820dfd7ffcf6ada
+Ampitheater Cave,,,,,,US-1bd70f40ac185ef3eca28de18fdc63ad
 An Hufhuf (Cave of Many Bats),,,,,,FJ-b20bafc79a6413a638f33e14e8b78c55
 An Mafiri Cave 1,,,102,,1,FJ-d1f0d3fc369c814dd498031c11e53523
 An Mafiri Cave 2,,,30,,,FJ-453bebbbb5a2b99eb1fd305fcdfb296a
@@ -657,16 +664,17 @@ Ant Farm,,,,,,US-6ead4688d2bd1a9959f6d78d17d2cb3f
 Anthurium Sink Cave,,,183,,,US-5c889d3d0c6ddf10f5d2d9f5008965ef
 Aokigahara Fuketsu No. 1,,,61,,,JP-e69b48740f3ad77ef5400762da1fbfd4
 Aokigahara Fuketsu No. 2,,,142,,,JP-eb8c52130c7c112a2e74a1f9bf5a3d9e
-Ape Cave,,,3983,210,2,US-50f7b2ff9f755d97d2fa869dc2e1e569
+Ape Cave,,,3983,210,2,US-0a0e63a9f62daa38ef4518ca1d86f41a
 Apple Cave,,,61,,,US-NSS-633-24
 Apua Cave,,,1340,32,,US-2d41ccdbccc71eb982a4f71e84030912
-Arch,,,11,,,AU-ASF-U22
+Arch Cave,,,200,,2,AU-ASF-4U-22
 Arch Cave,,,100,,,US-769ff7404a55f6dacb2ecf2821ee73e7
 Arch Cave,991,991,30,,,US-2d527f84cc745d909ca8970ac612f484
 Arch Sunk Cave,,,46,,,US-d2f25390636b869ea6031c427952d78a
 Archies Cave,,,348,,,US-ae907d62d421299357d05209d8c89edc
-Arco Tunnel,,,1316,,,US-df85cad59a4081d4f6b5738761c74529
-Arnarker,,,470,,,IS-874ae4e2e41445d05e301b121dd2b088
+Arco Tunnel,,,1316,,,US-f6ad513d40d4e29984a3b278cee5bc7b
+Arnarker,,,515,,,IS-e96013a7f519f046d6564274cd105674
+Buri Cave,,,1050,,,IS-42d72ec79a12b3b53f094a0557cbbdee
 Arnold Ice Cave,1381,1381,49,,,US-b9513e9db4a84c47e0d0057c42022592
 Arrowhead Cave,,,36,,1,US-d405227171f7bb16868ef6e408c7988d
 Ash Crawl Cave,,,117,,,US-d0be8ec3e03f6e0be2e05c63b9eeb6f2
@@ -691,7 +699,7 @@ Balcony Chamber Cave,,,,,,US-1242cd018bf504f22892b78d3f88f3c7
 Banba Ana,675,675,621,,,JP-b02e7935ece9df0adcd348d476138cd6
 Bandera Crater Tube,,,28600,,,US-8704a3d70946b0dfecce0b04a629db1b
 Barbed Wire Cave,,,30,,,US-a3d2e598c4e1ceeee73d29c8f68de2f3
-Barkers Cave,,,905,,,AU-ASF-4U-34
+Barkers Cave,625,625,905,,,AU-ASF-4U-34
 Barkers Crater Caves,,,250,,,AU-8386ac76afa2fa8dd2aec369cb12a962
 Barlow Cave,,,243,,1,US-67587fc115b3b7ab6f764563c31934df
 Barn Swallow Cave,,,152,,,US-93b3100272526fc520d15effe91f95f6
@@ -709,7 +717,7 @@ Bat Caves,,,3800,,,US-6ed5ed4fd6a7161660eedc2a0a8afe2d
 Bat Crack,,,274,,,US-c377cced535a2ff8b9a1f3575dba28ef
 Bathtub,,,20,,2,AU-ASF-3H-20
 Battered Sherman,,,16,,,US-97bea6808a5c246e7d21b417d19048a8
-Bayliss Cave,,,1350,,,AU-ASF-4U-30
+Bayliss Cave,700,700,1350,,,AU-ASF-4U-30
 Beaconlight Cave,,,127,,,US-87e6ad28c34885a2927a537e5471a241
 Bear Tooth Cave,,,276,,,US-62777402009c984d5e25203a0725fe7a
 Bear Trap Lava Tube,,,,,,US-ce532f2f5d3c630242230cd4a015c2da
@@ -769,16 +777,17 @@ Braille Cave,,,21,,,US-252cf8772da12e1ce8245c993e3d48c6
 Branch,,,10,,,AU-ASF-U64
 Branca Opala,280,280,99,,,PT-9d6fdc0ed7ac1145705f5823f7f8c233
 Gruta do Natal,551,551,697,,,PT-947ae5f840db4d70243be67908d8d6ed
+Gruta do Carvao,,,2500,,,PT-09c5a2eadd3aad15fd4f09038a34b5a9
 Bray Ice Caves,,,,,,US-f1c22fa798108655607c9f99f1875978
 Breakdown Cave,,,30,,,US-96e515c5b20bf9e02681850c23064ec4
 Breakdown Cave,,,30,,,US-9bcd541e4052a8723e0a120e26ea2734
 Breakdown Mountain Cave,,,61,,,US-a4ddf8f1b5f1dee66b324e710fdb1e42
 Brewer's Cave,2280,2280,705,,,US-7608ba093b85b57e9f80afeaab199a2d
 Bridge Cave,,,200,20,2,AU-ASF-3H-13
-Broken Back Cave,,,,,,US-bf78e1cbe5586b6ac95ee4090608ddf8
+Broken Back Cave,,,123,,,US-NSS-633-33
 Brown's Hole Cave,,,45,,,US-44268dadb0257c84fefa9e16cd6b9c79
 Budahellir,,,380,,,IS-3a26b7367ebe6ffab59b9fa3b25c441e
-Buffalo Caves,,,,,,US-43d39f0bbdd4d4bc3c0dc9ffe139d80e
+Buffalo Caves,,,,,,US-7fb08388a652dd4c905ffa451d51518a
 Bullet Cave,,,,,,US-a61df418fb744679b719f0b6dafc5710
 Burley Wind Cave,,,,,,US-0f342b4c88e64d8d5534b4cbb0023568
 Burnout Cave,,,9,,,US-a70777d21b98b5dc74ef9167fe3f2ee7
@@ -844,6 +853,7 @@ Jimei Cave (Sisters Cave),,,,,,CN-3092c522ed350783a2098465eee514c2
 Kanlianmiying Cave,,,,,,CN-fd17bd82340c1bbe27b4213d2b6d1724
 Silidong Lava Tube,1201,1201,560,,,CN-0c3c522cc146ae5e35ab82361a44f18d
 Christmas Cave,,,632,,,US-dbb97e5ed9ada45856aa0e039a6c2ed0
+Lava Rise E-3 Cave,,,,,,US-639c04c063e13fb078b2e8f398691c6b
 Chubby Bunny Cave,,,2205,,,US-6a30829938a72966bc352fefe4e6780b
 Chuck Hole Cave,,,,,,US-NSS-611-105
 Church Cave 1; Byaduk,,,200,20,,AU-ASF-3H-15
@@ -1027,7 +1037,7 @@ Cuevo Labertina Lava,,,,,,MX-6c0844dcc80ce74dea96686f90ec76c2
 Cul De Sac Cave,,,64,,,US-2926b673a555b050f0178c20e09b0041
 Curly Creek Cave,,,373,,,US-aff175d65e48442e06fecb46627c2e45
 Cut Nose Cave,,,,,,US-5647081584b532625c56965860409699
-Cutrona Cave (Grotta Cutrona),1860,1860,870,97,,IT-SICT-1216
+Cutrona Cave (La Grotta Cutrona),1860,1860,870,97,,IT-SICT-1216
 Grotta Petralia,138,138,518,21,,IT-SICT-1205
 Cyrtandra Makai Cave,,,9,,,US-0395f4c21d30c778b05763b7134c89eb
 Cyrtandra Mauka Cave,,,12,,,US-b1539ba0c33353a494b1514f934a99b5
@@ -1039,12 +1049,10 @@ Darcy Cave,,,99,,,AU-ASF-4U-31
 Dark Slope Lava Tube,,,20,,,GB-1132aed335d11ba1a23d50f36e9ee9d9
 Datus Perry's Cave,,,583,,,US-626c603cb9a3b6c74e04a98772f1222d
 Datus Perry's New Cave,,,416,,,US-5abc793d1fd9f2e54061ac0905c1ab9d
-Dave's (North) Cave,,,50,,,AU-ASF-4U-26
-Dave's (South) Cave,,,70,,,AU-ASF-4U-27
+Dave's (North) Cave,730,730,50,,,AU-ASF-4U-26
+Dave's (South) Cave,730,730,70,,,AU-ASF-4U-27
 Davenport Cave,,,46,,,US-de1d2abec721a3cc7753cb7b57e29c96
 Dead Bear Cave,,,1063,,,US-5a9e7a7168b11b95b77b6a8fae404b9b
-Dead Horse Cave,,,,,,US-fc8798f70f1ddbe28fe3cadaec42ae9d
-Dead Horse Extension,,,,,,US-24904dfe19c25df7f39f0121572fb577
 Dead Man's Cave,,,,,,KE-434166bb47589a8a8eb3768994faa9ba
 Dead Tire Cave,,,92,,,US-c7e01394b0be29fea35aab1959eb8f63
 Deadhorse Cave,,,4402,,,US-1325bd7ac40e9ace14cf5357756d4712
@@ -1092,9 +1100,8 @@ Ectomonph Ice Cave,,,61,,,US-25e3e82ecb5009210d9ef9bbb2f0bf44
 Edison Ice Cave,,,,,,US-NSS-611-1
 Eldon English Cave,,,204,,,US-121f2e5a2548cc901e26f0ba3c473bf0
 Eldon English Mauka Cave,,,170,,,US-5612c009c4fabcd240804fc5d68035cd
-Elmer's Bridge,,,52,,,US-6496e5fc736e1a4371494fea401aa012
 Elmer's Lower Bridge,,,68,,,US-E450
-Elmer's Upper Bridge,,,105,,,US-E440
+Elmer's Upper Bridge,,,105,,4,US-E440
 Epperson's Cave,,,,,,US-2dd78c16769fdc1d90a62574e8cf1a30
 Eptesicus,,,42,,,AU-ASF-U39
 Eureka Cave,,,150,,,US-09fc48d444deff182b92dc6b79167172
@@ -1119,7 +1126,7 @@ Flat Arch Cave,,,114,,,US-07c41a2b34062a2a6f596fa6c650887f
 Flat Ceiling,,,80,,,AU-ASF-U63
 Flodhellir,,,982,,,IS-83437bb2ec58a7d8479f611967a8d3be
 Fleener Chimneys,,,66,,,US-1f1146026143c3e2a5dc7a327e84c7ea
-Floki,,,1096,,,IS-0ed5c71cd41bbf211234144c444bc950
+Floki,,,1096,13,,IS-0ed5c71cd41bbf211234144c444bc950
 Flow Cave,,,102,,,US-5c91c49cdb1e87b9f7d11496e18c403f
 Flower Pot,,,65,12,,AU-ASF-3H-19
 Folgers Cave,,,1264,,,US-NSS-633-213
@@ -1129,8 +1136,7 @@ Fossil Cave,,,,,,US-1dc033f44f98eb96589d46dd9507e8e1
 Four Pit Balcony Cave,,,465,,,US-e6e419424ef2a87528241e2588182c5c
 Four Windows Cave,,,368,,,US-8aef56832a87ea3053361da5cd86f1eb
 Framhaldshellir,,,40,,,IS-6f867b88f757749f9001961046ac5687
-Frances,,,14,,,AU-ASF-4U-13
-Friday Cave,,,,,,US-7691279c1ea6d7a668751f0a20879aeb
+Frances,,,14,,,AU-ASF-U-13
 Frog Hollow Cave,,,43,,,US-NSS-633-07
 Frog Pit,,,,,,US-NSS-611-113
 Frozen River Cave,,,,,,US-ea717b0284a7befe83bf6ef8452cc9d1
@@ -1179,16 +1185,15 @@ Go-9614,980,980,120,12,,RU-5236/15800-1
 Goatskull Puka,,,787,,,US-06c648730ca98439cb162b56d232538e
 Gokuraku Ana,10,10,200,,,JP-caf552c34fccd3092460d148138a5e56
 Golden Dome Cave,,,679,,,US-535076f1e1bd0845fe512b5dc1b580b2
-Goodest Cave,,,,,,US-3df5d14196995f470e0d24df4066dc44
 Goose Cave,1001,1001,665,,,US-NSS-633-10
 Gopher Hole Cave,,,46,,,US-NSS-633-09
 Gothic Cave,,,30,,,AU-ASF-3H-10
-Government Cave,,,1250,,,US-9fbf719fddd9cc14651b36ca851fef1a
+Government Cave,,,1250,,1,US-9fbf719fddd9cc14651b36ca851fef1a
 Government Cave,,,,,,US-ff9002a0f16ff71d30f3e23fba6e3525
 Grace Ice Cave,,,,,,US-36c39acc6d9c6ce172eb25fe3f19df4c
 Graham,,,22,,,AU-ASF-U66
 Grand Tunnel,,,590,,,CM-2772fddb262009cc2e32e43a368143f4
-Great Owl Cave,,,158,,,US-c2213e9f022a9dc1a548019cfd523b31
+Great Owl Cave,,,158,,,US-785f59f433df9497c340e19a94ff968a
 Greeley Cave,,,103,,2,AU-ASF-4U-11
 Greeley's Pit,,,20,,,US-db41c99bba6e9dc5cef6b96d3454622c
 Gremlin Cave,914,914,677,,2,"US-NSS-631-16A,B"
@@ -1196,18 +1201,20 @@ Grettishellir,,,400,,,IS-97535b1768920ff09c916c78183a5aeb
 Grieta de Lentenech,,,28,,,EC-d7d7e28eb54248e38eae51ce12a0fbba
 Grindavikshellir,,,231,,,IS-765f17fd62f7bc7052413ec2cce26dc5
 Grotta degli Inglesi,,,566,,,IT-f9860bf34fc48517ddcca951c64c17bf
-Grotta dei Lamponi,1750,1750,784,,,IT-SICT-1019
+Grotta dei Lamponi,1750,1750,784,75,,IT-SICT-1019
 Grotta dei Tre Livelli,1625,1675,1150,304,2,IT-SICT-1004
 Grotta del Santo,1043,1043,924,44,,IT-SICT-1032
 Grotta del Lago,2130,2130,288,41,,IT-SICT-1196
-Grotta del Labirinto,,,1500,,,IT-be8ad3ffe25c102abda0adf9e3736f2c
+Grotta del Labirinto,,,1500,,,IT-6373cb133e94f73731dd87d5bc74ccb4
 Grotta dell Intraleo,1325,1325,,,,IT-SICT-1007
 Grotta di Serracozzo I,1840,1840,350,60,,IT-SICT-1065
 Abisso Profondo Nero,1900,1995,1170,174,,IT-SICT-1084
 Grotta degli Archi,2010,2075,284,73,,IT-SICT-1005
+Grotta delle Palombe,1575,1575,200,,,IT-c9c1b84cbd2ed569370e240230015b3a
+Grotta Catanese I,905,905,145,27,,IT-SICT-1037
+Grotta dei Ladri,1547,1547,59,4,,IT-SICT-1117
 Grotte d'Ebongue,,,314,,,CM-ec370cc9568d57f8eac8b93d9f9c0263
-Grotte de la Cantoniera,,,,,,IT-b1ed035b02b0f4cc7983ac492917b539
-Grotta del Gelo,2030,2030,120,,1,IT-b94660e81c51db8b325344b25b4d85ec
+Grotta del Gelo,2030,2030,120,,1,IT-941523a74f6d7ac020ca94c67f5000b2
 Grotte des diffluences,,,80,,,CM-ba0722bc15dd2d3273e389540e928953
 Grotte Gaskin,2855,2855,1175,,,CM-81496a39187762129375d8e408d6e161
 Grotte H. Meyer Superieure,5250,5250,9,,,TZ-e2dde6479f421e928a35abab2ed925f9
@@ -1228,7 +1235,6 @@ Gruta da Ribeira do Almeida,,,62,,,PT-758bc49e3f328194ff75edc814c9ae8c
 Gruta das Torres (Grotto of Towers),300,300,5439,179,,PT-640470b8eb233bcb051f86744fe7d327
 Gruta do Chocolate,,,110,,,PT-52df7954df6f315a4f1d01b78986cac1
 Gruta dos Balcoes,422,422,4421,,,PT-f5d6c4301a94d06a4c9035a47c76ab1a
-Gruta dos Fumelos,,,,,,PT-30b7e49e12e0732984fd69528b08a813
 Gruta dos Montanheiros,785,785,1805,,,PT-2d8c31b6944232b7d7387cea64112507
 Gruta da Capucha,75,75,321,,,PT-edca3606ea2d8cc4d9932f02b0ee5b54
 Gruta Huella de Pollo Pequena,,,26,,,US-48de0a0714ccd13c870dc85331b6dcb5
@@ -1240,7 +1246,6 @@ Gyoja,1190,1190,93,,,JP-85a4168f3f0ad1d7b0fe422ee60c38db
 Gypsum  Cave,,,4316,,,US-a72ed93dbc0738b4e6ea236de4ce3e66
 ,,,15,,,AU-ASF-3H-62
 Guano Grotto,,,9,,,AU-ASF-3H-63
-,,,,,,AU-b1a41012ef3539e5fef46b8652ff5fbc
 Tree Root Cave,,,20,2,,AU-ASF-3H-65
 The Forge,,,10,3,,AU-ASF-3H-67
 Hachijo Fuketsu No. 1,136,136,1404,,,JP-abab840666375df0acc9a2ed8a95a30b
@@ -1290,8 +1295,8 @@ Honopu Arch,,,121,,,US-2dfcf0052dfaf47d5bd03883b0e3443a
 Hopkins Chocolate Cave,,,428,,,US-564725eed248fb6cf06c0405c60de66b
 Hornito III Vent,,,35,,,KE-1214ff868bb8f09b5025a722f701e592
 Horse Cave,,,401,,,US-fc089f51233479bf6619578d850e9454
-Horseshoe Cave,,,,,,US-0af9c4f10a6774c696745c84fdbad151
-Hot Hole,,,172,,,AU-ASF-U51
+Horseshoe Cave,,,,,,US-cda24d134cd2dd80281834cd73faf31c
+Hot Hole,760,760,172,,,AU-ASF-U51
 Hot Tub Cave,,,91,,,US-de8c6b4f74bda587981e685e468e0fa7
 Hourglass Cave,,,884,,,US-b7f7463110e0fa09676015e10d017b9c
 Hraunbrarhellir,,,70,,,IS-16a2bd525082a8344f1d3ca081737a42
@@ -1319,8 +1324,8 @@ Impossible Cave,,,,,,US-964f23890ab35dc2cfdf72e9d6df2258
 Incline Cave,,,,,,US-57c82916e4c1a294602599c3c5d69c65
 Indecision Cave,,,75,,,US-71a70c50126e6e76d23ff57c19200985
 Indian Cave,,,92,,,US-ffc4a428573c0df412e11697a5e8d996
-Indian Dome Cave,,,,,,US-9618fff9e100c969cc0a32fcbee12708
-Indian Tunnel,,,,,,US-edde5b3f14fcf17af29055c953434755
+Indian Dome Cave,,,,,,US-3ef51bc5f0ea3e4cf705354442114b6d
+Indian Tunnel,,,666,,,US-edde5b3f14fcf17af29055c953434755
 Inner Dome,,,68,,,AU-ASF-U41
 Insect Cave,,,58,,,AU-f0404ba115e9a29abcc0f141dc43a989
 Insignificant Redmond Cave,,,6,,,US-b3a770a7d9f9b1b6b737f3a53a9337d7
@@ -1374,9 +1379,9 @@ K-2,,,400,,,IS-23399e1b04b90741a0a9339ee5c3d4a8
 Ka'eleku Cavern,,,2852,,,US-d5287cb178aa2aa51afd5cd608f64f00
 Kahawaihapapa Cave,15,15,1000,,,US-730365202e110f38d3bf3c767a8493f9
 Mahiehie Cave,,,,,,US-e5fefa291ba69ba37605abe252c4a04b
-Kahf al Mut'eb,1175,1175,123,,,SA-c4d750f993dba0d683ffe6c1362c0796
+Kahf al Mut'eb,1175,1175,123,,1,SA-c4d750f993dba0d683ffe6c1362c0796
 Kahf Al Ashbaah,1175,1175,300,,,SA-564aee6d6f98918371467f1024cf8a66
-Umm Jirsan Lava-Tube System,,,1481,,,SA-d908fbc51d45a3bf80743b53e62ee560
+Umm Jirsan Lava Tube System,1185,1185,1481,,,SA-036c7b8e6999903ccfb524beec58c060
 Kaleto I,,,30,,,BG-414c3c2902c233646b0ca70b8d5e2573
 Kalmanshellir,,,3000,,,IS-a42440e8bbd2f2f925b73c59318affcf
 Kamehameha Cave,,,57,,,US-cb45e3169bf0293607e86730e79e77b8
@@ -1601,7 +1606,7 @@ Moonshiner Cave,,,148,,,US-3808f82eaa149c602042aaa9f83d7e58
 Moonshiner's Cave,,,82,,,US-ce047b7d3e2a44f263b213aab60064c2
 Mosquito Cave No. 2,,,18,,,US-f1997e1af067f1a214d01af6c851c8f1
 Moss Carpet Cave,,,,,,US-5524ffc9edf5c220e97d8a31ca496c08
-Moss Cave,,,,,,US-67bd329964d108b354a92ed9c44eef2e
+Moss Cave,,,,,,US-812df6f9f935273ffe7c4386f181bdfa
 Moss Cave,,,390,,,US-d95190735a59541e2a6343ecdd2106a7
 Moss Cave,,,8,,,US-55ba0a65dc911886feca61df7cec527c
 Mossy Fern Cave,,,300,,,US-5575f065f29d12462f5eced964ff47f9
@@ -1637,14 +1642,13 @@ Narusawa Komori Ana No. 1,,,69,,,JP-69bc401425eae91b1a10ff6d640d45d1
 Narusawa Komori Ana No. 2,,,70,,,JP-c21e70e71dacb475750e22cdbb2e9fde
 Narusawa Komori Ana No. 3,,,40,,,JP-cd13a9fe7ae8535894f876295ff408b9
 Narusawa Komori Ana No. 4,,,48,,,JP-75ab7cfed0ee583b41a2261d1660a186
-Nasty,,,127,,,AU-ASF-U46
+Nasty,670,670,127,,,AU-ASF-U46
 Natural Bridge,,,47,,,US-462b1943a7088e774987ad35fcef1c84
-Natural Bridge Cave,,,,,,US-2f47e3290d5416775f51c39f28e786a9
+Natural Bridge Cave,,,,,,US-123b465628b458d67cb40f835e751389
 Ntthagi,,,400,,,IS-efe20da503d95b931b5cff49bfcac2b8
 Needles Cave,,,,,,US-6dad32b40cd2785b059aa4bef43a960b
 New Cave,,,2179,,,US-c95ddeec5621d4f67cff7112174d0f22
 Ngumut N' Gai,,,155,,,KE-a6c3a768cb822ffc599c22d20e894a8d
-Nice Cave,,,,,,US-c124712cfd1f3ff9df9740dd954ca5b3
 Nielsen's Cave,,,30,,,US-b1961b1a46ce6c519d9499b9e934cee7
 Niskanen Cave,,,364,,,US-b4fc8bc9df84e1a562bc6c27e39d3549
 Niu Burial Cave,,,100,,,US-5e4b1f1843551fb8a5868f3da902cc05
@@ -1656,7 +1660,7 @@ No. 30 Gavin St.,,,,,,NZ-76ac42564a6dbef1decf17efc0f4c7d1
 No. 81 Mt. Royal Ave.,,,,,,NZ-c3ea1a8e4ac61dc1e90931fc9611c5bd
 N Hole,,,,,,US-899105ec1b9a149c64754efdf9115b11
 North Bend Cave,,,,,,US-89553e9cffbf46bb7348cf9d64ae58f1
-North Fork Cave,,,140,,,US-23db7216da92d270e0d1313ae5c15424
+North Fork Cave,,,140,,,US-e8bca70ad26fb765f40c371ae19df913
 North Island Cave,,,68,,,US-0676c41fa1f85ee29c401687e04a6d52
 North Tower Cave,,,123,,,US-d0aa7a74148854a0f5a3a9c5f867881b
 Not Much Cave,,,,,,US-NSS-611-67
@@ -1720,11 +1724,12 @@ Peterson,,,102,,,AU-ASF-4U-15
 Peterson Ridge Road Cave,,,74,,,US-c4321063dfe92363dd666003d3c9d556
 Petite Riviere Cave,,,665,,,MU-4233c5a258d6c847ba5b415283149269
 ,,,520,,,MU-45016184f394d9e0c2f7244d7fcaf20a
-Pont Bon Dieu Jardin Cave,,,400,,,MU-f9034ce835d3d00692a0379324781128
+Pont Bon Dieu Jardin Cave,,,392,,,MU-f9034ce835d3d00692a0379324781128
 Camp Thorel Cave,,,1015,,,MU-c3c912acc6777f4b2b3dcf3f15b2ed4e
 Trou Hirondelle,,,442,,,MU-3cd3a74d1851048892d0c39ee4f6c7f8
 Surinam Cave,,,,,,MU-c8fe9e4e1ddf6e1414eddd57fdd3b016
 Twilight Cavern,,,570,,,MU-PR18-30-31
+Princess Margaret Cave,,,500,,,MU-e35fbb66adc4c187bc495f5dcd957808
 Pica Ice Cave,780,780,15,,,US-60b29355765785e141fbd795751685ba
 Pickard's Sink,,,580,,,US-NSS-633-08
 Pickings Cave,,,1844,,,US-307c46f47486fef5fc4ca00fabb616e8
@@ -1735,11 +1740,11 @@ Pigeon Cave,,,300,,,US-a748d801d4565fe324996e683bf68d62
 Pigeon Hole,,,,,,US-72241daf5ad4a5781eac4c7aca791708
 Pillars of Hercules Cave,,,509,,,US-ade65fcb1c5442616f5fa5bf114f16dc
 Pine Martin Cave,,,46,,,US-e44d76f87e9fd684fcd8a28fe4ee625b
-Pinwill Cave,,,560,,,AU-ASF-4U-17
+Pinwell Cave,850,850,560,,,AU-ASF-4U-17
 Pioneer Well,,,400,,,US-7b97a6520fe4e38677200686bc2b14aa
 Thjohnappahellir,,,274,,,IS-0234271b4c09c57f21638ceda5b84ce1
 Plains Cave,,,,,,KE-b7bcf9c5a8f3d9e57bbc50ffa2343943
-Pluto's Cave,,,805,,,US-9759eba242564d35fa49924f874d47f2
+Pluto's Cave,,,805,,,US-37299922795b14d32655a9da8577ad33
 Poacher's Cave,,,,,,KE-c64af97edc64dae164c5768999079f67
 Polipoli Cave,,,914,,,US-04a332a3301e3971429c2e60b47687d0
 Pond Cave,,,152,,,US-5f02dea6f31ad817b933dc0afd0d4be3
@@ -1810,7 +1815,6 @@ Ring Cave,,,77,,,US-7c3347c472cb8b517dea8d64fbc5fe16
 Ringleader Cave,,,62,,,US-0fcc59b59ef34d84081d8e4a2d50145e
 Risahellir,,,70,,,IS-94b187d486bc40fcc500de4e1466482d
 Rjupnahellir,,,,,,IS-db1034c0b82813d1b79d9b3569a970ae
-Road Cave,,,,,,US-c0f6dc2c44d267acde21d5c32b48f590
 Road Cave,,,220,,2,AU-ASF-4U-28
 ,,,,,,AU-ASF-4U-29
 Roadcut Caves,,,234,,,US-908af977956196cedc6bb175987ff1c6
@@ -1899,7 +1903,6 @@ Sign Cave,,,262,,,US-917959f11289e657c42edc2edbc8d590
 Signal Flag Cave,,,255,,,US-97df809c523a1027c9fa5bc95a0c9baa
 Silent Night Cave,,,,,,US-7fabd478ef6377749a4ca7b127206ee1
 Silver Cave,,,600,,,US-914e7ec6c327ddfbc0ddf25f267df4ee
-Six Mile Hill Cave,,,,,,US-cb2f525f624e357eaa45f561aa53107e
 Skamaniac Cave,,,1074,,,US-b01442061892a561edf755e8a6e4f0cf
 Skeleton Cave,,,1042,,,US-54e897dda7652157d670e2d1a30fe9a2
 Skeleton Cave,,,43,,,US-d500c95813c6ad153e2cfe0b7fcbefb4
@@ -1927,13 +1930,12 @@ South Ice Cave,1530,1530,280,,,US-adc4f02585a0a21689852812c09c7fa6
 South Labyrinth Cave,,,1134,,,US-4827e009a14bf69104816a9f72f797c6
 Speaking Tube,,,25,,,AU-ASF-U62
 Spear Point Cave,,,173,,,US-3a40e2691ed75a3da857114dd85bef80
-Spider Cave,,,,,,US-67b0644338f7ee8d957b775957811094
 Spider Cave,,,271,,,US-cedb81248b9e7404f30855cc489d0e6d
 Spider Moth Annex,,,139,,,US-77e0449aa5f043c26b35cde3b0807e39
 SPJ,,,396,,,US-ba33eae9863b49ac633a8f8b311a7884
 Splash Cave,,,91,,,US-f5e44eb7ca09dc273f49c45a71880f09
 Squeaking Pika Cave,1027,1027,,,,US-65729a6ccf6631bce237d2ae5e25f948
-St. Pauls Cave,,,30,20,,AU-ASF-4U-5
+St. Pauls Cave,,,30,20,,AU-ASF-U-5
 Stairstep,,,183,,,US-f16027d278dfb108f8b6ca0df63c4f62
 Stalagpie Cave,,,1250,,,US-34a64bd11637bc171ed82bf686b0606f
 Stan's Cave,,,15,,,US-e9a6d34cf1f3939cb8fda792cf63bade
@@ -1945,7 +1947,7 @@ Stefanshellir,,,1520,,,IS-6b64a41d13ea3703bc179d5320cb7b55
 Stephens Road Cave,,,35,,,US-e97de256c83dddd923d2eaab10e04377
 Stephenson,,,156,,,AU-ASF-4U-21
 Stepladder Cave,,,91,,,US-0a33534ede43132b64981867ed295f5e
-Stevens Cave,,,70,,,AU-ASF-4U-16
+Stevens Cave,880,880,70,,,AU-ASF-4U-16
 Stevens Road Cave,,,31,,,US-5990ccfdc209d0e7e47c9e2ab118d200
 Stewart's Cave,70,70,183,,,NZ-0d7cf811032cb43b5438718648970247
 Stinking Cave,,,39,,,US-de17f20a145f3326ecf5749a4d76c966
@@ -1962,10 +1964,9 @@ Twidwell's Cave,,,90,,,US-efc365ae80a4d5a7f76529e75ab43bd0
 Stubur,,,15,,,IS-8dabbc37a59e0b4df12a7a677d6ed372
 Subashiri Tainai Cave,2630,2630,20,,,JP-fb81f7b60d778c095ebbb0da349e3265
 Sugar Pine Butte Ice Cave,,,130,,,US-d9d3bc1bb4846344daf554cde39ea195
-Sullivan Cave,,,,,,US-28ff6f91f8a04f81334a98e90a4233a5
 Sunbeam Annex Cave,,,46,,,US-18283b803f01615852d03bf86ea58854
 Sunbeam Pit,,,147,,,US-95a56113fbaff505aca690b74924705f
-Sunbear  Cave,,,,,,US-bc06cee13d1d838e28d5ff52a93cf2fa
+Sunbear Cave,,,,,,US-6d7defc2cd1791a47f33adcd1ce68538
 Sunnyside Tick Cave,,,44,,,US-c66cdd8c5916219b51a78d3d83aaedbf
 Sunset,,,30,,,AU-ASF-U54
 Sunset Cave,,,370,,,US-cd1a140a74f1e254267c60c2f495698a
@@ -1983,7 +1984,7 @@ Symbol Bridge,,,45,,,US-149b7919f8a1853b897a65a8909ac20d
 Pulai Basalt Cave,,,151,21,,HU-0aeca23e8728790340855f4667e709ca
 Tadpole Cave,,,,,,US-4753e29926a30f3773cd880ed7464f1a
 Takeno Ana,,,130,,,JP-632d0db9ac75e74b25d2b79daa9a69c1
-Taylor Cave,,,108,14,,AU-ASF-4U-4
+Taylor Cave,950,950,108,14,,AU-ASF-4U-4
 Trinuk-i-ana,17,17,80,,,JP-bd80637c3f969428d450c15dbe1793e3
 Tshi-ana,25,25,40,,,JP-9050fd955aca07ce7dfd913a5b53fb9f
 Tea Cave,,,79,,,US-49c39c7291a3b41c4118f188c709e0db
@@ -1999,7 +2000,6 @@ Temple of Doom,,,50,,,AU-ASF-U48
 Thanks Cave,,,915,,,US-7d95f8a2c9f3d61a5b9e38979d5ae342
 The Den,,,18,,,US-e372fd311a81ec03a04fa45a7f195581
 The Goblet,,,21,,,US-6280aef3e61d84a27a320f2f9c9ef6ba
-The Hookworm,,,,,,US-161efe61d1da1deea5fecc8adccfb011
 The One Frank Missed,,,,,,US-c6627d7f8d9a72885b1e22b0854316fd
 The One That Goes,,,,,,US-10b4a66e6750a9f209a252f3daf37266
 The Puka Cave,,,305,,,US-f652817db24ab2dd2602211c89735a50
@@ -2014,7 +2014,6 @@ Three Way,,,133,,,US-a5e9db278af026b7d96e5bbe49933500
 Throughway Cave,,,60,,,US-a01f2f1f5ada73ac24854dae874912c6
 Thunderbolt Cave,,,781,,,US-2f0875c60bc99d612b889cab538b65f2
 Thurston Lava Tube,1200,1200,593,20,,US-7758ede1bf2895fde3e033888aca6e8b
-Tick City Cave,,,,,,US-30d9b4f2a2583e55fb061d28a6017878
 Tickner Cave,,,442,,,US-601274dfc4397b0cd0b650046fe920e4
 Tickner Chimneys,,,800,,,US-c8dad7208ddefa579c2ab06e0abbd94e
 Tie Cave,,,24,,,US-2399b50b34ee21eb23ca6923fcb01109
@@ -2032,10 +2031,9 @@ To-9609,390,390,97,3,,RU-5536/16010-4
 To-9610,390,390,185,5,,RU-5536/16010-3
 To-9611,390,390,22,2,,RU-5536/16010-2
 To-9612,410,410,65,3,,RU-5536/16010-1
-Todd's Cave,,,,,,US-4a6d77741d5af88e3c4357e5f6429094
 Kosrae Island tube,,,,,,FM-a1bb213e0b62bc3a27cf90e160de43fc
 Tol Island tube,,,30,,,FM-619f9e3c12d4d97894e177de4955f275
-Tom,,,34,,,AU-ASF-U59
+Tom Tom,,,34,,,AU-ASF-U59
 Tom Thumb Tunnel,,,,,,US-dcc5842612d8a5f55fd213338e1f9ff0
 Tomb North,,,,,,US-39e28514031f77f8cefb37c77b498db3
 Tomb South,,,,,,US-550c23587012189bb6d172751a7f96ef
@@ -2059,8 +2057,13 @@ Cueva de Los Pescadores,,,900,,,ES-71c8e269df29359cdc72c936f0b8f47b
 Cueva Nazaret,,,150,,,ES-LZ/TG-4
 Cueva del Covon o de la Chifletera,,,300,,,ES-LZ/YZ-7
 Tunel de Los Piratas,,,1200,,,EC-00a0fb8cb55cd63cf037547dcf4ab5d6
+The Shaft,,,,,,AU-ASF-3H-8
 Tunnel Cave,,,45,,,AU-ASF-3H-9
+North Pole Cave,,,40,,2,AU-ASF-3H-51
 Tunnel Cave,,,20,3,,AU-ASF-3H-66
+Carmichael Cave,,,605,,,AU-ASF-3H-70
+,,,,,,AU-ASF-3H-106
+,,,,,,AU-ASF-3H-108
 Tunnel No. 2,118,118,,,,CL-a2aff3f2edb2a466a71928433fe45eea
 Tunnel No. 3,108,108,,,,CL-74c94758ca09e70f64f193f86ed904e6
 Tunnel No. 4,100,100,,,,CL-587461b6d86f577d3db8e4f44b866f51
@@ -2073,8 +2076,12 @@ Twin Skylight Cave,,,,,,US-NSS-611-106
 Two Column Cave,,,21,,,US-d9a0c816d148808709f7c537f9bc1250
 Uba Ana,750,750,123,,,JP-fa59553d826ee4cbf0eb8c33d995cb36
 Ubuvomo bwa Nyrabadago,,,1500,,,RW-9dbe67472fddd40decb1f2f99c499fab
-Ubuvumo bwa Musanze,,,4560,210,,RW-52b9d30d023628b22bcb6c0554c50eda
-Ubuvumo Manjari deux,,,1660,58,,RW-b6f316fb969c59e43bb0c8ace0dc599b
+Ubuvumo bwa Musanze (main segment),1870,1870,1600,210,,RW-5a6dc0bff7e2d2eff301e54a5a40f08e
+Ubuvumo Rwego [Grotte des Commandos],2314,2314,1952,,,RW-ddec8b3640f82b5a4509f24b250337ae
+Ubuvumo bwa Musanze (south segment),1870,1870,1200,,,RW-796e9743d68fe2154760b67f0ca0ff9c
+Ubuvumo Manjari deux,2250,2250,1660,58,,RW-b6f316fb969c59e43bb0c8ace0dc599b
+Ubuvumo Bwibihonga,2341,2341,4530,,,RW-ad6913bc852c3eaa7c67364871a720fc
+Ubuvumo Nyabikuri-Rudi,2212,2212,3384,,,RW-615ce4d4a7c8146dbd4ffea4316eeea9
 Umi'i Manu (Bird Trap),,,3887,570,,US-88eec3a2d2821103e5e0215a178df08b
 Shangri-la Cave System,,,,,,US-8e94bcc32530ea3ac07071731690997b
 Petrel Cave,,,,,,US-09344e5f227b48f6fcc34e9180dc86a9
@@ -2094,7 +2101,7 @@ Puka Moa,,,,,,US-c1b8e393f3978c46c40a7e48dcec77df
 Lower Kipahulu Valley,,,,,,US-24bd8f5aa74a90050ce50d2bf0ecbd73
 Upper Nahiko Road Cave,710,710,23,,,US-09477995cf96ca987af0e43c26933627
 Upper Oozing Red Puka,,,80,,,US-0d4538855cf274c88a135887ffe8aeac
-Upper Secret,,,150,,,AU-ASF-U67
+Upper Secret Cave,825,825,150,,,AU-ASF-U67
 Upper Uilani Cave,,,,,,US-1df0ae995ab857cf87b2dbcb25578a59
 Upper Wananalua Cave,,,100,,,US-c4b95e514a309e064d5c4cd297389477
 Uzura Ana,733,733,820,,,JP-b89a5b7c7bb79206926375559f8f3f48
@@ -2107,6 +2114,7 @@ Veltingur,,,155,,,IS-9956829a34603d7ce97920cbfeb47b83
 Volunteer Cave,,,60,,,US-9375b2483ca5ab4b35898953284e62b9
 Vonbrigdahellir,,,155,,,IS-82bad3d8a8a90fa2cd3ab69f4b462d28
 Vorduhellir,,,350,,,IS-e835fead92367946a43d1a02ea2a5b77
+Leidarendi,,,900,,,IS-3f5623c8107b939976af102b7c68fa76
 Vulture Cave,,,18,,,US-1c467b5209f538a0cd01eee1fd35da25
 Wa Hol Gul,200,200,2066,,,KR-952d93bb1cbec19f369cb67ada5882ec
 Wahoi Valley Trench Cave,,,30,,,US-8032e350fb2a88c6ff2f8c08ba551d64
@@ -2136,11 +2144,12 @@ West Vent Cave,,,,,,US-bd41312cfc7fa7d5067cef77359155c3
 Whiskey Cave,,,40,,,US-2c0476c5f2c68098ad366505cc38659e
 White Arrow Cave,,,,,,US-e3611e3007ed676ed12c5d54c0d3f1b4
 White Horse Cave,,,,,,US-0c0fc5f467660d5542c8921ef3d25237
-White Lace Cave,,,,,,US-5d183ac92de6dfdb49fd659547de1989
+White Lace Cave,,,93,24,1,US-5d183ac92de6dfdb49fd659547de1989
 White Mountain Ice Cave,,,,,,US-ad4595874a91e4d2f6ff4986a53e32b4
 Wilcox Cave,,,400,,,US-b43452e275b0f38c335a0dc48126e244
 Wildcat Cave,,,,,,US-7dbe50369e9b1139134b084af34597f6
 Will's Cave,,,,,,US-60a4d1a2879ed28aa60e90e284c4a941
+17 Mile Cave,,,,,,US-71f004f73c0e66ff5a5ca821f576409a
 Williams Cave,,,38,,,US-d1ec028ddeae8b0a6a126a6a2d5168a7
 Wilson Butte Cave,,,133,,,US-03e78154d40f9b4dea3a503321a591d8
 Wilson Cave,,,73,,,US-62d7dc82c15d3dda609d26d430da52aa
@@ -2150,8 +2159,8 @@ Wind Cave,,,1170,,,US-da5dbc4fdb0d592bf9c15731feaa6eef
 Wind Tunnel,,,293,,,AU-ASF-U42
 Winding Sidewalk Cave,,,245,,,US-c4b372e88c6e9c2b10ecd9503a57c148
 Wiri Lava Cave,38,38,280,,,NZ-4c6965e28e0475ea1867439530f66238
-Motor Holidays,30,30,114,,,NZ-bc578804fad2ab3fcbf5ec2432cdf066
-Wishing Well,,,104,,,AU-16673bc0fa17a708c51a47409e431d8d
+Motor Holdings,30,30,114,,,NZ-eda27914cf81ae6dacc29ebacfe4b589
+Wishing Well,750,750,104,,,AU-ASF-U52
 Woodsy Owl,,,137,,,US-b201575b57f09a2299295df8eb08ea7d
 Wyllie Street Cave,,,,,,US-80fc451e893e1a343061f8135cb14f0b
 X Cave,,,914,,,US-16facf879a9d372f703ad52c405ae404
@@ -2179,9 +2188,9 @@ Hashemite University Cave,787,787,231,10,,JO-15940e14a78559a2ce005af34998cfc8
 Al-Ameed Cave,777,777,208,4,,JO-1446e8f0fb19c03c5228531875f14b54
 Abu Al-Kursi East,883,883,154,12,,JO-561f61ff9d2f4de5f49f652d4efc62f8
 Al-Howa,939,939,97,11,,JO-84ee850e027cf691bdd8fd07ad191abc
-Kitum Cave (Place of the Ceremonies),,,,,,KE-947553705087f825d2bc43b30559d44a
+Kitum Cave,,,200,,,KE-7ef78ca5905cc51fcc33cbcfbd5a07ae
 Makingen Cave,,,,,,KE-17a7ec5bb3a4fef90469e7a3d20b4b59
-Chepyanili Caves,,,,,,KE-58a3cccde239910a788558a7059fa037
+Chepnyanlil Cave,,,,,,KE-99e473eee6531cb911380eae6cde27d7
 Dangcheomul Cave,,,110,,,KR-17760c616f7c2f9bc9ab03022881d574
 Yongcheon Cave,,,3360,,,KR-8cb1d7d74d15eeabe44af15833c41091
 Goncharov lava tube,1277,1277,24,3,,RU-b9210a2a6482c0a043695a060cba678c
@@ -2263,6 +2272,38 @@ P5 (PT07),,,204,4,,VN-be3ad1093a6701e009bb7c49a0595471
 "P10E, P10W",,,160,5,,VN-a06310ea728f1ed7fa1c5fd64276aee1
 PT06,,,200,5,,VN-932941365516bf3c11fc17663a0376ac
 T1W,,,303,16,,VN-39c6d104bc3e95298c9ac1a6d9efc9a4
+Battlefield Cave; Square Tube Cave,,,70,,1,US-N010
+Leap of Faith Cave,,,42,,,US-N130
+Ratty Loft Cave,,,205,,,US-S140
+Rhizoplaca Cave,,,12,,,US-S370 
+Hypotenuse Cave,,,45,,,US-S299 
+Pepperjack Cave,,,43,,,US-S410 
+Bufo Boreas Cave,,,47,,,US-S360 
+Volpes Fulva Cave,,,15,,,US-S340 
+Rocky Horror Cave,,,37,,,US-S310 
+Ahoyhoe Cave,,,16,,,US-S271 
+Grassy Hole Tube,,,16,,,US-S237 
+Summer Home Cave,,,21,,,US-S236 
+Cobble Pot,,,35,,,US-S234 
+Mossy Coffin Cave,,,20,,,US-S420
+Whack A Mole Cave,,,13,,4,US-S412 
+San Marcos Cave ,,,60,,,US-S380 
+Udongo Cave ,,,26,,,US-S390 
+Teton Perdu Cave,,,20,,,US-S350 
+Dalmatian Cave,,,116,,,US-S330 
+Vespertine Cave,,,205,,,US-S320 
+Catbox Cave,,,50,,,US-S290
+Malibu Cave,,,128,,,US-S280
+Orange Peel Cave,,,28,,,US-S240
+Finale Cave,,,81,,,US-E610
+Rock Cress Cave,,,20,,,US-e5b12ed0308d616168249e467b3542bb
+Lucky Star Cave,,,145,,,US-E370
+Meta Stella Cave,,,49,,1,US-E368
+Plague Pit,,,68,,,US-E505
+Liberty Cave,,,60,,,US-E650
+Geritol Grotto,,,14,,,US-B160
+Arroyo Cave,,,83,,,US-B295
+Subway Cave,,,400,,,US-c20d1658d2e193d1e63f5467251da322
 Marius Hill A,,,6402,,,XO-9a858b37208a82e1cb8e4d23a71289d8
 Marius Hill B,,,4137,,,XO-a01b11ce25463e8417c6bcacff6f396f
 Gruithuisen,,,27244,,20,XO-f6ad8dd2e96a835f0462047b498156ca

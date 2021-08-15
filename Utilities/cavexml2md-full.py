@@ -71,14 +71,14 @@ for item in root.findall('record'):
     try:
         pcn = item.find('principal-cave-name').text
         if pcn:
-            buffer += '**' + pcn + '**'
+            buffer += '**' + pcn.strip() + '**'
     except:
         pass
 
     ocn = item.findall('other-cave-name')
     str = merge_elements(ocn)
     if str:
-        buffer += ' ' + str
+        buffer += ' ' + str.strip()
             
     cid = item.find('cave-id')
     if cid is not None:

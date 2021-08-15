@@ -39,7 +39,7 @@ def output_one_line_md(item):
     pcn = item.find('principal-cave-name')
     if pcn is not None:
         if pcn.text is not None:
-            f.write('**' + pcn.text + '**')
+            f.write('**' + pcn.text.strip() + '**')
     
     ocn = item.findall('other-cave-name')
     outstr = merge_elements(ocn)

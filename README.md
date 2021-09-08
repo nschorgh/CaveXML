@@ -24,9 +24,10 @@ Auxiliary files:
    `Utilities/cavexml2md-full.py` (creates allcaves-database.md)  
    `Utilities/CaveXML2rdf.xquery` (converts database to RDF/XML using XQuery)  
    `Utilities/CaveXML2rdf.py` 	  (converts database to RDF/XML using Python)  
-   `Utilities/cavexml-auxiliary.py` (creates auxiliary information from database entries)  
-   `Utilities/cavexml-warnings.py`   (issues informative warnings)   
-   `Utilities/cavesystemfinder.py`   (connects cave branches with cave systems)  
+   `Utilities/cavexml-auxiliary.py` (creates auxiliary information from database entries)
+   `Utilities/cavexmlsearch.ipynb`  (Jupyter notebook that peforms queries)  
+   `Utilities/cavexml-warnings.py`  (issues informative warnings)   
+   `Utilities/cavesystemfinder.py`  (connects cave branches with cave systems)  
    `Utilities/filter.xquery`      (creates simple filtered list of entries using XQuery)  
    `Utilities/reorder.xslt`    	  (sorts elements within each record)  
 

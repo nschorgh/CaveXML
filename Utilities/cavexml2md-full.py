@@ -134,11 +134,14 @@ for item in root.findall('record'):
 
     mali = item.findall('map-link')
     if mali:
+        nr_maps = 0
         for j in range(0,len(mali)):
             uri = mali[j].text
             if uri:
                 ff.write("[map](" + uri + ") ")
-        ff.write(MDLB)
+                nr_maps = nr_maps+1
+        if nr_maps>0:
+            ff.write(MDLB)
 
             
     roty = item.findall('rock-type')

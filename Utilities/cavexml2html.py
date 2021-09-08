@@ -5,14 +5,19 @@
 
 import xml.etree.ElementTree
 from cavexml import *
+import urllib.request  # only needed if database is pulled from internet
 
-# Enter name of XML database here
+
+# Enter name of local XML database here
 #tree = xml.etree.ElementTree.parse('test.xml')
-tree = xml.etree.ElementTree.parse('../allcaves-database.xml')
+#tree = xml.etree.ElementTree.parse('../allcaves-database.xml')
+#root = tree.getroot()
 
-
-    
-root = tree.getroot()
+# Alternatively, get XML database from internet
+url = 'https://raw.githubusercontent.com/nschorgh/CaveXML/master/allcaves-database.xml'
+site = urllib.request.urlopen(url)
+data = site.read()
+root = xml.etree.ElementTree.fromstring(data)
 
 count = 0
 

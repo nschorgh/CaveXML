@@ -23,7 +23,7 @@ United States of America - California; Siskiyou County [**Upper Ice Cave** ](all
 United States of America - Hawaii [**Arsia Cave** Arsia Ice Cave ](allcaves-database.md#US-c27a141b3ed15774f8fce43ce9287ed0)  
 United States of America - Hawaii [**Mauna Loa Ice Cave** ](allcaves-database.md#US-b06fbb3d2b569e50f6cddc95cfb1b0f7)  
 United States of America - Idaho; Butte County [**Boy Scout Cave** ](allcaves-database.md#US-fb672da215b7a63a8da8805a22311591)  
-United States of America - Idaho [**Niter Ice Cave** ](allcaves-database.md#US-4e939cee51ff8afebc0093419af01cc7)  
+United States of America - Idaho; Caribou County [**Niter Ice Cave** Grace Ice Cave ](allcaves-database.md#US-b208ee0fc5ef388a9c5b8a0010eef4e8)  
 United States of America - New Mexico; Cibola County [**Candelaria Ice Cave** Bandera Volcano Ice Cave; Zuni Ice Cave; Winter Lake ](allcaves-database.md#US-5ea7e414ce897fe0f7cd21f7699f3b40)  
 United States of America - New Mexico; Cibola County [**Dripping Lava Cave** ](allcaves-database.md#US-c87f5433fb645e7fc29ae96e9e076a7f)  
 United States of America - New Mexico; Cibola County [**Frozen Matt Cave** ](allcaves-database.md#US-4ca0e55da61505e5bc61ba291c2cdabc)  
@@ -36,3 +36,4 @@ United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcav
 United States of America - Oregon; Deschutes County [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-0aefe1c8bb5fb60a31e99240d97c2a55)  
 United States of America - Washington; Skamania County [**Guler Ice Cave** Ice Cave; Campground Ice Cave; Mount Adams Ice Cave; Trout Lake Ice Cave ](allcaves-database.md#US-f3ebfa41578dcd316016a2b8094666ae)  
 United States of America - Washington; Skamania County [**Hoarfrost Cave** NSS-633-18](allcaves-database.md#US-NSS-633-18)  
+

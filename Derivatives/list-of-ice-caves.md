@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 539 rock-hosted caves with perennial ice was generated from a CaveXML database.  
+This list of 540 rock-hosted caves with perennial ice was generated from a CaveXML database.  
 
 Austria - Niederösterreich [**Südkar-Eishöhle** 1826/25; 1826/26](allcaves-database.md#AT-1826/25)  
 Austria - Oberösterreich [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
@@ -508,7 +508,8 @@ United States of America - California [**U-200** ](allcaves-database.md#US-35502
 United States of America - Hawaii [**Arsia Cave** Arsia Ice Cave ](allcaves-database.md#US-c27a141b3ed15774f8fce43ce9287ed0)  
 United States of America - Hawaii [**Mauna Loa Ice Cave** ](allcaves-database.md#US-b06fbb3d2b569e50f6cddc95cfb1b0f7)  
 United States of America - Idaho; Butte County [**Boy Scout Cave** ](allcaves-database.md#US-fb672da215b7a63a8da8805a22311591)  
-United States of America - Idaho [**Niter Ice Cave** ](allcaves-database.md#US-4e939cee51ff8afebc0093419af01cc7)  
+United States of America - Idaho; Caribou County [**Niter Ice Cave** Grace Ice Cave ](allcaves-database.md#US-b208ee0fc5ef388a9c5b8a0010eef4e8)  
+United States of America - Idaho; Power County [**Crystal Ice Cave** ](allcaves-database.md#US-b33fc2fd1e0ee7830ff7605f6002b56a)  
 United States of America - Idaho [**Snow Cone** Snow Cone Spatter Cone ](allcaves-database.md#US-9c34793586092e16b66cfb8a7655fb35)  
 United States of America - Idaho [**Strickler Cavern** ](allcaves-database.md#US-8b83b776893742c5e3bebdacb4deb460)  
 United States of America - Montana [**Crater Ice Cave** ](allcaves-database.md#US-e5adad7e773ba261bf30f78657233988)  

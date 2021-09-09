@@ -50,7 +50,6 @@ United States of America - Hawaii; North Kona [**Umi'i Manu (Bird Trap)** ](allc
 United States of America - New Mexico; Socorro County [**Bat Caves** ](allcaves-database.md#US-6ed5ed4fd6a7161660eedc2a0a8afe2d) 3800m  
 United States of America - California; Siskiyou County [**Dynamited Cave** Blasted Cave; Lemai Road Cave NSS-633-50](allcaves-database.md#US-NSS-633-50) 3763m  
 United States of America - Hawaii; North Kona [**Manu Nui Cave System (Big Bird)** ](allcaves-database.md#US-c0f5b755978f70bd0f6b930f4ecd620f) 3700m  
-United States of America - Utah; Kane County [**Duck Creek Lava Tube** ](allcaves-database.md#US-cfd0a771175c0e63f237c25c87c8593b) 3674m  
 United States of America - Hawaii [**Big Red Cave** ](allcaves-database.md#US-daa5d969b70252929b780b9bbac536de) 3606m  
 United States of America - Hawaii; North Kona [**Aluminum Ladder Cave** ](allcaves-database.md#US-9f99a6fbd3f8156ab659fd6b08d52572)  >3500m  
 Kenya - Rift Valley Province; Kajiado District [**14-18 Series** ](allcaves-database.md#KE-9b7f3efde6c91bdda06602fa4c7fd849) 3500m  

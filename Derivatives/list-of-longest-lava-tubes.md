@@ -130,7 +130,6 @@ United States of America - Hawaii [**Apua Cave** ](allcaves-database.md#US-2d41c
 United States of America - Idaho; Butte County [**Arco Tunnel** ](allcaves-database.md#US-f6ad513d40d4e29984a3b278cee5bc7b) 1316m  
 United States of America - Oregon; Deschutes County [**Young's Cave** 35DS115](allcaves-database.md#US-35DS115) 1312m  
 Kenya - Rift Valley Province; Kajiado District [**10-9-6-36-37 Series** ](allcaves-database.md#KE-9f06905341f9c75a417cf5b971f5b187) 1300m  
-Indonesia - Java [**Gua Lawa** Bat Cave ](allcaves-database.md#ID-73ddd5fc058afea057db1d9d3a514f00) 1300m  
 Spain - Santa Cruz de Tenerife; Tazacorte [**Cueva del Perdido** LP/TZ-2](allcaves-database.md#ES-LP/TZ-2) 1288m  
 United States of America - Oregon [**Cody Borehole** ](allcaves-database.md#US-e26a520bea3a73a8408f4620c7b6bd16) 1284m  
 Mexico - Morelos [**Cueva de Don Marcelo** Cueva de Marcelo ](allcaves-database.md#MX-b1c85f99f96cc958d9bcc23a11d089e6) 1268m  
@@ -185,7 +184,6 @@ United States of America - Hawaii; North Hilo district [**Hanging Pack Cave** ](
 United States of America - Hawaii [**Kahawaihapapa Cave** ](allcaves-database.md#US-730365202e110f38d3bf3c767a8493f9) 1000m  
 Spain - Santa Cruz de Tenerife [**Cueva de Chiguergue** ](allcaves-database.md#ES-bf3ecc97f252cd760aab9afd3ebf1fc3) 1000m  
 Kenya - Eastern Province; Machakos District [**ABC Cave** ](allcaves-database.md#KE-a9f5c3625d13b1df6523619656a2fe41) 1000m  
-France - Reunion [**Caverne de la Riviere des Remparts** ](allcaves-database.md#FR-48ac50171e4d80a1f366bd3846ee256e) 1000m  
 Ecuador - Galapagos [**Cueva de Cerro Banderas** ](allcaves-database.md#EC-937de29ce530713319b820b074f16d68) 1000m  
 
 

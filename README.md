@@ -24,8 +24,7 @@ Auxiliary files:
    `Utilities/cavexml2md-full.py` (creates allcaves-database.md)  
    `Utilities/CaveXML2rdf.xquery` (converts database to RDF/XML using XQuery)  
    `Utilities/CaveXML2rdf.py` 	  (converts database to RDF/XML using Python)  
-   `Utilities/cavexml-auxiliary.py` (creates auxiliary information from database entries)
-   `Utilities/cavexmlsearch.ipynb`  (Jupyter notebook that peforms queries)  
+   `Utilities/cavexml-auxiliary.py` (creates auxiliary information from database entries)  
    `Utilities/cavexml-warnings.py`  (issues informative warnings)   
    `Utilities/cavesystemfinder.py`  (connects cave branches with cave systems)  
    `Utilities/filter.xquery`      (creates simple filtered list of entries using XQuery)  
@@ -47,7 +46,7 @@ For non-programmers:
 It requires a Google account and a warning message will appear the first time.
 
 For programmers:  
-The Python programs in the `Utilities/` directly serve as examples for how a CaveXML database can be loaded and analyzed within Python. Parsing functions for quasi-numerical entries are found in `cavexml.py`, which also contains many other functions useful for working with CaveXML data. The same directory also includes a few xquery scripts as an alternative to Python.
+The Python programs in the `Utilities/` directory serve as examples for how a CaveXML database can be loaded and analyzed within Python. Parsing functions for quasi-numerical entries are found in `cavexml.py`, which also contains many other functions useful for working with CaveXML data. The same directory also includes a few xquery scripts as an alternative to Python.
 
 For data creators:  
 The XML schema definition `cavexml.xsd` incorporates all CaveXML requirements. The following validates a database against the Schema:  

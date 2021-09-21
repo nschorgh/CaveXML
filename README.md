@@ -35,15 +35,13 @@ This is a pilot project to explore the capabilities of a CaveXML implementation 
 
 ## Notes
 
-`cavexml.md` describes the meaning of the XML elements used to organize the data, and restrictions for the entries.
+`cavexml.md` describes the meaning of the XML elements used to organize the data, and restrictions for the entries.  
 
-The master copy of the database is in XML format (`allcaves-database.xml`). 
-
-For non-programmers:
-* The derived file `allcaves-database.csv` can be opened as a spreadsheet, and contains a flatted version of the database.
-* The `Derivatives/` directory also contains other derived data products, such as `allcaves-database.md` where the full records can be viewed directly on GitHub. 
-* The following link leads to a search interface: https://tinyurl.com/cavexmlsearch
-It requires a Google account and a warning message will appear the first time.
+For non-programmers:  
+The file `allcaves-database.csv` can be opened as a spreadsheet, and contains a flattened version of the database.
+The `Derivatives/` directory also contains other derived data products, such as `allcaves-database.md` where the full records can be viewed directly on GitHub.
+A search interface is available at https://tinyurl.com/cavexmlsearch and hosted on Google Colaboratory.
+It requires a Google account and a warning message will appear at the beginning of each session.
 
 For programmers:  
 The Python programs in the `Utilities/` directory serve as examples for how a CaveXML database can be loaded and analyzed within Python. Parsing functions for quasi-numerical entries are found in `cavexml.py`, which also contains many other functions useful for working with CaveXML data. The same directory also includes a few xquery scripts as an alternative to Python.
@@ -54,7 +52,7 @@ The XML schema definition `cavexml.xsd` incorporates all CaveXML requirements. T
     xmllint --schema cavexml.xsd allcaves-database.xml -noout  
 
 Alternatively, various online tools can be used to validate an XML database against an XSD document.
-If you create a public CaveXML-formatted database, please let me know and I would be happy to link to it and include it in the search path.Vice versa, programmers can write tools to search multiple databases. The possibilities are limitless.
+If you create a public CaveXML-formatted database, I would be happy to link to it and include it in the search path.Vice versa, programmers can write tools to search multiple databases. The possibilities are limitless.
 
 
 ## Acknowledgments

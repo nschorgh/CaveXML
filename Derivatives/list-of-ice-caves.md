@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 540 rock-hosted caves with perennial ice was generated from a CaveXML database.  
+This list of 541 rock-hosted caves with perennial ice was generated from a CaveXML database.  
 
 Austria - Niederösterreich [**Südkar-Eishöhle** 1826/25; 1826/26](allcaves-database.md#AT-1826/25)  
 Austria - Oberösterreich [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
@@ -109,7 +109,8 @@ Hungary [**Sárkánytorok Cave** ](allcaves-database.md#HU-c77c0f76964eb363bb6d5
 Iceland - Arnessysla [**Arnarker** Kerid ](allcaves-database.md#IS-e96013a7f519f046d6564274cd105674)  
 Iceland - Arnessysla [**Búri Cave** ](allcaves-database.md#IS-42d72ec79a12b3b53f094a0557cbbdee)  
 Iceland [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-KED-01)  
-Iceland - Myrasysla County [**Surtshellir** Surtshellir-Stefanshellir Cave System ](allcaves-database.md#IS-cfd58b66d7080bc2f98c4a0c695ec018)  
+Iceland - Myrasysla County [**Íshellir** ](allcaves-database.md#IS-0be6610b5c951d4644b5dc592e0a7f57)  
+Iceland - Myrasysla County [**Surtshellir** ](allcaves-database.md#IS-cfd58b66d7080bc2f98c4a0c695ec018)  
 Iceland - Myrasysla County [**Víðgelmir** ](allcaves-database.md#IS-8b2fdd9758744f258da5018ced142dc7)  
 India - Jammu and Kashmir [**Amarnath Cave** Holy Cave; Shri Amarnath Cave ](allcaves-database.md#IN-142468c791c736bcc74e69daa1e8ca4e)  
 Iran - Alborz province [**Ghar Yakh-Morad** Yakh-Morad Ice Cave ](allcaves-database.md#IR-fac51e19eec91adebc71a052e75aaaa3)  
@@ -240,7 +241,6 @@ Russia [**Okhotnich'ya Cave** ](allcaves-database.md#RU-68878ddf99d2b9bf50b9d77e
 Russia [**Oktyabr'skaya** ](allcaves-database.md#RU-b7c9815787e166af527e60bdcd9da9eb)  
 Russia [**Ordinskaya** ](allcaves-database.md#RU-4400a1ca6a4f0a7974bac0c4220f0ab0)  
 Russia [**Oroktojskaya Cave** Ajgarinskaya Cave ](allcaves-database.md#RU-0baf0678c008ce804084ae6a81d98943)  
-Russia - Perm Krai [**Kungurskaya Ice Cave** Kungur Ice Cave; Kungurskaya Ledyanaya ](allcaves-database.md#RU-31203676ee71e3ba6d3c86db477cbb90)  
 Russia - Primorskij [**Ledyanaya Malyutka Cave** ](allcaves-database.md#RU-0df681d78671f002173094cfb8a32cfe)  
 Russia - Primorskij [**Priiskovaya Cave** Sinegorskaya-2; Zolotaya ](allcaves-database.md#RU-66faf1e46313e1e1c0288069b331805a)  
 Russia - Republic of Abkhazia [**Shaft of Martel** ](allcaves-database.md#RU-8acd77aaf3bb1f8ef59c678df5074bc9)  
@@ -253,6 +253,7 @@ Russia [**Snezhnaya-Mezhennogo-Illuziya-Banka Cave System** ](allcaves-database.
 Russia [**Starogo Medvedya Cave** ](allcaves-database.md#RU-02fc3e29b819ea7e45197760df3d133c)  
 Russia [**Tryekhglazka Cave** Ledovaya; Vorontsovskaya Cave ](allcaves-database.md#RU-580a56f3e2ab89ba8bc52af52bef774d)  
 Russia [**Uinskaya Ledyanaya** ](allcaves-database.md#RU-850aa539fd34c83413f3984b925aa266)  
+Russia - Volga; Perm Krai [**Kungurskaya Ice Cave** Kungur Ice Cave; Kungurskaya Ledyanaya ](allcaves-database.md#RU-acc55d000b752bbd9cad743c7ab020dc)  
 Russia [**Vologodskogo** ](allcaves-database.md#RU-cabd97893ec2c931a7ca245b5f1e6300)  
 Russia [**Yeranka Cave** Eranka Cave ](allcaves-database.md#RU-27d0758774a8f11a53e48b38ccbe2e83)  
 Russia [**Ylasyn** ](allcaves-database.md#RU-1f14e9936fb352ca60eb4fc1bc766752)  
@@ -326,7 +327,7 @@ Spain [**Alfa 68** ](allcaves-database.md#ES-169baec182bea2314a80978f2642e094)
 Spain [**Altaiz** L-1](allcaves-database.md#ES-L-1)  
 Spain [ AN118](allcaves-database.md#ES-AN118)  
 Spain [ AN230](allcaves-database.md#ES-AN230)  
-Spain - Aragon [**Casteret** Gruta Helada de Casteret ](allcaves-database.md#ES-6d7c3e74ee48380c871cde7d8c573843)  
+Spain - Aragon [**Grotte Casteret** Gruta Helada de Casteret ](allcaves-database.md#ES-d845d988a86a38b8d63c3b1cfdedff50)  
 Spain [**Asopladeru P36** ](allcaves-database.md#ES-46aaf30443306a12435d756f9cc70589)  
 Spain [**(Avenc de la Neu)** ](allcaves-database.md#ES-9346e5cc6f84be4dc888d923533ca66d)  
 Spain [**Avenc del gel (C8) Revilla** ](allcaves-database.md#ES-9849ca24db67eea5a18c6e12221b6aa2)  

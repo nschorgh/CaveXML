@@ -29,7 +29,8 @@ Auxiliary files:
    `Utilities/cavesystemfinder.py`  (connects cave branches with cave systems)  
    `Utilities/filter.xquery`      (creates simple filtered list of entries using XQuery)  
    `Utilities/reorder.xslt`    	  (sorts elements within each record)  
-
+   `Utilities/stats.py`    	  (extracts statistical information about a database)  
+   
 This is a pilot project to explore the capabilities of a CaveXML implementation end-to-end. The actual database is for demonstration, and mainly contains ice caves and lava tubes.
 
 

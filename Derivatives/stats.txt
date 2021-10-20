@@ -1,0 +1,117 @@
+COUNTRY-NAME:
+Austria 21
+Bosnia and Herzegovina 2
+Croatia 8
+Finland 1
+Iceland 63
+Germany 25
+Greece 4
+Greenland 9
+Hungary 2
+Italy 32
+Montenegro 9
+North Macedonia 25
+Norway 6
+Poland 43
+Romania 4
+Serbia 26
+Spain 302
+Slovakia 45
+Slovenia 4
+Svalbard and Jan Mayen 8
+Sweden 1
+Switzerland 6
+China 17
+India 1
+Iran 2
+Kazakhstan 1
+Japan 91
+Mongolia 1
+Russia 87
+Tajikistan 2
+Turkey 2
+Uzbekistan 6
+Canada 37
+United States of America 906
+Antarctica 11
+Kenya 27
+Portugal 15
+New Zealand 11
+Fiji 9
+Chile 7
+Madagascar 2
+Australia 101
+Korea, Republic of 14
+Ecuador 39
+Argentina 6
+France 7
+Mexico 47
+Cameroon 8
+Tanzania 9
+Indonesia 3
+Saudi Arabia 7
+Bulgaria 1
+Comoros 17
+Vanuatu 2
+Malaysia 1
+Congo, Democratic Republic of the 1
+Samoa 8
+Mauritius 8
+Syria 3
+Micronesia 2
+Northern Mariana Islands 1
+Rwanda 7
+Jordan 7
+Viet Nam 19
+Moon 18
+Mars 10
+
+ROCK-TYPE:
+limestone 217
+marble 1
+basalt 567
+gypsum 7
+dolomite 1
+ice 15
+sandstone 1
+tuff 1
+
+CAVE-TYPE:
+solution cave 19
+lava tunnel 1563
+lava vent 11
+artificial cave 2
+tectonic cave 7
+sea cave 4
+misc. type 6
+boulder cave 1
+
+CONTENTS:
+permanent ice 543
+periodic ice 41
+many bats 23
+charcoal 4
+extensive guano 6
+intermittently submerged 1
+lake(s) 4
+trogloxenes 5
+troglobites 15
+troglophiles 10
+occasional bats 3
+perennially submerged 6
+tree roots 4
+accidental trogloxenes 1
+perennially part-submerged 5
+waterfall(s) 2
+minerals 3
+birds 10
+snakes 1
+
+CAVE-USE:
+guided tourist cave 22
+self-guided tourist cave 60
+temple 1
+mine 5
+shrine 1
+
+Number of records searched: 2227

@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 541 rock-hosted caves with perennial ice was generated from a CaveXML database.  
+This list of 543 rock-hosted caves with perennial ice was generated from a CaveXML database.  
 
 Austria - Niederösterreich [**Südkar-Eishöhle** 1826/25; 1826/26](allcaves-database.md#AT-1826/25)  
 Austria - Oberösterreich [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
@@ -108,10 +108,10 @@ Greenland [**Swirly Cave** Sangujoraartoq Qaarusussuaq ](allcaves-database.md#GL
 Hungary [**Sárkánytorok Cave** ](allcaves-database.md#HU-c77c0f76964eb363bb6d5071e537ed62)  
 Iceland - Arnessysla [**Arnarker** Kerid ](allcaves-database.md#IS-e96013a7f519f046d6564274cd105674)  
 Iceland - Arnessysla [**Búri Cave** ](allcaves-database.md#IS-42d72ec79a12b3b53f094a0557cbbdee)  
-Iceland [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-KED-01)  
 Iceland - Myrasysla County [**Íshellir** ](allcaves-database.md#IS-0be6610b5c951d4644b5dc592e0a7f57)  
 Iceland - Myrasysla County [**Surtshellir** ](allcaves-database.md#IS-cfd58b66d7080bc2f98c4a0c695ec018)  
 Iceland - Myrasysla County [**Víðgelmir** ](allcaves-database.md#IS-8b2fdd9758744f258da5018ced142dc7)  
+Iceland - Suður-Þingeyjarsýsla [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-KED-01)  
 India - Jammu and Kashmir [**Amarnath Cave** Holy Cave; Shri Amarnath Cave ](allcaves-database.md#IN-142468c791c736bcc74e69daa1e8ca4e)  
 Iran - Alborz province [**Ghar Yakh-Morad** Yakh-Morad Ice Cave ](allcaves-database.md#IR-fac51e19eec91adebc71a052e75aaaa3)  
 Iran [**Dena Ice Cave** Ghar Yakh Dena ](allcaves-database.md#IR-19714e6a881106ade7501e575ba34763)  
@@ -526,6 +526,8 @@ United States of America - New Mexico; Cibola County [**Rusty Barrel Ice Cave** 
 United States of America - Oregon; Deschutes County [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-b9513e9db4a84c47e0d0057c42022592)  
 United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-adc4f02585a0a21689852812c09c7fa6)  
 United States of America - Oregon; Deschutes County [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-0aefe1c8bb5fb60a31e99240d97c2a55)  
+United States of America - Oregon; Lane County [**Ectomorph Ice Cave** ](allcaves-database.md#US-6bc13c85351c41256ab981ef25f3c6e5)  
+United States of America - Oregon; Lane County [**Obsidian Flake Ice Cave** ](allcaves-database.md#US-379b13441f4f3d898e82d16a53f2fbf1)  
 United States of America - Utah [**Bear Ice Cave** ](allcaves-database.md#US-f9244e4b84013595587462be918605da)  
 United States of America - Utah [**Big Brush Creek Cave** ](allcaves-database.md#US-e328d340ccc22180c747d11cb3f14d41)  
 United States of America - Utah [**Grandview Ice Cave** ](allcaves-database.md#US-3d77578a218469475de04098e1515a0c)  
@@ -543,4 +545,6 @@ Uzbekistan - Qashqadaryo Region; Yakkabog District [**Gissarskaya Cave** Hissar 
 Uzbekistan - Surxondaryo Province [**Festival'naya-Ledopadnaya** Western Karst System of Hodja Gur Gur Ata ](allcaves-database.md#UZ-a4a49f658eed269c81d80dfdd7d05aef)  
 Uzbekistan - Surxondaryo Province [**Ledopadnaya** ](allcaves-database.md#UZ-b6a1d24a1d9b2df772f08c109334bd0f) *Part of* Festival'naya-Ledopadnaya  
 Uzbekistan [**Ulug-Bek** Ulugh Begh ](allcaves-database.md#UZ-fa57d54912096b4b9b35b3c46c8742d5)  
+
+
 

@@ -1,16 +1,16 @@
 List of Volcanic Ice Caves
 ==========================
-List of 35 ice caves that are also lava tubes.  
+List of 37 ice caves that are also lava tubes.  
 
 China - Heilongjiang province [**Ice Cave** ](allcaves-database.md#CN-84bd5ee330b2dae6b6bc29e1578a3527)  
 China - Heilongjiang province; Mudanjiang district [**Gubingdong Cave** Ancient Ice Cave N44E128C-005](allcaves-database.md#CN-N44E128C-005)  
 China - Heilongjiang province [**Underground Ice Cave** ](allcaves-database.md#CN-1ecd2083a556393ea79c285e27bc46be)  
 Iceland - Arnessysla [**Arnarker** Kerid ](allcaves-database.md#IS-e96013a7f519f046d6564274cd105674)  
 Iceland - Arnessysla [**Búri Cave** ](allcaves-database.md#IS-42d72ec79a12b3b53f094a0557cbbdee)  
-Iceland [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-KED-01)  
 Iceland - Myrasysla County [**Íshellir** ](allcaves-database.md#IS-0be6610b5c951d4644b5dc592e0a7f57)  
 Iceland - Myrasysla County [**Surtshellir** ](allcaves-database.md#IS-cfd58b66d7080bc2f98c4a0c695ec018)  
 Iceland - Myrasysla County [**Víðgelmir** ](allcaves-database.md#IS-8b2fdd9758744f258da5018ced142dc7)  
+Iceland - Suður-Þingeyjarsýsla [**Lofthellir** Lofthellir Ice Cave KED-01](allcaves-database.md#IS-KED-01)  
 Italy - Sicilia [**Grotta del Gelo** ](allcaves-database.md#IT-941523a74f6d7ac020ca94c67f5000b2)  
 Japan [**Fuji Ice Cave** Fuji Fuketsu (Fuji Wind Cave) ](allcaves-database.md#JP-e26bc9c6698824529baa6da0bf5bb393)  
 Japan [**Motosu Fuketsu No. 2 Cave** ](allcaves-database.md#JP-2a709c7095c14ead38bd702c895e40d9)  
@@ -35,6 +35,8 @@ United States of America - New Mexico; Cibola County [**Rusty Barrel Ice Cave** 
 United States of America - Oregon; Deschutes County [**Arnold Ice Cave** Crook County Ice Cave ](allcaves-database.md#US-b9513e9db4a84c47e0d0057c42022592)  
 United States of America - Oregon; Deschutes County [**South Ice Cave** ](allcaves-database.md#US-adc4f02585a0a21689852812c09c7fa6)  
 United States of America - Oregon; Deschutes County [**Surveyors Ice Cave** Surveyor's Cave ](allcaves-database.md#US-0aefe1c8bb5fb60a31e99240d97c2a55)  
+United States of America - Oregon; Lane County [**Ectomorph Ice Cave** ](allcaves-database.md#US-6bc13c85351c41256ab981ef25f3c6e5)  
+United States of America - Oregon; Lane County [**Obsidian Flake Ice Cave** ](allcaves-database.md#US-379b13441f4f3d898e82d16a53f2fbf1)  
 United States of America - Washington; Skamania County [**Guler Ice Cave** Ice Cave; Campground Ice Cave; Mount Adams Ice Cave; Trout Lake Ice Cave ](allcaves-database.md#US-f3ebfa41578dcd316016a2b8094666ae)  
 United States of America - Washington; Skamania County [**Hoarfrost Cave** NSS-633-18](allcaves-database.md#US-NSS-633-18)  
 

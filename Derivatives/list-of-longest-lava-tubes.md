@@ -12,7 +12,7 @@ Mars [**Arsia North** ](allcaves-database.md#XA-d2e2e91908fbea3557add34500154485
 United States of America - Hawaii; North Hilo district [**Emesine Cave** ](allcaves-database.md#US-60f8fd1004650413cb223c733ab68573) 20744m  
 Mars [**Olympus** ](allcaves-database.md#XA-e711c5835a53221e4926e652bc765ebb) 20372m  
 United States of America - Alaska; Nome County [**Lost Jim Lava Tube** ](allcaves-database.md#US-8b81fe02c2bbe8c748fe9d25201f5cea) ~19000m  
-Spain - Santa Cruz de Tenerife [**Cueva del Viento** El Viento cave; Cueva del Viento-Sobrado ](allcaves-database.md#ES-7a16bf26a547c98e604915188c2ccf93) 17032m  
+Spain - Santa Cruz de Tenerife [**Cueva del Viento** El Viento cave; Cueva del Viento-Sobrado ](allcaves-database.md#ES-91fea07d0f7250f289359471686e3342) 17032m  
 Mars [**Arsia South B** ](allcaves-database.md#XA-b36fa07bf6eab958b13534c802c22629) 13615m  
 Kenya - Eastern Province; Machakos District [**Leviathan Cave** Grotte de Leviathan ](allcaves-database.md#KE-7a20adbd32706cd5ae9594e1b424dd00) 12500m  
 United States of America - Hawaii [**Ola'a Cave** ](allcaves-database.md#US-9e5e79b6a9566368832c89eb774d36c2) *Part of* Kazumura Cave 11751m  
@@ -70,7 +70,7 @@ United States of America - Washington; Skamania County [**Falls Creek Cave** Pan
 United States of America - Oregon; Washington County [**Catlin Gabel System (collapsed)** ](allcaves-database.md#US-b8b9f10679ae34e4e29fd64a3117f36e) 2700m  
 Portugal - Azores [**Gruta do Carvão** ](allcaves-database.md#PT-0cf9c546e1121176af85519abb9e8486) 2500m  
 United States of America - California; Modoc County [**Mammoth Cave** ](allcaves-database.md#US-1c7129937eeed2ba455c25647dc936af) 2490m  
-United States of America - California; Siskiyou County [**Catwalk Cave** Gaping Holes ](allcaves-database.md#US-420b2a61c80ca4e9af3202a31e2db5cf) 2427m  
+United States of America - California; Siskiyou County [**Catwalk Cave** Gaping Holes ](allcaves-database.md#US-US-4320a72024a7aea7988ee1dff623bd45) 2427m  
 United States of America - Hawaii; North Kona [**Black Pellet Cave** ](allcaves-database.md#US-b9ea902008341657ea70ba5e7136bcd8) 2378m  
 United States of America - Oregon; Deschutes County [**Lava River Cave** ](allcaves-database.md#US-260118d73b176efe7dcbdb0524569fce) 2370m  
 United States of America - California; Siskiyou County [**Post Office Cave** Postoffice Cave ](allcaves-database.md#US-5e443ad2b8b4501df95fe6fadd19656b) 2357m  
@@ -80,7 +80,7 @@ United States of America - Washington; Skamania County [**Chubby Bunny Cave** Fa
 Japan - Shizuoka [**Mitsuike Ana** ](allcaves-database.md#JP-d3f027ddd663e2273d1e12a744d11d61) 2202m  
 United States of America - Hawaii; North Hilo district [**Kaumana Cave** ](allcaves-database.md#US-5405993cdae85b77f32e870639f25772) 2198m  
 United States of America - Washington; Skamania County [**New Cave** ](allcaves-database.md#US-c95ddeec5621d4f67cff7112174d0f22) 2179m  
-Spain - Santa Cruz de Tenerife; Icod de los Vinos [**Cueva de San Marcos** ](allcaves-database.md#ES-140dfeab0d4140130b515fe46d5888c4) 2130m  
+Spain - Santa Cruz de Tenerife; Icod de los Vinos [**Cueva de San Marcos** Cueva de los Guanches ](allcaves-database.md#ES-140dfeab0d4140130b515fe46d5888c4)
 United States of America - California; Siskiyou County [**Catacombs Cave** ](allcaves-database.md#US-60b2a6a561dacbe4affb9184551890ee) 2104m  
 Korea, Republic of - Jeju province [**Wa Hol Gul** Waful Kul; Wahul Kul ](allcaves-database.md#KR-952d93bb1cbec19f369cb67ada5882ec) 2066m  
 United States of America - Hawaii [**Pukalani Cave** ](allcaves-database.md#US-6cbff2d0fdf802decb66cc5876481b2c) *Part of* John Martin-Pukalani Cave System 2048m  
@@ -164,7 +164,7 @@ United States of America - Hawaii; North Hilo district [**Oozing Red Puka** ](al
 Viet Nam - Đắk Nông; Nam Da [**C7** ](allcaves-database.md#VN-d55999c1be1dcbb42091185c490f26b5) 1067m  
 United States of America - Washington; Klickitat County [**Dead Bear Cave** ](allcaves-database.md#US-5a9e7a7168b11b95b77b6a8fae404b9b) 1063m  
 Iceland - Arnessysla [**Búri Cave** ](allcaves-database.md#IS-42d72ec79a12b3b53f094a0557cbbdee) 1050m  
-Spain - Santa Cruz de Tenerife; Las Canadas [**Cueva de los Roques** ](allcaves-database.md#ES-40ecacf8fd9a71f998c37c3a7e2e8b12) 1048m  
+Spain - Santa Cruz de Tenerife; Las Canadas [**Cueva de los Roques** Cueva Teigell; Hoyos No. 1,2,3 Y 4 del Complejo ](allcaves-database.md#ES-ebf70a5df9b64bcac7c0d155021716ad) 1048m
 United States of America - Washington; Skamania County [**J.a.R. Cave** NSS-633-43](allcaves-database.md#US-NSS-633-43) 1043m  
 United States of America - Oregon; Deschutes County [**Skeleton Cave** ](allcaves-database.md#US-54e897dda7652157d670e2d1a30fe9a2) 1042m  
 Portugal - Azores [**Furna do Frei Matias** ](allcaves-database.md#PT-ff859a1f72d5739e649b6778db0a520c) 1040m  
@@ -182,9 +182,9 @@ United States of America - Hawaii; Hamakua District [**Pa'auhau Civil Defense Ca
 United States of America - Hawaii; North Hilo district [**Redemption Cave** ](allcaves-database.md#US-71197c1b421fc5dc694d7caaa51d3abb) 1000m  
 United States of America - Hawaii; North Hilo district [**Hanging Pack Cave** ](allcaves-database.md#US-d8bea75f02a02e0b2c0b35e651c9eb1b) 1000m  
 United States of America - Hawaii [**Kahawaihapapa Cave** ](allcaves-database.md#US-730365202e110f38d3bf3c767a8493f9) 1000m  
-Spain - Santa Cruz de Tenerife [**Cueva de Chiguergue** ](allcaves-database.md#ES-bf3ecc97f252cd760aab9afd3ebf1fc3) 1000m  
 Kenya - Eastern Province; Machakos District [**ABC Cave** ](allcaves-database.md#KE-a9f5c3625d13b1df6523619656a2fe41) 1000m  
 Ecuador - Galapagos [**Cueva de Cerro Banderas** ](allcaves-database.md#EC-937de29ce530713319b820b074f16d68) 1000m  
+Spain - Santa Cruz de Tenerife [**Cueva de Chiguergue** ](allcaves-database.md#ES-bf3ecc97f252cd760aab9afd3ebf1fc3) ~1000m  
 
 
 Note: Planet Venus has some very long lava tubes, which are not cataloged here.

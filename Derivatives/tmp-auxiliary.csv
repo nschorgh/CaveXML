@@ -63,8 +63,12 @@ Regenhohle,,,,,,DE-581ca8a902bb4268acceb6de53243834
 Tabellenfuhrer,,,,295,,DE-1336/187
 Chionotrypa cave,2080,2080,,111,,GR-5be9810dc220173462371154c2ffd72c
 Chionotrypa cave,2560,2560,,26,,GR-0aeac96fac27f61a7ce1c5c24a391760
+Chionotrypa cave,1862,1862,,166,,GR-e14a1b2ec15f4abf333e0714f1c36637
+Chionotrypa cave,1710,1710,,46,,GR-S3
 Provatina cave,,,,407,,GR-0452d5288b682490ce9759c7ec7d95ec
 Skud cave,,,,46,,GR-63f2aa7e794da546a2e71e5bcefbed75
+Apa-tripa,1215,1215,,59,,GR-c0fb81ba474cacd1fdfa0a065ecb647b
+Korfi Pothole,1635,1635,,15,,GR-7ff8d4fdc4ec695d374db13746ce01da
 U-Shaped-Cave,530,533,95,,,GL-439dbc7e89f2e33036a5d1fe1a45d4d5
 Main Sampling Cave,520,520,11,,,GL-76965e98fea8751ac35ab4339467dfa3
 Grotte des Quatre,420,420,74,,4,GL-77a18cf92fe554618e91972d8104ef56
@@ -202,7 +206,7 @@ Ledenica,1518,1518,69,6,,RS-63940990bac7e21d60839668dc03a749
 Spela Bores,1215,1215,43,23,,RS-d6761f62c54b934a3e0b79297ac52fd8
 Bezdan u Mezgraji,1316,1316,,40,,RS-3abfc249a43e47b93848f3ead887af8c
 Golubova Pecina,1346,1346,37,11,,RS-ae6ad1834c18e3804f001975d19ea518
-Cueva de Hielo del Teide,3400,3400,55,14,,ES-d89cacafdd7645ce69e3c7c01abcf6a0
+Cueva de Hielo del Teide,3400,3400,55,14,1,ES-8153f04d5441e91d8af3854fba1a2423
 Ice cave 2 Pico Viejo,,,,,,ES-f030f5ce3db1f97639ca7b7904c4c8cc
 Cuevas Heladas de Villar,,,,,,ES-edcf53075b835ea6a166f7b8b4a7d39e
 Sima de Hielo Montana Rajada,,,,,,ES-adeea1d09424bfa224fa7c7c704d6658
@@ -668,6 +672,7 @@ Archies Cave,,,348,,,US-ae907d62d421299357d05209d8c89edc
 Arco Tunnel,,,1316,,,US-f6ad513d40d4e29984a3b278cee5bc7b
 Arnarker,,,515,,,IS-e96013a7f519f046d6564274cd105674
 Buri Cave,,,1050,,,IS-42d72ec79a12b3b53f094a0557cbbdee
+Bishop's Cave,,,,,,US-a51408472e3a41df7b4f857f972aacd9
 Arnold Ice Cave,1381,1381,49,,,US-b9513e9db4a84c47e0d0057c42022592
 Ash Crawl Cave,,,117,,,US-d0be8ec3e03f6e0be2e05c63b9eeb6f2
 Charcoal Cave,,,,,,US-b4e0a29cc93179d87a1dd35af77a12db
@@ -878,12 +883,14 @@ Cueva de Arafo,600,600,110,8,,ES-9286665524c1ddb843f7496484b55565
 Cueva de Benisahare,420,420,327,24,,ES-c8d1f48d64253bc3ef367770d9388b30
 Cueva de Canada de los Pastores,,,1882,43,,MX-83614b4ff2be78caa9dcc2138f231829
 Cueva de Chiguergue,840,840,1000,,,ES-bf3ecc97f252cd760aab9afd3ebf1fc3
+Cueva del Coral,-16,-16,15,17,,ES-1ea2c73926513b9a4f4d2e5aacb8ffed
 Sistema Chimalacatepec,,,1388,201,,MX-0176a37a3a2343b76787fe1fc7869e19
 Cueva de Cuaclo de las Mo,,,80,,,ES-41af69f0879a28464f91486753f3d6ed
-Cueva de Don Cesar,480,480,56,4,,ES-2b1d49e63ba53c9fd24252c8766eae4f
+Cueva de Don Cesar,480,480,56,4,,ES-d91a9036da1381c8f02f695d5fb119d1
 Cueva de Don Justo,,,6315,140,,ES-00259bdabb0744cb577e989b66d7e425
 Cueva de Tacoron,500,500,334,,4,ES-395aa6af4815242b29f6c73857d93186
 Cueva de La Curva,400,400,141,,,ES-13125f030fa3bcb796be2900087fa87a
+Cueva de La Curva de Gracia,420,420,26,0,,ES-957c5c21e837a1fabe435168a36f20c9
 Cueva de Marcelo,,,1268,62,,MX-a9e9330f4769577464c8a3d63ca08b44
 Cueva Chica de Marcelo,,,89,7,,MX-9b873ba5567554ade93dbf6f7a75e519
 Cueva de Dona Macaria,,,420,27,,MX-7a9f5ff19eb28f520589f33f12533708
@@ -895,7 +902,7 @@ Cueva de Elena,340,340,677,38,,EC-a8340c1c0140143ba3ba41c638eb45c2
 Cueva de Escondido,,,1176,,,ES-LZ/YZ-33
 Cueva de Caldera Escondido,,,150,,,ES-LZ/TN-9
 Cueva Choco,,,680,,,ES-c7f25210ee68b5ff57cd92a8489b1000
-Cueva de Felipe Reventon,,,3000,,,ES-47dfa4760a06c3060ab46b4406d3b4be
+Cueva de Felipe Reventon,595,595,3000,146,,ES-47dfa4760a06c3060ab46b4406d3b4be
 Cueva de Gilberto Moncayo,100,100,590,,,EC-63a0b19b88c206be4f2f27e8721fbc0d
 Cueva de Guajara,,,150,,,ES-2bfd95be1b8c7217bddf1a2220e5c17f
 Cueva de Hoyo,,,247,,,ES-328688fcd774642745daff13ac10e9f4
@@ -913,7 +920,7 @@ Sistema Iglesia-Mina Superior,,,5145,54,4,MX-510e1a782c8ee577a177480624fb0821
 Cueva del Castillo,,,455,21,,MX-ba9d0c38c9242082c0390a41b9cca6a9
 Cueva de la Lechuza,50,50,60,,,EC-232b27e59a34563bdf8fcdf5f4c2db28
 Cueva de la Miconia,360,360,276,24,,EC-091a5f5ff9c6746876f4c22d3da81c71
-Cueva de la Plaza de Toros,440,440,268,5,,ES-cc8d31ee5b078f9d4fd67328eed91995
+Cueva de la Plaza de Toros,440,440,268,5,,ES-8b89fd8be221b1f14de09b229805e865
 Cueva de la Refineria,25,25,100,,,ES-4aaaa1edaa46303e4c52d25c6b262262
 Cueva de la Senora Columb,,,47,,,EC-652444e7df75e3f2ab085331a7950403
 Cueva de la Ventana,,,268,15,1,MX-01bf91cc20a7528db66799b28b502560
@@ -939,10 +946,14 @@ Galeria de Hiriazo,,,,,,ES-FV/AG-2
 Cueva del Paso o del Esqueleto,,,845,,,ES-LZ/YZ-4
 Cueva Tahiche,,,198,,,ES-LZ/TG-2
 Cueva de los Pardelas,,,180,,,ES-e1fd07873552ebf3583244d9a5006dd4
-Cueva de los Roques,2160,2200,1048,,4,ES-40ecacf8fd9a71f998c37c3a7e2e8b12
+Cueva de los Roques,2160,2200,1048,,4,ES-ebf70a5df9b64bcac7c0d155021716ad
 Cuevas Negras,2175,2250,420,85,,ES-095a76e288771795e127286732c640a7
+Cueva del Esquimal,2200,2200,22,5,,ES-2d0c80b5ed40ecd39a2ddf9e2d9c4678
+Cueva del Estampido,0,0,46,5,,ES-dd5ade7b22f105bae12be88f72794d13
 Cueva de los Secundarios,,,,,,MX-0cca94b30cfb3d044df06d4d557422c2
 Cueva de Los Valencianos,560,560,48,22,,ES-92b856e53a7ebc6e6132d5f92bbd70d1
+Cueva Mac Key,450,450,172,11,,ES-0cff93032b7fcb88a2b736eb22c38590
+Cueva del Yeso,30,30,295,4,,ES-581308b6a3bf51c09206ef4af7b2fcb3
 Cueva de los Verdes,,,9995,273,,ES-LZ/HR-2
 Cueva de Macas,250,250,92,,,EC-d4831c987965951d7d7c49b793c342c7
 Cueva de Maestro Pepe,625,625,65,2,,ES-cccd917a40eed3a81884cef87e80bcae
@@ -952,30 +963,35 @@ Cueva de Punto Blanco,30,30,248,7,,ES-3c8c5686e84371160f99b10be6b52820
 Cueva de Rovalino,,,50,,,EC-2b7fda6457962d958389971e6b008767
 Cueva de Samara,,,100,,,ES-bf29b69077e0744d70008ac422af65a8
 Cueva de San Andres,1000,1000,390,,,ES-16b8519a846e3ee9da467a1cdc1be48f
+Cueva del Pozo,2250,2250,55,14,,ES-c303605ecd63cecf7a7eb793592df486
 Cueva de San Marcos,30,99,2130,,2,ES-140dfeab0d4140130b515fe46d5888c4
+Cueva de San Miguel,612,612,163,15,,ES-d9b16a1943d4ac6c117192efedac3b30
 Cueva de Sucre,360,360,355,,,EC-1ab67d5bb62a97678e14341cf4e00759
 Cueva de Tatamasquio,,,,,,MX-d71afa72c5942d06ab96a41eb5ced760
 Cueva del Acantilado,,,401,,,ES-dce490f83d8fc2630627b4ac1a963710
+Cueva del Valle,1320,1320,163,,,ES-6ed4c02624aadcfc438d7ad42d396a8e
+Sima de Vicky,2480,2480,115,71,,ES-853e45e242248493a90f3711197a2245
 Cueva del Aire,,,1038,87,,MX-ac62beaa9b6655f308a11f90ba2ecef9
 Cueva del Arbol,,,1480,118,,MX-799ff40d0e491e95bc7385edfd50602c
 Grutas de Tzinacamoztoc,,,1577,54,,MX-59064f847a14a5475f86e7813042e087
 Cueva Alta,,,413,,,MX-058469d865ae0bd33b427526b6114b98
 Cueva del Becerril,,,100,,,ES-45187b19f29be4da3c0472a5c018d3cd
 Cueva del Bucio,1100,1100,149,30,,ES-54dc6d233bc269783f6b9d1389ff83a9
-Cueva del Bujeno,380,380,50,,,ES-303eaa7c1700900858061a5e69bdbe4b
+Cueva del Bujeno,380,380,50,,,ES-c7f396d4f54eb51990c9484f457eb625
+Cueva del Buro,1100,1100,19,2,,ES-c368141d191541eee2d15b5ff6cecf36
 Cueva del Cocodrilo,,,725,,,MX-352a51d719435130054f1fe720a06651
 Cueva del Conchero,,,100,,,ES-a603696db02ccfe5d466d4890a860b9c
 Cueva del Crater de Sal,180,180,350,,,EC-609e9a4d1205c64064f531e61e865ead
 Cueva del Diablo,,,2020,70,,MX-7201e5acf402fa501100e9621a1fa258
 Cueva del Ferrocarril-Mina Inferior,,,6538,90,10,MX-95d1013e4757e2b49bf40cb8dab3bf98
 Cueva del Naranjo Rojo,,,671,32,,MX-58bfe0ec8bc02c0415901b0a85146c38
-Cueva Gato Feo,520,520,175,,,ES-e1380da9c3281adbeb18fb4e87c525ff
+Cueva Gato Feo,520,520,175,3,,ES-de40fd16d31a267b189a4f047a6c8974
 Cueva del Judith,,,133,,,ES-e41a54b8a3e09cd67403560613d0c20a
 Cueva del Llano de Villaverde,,,648,,,ES-FV/LO-1
 Cueva del Llano de Los Canos,,,367,,,ES-LP/MZ-4
 Cueva del Canal,,,554,,,ES-LP/MZ-5
 Cueva de los Esqueletos,,,123,,,ES-LP/MZ-9
-Cueva del Metra,200,200,185,4,,ES-dcca9f7d4ae82831c56192121e91f33f
+Cueva del Metra,200,200,185,4,,ES-ba8a0e1ebe3052cef7246076d8fc4590
 Cueva del Miedo,,,100,,,ES-1d42bdfcb6d8f0d5a07cd00d5e47ea3d
 Cueva del Novillo,,,136,13,,MX-6d0485b15e394f4af0868b8cca277e95
 Cueva del Pinzon,50,50,110,,,EC-3d025dc5493108fb5203a0a61b981279
@@ -990,9 +1006,9 @@ Cueva de La Tuberia,,,428,116,1,MX-f21e9a7fbe85a40ee7a01ea06b62a47b
 Cueva del Tiro Perdido,,,262,22,1,MX-d98a1060a0362849fa37d5118a8f98aa
 Cueva Retirada,,,493,82,1,MX-bcc68abfa2b684a2c66453d55212c309
 Cueva de Amatlan,,,87,16,1,MX-4e0d53a78238a3a854894d3659b61fa6
-Cueva del Refugio,1275,1275,22,,,ES-7e39fab7710d4ac29ec8b2458abb3a16
+Cueva del Refugio,1275,1275,22,1,,ES-7e39fab7710d4ac29ec8b2458abb3a16
 Cueva del Salvial,,,796,14,,MX-bf6e9122a3b10ea236a764dfc34492c9
-Cueva del Viento,625,625,17032,478,,ES-7a16bf26a547c98e604915188c2ccf93
+Cueva del Viento,535,750,17032,478,,ES-91fea07d0f7250f289359471686e3342
 Cueva del Volcancillo,,,685,139,,MX-72cfd74f84ee8d0731348f591693edc7
 Cueva del Rio Huichila,,,625,,,MX-3a67d489f6b93fd316bfc51df85c294a
 Cueva de El Tirantes,,,278,13,,MX-49e8255aa947289b398c57f4c51ff4dd
@@ -1002,26 +1018,27 @@ Cueva del Tigre,,,300,,,AR-3e7e429b63f3246dea5c24a3a28521cc
 Hoyo Dolo,,,350,,,AR-26ce7e6eb28cc55f276d189aaa77faa5
 Cueva del Tigre,,,206,41,,MX-841ec1cf18e2ed115612ff6dc60ef178
 El Abrigo de el Manzano,,,11,,,AR-62521e0ec47eca8718f1eea24056dd7d
-Cueva Fea de Arico,1620,1620,55,2,,ES-608a937d9b4827f902b02abf5867aee1
+Cueva Fea de Arico,1620,1620,55,2,1,ES-608a937d9b4827f902b02abf5867aee1
 Cueva Grande de Orchilla,,,100,,,ES-99d4f7645c5497f675194f0cc0d3ac84
 Cueva de Los Pocitos,250,250,933,110,,ES-fb8a292357f2b87920739d185d9d7117
-Cueva Honda de Guimar,100,100,100,,,ES-10965ad0235f397b6eafd50a8071fd54
-Cueva Harrouth 32,220,220,87,,,ES-527b790a10eecd5806fb535b7fa51e25
+Cueva Honda de Guimar,100,100,100,0,1,ES-10965ad0235f397b6eafd50a8071fd54
+Cueva del Barranco de la Arena,670,670,90,,,ES-f3fd4c36208516d79b8054246dceab29
+Cueva Harrouth 32,220,220,87,2,,ES-527b790a10eecd5806fb535b7fa51e25
 Cueva Huevos,,,101,,,MX-9a7f914608cdc7fcb83f0656ba43c4bc
 Cueva Iztaxiatla,,,,,,MX-bc3e7f2409344cb2403b6a8d5bbe8a9f
 Cueva La Alada,,,264,,,AR-b403d0ee8602ed513a356cae6d9af689
 Cueva Labrada,1000,1000,236,12,,ES-00f979bebca6f9e8f144842334075dd2
-Cueva Las Mechas,1000,1000,246,9,,ES-f656c2900541167f6a855d432dafd8fe
+Cueva Las Mechas,1000,1000,246,9,,ES-9ce5e8cf382deb3c5106fb19353d2649
 Cueva los Viejos,,,70,,,ES-28d002b3a28852401c8e35d2f9264191
 Cueva del Llanito,420,420,142,,,ES-LP/BA-1
 Cueva MPT,70,70,94,,1,ES-LP/BA-2
-Cueva de Pepe el Chico,420,420,158,14,,ES-5c544c9765b73d2eec85b0a7d4acae97
+Cueva de Pepe el Chico,420,420,158,14,,ES-a7149b1cfc0a1242d407b67bfb0fe8b2
 Cueva Roja,,,300,,,ES-37a9ff29f666863f06dfb3ab02bfac7e
-Cueva de Punto Blanco,30,30,248,7,,ES-6a7c40fb8c5700712e18bacbf2c1da5e
+Cueva de Punto Blanco,30,30,248,7,,ES-e1774ee3d7323bcd580c299600660b5b
 Cuevas de Guinea,,,57,9,,ES-33ccbeb40b5e2ebdcafb909b381a6f44
 Cuevas de la Lechera,,,,,,ES-4d59833884b24c092542138872829d37
 Cuevas de la Monteserrat,,,114,,,ES-20f917b3b34fcf735d52807c5fe46113
-Cueva Grandes de Chico,1100,1100,350,,,ES-6b524cff0517e13c375140cb556b0450
+Cueva Grandes de Chio,1100,1100,350,,,ES-611576885736aae7c35a6c29c6595c64
 Curly Creek Cave,,,373,,,US-aff175d65e48442e06fecb46627c2e45
 Cutrona Cave (La Grotta Cutrona),1860,1860,870,97,,IT-SICT-1216
 Grotta Petralia,138,138,518,21,,IT-SICT-1205

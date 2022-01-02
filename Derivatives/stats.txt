@@ -5,7 +5,7 @@ Croatia 8
 Finland 1
 Iceland 63
 Germany 25
-Greece 4
+Greece 8
 Greenland 9
 Hungary 2
 Italy 32
@@ -15,7 +15,7 @@ Norway 6
 Poland 43
 Romania 4
 Serbia 26
-Spain 302
+Spain 314
 Slovakia 45
 Slovenia 4
 Svalbard and Jan Mayen 8
@@ -32,7 +32,7 @@ Tajikistan 2
 Turkey 2
 Uzbekistan 6
 Canada 37
-United States of America 906
+United States of America 907
 Antarctica 11
 Kenya 27
 Portugal 15
@@ -69,7 +69,7 @@ Mars 10
 ROCK-TYPE:
 limestone 217
 marble 1
-basalt 567
+basalt 568
 gypsum 7
 dolomite 1
 ice 15
@@ -78,7 +78,7 @@ tuff 1
 
 CAVE-TYPE:
 solution cave 19
-lava tunnel 1563
+lava tunnel 1572
 lava vent 11
 artificial cave 2
 tectonic cave 7
@@ -87,7 +87,7 @@ misc. type 6
 boulder cave 1
 
 CONTENTS:
-permanent ice 543
+permanent ice 547
 periodic ice 41
 many bats 23
 charcoal 4
@@ -98,7 +98,7 @@ trogloxenes 5
 troglobites 15
 troglophiles 10
 occasional bats 3
-perennially submerged 6
+perennially submerged 7
 tree roots 4
 accidental trogloxenes 1
 perennially part-submerged 5
@@ -114,4 +114,4 @@ temple 1
 mine 5
 shrine 1
 
-Number of records searched: 2227
+Number of records searched: 2244

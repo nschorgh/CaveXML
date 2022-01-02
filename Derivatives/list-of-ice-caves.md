@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 543 rock-hosted caves with perennial ice was generated from a CaveXML database.  
+This list of 547 rock-hosted caves with perennial ice was generated from a CaveXML database.  
 
 Austria - Niederösterreich [**Südkar-Eishöhle** 1826/25; 1826/26](allcaves-database.md#AT-1826/25)  
 Austria - Oberösterreich [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
@@ -95,8 +95,12 @@ Germany - Bayern [**Tabellenführer** 1336/187](allcaves-database.md#DE-1336/187
 Germany - Bayern [**Teeologenschacht** ](allcaves-database.md#DE-be560265612cc3b46334a4f0229562f5)  
 Germany - Bayern [**Yetischacht** 1337/87](allcaves-database.md#DE-1337/87)  
 Germany - Bayern [**Zeller Eishöhle** 1337/5](allcaves-database.md#DE-1337/5)  
+Greece [**Apa-tripa** ](allcaves-database.md#GR-c0fb81ba474cacd1fdfa0a065ecb647b)  
 Greece [**Chionotrypa cave** ](allcaves-database.md#GR-0aeac96fac27f61a7ce1c5c24a391760)  
 Greece [**Chionotrypa cave** ](allcaves-database.md#GR-5be9810dc220173462371154c2ffd72c)  
+Greece [**Chionotrypa cave** ](allcaves-database.md#GR-e14a1b2ec15f4abf333e0714f1c36637)  
+Greece [**Chionotrypa cave** S3](allcaves-database.md#GR-S3)  
+Greece [**Korfi Pothole** ](allcaves-database.md#GR-7ff8d4fdc4ec695d374db13746ce01da)  
 Greece [**Provatina cave** ](allcaves-database.md#GR-0452d5288b682490ce9759c7ec7d95ec)  
 Greece [**Skud cave** ](allcaves-database.md#GR-63f2aa7e794da546a2e71e5bcefbed75)  
 Greenland [**Cairn Climb Cave** Inussuk Innartooq Qaarusussuaq ](allcaves-database.md#GL-d331018b000aafafdb99b06fde9e89d4)  
@@ -545,6 +549,7 @@ Uzbekistan - Qashqadaryo Region; Yakkabog District [**Gissarskaya Cave** Hissar 
 Uzbekistan - Surxondaryo Province [**Festival'naya-Ledopadnaya** Western Karst System of Hodja Gur Gur Ata ](allcaves-database.md#UZ-a4a49f658eed269c81d80dfdd7d05aef)  
 Uzbekistan - Surxondaryo Province [**Ledopadnaya** ](allcaves-database.md#UZ-b6a1d24a1d9b2df772f08c109334bd0f) *Part of* Festival'naya-Ledopadnaya  
 Uzbekistan [**Ulug-Bek** Ulugh Begh ](allcaves-database.md#UZ-fa57d54912096b4b9b35b3c46c8742d5)  
+
 
 
 

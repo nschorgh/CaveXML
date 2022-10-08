@@ -18,6 +18,7 @@ Austria - Salzburg - Tennengebirge
 [Margesin et al. (2004) doi:10.1099/ijs.0.63124-0](https://doi.org/10.1099/ijs.0.63124-0)   
 [Schöner et al. (2011) doi:10.5194/tc-5-603-2011](https://doi.org/10.5194/tc-5-603-2011)   
 [https://en.wikipedia.org/wiki/Eisriesenwelt](https://en.wikipedia.org/wiki/Eisriesenwelt)   
+[Hauser and Oedl (1921) https://www.zobodat.at/pdf/Spelaeologisches-Jb_4_1923_0017-0047.pdf](https://www.zobodat.at/pdf/Spelaeologisches-Jb_4_1923_0017-0047.pdf)   
 *Cave use:* guided tourist cave  
 
 ---  
@@ -166,6 +167,7 @@ Austria - Salzburg; Grödig - Untersberg
  *Part of* [Gamslöcher-Kolowrat-Höhlensystem](#AT-1339/1-S)  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 [https://de.wikipedia.org/wiki/Kolowratsh%C3%B6hle](https://de.wikipedia.org/wiki/Kolowratsh%C3%B6hle)   
+[https://www.zobodat.at/pdf/MGSL_64_0129-0144.pdf](https://www.zobodat.at/pdf/MGSL_64_0129-0144.pdf)   
 
 ---  
 <a name="AT-1339/1-S"></a>
@@ -238,7 +240,16 @@ Austria - Niederösterreich - Ötscher
 [map](http://www.thamer.at/wp-content/uploads/2007/05/ubersicht.jpg)   
 *Rock type:* limestone *Cave type:* solution cave  
 *Contents:* permanent ice  
-[Hartmann https://www.zobodat.at/pdf/Hoehle_027_0145-0149.pdf](https://www.zobodat.at/pdf/Hoehle_027_0145-0149.pdf)   
+[Hartmann (2017) https://www.zobodat.at/pdf/Hoehle_027_0145-0149.pdf](https://www.zobodat.at/pdf/Hoehle_027_0145-0149.pdf)   
+
+---  
+<a name="AT-3ced55d45a6595c81a70ea34aeaaf1c3"></a>
+Austria - Tirol (Osttirol)  
+*Cave Name(s):* **Obstanser Eishöhle**  
+*altitude:* 2175  
+*Cave type:* solution cave  
+*Contents:* permanent ice  
+[https://www.zobodat.at/pdf/Osttiroler-Heimatblaetter_1987-55-9_0001.pdf](https://www.zobodat.at/pdf/Osttiroler-Heimatblaetter_1987-55-9_0001.pdf)   
 
 ---  
 <a name="BA-ccffe3d9f1b3bcbb3a83f3e524a694b1"></a>
@@ -338,6 +349,16 @@ Finland - Korkia-Maura Island
 *Cave use:* self-guided tourist cave  
 
 ---  
+<a name="FR-4796d29827a08b996a471a78e898a8e1"></a>
+France - Pyrenees; Monte Perdido Massif  
+*Cave Name(s):* **Devaux cave**  
+*altitude:* ~2838  
+*Length:* ~2500m   
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[Bartolome et al. (2022) doi:10.5194/egusphere-2022-349](https://doi.org/10.5194/egusphere-2022-349)   
+
+---  
 <a name="IS-cfd58b66d7080bc2f98c4a0c695ec018"></a>
 Iceland - Myrasysla County - Hallmundarhraun  
 *Cave Name(s):* **Surtshellir**  
@@ -351,7 +372,7 @@ Iceland - Myrasysla County - Hallmundarhraun
 [Hroarsson and Jonsson (1992) http://www.vulcanospeleology.org/sym06/ISV6x19.pdf](http://www.vulcanospeleology.org/sym06/ISV6x19.pdf)   
 [https://en.wikipedia.org/wiki/Surtshellir](https://en.wikipedia.org/wiki/Surtshellir)   
 [https://www.showcaves.com/english/is/caves/Surtshellir.html](https://www.showcaves.com/english/is/caves/Surtshellir.html)   
-[https://www.grottocenter.org/html/file_En.php?id=23631](https://www.grottocenter.org/html/file_En.php?id=23631)   
+[https://grottocenter.org/ui/entrances/23631](https://grottocenter.org/ui/entrances/23631)   
 
 ---  
 <a name="IS-0be6610b5c951d4644b5dc592e0a7f57"></a>
@@ -386,7 +407,7 @@ Iceland - Myrasysla County - Hallmundarhraun
 [Mills and Wood (1972) https://www.shepton.org.uk/files/jnr/jnr_series_05_04.pdf](https://www.shepton.org.uk/files/jnr/jnr_series_05_04.pdf)   
 [https://www.thecave.is/](https://www.thecave.is/)   
 [Hroarsson and Jonsson (1992) http://www.vulcanospeleology.org/sym06/ISV6x19.pdf](http://www.vulcanospeleology.org/sym06/ISV6x19.pdf)   
-[https://www.grottocenter.org/html/file_En.php?id=23632](https://www.grottocenter.org/html/file_En.php?id=23632)   
+[https://grottocenter.org/ui/entrances/23632](https://grottocenter.org/ui/entrances/23632)   
 
 ---  
 <a name="IS-KED-01"></a>
@@ -399,7 +420,7 @@ Iceland - Suður-Þingeyjarsýsla - Ketildyngjuhraun
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=3](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=3)   
 [Waters (2006) http://www.vulcanospeleology.org/sym12/ISV12p08.pdf](http://www.vulcanospeleology.org/sym12/ISV12p08.pdf)   
 [Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1](https://doi.org/10.1016/B978-0-12-811739-2.00023-1)   
-[https://www.grottocenter.org/html/file_En.php?id=73151](https://www.grottocenter.org/html/file_En.php?id=73151)   
+[https://grottocenter.org/ui/entrances/73151](https://grottocenter.org/ui/entrances/73151)   
 
 ---  
 <a name="DE-a811eec526520538502dd398aa76a22c"></a>
@@ -500,6 +521,7 @@ Germany - Bayern - Untersberg; Berchtesgaden Alps
 *Contents:* permanent ice  
 [Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6](https://doi.org/10.1016/B978-0-12-811739-2.00017-6)   
 [https://de.wikipedia.org/wiki/Schellenberger_Eish%C3%B6hle](https://de.wikipedia.org/wiki/Schellenberger_Eish%C3%B6hle)   
+[https://www.zobodat.at/pdf/MGSL_64_0129-0144.pdf](https://www.zobodat.at/pdf/MGSL_64_0129-0144.pdf)   
 *Cave use:* guided tourist cave  
 
 ---  
@@ -911,12 +933,15 @@ Italy
 ---  
 <a name="IT-9c2eb5b1f5f39083b07ab40f8925f0ee"></a>
 Italy - Friuli Venezia Giulia - Canin massif  
-*Cave Name(s):* **Leupa ice cave**  
-*altitude:* ~2300  
+*Cave Name(s):* **Leupa ice cave** Rossalm-Eishöhle  
+*altitude:* 2300  
+*Length:* 132m *Vertical extent:* 29m *Number of entrances:* 3  
+*Rock type:* limestone   
 *Contents:* permanent ice  
 [Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X](https://doi.org/10.1016/B978-0-12-811739-2.00019-X)   
 [Colucci et al. (2016) doi:10.1016/j.geomorph.2016.02.017](https://doi.org/10.1016/j.geomorph.2016.02.017)   
 [Colucci et al. (2017) DOI:10.4461/GFDQ.2017.40.5](https://doi.org/10.4461/GFDQ.2017.40.5)   
+[https://www.zobodat.at/pdf/Hoehle_67_0088-0096.pdf](https://www.zobodat.at/pdf/Hoehle_67_0088-0096.pdf)   
 
 ---  
 <a name="IT-08eadc59b6060b7e7729f4a83561cbd2"></a>
@@ -5066,10 +5091,10 @@ Canada - Alberta - Kananaskis
 Canada - Alberta - Crowsnest Pass; Rocky Mountains  
 *Cave Name(s):* **Booming Ice Chasm**  
 *Coordinates:* [49.61667, -114.63333](https://maps.google.com/?ll=49.61667,-114.63333) *altitude:* 2189  
-*Length:* 961m   
+*Length:* 961m *Vertical extent:* 179m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
-*Comments:* cold trap; Mississipian age  
+*Comments:* cold trap; Mississipian age; ice fall, frozen lake, frozen waterfall  
 [Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2](https://doi.org/10.1016/B978-0-12-811739-2.00015-2)   
 [https://en.wikipedia.org/wiki/Booming_Ice_Chasm](https://en.wikipedia.org/wiki/Booming_Ice_Chasm)   
 
@@ -6353,7 +6378,7 @@ Iceland - Arnessysla - Leitahraun lava field
 *Length:* 1050m   
 *Cave type:* lava tunnel  
 *Contents:* permanent ice  
-[https://www.grottocenter.org/html/file_En.php?id=65162](https://www.grottocenter.org/html/file_En.php?id=65162)   
+[https://grottocenter.org/ui/entrances/65162](https://grottocenter.org/ui/entrances/65162)   
 [https://en.wikipedia.org/wiki/B%C3%BAri_(cave)](https://en.wikipedia.org/wiki/B%C3%BAri_(cave))   
 
 ---  
@@ -6983,6 +7008,15 @@ Medville (2005) Black Pellet Cave, Haw. Spel. Surv. Newsletter 17, 14-17
 White (2010) J. Cave Karst Std. 72(2), 75-85  
 
 ---  
+<a name="US-cfd31531a6ca2660a8636ab993a29bf1"></a>
+United States of America - Hawaii; North Hilo district - Hawaii Island; Mauna Loa  
+*Cave Name(s):* **Sample Cave**  
+*Length:* 60m   
+*Cave type:* lava tunnel  
+*Comments:* water soluble minerals are present  
+White (2010) J. Cave Karst Std. 72(2), 75-85  
+
+---  
 <a name="US-6f45471630395ef02837a15666231e87"></a>
 United States of America - Hawaii - Hawaii Island; Kilauea  
 *Cave Name(s):* **Blair Cave**  
@@ -7251,7 +7285,7 @@ Portugal - Azores - Isla São Miguel
 *Coordinates:* [37.74816, -25.68707](https://maps.google.com/?ll=37.74816,-25.68707)   
 *Length:* 2500m   
 *Cave type:* lava tunnel  
-[https://www.grottocenter.org/html/file_En.php?id=72083](https://www.grottocenter.org/html/file_En.php?id=72083)   
+[https://grottocenter.org/ui/entrances/72083](https://grottocenter.org/ui/entrances/72083)   
 [http://grutadocarvao.amigosdosacores.pt](http://grutadocarvao.amigosdosacores.pt)   
 [https://www.showcaves.com/english/pt/showcaves/CarvaoSaoMiguel.html](https://www.showcaves.com/english/pt/showcaves/CarvaoSaoMiguel.html)   
 *Cave use:* guided tourist cave  
@@ -7593,6 +7627,7 @@ Ecuador - Galapagos - Isla de Santa Cruz
 [Daza et al. (2016) https://core.ac.uk/download/pdf/211106203.pdf](https://core.ac.uk/download/pdf/211106203.pdf)   
 [https://www.museosdetenerife.org/assets/downloads/publication-307277c97d.pdf](https://www.museosdetenerife.org/assets/downloads/publication-307277c97d.pdf)   
 [Kempe et al. (2021) doi:10.3986/ac.vi.7587](https://doi.org/10.3986/ac.vi.7587)   
+[Miller et al. (2022) doi:10.1016/j.isci.2022.104556](https://doi.org/10.1016/j.isci.2022.104556)   
 *Cave use:* self-guided tourist cave  
 
 ---  
@@ -7603,6 +7638,7 @@ Ecuador - Galapagos - Isla de Santa Cruz
 *Cave type:* lava tunnel  
 [Daza et al. (2016) https://core.ac.uk/download/pdf/211106203.pdf](https://core.ac.uk/download/pdf/211106203.pdf)   
 [Kempe et al. (2021) doi:10.3986/ac.vi.7587](https://doi.org/10.3986/ac.vi.7587)   
+[Miller et al. (2022) doi:10.1016/j.isci.2022.104556](https://doi.org/10.1016/j.isci.2022.104556)   
 
 ---  
 <a name="AR-7fca2c85a5e23f6cfcc7bd6485c11030"></a>
@@ -7644,14 +7680,14 @@ France - Reunion - Reunion Island
 ---  
 <a name="FR-f918bc4a8f844318c6631d15ffc00495"></a>
 France - Reunion - Reunion Island  
-*Cave Name(s):* **Trou de la Plaine-des-Palmistes**  
+*Cave Name(s):* **Trou de la Plaine-des-Palmistes** Plaine-des-Palmistes n°2  
 *Coordinates:* [-21.1137, +55.6563](https://maps.google.com/?ll=-21.1137,55.6563)   
 *Length:* 947m *Vertical extent:* 53m *Number of entrances:* 3  
 *Cave type:* lava tunnel  
 [https://vincentcheville.files.wordpress.com/2013/01/spelunca-97-reunion.pdf](https://vincentcheville.files.wordpress.com/2013/01/spelunca-97-reunion.pdf)   
 [https://fr.wikipedia.org/wiki/Caverne_des_F%C3%A9es](https://fr.wikipedia.org/wiki/Caverne_des_F%C3%A9es)   
 [http://www.cavepics.com/IVS17/HONDAII.pdf](http://www.cavepics.com/IVS17/HONDAII.pdf)   
-[https://www.grottocenter.org/html/file_En.php?id=37423](https://www.grottocenter.org/html/file_En.php?id=37423)   
+[https://grottocenter.org/ui/entrances/37423](https://grottocenter.org/ui/entrances/37423)   
 
 ---  
 <a name="FR-06ca914178beceeb3397df11ffbf8e73"></a>
@@ -7663,7 +7699,7 @@ France - Reunion - Reunion Island
 [https://vincentcheville.files.wordpress.com/2013/01/spelunca-97-reunion.pdf](https://vincentcheville.files.wordpress.com/2013/01/spelunca-97-reunion.pdf)   
 [https://fr.wikipedia.org/wiki/Caverne_des_F%C3%A9es](https://fr.wikipedia.org/wiki/Caverne_des_F%C3%A9es)   
 [http://www.cavepics.com/IVS17/HONDAII.pdf](http://www.cavepics.com/IVS17/HONDAII.pdf)   
-[https://www.grottocenter.org/html/file_En.php?id=37441](https://www.grottocenter.org/html/file_En.php?id=37441)   
+[https://grottocenter.org/ui/entrances/37441](https://grottocenter.org/ui/entrances/37441)   
 
 ---  
 <a name="US-2415d483cb85f98853dde43963b9ac04"></a>
@@ -8292,7 +8328,7 @@ Spain - Santa Cruz de Tenerife - Canary Islands; El Hierro Island
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1529](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1529)   
 [https://en.wikipedia.org/wiki/Cueva_de_Don_Justo](https://en.wikipedia.org/wiki/Cueva_de_Don_Justo)   
 [Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf](http://www.vulcanospeleology.org/sym06/ISV6x31.pdf)   
-[https://www.grottocenter.org/html/file_En.php?id=37962](https://www.grottocenter.org/html/file_En.php?id=37962)   
+[https://grottocenter.org/ui/entrances/37962](https://grottocenter.org/ui/entrances/37962)   
 
 ---  
 <a name="ES-395aa6af4815242b29f6c73857d93186"></a>
@@ -8957,6 +8993,7 @@ Spain - Santa Cruz de Tenerife; Las Palmas; Haria - Canary Islands; Lanzarote
 [Carracedo et al. (2003) http://hdl.handle.net/10261/2329](http://hdl.handle.net/10261/2329)   
 [https://en.wikipedia.org/wiki/Cueva_de_los_Verdes](https://en.wikipedia.org/wiki/Cueva_de_los_Verdes)   
 [Halliday (1976) http://www.vulcanospeleology.org/sym01/ISV1x12.pdf](http://www.vulcanospeleology.org/sym01/ISV1x12.pdf)   
+[Tomasi et al. (2022) doi:10.1029/2022JB024056](https://doi.org/10.1029/2022JB024056)   
 
 ---  
 <a name="EC-d4831c987965951d7d7c49b793c342c7"></a>
@@ -9009,7 +9046,7 @@ Spain - Santa Cruz de Tenerife; Icod de los Vinos - Tenerife
 *Cave type:* lava tunnel  
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1504](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1504)   
 [Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf](http://www.vulcanospeleology.org/sym07/ISV7x16.pdf)   
-[https://www.grottocenter.org/html/file_En.php?id=73945](https://www.grottocenter.org/html/file_En.php?id=73945)   
+[https://grottocenter.org/ui/entrances/73945](https://grottocenter.org/ui/entrances/73945)   
 
 ---  
 <a name="EC-2b7fda6457962d958389971e6b008767"></a>
@@ -9059,8 +9096,7 @@ Spain - Santa Cruz de Tenerife; Icod de los Vinos - Canary Islands; Tenerife
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=665](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=665)   
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1506](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1506)   
 [Oromi (2018) doi:10.1007/978-3-319-98852-8_17](https://doi.org/10.1007/978-3-319-98852-8_17)   
-[https://www.grottocenter.org/html/file_En.php?id=65330](https://www.grottocenter.org/html/file_En.php?id=65330)   
-[https://beta.grottocenter.org/ui/entries/65330](https://beta.grottocenter.org/ui/entries/65330)   
+[https://grottocenter.org/ui/entrances/65330](https://grottocenter.org/ui/entrances/65330)   
 [Catálogo Espeleológico de Tenerife (1995) https://www.museosdetenerife.org/assets/downloads/publication-d80621342c.pdf](https://www.museosdetenerife.org/assets/downloads/publication-d80621342c.pdf)   
 
 ---  
@@ -9499,7 +9535,9 @@ Spain - Santa Cruz de Tenerife - Tenerife; Icod de Los Vinos
 [Zurita et al. (1994) http://vulcanospeleology.org/sym07/ISV7x19.pdf](http://vulcanospeleology.org/sym07/ISV7x19.pdf)   
 [Martin Esquivel and Zamora (1999) http://www.vulcanospeleology.org/sym09/ISV9Er.pdf](http://www.vulcanospeleology.org/sym09/ISV9Er.pdf)   
 [Catálogo Espeleológico de Tenerife (1995) https://www.museosdetenerife.org/assets/downloads/publication-d80621342c.pdf](https://www.museosdetenerife.org/assets/downloads/publication-d80621342c.pdf)   
-[https://www.grottocenter.org/html/file_En.php?id=24948](https://www.grottocenter.org/html/file_En.php?id=24948)   
+[https://grottocenter.org/ui/entrances/24948](https://grottocenter.org/ui/entrances/24948)   
+[Oromi and Socorro (2021) doi:10.3390/d13060226](https://doi.org/10.3390/d13060226)   
+Esquivel et al. "La Cueva del Viento" (1995), Publisher: Gobierno de Canarias  
 *Cave use:* guided tourist cave  
 
 ---  
@@ -10529,7 +10567,7 @@ Iceland - Austur-Hunavatnssysla; Reykjanes peninsula
 *Cave type:* lava tunnel  
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=13](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=13)   
 [Waters (2006) http://www.vulcanospeleology.org/sym12/ISV12p08.pdf](http://www.vulcanospeleology.org/sym12/ISV12p08.pdf)   
-[https://www.grottocenter.org/html/file_En.php?id=65348](https://www.grottocenter.org/html/file_En.php?id=65348)   
+[https://grottocenter.org/ui/entrances/65348](https://grottocenter.org/ui/entrances/65348)   
 
 ---  
 <a name="US-5c91c49cdb1e87b9f7d11496e18c403f"></a>
@@ -14387,6 +14425,7 @@ United States of America - Idaho; Bingham County
 *Length:* 735m   
 *Cave type:* lava tunnel  
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1007](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1007)   
+[Mullican and Carraway (1990) https://doi.org/10.2307/1381945](https://doi.org/10.2307/1381945)   
 
 ---  
 <a name="JP-45a36b6750d4ad6765fbb24f770bcb76"></a>
@@ -14487,8 +14526,10 @@ Japan - Kumamoto - Mt. Aso
 United States of America - Idaho; Bingham County  
 *Cave Name(s):* **Moonshiner Cave**  
 *Length:* 148m   
-*Cave type:* lava tunnel  
+*Rock type:* basalt   
+*Comments:* lava blister  
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1008](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1008)   
+[Mullican and Carraway (1990) https://doi.org/10.2307/1381945](https://doi.org/10.2307/1381945)   
 
 ---  
 <a name="US-ce047b7d3e2a44f263b213aab60064c2"></a>
@@ -15960,7 +16001,7 @@ Iceland - Arnessysla
 *Contents:* periodic ice  
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=8](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=8)   
 [https://en.wikipedia.org/wiki/Raufarh%C3%B3lshellir](https://en.wikipedia.org/wiki/Raufarh%C3%B3lshellir)   
-[https://www.grottocenter.org/html/file_En.php?id=73150](https://www.grottocenter.org/html/file_En.php?id=73150)   
+[https://grottocenter.org/ui/entrances/73150](https://grottocenter.org/ui/entrances/73150)   
 
 ---  
 <a name="US-129888f56fb0a28a321d0ebaea091a1d"></a>
@@ -17881,7 +17922,7 @@ Spain - Santa Cruz de Tenerife; Las Palmas; Haria - Canary Islands; Lanzarote
  *Part of* [Cueva de los Verdes](#ES-LZ/HR-2)  
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1147](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1147)   
 [https://www.lanzarotecaves.com/tunel-de-la-atlantida/](https://www.lanzarotecaves.com/tunel-de-la-atlantida/)   
-[https://www.grottocenter.org/html/file_En.php?id=72762](https://www.grottocenter.org/html/file_En.php?id=72762)   
+[https://grottocenter.org/ui/entrances/72762](https://grottocenter.org/ui/entrances/72762)   
 
 ---  
 <a name="ES-LZ/HR-8"></a>
@@ -18233,7 +18274,7 @@ Rwanda - Ruhengueri - Kanisimbi
 *Rock type:* basalt *Cave type:* lava tunnel  
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1455](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1455)   
 [Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf](http://vulcanospeleology.org/newsletters/Vulcano50.pdf)   
-[https://www.grottocenter.org/html/file_En.php?id=37930](https://www.grottocenter.org/html/file_En.php?id=37930)   
+[https://grottocenter.org/ui/entrances/37930](https://grottocenter.org/ui/entrances/37930)   
 
 ---  
 <a name="RW-ddec8b3640f82b5a4509f24b250337ae"></a>
@@ -18243,7 +18284,7 @@ Rwanda - Ruhengueri - Kanisimbi
 *Length:* ~1952m   
 *Rock type:* basalt *Cave type:* lava tunnel  
 [Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf](http://vulcanospeleology.org/newsletters/Vulcano50.pdf)   
-[https://www.grottocenter.org/html/file_En.php?id=37934](https://www.grottocenter.org/html/file_En.php?id=37934)   
+[https://grottocenter.org/ui/entrances/37934](https://grottocenter.org/ui/entrances/37934)   
 
 ---  
 <a name="RW-796e9743d68fe2154760b67f0ca0ff9c"></a>
@@ -18260,9 +18301,9 @@ Rwanda - Northern province; Musanze district - Virunga mountains
 *Cave Name(s):* **Ubuvumo Manjari deux**  
 *Coordinates:* [-1.5535, +29.53517](https://maps.google.com/?ll=-1.5535,29.53517) *altitude:* 2250  
 *Length:* 1660m *Vertical extent:* 58m   
-[map](https://www.grottocenter.org/upload/topos/u2170-t927-rf470e4ed06ab0bce6ed89485ca2009ba-ubuvumo-manjari-deux.PNG)   
+[map](https://grottocenter.blob.core.windows.net/documents/u2170-t927-rf470e4ed06ab0bce6ed89485ca2009ba-ubuvumo-manjari-deux.PNG)   
 *Cave type:* lava tunnel  
-[https://www.grottocenter.org/html/file_En.php?id=37929](https://www.grottocenter.org/html/file_En.php?id=37929)   
+[https://grottocenter.org/ui/entrances/37929](https://grottocenter.org/ui/entrances/37929)   
 [Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf](http://vulcanospeleology.org/newsletters/Vulcano50.pdf)   
 
 ---  
@@ -18274,7 +18315,7 @@ Rwanda - Rubavu district
 *Cave type:* lava tunnel  
 *Contents:* many bats  
 [Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf](http://vulcanospeleology.org/newsletters/Vulcano50.pdf)   
-[https://www.grottocenter.org/html/file_En.php?id=37927](https://www.grottocenter.org/html/file_En.php?id=37927)   
+[https://grottocenter.org/ui/entrances/37927](https://grottocenter.org/ui/entrances/37927)   
 
 ---  
 <a name="RW-615ce4d4a7c8146dbd4ffea4316eeea9"></a>
@@ -18285,7 +18326,7 @@ Rwanda
 *Cave type:* lava tunnel  
 *Contents:* many bats  
 [Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf](http://vulcanospeleology.org/newsletters/Vulcano50.pdf)   
-[https://www.grottocenter.org/html/file_En.php?id=37928](https://www.grottocenter.org/html/file_En.php?id=37928)   
+[https://grottocenter.org/ui/entrances/37928](https://grottocenter.org/ui/entrances/37928)   
 
 ---  
 <a name="US-88eec3a2d2821103e5e0215a178df08b"></a>
@@ -19524,7 +19565,7 @@ Spain - Santa Cruz de Tenerife; Tazacorte - Canary Islands; La Palma Island
 [Fernandez (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf)   
 [https://es.wikipedia.org/wiki/Cueva_de_Las_Palomas](https://es.wikipedia.org/wiki/Cueva_de_Las_Palomas)   
 [Dumpierrez et al. (1998) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/49/filename/50.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/49/filename/50.pdf)   
-[https://www.grottocenter.org/html/file_En.php?id=68964](https://www.grottocenter.org/html/file_En.php?id=68964)   
+[https://grottocenter.org/ui/entrances/68964](https://grottocenter.org/ui/entrances/68964)   
 
 ---  
 <a name="ES-LP/LLA-4"></a>
@@ -20389,12 +20430,15 @@ Moon - Marius Hills; Oceanus Procellarum
 [Sauro et al. (2020) doi:10.1016/j.earscirev.2020.103288](https://doi.org/10.1016/j.earscirev.2020.103288)   
 
 ---  
-<a name="XO-c8ff916b3281f27e749433c6c1d60104"></a>
+<a name="XO-e3d3e12c34b415647deb651df6d9d9c4"></a>
 Moon - Marius Hills; Oceanus Procellarum  
-*Cave Name(s):*   
+*Cave Name(s):* **Marius Hills Pit**  
 *Coordinates:* [14.091, -56.77](https://www.google.com/moon/#lat=14.091&lon=-56.77)   
+*Vertical extent:* 40m   
 *Cave type:* lava tunnel  
+[Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008](https://doi.org/10.1016/j.pss.2012.05.008)   
 [Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
+[http://lroc.sese.asu.edu/pits/1](http://lroc.sese.asu.edu/pits/1)   
 
 ---  
 <a name="XO-f6ad8dd2e96a835f0462047b498156ca"></a>
@@ -20418,10 +20462,11 @@ Moon
 Moon - Mare Ingenii  
 *Cave Name(s):* **Ingenii Pit**  
 *Coordinates:* [-35.950, +166.057](https://www.google.com/moon/#lat=-35.950&lon=166.057) *altitude:* -3620  
-*Vertical extent:*  >45m   
+*Vertical extent:* 55m   
 [Haruyama et al. (2012) doi:10.1007/978-3-642-27969-0_6](https://doi.org/10.1007/978-3-642-27969-0_6)   
 [Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008](https://doi.org/10.1016/j.pss.2012.05.008)   
 [Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
+[http://lroc.sese.asu.edu/pits/6](http://lroc.sese.asu.edu/pits/6)   
 
 ---  
 <a name="XO-be170845b2e86898da1aa1d5fc33348f"></a>
@@ -20433,14 +20478,7 @@ Moon - Mare Tranquillitatis
 [Haruyama et al. (2012) doi:10.1007/978-3-642-27969-0_6](https://doi.org/10.1007/978-3-642-27969-0_6)   
 [Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008](https://doi.org/10.1016/j.pss.2012.05.008)   
 [Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
-
----  
-<a name="XO-e72b52449f8809e227d5039bb86c7ce4"></a>
-Moon - Marius Hills  
-*Cave Name(s):* **Marius Hills Pit**  
-*Coordinates:* [14.091, -56.767](https://www.google.com/moon/#lat=14.091&lon=-56.767)   
-[Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008](https://doi.org/10.1016/j.pss.2012.05.008)   
-[Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
+[http://lroc.sese.asu.edu/pits/3](http://lroc.sese.asu.edu/pits/3)   
 
 ---  
 <a name="XO-a7142cb732c947d8f2fbc90b43b068ac"></a>
@@ -20448,46 +20486,57 @@ Moon - King Crater
 *Cave Name(s):* **King Pond Bridge**  
 *Coordinates:* [6.241, +119.735](https://www.google.com/moon/#lat=6.241&lon=119.735)   
 [Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008](https://doi.org/10.1016/j.pss.2012.05.008)   
+[Wagner and Robison (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
 
 ---  
 <a name="XO-803cb051c79daf1ab8922c65c672e22f"></a>
 Moon  
 *Cave Name(s):* **Copernicus Pond Pit**  
 *Coordinates:* [10.329, -20.381](https://www.google.com/moon/#lat=10.329&lon=-20.381)   
+*Vertical extent:*  ~100+m   
 [Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008](https://doi.org/10.1016/j.pss.2012.05.008)   
+[Wagner and Robison (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
 
 ---  
 <a name="XO-a660c33450bd4945d77cb6c88cf3e781"></a>
 Moon - Philolaus Crater  
-*Cave Name(s):* **Philolaus Lava Tube**  
-*Coordinates:* [72.1, -32.5](https://www.google.com/moon/#lat=72.1&lon=-32.5)   
-*Number of entrances:* 3+  
-*Cave type:* lava tunnel  
+*Cave Name(s):* **Philolaus Lava Tube** Philolaus 1  
+*Coordinates:* [72.2, -32.5](https://www.google.com/moon/#lat=72.2&lon=-32.5)   
+*Vertical extent:*  >8 m *Number of entrances:* 3+  
+*Rock type:* basalt *Cave type:* lava tunnel  
+*Comments:* in impact melt  
 [Lee et al. (2018) https://www.hou.usra.edu/meetings/lpsc2018/pdf/2982.pdf](https://www.hou.usra.edu/meetings/lpsc2018/pdf/2982.pdf)   
+[http://lroc.sese.asu.edu/pits/207](http://lroc.sese.asu.edu/pits/207)   
 
 ---  
-<a name="XO-93b8f716715ad87b2cd1c41e555f2bab"></a>
+<a name="XO-b20fb09defaae11ddd783545c54af55d"></a>
 Moon - Lacus Mortis  
-*Cave Name(s):*   
-*Coordinates:* [44.962, +25.610](https://www.google.com/moon/#lat=44.962&lon=25.610)   
+*Cave Name(s):* **Lacus Mortis Pit**  
+*Coordinates:* [44.962, +25.61](https://www.google.com/moon/#lat=44.962&lon=25.61)   
+*Vertical extent:* 60m   
 *Comments:* mare pit  
 [Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
+[http://lroc.sese.asu.edu/pits/8](http://lroc.sese.asu.edu/pits/8)   
 
 ---  
-<a name="XO-5b0ea98dd80d2a4deb5c98dd0655c5d3"></a>
+<a name="XO-7191ef4823d62aa623cf2765097f6116"></a>
 Moon - Central Mare Fecunditatis  
-*Cave Name(s):*   
+*Cave Name(s):* **Central Mare Fecunditatis Pit**  
 *Coordinates:* [-0.917, +48.660](https://www.google.com/moon/#lat=-0.917&lon=48.660)   
+*Vertical extent:* 42m   
 *Comments:* mare pit  
 [Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
+[http://lroc.sese.asu.edu/pits/16](http://lroc.sese.asu.edu/pits/16)   
 
 ---  
-<a name="XO-8fc6cb47eff4a7023327197b01fc0139"></a>
+<a name="XO-011764601a2de1f0ca899245a8e57850"></a>
 Moon - Southwest Mare Fecunditatis  
-*Cave Name(s):*   
+*Cave Name(s):* **Southwest Mare Fecunditatis Pit**  
 *Coordinates:* [-6.752, +42.759](https://www.google.com/moon/#lat=-6.752&lon=42.759)   
+*Vertical extent:* 51m   
 *Comments:* mare pit  
 [Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
+[http://lroc.sese.asu.edu/pits/17](http://lroc.sese.asu.edu/pits/17)   
 
 ---  
 <a name="XO-1784243194723053467b8b7373f54c05"></a>
@@ -20496,20 +20545,46 @@ Moon - Schlüter Crater
 *Coordinates:* [-5.839, -83.050](https://www.google.com/moon/#lat=-5.839&lon=-83.050)   
 *Comments:* mare pit  
 [Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
+[http://lroc.sese.asu.edu/pits/18](http://lroc.sese.asu.edu/pits/18)   
 
 ---  
 <a name="XO-feca3cb0c21cc37d037dcc83307baa7b"></a>
 Moon  
 *Cave Name(s):* **Highland 1 Pit**  
 *Coordinates:* [43.966, +23.083](https://www.google.com/moon/#lat=43.966&lon=23.083)   
+*Vertical extent:* 27m   
 [Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
+[http://lroc.sese.asu.edu/pits/19](http://lroc.sese.asu.edu/pits/19)   
 
 ---  
 <a name="XO-85e72ca89475d7a053cfc53aec594cef"></a>
 Moon  
 *Cave Name(s):* **Highland 2 Pit**  
 *Coordinates:* [41.156, +18.819](https://www.google.com/moon/#lat=41.156&lon=18.819)   
+*Vertical extent:*  >24m   
 [Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
+[http://lroc.sese.asu.edu/pits/20](http://lroc.sese.asu.edu/pits/20)   
+
+---  
+<a name="XO-1bd8a8390de105af6a1fda83bca0ecdf"></a>
+Moon - Tycho crater  
+*Cave Name(s):*   
+*Coordinates:* [-43.3, -11.2](https://www.google.com/moon/#lat=-43.3&lon=-11.2)   
+*Vertical extent:*  >32m   
+*Rock type:* basalt   
+*Comments:* pit in impact melt  
+[Wagner and Robison (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
+
+---  
+<a name="XO-116aa53b9588ff0468baf1b20abbbd10"></a>
+Moon - Lalande crater  
+*Cave Name(s):* **Lalande 12**  
+*Coordinates:* [-4.43, -8.6](https://www.google.com/moon/#lat=-4.43&lon=-8.6)   
+*Vertical extent:*  >11m   
+*Rock type:* basalt   
+*Comments:* pit in impact melt  
+[Wagner and Robison (2014) doi:10.1016/j.icarus.2014.04.002](https://doi.org/10.1016/j.icarus.2014.04.002)   
+[http://lroc.sese.asu.edu/pits/193](http://lroc.sese.asu.edu/pits/193)   
 
 ---  
 <a name="XA-d2e2e91908fbea3557add34500154485"></a>

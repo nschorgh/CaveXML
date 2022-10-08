@@ -20,6 +20,7 @@ Nervensystem-Hohle,,,6139,262,6,AT-1627/74
 Hochschneid Eishohle,,,,,,AT-62157e008c37edf7bc663a9590653c8e
 Schodlkogeleishohle,939,939,,,,AT-12939fa5b2fd0bd0b11978d23799d594
 Sudkar-Eishohle,,,,250,,AT-1826/25
+Obstanser Eishohle,2175,2175,,,,AT-3ced55d45a6595c81a70ea34aeaaf1c3
 Ledenica,,,,,,BA-ccffe3d9f1b3bcbb3a83f3e524a694b1
 Ledana Pit,,,,,,BA-e162a9a2aaa25b709e3ad2e3011b45d4
 Ledena Jama u Lomskoj dulibi,1235,1235,,536,,HR-fc5c286f2874ed642e4a714c611bdc41
@@ -31,6 +32,7 @@ Vukusic  Ice  Cave,1470,1470,,30,,HR-127e07914a01979e937269d23b2317b4
 Stirovaca Ice  Cave,1110,1110,351,36,2,HR-649eabf30132b3395f1622ed9bc0223c
 Gavranova jama,1100,1100,,20,2,HR-1087eb5bceb413d883582a5eee8fb42a
 Korkia-Mauran Jaaluola,125,125,,,,FI-3bacd764cccfcdca855f79037da8fe2e
+Devaux cave,2838,2838,2500,,,FR-4796d29827a08b996a471a78e898a8e1
 Surtshellir,,,1970,37,,IS-cfd58b66d7080bc2f98c4a0c695ec018
 Ishellir,,,500,,,IS-0be6610b5c951d4644b5dc592e0a7f57
 Stefanshellir,,,1520,,,IS-6b64a41d13ea3703bc179d5320cb7b55
@@ -92,7 +94,7 @@ Inferno di Ghiaccio,2120,2120,162,95,,IT-LOLC-1904
 Holiday on Ice,2144,2144,70,48,,IT-LOLC-1916
 Grotta di Cristallo,2780,2780,39,20,,IT-LOSO-3056
 Cioccherloch,2274,2274,250,,1,IT-F22
-Leupa ice cave,2300,2300,,,,IT-9c2eb5b1f5f39083b07ab40f8925f0ee
+Leupa ice cave,2300,2300,132,29,3,IT-9c2eb5b1f5f39083b07ab40f8925f0ee
 Vasto ice cave,2200,2200,,,,IT-08eadc59b6060b7e7729f4a83561cbd2
 Ice Cave,1945,1945,2057,451,,ME-03110
 03061,2034,2034,572,207,,ME-03061
@@ -539,7 +541,7 @@ Arnica,,,242,,,CA-3645ec433eac2f9131802e3c9257d4ba
 Black Ice Cave,,,,,,CA-8516076b1617e6b61925e6a3aff17e36
 Canyon Creek,1769,1769,727,,,CA-e0deca06801b5c5fa667309c5758a56e
 Plateau Mountain,2226,2226,410,,,CA-04500b255849c7007f21fb6737873bad
-Booming Ice Chasm,2189,2189,961,,,CA-2b37cadafcda9fcc0b489ca2f542074c
+Booming Ice Chasm,2189,2189,961,179,,CA-2b37cadafcda9fcc0b489ca2f542074c
 Glittering Ice Palace,2226,2226,286,,,CA-95df53c356b3a2acc5ab4c713e7b254f
 Coultard Cave,2440,2440,370,,,CA-54e25d4b0937e08f2da46a93f681a4db
 Ice Chest,2250,2250,381,,,CA-4b3428fada048fa888741b11348e8dc2
@@ -743,6 +745,7 @@ Scythe Tunnel,,,302,7,,AU-ASF-4BB-7
 ,,,55,,,AU-ASF-4BB-4
 ,,,130,10,,AU-ASF-4BB-6
 Black Pellet Cave,,,2378,,,US-b9ea902008341657ea70ba5e7136bcd8
+Sample Cave,,,60,,,US-cfd31531a6ca2660a8636ab993a29bf1
 Blair Cave,,,1110,,,US-6f45471630395ef02837a15666231e87
 Blami Cave,,,913,,,IS-6bfded6bbc5b2d7cefaf054f3ad9b538
 Blind Eye Spider Cave,,,133,,,US-59df6910ecd5d28a14b383f4bfc2817d
@@ -2218,21 +2221,22 @@ Superficial Cave,,,34,,,US-E540
 ,,,,,,XO-c8ff916b3281f27e749433c6c1d60104
 Marius Hill A,,,6402,,,XO-9a858b37208a82e1cb8e4d23a71289d8
 Marius Hill B,,,4137,,,XO-a01b11ce25463e8417c6bcacff6f396f
-,,,,,,XO-c8ff916b3281f27e749433c6c1d60104
+Marius Hills Pit,,,,40,,XO-e3d3e12c34b415647deb651df6d9d9c4
 Gruithuisen,,,27244,,20,XO-f6ad8dd2e96a835f0462047b498156ca
 Hyginus Rill Tectonic,,,,,,XO-f792c5bc915d41f787526a95fe004bdd
-Ingenii Pit,-3620,-3620,,45,,XO-4e3053626f0ce6cf7a7bae50e14ac0c5
+Ingenii Pit,-3620,-3620,,55,,XO-4e3053626f0ce6cf7a7bae50e14ac0c5
 Tranquillitatis Pit,-770,-770,,107,,XO-be170845b2e86898da1aa1d5fc33348f
-Marius Hills Pit,,,,,,XO-e72b52449f8809e227d5039bb86c7ce4
 King Pond Bridge,,,,,,XO-a7142cb732c947d8f2fbc90b43b068ac
-Copernicus Pond Pit,,,,,,XO-803cb051c79daf1ab8922c65c672e22f
-Philolaus Lava Tube,,,,,3,XO-a660c33450bd4945d77cb6c88cf3e781
-,,,,,,XO-93b8f716715ad87b2cd1c41e555f2bab
-,,,,,,XO-5b0ea98dd80d2a4deb5c98dd0655c5d3
-,,,,,,XO-8fc6cb47eff4a7023327197b01fc0139
+Copernicus Pond Pit,,,,100,,XO-803cb051c79daf1ab8922c65c672e22f
+Philolaus Lava Tube,,,,8,3,XO-a660c33450bd4945d77cb6c88cf3e781
+Lacus Mortis Pit,,,,60,,XO-b20fb09defaae11ddd783545c54af55d
+Central Mare Fecunditatis Pit,,,,42,,XO-7191ef4823d62aa623cf2765097f6116
+Southwest Mare Fecunditatis Pit,,,,51,,XO-011764601a2de1f0ca899245a8e57850
 ,,,,,,XO-1784243194723053467b8b7373f54c05
-Highland 1 Pit,,,,,,XO-feca3cb0c21cc37d037dcc83307baa7b
-Highland 2 Pit,,,,,,XO-85e72ca89475d7a053cfc53aec594cef
+Highland 1 Pit,,,,27,,XO-feca3cb0c21cc37d037dcc83307baa7b
+Highland 2 Pit,,,,24,,XO-85e72ca89475d7a053cfc53aec594cef
+,,,,32,,XO-1bd8a8390de105af6a1fda83bca0ecdf
+Lalande 12,,,,11,,XO-116aa53b9588ff0468baf1b20abbbd10
 Arsia North,,,23359,,22,XA-d2e2e91908fbea3557add34500154485
 Arsia South A,,,9683,,23,XA-1dd91fee59fa4dab28c6fcd900aaee23
 Arsia South B,,,13615,,17,XA-b36fa07bf6eab958b13534c802c22629

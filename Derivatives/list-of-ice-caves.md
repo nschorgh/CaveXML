@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 547 rock-hosted caves with perennial ice was generated from a CaveXML database.  
+This list of 549 rock-hosted caves with perennial ice was generated from a CaveXML database.  
 
 Austria - Niederösterreich [**Südkar-Eishöhle** 1826/25; 1826/26](allcaves-database.md#AT-1826/25)  
 Austria - Oberösterreich [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
@@ -20,6 +20,7 @@ Austria - Steiermark; Oberösterreich [**Nervensystem-Höhle** 1627/74](allcaves
 Austria - Steiermark; Oberösterreich [**Schönberg-Höhlensystem** 1626/300](allcaves-database.md#AT-1626/300)  
 Austria - Steiermark [**Schneeloch** 1851/7](allcaves-database.md#AT-1851/7)  
 Austria - Tirol [**Hundalm Eishöhle** Hundalm Eis- und Tropfsteinhöhle; Hundsalm Eishöhle 1266/1](allcaves-database.md#AT-1266/1)  
+Austria - Tirol (Osttirol) [**Obstanser Eishöhle** ](allcaves-database.md#AT-3ced55d45a6595c81a70ea34aeaaf1c3)  
 Bosnia and Herzegovina [**Ledana Pit** ](allcaves-database.md#BA-e162a9a2aaa25b709e3ad2e3011b45d4)  
 Bosnia and Herzegovina [**Ledenica** ](allcaves-database.md#BA-ccffe3d9f1b3bcbb3a83f3e524a694b1)  
 Canada - Alberta [**Booming Ice Chasm** ](allcaves-database.md#CA-2b37cadafcda9fcc0b489ca2f542074c)  
@@ -71,6 +72,7 @@ Croatia [**Puhaljka Cave** ](allcaves-database.md#HR-5f9eca7e842ee5186254a785139
 Croatia [**Snjeguljac Cave** ](allcaves-database.md#HR-33106ec4fe619387c246bf1b458644ca)  
 Croatia [**Vukušić  Ice  Cave** Vukušić snježnica ](allcaves-database.md#HR-127e07914a01979e937269d23b2317b4)  
 Finland [**Korkia-Mauran Jääluola** Ice Cave ](allcaves-database.md#FI-3bacd764cccfcdca855f79037da8fe2e)  
+France [**Devaux cave** ](allcaves-database.md#FR-4796d29827a08b996a471a78e898a8e1)  
 Germany - Bayern [**Cannstatter Schacht** 1338/183](allcaves-database.md#DE-1338/183)  
 Germany - Bayern [**Eisbläser** 1339/246](allcaves-database.md#DE-1339/246)  
 Germany - Bayern [**Eisfliegenschacht** ](allcaves-database.md#DE-d5d6206d84f6002b89cc083a009883c7)  
@@ -120,7 +122,7 @@ India - Jammu and Kashmir [**Amarnath Cave** Holy Cave; Shri Amarnath Cave ](all
 Iran - Alborz province [**Ghar Yakh-Morad** Yakh-Morad Ice Cave ](allcaves-database.md#IR-fac51e19eec91adebc71a052e75aaaa3)  
 Iran [**Dena Ice Cave** Ghar Yakh Dena ](allcaves-database.md#IR-19714e6a881106ade7501e575ba34763)  
 Italy [**Cioccherloch** F22; 4977-V-BL](allcaves-database.md#IT-F22)  
-Italy - Friuli Venezia Giulia [**Leupa ice cave** ](allcaves-database.md#IT-9c2eb5b1f5f39083b07ab40f8925f0ee)  
+Italy - Friuli Venezia Giulia [**Leupa ice cave** Rossalm-Eishöhle ](allcaves-database.md#IT-9c2eb5b1f5f39083b07ab40f8925f0ee)  
 Italy - Friuli Venezia Giulia [**Vasto ice cave** ](allcaves-database.md#IT-08eadc59b6060b7e7729f4a83561cbd2)  
 Italy - Lombardy [**Abisso dei Marons Glaces** LOLC-1809](allcaves-database.md#IT-LOLC-1809)  
 Italy - Lombardy [**Abisso Delle Spade** LOLC-1648](allcaves-database.md#IT-LOLC-1648)  
@@ -549,7 +551,3 @@ Uzbekistan - Qashqadaryo Region; Yakkabog District [**Gissarskaya Cave** Hissar 
 Uzbekistan - Surxondaryo Province [**Festival'naya-Ledopadnaya** Western Karst System of Hodja Gur Gur Ata ](allcaves-database.md#UZ-a4a49f658eed269c81d80dfdd7d05aef)  
 Uzbekistan - Surxondaryo Province [**Ledopadnaya** ](allcaves-database.md#UZ-b6a1d24a1d9b2df772f08c109334bd0f) *Part of* Festival'naya-Ledopadnaya  
 Uzbekistan [**Ulug-Bek** Ulugh Begh ](allcaves-database.md#UZ-fa57d54912096b4b9b35b3c46c8742d5)  
-
-
-
-

@@ -25,6 +25,7 @@
       <reference>Margesin et al. (2004) doi:10.1099/ijs.0.63124-0</reference>
       <reference>Schöner et al. (2011) doi:10.5194/tc-5-603-2011</reference>
       <reference>https://en.wikipedia.org/wiki/Eisriesenwelt</reference>
+      <reference>Hauser and Oedl (1921) https://www.zobodat.at/pdf/Spelaeologisches-Jb_4_1923_0017-0047.pdf</reference>
       <cave-use>guided tourist cave</cave-use>
       <curation />
    </record>
@@ -264,6 +265,7 @@
       <cave-system>Gamslöcher-Kolowrat-Höhlensystem</cave-system>
       <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
       <reference>https://de.wikipedia.org/wiki/Kolowratsh%C3%B6hle</reference>
+      <reference>https://www.zobodat.at/pdf/MGSL_64_0129-0144.pdf</reference>
    </record>
    <record>
       <country-name>Austria</country-name>
@@ -394,7 +396,23 @@
       <cave-type>solution cave</cave-type>
       <contents>permanent ice</contents>
       <comments />
-      <reference>Hartmann https://www.zobodat.at/pdf/Hoehle_027_0145-0149.pdf</reference>
+      <reference>Hartmann (2017) https://www.zobodat.at/pdf/Hoehle_027_0145-0149.pdf</reference>
+   </record>
+   <record>
+      <country-name>Austria</country-name>
+      <state-or-province>Tirol (Osttirol)</state-or-province>
+      <phys-area-name></phys-area-name>
+      <principal-cave-name>Obstanser Eishöhle</principal-cave-name>
+      <cave-id></cave-id>
+      <latitude></latitude>
+      <longitude></longitude>
+      <altitude>2175</altitude>
+      <length></length>
+      <vertical-extent></vertical-extent>
+      <cave-type>solution cave</cave-type>
+      <contents>permanent ice</contents>
+      <comments />
+      <reference>https://www.zobodat.at/pdf/Osttiroler-Heimatblaetter_1987-55-9_0001.pdf</reference>
    </record>
    
    <record>
@@ -572,6 +590,17 @@
       <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
+
+   <record>
+     <country-name>France</country-name>
+     <phys-area-name>Pyrenees; Monte Perdido Massif</phys-area-name>
+     <principal-cave-name>Devaux cave</principal-cave-name>
+     <altitude>~2838</altitude>
+     <length>~2500</length>     
+     <rock-type>limestone</rock-type>
+     <contents>permanent ice</contents>
+     <reference>Bartolome et al. (2022) doi:10.5194/egusphere-2022-349</reference>
+   </record>
    
    <record>
       <country-name>Iceland</country-name>
@@ -593,7 +622,7 @@
       <reference>Hroarsson and Jonsson (1992) http://www.vulcanospeleology.org/sym06/ISV6x19.pdf</reference>
       <reference>https://en.wikipedia.org/wiki/Surtshellir</reference>
       <reference>https://www.showcaves.com/english/is/caves/Surtshellir.html</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=23631</reference>
+      <reference>https://grottocenter.org/ui/entrances/23631</reference>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -636,7 +665,7 @@
       <reference>Mills and Wood (1972) https://www.shepton.org.uk/files/jnr/jnr_series_05_04.pdf</reference>
       <reference>https://www.thecave.is/</reference>
       <reference>Hroarsson and Jonsson (1992) http://www.vulcanospeleology.org/sym06/ISV6x19.pdf</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=23632</reference>
+      <reference>https://grottocenter.org/ui/entrances/23632</reference>
    </record>
    <record>
       <country-name>Iceland</country-name>
@@ -653,7 +682,7 @@
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=3</reference>
       <reference>Waters (2006) http://www.vulcanospeleology.org/sym12/ISV12p08.pdf</reference>
       <reference>Lauritzen et al. (2018) doi:10.1016/B978-0-12-811739-2.00023-1</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=73151</reference>
+      <reference>https://grottocenter.org/ui/entrances/73151</reference>
    </record>
 
    <record>
@@ -805,6 +834,7 @@
       <contents>permanent ice</contents>
       <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
       <reference>https://de.wikipedia.org/wiki/Schellenberger_Eish%C3%B6hle</reference>
+      <reference>https://www.zobodat.at/pdf/MGSL_64_0129-0144.pdf</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -1461,17 +1491,20 @@
       <state-or-province>Friuli Venezia Giulia</state-or-province>
       <phys-area-name>Canin massif</phys-area-name>
       <principal-cave-name>Leupa ice cave</principal-cave-name>
-      <other-cave-name />
+      <other-cave-name>Rossalm-Eishöhle</other-cave-name>
       <cave-id></cave-id>
       <latitude />
       <longitude />
-      <altitude>~2300</altitude>
-      <length></length>
-      <vertical-extent></vertical-extent>
+      <altitude>2300</altitude>
+      <length>132</length>
+      <vertical-extent>29</vertical-extent>
+      <number-of-entrances>3</number-of-entrances>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <reference>Maggi et al. (2018) doi:10.1016/B978-0-12-811739-2.00019-X</reference>
       <reference>Colucci et al. (2016) doi:10.1016/j.geomorph.2016.02.017</reference>
       <reference>Colucci et al. (2017) DOI:10.4461/GFDQ.2017.40.5</reference>
+      <reference>https://www.zobodat.at/pdf/Hoehle_67_0088-0096.pdf</reference>
    </record>
    <record>
       <country-name>Italy</country-name>
@@ -7869,10 +7902,11 @@
       <longitude>-114.63333</longitude>
       <altitude>2189</altitude>
       <length>961</length>
-      <vertical-extent />
+      <vertical-extent>179</vertical-extent>
       <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <comments>cold trap; Mississipian age</comments>
+      <comments>ice fall, frozen lake, frozen waterfall</comments>
       <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
       <reference>https://en.wikipedia.org/wiki/Booming_Ice_Chasm</reference>
    </record>
@@ -9752,7 +9786,7 @@
       <length>1050</length>
       <cave-type>lava tunnel</cave-type>
       <contents>permanent ice</contents>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=65162</reference>
+      <reference>https://grottocenter.org/ui/entrances/65162</reference>
       <reference>https://en.wikipedia.org/wiki/B%C3%BAri_(cave)</reference>
    </record>
    <record>
@@ -10132,7 +10166,6 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
-      <state-or-province></state-or-province>
       <phys-area-name>Mount St. Helens</phys-area-name>
       <principal-cave-name>Bat Cave</principal-cave-name>
       <cave-id>NSS-631-006</cave-id>
@@ -10587,6 +10620,16 @@
    </record>
    <record>
       <country-name>United States of America</country-name>
+      <state-or-province>Hawaii; North Hilo district</state-or-province>
+      <phys-area-name>Hawaii Island; Mauna Loa</phys-area-name>
+      <principal-cave-name>Sample Cave</principal-cave-name>
+      <length>60</length>
+      <cave-type>lava tunnel</cave-type>
+      <comments>water soluble minerals are present</comments>
+      <reference>White (2010) J. Cave Karst Std. 72(2), 75-85</reference>
+   </record>
+   <record>
+      <country-name>United States of America</country-name>
       <state-or-province>Hawaii</state-or-province>
       <phys-area-name>Hawaii Island; Kilauea</phys-area-name>
       <principal-cave-name>Blair Cave</principal-cave-name>
@@ -10947,7 +10990,7 @@
       <length>2500</length>
       <rock-type></rock-type>
       <cave-type>lava tunnel</cave-type>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=72083</reference>
+      <reference>https://grottocenter.org/ui/entrances/72083</reference>
       <reference>http://grutadocarvao.amigosdosacores.pt</reference>
       <reference>https://www.showcaves.com/english/pt/showcaves/CarvaoSaoMiguel.html</reference>
       <cave-use>guided tourist cave</cave-use>
@@ -11402,6 +11445,7 @@
       <reference>Daza et al. (2016) https://core.ac.uk/download/pdf/211106203.pdf</reference>
       <reference>https://www.museosdetenerife.org/assets/downloads/publication-307277c97d.pdf</reference>
       <reference>Kempe et al. (2021) doi:10.3986/ac.vi.7587</reference>
+      <reference>Miller et al. (2022) doi:10.1016/j.isci.2022.104556</reference>
       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
@@ -11414,6 +11458,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>Daza et al. (2016) https://core.ac.uk/download/pdf/211106203.pdf</reference>
       <reference>Kempe et al. (2021) doi:10.3986/ac.vi.7587</reference>
+      <reference>Miller et al. (2022) doi:10.1016/j.isci.2022.104556</reference>
    </record>
    <record>
       <country-name>Argentina</country-name>
@@ -11472,6 +11517,7 @@
       <state-or-province>Reunion</state-or-province>
       <phys-area-name>Reunion Island</phys-area-name>
       <principal-cave-name>Trou de la Plaine-des-Palmistes</principal-cave-name>
+      <other-cave-name>Plaine-des-Palmistes n°2</other-cave-name>
       <latitude>-21.1137</latitude>
       <longitude>55.6563</longitude>
       <length>947</length>
@@ -11481,7 +11527,7 @@
       <reference>https://vincentcheville.files.wordpress.com/2013/01/spelunca-97-reunion.pdf</reference>
       <reference>https://fr.wikipedia.org/wiki/Caverne_des_F%C3%A9es</reference>
       <reference>http://www.cavepics.com/IVS17/HONDAII.pdf</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=37423</reference>
+      <reference>https://grottocenter.org/ui/entrances/37423</reference>
    </record>
    <record>
       <country-name>France</country-name>
@@ -11496,7 +11542,7 @@
       <reference>https://vincentcheville.files.wordpress.com/2013/01/spelunca-97-reunion.pdf</reference>
       <reference>https://fr.wikipedia.org/wiki/Caverne_des_F%C3%A9es</reference>
       <reference>http://www.cavepics.com/IVS17/HONDAII.pdf</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=37441</reference>
+      <reference>https://grottocenter.org/ui/entrances/37441</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -12326,7 +12372,7 @@
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1529</reference>
       <reference>https://en.wikipedia.org/wiki/Cueva_de_Don_Justo</reference>
       <reference>Hernandez et al. (1992) http://www.vulcanospeleology.org/sym06/ISV6x31.pdf</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=37962</reference>
+      <reference>https://grottocenter.org/ui/entrances/37962</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -13185,6 +13231,7 @@
       <reference>Carracedo et al. (2003) http://hdl.handle.net/10261/2329</reference>
       <reference>https://en.wikipedia.org/wiki/Cueva_de_los_Verdes</reference>
       <reference>Halliday (1976) http://www.vulcanospeleology.org/sym01/ISV1x12.pdf</reference>
+      <reference>Tomasi et al. (2022) doi:10.1029/2022JB024056</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -13248,7 +13295,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1504</reference>
       <reference>Rosales Martin (1994) http://www.vulcanospeleology.org/sym07/ISV7x16.pdf</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=73945</reference>
+      <reference>https://grottocenter.org/ui/entrances/73945</reference>
    </record>
    <record>
       <country-name>Ecuador</country-name>
@@ -13312,8 +13359,7 @@
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=665</reference>
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1506</reference>
       <reference>Oromi (2018) doi:10.1007/978-3-319-98852-8_17</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=65330</reference>
-      <reference>https://beta.grottocenter.org/ui/entries/65330</reference>
+      <reference>https://grottocenter.org/ui/entrances/65330</reference>
       <reference>Catálogo Espeleológico de Tenerife (1995) https://www.museosdetenerife.org/assets/downloads/publication-d80621342c.pdf</reference>
    </record>
    <record>
@@ -13894,7 +13940,9 @@
       <reference>Zurita et al. (1994) http://vulcanospeleology.org/sym07/ISV7x19.pdf</reference>
       <reference>Martin Esquivel and Zamora (1999) http://www.vulcanospeleology.org/sym09/ISV9Er.pdf</reference>
       <reference>Catálogo Espeleológico de Tenerife (1995) https://www.museosdetenerife.org/assets/downloads/publication-d80621342c.pdf</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=24948</reference>
+      <reference>https://grottocenter.org/ui/entrances/24948</reference>
+      <reference>Oromi and Socorro (2021) doi:10.3390/d13060226</reference>
+      <reference>Esquivel et al. "La Cueva del Viento" (1995), Publisher: Gobierno de Canarias</reference>
       <cave-use>guided tourist cave</cave-use>
    </record>
    <record>
@@ -15217,7 +15265,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=13</reference>
       <reference>Waters (2006) http://www.vulcanospeleology.org/sym12/ISV12p08.pdf</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=65348</reference>
+      <reference>https://grottocenter.org/ui/entrances/65348</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -20216,6 +20264,7 @@
       <length>735</length>
       <cave-type>lava tunnel</cave-type>
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1007</reference>
+      <reference>Mullican and Carraway (1990) https://doi.org/10.2307/1381945</reference>
    </record>
    <record>
       <country-name>Japan</country-name>
@@ -20335,8 +20384,11 @@
       <state-or-province>Bingham County</state-or-province>
       <principal-cave-name>Moonshiner Cave</principal-cave-name>
       <length>148</length>
-      <cave-type>lava tunnel</cave-type>
+      <rock-type>basalt</rock-type>
+      <cave-type></cave-type>
+      <comments>lava blister</comments>
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1008</reference>
+      <reference>Mullican and Carraway (1990) https://doi.org/10.2307/1381945</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -22208,7 +22260,7 @@
       <contents>periodic ice</contents>
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=8</reference>
       <reference>https://en.wikipedia.org/wiki/Raufarh%C3%B3lshellir</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=73150</reference>
+      <reference>https://grottocenter.org/ui/entrances/73150</reference>
    </record>
    <record>
       <country-name>United States of America</country-name>
@@ -24749,7 +24801,7 @@
       <cave-system>Cueva de los Verdes</cave-system>
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1147</reference>
       <reference>https://www.lanzarotecaves.com/tunel-de-la-atlantida/</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=72762</reference>
+      <reference>https://grottocenter.org/ui/entrances/72762</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -25230,7 +25282,7 @@
       <cave-type>lava tunnel</cave-type>
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1455</reference>
       <reference>Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=37930</reference>
+      <reference>https://grottocenter.org/ui/entrances/37930</reference>
    </record>
    <record>
       <country-name>Rwanda</country-name>
@@ -25243,7 +25295,7 @@
       <rock-type>basalt</rock-type>
       <cave-type>lava tunnel</cave-type>
       <reference>Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=37934</reference>
+      <reference>https://grottocenter.org/ui/entrances/37934</reference>
    </record>
    <record>
       <country-name>Rwanda</country-name>
@@ -25267,10 +25319,10 @@
       <altitude>2250</altitude>
       <length>1660</length>
       <vertical-extent>58</vertical-extent>
-      <map-link>https://www.grottocenter.org/upload/topos/u2170-t927-rf470e4ed06ab0bce6ed89485ca2009ba-ubuvumo-manjari-deux.PNG</map-link>
+      <map-link>https://grottocenter.blob.core.windows.net/documents/u2170-t927-rf470e4ed06ab0bce6ed89485ca2009ba-ubuvumo-manjari-deux.PNG</map-link>
       <rock-type></rock-type>
       <cave-type>lava tunnel</cave-type>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=37929</reference>
+      <reference>https://grottocenter.org/ui/entrances/37929</reference>
       <reference>Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf</reference>
    </record>
    <record>
@@ -25287,7 +25339,7 @@
       <cave-type>lava tunnel</cave-type>
       <contents>many bats</contents>
       <reference>Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=37927</reference>
+      <reference>https://grottocenter.org/ui/entrances/37927</reference>
    </record>
    <record>
       <country-name>Rwanda</country-name>
@@ -25303,7 +25355,7 @@
       <cave-type>lava tunnel</cave-type>
       <contents>many bats</contents>
       <reference>Laumanns (2007) in http://vulcanospeleology.org/newsletters/Vulcano50.pdf</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=37928</reference>
+      <reference>https://grottocenter.org/ui/entrances/37928</reference>
    </record>
       
    <record>
@@ -26045,7 +26097,6 @@
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>Washington</state-or-province>
-      <state-or-province></state-or-province>
       <phys-area-name></phys-area-name>
       <principal-cave-name>Risky Business Cave</principal-cave-name>
       <length>686</length>
@@ -26886,7 +26937,7 @@
       <reference>Fernandez (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf</reference>
       <reference>https://es.wikipedia.org/wiki/Cueva_de_Las_Palomas</reference>
       <reference>Dumpierrez et al. (1998) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/49/filename/50.pdf</reference>
-      <reference>https://www.grottocenter.org/html/file_En.php?id=68964</reference>
+      <reference>https://grottocenter.org/ui/entrances/68964</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -28081,13 +28132,18 @@
    <record>
      <country-name>Moon</country-name>
      <phys-area-name>Marius Hills; Oceanus Procellarum</phys-area-name>
-     <principal-cave-name></principal-cave-name>
+     <principal-cave-name>Marius Hills Pit</principal-cave-name>
      <latitude>14.091</latitude>
      <longitude>-56.77</longitude>
      <length></length>
+     <vertical-extent>40</vertical-extent>
      <cave-type>lava tunnel</cave-type>
+     <comments/>
+     <reference>Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008</reference>
      <reference>Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002</reference>
+     <reference>http://lroc.sese.asu.edu/pits/1</reference>
    </record>
+      
    <record>
      <country-name>Moon</country-name>
      <phys-area-name />
@@ -28118,12 +28174,13 @@
      <longitude>166.057</longitude>
      <altitude>-3620</altitude>
      <length></length>
-     <vertical-extent> >45</vertical-extent>
+     <vertical-extent>55</vertical-extent>
      <cave-type></cave-type>
      <comments/>
      <reference>Haruyama et al. (2012) doi:10.1007/978-3-642-27969-0_6</reference>
      <reference>Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008</reference>
      <reference>Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002</reference>
+     <reference>http://lroc.sese.asu.edu/pits/6</reference>
    </record>
    <record>
      <country-name>Moon</country-name>
@@ -28139,18 +28196,7 @@
      <reference>Haruyama et al. (2012) doi:10.1007/978-3-642-27969-0_6</reference>
      <reference>Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008</reference>
      <reference>Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002</reference>
-   </record>
-   <record>
-     <country-name>Moon</country-name>
-     <phys-area-name>Marius Hills</phys-area-name>
-     <principal-cave-name>Marius Hills Pit</principal-cave-name>
-     <latitude>14.091</latitude>
-     <longitude>-56.767</longitude>
-     <length></length>
-     <cave-type></cave-type>
-     <comments/>
-     <reference>Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008</reference>
-     <reference>Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002</reference>
+     <reference>http://lroc.sese.asu.edu/pits/3</reference>
    </record>
    <record>
      <country-name>Moon</country-name>
@@ -28162,6 +28208,7 @@
      <cave-type></cave-type>
      <comments/>
      <reference>Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008</reference>
+     <reference>Wagner and Robison (2014) doi:10.1016/j.icarus.2014.04.002</reference>
    </record>
    <record>
      <country-name>Moon</country-name>
@@ -28170,57 +28217,65 @@
      <latitude>10.329</latitude>
      <longitude>-20.381</longitude>
      <length></length>
+     <vertical-extent> ~100+</vertical-extent>
      <cave-type></cave-type>
      <comments/>
      <reference>Robinson et al. (2012) doi:10.1016/j.pss.2012.05.008</reference>
+     <reference>Wagner and Robison (2014) doi:10.1016/j.icarus.2014.04.002</reference>
    </record>
    <record>
      <country-name>Moon</country-name>
      <phys-area-name>Philolaus Crater</phys-area-name>
      <principal-cave-name>Philolaus Lava Tube</principal-cave-name>
-     <latitude>72.1</latitude>
+     <other-cave-name>Philolaus 1</other-cave-name>
+     <latitude>72.2</latitude>
      <longitude>-32.5</longitude>
-     <altitude/>
-     <vertical-extent/>
+     <vertical-extent> >8 </vertical-extent>
      <number-of-entrances>3+</number-of-entrances>
+     <rock-type>basalt</rock-type>
      <cave-type>lava tunnel</cave-type>
+     <comments>in impact melt</comments>
      <reference>Lee et al. (2018) https://www.hou.usra.edu/meetings/lpsc2018/pdf/2982.pdf</reference>
+     <reference>http://lroc.sese.asu.edu/pits/207</reference>
    </record>
    <record>
      <country-name>Moon</country-name>
      <phys-area-name>Lacus Mortis</phys-area-name>
-     <principal-cave-name></principal-cave-name>
+     <principal-cave-name>Lacus Mortis Pit</principal-cave-name>
      <latitude>44.962</latitude>
-     <longitude>25.610</longitude>
+     <longitude>25.61</longitude>
      <altitude></altitude>
-     <vertical-extent></vertical-extent>
+     <vertical-extent>60</vertical-extent>
      <cave-type></cave-type>
      <comments>mare pit</comments>
      <reference>Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002</reference>
+     <reference>http://lroc.sese.asu.edu/pits/8</reference>
    </record>
    <record>
      <country-name>Moon</country-name>
      <phys-area-name>Central Mare Fecunditatis</phys-area-name>
-     <principal-cave-name></principal-cave-name>
+     <principal-cave-name>Central Mare Fecunditatis Pit</principal-cave-name>
      <latitude>-0.917</latitude>
      <longitude>48.660</longitude>
      <altitude></altitude>
-     <vertical-extent></vertical-extent>
+     <vertical-extent>42</vertical-extent>
      <cave-type></cave-type>
      <comments>mare pit</comments>
      <reference>Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002</reference>
+     <reference>http://lroc.sese.asu.edu/pits/16</reference>
    </record>
    <record>
      <country-name>Moon</country-name>
      <phys-area-name>Southwest Mare Fecunditatis</phys-area-name>
-     <principal-cave-name></principal-cave-name>
+     <principal-cave-name>Southwest Mare Fecunditatis Pit</principal-cave-name>
      <latitude>-6.752</latitude>
      <longitude>42.759</longitude>
      <altitude></altitude>
-     <vertical-extent></vertical-extent>
+     <vertical-extent>51</vertical-extent>
      <cave-type></cave-type>
      <comments>mare pit</comments>
      <reference>Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002</reference>
+     <reference>http://lroc.sese.asu.edu/pits/17</reference>
    </record>
    <record>
      <country-name>Moon</country-name>
@@ -28233,6 +28288,7 @@
      <cave-type></cave-type>
      <comments>mare pit</comments>
      <reference>Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002</reference>
+     <reference>http://lroc.sese.asu.edu/pits/18</reference>
    </record>
    <record>
      <country-name>Moon</country-name>
@@ -28241,10 +28297,11 @@
      <latitude>43.966</latitude>
      <longitude>23.083</longitude>
      <altitude></altitude>
-     <vertical-extent></vertical-extent>
+     <vertical-extent>27</vertical-extent>
      <cave-type></cave-type>
      <comments></comments>
      <reference>Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002</reference>
+     <reference>http://lroc.sese.asu.edu/pits/19</reference>
    </record>
    <record>
      <country-name>Moon</country-name>
@@ -28253,12 +28310,40 @@
      <latitude>41.156</latitude>
      <longitude>18.819</longitude>
      <altitude></altitude>
-     <vertical-extent></vertical-extent>
+     <vertical-extent> >24</vertical-extent>
      <cave-type></cave-type>
      <comments></comments>
      <reference>Wagner et al. (2014) doi:10.1016/j.icarus.2014.04.002</reference>
+     <reference>http://lroc.sese.asu.edu/pits/20</reference>
    </record>
-
+   <record>
+     <country-name>Moon</country-name>
+     <phys-area-name>Tycho crater</phys-area-name>
+     <principal-cave-name></principal-cave-name>
+     <latitude>-43.3</latitude>
+     <longitude>-11.2</longitude>
+     <altitude></altitude>
+     <vertical-extent> >32</vertical-extent>
+     <rock-type>basalt</rock-type>
+     <cave-type></cave-type>
+     <comments>pit in impact melt</comments>
+     <reference>Wagner and Robison (2014) doi:10.1016/j.icarus.2014.04.002</reference>
+   </record>
+   <record>
+     <country-name>Moon</country-name>
+     <phys-area-name>Lalande crater</phys-area-name>
+     <principal-cave-name>Lalande 12</principal-cave-name>
+     <latitude>-4.43</latitude>
+     <longitude>-8.6</longitude>
+     <altitude></altitude>
+     <vertical-extent> >11</vertical-extent>
+     <rock-type>basalt</rock-type>
+     <cave-type></cave-type>
+     <comments>pit in impact melt</comments>
+     <reference>Wagner and Robison (2014) doi:10.1016/j.icarus.2014.04.002</reference>
+     <reference>http://lroc.sese.asu.edu/pits/193</reference>
+   </record>
+   
    <record>
      <country-name>Mars</country-name>
      <phys-area-name>Arsia</phys-area-name>

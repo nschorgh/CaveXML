@@ -190,7 +190,6 @@ CaveXML is designed to provide convenience for data entry, while also being stri
 
 There is a profound and mutual relation between the data exchange standard and its implementation: *All of the requirements of the data exchange standard can be implemented with an XML schema definition.* More specifically, the requirements can be verified within version 1.0 of XML schema definitions, and do not require the extended capabilities of version 1.1.
 For example, if the [cave-id] were required to be unique among records, this could not be verified with an XML schema, because it would require cross-comparisons between records.
-Another example are requirements conditioned on other fields. For example, if the data exchange standard required that either [principal-cave-name] or [other-cave-name] must be present, it is not within the capabilities of XML 1.0 to verify that (although it would be possible with XML 1.1). 
 This design choice, that the CaveXML data exchange standard can be fully verified with an XML schema definition, has two practical consequences.
 First, verifying that a database is consistent with the CaveXML exchange standard requires nothing beyond an XML validation. No additional software or validation step are necessary.
 Second, *all* of the specifications can be verified during the XML validation. Hence, any software used to process CaveXML data can rely on the specifications being followed completely.

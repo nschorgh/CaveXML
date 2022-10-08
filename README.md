@@ -15,17 +15,18 @@ Auxiliary files:
    `cavexml-db-table.css`	  (minimalist Style Sheet so the XML database can be viewed in a webbrowser)  
    `Derivatives/allcaves-database.md` (Full records in Markdown format, generated from the XML version)  
    `Derivatives/allcaves-database.rdf` (XML/RDF version of database for KarstLink)  
-   `Derivatives/list-of*.md`	  (various lists of selected entries from the database)  
+   `Derivatives/list-of-ice-caves.md`  (list of entries with permanent ice)  
+   `Derivatives/list-of-lava-tubes.md`  (list of volcanic caves)  
+   `Derivatives/list-of-longest-lava-tubes.md`	(list of lava tubes longer than 1km)  
    `Derivatives/metadata.rdf`	  (a file used by the RDF ontology)  
    `Utilities/cavexml2csv.py`     (converts database to comma-separated-values using Python)  
    `Utilities/cavexml2html.py`    (outputs full records in HTML format)  
-   `Utilities/cavexml2kml.py`	  (converts coordinates in CaveXML entries into KML format)  
+   `Utilities/cavexml2kml.py`	  (converts coordinates into KML format)  
    `Utilities/cavexml2md.py`      (creates filtered list of entries in Markdown format)  
    `Utilities/cavexml2md-full.py` (creates allcaves-database.md)  
    `Utilities/CaveXML2rdf.xquery` (converts database to RDF/XML using XQuery)  
    `Utilities/CaveXML2rdf.py` 	  (converts database to RDF/XML using Python)  
-   `Utilities/cavexml-auxiliary.py` (creates auxiliary information from database entries)  
-   `Utilities/cavexml-warnings.py`  (issues informative warnings)   
+   `Utilities/cavexml-warnings.py`  (issues informative warnings)  
    `Utilities/cavesystemfinder.py`  (connects cave branches with cave systems)  
    `Utilities/filter.xquery`      (creates simple filtered list of entries using XQuery)  
    `Utilities/reorder.xslt`    	  (sorts elements within each record)  
@@ -39,7 +40,7 @@ This is a pilot project to explore the capabilities of a CaveXML implementation 
 `cavexml.md` describes the meaning of the XML elements used to organize the data, and restrictions for the entries.  
 
 For non-programmers:  
-The file `allcaves-database.csv` can be opened as a spreadsheet, and contains a flattened version of the database.
+The file `allcaves-database.csv` can be opened as a spreadsheet and contains a flattened version of the database.
 The `Derivatives/` directory also contains other derived data products, such as `allcaves-database.md` where the full records can be viewed directly on GitHub.
 A search interface is available at https://tinyurl.com/cavexmlsearch and hosted on Google Colaboratory.
 It requires a Google account and a warning message will appear at the beginning of each session.
@@ -53,7 +54,7 @@ The XML schema definition `cavexml.xsd` incorporates all CaveXML requirements. T
     xmllint --schema cavexml.xsd allcaves-database.xml -noout  
 
 Alternatively, various online tools can be used to validate an XML database against an XSD document.
-If you create a public CaveXML-formatted database, I would be happy to link to it and include it in the search path.Vice versa, programmers can write tools to search multiple databases. The possibilities are limitless.
+If you create a public CaveXML-formatted database, I would be happy to link to it and include it in the search path.Vice versa, programmers can write tools to search multiple databases.
 
 
 ## Acknowledgments

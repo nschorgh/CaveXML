@@ -2,9 +2,8 @@
 saxonb-xquery -q:filter.xquery
 :)
 
-let $sourceURL := "https://github.com/nschorgh/CaveXML/raw/master/allcaves-database.xml"
-let $doc := doc( $sourceURL ) 
-let $doc := doc("CaveXML/allcaves-database.xml")
+let $doc := doc( "https://github.com/nschorgh/CaveXML/raw/master/allcaves-database.xml" )
+let $doc := doc( "../allcaves-database.xml" )
 let $NL := "&#10;"
 
 for $rec in $doc/CaveDataBase/record

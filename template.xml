@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaveDataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	      xsi:noNamespaceSchemaLocation="https://github.com/nschorgh/CaveXML/raw/master/cavexml.xsd">
+
+  <!-- empty template with all 22 field names -->
+  
+  <record>
+      <country-name></country-name>
+      <state-or-province></state-or-province>
+      <phys-area-name></phys-area-name>
+      <principal-cave-name></principal-cave-name>
+      <other-cave-name></other-cave-name>
+      <other-cave-name></other-cave-name>
+      <cave-id></cave-id>
+      <latitude></latitude>
+      <longitude></longitude>
+      <altitude></altitude>
+      <length></length>
+      <vertical-extent></vertical-extent>
+      <number-of-entrances></number-of-entrances>
+      <map-link></map-link>
+      <rock-type></rock-type>
+      <cave-type></cave-type>
+      <contents></contents>
+      <contents></contents>
+      <comments></comments>
+      <comments></comments>
+      <cave-system></cave-system>
+      <branch-name></branch-name>
+      <reference></reference>
+      <reference></reference>
+      <cave-use></cave-use>
+      <curation></curation>
+  </record>
+   
+</CaveDataBase>

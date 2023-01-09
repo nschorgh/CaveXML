@@ -4,15 +4,8 @@
        Aug 2020 - Norbert Schorghofer
        Nov 2020 - changed from xs:choice to xs:sequence 
   -->
-  
-  <xs:complexType name="CaveDataBaseType">
-    <xs:sequence>
-      <xs:element type="recordType" name="record" minOccurs="1" maxOccurs="unbounded"/>
-    </xs:sequence>
-  </xs:complexType>
-  
-  <xs:element name = "CaveDataBase" type="CaveDataBaseType"/>
-  
+
+  <!-- declare special data type -->
   <xs:simpleType name="ExtendedUnsignedInteger">
     <xs:restriction base='xs:token'>
       <xs:pattern value="[~&#62;]?[0-9]+[+]?"/>
@@ -22,21 +15,26 @@
     </xs:restriction>
   </xs:simpleType>
 
-      
-  <xs:complexType name="recordType">
+  <!-- start of main database -->
+  <xs:element name="CaveDataBase">
+    <xs:complexType>
     <xs:sequence>
+      <xs:element name="record" minOccurs="1" maxOccurs="unbounded">
+	<xs:complexType>
+	  <xs:sequence>
       
       <xs:element name="country-name"  minOccurs="0" maxOccurs="unbounded">
 	<xs:simpleType>
 	  <xs:restriction base="xs:token">
 	    <xs:enumeration value=""/>  <!-- allow empty -->
-	    <!-- ISO 3166 country names; if not ISO 3166 then noted in comment -->
+	    <!-- names are based on https://www.geonames.org/countries/ and in most instances
+		 the same as ISO 3166 country names; if not ISO then noted in comment -->
 	    <xs:enumeration value="Afghanistan"/>
-	    <xs:enumeration value="Åland Islands"/>
+	    <xs:enumeration value="Åland Islands"/>  <!-- ISO 3166, "Åland" on GeoNames -->
 	    <xs:enumeration value="Albania"/>
 	    <xs:enumeration value="Algeria"/>
 	    <xs:enumeration value="American Samoa"/>
-	    <xs:enumeration value="Andora"/>
+	    <xs:enumeration value="Andorra"/>
 	    <xs:enumeration value="Angola"/>
 	    <xs:enumeration value="Anguila"/>
 	    <xs:enumeration value="Antarctica"/>
@@ -148,8 +146,8 @@
 	    <xs:enumeration value="Kazakhstan"/>
 	    <xs:enumeration value="Kenya"/>
 	    <xs:enumeration value="Kiribati"/>
-	    <xs:enumeration value="Korea, Democratic People's Republic of"/>  <!-- "North Korea" -->
-	    <xs:enumeration value="Korea, Republic of"/>                      <!-- "South Korea" -->
+	    <xs:enumeration value="North Korea"/> <!-- ISO would be "Democratic People's Republic of -->
+	    <xs:enumeration value="South Korea"/> <!-- ISO would be "Korea, Republic of" -->
 	    <xs:enumeration value="Kuwait"/>
 	    <xs:enumeration value="Kyrgyzstan"/>
 	    <xs:enumeration value="Laos"/>   <!-- ISO would be "Lao People's Democratic Republic" -->
@@ -176,7 +174,7 @@
 	    <xs:enumeration value="Mayote"/>
 	    <xs:enumeration value="Mexico"/>
 	    <xs:enumeration value="Micronesia"/>  <!-- ISO would be "Micronesia, Federated States of" -->
-	    <xs:enumeration value="Moldova, Republic of"/>
+	    <xs:enumeration value="Moldova"/>  <!-- ISO would be "Moldova, Republic of" -->
 	    <xs:enumeration value="Monaco"/>
 	    <xs:enumeration value="Mongolia"/>
 	    <xs:enumeration value="Montenegro"/>
@@ -237,7 +235,7 @@
 	    <xs:enumeration value="Solomon Islands"/>
 	    <xs:enumeration value="Somalia"/>
 	    <xs:enumeration value="South Africa"/>
-	    <xs:enumeration value="South Georgia and the South Sandwich Islands"/>
+	    <xs:enumeration value="South Georgia and the South Sandwich Islands"/> <!-- GeoNames omits "the" -->
 	    <xs:enumeration value="South Sudan"/>
 	    <xs:enumeration value="Spain"/>
 	    <xs:enumeration value="Sri Lanka"/>
@@ -272,7 +270,7 @@
 	    <xs:enumeration value="Uzbekistan"/>
 	    <xs:enumeration value="Vanuatu"/>
 	    <xs:enumeration value="Venezuela"/>  <!-- ISO would be "Venezuela, Bolivarian Republic of" -->
-	    <xs:enumeration value="Viet Nam"/> 
+	    <xs:enumeration value="Vietnam"/>   <!-- ISO would be "Viet Nam" -->
 	    <xs:enumeration value="Virgin Islands, British"/>
 	    <xs:enumeration value="Virgin Islands, U.S."/>
 	    <xs:enumeration value="Wallis and Futuna"/>
@@ -458,5 +456,10 @@
       
     </xs:sequence>
   </xs:complexType>
+</xs:element>
+
+</xs:sequence>
+</xs:complexType>
+</xs:element>
 
 </xs:schema>

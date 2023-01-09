@@ -4,7 +4,6 @@ print('This script issues warnings about CaveXML database entries.')
 print()
 
 import xml.etree.ElementTree
-import numpy
 from cavexml import get_one_cave_name, parse_ExtendedUnsignedInteger
 
 # Enter name of XML database here

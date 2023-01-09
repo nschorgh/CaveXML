@@ -25,7 +25,7 @@ A CaveXML database has the following structure, where each record corresponds to
 Elements within a record are defined as follows:
 
 **\<country-name\>**  *controlled vocabulary*  
-Country name where the cave entrance is located. This should be the name of the country spelled out and according to the ISO 3166 standard, although a few country names have been simplified. (The precise list is found in the CaveXML Schema Definition `cavexml.xsd`). Similar to UISIC field [SY285](http://www.uisic.uis-speleo.org/exchange/atendefn.html#285)  
+Country name where the cave entrance is located. This should be the name of the country spelled according to the GeoNames ontology, which for most instances is identical to the country name according to the ISO 3166 standard. (The precise list is found in the CaveXML Schema Definition `cavexml.xsd`). Similar to UISIC field [SY285](http://www.uisic.uis-speleo.org/exchange/atendefn.html#285)  
 For extraterrestrial caves, this element specifies the planetary body where the cave is located. Allowed terms are "Moon", which refers to Earth's moon, "Mars", and a few more. An empty or missing entry implies the cave is located on planet Earth.  
 
 **\<state-or-province\>**  *string*  
@@ -37,11 +37,12 @@ Name of mountain, volcano, mountain range, island, massif, geologic unit, or ano
 
 **\<principal-cave-name\>**  *string, maxOccurs=1*    
 The current formal agreed name for a cave or karst feature, expressed in the local language. The character set is UTF-8, so characters from many languages can be used.    
-UISIC field [CA70](http://www.uisic.uis-speleo.org/exchange/atendefn.html#70)
+UISIC field [CA70](http://www.uisic.uis-speleo.org/exchange/atendefn.html#70).
+Similar to KarstLink property 'label'.
 
 **\<other-cave-name\>**  *string*  
 Further names which a cave or karst feature has or has had beyond its current name as given in [principal-cave-name].    
-Similar to UISIC field [CA69](http://www.uisic.uis-speleo.org/exchange/atendefn.html#69)
+Similar to UISIC field [CA69](http://www.uisic.uis-speleo.org/exchange/atendefn.html#69) and KarstLink property 'alternate name'.
 
 **\<cave-id\>**  *(special string)*  
 National cave identification number: optional 3-letter organization code + cave registry number, separated by dashes, e.g. HSS-234/7, where HSS stands for Hawaii Speleological Survey. For small countries, this might just be the national cave identification number or cadastral number, e.g. 1234/5. The [cave-id] is restricted to ASCII characters and must not contain whitespaces. The organization code, if used, must use capital letters.  
@@ -49,23 +50,27 @@ Similar to UISIC field [CA227](http://www.uisic.uis-speleo.org/exchange/atendefn
 
 **\<latitude\>**  *-90 ≤ decimal ≤ +90, maxOccurs=1*  
 The N-S latitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if north of the equator, negative if south of the equator. Expressed as a decimal number, rather than as degrees, minutes, and seconds. If [latitude] is given, [longitude] must also be provided. Trailing zeros are significant and imply a coordinate is exact rather than rounded.   
-UISIC fields [CA245](http://www.uisic.uis-speleo.org/exchange/atendefn.html#245) (exact) or [CA21](http://www.uisic.uis-speleo.org/exchange/atendefn.html#21) (coarse)
+UISIC fields [CA245](http://www.uisic.uis-speleo.org/exchange/atendefn.html#245) (exact) or [CA21](http://www.uisic.uis-speleo.org/exchange/atendefn.html#21) (coarse).
+KarstLink property 'latitude'.
 
 **\<longitude\>**  *-180 ≤ decimal ≤ +180, maxOccurs=1*  
 The E-W longitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if east of Greenwich, or negative if west of Greenwich. Expressed as a decimal number, rather than as degrees, minutes, and seconds. If [longitude] is given, [latitude] must also be provided. Trailing zeros are significant and imply a coordinate is exact rather than rounded. For extraterrestrial caves, the longitude must also be within -180&deg; and +180&deg;, even if it is conventional to use the range 0&deg; to 360&deg; instead.    
-UISIC fields [CA246](http://www.uisic.uis-speleo.org/exchange/atendefn.html#246) (exact) or [CA22](http://www.uisic.uis-speleo.org/exchange/atendefn.html#22) (coarse)
+UISIC fields [CA246](http://www.uisic.uis-speleo.org/exchange/atendefn.html#246) (exact) or [CA22](http://www.uisic.uis-speleo.org/exchange/atendefn.html#22) (coarse).
+KarstLink property 'longitude'.
 
 **\<altitude\>**  *(special string)*  
 Altitude or range of altitudes of cave entrance(s) in meters above sea level (or above zero datum), followed by an optional comment that can be used to clarify the nature of the entry. The altitude must be rounded to the nearest integer. Multiple [altitude] entries can be entered. Examples: \~2500 main entrance, 2227 lower entrance, 2227-2500. And altitude can be preceded by > or ~. The number can also be followed by a "+" symbol to indicate "or higher". If a range of altitudes is provided, it represents the altitudes of the lowest and highest known entrances of a cave, and not an uncertainty in altitude. The latter should be indicated with a "\~" sign in front of the number. Negative altitudes can also be entered and are appropriate for underwater and extraterrestrial caves. They can optionally be preceded with '\~'. Ranges of negative altitudes have to be represented by two individual altitude entries.    
-Similar to UISIC fields [CA442](http://www.uisic.uis-speleo.org/exchange/atendefn.html#442) (altitude) and [CA670](http://www.uisic.uis-speleo.org/exchange/atendefn.html#670) (altitude-comment) combined.
+Similar to UISIC fields [CA442](http://www.uisic.uis-speleo.org/exchange/atendefn.html#442) (altitude) and [CA670](http://www.uisic.uis-speleo.org/exchange/atendefn.html#670) (altitude-comment) combined. Similar to KarstLink property 'altitude'.
 
 **\<length\>**  *ExtendedUnsignedInteger, maxOccurs=1*  
 The aggregate length of the cave passages in meters, usually obtained by summing the lengths of all surveyed distances. Length differs from horizontal extent. The length must be rounded to the nearest integer. The unit must be meters, not kilometers or feet. Symbols ~ and > are allowed in front of the number. Symbol + is allowed after the number.   
-UISIC field [CA56](http://www.uisic.uis-speleo.org/exchange/atendefn.html#56)
+UISIC field [CA56](http://www.uisic.uis-speleo.org/exchange/atendefn.html#56).
+Similar to KarstLink property 'length'.
 
 **\<vertical-extent\>**  *ExtendedUnsignedInteger, maxOccurs=1*  
 The overall vertical distance in meters between the highest and lowest known point of the cave or karst feature, expressed as an unsigned value. (Sometimes vertical extent is defined as the vertical distance between the highest and lowest survey station.) The vertical extent must be rounded to the nearest whole meter. Symbols ~ and > are allowed in front of the number. Symbol + is allowed after the number.   
 UISIC field [CA511](http://www.uisic.uis-speleo.org/exchange/atendefn.html#511)
+Similar to KarstLink property 'vertical extent'.
 
 **\<number-of-entrances\>**  *ExtendedUnsignedInteger, maxOccurs=1*  
 The total number of entrances to the cave, whether they are numbered or not. This is usually a positive integer, but expressions such as \>5, 10+, and ~100 are allowed, where "10+" means "ten or more", whereas ">5" means "more than five".    
@@ -89,7 +94,7 @@ List of options: *permanent ice, periodic ice, extensive guano, many bats, occas
 
 **\<comments\>**  *string*  
 Comments about a cave or karst feature. This field should be used only when a suitable more specific field is not available. Use semicolons (;) between separate comments, or place them in separate [comments] entries.  
-UISIC field [CA53](http://www.uisic.uis-speleo.org/exchange/atendefn.html#53).
+UISIC field [CA53](http://www.uisic.uis-speleo.org/exchange/atendefn.html#53) and KarstLink property 'comment'.
 
 **\<cave-system\>**  *string, maxOccurs=1*  
 On occasion, it is discovered that two named caves are connected with one another, and hence form a single cave. The caves keep their individual names and the whole is referred to as a cave system. Another type of cave system is a lava tube with collapsed portions that divide the conduit into segments. A record in the database can be a cave (with one or more branches or segments) or a cave system (of two or more named caves). Entries can link to the system they are part of using the field [cave-system], which should match the [primary-cave-name] of the cave system. Caves can have a [cave-system] element even if a dedicated record for the cave system does not exist in the database. Vice versa, the entry [branch-name] links the cave system to branches or segments that have their own record (and their own entrances). (A group of caves that are not connected and never were connected do not form a cave system and must be represented by individual entries. If they are in close vicinity of one another, it can be indicated in the [phys-area-name] or [comments] fields.)
@@ -193,7 +198,7 @@ For example, if the [cave-id] were required to be unique among records, this cou
 This design choice, that the CaveXML data exchange standard can be fully verified with an XML schema definition, has two practical consequences.
 First, verifying that a database is consistent with the CaveXML exchange standard requires nothing beyond an XML validation. No additional software or validation step are necessary.
 Second, *all* of the specifications can be verified during the XML validation. Hence, any software used to process CaveXML data can rely on the specifications being followed completely.
-This design choice leads to simplicity and rigor. It also protects the standard from making demands that might be difficult to verify.   
+This design choice leads to simplicity and rigor. It also protects the interchange standard from making demands that might be difficult to verify. For this reason 'XML' is included in the name of the standard.  
 
 
 **Unique record identifier**

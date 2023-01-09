@@ -95,11 +95,13 @@
       <cave-id>1547/9</cave-id>
       <latitude>47.534</latitude>
       <longitude>13.708</longitude>
-      <altitude>927-1828</altitude>
+      <altitude>927 lowest entrance</altitude>
+      <altitude>1828 highest entrance</altitude>
       <altitude>1391 main entrance</altitude>
       <length>67437</length>
       <vertical-extent>1207</vertical-extent>
       <number-of-entrances>21</number-of-entrances>
+      <rock-type>limestone</rock-type>
       <cave-type>solution cave</cave-type>
       <contents>permanent ice</contents>
       <comments>perennial ice near western entrance (Westeingang) 1391masl</comments>
@@ -134,6 +136,7 @@
       <altitude>1720 main entrance</altitude>
       <length>213</length>
       <vertical-extent>97</vertical-extent>
+      <rock-type>limestone</rock-type>
       <cave-type>solution cave</cave-type>
       <contents>permanent ice</contents>
       <comments />
@@ -151,6 +154,7 @@
       <altitude>1450 main entrance</altitude>
       <length>10319</length>
       <vertical-extent>1101</vertical-extent>
+      <rock-type>limestone</rock-type>
       <cave-type>solution cave</cave-type>
       <contents>permanent ice</contents>
       <reference>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</reference>
@@ -184,6 +188,7 @@
       <altitude>1308 main entrance</altitude>
       <length />
       <vertical-extent />
+      <rock-type>limestone</rock-type>
       <cave-type>solution cave</cave-type>
       <contents>permanent ice</contents>
       <comments />
@@ -202,6 +207,7 @@
       <altitude>1531 main entrance</altitude>
       <length />
       <vertical-extent>250</vertical-extent>
+      <rock-type>limestone</rock-type>
       <cave-type>solution cave</cave-type>
       <contents>permanent ice</contents>
       <comments />
@@ -220,6 +226,7 @@
       <altitude>2110</altitude>
       <length>~4600</length>
       <vertical-extent>420</vertical-extent>
+      <rock-type>limestone</rock-type>
       <cave-type>solution cave</cave-type>
       <contents>permanent ice</contents>
       <comments />
@@ -241,6 +248,7 @@
       <altitude>1515</altitude>
       <length>264</length>
       <vertical-extent>55</vertical-extent>
+      <rock-type>limestone</rock-type>
       <cave-type>solution cave</cave-type>
       <contents>permanent ice</contents>
       <comments />
@@ -260,6 +268,7 @@
       <altitude>1391</altitude>
       <length>38000</length>
       <vertical-extent>1100</vertical-extent>
+      <rock-type>limestone</rock-type>
       <cave-type>solution cave</cave-type>
       <contents>permanent ice</contents>
       <cave-system>Gamslöcher-Kolowrat-Höhlensystem</cave-system>
@@ -316,6 +325,7 @@
       <length>5051</length>
       <vertical-extent>262</vertical-extent>
       <number-of-entrances>6</number-of-entrances>
+      <rock-type>limestone</rock-type>
       <cave-type>solution cave</cave-type>
       <contents>permanent ice</contents>
       <cave-system>Schwarzmooskogel-Höhlensystem</cave-system>
@@ -409,6 +419,7 @@
       <altitude>2175</altitude>
       <length></length>
       <vertical-extent></vertical-extent>
+      <rock-type>limestone</rock-type>
       <cave-type>solution cave</cave-type>
       <contents>permanent ice</contents>
       <comments />
@@ -831,6 +842,7 @@
       <altitude>1570</altitude>
       <length>3621</length>
       <vertical-extent>260</vertical-extent>
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
       <reference>https://de.wikipedia.org/wiki/Schellenberger_Eish%C3%B6hle</reference>
@@ -846,6 +858,7 @@
       <cave-id>1339/34</cave-id>
       <altitude>1800</altitude>
       <length />
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
    </record>
@@ -858,6 +871,7 @@
       <cave-id>1338/183</cave-id>
       <altitude>1870</altitude>
       <length />
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <comments>vertical ice cave, massive ice floor</comments>
       <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
@@ -871,6 +885,7 @@
       <cave-id>1339/246</cave-id>
       <altitude>1787</altitude>
       <length />
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <comments>vertical ice cave</comments>
       <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
@@ -884,6 +899,7 @@
       <cave-id>1339/228</cave-id>
       <altitude>1675</altitude>
       <length />
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
    </record>
@@ -895,6 +911,7 @@
       <other-cave-name />
       <altitude>1630</altitude>
       <length />
+      <rock-type>limestone</rock-type>
       <contents>permanent ice</contents>
       <reference>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</reference>
    </record>
@@ -10514,7 +10531,7 @@
       <reference>D. Bunnell NSS News, Dec 1988 "The 1987 Na pali Coast Sea Caves Expedition"</reference>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Billemot Gul</principal-cave-name>
@@ -13352,7 +13369,8 @@
       <other-cave-name>Cueva de los Guanches</other-cave-name>
       <latitude>28.3769</latitude>
       <longitude>-16.7231</longitude>
-      <altitude>30-99</altitude>
+      <altitude>30 lower</altitude>
+      <altitude>99 upper</altitude>
       <length>2130</length>
       <number-of-entrances>2</number-of-entrances>
       <cave-type>lava tunnel</cave-type>
@@ -15637,7 +15655,7 @@
       <reference>Crawford (1982) Cascade Caver 21(8), 46-47 http://www.alpental.com/grotto/1982-v021-n008-009.pdf</reference>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island; Mt. Halla; Geomunereum</phys-area-name>
       <principal-cave-name>Gim Nyeong</principal-cave-name>
@@ -16097,7 +16115,8 @@
       <principal-cave-name>Grotta dei Tre Livelli</principal-cave-name>
       <other-cave-name>Galleriadei Pipistrelli</other-cave-name>
       <cave-id>SICT-1004</cave-id>
-      <altitude>1625-1675</altitude>
+      <altitude>1625 lower</altitude>
+      <altitude>1675 upper</altitude>
       <length>1150</length>
       <vertical-extent>304</vertical-extent>
       <number-of-entrances>2</number-of-entrances>
@@ -16767,7 +16786,7 @@
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=851</reference>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Handeul-kunyeong</principal-cave-name>
@@ -17293,7 +17312,7 @@
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=17</reference>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island; Hyopje tube system; Hallim Park</phys-area-name>
       <principal-cave-name>Hwang Geum Gul</principal-cave-name>
@@ -17306,7 +17325,7 @@
       <reference>https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500703</reference>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island; Hyopje tube system; Hallim Park</phys-area-name>
       <principal-cave-name>Hyeopjae Cave</principal-cave-name>
@@ -17319,7 +17338,7 @@
       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island; Hyopje tube system; Hallim Park</phys-area-name>
       <principal-cave-name>Ssangyonggul</principal-cave-name>
@@ -19850,7 +19869,7 @@
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=643</reference>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island; Mt. Hanra; Geomunoreum</phys-area-name>
       <principal-cave-name>Manjanggul</principal-cave-name>
@@ -20235,7 +20254,7 @@
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1658</reference>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Michon Gul</principal-cave-name>
@@ -22908,7 +22927,7 @@
       <cave-use>self-guided tourist cave</cave-use>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name />
       <principal-cave-name>Seong-gul</principal-cave-name>
@@ -23406,7 +23425,7 @@
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=551</reference>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island</phys-area-name>
       <phys-area-name>Hyopje tube system</phys-area-name>
@@ -23425,7 +23444,7 @@
       <reference>Ogawa (1993) http://www.vulcanospeleology.org/sym03/ISV3x11.pdf</reference>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Susan Gul</principal-cave-name>
@@ -25772,7 +25791,7 @@
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1328</reference>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Wa Hol Gul</principal-cave-name>
@@ -26599,7 +26618,7 @@
       <reference>Lundberg and McFarlane (2006) doi:10.1130/2006.2404(06)</reference>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island; Geomunereum</phys-area-name>
       <principal-cave-name>Dangcheomul Cave</principal-cave-name>
@@ -26610,7 +26629,7 @@
       <reference>Woo et al. (2008) doi:10.1016/j.quaint.2007.05.009</reference>
    </record>
    <record>
-      <country-name>Korea, Republic of</country-name>
+      <country-name>South Korea</country-name>
       <state-or-province>Jeju province</state-or-province>
       <phys-area-name>Jeju Island</phys-area-name>
       <principal-cave-name>Yongcheon Cave</principal-cave-name>
@@ -27405,7 +27424,7 @@
       <reference>https://en.wikipedia.org/wiki/Ka%CA%BBula</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Dak Sor</state-or-province>
       <phys-area-name />
       <principal-cave-name>C0</principal-cave-name>
@@ -27419,7 +27438,7 @@
       <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Dak Sor</state-or-province>
       <phys-area-name />
       <principal-cave-name>C1, C2</principal-cave-name>
@@ -27430,7 +27449,7 @@
       <reference>Honda et al. (2018) http://www.vulcanospeleology.org/sym18/Proceedings/Honda_V.pdf</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Dak Sor</state-or-province>
       <phys-area-name />
       <principal-cave-name>C3</principal-cave-name>
@@ -27443,7 +27462,7 @@
       <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Dak Sor</state-or-province>
       <phys-area-name />
       <principal-cave-name>C4</principal-cave-name>
@@ -27454,7 +27473,7 @@
       <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Dak Sor</state-or-province>
       <phys-area-name />
       <principal-cave-name>C6</principal-cave-name>
@@ -27465,7 +27484,7 @@
       <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Nam Da</state-or-province>
       <phys-area-name />
       <principal-cave-name>C6.1</principal-cave-name>
@@ -27476,7 +27495,7 @@
       <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Nam Da</state-or-province>
       <phys-area-name />
       <principal-cave-name>C7</principal-cave-name>
@@ -27488,7 +27507,7 @@
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Buon Choa'h</state-or-province>
       <phys-area-name />
       <principal-cave-name>C8</principal-cave-name>
@@ -27501,7 +27520,7 @@
       <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Buon Choa'h</state-or-province>
       <phys-area-name />
       <principal-cave-name>C9</principal-cave-name>
@@ -27512,7 +27531,7 @@
       <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Buon Choa'h</state-or-province>
       <phys-area-name />
       <principal-cave-name>P1, P2</principal-cave-name>
@@ -27522,7 +27541,7 @@
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Nam Da</state-or-province>
       <phys-area-name />
       <principal-cave-name>P8</principal-cave-name>
@@ -27532,7 +27551,7 @@
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Buon Choa'h</state-or-province>
       <phys-area-name />
       <principal-cave-name>P11</principal-cave-name>
@@ -27542,7 +27561,7 @@
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Nam Da</state-or-province>
       <phys-area-name />
       <principal-cave-name>P20</principal-cave-name>
@@ -27554,7 +27573,7 @@
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Buon Choa'h</state-or-province>
       <phys-area-name />
       <principal-cave-name>A1</principal-cave-name>
@@ -27565,7 +27584,7 @@
       <reference>Honda (2016) http://www.cavepics.com/IVS17/HONDAIII.pdf</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Buon Choa'h</state-or-province>
       <phys-area-name />
       <principal-cave-name>P3</principal-cave-name>
@@ -27575,7 +27594,7 @@
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Buon Choa'h</state-or-province>
       <phys-area-name />
       <principal-cave-name>P5 (PT07)</principal-cave-name>
@@ -27585,7 +27604,7 @@
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Nam Da</state-or-province>
       <phys-area-name />
       <principal-cave-name>P10E, P10W</principal-cave-name>
@@ -27595,7 +27614,7 @@
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Dak Dro</state-or-province>
       <phys-area-name />
       <principal-cave-name>PT06</principal-cave-name>
@@ -27605,7 +27624,7 @@
       <reference>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</reference>
    </record>
    <record>
-      <country-name>Viet Nam</country-name>
+      <country-name>Vietnam</country-name>
       <state-or-province>Đắk Nông; Buon Choa'h</state-or-province>
       <phys-area-name />
       <principal-cave-name>T1W</principal-cave-name>

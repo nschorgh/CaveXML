@@ -5,7 +5,7 @@ CaveXML is a data interchange format for the purpose of facilitating scientific 
 
 
 The most important files:  
-   [`cavexml.md`](./cavexml.md)	  (explains the CaveXML standard)  
+   [`cavexml.md`](https://github.com/nschorgh/CaveXML/blob/master/cavexml.md)	  (explains the CaveXML standard)  
    `cavexml.xsd`		  (XML Schema Definition of CaveXML)  
    `allcaves-database.xml`  (Master version of the database in native format)  
    `Derivatives/allcaves-database.csv`  (csv version of the database generated from the XML version)  
@@ -13,10 +13,10 @@ The most important files:
 
 Auxiliary files:  
    `cavexml-db-table.css`	  (minimalist Style Sheet so the XML database can be viewed in a webbrowser)  
-   `Derivatives/allcaves-database.md` (Full records in Markdown format, generated from the XML version)  
+   [`Derivatives/allcaves-database.md`](https://github.com/nschorgh/CaveXML/blob/master/Derivatives/allcaves-database.md) (Full records in Markdown format, generated from the XML version)  
    `Derivatives/allcaves-database.rdf` (XML/RDF version of database for KarstLink)  
-   `Derivatives/list-of-ice-caves.md`  (list of entries with permanent ice)  
-   `Derivatives/list-of-lava-tubes.md`  (list of volcanic caves)  
+   [`Derivatives/list-of-ice-caves.md`](https://github.com/nschorgh/CaveXML/blob/master/Derivatives/list-of-ice-caves.md)  (list of caves with permanent ice)  
+   [`Derivatives/list-of-lava-tubes.md`](https://github.com/nschorgh/CaveXML/blob/master/Derivatives/list-of-lava-tubes.md)  (list of volcanic caves)  
    `Derivatives/list-of-longest-lava-tubes.md`	(list of lava tubes longer than 1km)  
    `Derivatives/metadata.rdf`	  (a file used by the RDF ontology)  
    `Utilities/cavexml2csv.py`     (converts database to comma-separated-values using Python)  

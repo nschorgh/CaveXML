@@ -1,6 +1,6 @@
 List of Ice Caves
 =================
-This list of 549 rock-hosted caves with perennial ice was generated from a CaveXML database.  
+This list of 550 rock-hosted caves with perennial ice was generated from a CaveXML database.  
 
 Austria - Niederösterreich [**Südkar-Eishöhle** 1826/25; 1826/26](allcaves-database.md#AT-1826/25)  
 Austria - Oberösterreich [**Dachstein-Mammuthöhle** 1547/9](allcaves-database.md#AT-1547/9)  
@@ -161,6 +161,7 @@ Norway [**Isgrotta** ](allcaves-database.md#NO-06b799b14c021a8134aa5e0e571db066)
 Norway [**Råggejavre-Raige** RJR; Pit-tarn Cave ](allcaves-database.md#NO-635baefa31847f914df659dbe0285cf3) *Part of* Tysfjord complex  
 Norway [**Salthølene** ](allcaves-database.md#NO-fc78b8970d036e127a581c2db9172407)  
 Norway [**Svarthammarhola** ](allcaves-database.md#NO-76d38f590bf862e6bed7238b808d35fa)  
+Peru - Yauyos Province [**Qaqa Mach'ay** ](allcaves-database.md#PE-b2ed97d8045a434bff55f7e88ff2b54c)  
 Poland [**Aven z Korkiem Śnieżnym** ](allcaves-database.md#PL-f26f43a479332f730f193844c76408cf)  
 Poland [**Bliźniacza Studnia** ](allcaves-database.md#PL-5b6a1ee702bd370efcc8363b024cbaca)  
 Poland [**Chuda Mnichowa Studnia** ](allcaves-database.md#PL-fc21da3839d544bc7f2acac6b188775e)  

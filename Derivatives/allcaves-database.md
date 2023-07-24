@@ -60,9 +60,9 @@ Austria - Steiermark; Oberösterreich - Totes Gebirge
 <a name="AT-1547/9"></a>
 Austria - Oberösterreich - Dachstein  
 *Cave Name(s):* **Dachstein-Mammuthöhle** *Id:* 1547/9  
-*Coordinates:* [47.534, +13.708](https://maps.google.com/?ll=47.534,13.708) *altitude:* 927-1828; 1391 main entrance  
+*Coordinates:* [47.534, +13.708](https://maps.google.com/?ll=47.534,13.708) *altitude:* 927 lowest entrance; 1828 highest entrance; 1391 main entrance  
 *Length:* 67437m *Vertical extent:* 1207m *Number of entrances:* 21  
-*Cave type:* solution cave  
+*Rock type:* limestone *Cave type:* solution cave  
 *Contents:* permanent ice  
 *Comments:* perennial ice near western entrance (Westeingang) 1391masl  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
@@ -84,7 +84,7 @@ Austria - Oberösterreich - Sarstein
 *Cave Name(s):* **Eisgruben-Eishöhle** *Id:* 1611/39  
 *altitude:* 1720 main entrance  
 *Length:* 213m *Vertical extent:* 97m   
-*Cave type:* solution cave  
+*Rock type:* limestone *Cave type:* solution cave  
 *Contents:* permanent ice  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 [Achleitner (1995) https://www.zobodat.at/pdf/Hoehle_046_0001-0005.pdf](https://www.zobodat.at/pdf/Hoehle_046_0001-0005.pdf)   
@@ -95,7 +95,7 @@ Austria - Salzburg - Tennengebirge
 *Cave Name(s):* **Schneeloch** *Id:* 1511/7  
 *altitude:* 1450 main entrance  
 *Length:* 10319m *Vertical extent:* 1101m   
-*Cave type:* solution cave  
+*Rock type:* limestone *Cave type:* solution cave  
 *Contents:* permanent ice  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 [https://hoehle.org/laengste-tiefste](https://hoehle.org/laengste-tiefste)   
@@ -115,7 +115,7 @@ Austria - Steiermark - Schneealpe
 Austria - Steiermark - Hochschwab  
 *Cave Name(s):* **Beilstein Eishöhle** *Id:* 1741/2  
 *altitude:* 1308 main entrance  
-*Cave type:* solution cave  
+*Rock type:* limestone *Cave type:* solution cave  
 *Contents:* permanent ice  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 *Cave use:* guided tourist cave  
@@ -126,7 +126,7 @@ Austria - Oberösterreich - Sengsengebirge
 *Cave Name(s):* **Kraterschacht** *Id:* 1651/24  
 *altitude:* 1531 main entrance  
 *Vertical extent:* 250m   
-*Cave type:* solution cave  
+*Rock type:* limestone *Cave type:* solution cave  
 *Contents:* permanent ice  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
 [Weißmair (2011) https://www.zobodat.at/pdf/Hoehle_062_0027-0030.pdf](https://www.zobodat.at/pdf/Hoehle_062_0027-0030.pdf)   
@@ -137,7 +137,7 @@ Austria - Salzburg - Tennengebirge
 *Cave Name(s):* **Eiskogelhöhle** Eiskogel-Tropfsteinhöhle *Id:* 1511/101  
 *Coordinates:* [47.49500, +13.28922](https://maps.google.com/?ll=47.49500,13.28922) *altitude:* 2110  
 *Length:* ~4600m *Vertical extent:* 420m   
-*Cave type:* solution cave  
+*Rock type:* limestone *Cave type:* solution cave  
 *Contents:* permanent ice  
  *Part of* Eiskogel-Richter-Höhle  
 [https://de.wikipedia.org/wiki/Eiskogelh%C3%B6hle](https://de.wikipedia.org/wiki/Eiskogelh%C3%B6hle)   
@@ -150,7 +150,7 @@ Austria - Tirol - Tennengebirge
 *Cave Name(s):* **Hundalm Eishöhle** Hundalm Eis- und Tropfsteinhöhle; Hundsalm Eishöhle *Id:* 1266/1  
 *Coordinates:* [47.5450, +12.0264](https://maps.google.com/?ll=47.5450,12.0264) *altitude:* 1515  
 *Length:* 264m *Vertical extent:* 55m   
-*Cave type:* solution cave  
+*Rock type:* limestone *Cave type:* solution cave  
 *Contents:* permanent ice  
 [https://de.wikipedia.org/wiki/Hundalm-Eish%C3%B6hle](https://de.wikipedia.org/wiki/Hundalm-Eish%C3%B6hle)   
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
@@ -162,7 +162,7 @@ Austria - Salzburg; Grödig - Untersberg
 *Cave Name(s):* **Kolowrathöhle** *Id:* 1339/1  
 *Coordinates:* [47.72792, +13.00858](https://maps.google.com/?ll=47.72792,13.00858) *altitude:* 1391  
 *Length:* 38000m *Vertical extent:* 1100m   
-*Cave type:* solution cave  
+*Rock type:* limestone *Cave type:* solution cave  
 *Contents:* permanent ice  
  *Part of* [Gamslöcher-Kolowrat-Höhlensystem](#AT-1339/1-S)  
 [Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9](https://doi.org/10.1016/B978-0-12-811739-2.00013-9)   
@@ -198,7 +198,7 @@ Austria - Salzburg - Untersberg
 Austria - Oberösterreich - Totes Gebirge  
 *Cave Name(s):* **Schwarzmooskogel-Eishöhle** SMK-Eishöhle *Id:* 1623/40  
 *Length:* 5051m *Vertical extent:* 262m *Number of entrances:* 6  
-*Cave type:* solution cave  
+*Rock type:* limestone *Cave type:* solution cave  
 *Contents:* permanent ice  
  *Part of* Schwarzmooskogel-Höhlensystem  
 [Winkler (2005) https://www.zobodat.at/pdf/Hoehle_056_0072-0076.pdf](https://www.zobodat.at/pdf/Hoehle_056_0072-0076.pdf)   
@@ -247,7 +247,7 @@ Austria - Niederösterreich - Ötscher
 Austria - Tirol (Osttirol)  
 *Cave Name(s):* **Obstanser Eishöhle**  
 *altitude:* 2175  
-*Cave type:* solution cave  
+*Rock type:* limestone *Cave type:* solution cave  
 *Contents:* permanent ice  
 [https://www.zobodat.at/pdf/Osttiroler-Heimatblaetter_1987-55-9_0001.pdf](https://www.zobodat.at/pdf/Osttiroler-Heimatblaetter_1987-55-9_0001.pdf)   
 
@@ -356,7 +356,8 @@ France - Pyrenees; Monte Perdido Massif
 *Length:* ~2500m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
-[Bartolome et al. (2022) doi:10.5194/egusphere-2022-349](https://doi.org/10.5194/egusphere-2022-349)   
+*Comments:* includes seasonal hoarforst, perennial hoarfrost, and massive perennial ice  
+[Bartolome et al. (2023) doi:10.5194/tc-17-477-2023](https://doi.org/10.5194/tc-17-477-2023)   
 
 ---  
 <a name="IS-cfd58b66d7080bc2f98c4a0c695ec018"></a>
@@ -518,6 +519,7 @@ Germany - Bayern - Untersberg; Berchtesgaden Alps
 *Cave Name(s):* **Schellenberger Eishöhle** *Id:* 1339/26  
 *Coordinates:* [47.71333, +13.00444](https://maps.google.com/?ll=47.71333,13.00444) *altitude:* 1570  
 *Length:* 3621m *Vertical extent:* 260m   
+*Rock type:* limestone   
 *Contents:* permanent ice  
 [Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6](https://doi.org/10.1016/B978-0-12-811739-2.00017-6)   
 [https://de.wikipedia.org/wiki/Schellenberger_Eish%C3%B6hle](https://de.wikipedia.org/wiki/Schellenberger_Eish%C3%B6hle)   
@@ -529,6 +531,7 @@ Germany - Bayern - Untersberg; Berchtesgaden Alps
 Germany - Bayern - Untersberg; Berchtesgaden Alps  
 *Cave Name(s):* **Naturfreundehöhle** *Id:* 1339/34  
 *altitude:* 1800  
+*Rock type:* limestone   
 *Contents:* permanent ice  
 [Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6](https://doi.org/10.1016/B978-0-12-811739-2.00017-6)   
 
@@ -537,6 +540,7 @@ Germany - Bayern - Untersberg; Berchtesgaden Alps
 Germany - Bayern - Untersberg; Berchtesgaden Alps  
 *Cave Name(s):* **Cannstatter Schacht** *Id:* 1338/183  
 *altitude:* 1870  
+*Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* vertical ice cave, massive ice floor  
 [Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6](https://doi.org/10.1016/B978-0-12-811739-2.00017-6)   
@@ -546,6 +550,7 @@ Germany - Bayern - Untersberg; Berchtesgaden Alps
 Germany - Bayern - Untersberg; Berchtesgaden Alps; Mitterberg  
 *Cave Name(s):* **Eisbläser** *Id:* 1339/246  
 *altitude:* 1787  
+*Rock type:* limestone   
 *Contents:* permanent ice  
 *Comments:* vertical ice cave  
 [Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6](https://doi.org/10.1016/B978-0-12-811739-2.00017-6)   
@@ -555,6 +560,7 @@ Germany - Bayern - Untersberg; Berchtesgaden Alps; Mitterberg
 Germany - Bayern - Untersberg; Berchtesgaden Alps  
 *Cave Name(s):* **Rauchkopfschacht** *Id:* 1339/228  
 *altitude:* 1675  
+*Rock type:* limestone   
 *Contents:* permanent ice  
 [Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6](https://doi.org/10.1016/B978-0-12-811739-2.00017-6)   
 
@@ -563,6 +569,7 @@ Germany - Bayern - Untersberg; Berchtesgaden Alps
 Germany - Bayern - Untersberg; Berchtesgaden Alps  
 *Cave Name(s):* **Nordstörungstopf**  
 *altitude:* 1630  
+*Rock type:* limestone   
 *Contents:* permanent ice  
 [Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6](https://doi.org/10.1016/B978-0-12-811739-2.00017-6)   
 
@@ -2352,6 +2359,7 @@ Spain - Huesca province - Pyrenees; Cotiella Massif
 [Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0](https://doi.org/10.1016/B978-0-12-811739-2.00028-0)   
 [Leunda et al. (2018) doi:10.1111/1365-2745.13077](https://doi.org/10.1111/1365-2745.13077)   
 [Sancho et al. (2012) https://sge.usal.es/archivos/geogacetas/geo52/art25.pdf](https://sge.usal.es/archivos/geogacetas/geo52/art25.pdf)   
+[Ruiz-Blas et al. (2023) doi:10.3389/fmicb.2023.1110091](https://doi.org/10.3389/fmicb.2023.1110091)   
 
 ---  
 <a name="ES-A69"></a>
@@ -5094,7 +5102,7 @@ Canada - Alberta - Crowsnest Pass; Rocky Mountains
 *Length:* 961m *Vertical extent:* 179m   
 *Rock type:* limestone   
 *Contents:* permanent ice  
-*Comments:* cold trap; Mississipian age; ice fall, frozen lake, frozen waterfall  
+*Comments:* cold trap; Mississipian age; ice fall, frozen lake, frozen waterfall; considered largest ice cave in North America  
 [Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2](https://doi.org/10.1016/B978-0-12-811739-2.00015-2)   
 [https://en.wikipedia.org/wiki/Booming_Ice_Chasm](https://en.wikipedia.org/wiki/Booming_Ice_Chasm)   
 
@@ -5764,6 +5772,20 @@ Halliday (1963) "Caves of Washington"
 [Anderson (1975) http://www.alpental.com/grotto/1975-v014-n002-003.pdf](http://www.alpental.com/grotto/1975-v014-n002-003.pdf)   
 
 ---  
+<a name="PE-b2ed97d8045a434bff55f7e88ff2b54c"></a>
+Peru - Yauyos Province  
+*Cave Name(s):* **Qaqa Mach'ay**  
+*Coordinates:* [ -12.4311,  -75.6720](https://maps.google.com/?ll= -12.4311, -75.6720) *altitude:* 4930  
+*Length:* 300m *Vertical extent:* 125m *Number of entrances:* 1  
+[map](https://cuevasdelperu.org/wp-content/gallery/qaqa-machay/qaqamachay-2004.gif)   
+*Rock type:* limestone   
+*Contents:* permanent ice  
+[https://cuevasdelperu.org/lima-yauyos/qaqa-machay/ ]("https://cuevasdelperu.org/lima-yauyos/qaqa-machay/")   
+[Mavlyudov (2018) doi:10.1016/B978-0-12-811739-2.00012-7](https://doi.org/10.1016/B978-0-12-811739-2.00012-7)   
+[https://en.wikipedia.org/wiki/Qaqa_Mach'ay](https://en.wikipedia.org/wiki/Qaqa_Mach'ay)   
+[https://mapcarta.com/N6660112999](https://mapcarta.com/N6660112999)   
+
+---  
 <a name="AQ-205d78676c8a795efc0b23f357cf46ae"></a>
 Antarctica - Mt. Erebus, Ross Island  
 *Cave Name(s):* **Warren Cave**  
@@ -5977,6 +5999,15 @@ Kenya - Rift Valley Province; Kajiado District - Mt. Suswa
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1442](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1442)   
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1443](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1443)   
 [Middleton (1999) http://www.vulcanospeleology.org/1998.pdf](http://www.vulcanospeleology.org/1998.pdf)   
+
+---  
+<a name="KE-455a1d6b80bc52946b0ced60f9f97fe6"></a>
+Kenya  
+*Cave Name(s):* **Lomechan cave**  
+*Length:*  >1805 m   
+*Cave type:* lava tunnel  
+*Contents:* many bats  
+[Fröhlich et al. (2023) https://www.hou.usra.edu/meetings/4thcaves2023/pdf/1060.pdf](https://www.hou.usra.edu/meetings/4thcaves2023/pdf/1060.pdf)   
 
 ---  
 <a name="US-27bcab35b484e108a2e9f19f677c0378"></a>
@@ -6932,7 +6963,7 @@ D. Bunnell NSS News, Dec 1988 "The 1987 Na pali Coast Sea Caves Expedition"
 
 ---  
 <a name="KR-463e0a785e3796c84af0b8b2e3fe0bad"></a>
-Korea, Republic of - Jeju province - Jeju Island  
+South Korea - Jeju province - Jeju Island  
 *Cave Name(s):* **Billemot Gul** Rock Pond Cave; Bilemot Gul; Pillemot Cave; Billemotdonggul Lava Tube; Labyrinth Cave  
 *altitude:* 70  
 *Length:* 11749m   
@@ -8812,10 +8843,11 @@ Spain - Santa Cruz de Tenerife; El Paso - Canary Islands; La Palma Island
 <a name="ES-LP/MZ-3"></a>
 Spain - Santa Cruz de Tenerife; Mazo - Canary Islands; La Palma Island  
 *Cave Name(s):* **Cueva de la Fuente de La Canaria** *Id:* LP/MZ-3  
+*Coordinates:* [28.59033, -17.80036](https://maps.google.com/?ll=28.59033,-17.80036)   
 *Length:* 237m   
 *Cave type:* lava tunnel  
 [Fernandez (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf](https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf)   
-[Gonzalez-Pimentel et al. (2021) doi:10.7717/peerj.11386](https://doi.org/10.7717/peerj.11386)   
+[Gonzalez-Pimentel et al. (2022) doi:10.3389/fmicb.2022.907816](https://doi.org/10.3389/fmicb.2022.907816)   
 
 ---  
 <a name="MX-ea2f4f2d7323175f205742192f0b557a"></a>
@@ -9090,7 +9122,7 @@ Spain - Santa Cruz de Tenerife - Canary Islands; Parque Nacional del Teide
 <a name="ES-140dfeab0d4140130b515fe46d5888c4"></a>
 Spain - Santa Cruz de Tenerife; Icod de los Vinos - Canary Islands; Tenerife  
 *Cave Name(s):* **Cueva de San Marcos** Cueva de los Guanches  
-*Coordinates:* [28.3769, -16.7231](https://maps.google.com/?ll=28.3769,-16.7231) *altitude:* 30-99  
+*Coordinates:* [28.3769, -16.7231](https://maps.google.com/?ll=28.3769,-16.7231) *altitude:* 30 lower; 99 upper  
 *Length:* 2130m *Number of entrances:* 2  
 *Cave type:* lava tunnel  
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=665](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=665)   
@@ -10862,7 +10894,7 @@ United States of America - Oregon; Malheur County
 
 ---  
 <a name="KR-d825c62f4b5668b60d77ef659f2dd209"></a>
-Korea, Republic of - Jeju province - Jeju Island; Mt. Halla; Geomunereum  
+South Korea - Jeju province - Jeju Island; Mt. Halla; Geomunereum  
 *Cave Name(s):* **Gim Nyeong** 김녕굴; Gimnyeonggul; Sagul Cave; Snake Cave; Kimyŏnggul  
 *Length:* 705m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -11205,7 +11237,7 @@ Italy - Sicilia - Sicily; Mt. Etna
 <a name="IT-SICT-1004"></a>
 Italy - Sicilia - Sicily; Mt. Etna  
 *Cave Name(s):* **Grotta dei Tre Livelli** Galleriadei Pipistrelli *Id:* SICT-1004  
-*altitude:* 1625-1675  
+*altitude:* 1625 lower; 1675 upper  
 *Length:* 1150m *Vertical extent:* 304m *Number of entrances:* 2  
 *Cave type:* lava tunnel  
 [https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1540](https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1540)   
@@ -11731,7 +11763,7 @@ United States of America - Hawaii; North Hilo district - Hawaii (Big Island); Ma
 
 ---  
 <a name="KR-f01e6bdaf1b7ed6ed62ea901e2d6a153"></a>
-Korea, Republic of - Jeju province - Jeju Island  
+South Korea - Jeju province - Jeju Island  
 *Cave Name(s):* **Handeul-kunyeong** Handul Kul  
 *altitude:* 35  
 *Length:* 1400m   
@@ -12146,7 +12178,7 @@ Iceland - Myrasysla County - Hallmundarhraun
 
 ---  
 <a name="KR-27e9fedbef133722c21e528f09e1f873"></a>
-Korea, Republic of - Jeju province - Jeju Island; Hyopje tube system; Hallim Park  
+South Korea - Jeju province - Jeju Island; Hyopje tube system; Hallim Park  
 *Cave Name(s):* **Hwang Geum Gul** Hwanggeumgul; Golden Cave; 황금굴  
 *Length:* ~180m   
 *Cave type:* lava tunnel  
@@ -12155,7 +12187,7 @@ Korea, Republic of - Jeju province - Jeju Island; Hyopje tube system; Hallim Par
 
 ---  
 <a name="KR-8f1c31751eb3f35bfc082de266fd7b5a"></a>
-Korea, Republic of - Jeju province - Jeju Island; Hyopje tube system; Hallim Park  
+South Korea - Jeju province - Jeju Island; Hyopje tube system; Hallim Park  
 *Cave Name(s):* **Hyeopjae Cave** Hyopje Cave; 협재굴  
 *Length:* 100m   
 *Cave type:* lava tunnel  
@@ -12165,7 +12197,7 @@ Korea, Republic of - Jeju province - Jeju Island; Hyopje tube system; Hallim Par
 
 ---  
 <a name="KR-84e55e1c05384da8e8dc0d5ee3642629"></a>
-Korea, Republic of - Jeju province - Jeju Island; Hyopje tube system; Hallim Park  
+South Korea - Jeju province - Jeju Island; Hyopje tube system; Hallim Park  
 *Cave Name(s):* **Ssangyonggul** 쌍용굴; Ssang Ryong Gul; Two Dragons  
 *Coordinates:* [33.3833, +126.244](https://maps.google.com/?ll=33.3833,126.244) *altitude:* 15  
 *Length:* 380m *Number of entrances:* 2  
@@ -14109,7 +14141,7 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 
 ---  
 <a name="KR-ca4d5f7842a3fe15c724dc6b7f555207"></a>
-Korea, Republic of - Jeju province - Jeju Island; Mt. Hanra; Geomunoreum  
+South Korea - Jeju province - Jeju Island; Mt. Hanra; Geomunoreum  
 *Cave Name(s):* **Manjanggul** 만장굴; Man Jang Gul; Red Dragon Cave  
 *altitude:* 120  
 *Length:* 8928m *Number of entrances:* 3  
@@ -14402,7 +14434,7 @@ United States of America - Washington; Skamania County
 
 ---  
 <a name="KR-37f74359aa7a55b493c139738404aa0d"></a>
-Korea, Republic of - Jeju province - Jeju Island  
+South Korea - Jeju province - Jeju Island  
 *Cave Name(s):* **Michon Gul**  
 *altitude:* 100  
 *Length:* 1714m   
@@ -16498,7 +16530,7 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 
 ---  
 <a name="KR-2110927b0659441797cfd15d034150f4"></a>
-Korea, Republic of - Jeju province  
+South Korea - Jeju province  
 *Cave Name(s):* **Seong-gul**  
 *Length:* 900m   
 *Cave type:* lava tunnel  
@@ -16879,7 +16911,7 @@ United States of America - California; Siskiyou County - Medicine Lake Highlands
 
 ---  
 <a name="KR-cba1603643cb9a3494bf9d453a0c4366"></a>
-Korea, Republic of - Jeju province - Jeju Island; Hyopje tube system  
+South Korea - Jeju province - Jeju Island; Hyopje tube system  
 *Cave Name(s):* **Sochon Kul** Sochon Gul; Stream Cave; Creek Cave  
 *Coordinates:* [33.3647, +126.261](https://maps.google.com/?ll=33.3647,126.261) *altitude:* 150  
 *Length:* 3074m   
@@ -16890,7 +16922,7 @@ Korea, Republic of - Jeju province - Jeju Island; Hyopje tube system
 
 ---  
 <a name="KR-75cc6f80cc0a12e48e5fb86abb197301"></a>
-Korea, Republic of - Jeju province - Jeju Island  
+South Korea - Jeju province - Jeju Island  
 *Cave Name(s):* **Susan Gul** Susandonggul Lava Tube  
 *altitude:* 110  
 *Length:* 4675m   
@@ -18642,7 +18674,7 @@ United States of America - Oregon; Deschutes County - Horse Lava Tube System
 
 ---  
 <a name="KR-952d93bb1cbec19f369cb67ada5882ec"></a>
-Korea, Republic of - Jeju province - Jeju Island  
+South Korea - Jeju province - Jeju Island  
 *Cave Name(s):* **Wa Hol Gul** Waful Kul; Wahul Kul  
 *altitude:* 200  
 *Length:* 2066m   
@@ -19305,7 +19337,7 @@ Kenya - Rift Valley Province; Trans-Nzoia County - Mt. Elgon
 
 ---  
 <a name="KR-17760c616f7c2f9bc9ab03022881d574"></a>
-Korea, Republic of - Jeju province - Jeju Island; Geomunereum  
+South Korea - Jeju province - Jeju Island; Geomunereum  
 *Cave Name(s):* **Dangcheomul Cave**  
 *Length:* 110m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -19314,7 +19346,7 @@ Korea, Republic of - Jeju province - Jeju Island; Geomunereum
 
 ---  
 <a name="KR-8cb1d7d74d15eeabe44af15833c41091"></a>
-Korea, Republic of - Jeju province - Jeju Island  
+South Korea - Jeju province - Jeju Island  
 *Cave Name(s):* **Yongcheon Cave**  
 *Length:*  >3360m   
 *Rock type:* basalt *Cave type:* lava tunnel  
@@ -19897,7 +19929,7 @@ United States of America - Hawaii; Kauai County - Ka'ula Island
 
 ---  
 <a name="VN-f389729e7c7038e5e44ad429d6cc498c"></a>
-Viet Nam - Đắk Nông; Dak Sor  
+Vietnam - Đắk Nông; Dak Sor  
 *Cave Name(s):* **C0**  
 *Coordinates:* [12.52186, +107.89246](https://maps.google.com/?ll=12.52186,107.89246)   
 *Length:* 476m *Vertical extent:* 15m   
@@ -19908,7 +19940,7 @@ Viet Nam - Đắk Nông; Dak Sor
 
 ---  
 <a name="VN-95294be47834d825de40a616dcc80f66"></a>
-Viet Nam - Đắk Nông; Dak Sor  
+Vietnam - Đắk Nông; Dak Sor  
 *Cave Name(s):* **C1, C2**  
 *Length:* 402m *Vertical extent:* 4m   
 *Cave type:* lava tunnel  
@@ -19917,7 +19949,7 @@ Viet Nam - Đắk Nông; Dak Sor
 
 ---  
 <a name="VN-25a95bae476fbe026a2cf8d83367d1c2"></a>
-Viet Nam - Đắk Nông; Dak Sor  
+Vietnam - Đắk Nông; Dak Sor  
 *Cave Name(s):* **C3**  
 *Coordinates:* [12.51732, +107.89646](https://maps.google.com/?ll=12.51732,107.89646)   
 *Length:* 716m *Vertical extent:* 7m   
@@ -19927,7 +19959,7 @@ Viet Nam - Đắk Nông; Dak Sor
 
 ---  
 <a name="VN-bdf39a2f5b830e516ed006675d638ea6"></a>
-Viet Nam - Đắk Nông; Dak Sor  
+Vietnam - Đắk Nông; Dak Sor  
 *Cave Name(s):* **C4**  
 *Length:* 252m *Vertical extent:* 9m   
 *Cave type:* lava tunnel  
@@ -19936,7 +19968,7 @@ Viet Nam - Đắk Nông; Dak Sor
 
 ---  
 <a name="VN-5b2ca85406df419155865b994f589ab5"></a>
-Viet Nam - Đắk Nông; Dak Sor  
+Vietnam - Đắk Nông; Dak Sor  
 *Cave Name(s):* **C6**  
 *Length:* 180m *Vertical extent:* 4m   
 *Cave type:* lava tunnel  
@@ -19945,7 +19977,7 @@ Viet Nam - Đắk Nông; Dak Sor
 
 ---  
 <a name="VN-c54e0a4c833e5ed8c606cf7242d5c897"></a>
-Viet Nam - Đắk Nông; Nam Da  
+Vietnam - Đắk Nông; Nam Da  
 *Cave Name(s):* **C6.1**  
 *Length:* 294m *Vertical extent:* 5m   
 *Cave type:* lava tunnel  
@@ -19954,7 +19986,7 @@ Viet Nam - Đắk Nông; Nam Da
 
 ---  
 <a name="VN-d55999c1be1dcbb42091185c490f26b5"></a>
-Viet Nam - Đắk Nông; Nam Da  
+Vietnam - Đắk Nông; Nam Da  
 *Cave Name(s):* **C7**  
 *Coordinates:* [12.51423, +107.90976](https://maps.google.com/?ll=12.51423,107.90976)   
 *Length:* 1067m *Vertical extent:* ~15m   
@@ -19963,7 +19995,7 @@ Viet Nam - Đắk Nông; Nam Da
 
 ---  
 <a name="VN-68dd1fc0ddcda738ffddff78fc2ef7cf"></a>
-Viet Nam - Đắk Nông; Buon Choa'h  
+Vietnam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **C8**  
 *Coordinates:* [12.48570, +107.93867](https://maps.google.com/?ll=12.48570,107.93867)   
 *Length:* 791m *Vertical extent:* 24m   
@@ -19973,7 +20005,7 @@ Viet Nam - Đắk Nông; Buon Choa'h
 
 ---  
 <a name="VN-d2ba36e10b09951202efe66cd008de8b"></a>
-Viet Nam - Đắk Nông; Buon Choa'h  
+Vietnam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **C9**  
 *Length:* 217m *Vertical extent:* 23m   
 *Cave type:* lava tunnel  
@@ -19982,7 +20014,7 @@ Viet Nam - Đắk Nông; Buon Choa'h
 
 ---  
 <a name="VN-7732b52f03903fc987f77dde19d382b3"></a>
-Viet Nam - Đắk Nông; Buon Choa'h  
+Vietnam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **P1, P2**  
 *Length:* 531m *Vertical extent:* ~15m   
 *Cave type:* lava tunnel  
@@ -19990,7 +20022,7 @@ Viet Nam - Đắk Nông; Buon Choa'h
 
 ---  
 <a name="VN-16db1dcd245e800ed1c6d26f2bbf36f2"></a>
-Viet Nam - Đắk Nông; Nam Da  
+Vietnam - Đắk Nông; Nam Da  
 *Cave Name(s):* **P8**  
 *Length:* 344m *Vertical extent:* 26m   
 *Cave type:* lava tunnel  
@@ -19998,7 +20030,7 @@ Viet Nam - Đắk Nông; Nam Da
 
 ---  
 <a name="VN-4dca015d0354db421a528bbb8d03f870"></a>
-Viet Nam - Đắk Nông; Buon Choa'h  
+Vietnam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **P11**  
 *Length:* 498m *Vertical extent:* ~8m   
 *Cave type:* lava tunnel  
@@ -20006,7 +20038,7 @@ Viet Nam - Đắk Nông; Buon Choa'h
 
 ---  
 <a name="VN-9765576d832e719995d97f727bb2b0c7"></a>
-Viet Nam - Đắk Nông; Nam Da  
+Vietnam - Đắk Nông; Nam Da  
 *Cave Name(s):* **P20**  
 *Coordinates:* [12.49433, +107.92713](https://maps.google.com/?ll=12.49433,107.92713)   
 *Length:* 568m *Vertical extent:* 25m   
@@ -20015,7 +20047,7 @@ Viet Nam - Đắk Nông; Nam Da
 
 ---  
 <a name="VN-2b8d234bd84c1b49615d5f5cf4f309e6"></a>
-Viet Nam - Đắk Nông; Buon Choa'h  
+Vietnam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **A1**  
 *Length:* 439m *Vertical extent:* 10m   
 *Cave type:* lava tunnel  
@@ -20024,7 +20056,7 @@ Viet Nam - Đắk Nông; Buon Choa'h
 
 ---  
 <a name="VN-7b821d59458ca858cea1ff4b6cf642da"></a>
-Viet Nam - Đắk Nông; Buon Choa'h  
+Vietnam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **P3**  
 *Length:* 81m *Vertical extent:* 5m   
 *Cave type:* lava tunnel  
@@ -20032,7 +20064,7 @@ Viet Nam - Đắk Nông; Buon Choa'h
 
 ---  
 <a name="VN-be3ad1093a6701e009bb7c49a0595471"></a>
-Viet Nam - Đắk Nông; Buon Choa'h  
+Vietnam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **P5 (PT07)**  
 *Length:* 204m *Vertical extent:* 4m   
 *Cave type:* lava tunnel  
@@ -20040,7 +20072,7 @@ Viet Nam - Đắk Nông; Buon Choa'h
 
 ---  
 <a name="VN-a06310ea728f1ed7fa1c5fd64276aee1"></a>
-Viet Nam - Đắk Nông; Nam Da  
+Vietnam - Đắk Nông; Nam Da  
 *Cave Name(s):* **P10E, P10W**  
 *Length:* 160m *Vertical extent:* 5m   
 *Cave type:* lava tunnel  
@@ -20048,7 +20080,7 @@ Viet Nam - Đắk Nông; Nam Da
 
 ---  
 <a name="VN-932941365516bf3c11fc17663a0376ac"></a>
-Viet Nam - Đắk Nông; Dak Dro  
+Vietnam - Đắk Nông; Dak Dro  
 *Cave Name(s):* **PT06**  
 *Length:* 200m *Vertical extent:* 5m   
 *Cave type:* lava tunnel  
@@ -20056,7 +20088,7 @@ Viet Nam - Đắk Nông; Dak Dro
 
 ---  
 <a name="VN-39c6d104bc3e95298c9ac1a6d9efc9a4"></a>
-Viet Nam - Đắk Nông; Buon Choa'h  
+Vietnam - Đắk Nông; Buon Choa'h  
 *Cave Name(s):* **T1W**  
 *Length:* 303m *Vertical extent:* 16m   
 *Cave type:* lava tunnel  

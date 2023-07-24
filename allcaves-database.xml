@@ -610,7 +610,8 @@
      <length>~2500</length>     
      <rock-type>limestone</rock-type>
      <contents>permanent ice</contents>
-     <reference>Bartolome et al. (2022) doi:10.5194/egusphere-2022-349</reference>
+     <comments>includes seasonal hoarforst, perennial hoarfrost, and massive perennial ice</comments>
+     <reference>Bartolome et al. (2023) doi:10.5194/tc-17-477-2023</reference>
    </record>
    
    <record>
@@ -3803,6 +3804,7 @@
       <reference>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</reference>
       <reference>Leunda et al. (2018) doi:10.1111/1365-2745.13077</reference>
       <reference>Sancho et al. (2012) https://sge.usal.es/archivos/geogacetas/geo52/art25.pdf</reference>
+      <reference>Ruiz-Blas et al. (2023) doi:10.3389/fmicb.2023.1110091</reference>
    </record>
    <record>
       <country-name>Spain</country-name>
@@ -7924,6 +7926,7 @@
       <contents>permanent ice</contents>
       <comments>cold trap; Mississipian age</comments>
       <comments>ice fall, frozen lake, frozen waterfall</comments>
+      <comments>considered largest ice cave in North America</comments>
       <reference>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</reference>
       <reference>https://en.wikipedia.org/wiki/Booming_Ice_Chasm</reference>
    </record>
@@ -8947,6 +8950,29 @@
    </record>
 
    <record>
+      <country-name>Peru</country-name>
+      <state-or-province>Yauyos Province</state-or-province>
+      <phys-area-name></phys-area-name>
+      <principal-cave-name>Qaqa Mach'ay</principal-cave-name>
+      <other-cave-name></other-cave-name>
+      <cave-id></cave-id>
+      <latitude> -12.4311</latitude>
+      <longitude> -75.6720</longitude>
+      <altitude>4930</altitude>
+      <length>300</length>
+      <vertical-extent>125</vertical-extent>
+      <number-of-entrances>1</number-of-entrances>
+      <map-link>https://cuevasdelperu.org/wp-content/gallery/qaqa-machay/qaqamachay-2004.gif</map-link>
+      <rock-type>limestone</rock-type>
+      <cave-type></cave-type>
+      <contents>permanent ice</contents>
+      <reference>https://cuevasdelperu.org/lima-yauyos/qaqa-machay/ </reference>
+      <reference>Mavlyudov (2018) doi:10.1016/B978-0-12-811739-2.00012-7</reference>
+      <reference>https://en.wikipedia.org/wiki/Qaqa_Mach'ay</reference>
+      <reference>https://mapcarta.com/N6660112999</reference>
+   </record>
+   
+   <record>
       <country-name>Antarctica</country-name>
       <state-or-province />
       <phys-area-name>Mt. Erebus, Ross Island</phys-area-name>
@@ -9283,6 +9309,17 @@
       <reference>https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1443</reference>
       <reference>Middleton (1999) http://www.vulcanospeleology.org/1998.pdf</reference>
    </record>
+   <record>
+      <country-name>Kenya</country-name>
+      <state-or-province></state-or-province>
+      <phys-area-name></phys-area-name>
+      <principal-cave-name>Lomechan cave</principal-cave-name>
+      <length> >1805 </length>
+      <cave-type>lava tunnel</cave-type>
+      <contents>many bats</contents>
+      <reference>Fröhlich et al. (2023) https://www.hou.usra.edu/meetings/4thcaves2023/pdf/1060.pdf</reference>
+   </record>
+   
    <record>
       <country-name>United States of America</country-name>
       <state-or-province>California</state-or-province>
@@ -12996,10 +13033,12 @@
       <phys-area-name>Canary Islands; La Palma Island</phys-area-name>
       <principal-cave-name>Cueva de la Fuente de La Canaria</principal-cave-name>
       <cave-id>LP/MZ-3</cave-id>
+      <latitude>28.59033</latitude>
+      <longitude>-17.80036</longitude>
       <length>237</length>
       <cave-type>lava tunnel</cave-type>
       <reference>Fernandez (2007) https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf</reference>
-      <reference>Gonzalez-Pimentel et al. (2021) doi:10.7717/peerj.11386</reference>
+      <reference>Gonzalez-Pimentel et al. (2022) doi:10.3389/fmicb.2022.907816</reference>
    </record>
    <record>
       <country-name>Mexico</country-name>

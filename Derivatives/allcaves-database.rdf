@@ -88,11 +88,13 @@
       <rdfs:label>Dachstein-Mammuthöhle</rdfs:label>
       <w3geo:latitude>47.534</w3geo:latitude>
       <w3geo:longitude>13.708</w3geo:longitude>
-      <w3geo:altitude>927-1828</w3geo:altitude>
+      <w3geo:altitude>927 lowest entrance</w3geo:altitude>
+      <w3geo:altitude>1828 highest entrance</w3geo:altitude>
       <w3geo:altitude>1391 main entrance</w3geo:altitude>
       <karstlink:length>67437</karstlink:length>
       <karstlink:verticalExtent>1207</karstlink:verticalExtent>
       <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">21</cavexml:number-of-entrances>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">solution cave</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <rdfs:comment>perennial ice near western entrance (Westeingang) 1391masl</rdfs:comment>
@@ -121,6 +123,7 @@
       <w3geo:altitude>1720 main entrance</w3geo:altitude>
       <karstlink:length>213</karstlink:length>
       <karstlink:verticalExtent>97</karstlink:verticalExtent>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">solution cave</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</dct:references>
@@ -134,6 +137,7 @@
       <w3geo:altitude>1450 main entrance</w3geo:altitude>
       <karstlink:length>10319</karstlink:length>
       <karstlink:verticalExtent>1101</karstlink:verticalExtent>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">solution cave</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</dct:references>
@@ -158,6 +162,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Hochschwab</schema:addressLocality>
       <rdfs:label>Beilstein Eishöhle</rdfs:label>
       <w3geo:altitude>1308 main entrance</w3geo:altitude>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">solution cave</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</dct:references>
@@ -170,6 +175,7 @@
       <rdfs:label>Kraterschacht</rdfs:label>
       <w3geo:altitude>1531 main entrance</w3geo:altitude>
       <karstlink:verticalExtent>250</karstlink:verticalExtent>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">solution cave</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Spötl et al. (2018) doi:10.1016/B978-0-12-811739-2.00013-9</dct:references>
@@ -186,6 +192,7 @@
       <w3geo:altitude>2110</w3geo:altitude>
       <karstlink:length>~4600</karstlink:length>
       <karstlink:verticalExtent>420</karstlink:verticalExtent>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">solution cave</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <schema:containedInPlace xmlns:schema="https://schema.org/">Eiskogel-Richter-Höhle</schema:containedInPlace>
@@ -205,6 +212,7 @@
       <w3geo:altitude>1515</w3geo:altitude>
       <karstlink:length>264</karstlink:length>
       <karstlink:verticalExtent>55</karstlink:verticalExtent>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">solution cave</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references rdf:resource="https://de.wikipedia.org/wiki/Hundalm-Eish%C3%B6hle"/>
@@ -221,6 +229,7 @@
       <w3geo:altitude>1391</w3geo:altitude>
       <karstlink:length>38000</karstlink:length>
       <karstlink:verticalExtent>1100</karstlink:verticalExtent>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">solution cave</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <schema:containedInPlace xmlns:schema="https://schema.org/">Gamslöcher-Kolowrat-Höhlensystem</schema:containedInPlace>
@@ -268,6 +277,7 @@
       <karstlink:length>5051</karstlink:length>
       <karstlink:verticalExtent>262</karstlink:verticalExtent>
       <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">6</cavexml:number-of-entrances>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">solution cave</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <schema:containedInPlace xmlns:schema="https://schema.org/">Schwarzmooskogel-Höhlensystem</schema:containedInPlace>
@@ -326,6 +336,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Tirol (Osttirol)</schema:addressLocality>
       <rdfs:label>Obstanser Eishöhle</rdfs:label>
       <w3geo:altitude>2175</w3geo:altitude>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">solution cave</cavexml:cave-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references rdf:resource="https://www.zobodat.at/pdf/Osttiroler-Heimatblaetter_1987-55-9_0001.pdf"/>
@@ -453,7 +464,8 @@
       <karstlink:length>~2500</karstlink:length>
       <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
-      <dct:references>Bartolome et al. (2022) doi:10.5194/egusphere-2022-349</dct:references>
+      <rdfs:comment>includes seasonal hoarforst, perennial hoarfrost, and massive perennial ice</rdfs:comment>
+      <dct:references>Bartolome et al. (2023) doi:10.5194/tc-17-477-2023</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Iceland</schema:addressCountry>
@@ -646,6 +658,7 @@
       <w3geo:altitude>1570</w3geo:altitude>
       <karstlink:length>3621</karstlink:length>
       <karstlink:verticalExtent>260</karstlink:verticalExtent>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</dct:references>
       <dct:references rdf:resource="https://de.wikipedia.org/wiki/Schellenberger_Eish%C3%B6hle"/>
@@ -658,6 +671,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Untersberg; Berchtesgaden Alps</schema:addressLocality>
       <rdfs:label>Naturfreundehöhle</rdfs:label>
       <w3geo:altitude>1800</w3geo:altitude>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</dct:references>
    </karstlink:UndergroundCavity>
@@ -667,6 +681,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Untersberg; Berchtesgaden Alps</schema:addressLocality>
       <rdfs:label>Cannstatter Schacht</rdfs:label>
       <w3geo:altitude>1870</w3geo:altitude>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <rdfs:comment>vertical ice cave, massive ice floor</rdfs:comment>
       <dct:references>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</dct:references>
@@ -677,6 +692,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Untersberg; Berchtesgaden Alps; Mitterberg</schema:addressLocality>
       <rdfs:label>Eisbläser</rdfs:label>
       <w3geo:altitude>1787</w3geo:altitude>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <rdfs:comment>vertical ice cave</rdfs:comment>
       <dct:references>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</dct:references>
@@ -687,6 +703,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Untersberg; Berchtesgaden Alps</schema:addressLocality>
       <rdfs:label>Rauchkopfschacht</rdfs:label>
       <w3geo:altitude>1675</w3geo:altitude>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</dct:references>
    </karstlink:UndergroundCavity>
@@ -696,6 +713,7 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Untersberg; Berchtesgaden Alps</schema:addressLocality>
       <rdfs:label>Nordstörungstopf</rdfs:label>
       <w3geo:altitude>1630</w3geo:altitude>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <dct:references>Meyer and Pflitsch (2018) doi:10.1016/B978-0-12-811739-2.00017-6</dct:references>
    </karstlink:UndergroundCavity>
@@ -2699,6 +2717,7 @@
       <dct:references>Serrano et al. (2018) doi:10.1016/B978-0-12-811739-2.00028-0</dct:references>
       <dct:references>Leunda et al. (2018) doi:10.1111/1365-2745.13077</dct:references>
       <dct:references rdf:resource="https://sge.usal.es/archivos/geogacetas/geo52/art25.pdf"/>
+      <dct:references>Ruiz-Blas et al. (2023) doi:10.3389/fmicb.2023.1110091</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#" rdf:ID="A69">
       <schema:addressCountry xmlns:schema="https://schema.org/">Spain</schema:addressCountry>
@@ -5828,6 +5847,7 @@
       <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
       <rdfs:comment>cold trap; Mississipian age</rdfs:comment>
       <rdfs:comment>ice fall, frozen lake, frozen waterfall</rdfs:comment>
+      <rdfs:comment>considered largest ice cave in North America</rdfs:comment>
       <dct:references>Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2</dct:references>
       <dct:references rdf:resource="https://en.wikipedia.org/wiki/Booming_Ice_Chasm"/>
    </karstlink:UndergroundCavity>
@@ -6670,6 +6690,24 @@
       <dct:references rdf:resource="http://www.alpental.com/grotto/1975-v014-n002-003.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Peru</schema:addressCountry>
+      <schema:addressLocality xmlns:schema="https://schema.org/">Yauyos Province</schema:addressLocality>
+      <rdfs:label>Qaqa Mach'ay</rdfs:label>
+      <w3geo:latitude> -12.4311</w3geo:latitude>
+      <w3geo:longitude> -75.6720</w3geo:longitude>
+      <w3geo:altitude>4930</w3geo:altitude>
+      <karstlink:length>300</karstlink:length>
+      <karstlink:verticalExtent>125</karstlink:verticalExtent>
+      <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">1</cavexml:number-of-entrances>
+      <schema:hasMap xmlns:schema="https://schema.org/">https://cuevasdelperu.org/wp-content/gallery/qaqa-machay/qaqamachay-2004.gif</schema:hasMap>
+      <cavexml:rock-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">limestone</cavexml:rock-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">permanent ice</cavexml:contents>
+      <dct:references rdf:resource="https://cuevasdelperu.org/lima-yauyos/qaqa-machay/ "/>
+      <dct:references>Mavlyudov (2018) doi:10.1016/B978-0-12-811739-2.00012-7</dct:references>
+      <dct:references rdf:resource="https://en.wikipedia.org/wiki/Qaqa_Mach'ay"/>
+      <dct:references rdf:resource="https://mapcarta.com/N6660112999"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Antarctica</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Mt. Erebus, Ross Island</schema:addressLocality>
       <rdfs:label>Warren Cave</rdfs:label>
@@ -6919,6 +6957,14 @@
       <dct:references rdf:resource="https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1442"/>
       <dct:references rdf:resource="https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1443"/>
       <dct:references rdf:resource="http://www.vulcanospeleology.org/1998.pdf"/>
+   </karstlink:UndergroundCavity>
+   <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
+      <schema:addressCountry xmlns:schema="https://schema.org/">Kenya</schema:addressCountry>
+      <rdfs:label>Lomechan cave</rdfs:label>
+      <karstlink:length> &gt;1805 </karstlink:length>
+      <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
+      <cavexml:contents xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">many bats</cavexml:contents>
+      <dct:references rdf:resource="https://www.hou.usra.edu/meetings/4thcaves2023/pdf/1060.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">United States of America</schema:addressCountry>
@@ -8100,7 +8146,7 @@
       <dct:references>D. Bunnell NSS News, Dec 1988 "The 1987 Na pali Coast Sea Caves Expedition"</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island</schema:addressLocality>
       <rdfs:label>Billemot Gul</rdfs:label>
@@ -10423,10 +10469,12 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Santa Cruz de Tenerife; Mazo</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Canary Islands; La Palma Island</schema:addressLocality>
       <rdfs:label>Cueva de la Fuente de La Canaria</rdfs:label>
+      <w3geo:latitude>28.59033</w3geo:latitude>
+      <w3geo:longitude>-17.80036</w3geo:longitude>
       <karstlink:length>237</karstlink:length>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
       <dct:references rdf:resource="https://mdc.ulpgc.es/utils/getfile/collection/vul/id/1/filename/2.pdf"/>
-      <dct:references>Gonzalez-Pimentel et al. (2021) doi:10.7717/peerj.11386</dct:references>
+      <dct:references>Gonzalez-Pimentel et al. (2022) doi:10.3389/fmicb.2022.907816</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
       <schema:addressCountry xmlns:schema="https://schema.org/">Mexico</schema:addressCountry>
@@ -10771,7 +10819,8 @@
       <gn:alternateName>Cueva de los Guanches</gn:alternateName>
       <w3geo:latitude>28.3769</w3geo:latitude>
       <w3geo:longitude>-16.7231</w3geo:longitude>
-      <w3geo:altitude>30-99</w3geo:altitude>
+      <w3geo:altitude>30 lower</w3geo:altitude>
+      <w3geo:altitude>99 upper</w3geo:altitude>
       <karstlink:length>2130</karstlink:length>
       <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">2</cavexml:number-of-entrances>
       <cavexml:cave-type xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">lava tunnel</cavexml:cave-type>
@@ -12931,7 +12980,7 @@
       <dct:references rdf:resource="http://www.alpental.com/grotto/1982-v021-n008-009.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island; Mt. Halla; Geomunereum</schema:addressLocality>
       <rdfs:label>Gim Nyeong</rdfs:label>
@@ -13363,7 +13412,8 @@
       <schema:addressLocality xmlns:schema="https://schema.org/">Sicily; Mt. Etna</schema:addressLocality>
       <rdfs:label>Grotta dei Tre Livelli</rdfs:label>
       <gn:alternateName>Galleriadei Pipistrelli</gn:alternateName>
-      <w3geo:altitude>1625-1675</w3geo:altitude>
+      <w3geo:altitude>1625 lower</w3geo:altitude>
+      <w3geo:altitude>1675 upper</w3geo:altitude>
       <karstlink:length>1150</karstlink:length>
       <karstlink:verticalExtent>304</karstlink:verticalExtent>
       <cavexml:number-of-entrances xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">2</cavexml:number-of-entrances>
@@ -13980,7 +14030,7 @@
       <dct:references rdf:resource="https://rgcps.asu.edu/LTdatabase/result.php?RECNO=851"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island</schema:addressLocality>
       <rdfs:label>Handeul-kunyeong</rdfs:label>
@@ -14472,7 +14522,7 @@
       <dct:references rdf:resource="https://rgcps.asu.edu/LTdatabase/result.php?RECNO=17"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island; Hyopje tube system; Hallim Park</schema:addressLocality>
       <rdfs:label>Hwang Geum Gul</rdfs:label>
@@ -14485,7 +14535,7 @@
       <dct:references rdf:resource="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500703"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island; Hyopje tube system; Hallim Park</schema:addressLocality>
       <rdfs:label>Hyeopjae Cave</rdfs:label>
@@ -14498,7 +14548,7 @@
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island; Hyopje tube system; Hallim Park</schema:addressLocality>
       <rdfs:label>Ssangyonggul</rdfs:label>
@@ -16835,7 +16885,7 @@
       <dct:references rdf:resource="https://rgcps.asu.edu/LTdatabase/result.php?RECNO=643"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island; Mt. Hanra; Geomunoreum</schema:addressLocality>
       <rdfs:label>Manjanggul</rdfs:label>
@@ -17197,7 +17247,7 @@
       <dct:references rdf:resource="https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1658"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island</schema:addressLocality>
       <rdfs:label>Michon Gul</rdfs:label>
@@ -19721,7 +19771,7 @@
       <cavexml:cave-use xmlns:cavexml="https://github.com/nschorgh/CaveXML/raw/master/cavexml.owl.ttl#">self-guided tourist cave</cavexml:cave-use>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <rdfs:label>Seong-gul</rdfs:label>
       <karstlink:length>900</karstlink:length>
@@ -20184,7 +20234,7 @@
       <dct:references rdf:resource="https://rgcps.asu.edu/LTdatabase/result.php?RECNO=551"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Hyopje tube system</schema:addressLocality>
@@ -20203,7 +20253,7 @@
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym03/ISV3x11.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island</schema:addressLocality>
       <rdfs:label>Susan Gul</rdfs:label>
@@ -22357,7 +22407,7 @@
       <dct:references rdf:resource="https://rgcps.asu.edu/LTdatabase/result.php?RECNO=1328"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island</schema:addressLocality>
       <rdfs:label>Wa Hol Gul</rdfs:label>
@@ -23135,7 +23185,7 @@
       <dct:references>Lundberg and McFarlane (2006) doi:10.1130/2006.2404(06)</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island; Geomunereum</schema:addressLocality>
       <rdfs:label>Dangcheomul Cave</rdfs:label>
@@ -23146,7 +23196,7 @@
       <dct:references>Woo et al. (2008) doi:10.1016/j.quaint.2007.05.009</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Korea, Republic of</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">South Korea</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju province</schema:addressLocality>
       <schema:addressLocality xmlns:schema="https://schema.org/">Jeju Island</schema:addressLocality>
       <rdfs:label>Yongcheon Cave</rdfs:label>
@@ -23858,7 +23908,7 @@
       <dct:references rdf:resource="https://en.wikipedia.org/wiki/Ka%CA%BBula"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Dak Sor</schema:addressLocality>
       <rdfs:label>C0</rdfs:label>
       <w3geo:latitude>12.52186</w3geo:latitude>
@@ -23871,7 +23921,7 @@
       <dct:references rdf:resource="http://www.cavepics.com/IVS17/HONDAIII.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Dak Sor</schema:addressLocality>
       <rdfs:label>C1, C2</rdfs:label>
       <karstlink:length>402</karstlink:length>
@@ -23881,7 +23931,7 @@
       <dct:references rdf:resource="http://www.vulcanospeleology.org/sym18/Proceedings/Honda_V.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Dak Sor</schema:addressLocality>
       <rdfs:label>C3</rdfs:label>
       <w3geo:latitude>12.51732</w3geo:latitude>
@@ -23893,7 +23943,7 @@
       <dct:references rdf:resource="http://www.cavepics.com/IVS17/HONDAIII.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Dak Sor</schema:addressLocality>
       <rdfs:label>C4</rdfs:label>
       <karstlink:length>252</karstlink:length>
@@ -23903,7 +23953,7 @@
       <dct:references rdf:resource="http://www.cavepics.com/IVS17/HONDAIII.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Dak Sor</schema:addressLocality>
       <rdfs:label>C6</rdfs:label>
       <karstlink:length>180</karstlink:length>
@@ -23913,7 +23963,7 @@
       <dct:references rdf:resource="http://www.cavepics.com/IVS17/HONDAIII.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Nam Da</schema:addressLocality>
       <rdfs:label>C6.1</rdfs:label>
       <karstlink:length>294</karstlink:length>
@@ -23923,7 +23973,7 @@
       <dct:references rdf:resource="http://www.cavepics.com/IVS17/HONDAIII.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Nam Da</schema:addressLocality>
       <rdfs:label>C7</rdfs:label>
       <w3geo:latitude>12.51423</w3geo:latitude>
@@ -23934,7 +23984,7 @@
       <dct:references>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Buon Choa'h</schema:addressLocality>
       <rdfs:label>C8</rdfs:label>
       <w3geo:latitude>12.48570</w3geo:latitude>
@@ -23946,7 +23996,7 @@
       <dct:references rdf:resource="http://www.cavepics.com/IVS17/HONDAIII.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Buon Choa'h</schema:addressLocality>
       <rdfs:label>C9</rdfs:label>
       <karstlink:length>217</karstlink:length>
@@ -23956,7 +24006,7 @@
       <dct:references rdf:resource="http://www.cavepics.com/IVS17/HONDAIII.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Buon Choa'h</schema:addressLocality>
       <rdfs:label>P1, P2</rdfs:label>
       <karstlink:length>531</karstlink:length>
@@ -23965,7 +24015,7 @@
       <dct:references>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Nam Da</schema:addressLocality>
       <rdfs:label>P8</rdfs:label>
       <karstlink:length>344</karstlink:length>
@@ -23974,7 +24024,7 @@
       <dct:references>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Buon Choa'h</schema:addressLocality>
       <rdfs:label>P11</rdfs:label>
       <karstlink:length>498</karstlink:length>
@@ -23983,7 +24033,7 @@
       <dct:references>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Nam Da</schema:addressLocality>
       <rdfs:label>P20</rdfs:label>
       <w3geo:latitude>12.49433</w3geo:latitude>
@@ -23994,7 +24044,7 @@
       <dct:references>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Buon Choa'h</schema:addressLocality>
       <rdfs:label>A1</rdfs:label>
       <karstlink:length>439</karstlink:length>
@@ -24004,7 +24054,7 @@
       <dct:references rdf:resource="http://www.cavepics.com/IVS17/HONDAIII.pdf"/>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Buon Choa'h</schema:addressLocality>
       <rdfs:label>P3</rdfs:label>
       <karstlink:length>81</karstlink:length>
@@ -24013,7 +24063,7 @@
       <dct:references>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Buon Choa'h</schema:addressLocality>
       <rdfs:label>P5 (PT07)</rdfs:label>
       <karstlink:length>204</karstlink:length>
@@ -24022,7 +24072,7 @@
       <dct:references>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Nam Da</schema:addressLocality>
       <rdfs:label>P10E, P10W</rdfs:label>
       <karstlink:length>160</karstlink:length>
@@ -24031,7 +24081,7 @@
       <dct:references>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Dak Dro</schema:addressLocality>
       <rdfs:label>PT06</rdfs:label>
       <karstlink:length>200</karstlink:length>
@@ -24040,7 +24090,7 @@
       <dct:references>Phuc et al. (2018) doi:10.15625/0866-7187/40/4/13101</dct:references>
    </karstlink:UndergroundCavity>
    <karstlink:UndergroundCavity xmlns:karstlink="https://ontology.uis-speleo.org/ontology/#">
-      <schema:addressCountry xmlns:schema="https://schema.org/">Viet Nam</schema:addressCountry>
+      <schema:addressCountry xmlns:schema="https://schema.org/">Vietnam</schema:addressCountry>
       <schema:addressLocality xmlns:schema="https://schema.org/">Đắk Nông; Buon Choa'h</schema:addressLocality>
       <rdfs:label>T1W</rdfs:label>
       <karstlink:length>303</karstlink:length>

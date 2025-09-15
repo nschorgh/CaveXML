@@ -298,8 +298,9 @@
       <xs:element name = "cave-id" minOccurs="0" maxOccurs="unbounded" default="XXX-1234/5">  
 	<xs:simpleType>
 	  <xs:restriction base='xs:token'>
-	    <xs:pattern value="[!-~]*"/>
-	    <!-- Allows characters with ASCII codes from 33 to 126, which excludes whitespaces 
+	    <xs:pattern value="[(-Z]*"/>
+	    <!-- Allows characters with ASCII codes from 40 to 90, which includes
+		 numbers, captial letters, and a few symbol, such as dash and slash
 		 Examples of matching patterns: HSS-9876, 1234/5 -->
 	  </xs:restriction>
 	</xs:simpleType>

@@ -97,26 +97,26 @@ Similar to UISIC field [CA227](http://www.uisic.uis-speleo.org/exchange/atendefn
 
 <span style="color: red"> **<entrance\>** *complexType*  </span>
 
-> <span style="color: red">**<entrance-id\>**  *ASCII string*   
-> Entrance identification number, if available. This could be a cadastral number, e.g. 1234/5. The [entrance-id] has the same format requirements as the [cave-id]. It is restricted to a subset of ASCII characters that includes numbers, capital letters, and the symbols ()*+,-./:;<=>?@. It does not include small letters or any other symbols.  </span>
+&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: red">**<entrance-id\>**  *ASCII string*   
+&nbsp;&nbsp;&nbsp;&nbsp; Entrance identification number, if available. This could be a cadastral number, e.g. 1234/5. The [entrance-id] has the same format requirements as the [cave-id]. It is restricted to a subset of ASCII characters that includes numbers, capital letters, and the symbols ()*+,-./:;<=>?@. It does not include small letters or any other symbols.  </span>
 
-> **<latitude\>**  *-90 ≤ decimal ≤ +90, maxOccurs=1*  
-> The N-S latitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if north of the equator, negative if south of the equator. Expressed as a decimal number, rather than as degrees, minutes, and seconds. If [latitude] is given, [longitude] must also be provided. Trailing zeros are significant and imply a coordinate is exact rather than rounded.   
-> UISIC fields [CA245](http://www.uisic.uis-speleo.org/exchange/atendefn.html#245) (exact) or [CA21](http://www.uisic.uis-speleo.org/exchange/atendefn.html#21) (coarse).
+&nbsp;&nbsp;&nbsp;&nbsp; **<latitude\>**  *-90 ≤ decimal ≤ +90, maxOccurs=1*  
+&nbsp;&nbsp;&nbsp;&nbsp; The N-S latitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if north of the equator, negative if south of the equator. Expressed as a decimal number, rather than as degrees, minutes, and seconds. If [latitude] is given, [longitude] must also be provided. Trailing zeros are significant and imply a coordinate is exact rather than rounded.   
+&nbsp;&nbsp;&nbsp;&nbsp; UISIC fields [CA245](http://www.uisic.uis-speleo.org/exchange/atendefn.html#245) (exact) or [CA21](http://www.uisic.uis-speleo.org/exchange/atendefn.html#21) (coarse).
 KarstLink property 'latitude'.
 
-> **<longitude\>**  *-180 ≤ decimal ≤ +180, maxOccurs=1*  
+&nbsp;&nbsp;&nbsp;&nbsp; **<longitude\>**  *-180 ≤ decimal ≤ +180, maxOccurs=1*  
 The E-W longitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if east of Greenwich, or negative if west of Greenwich. Expressed as a decimal number, rather than as degrees, minutes, and seconds. If [longitude] is given, [latitude] must also be provided. Trailing zeros are significant and imply a coordinate is exact rather than rounded. For extraterrestrial caves, the longitude must also be within -180&deg; and +180&deg;, even if it is conventional to use the range 0&deg; to 360&deg; instead.    
 UISIC fields [CA246](http://www.uisic.uis-speleo.org/exchange/atendefn.html#246) (exact) or [CA22](http://www.uisic.uis-speleo.org/exchange/atendefn.html#22) (coarse).
 KarstLink property 'longitude'.
 
-> **<altitude\>**  *(special string)*  <span style="color: red">*maxOccurs=1*</span>  
-> Altitude of cave entrance in meters above sea level (or above zero datum), followed by an optional comment. The altitude must be rounded to the nearest integer. Examples: \~2500 main entrance or 2227 lower entrance. And altitude can be preceded by > or ~. The number can also be followed by a "+" symbol to indicate "or higher". Negative altitudes can also be entered and are appropriate for underwater and extraterrestrial caves. They can optionally be preceded with '\~'.  
+&nbsp;&nbsp;&nbsp;&nbsp; **<altitude\>**  *(special string)*  <span style="color: red">*maxOccurs=1*</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; Altitude of cave entrance in meters above sea level (or above zero datum), followed by an optional comment. The altitude must be rounded to the nearest integer. Examples: \~2500 main entrance or 2227 lower entrance. And altitude can be preceded by > or ~. The number can also be followed by a "+" symbol to indicate "or higher". Negative altitudes can also be entered and are appropriate for underwater and extraterrestrial caves. They can optionally be preceded with '\~'.  
 Similar to UISIC fields [CA442](http://www.uisic.uis-speleo.org/exchange/atendefn.html#442) (altitude) and [CA670](http://www.uisic.uis-speleo.org/exchange/atendefn.html#670) (altitude-comment) combined. Similar to KarstLink property 'altitude'.  
 <span style="color: red">Note: altitude ranges are no longer allowed</span>
 
-> <span style="color: red"> **<entrance-type\>**  </span> *controlled vocabulary*  
-> TBD  
+&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: red"> **<entrance-type\>**  </span> *controlled vocabulary*  
+&nbsp;&nbsp;&nbsp;&nbsp; TBD  
 
 **<length\>**  *ExtendedUnsignedInteger, maxOccurs=1*  
 The aggregate length of the cave passages in meters, usually obtained by summing the lengths of all surveyed distances. Length differs from horizontal extent. The length must be rounded to the nearest integer. The unit must be meters, not kilometers or feet. Symbols ~ and > are allowed in front of the number. Symbol + is allowed after the number.   

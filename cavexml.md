@@ -29,11 +29,11 @@ Country name where the cave entrance is located. This should be the name of the 
 For extraterrestrial caves, this element specifies the planetary body where the cave is located. Allowed terms are "Moon", which refers to Earth's moon, "Mars", and a few more. An empty or missing entry implies the cave is located on planet Earth.  
 
 **\<state-or-province\>**  *string*  
-State or province where the cave entrance is located. This can also be a county or district. [state-or-province] is intended for politically or organizationally defined areas below country level. For geologically or physically defined units, use [phys-area-name] instead. If more than one region is entered, it is recommended that they be ordered from large to small, e.g. first 'California' then 'Modoc county'.      
+State or province where the cave entrance is located. This can also be a county or district. [state-or-province] is intended for politically or organizationally defined areas below country level. For geologically or physically defined units, use [phys-area-name] instead.  
 Generalization of UISIC field [SY287](http://www.uisic.uis-speleo.org/exchange/atendefn.html#287)
 
 **\<phys-area-name\>**  *string*  
-Name of mountain, volcano, mountain range, island, massif, geologic unit, or another physically-defined unit. Example: Pyrenees. For politically-defined regions use [state-or-province] instead. Parks also belong in this field. If more than one region is entered, it is recommended that they be ordered from large to small, e.g. first 'Canary Islands' then 'Mount Teide'.
+Name of mountain, volcano, mountain range, island, massif, geologic unit, or another physically-defined unit. Example: Pyrenees. For politically-defined regions use [state-or-province] instead. Parks also belong in the field [phys-area-name].
 
 **\<principal-cave-name\>**  *string, maxOccurs=1*    
 The current formal agreed name for a cave or karst feature, expressed in the local language. The character set is UTF-8, so characters from many languages can be used.    
@@ -44,9 +44,9 @@ Similar to KarstLink property 'label'.
 Further names which a cave or karst feature has or has had beyond its current name as given in [principal-cave-name].    
 Similar to UISIC field [CA69](http://www.uisic.uis-speleo.org/exchange/atendefn.html#69) and KarstLink property 'alternate name'.
 
-**\<cave-id\>**  *(special string)*  
+**\<cave-id\>**  *ASCII string*  
 National cave identification number: Unique cave identifier, such as an optional 3-letter organization code + cave registry number, e.g. HSS-234/7, where HSS stands for Hawaii Speleological Survey. For small countries, this might just be the national cave identification number or cadastral number, e.g. 1234/5. The [cave-id] is restricted to a subset ASCII characters that includes numbers, capital letters, and the symbols ()*+,-./:;<=>?@. It does not include small letters or any other symbols.  
-Similar to UISIC field [CA227](http://www.uisic.uis-speleo.org/exchange/atendefn.html#227) and to the "international cave number". A record is allowed to have more than one [cave-id]. Different caves within the same country ideally have different [cave-id]s, but this is not required by the CaveXML standard.  
+Similar to UISIC field [CA227](http://www.uisic.uis-speleo.org/exchange/atendefn.html#227) and to the "international cave number". A record is allowed to have more than one [cave-id]. No two caves within the same country should have the same [cave-id], but this is not required by the CaveXML standard.  
 
 **\<latitude\>**  *-90 ≤ decimal ≤ +90, maxOccurs=1*  
 The N-S latitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if north of the equator, negative if south of the equator. Expressed as a decimal number, rather than as degrees, minutes, and seconds. If [latitude] is given, [longitude] must also be provided. Trailing zeros are significant and imply a coordinate is exact rather than rounded.   
@@ -186,13 +186,13 @@ Further Discussion
 
 **Design Principles**  
 
-CaveXML is designed to provide convenience for data entry, while also being strict and logical enough to allow for a great deal of automated data processing. Here are a few examples:
-- A number can be entered as "~500" to mean "approximately 500" or "10+" to mean "10 or more", but only a few specific symbols are allowed in front and after the number to ensure every entry can be successfully parsed and understood.
-- Records for caves that are connected with one another can be linked automatically.
-- For references to the published literature, a doi (digital object identifier) suffices to automatically generate a hyperlink. Even the bibliographic information can be automatically sourced based purely on the doi.
-- CaveXML records do not have a catalog number. Unique record identifiers can be generated automatically, when needed.
+CaveXML is designed to provide convenience for data entry, while also being strict and logical enough to allow for a great deal of automated data processing. Here are a few examples:  
+- A number can be entered as "~500" to mean "approximately 500" or "10+" to mean "10 or more", but only a few specific symbols are allowed in front and after the number to ensure every entry can be successfully parsed and understood.  
+- Records for caves that are connected with one another can be linked automatically.  
+- For references to the published literature, a doi (digital object identifier) suffices to automatically generate a hyperlink. Even the bibliographic information can be automatically sourced based purely on the doi.  
+- CaveXML records do not have a catalog number. Unique record identifiers can be generated automatically, when needed.  
 
-There is a profound and mutual relation between the data exchange standard and its implementation: *All of the requirements of the data exchange standard can be implemented with an XML schema definition.* More specifically, the requirements can be verified within version 1.0 of XML schema definitions, and do not require the extended capabilities of version 1.1.
+There is a profound and mutual relation between the data exchange standard and its implementation: *All of the requirements of the CaveXML data exchange standard can be implemented with an XML schema definition.* More specifically, the requirements can be verified within version 1.0 of XML schema definitions, and do not require the extended capabilities of version 1.1.
 For example, if the [cave-id] were required to be unique among records, this could not be verified with an XML schema, because it would require cross-comparisons between records.
 This design choice, that the CaveXML data exchange standard can be fully verified with an XML schema definition, has two practical consequences.
 First, verifying that a database is consistent with the CaveXML exchange standard requires nothing beyond an XML validation. No additional software or validation step are necessary.
@@ -202,22 +202,20 @@ This design choice leads to simplicity and rigor. It also protects the interchan
 
 **Unique record identifier**
 
-CaveXML entries do not include a catalog number that would uniquely identify a record. This is intentional. There is no fundamental reason data records would require catalog numbers, something that is not a physical property of the cave.   
+CaveXML entries do not include a catalog number that would uniquely identify a record. This is intentional. Catalog numbers are not a physical property of the cave and there is no fundamental reason to use them.  
 
 A unique record identifier can be generated in form of a hash code based on the totality of entries in the record. The hash function is a deterministic procedure that turns an input of arbitrary length into an output of fixed length. For example, the MD5 hash generates a 32-character hexadecimal code, and the probability that the same MD5 hash is produced from different inputs is essentially zero. The same record always results in the same hash. When the record is edited, the hash code changes.
 Practically, the hash code could be generated based on a limited number of entries, such as [state-or-province], [phys-area-name], and cave names (principal and other). The strings are merged into a single long string that serves as input for a hash code generator. Two caves in close vicinity of each other should not have the same name, so they ought to differ in one of those fields. And if location information is omitted from the record and the cave name is not unique, the ambiguity is fundamental.
 Hence, unique record identifiers can be generated automatically from CaveXML data records. They are not permanent, because they change with even minor edits.   
 
-Another approach to generating unique record identifiers would have been to use the country name (or its ISO letter abbreviation) plus the national cave id, if available. Cave ids, such as cave numbers or cadastral numbers, are usually unique for each cave. A record may have more than one cave-id and, in principle, could even have more than one [country-name], but as long as a national cave id is available and unique to the cave, it could be used as unique record identifier. There is one infrequent situation that introduces a serious flaw to this approach, namely that sometimes a cave system inherits its id number from one of its branches, namely when the system of assigning identification numbers is based on entrances. For example, Eisrohrhöhle and the Eisrohrhöhle-Bammelschacht-System both have the cadastral number 1337/118. This introduces fundamental ambiguities, which should be resolved at a level beyond the CaveXML interchange format definitions. An international cave identification number is needed that identifies every cave in the world uniquely.  
-
-To recap, for CaveXML data the [cave-id] field is not required to be unique. An XML-validator considers the content of one record at a time and does not perform cross-comparisons to find out whether a [cave-id] entry is also used in another record. This way the interchange standard is limited to what can be implemented in an XML schema definition, a technically elegant solution, because nothing else but a single XML validation is necessary to verify that a database follows the standard completely.  
+Another approach to generating unique record identifiers would have been to use the country name (or its ISO letter abbreviation) plus the national cave id, if available. Cave ids, such as cave numbers or cadastral numbers, are usually unique for each cave. A record may have more than one cave-id and, in principle, could even have more than one [country-name], but as long as a national cave id is available and unique to the cave, it could be used as unique record identifier. There is one infrequent situation that introduces a serious flaw to this approach, namely that sometimes a cave system inherits its id number from one of its branches, namely when the system of assigning identification numbers is based on entrances. For example, Eisrohrhöhle and the Eisrohrhöhle-Bammelschacht-System both have the cadastral number 1337/118. This introduces fundamental ambiguities, which should be resolved at a level beyond the CaveXML interchange format definitions.  
 
 
 **Automated cross-linking between cave systems and their branches**
 
 When a cave system consists of several branches that have their own record in the database, they can be cross-linked. The elements [cave-system] and [branch-name] point to a [principal-cave-name], but cave names might not be unique, even within the same country, so a more sophisticated approach is needed to unambiguously cross-link a cave system with its branches.  When [cave-system] points to a [principal-cave-name], that record should include a [branch-name] that points back to the [principal-cave-name] of the referring record. This two-way reference guarantees that correct cross links have been established.  
 
-CaveXML allows [cave-system] and [branch-name] to both be present simultaneously in the same record, and hence a hierarchy of levels is possible. However, since at most one [cave-system] entry is allowed in a record, it can only refer to the next-highest level in the hierarchy. Multiple [branch-name] entries are allowed, so a reference could be made to a branch that is more than one hierarchical level below, but that entry cannot be back-linked, so listing second-order branches in a single record would be of limited usefulness. In the terminology of data structures, cave systems are organized as trees, not as graphs. Organizing cave branches as trees rather than as undirected graphs is a natural choice, because the XML data model itself corresponds to hierarchical trees. Records of branches function as nested XML records would.   
+CaveXML allows [cave-system] and [branch-name] to both be present simultaneously in the same record, and hence a hierarchy of levels is possible. However, since at most one [cave-system] entry is allowed in a record, it can only refer to the next-highest level in the hierarchy. Multiple [branch-name] entries are allowed, so a reference could be made to a branch that is more than one hierarchical level below, but that entry cannot be back-linked, so listing second-order branches in a single record would be of limited usefulness. In the terminology of data structures, cave systems are organized as trees, not as graphs. Organizing cave branches as trees rather than as undirected graphs is a natural choice, because the XML data model itself corresponds to hierarchical trees.   
 
 
 **Character string normalization in support of search queries (approximate matching)**

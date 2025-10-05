@@ -45,9 +45,9 @@ Instead of `<branch-name>` whole `<cave>` records can be entered and that recurs
 
 `<record>` has changed to `<cave>`.
 
-Finally, elements can now be placed in any order.
+<!-- Finally, elements can now be placed in any order. -->
 
-CaveXML 0.2 is not backwards compatible with 0.1. For example, there can be no longitude or latitude entries outside of the `<entrance>` element.   
+CaveXML 0.2 is not backwards compatible. For example, there can be no longitude or latitude entries outside of the `<entrance>` element.   
 
 
 CaveXML 0.2 Definitions
@@ -91,13 +91,13 @@ Further names which a cave or karst feature has or has had beyond its current na
 Similar to UISIC field [CA69](http://www.uisic.uis-speleo.org/exchange/atendefn.html#69) and KarstLink property 'alternate name'.
 
 **<cave-id\>**  *ASCII string*  
-National cave identification number: Unique cave identifier, such as an optional 3-letter organization code + cave registry number, e.g. HSS-234/7, where HSS stands for Hawaii Speleological Survey. For small countries, this might just be the national cave identification number or cadastral number, e.g. 1234/5. The [cave-id] is restricted to a subset ASCII characters that includes numbers, capital letters, and the symbols ()*+,-./:;<=>?@. It does not include small letters or any other symbols.  
+National cave identification number: Unique cave identifier, such as an optional 3-letter organization code + cave registry number, e.g. HSS-234/7, where HSS stands for Hawaii Speleological Survey. For small countries, this might just be the national cave identification number or cadastral number, e.g. 1234/5. The [cave-id] is restricted to a subset ASCII characters that includes numbers, capital letters, and the symbols +,-. and /. It does not include small letters or any other symbols.  
 Similar to UISIC field [CA227](http://www.uisic.uis-speleo.org/exchange/atendefn.html#227) and to the "international cave number". A record is allowed to have more than one [cave-id]. No two caves within the same country should have the same [cave-id], but this is not required by the CaveXML standard.  
 
 <span style="color: red"> **<entrance\>** *complexType*  </span>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: red">**<entrance-id\>**  *ASCII string*   
-&nbsp;&nbsp;&nbsp;&nbsp; Entrance identification number, if available. This could be a cadastral number, e.g. 1234/5. The [entrance-id] has the same format requirements as the [cave-id]. It is restricted to a subset of ASCII characters that includes numbers, capital letters, and the symbols ()*+,-./:;<=>?@. It does not include small letters or any other symbols.  </span>
+&nbsp;&nbsp;&nbsp;&nbsp; Entrance identification number, if available. This could be a cadastral number, e.g. 1234/5. The [entrance-id] has the same format requirements as the [cave-id]. It is restricted to a subset of ASCII characters that includes numbers, capital letters, and the symbols +,-. and /. It does not include small letters or any other symbols.  </span>
 
 &nbsp;&nbsp;&nbsp;&nbsp; **<latitude\>**  *-90 ≤ decimal ≤ +90, maxOccurs=1*  
 &nbsp;&nbsp;&nbsp;&nbsp; The N-S latitude of the cave entrance or karst feature, expressed as +/- degrees and decimal degrees. Positive if north of the equator, negative if south of the equator. Expressed as a decimal number, rather than as degrees, minutes, and seconds. If [latitude] is given, [longitude] must also be provided. Trailing zeros are significant and imply a coordinate is exact rather than rounded.   
@@ -175,34 +175,33 @@ Comments about the curation of database entries. This is a free-form entry, but 
 
 Table 1: Data types for each CaveXML element. Default attributes are *minOccurs=0* and *maxOccurs=unbounded*. The third column shows restrictions on the element or on its value. The last column contains examples of valid entries.  
 
-| Element               | XML data type | Restrictions | Example |  
-|:----------------------|:-------------:|:------------:|:--------|  
-|\<country-name\> | token with restriction | pre-defined list of strings | Austria |  
-|\<state-or-province\> | string | - | California |  
-|\<phys-area-name\> | string | - | Pyrenees |
-|\<principal-cave-name\>| string | maxOccurs=1 | Kolowrathöhle |  
-|\<other-cave-name\> | string | - | M-340 |
-|\<cave-id\> | token with restriction | RegEx pattern, ASCII | HSS-1547/9 |
-|\<entrance\> | complexType | - | -  |
-|\<entrance-id\> | token with restriction | RegEx pattern, ASCII | 1511/24 |
-|\<latitude\> | decimal with restriction | range -90...+90, maxOccurs=1 | 47.72792 |
-|\<longitude\> | decimal with restriction | range -180...+180, maxOccurs=1 | 13.00858 |
-|\<altitude\> | token with restriction | RegEx pattern, maxOccurs=1 | \~1500 main entrance |
-|\<entrance-type\> | token with restriction | pre-defined list of strings |   |
-|\<length\> | ExtendedUnsignedInteger | maxOccurs=1 | \>5000 |
-|\<vertical-extent\> | ExtendedUnsignedInteger | maxOccurs=1 | 240 |
-|\<number-of-entrances\>| ExtendedUnsignedInteger | maxOccurs=1 | 7+ |
-|\<map-link\> | anyURI | - | http://www.mexicancaves.org/maps/1944.pdf |
-|\<rock-type\> | token with restriction | pre-defined list of strings | limestone |
-|\<cave-type\> | token with restriction | pre-defined list of strings | glacier cave |
-|\<contents\> | token with restriction | pre-defined list of strings | waterfall(s) |
-|\<comments\> | string | - | Mauna Loa flow of 1855 |
-|\<cave\> | complexType  | - | - | 
-|\<reference\> | string | - | Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2 |
-|\<cave-use\> | token with restriction | pre-defined list of strings | guided tourist cave |
-|\<curation\> | string | - | updated length based on Smith et al. (2020) |
-
-
-
+|Level| Element               | XML data type | Restrictions | Example |
+|:--:|:----------------------|:-------------:|:------------:|:--------|
+| 0 | <CaveDataBase\> | complexType | - | - |
+| 1 | <cave\> | complexType | - | - |
+| 2 | <country-name\> | token with restriction | pre-defined list of strings | Austria |
+| 2 | <state-or-province\> | string | - | California |
+| 2 | <phys-area-name\> | string | - | Pyrenees |
+| 2 | <principal-cave-name\>| string | maxOccurs=1 | Kolowrathöhle |
+| 2 | <other-cave-name\> | string | - | M-340 |
+| 2 | <cave-id\> | token with restriction | RegEx pattern, ASCII | HSS-1547/9 |
+| 2 | <entrance\> | complexType | - | -  |
+| 3 | <entrance-id\> | token with restriction | RegEx pattern, ASCII | 1511/24 |
+| 3 | <latitude\> | decimal with restriction | range -90...+90, maxOccurs=1 | 47.72792 |
+| 3 | <longitude\> | decimal with restriction | range -180...+180, maxOccurs=1 | 13.00858 |
+| 3 | <altitude\> | token with restriction | RegEx pattern, maxOccurs=1 | \~1500 main entrance |
+| 3 | <entrance-type\> | token with restriction | pre-defined list of strings |   |
+| 2 | <length\> | ExtendedUnsignedInteger | maxOccurs=1 | \>5000 |
+| 2 | <vertical-extent\> | ExtendedUnsignedInteger | maxOccurs=1 | 240 |
+| 2 | <number-of-entrances\>| ExtendedUnsignedInteger | maxOccurs=1 | 7+ |
+| 2 | <map-link\> | anyURI | - | http://www.mexicancaves.org/maps/1944.pdf |
+| 2 | <rock-type\> | token with restriction | pre-defined list of strings | limestone |
+| 2 | <cave-type\> | token with restriction | pre-defined list of strings | glacier cave |
+| 2 | <contents\> | token with restriction | pre-defined list of strings | waterfall(s) |
+| 2 | <comments\> | string | - | Mauna Loa flow of 1855 |
+| 2 | <cave\> | complexType  | - | - |
+| 2 | <reference\> | string | - | Yonge et al. (2018) doi:10.1016/B978-0-12-811739-2.00015-2 |
+| 2 | <cave-use\> | token with restriction | pre-defined list of strings | guided tourist cave |
+| 2 | <curation\> | string | - | updated length based on Smith et al. (2020) |
 
 

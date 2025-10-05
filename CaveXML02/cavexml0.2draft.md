@@ -69,7 +69,6 @@ A CaveXML database has the following structure:
         </CaveDataBase>
 
 Elements within a cave record are defined as follows:  
-<span style="color: red"> (Red indicates changes to the previous CaveXML version) </span>  
 
 **<country-name\>**  *controlled vocabulary*  
 Country name where the cave entrance is located. This should be the name of the country spelled according to the GeoNames ontology, which for most instances is identical to the country name according to the ISO 3166 standard. (The precise list is found in the CaveXML Schema Definition `cavexml.xsd`). Similar to UISIC field [SY285](http://www.uisic.uis-speleo.org/exchange/atendefn.html#285)  
@@ -115,8 +114,10 @@ KarstLink property 'longitude'.
 Similar to UISIC fields [CA442](http://www.uisic.uis-speleo.org/exchange/atendefn.html#442) (altitude) and [CA670](http://www.uisic.uis-speleo.org/exchange/atendefn.html#670) (altitude-comment) combined. Similar to KarstLink property 'altitude'.  
 <span style="color: red">Note: altitude ranges are no longer allowed</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: red"> **<entrance-type\>**  </span> *controlled vocabulary*  
-&nbsp;&nbsp;&nbsp;&nbsp; TBD  
+&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: red"> **<entrance-type\>**  *controlled vocabulary*  
+&nbsp;&nbsp;&nbsp;&nbsp; List of options: TBD  
+&nbsp;&nbsp;&nbsp;&nbsp; Similar to UISIC field [CA10](http://www.uisic.uis-speleo.org/exchange/atendefn.html#10).
+</span>
 
 **<length\>**  *ExtendedUnsignedInteger, maxOccurs=1*  
 The aggregate length of the cave passages in meters, usually obtained by summing the lengths of all surveyed distances. Length differs from horizontal extent. The length must be rounded to the nearest integer. The unit must be meters, not kilometers or feet. Symbols ~ and > are allowed in front of the number. Symbol + is allowed after the number.   

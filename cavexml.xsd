@@ -300,14 +300,13 @@
 	  <xs:restriction base='xs:token'>
 	    <xs:pattern value="[(-Z]*"/>
 	    <!-- Allows characters with ASCII codes from 40 to 90, which includes
-		 numbers, captial letters, and a few symbol, such as dash and slash
+		 numbers, capital letters, and a few symbols.
 		 Examples of matching patterns: HSS-9876, 1234/5 -->
 	  </xs:restriction>
 	</xs:simpleType>
       </xs:element>
       
-      <xs:sequence minOccurs="0" maxOccurs="1">  <!-- coordinates (both or none) -->
-	<xs:element name = "latitude" default="0">
+	<xs:element name = "latitude" minOccurs="0" maxOccurs="1" default="0">
 	  <!-- default value makes empty entries valid -->
 	  <xs:simpleType>
   	    <xs:restriction base="xs:decimal">
@@ -317,7 +316,7 @@
 	  </xs:simpleType>
 	</xs:element>
       
-	<xs:element name = "longitude" default="0">
+	<xs:element name = "longitude" minOccurs="0" maxOccurs="1" default="0">
 	  <!-- default value makes empty entries valid -->
 	  <xs:simpleType>
   	    <xs:restriction base="xs:decimal">
@@ -326,9 +325,8 @@
 	    </xs:restriction>
 	  </xs:simpleType>
 	</xs:element>
-      </xs:sequence>
 
-      <xs:element name = "altitude" minOccurs="0" maxOccurs="unbounded" default="~0">  
+	<xs:element name = "altitude" minOccurs="0" maxOccurs="unbounded" default="~0">  
 	<xs:simpleType>
 	  <xs:restriction base='xs:token'>
 	    <xs:pattern value="[~&#62;]?[0-9]{1,5}[+]?[ ,()\w]*"/> 

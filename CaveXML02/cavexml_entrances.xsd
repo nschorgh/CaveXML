@@ -8,9 +8,11 @@
   <!-- declare special data type -->
   <xs:simpleType name="ExtendedUnsignedInteger">
     <xs:restriction base='xs:token'>
-      <xs:pattern value="[~&#62;]?[0-9]+[+]?"/>
+      <xs:pattern value="[0-9]*"/>   <!-- number or blank -->
+      <xs:pattern value="[~&#62;]?[0-9]+"/>  <!-- one of two symbols and at least one digit -->
+      <xs:pattern value="~?[0-9]+\+?"/>       <!-- tilde, at least one digit, and + -->
       <!-- Examples of matching patterns: 1234, ~1500, >27, 3500+
-	   Examples of non-matching patterns: 123.4, >~2000, 100-200
+	   Examples of non-matching patterns: 123.4, >~2000, 100-200, >5+
       -->
     </xs:restriction>
   </xs:simpleType>
@@ -338,13 +340,16 @@
 	    </xs:simpleType>
 	  </xs:element>
 	  
-	  <xs:element name = "altitude" minOccurs="0" maxOccurs="1" default="~0">  
+	  <xs:element name = "altitude" minOccurs="0" maxOccurs="1">  
 	    <xs:simpleType>
 	      <xs:restriction base='xs:token'>
-		<xs:pattern value="[~&#62;]?[0-9]{1,5}[+]?[ ,()\w]*"/> 
-		<xs:pattern value="~?-?[0-9]{1,5}[ ,()\w]*"/>
-		<!-- matches ExtendedUnsignedInteger plus optional comment OR
-		     negative or positive integer plus optional comment.
+		<xs:pattern value="[0-9]{0,5}[ ,()\w]*"/>   
+		<xs:pattern value="[~&#62;]?[0-9]{1,5}[+]?[ ,()\w]*"/>
+		<xs:pattern value="~?-?[0-9]{1,5}[ ,()\w]*"/> 
+		<!-- matches blank or number plus optional comment OR
+		     imperfect ExtendedUnsignedInteger plus optional comment OR
+		     tilde and/or negative symbol, integer, and optional comment OR
+		     range of positive integers.
 		     Examples of matching patterns: 4258, ~300 main entrance, -500
 		-->
 	      </xs:restriction>
@@ -365,11 +370,11 @@
       </xs:element>
       
       <xs:element name = "length"              type = "ExtendedUnsignedInteger"
-		  minOccurs="0" maxOccurs="1" default="~0"/>
+		  minOccurs="0" maxOccurs="1" />
       <xs:element name = "vertical-extent"     type = "ExtendedUnsignedInteger"
-		  minOccurs="0" maxOccurs="1" default="~0"/>
+		  minOccurs="0" maxOccurs="1" />
       <xs:element name = "number-of-entrances" type = "ExtendedUnsignedInteger"
-		  minOccurs="0" maxOccurs="1" default="1"/>
+		  minOccurs="0" maxOccurs="1" />
       <xs:element name = "map-link" type = "xs:anyURI" minOccurs="0" maxOccurs="unbounded"/>
       
       <xs:element name = "rock-type" minOccurs="0" maxOccurs="unbounded">
